@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "Democrats"
   ],
@@ -26,6 +26,11 @@
     {
       "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
       "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "summary": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.",
       "date": "2026-07-25"
     },
     {
@@ -57,14 +62,15 @@
       "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
       "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
-      "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T10:00:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
       "url": "https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com",
@@ -90,5 +96,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

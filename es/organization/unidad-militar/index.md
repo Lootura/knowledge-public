@@ -64,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:00.000Z
+No public source links.

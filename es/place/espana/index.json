@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,23 +17,8 @@
   ],
   "changes": [
     {
-      "title": "Digi busca ganar tracción tras su gris salida a Bolsa",
-      "summary": "El toque de campana marca el momento en que una compañía empieza a cotizar, pero una salida a Bolsa es un proceso complejo. Hace solo unos días, el 16 de julio, Digi Spain se estrenó en el parqué madrileño , un movimiento estratégico para la operadora de telecomunicaciones que cumple 18 años en el mercado español. Por.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Las claves para evitar que el crédito privado estalle en el bolsillo del pequeño inversor",
-      "summary": "Muchos daños de la Gran Crisis Financiera todavía se recuerdan. El hundimiento de las Bolsas, el descalabro de los precios de la vivienda, el desempleo galopante que disparó la tasa de paro en España hasta el 27% , la dificultad de algunos países para financiarse... Algunos expertos apuntan a esa aciaga etapa y señalan.",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años",
       "summary": "En las últimas dos semanas la curva de hectáreas quemadas en España ha dado un salto brusco. No lo han provocado incendios repartidos por toda la península, sino fuegos que se han expandido muy rápido y se han concentrado en zonas muy concretas. Seguir leyendo Metodología Los datos . El análisis se limita a los grandes.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara",
-      "summary": "España sigue ardiendo. La situación compleja que atraviesa el país por la gran intensidad de los incendios forestales ha hecho que el ministerio del Interior haya declarado la emergencia de interés nacional en la Comunidad de Madrid y en Ávila . Es precisamente en ambas regiones donde se vive la situación más complicad.",
       "date": "2026-07-25"
     },
     {
@@ -42,18 +27,8 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Guía práctica: cómo acceder a la máxima ayuda del Plan Auto + para coches electrificados",
-      "summary": "El Ministerio de Industria ha definido las claves operativas del nuevo Programa Auto+, la línea de incentivos estatales orientada a la adquisición de vehículos eléctricos e híbridos enchufables en España. Enmarcado dentro del Plan Auto 2030, el proyecto cuenta con una asignación presupuestaria de 400 millones de euros.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "summary": "La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
-      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.",
+      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.",
       "date": "2026-07-25"
     },
     {
@@ -65,44 +40,45 @@
       "title": "Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez",
       "summary": "El operativo contra el incendio que afecta al suroeste de la Comunidad de Madrid continúa desplegado con un amplio dispositivo de medios terrestres y aéreos. Tras una jornada especialmente complicada, los equipos de extinción centran ahora sus esfuerzos en consolidar el perímetro, proteger los núcleos urbanos y evitar.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "Consulta cómo avanza el fuego y el mapa de riesgo",
+      "summary": "Código Desktop Incendios en España .apertura-incendios { width: 100%; margin: 20px auto 28px; padding: 0 20px; box-sizing: border-box; } .apertura-incendios__grafico { width: 100%; max-width: 200px; margin: 0 auto; } .apertura-incendios__svg { display: block; width: 100%; height: auto; overflow: visible; } .apertura-in.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Los incendios que asolan España, en imágenes",
+      "summary": "Madrid y Ávila concentran los principales focos.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
+      "summary": "El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "No es una plaga, pero está generando graves problemas: los expertos alertan por la expansión en España de este animal",
+      "summary": "La llegada y expansión de ciertas especies de animales puede alterar sin avisar el equilibrio natural de un territorio. En la Península Ibérica, un pequeño animal carnívoro está generando inquietud con su presencia entre expertos y responsables de conservación. Su capacidad de adaptación y el impacto sobre la fauna aut.",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara",
-      "url": "https://www.20minutos.es/nacional/mapa-incendios-espana-tiempo-real-consulta-focos-activos-fuegos-tiempo-real_7013152_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T08:46:04.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Consulta cómo avanza el fuego y el mapa de riesgo",
+      "url": "https://www.abc.es/sociedad/mapa-incendios-dia-dia-hectareas-arrasadas-20260714000641-ntrc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:20:10.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:43:04.000Z",
+      "publishedAt": "2026-07-25T13:02:22.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Guía práctica: cómo acceder a la máxima ayuda del Plan Auto + para coches electrificados",
-      "url": "https://www.abc.es/motor/economia/guia-practica-acceder-maxima-ayuda-pan-auto-20260724104201-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T07:31:51.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "url": "https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T07:30:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Digi busca ganar tracción tras su gris salida a Bolsa",
-      "url": "https://elpais.com/economia/negocios/2026-07-25/digi-busca-ganar-traccion-tras-su-salida-a-bolsa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Las claves para evitar que el crédito privado estalle en el bolsillo del pequeño inversor",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-25/las-claves-para-evitar-que-el-credito-privado-estalle-en-el-bolsillo-del-pequeno-inversor.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
@@ -117,17 +93,41 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
-      "url": "https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:45:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html?utm_source=lootura.com",
       "publishedAt": "2026-07-25T06:31:59.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años",
+      "url": "https://elpais.com/espana/2026-07-25/datos-pocos-incendios-pero-grandes-y-veloces-julio-deja-ya-una-de-las-peores-quincenas-en-mas-de-40-anos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:30:00.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Los incendios que asolan España, en imágenes",
+      "url": "https://elpais.com/espana/2026-07-25/los-incendios-que-asolan-espana-en-imagenes.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:10:22.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez",
+      "url": "https://www.larazon.es/madrid/incendio-madrid-directo-hoy-ultima-hora-fuego-desalojos-evolucion-llamas-b50m_202607256a6435fada3add27d4e1002a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:40:16.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
+      "url": "https://okdiario.com/espana/abascal-cree-que-incendios-tienen-que-ver-corrupcion-fanatismo-climatico-mafia-sanchez-19067130?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:19:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T13:18:46.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 13
 }

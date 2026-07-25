@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)](https://www.larazon.es/castilla-y-leon/incendios-castilla-leon-barcones-cifra-9000-evacuados-8000-confinados-incendio-burgohondo-avila_202607256a647ea14687a22bdecd054b.html?utm_source=lootura.com) — 2026-07-25T09:15:13.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
@@ -72,4 +72,4 @@ Date: 2026-07-20
 
 - [Democrats poised to nominate Troy Jackson in must-win Maine Senate race](https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine](https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com) — 2026-07-25T09:00:32.000Z
+- [After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine](https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com) — 2026-07-25T12:03:43.000Z

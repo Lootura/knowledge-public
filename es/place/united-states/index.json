@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -47,13 +47,13 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
-      "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
+      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.",
       "date": "2026-07-25"
     },
     {
-      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.",
+      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
+      "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
       "date": "2026-07-25"
     },
     {
@@ -94,12 +94,6 @@
   ],
   "sources": [
     {
-      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
-      "url": "https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T07:30:47.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
       "url": "https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com",
       "publishedAt": "2026-07-25T03:44:00.000Z",
@@ -112,5 +106,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

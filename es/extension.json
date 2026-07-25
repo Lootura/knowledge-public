@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T09:54:50.617Z",
+  "generatedAt": "2026-07-25T13:31:04.987Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|34|1784972638602",
+    "signature": "1.18.0|35|1784985564039",
     "version": "1.18.0",
-    "build": 34,
-    "latestEntityUpdatedAt": "2026-07-25T09:43:58.602Z"
+    "build": 35,
+    "latestEntityUpdatedAt": "2026-07-25T13:19:24.039Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-07-25T09:43:58.602Z",
+      "updatedAt": "2026-07-25T13:19:24.039Z",
       "score": 1761,
-      "sourceCount": 594,
+      "sourceCount": 601,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,9 @@
         "title": "Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-25T09:43:58.602Z",
+        "updatedAt": "2026-07-25T13:19:24.039Z",
         "score": 1731,
-        "sourceCount": 248,
+        "sourceCount": 255,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,8 +47,8 @@
         "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
-        "updatedAt": "2026-07-25T09:43:58.602Z",
-        "score": 1714,
+        "updatedAt": "2026-07-25T13:19:24.039Z",
+        "score": 1691,
         "sourceCount": 147,
         "isBreaking": false,
         "isPinned": false
@@ -60,8 +60,8 @@
         "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
-        "updatedAt": "2026-07-25T09:43:58.602Z",
-        "score": 1710,
+        "updatedAt": "2026-07-25T13:19:24.039Z",
+        "score": 1688,
         "sourceCount": 163,
         "isBreaking": false,
         "isPinned": false
@@ -73,13 +73,13 @@
         "title": "Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid",
         "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
         "path": "/es/person/isabel-diaz-ayuso",
-        "updatedAt": "2026-07-25T09:43:58.602Z",
+        "updatedAt": "2026-07-25T13:19:24.039Z",
         "score": 1688,
-        "sourceCount": 15,
+        "sourceCount": 17,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 114
+    "publicEntityCount": 117
   }
 }

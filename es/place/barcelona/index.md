@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
 
 El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
+
+Date: 2026-07-25
+
+### Lola Índigo suspende su concierto en Barcelona por un problema de salud
+
+La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.
+
+Date: 2026-07-25
+
+### Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas
+
+Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.
 
 Date: 2026-07-25
 
@@ -56,18 +68,8 @@ Por qué Barcelona tiene calles en cuadrícula: el origen del Eixample y el dise
 
 Date: 2026-07-24
 
-### Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático
-
-El FC Barcelona ha hecho oficial el fichaje del extremo alemán Karim Adeyemi, quien queda vinculado al club catalán mediante un contrato de cinco temporadas. El delantero de 24 años llega procedente del Borussia Dortmund en una operación relámpago liderada por la dirección deportiva de Deco. Su llegada añade velocidad.
-
-Date: 2026-07-24
-
-### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
-
-Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Lola Índigo suspende su concierto en Barcelona por un problema de salud](https://www.abc.es/gente/lola-indigo-suspende-concierto-barcelona-problema-salud-20260725120743-nt.html?utm_source=lootura.com) — 2026-07-25T12:07:47.000Z
 - [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
+- [Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas](https://okdiario.com/historia/hallazgo-historico-obras-mercado-barcelona-sacan-luz-refugio-antiaereo-guerra-civil-capacidad-240-personas-19055911?utm_source=lootura.com) — 2026-07-25T13:00:12.000Z

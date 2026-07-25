@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
 
 Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
+
+Date: 2026-07-25
+
+### Maine Democrats meet to select Senate nominee to replace Graham Platner
+
+Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.
 
 Date: 2026-07-25
 
@@ -62,12 +68,7 @@ SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate camp
 
 Date: 2026-07-19
 
-### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
-
-The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
-
-Date: 2026-07-19
-
 ## Sources
 
+- [Maine Democrats meet to select Senate nominee to replace Graham Platner](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T10:00:07.000Z
 - [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z

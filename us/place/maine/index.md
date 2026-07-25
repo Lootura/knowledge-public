@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-25
 ### After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine
 
 Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the likely Democratic nominee, has a lot of catching up to do.
+
+Date: 2026-07-25
+
+### Maine Democrats meet to select Senate nominee to replace Graham Platner
+
+Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.
 
 Date: 2026-07-25
 
@@ -62,14 +68,9 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-07-20
 
-### In Maine Senate Race, Democrats Go From Chaos to Coronation
-
-Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
-
-Date: 2026-07-20
-
 ## Sources
 
+- [Maine Democrats meet to select Senate nominee to replace Graham Platner](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T10:00:07.000Z
 - [Democrats poised to nominate Troy Jackson in must-win Maine Senate race](https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine](https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com) — 2026-07-25T09:00:32.000Z
+- [After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine](https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com) — 2026-07-25T12:03:43.000Z

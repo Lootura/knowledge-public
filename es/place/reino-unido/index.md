@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Europa tiene petróleo pero decidió no tenerlo](https://theobjective.com/elsubjetivo/opinion/2026-07-25/europa-petroleo-articulo-martin-varsavsky/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z
+No public source links.

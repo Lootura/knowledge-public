@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### What to Know About the Wildfires Raging in Western Europe
+
+Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.
+
+Date: 2026-07-25
 
 ### Prize honors discovery of altermagnetism as a third fundamental class of magnetism
 
@@ -62,13 +68,7 @@ In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedg
 
 Date: 2026-07-23
 
-### Developer ecosystem expanded
-
-The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z
-- [Prize honors discovery of altermagnetism as a third fundamental class of magnetism](https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html?utm_source=lootura.com) — 2026-07-25T03:00:01.000Z
+- [What to Know About the Wildfires Raging in Western Europe](https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html?utm_source=lootura.com) — 2026-07-25T12:53:41.000Z

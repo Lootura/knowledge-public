@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "What Octogenarian Pop Divas Show Us About a Life Well-Lived",
+      "summary": "Cher, Dolly Parton, Barbra Streisand, and Dionne Warwick —Stewart Cook—CBS/Getty Images; Jason Kempin—Getty Images; Kevin Mazur—BSB/Getty Images; Frank Hoensch—Redferns/Getty Images On May 20, Cher turned 80 years old. Beyond a celebration of one spectacular career, her birthday is an occasion to consider what it means.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Democrats approve new primary election calendar, putting South Carolina first",
       "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).",
@@ -59,20 +64,27 @@
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Getty Images first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "Opinion: New Jersey pizza, the fuel of world champions",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
     {
       "title": "Democrats approve new primary election calendar, putting South Carolina first",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",
       "publishedAt": "2026-07-24T21:50:41.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "What Octogenarian Pop Divas Show Us About a Life Well-Lived",
+      "url": "https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

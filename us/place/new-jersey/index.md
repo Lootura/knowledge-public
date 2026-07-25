@@ -3,7 +3,7 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Opinion: New Jersey pizza, the fuel of world champions](https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com) — 2026-07-25T12:00:00.000Z

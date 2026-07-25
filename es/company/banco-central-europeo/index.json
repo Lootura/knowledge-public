@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.json",
   "description": "Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "BCE",
     "El Banco Central"
   ],
   "changes": [
+    {
+      "title": "Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria",
+      "summary": "Los billetes de euro están cada vez más cerca de estrenar una nueva imagen. El Banco Central Europeo (BCE) ha abierto una consulta pública para que los ciudadanos participen en la elección del diseño que lucirá el dinero en efectivo a partir de 2027. La iniciativa busca que los europeos tengan voz en un cambio que afec.",
+      "date": "2026-07-25"
+    },
     {
       "title": "De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar",
       "summary": "Anverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, con un retrato de Maria Callas, una de las grandes figuras de la ópera del siglo XX. Banco Central Europeo (BCE) Reverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, que representa un espacio público don.",
@@ -58,13 +63,15 @@
       "title": "El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía",
       "summary": "El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
-      "summary": "El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria",
+      "url": "https://www.elconfidencial.com/espana/2026-07-25/nuevos-billetes-euro-bce-lanza-encuesta-elegir-disenos-ue-espana_4395910/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:07:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

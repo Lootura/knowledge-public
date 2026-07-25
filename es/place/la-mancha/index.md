@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
 
 Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-25
+
+### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
+
+El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
+
+Date: 2026-07-25
+
+### El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios
+
+El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.
 
 Date: 2026-07-25
 
@@ -56,18 +68,8 @@ Los equipos de extinción afrontan una nueva jornada de trabajo en varios incend
 
 Date: 2026-07-23
 
-### Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas
-
-Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
-
-Date: 2026-07-23
-
-### La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles
-
-La lavanda se ha convertido en una de las plantas favoritas para quienes buscan un jardín resistente, aromático y fácil de mantener en Castilla-La Mancha . Su capacidad para soportar tanto los inviernos fríos como los veranos secos y calurosos de la región la convierten en una apuesta segura para parcelas, patios y zon.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T09:43:04.000Z
+- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T13:02:22.000Z
+- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
+- [El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios](https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com) — 2026-07-25T11:29:52.000Z

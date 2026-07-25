@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -64,6 +64,16 @@
       "date": "2026-07-25"
     },
     {
+      "title": "Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections",
+      "summary": "Mullin's comments about foreign adversaries accessing voting machines reflect concerns that security and election technology experts have long had. But so far, there's no proof of such attempts.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Understanding The Fraught Politics Of Powering AI",
+      "summary": "U.S. President Donald Trump speaks during an event about the Ratepayer Protection Pledge at the Environmental Protection Agency in Washington D.C. on July 23 —Photo by Saul Loeb / AFP via Getty Images Sitting at the Environmental Protection Agency with a mix of CEOs and cabinet officials, President Trump announced this.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Secret Service agent who confronted gunman honored at Correspondents’ Dinner",
       "summary": "U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.",
       "date": "2026-07-25"
@@ -72,16 +82,6 @@
       "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
       "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
-      "summary": "Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains uncertain.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane",
-      "summary": "More measles cases have been reported in the United States in the last two years than in all the years from 2000 through 2024 combined.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -89,12 +89,6 @@
       "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
       "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T20:50:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Costa Rica captures top fugitive \"Diablo,\" wanted by U.S., officials say",
-      "url": "https://www.cbsnews.com/news/costa-rica-captures-top-fugitive-diablo-drug-trafficking/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:10:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -112,7 +106,7 @@
     {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T06:16:17.183Z",
+      "publishedAt": "2026-07-25T13:19:49.607Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -140,11 +134,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Jason Epperson on the history found at national parks",
-      "url": "https://www.pbs.org/newshour/show/jason-epperson-on-the-history-found-at-national-parks?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:25:06.000Z",
+      "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:57:39.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:35:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 22
+  "evidenceCount": 20
 }

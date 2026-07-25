@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
+
+Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.
+
+Date: 2026-07-25
 
 ### Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas
 
@@ -62,12 +68,6 @@ Vizcaya se ha consolidado en los últimos años como uno de los destinos más co
 
 Date: 2026-07-21
 
-### Reconstrucción de los ataques violentos a los seguidores de La Roja
-
-Los radicales comenzaron los altercados a las siete de la tarde, con la manifestación a favor de la selección de Euskadi.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-pican-personas-bizkaia-dias-playas-20260724135109-nt_amp.html?utm_source=lootura.com) — 2026-07-24T11:51:09.000Z
+- [El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila](https://www.larazon.es/pais-vasco/motivo-que-pais-vasco-envio-medios-aereos-madrid-avila-b30m_202607256a64b1d0da3add27d4e1a843.html?utm_source=lootura.com) — 2026-07-25T12:53:36.000Z

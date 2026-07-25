@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -59,6 +59,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Opinion: New Jersey pizza, the fuel of world champions",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
   "evidenceCount": 0
 }

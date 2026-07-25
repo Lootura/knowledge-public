@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero](https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com) — 2026-07-24T21:45:04.000Z
+No public source links.

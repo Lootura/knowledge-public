@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -29,6 +29,21 @@
       "date": "2026-07-25"
     },
     {
+      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
+      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Trump cracks jokes at first White House Correspondents' Dinner",
+      "summary": "President Trump cracked jokes at the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
       "summary": "President Donald Trump thanks reporters and recalls the events of the night of the first White House Correspondents' Dinner earlier this year, where a gunman attempted to storm the room at the Washington Hilton.",
       "date": "2026-07-25"
@@ -44,28 +59,13 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
-      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
       "summary": "President Trump gave lengthy speech at the rescheduled White House Correspondents' Dinner, where he insulted his political rivals and touted his accomplishments and relationship with the press.",
       "date": "2026-07-25"
     },
     {
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
-      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Secret Service agent who confronted gunman honored at Correspondents’ Dinner",
       "summary": "U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Trump’s rambling gala address included insults, potshots and quip about a third presidential term",
-      "summary": "President mocks political opponents and journalists in mostly light-hearted, hour-long speech at White House correspondents’ dinner Donald Trump joked around with the room of journalists who he again accused of producing “fake news” as he hurled insults at his political enemies in a speech at the White House correspond.",
       "date": "2026-07-25"
     }
   ],
@@ -77,40 +77,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ontario Premier Doug Ford says \"we didn't start this trade war\" as Trump slaps Canada with tariffs",
-      "url": "https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T19:53:48.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump speaks at White House Correspondents' Dinner, in redo after April attack",
+      "title": "Trump cracks jokes at first White House Correspondents' Dinner",
       "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:15:58.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
-      "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:28:05.000Z",
+      "publishedAt": "2026-07-25T12:50:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "White House rolls out AI funding — and signals a new era for US science",
       "url": "https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T06:16:17.182Z",
+      "publishedAt": "2026-07-25T13:19:49.607Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump calls Obama's speech at past White House Correspondents' Dinner 'respectful'",
-      "url": "https://www.nbcnews.com/now/video/trump-calls-obama-s-speech-at-past-white-house-correspondents-dinner-respectful-267259461934?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:15:02.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
-      "url": "https://www.nbcnews.com/now/video/trump-says-a-lot-was-learned-from-white-house-correspondents-dinner-shooting-267259973960?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T01:48:44.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
@@ -119,17 +95,17 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
-      "url": "https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:55:21.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump returns to correspondents' dinner 3 months after shooting",
       "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner?utm_source=lootura.com",
       "publishedAt": "2026-07-25T05:04:00.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum",
+      "url": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:11:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 6
 }

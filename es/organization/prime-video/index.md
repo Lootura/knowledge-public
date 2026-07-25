@@ -28,4 +28,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Tráiler de ‘Blade Runner 2099’: Michelle Yeoh y Hunter Schafer brillan en la ambiciosa producción de Prime Video](https://okdiario.com/cool/television/trailer-blade-runner-2099-michelle-yeoh-hunter-schafer-brillan-ambiciosa-produccion-prime-video-19066351?utm_source=lootura.com) — 2026-07-25T09:04:44.000Z
+No public source links.

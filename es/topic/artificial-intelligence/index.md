@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La inteligencia artificial acelera el fin de la facturación por horas en los despachos de abogados](https://cincodias.elpais.com/companias/2026-07-25/la-inteligencia-artificial-acelera-el-fin-de-la-facturacion-por-horas-en-los-despachos-de-abogados.html?utm_source=lootura.com) — 2026-07-25T03:15:00.000Z
+- [Trucos para crear mejores imágenes con ChatGPT y Gemini](https://hipertextual.com/guias/crear-imagenes-profesionales-con-chatgpt-gemini/?utm_source=lootura.com) — 2026-07-25T07:00:00.000Z

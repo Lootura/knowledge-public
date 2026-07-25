@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
+
+El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
+
+Date: 2026-07-25
 
 ### Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica
 
@@ -62,12 +68,6 @@ Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia la
 
 Date: 2026-07-22
 
-### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
-
-La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z

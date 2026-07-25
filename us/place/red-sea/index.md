@@ -3,10 +3,16 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Tankers Sail Through Red Sea Despite Houthi Blockade
+
+Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.
+
+Date: 2026-07-25
 
 ### Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea
 
@@ -62,12 +68,6 @@ Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy mo
 
 Date: 2026-07-23
 
-### Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea
-
-The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Tankers Sail Through Red Sea Despite Houthi Blockade](https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html?utm_source=lootura.com) — 2026-07-25T09:02:10.000Z

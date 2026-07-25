@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
+
+### Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria
+
+Los billetes de euro están cada vez más cerca de estrenar una nueva imagen. El Banco Central Europeo (BCE) ha abierto una consulta pública para que los ciudadanos participen en la elección del diseño que lucirá el dinero en efectivo a partir de 2027. La iniciativa busca que los europeos tengan voz en un cambio que afec.
+
+Date: 2026-07-25
 
 ### De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar
 
@@ -62,12 +68,6 @@ El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los 
 
 Date: 2026-07-23
 
-### Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”
-
-El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria](https://www.elconfidencial.com/espana/2026-07-25/nuevos-billetes-euro-bce-lanza-encuesta-elegir-disenos-ue-espana_4395910/?utm_source=lootura.com) — 2026-07-25T11:07:00.000Z

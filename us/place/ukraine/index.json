@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
+      "summary": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
+      "date": "2026-07-25"
+    },
     {
       "title": "How volunteers with 3D printers make weapons for Ukraine",
       "summary": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine's defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that t.",
@@ -61,11 +66,6 @@
       "title": "Firing of Ukraine’s Top General Signals the End of an Era",
       "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
-      "summary": "Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -76,11 +76,17 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:43:48.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "How volunteers with 3D printers make weapons for Ukraine",
       "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine?utm_source=lootura.com",
       "publishedAt": "2026-07-24T22:40:44.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

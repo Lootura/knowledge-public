@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [ChatGPT now has a space for sharing medical records. Should you?](https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/?utm_source=lootura.com) — 2026-07-25T10:00:06.000Z

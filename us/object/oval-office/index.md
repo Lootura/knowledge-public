@@ -34,4 +34,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [WATCH: Trump touts new nuclear reactors in his push to speed up domestic power](https://www.pbs.org/newshour/politics/watch-trump-touts-new-nuclear-reactors-in-his-push-to-speed-up-production?utm_source=lootura.com) — 2026-07-24T20:45:37.000Z
+No public source links.

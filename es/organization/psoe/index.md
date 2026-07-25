@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z
-- [Autopercibido como socialdemócrata](https://theobjective.com/elsubjetivo/opinion/2026-07-25/autopercibido-socialdemocrata-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z
+No public source links.

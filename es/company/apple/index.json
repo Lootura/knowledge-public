@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él",
+      "summary": "Que el MacBook Neo ha sido un rotundo éxito no es ninguna sorpresa. Muchos expertos comentan que es el ordenador de Apple más vendido del año, y lo cierto es que no es para menos. Incluso ahora, que ha subido ligeramente de precio, sigue siendo una de las opciones más recomendables del mercado. No obstante, es posible.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Samsung busca ventaja ante Apple en la batalla de los plegables",
       "summary": "Hay una nueva carrera en el mercado de smartphones y Samsung acaba de dar el pistoletazo de salida. La compañía coreana reunió este miércoles en Londres a expertos en tecnología para presentar la actualización más ambiciosa de su gama de teléfonos plegables hasta la fecha. La empresa ha ampliado por primera vez su fami.",
@@ -58,13 +63,15 @@
       "title": "Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE",
       "summary": "Sabíamos que era cuestión de tiempo que el precio de los iPhone despegase como un cohete. Todo apuntaba a septiembre y el lanzamiento de los nuevos iPhone 18 como el momento clave para la subida, con el coste de la memoria RAM como el principal culpable de este hito. No ha sido necesario esperar varios meses: Apple aca.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Se filtra la alternativa de Xiaomi al iPhone Ultra y los Galaxy Z Fold 8: el Mix Fold 5 va a ser espectacular",
-      "summary": "Quedan apenas unos días para la presentación oficial de los Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra , así como poco más de un mes para que Apple presente, por fin, su móvil plegable: el iPhone Ultra . Pero estos no serán los únicos móviles con pantalla flexible que veremos este año. Xiaomi también tiene listo un mod.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él",
+      "url": "https://hipertextual.com/tecnologia/macbook-neo-2-te-contamos-todo-lo-que-sabemos-sobre-el/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T10:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

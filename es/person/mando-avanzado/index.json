@@ -8,21 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/mando-avanzado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/mando-avanzado/index.json",
   "description": "Sigue la actividad de Mando Avanzado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [],
   "changes": [
     {
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
-      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.",
+      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.",
       "date": "2026-07-25"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Mando Avanzado first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
+      "summary": "La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un \"momento muy crítico\", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
+      "url": "https://www.20minutos.es/madrid/ayuso-teme-situaciones-mucho-peores-las-proximas-horas-unirse-los-fuegos-avila-madrid-un-frente-20-000-hectareas_7018909_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:18:09.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
       "url": "https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com",
@@ -30,5 +41,5 @@
       "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

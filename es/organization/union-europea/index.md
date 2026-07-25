@@ -58,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados](https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:47.000Z
+No public source links.

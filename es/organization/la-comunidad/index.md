@@ -52,4 +52,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios](https://www.larazon.es/actualidad/estrategia-chantaje-madrid-tomara-medidas-bomberos-forestales-que-protestan-plena-ola-incendios-b50m_202607256a6481ecaa17c0020f2f2a54.html?utm_source=lootura.com) — 2026-07-25T09:29:16.000Z
+No public source links.

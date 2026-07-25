@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
 
 La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.
+
+Date: 2026-07-25
+
+### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
+
+El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
 
 Date: 2026-07-25
 
@@ -23,12 +29,6 @@ Date: 2026-07-25
 ### Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales
 
 Donald Trump pasó años llamando a la prensa «enemiga del pueblo». Pero este viernes, delante de cientos de periodistas, acabó confesando algo muy distinto: que espera sus llamadas, que se impacienta cuando no llegan y que incluso reparte su número de teléfono para intentar influir sobre las noticias antes de que se pub.
-
-Date: 2026-07-25
-
-### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
-
-El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
 
 Date: 2026-07-25
 
@@ -70,8 +70,6 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados](https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:47.000Z
-- [Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales](https://www.abc.es/internacional/trump-desconocido-sincera-prensa-regreso-cena-corresponsales-20260725073613-nt.html?utm_source=lootura.com) — 2026-07-25T07:29:07.000Z
 - [El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española](https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com) — 2026-07-25T03:44:00.000Z
 - [Trump advierte a la UE de que «pagará un precio muy alto» por multar a Goggle](https://www.elcorreo.com/economia/trump-advierte-ue-pagara-precio-alto-multar-20260725005908-nt_amp.html?utm_source=lootura.com) — 2026-07-24T22:59:09.000Z
 - [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z

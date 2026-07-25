@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Paramount Skydance agrees to halt Warner Bros. merger until next June](https://www.nbcnews.com/business/business-news/paramount-skydance-agrees-halt-warner-bros-merger-june-2027-rcna589137?utm_source=lootura.com) — 2026-07-24T19:46:21.000Z
+No public source links.

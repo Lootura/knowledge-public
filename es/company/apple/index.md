@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### ¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él
+
+Que el MacBook Neo ha sido un rotundo éxito no es ninguna sorpresa. Muchos expertos comentan que es el ordenador de Apple más vendido del año, y lo cierto es que no es para menos. Incluso ahora, que ha subido ligeramente de precio, sigue siendo una de las opciones más recomendables del mercado. No obstante, es posible.
+
+Date: 2026-07-25
 
 ### Samsung busca ventaja ante Apple en la batalla de los plegables
 
@@ -62,12 +68,6 @@ Sabíamos que era cuestión de tiempo que el precio de los iPhone despegase como
 
 Date: 2026-07-20
 
-### Se filtra la alternativa de Xiaomi al iPhone Ultra y los Galaxy Z Fold 8: el Mix Fold 5 va a ser espectacular
-
-Quedan apenas unos días para la presentación oficial de los Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra , así como poco más de un mes para que Apple presente, por fin, su móvil plegable: el iPhone Ultra . Pero estos no serán los únicos móviles con pantalla flexible que veremos este año. Xiaomi también tiene listo un mod.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él](https://hipertextual.com/tecnologia/macbook-neo-2-te-contamos-todo-lo-que-sabemos-sobre-el/?utm_source=lootura.com) — 2026-07-25T10:00:00.000Z

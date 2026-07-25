@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
@@ -17,6 +17,16 @@
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
+      "summary": "El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.",
       "date": "2026-07-25"
     },
     {
@@ -53,25 +63,27 @@
       "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
       "summary": "Los equipos de extinción afrontan una nueva jornada de trabajo en varios incendios forestales que permanecen activos en diferentes comunidades autónomas. Castilla-La Mancha continúa concentrando buena parte del operativo nacional, mientras los servicios de emergencia mantienen desplegados numerosos medios terrestres y.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
-      "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles",
-      "summary": "La lavanda se ha convertido en una de las plantas favoritas para quienes buscan un jardín resistente, aromático y fácil de mantener en Castilla-La Mancha . Su capacidad para soportar tanto los inviernos fríos como los veranos secos y calurosos de la región la convierten en una apuesta segura para parcelas, patios y zon.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:43:04.000Z",
+      "publishedAt": "2026-07-25T13:02:22.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T13:18:46.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
+      "url": "https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:29:52.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

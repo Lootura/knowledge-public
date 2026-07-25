@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,7 +70,5 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs](https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com) — 2026-07-24T19:53:48.000Z
-- [Canada's Doug Ford on why country needs to "fight back" against Trump trade war](https://www.cbsnews.com/news/canada-doug-ford-trump-trade-war-prices-tariffs/?utm_source=lootura.com) — 2026-07-24T20:10:52.000Z
 - [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T14:54:57.000Z
 - [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z

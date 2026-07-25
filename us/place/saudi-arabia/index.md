@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
+
+The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.
+
+Date: 2026-07-25
 
 ### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
 
@@ -14,15 +20,15 @@ Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes
 
 Date: 2026-07-25
 
-### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
-
-President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
-
-Date: 2026-07-24
-
 ### Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses
 
 Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.
+
+Date: 2026-07-24
+
+### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
+
+President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ During a press briefing, White House press secretary Karoline Leavitt echoed a s
 
 Date: 2026-07-23
 
-### For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard
-
-President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z
+- [Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia](https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia?utm_source=lootura.com) — 2026-07-25T11:43:45.000Z
 - [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T21:32:37.000Z

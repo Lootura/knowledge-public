@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
@@ -71,4 +71,4 @@ Date: 2026-07-09
 ## Sources
 
 - [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z
-- [Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying](https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html?utm_source=lootura.com) — 2026-07-25T07:59:14.000Z
+- [Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying](https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html?utm_source=lootura.com) — 2026-07-25T11:48:44.000Z

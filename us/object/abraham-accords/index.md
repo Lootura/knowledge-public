@@ -58,4 +58,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z
+No public source links.

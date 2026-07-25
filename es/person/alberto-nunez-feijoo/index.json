@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
       "summary": "El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.",
@@ -66,13 +71,15 @@
       "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
       "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»",
-      "summary": "La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T13:18:46.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

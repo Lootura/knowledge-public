@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-25
 ### Opposing Defense Bill, Democrats Shift Their Tactics
 
 Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+
+Date: 2026-07-25
+
+### Maine Democrats meet to select Senate nominee to replace Graham Platner
+
+Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.
 
 Date: 2026-07-25
 
@@ -62,14 +68,9 @@ The House on Thursday voted to direct President Trump to end the war with Iran, 
 
 Date: 2026-07-23
 
-### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
-
-For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.
-
-Date: 2026-07-23
-
 ## Sources
 
+- [Maine Democrats meet to select Senate nominee to replace Graham Platner](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T10:00:07.000Z
 - [Democrats poised to nominate Troy Jackson in must-win Maine Senate race](https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z

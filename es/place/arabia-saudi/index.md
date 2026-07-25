@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Los hutíes atacan a la mayor empresa petrolera de Arabia Saudí
+
+Los rebeldes hutíes de Yemen afirmaron este sábado haber lanzado ataques con misiles y drones contra instalaciones de Aramco, la mayor empresa petrolera saudí, en represalia por los bombardeos aéreos de la coalición liderada por Arabia Saudí en la ciudad portuaria de Hudeida. El portavoz militar de los hutíes, Yahya Sa.
+
+Date: 2026-07-25
 
 ### Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca
 
@@ -62,12 +68,6 @@ En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos
 
 Date: 2026-07-22
 
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Los hutíes atacan a la mayor empresa petrolera de Arabia Saudí](https://www.larazon.es/internacional/huties-atacan-mayor-empresa-petrolera-arabia-saudi_202607256a64b0c6da3add27d4e1a682.html?utm_source=lootura.com) — 2026-07-25T12:49:12.000Z

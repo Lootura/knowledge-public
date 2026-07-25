@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "La inteligencia artificial acelera el fin de la facturación por horas en los despachos de abogados",
-      "url": "https://cincodias.elpais.com/companias/2026-07-25/la-inteligencia-artificial-acelera-el-fin-de-la-facturacion-por-horas-en-los-despachos-de-abogados.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trucos para crear mejores imágenes con ChatGPT y Gemini",
+      "url": "https://hipertextual.com/guias/crear-imagenes-profesionales-con-chatgpt-gemini/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T07:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-14
 ## Sources
 
 - [Trump sets new tariffs on trading partners, covering nearly all U.S. imports](https://www.pbs.org/newshour/show/trump-sets-new-tariffs-on-trading-partners-covering-nearly-all-u-s-imports?utm_source=lootura.com) — 2026-07-24T22:55:48.000Z
-- [Trump’s Global Tariffs: What’s the Latest on the Trade War](https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-24T12:24:12.000Z

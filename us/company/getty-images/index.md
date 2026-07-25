@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### What Octogenarian Pop Divas Show Us About a Life Well-Lived
+
+Cher, Dolly Parton, Barbra Streisand, and Dionne Warwick —Stewart Cook—CBS/Getty Images; Jason Kempin—Getty Images; Kevin Mazur—BSB/Getty Images; Frank Hoensch—Redferns/Getty Images On May 20, Cher turned 80 years old. Beyond a celebration of one spectacular career, her birthday is an occasion to consider what it means.
+
+Date: 2026-07-25
 
 ### Democrats approve new primary election calendar, putting South Carolina first
 
@@ -62,12 +68,8 @@ Wildfire smoke and unhealthy air persist and shift direction, as Trump demands e
 
 Date: 2026-07-18
 
-### Discovered by Atlas
-
-Getty Images first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-16
-
 ## Sources
 
+- [Opinion: New Jersey pizza, the fuel of world champions](https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com) — 2026-07-25T12:00:00.000Z
 - [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
+- [What Octogenarian Pop Divas Show Us About a Life Well-Lived](https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/?utm_source=lootura.com) — 2026-07-25T11:00:04.000Z

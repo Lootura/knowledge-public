@@ -28,5 +28,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Alfonso Rueda: “La inversión de SAIC será la mayor del siglo XXI en Galicia. Seremos un polo europeo de la automoción”](https://cincodias.elpais.com/extras/galicia/2026-07-25/alfonso-rueda-presidente-de-la-xunta-la-inversion-de-saic-en-automocion-sera-la-mayor-del-siglo-xxi-en-galicia.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
-- [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z
+No public source links.

@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-25T13:19:24.039Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
+      "summary": "El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
+      "summary": "El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista",
       "summary": "El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.",
@@ -34,6 +44,19 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
+      "url": "https://okdiario.com/espana/abascal-cree-que-incendios-tienen-que-ver-corrupcion-fanatismo-climatico-mafia-sanchez-19067130?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:19:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
+      "url": "https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T10:40:21.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

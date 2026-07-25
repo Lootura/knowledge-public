@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T13:19:45.810Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -72,4 +72,4 @@ Date: 2026-07-21
 
 - [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z
 - [In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process](https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com) — 2026-07-25T01:46:39.000Z
-- [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?utm_source=lootura.com) — 2026-07-25T09:02:08.000Z
+- [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?utm_source=lootura.com) — 2026-07-25T13:00:51.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez
+
+Evita valorar las declaraciones de Óscar Puente en redes sociales y muestra cordialidad en el trato con el presidente del Gobierno, asegurando estar "centrados en lo más importante ahora mismo" De “miserable” a “mamarracha”: la gestión de los incendios provoca una nueva bronca política entre el PP de Ayuso y el Gobiern.
+
+Date: 2026-07-25
 
 ### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
 
@@ -58,5 +64,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente](https://www.20minutos.es/madrid/asi-sido-saludo-sanchez-ayuso-visita-incendios-madrid-tormenta-palabras-oscar-puente_7018865_0.html?utm_source=lootura.com) — 2026-07-25T08:30:05.000Z
-- [Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:00.000Z
+- [Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez](https://www.eldiario.es/madrid/somos/ayuso-aparca-polemicas-viernes-cambia-tono-institucional-trabajar-gobierno-sanchez_1_13406680.html?utm_source=lootura.com) — 2026-07-25T11:54:16.000Z

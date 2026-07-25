@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-carolina/index.json",
   "description": "Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T09:44:25.725Z",
+  "updatedAt": "2026-07-25T13:19:45.810Z",
   "aliases": [
     "Palmetto State",
     "S. C.",
@@ -71,12 +71,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "South Carolina on cusp of being first 2028 Democratic presidential primary state",
-      "url": "https://www.cbsnews.com/news/south-carolina-first-2028-democratic-presidential-primary-state/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T19:30:22.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Democrats approve new primary election calendar, putting South Carolina first",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",

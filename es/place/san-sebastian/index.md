@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T13:19:24.039Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-20
 ## Fuentes
 
 - [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
-- [Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana](https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com) — 2026-07-24T12:48:21.000Z
