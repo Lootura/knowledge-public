@@ -92,19 +92,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
-      "url": "https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:44:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
-      "url": "https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T08:32:38.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

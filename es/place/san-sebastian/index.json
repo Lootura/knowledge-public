@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -23,6 +23,16 @@
     {
       "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
       "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "En directo, la bandera Fabrika en San Sebastián",
+      "summary": "Nueva jornada de la liga Eusko Label de remo.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40",
+      "summary": "El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vida al hospital, donde falleció a causa de las graves lesiones sufridas.",
       "date": "2026-07-25"
     },
     {
@@ -59,25 +69,27 @@
       "title": "Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia",
       "summary": "El conflicto también afectará a las fiestas de Vitoria, el 5 de agosto, y a las de San Sebastián, el 14.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.",
-      "summary": "La Audiencia Provincial de Vizcaya ha dictado la libre absolución para un agente de la guardia municipal de San Sebastián procesado por una presunta agresión sexual cometida, supuestamente, durante las fiestas de Bilbao. El tribunal fundamenta su decisión en la ausencia de una \"certeza absoluta\" para condenar, al no qu.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
-      "summary": "La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "En directo, la bandera Fabrika en San Sebastián",
+      "url": "https://www.elcorreo.com/deportes/mas-deportes/directo-bandera-fabrika-san-sebastian-20260725181631-di_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:16:32.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
     {
       "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
       "url": "https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-25T08:33:05.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40",
+      "url": "https://www.diariovasco.com/gipuzkoa/fallece-joven-anos-donostia-tras-sufrir-accidente-20260725181053-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:11:15.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
+
+Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.
+
+Date: 2026-07-25
 
 ### El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa
 
@@ -62,12 +68,6 @@ Bonnie Tyler, la cantante que dio voz a unos de los temas más conocidos del mun
 
 Date: 2026-07-11
 
-### Renfe pone rumbo a Portugal con Talgo tras el retroceso en Francia
-
-"Renfe va a ser el único operador con capacidad para prestar servicios internacionales ferroviarios de alta velocidad con Portugal, lo que le da una clara ventaja competitiva para liderar el mercado ibérico del tren". Así se manifiestan representantes del Gobierno español para explicar las ventajas del acuerdo firmado.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios](https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html?utm_source=lootura.com) — 2026-07-25T15:28:34.000Z

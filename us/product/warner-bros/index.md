@@ -3,7 +3,7 @@
 > Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-07-25T09:44:25.725Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/product/warner-bros
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees?utm_source=lootura.com) — 2026-07-25T14:05:12.000Z

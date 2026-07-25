@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -40,18 +40,8 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
-      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Trump returns to correspondents' dinner 3 months after shooting",
       "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
-      "summary": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
       "date": "2026-07-25"
     },
     {
@@ -73,15 +63,19 @@
       "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
       "summary": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "Trump cracks jokes at first White House Correspondents' Dinner",
+      "summary": "President Trump cracked jokes at the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia",
+      "summary": "The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
-    {
-      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
-      "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:50:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump cracks jokes at first White House Correspondents' Dinner",
       "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
@@ -91,7 +85,7 @@
     {
       "title": "International PhD students to face strict limits on time in the US",
       "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:19:49.607Z",
+      "publishedAt": "2026-07-25T16:54:19.751Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -99,12 +93,6 @@
       "url": "https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com",
       "publishedAt": "2026-07-25T01:24:23.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
-      "url": "https://www.nbcnews.com/now/video/trump-delivers-speech-at-rescheduled-white-house-correspondents-dinner-267262021881?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:19:41.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump is hellbent on tariffs. Here are 5 implications",
@@ -131,11 +119,23 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:35:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:41:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum",
+      "url": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:11:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:57:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 26
+  "evidenceCount": 20
 }

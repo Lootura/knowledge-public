@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
+      "summary": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.",
+      "date": "2026-07-25"
+    },
     {
       "title": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
       "summary": "La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.",
@@ -68,20 +73,9 @@
       "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
       "summary": "Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
-      "summary": "Donald Trump ha amenazado a la Unión Europea con imponer aranceles \"sustanciales\" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
-      "url": "https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:44:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "Trump advierte a la UE de que «pagará un precio muy alto» por multar a Goggle",
       "url": "https://www.elcorreo.com/economia/trump-advierte-ue-pagara-precio-alto-multar-20260725005908-nt_amp.html?utm_source=lootura.com",
@@ -89,11 +83,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
-      "url": "https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T08:32:38.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
+      "url": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T06:29:14.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

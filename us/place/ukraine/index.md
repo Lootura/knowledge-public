@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-22
 
 - [Trump conditions a landmark nuclear agreement, and a unique critter goes viral: The news quiz](https://www.nbcnews.com/news/news-quiz/trump-conditions-landmark-nuclear-agreement-unique-critter-goes-viral-rcna588957?utm_source=lootura.com) — 2026-07-25T09:15:00.000Z
 - [Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers](https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers?utm_source=lootura.com) — 2026-07-25T11:43:48.000Z
-- [How volunteers with 3D printers make weapons for Ukraine](https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine?utm_source=lootura.com) — 2026-07-24T22:40:44.000Z

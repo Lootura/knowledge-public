@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -20,15 +20,15 @@ Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature st
 
 Date: 2026-07-25
 
-### One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
-
-A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
-
-Date: 2026-07-25
-
 ### Understanding The Fraught Politics Of Powering AI
 
 U.S. President Donald Trump speaks during an event about the Ratepayer Protection Pledge at the Environmental Protection Agency in Washington D.C. on July 23 —Photo by Saul Loeb / AFP via Getty Images Sitting at the Environmental Protection Agency with a mix of CEOs and cabinet officials, President Trump announced this.
+
+Date: 2026-07-25
+
+### One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
+
+A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 
 Date: 2026-07-25
 
@@ -71,7 +71,6 @@ Date: 2026-07-24
 ## Sources
 
 - [ChatGPT now has a space for sharing medical records. Should you?](https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/?utm_source=lootura.com) — 2026-07-25T10:00:06.000Z
-- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T13:19:49.607Z
-- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-25T13:19:49.607Z
-- [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/?utm_source=lootura.com) — 2026-07-25T13:05:00.000Z
+- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T16:54:19.750Z
+- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-25T16:54:19.750Z
 - [Understanding The Fraught Politics Of Powering AI](https://time.com/article/2026/07/24/understanding-the-fraught-politics-of-powering-ai/?utm_source=lootura.com) — 2026-07-25T12:00:03.000Z

@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española](https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com) — 2026-07-25T03:44:00.000Z
-- [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
+
+Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.
+
+Date: 2026-07-25
 
 ### Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)
 
@@ -62,12 +68,6 @@ Francia mantiene tres grandes incendios forestales activos, dos en la región de
 
 Date: 2026-07-24
 
-### "Nos enfrentamos a una importante amenaza": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional
-
-El consejero Novillo pidió la activación del Sistema Nacional de Protección Civil, "requiriendo el empleo de los medios y recursos nacionales o europeos que sean necesarios", en una misiva a la que ha tenido acceso elDiario.es El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendio.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios](https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html?utm_source=lootura.com) — 2026-07-25T15:28:34.000Z

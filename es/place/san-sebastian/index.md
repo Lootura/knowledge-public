@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
 
 El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
+
+Date: 2026-07-25
+
+### En directo, la bandera Fabrika en San Sebastián
+
+Nueva jornada de la liga Eusko Label de remo.
+
+Date: 2026-07-25
+
+### Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40
+
+El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vida al hospital, donde falleció a causa de las graves lesiones sufridas.
 
 Date: 2026-07-25
 
@@ -56,18 +68,8 @@ El conflicto también afectará a las fiestas de Vitoria, el 5 de agosto, y a la
 
 Date: 2026-07-21
 
-### La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.
-
-La Audiencia Provincial de Vizcaya ha dictado la libre absolución para un agente de la guardia municipal de San Sebastián procesado por una presunta agresión sexual cometida, supuestamente, durante las fiestas de Bilbao. El tribunal fundamenta su decisión en la ausencia de una "certeza absoluta" para condenar, al no qu.
-
-Date: 2026-07-21
-
-### El Torneo Donostia Hiria se apunta a la Semana Grande
-
-La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [En directo, la bandera Fabrika en San Sebastián](https://www.elcorreo.com/deportes/mas-deportes/directo-bandera-fabrika-san-sebastian-20260725181631-di_amp.html?utm_source=lootura.com) — 2026-07-25T16:16:32.000Z
 - [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
+- [Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40](https://www.diariovasco.com/gipuzkoa/fallece-joven-anos-donostia-tras-sufrir-accidente-20260725181053-nt_amp.html?utm_source=lootura.com) — 2026-07-25T16:11:15.000Z

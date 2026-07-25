@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Beluga whales transferred to U.S. aquariums after Canadian theme park closes
+
+Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.
+
+Date: 2026-07-25
 
 ### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
 
@@ -62,13 +68,6 @@ President Trump takes aim at Canada with his latest round of tariffs hitting a v
 
 Date: 2026-07-21
 
-### Trump Escalates Canada Tariffs as Mark Carney Holds Firm
-
-The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T14:54:57.000Z
-- [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z
+- [Beluga whales transferred to U.S. aquariums after Canadian theme park closes](https://www.cbsnews.com/video/beluga-whales-transferred-to-us-aquariums-after-canadian-theme-park-closes/?utm_source=lootura.com) — 2026-07-25T16:13:20.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -32,9 +32,33 @@ En las últimas dos semanas se han iniciado en España {{fires_2weeks}} incendio
 
 Date: 2026-07-25
 
-### Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez
+### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
 
-El operativo contra el incendio que afecta al suroeste de la Comunidad de Madrid continúa desplegado con un amplio dispositivo de medios terrestres y aéreos. Tras una jornada especialmente complicada, los equipos de extinción centran ahora sus esfuerzos en consolidar el perímetro, proteger los núcleos urbanos y evitar.
+El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
+
+Date: 2026-07-25
+
+### El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios
+
+El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.
+
+Date: 2026-07-25
+
+### Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno
+
+El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.
+
+Date: 2026-07-25
+
+### El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara
+
+España arde. La situación compleja que atraviesa el país por la gran intensidad de los incendios forestales ha hecho que el ministerio del Interior haya declarado la emergencia de interés nacional en la Comunidad de Madrid y en Ávila . Es precisamente en ambas regiones donde se vive el escenario más complicado. Más de.
+
+Date: 2026-07-25
+
+### El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados
+
+Más de 60.000 personas han sido confinadas o evacuadas por los incendios declarados en la Comunidad de Madrid y la provincia de Ávila, que ya son.
 
 Date: 2026-07-25
 
@@ -44,39 +68,14 @@ Código Desktop Incendios en España .apertura-incendios { width: 100%; margin: 
 
 Date: 2026-07-25
 
-### Los incendios que asolan España, en imágenes
-
-Madrid y Ávila concentran los principales focos.
-
-Date: 2026-07-25
-
-### Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez
-
-El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.
-
-Date: 2026-07-25
-
-### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
-
-El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
-
-Date: 2026-07-25
-
-### No es una plaga, pero está generando graves problemas: los expertos alertan por la expansión en España de este animal
-
-La llegada y expansión de ciertas especies de animales puede alterar sin avisar el equilibrio natural de un territorio. En la Península Ibérica, un pequeño animal carnívoro está generando inquietud con su presencia entre expertos y responsables de conservación. Su capacidad de adaptación y el impacto sobre la fauna aut.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Consulta cómo avanza el fuego y el mapa de riesgo](https://www.abc.es/sociedad/mapa-incendios-dia-dia-hectareas-arrasadas-20260714000641-ntrc.html?utm_source=lootura.com) — 2026-07-25T11:20:10.000Z
+- [El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara](https://www.20minutos.es/nacional/mapa-incendios-tiempo-real-espana-consultar-focos-activos-fuegos-tiempo-real_7013152_0.html?utm_source=lootura.com) — 2026-07-25T15:20:06.000Z
 - [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T13:02:22.000Z
 - [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
-- [Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas](https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com) — 2026-07-24T23:08:43.000Z
 - [¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves](https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html?utm_source=lootura.com) — 2026-07-25T06:31:59.000Z
 - [Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años](https://elpais.com/espana/2026-07-25/datos-pocos-incendios-pero-grandes-y-veloces-julio-deja-ya-una-de-las-peores-quincenas-en-mas-de-40-anos.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
-- [Los incendios que asolan España, en imágenes](https://elpais.com/espana/2026-07-25/los-incendios-que-asolan-espana-en-imagenes.html?utm_source=lootura.com) — 2026-07-25T12:10:22.000Z
-- [Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez](https://www.larazon.es/madrid/incendio-madrid-directo-hoy-ultima-hora-fuego-desalojos-evolucion-llamas-b50m_202607256a6435fada3add27d4e1002a.html?utm_source=lootura.com) — 2026-07-25T09:40:16.000Z
-- [Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez](https://okdiario.com/espana/abascal-cree-que-incendios-tienen-que-ver-corrupcion-fanatismo-climatico-mafia-sanchez-19067130?utm_source=lootura.com) — 2026-07-25T12:19:39.000Z
 - [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
+- [El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios](https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com) — 2026-07-25T11:29:52.000Z
+- [El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados](https://theobjective.com/sociedad/suceso/2026-07-25/directo-avance-incendio-madrid/directo/?amp=&utm_source=lootura.com) — 2026-07-25T16:42:21.000Z
+- [Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno](https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com) — 2026-07-25T10:40:21.000Z

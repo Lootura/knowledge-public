@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul
+
+Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.
+
+Date: 2026-07-25
 
 ### China Has Come Through Trump’s Trade War in a Good Position
 
@@ -62,12 +68,6 @@ Chinese officials appear to think that President Trump’s accusations that Chin
 
 Date: 2026-07-17
 
-### Fact-checking Trump's address on China, the 2020 election and what documents show
-
-President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z
+- [South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul](https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/?utm_source=lootura.com) — 2026-07-25T16:39:44.000Z

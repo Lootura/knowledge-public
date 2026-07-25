@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -29,11 +29,6 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
-      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
-      "date": "2026-07-25"
-    },
-    {
       "title": "Trump returns to correspondents' dinner 3 months after shooting",
       "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
       "date": "2026-07-25"
@@ -41,6 +36,11 @@
     {
       "title": "Trump cracks jokes at first White House Correspondents' Dinner",
       "summary": "President Trump cracked jokes at the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
+      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
       "date": "2026-07-25"
     },
     {
@@ -85,14 +85,8 @@
     {
       "title": "White House rolls out AI funding — and signals a new era for US science",
       "url": "https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:19:49.607Z",
+      "publishedAt": "2026-07-25T16:54:19.750Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
-      "url": "https://www.nbcnews.com/now/video/trump-delivers-speech-at-rescheduled-white-house-correspondents-dinner-267262021881?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:19:41.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump returns to correspondents' dinner 3 months after shooting",
@@ -107,5 +101,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

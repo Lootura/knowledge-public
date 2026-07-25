@@ -46,19 +46,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "2 dead after flash floods inundate West Virginia; National Guard deployed",
-      "url": "https://www.cbsnews.com/news/west-virginia-flash-floods-national-guard/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:51:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
-      "url": "https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:06:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

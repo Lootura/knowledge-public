@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela](https://theobjective.com/internacional/2026-07-25/ascienden-5-500-muertos-terremotos-venezuela/?utm_source=lootura.com) — 2026-07-25T07:01:44.000Z
+No public source links.

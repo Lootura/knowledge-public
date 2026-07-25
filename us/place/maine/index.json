@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -18,6 +18,31 @@
   ],
   "changes": [
     {
+      "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
+      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the new Democratic nominee, has a lot of catching up to do.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
+      "summary": "Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
+      "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Robert F. Bukaty).",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
+      "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
+      "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
       "summary": "BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.",
       "date": "2026-07-25"
@@ -25,11 +50,6 @@
     {
       "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
       "summary": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
-      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the likely Democratic nominee, has a lot of catching up to do.",
       "date": "2026-07-25"
     },
     {
@@ -46,53 +66,39 @@
       "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
       "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
-      "summary": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
-      "summary": "Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "title": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
       "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T10:00:07.000Z",
+      "publishedAt": "2026-07-25T15:42:27.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
-      "url": "https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:00:00.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
       "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com",
       "publishedAt": "2026-07-25T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T15:44:09.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:32:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:03:43.000Z",
+      "publishedAt": "2026-07-25T15:57:47.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

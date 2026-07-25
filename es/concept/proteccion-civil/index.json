@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios",
+      "summary": "Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)",
       "summary": "La secretaria general de Protección Civil, Virginia Barcones, confirmó en una entrevista en TVE que son 9.000 los evacuados en diferentes localidades y 8.000 los confinados en sus casas a consecuencia del incendio de Burgohondo, en la provincia de Ávila. El incendio mantiene evacuados a los vecinos de Villanueva de Ávi.",
@@ -59,13 +64,15 @@
       "title": "Francia lucha contra tres grandes incendios activos en el sur del país",
       "summary": "Francia mantiene tres grandes incendios forestales activos, dos en la región de Nueva Aquitania (en la bahía de Arcachon y en Las Landas) y un tercero en el departamento mediterráneo de Var (entre Marsella y Niza), mientras las autoridades han solicitado la activación del Mecanismo de Protección Civil de la Unión Europ.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "\"Nos enfrentamos a una importante amenaza\": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional",
-      "summary": "El consejero Novillo pidió la activación del Sistema Nacional de Protección Civil, \"requiriendo el empleo de los medios y recursos nacionales o europeos que sean necesarios\", en una misiva a la que ha tenido acceso elDiario.es El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendio.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios",
+      "url": "https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T15:28:34.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

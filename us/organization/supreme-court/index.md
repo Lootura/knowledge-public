@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Trump sets new tariffs on trading partners, covering nearly all U.S. imports](https://www.pbs.org/newshour/show/trump-sets-new-tariffs-on-trading-partners-covering-nearly-all-u-s-imports?utm_source=lootura.com) — 2026-07-24T22:55:48.000Z
+No public source links.

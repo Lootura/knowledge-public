@@ -40,5 +40,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [2 dead after flash floods inundate West Virginia; National Guard deployed](https://www.cbsnews.com/news/west-virginia-flash-floods-national-guard/?utm_source=lootura.com) — 2026-07-24T20:51:07.000Z
-- [C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com) — 2026-07-24T16:06:03.000Z
+No public source links.

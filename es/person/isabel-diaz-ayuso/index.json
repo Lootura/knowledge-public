@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -28,11 +28,6 @@
     {
       "title": "Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»",
       "summary": "La presidenta del Gobierno de la Comunidad de Madrid , Isabel Díaz Ayuso , ha evitado de forma explícita hacer comentarios sobre la gestión y las críticas que se han vertido sobre su Gobierno desde el Gobierno de Pedro Sánchez . La presidenta madrileña ha reiterado que sus prioridades son: «salvar vidas, seguir evacuan.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.",
       "date": "2026-07-25"
     },
     {
@@ -64,21 +59,14 @@
       "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
       "summary": "El ministro de Transportes, Óscar Puente , ha llamado \"mamarracha\" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los \".",
       "date": "2026-07-24"
+    },
+    {
+      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
+      "summary": "El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
-      "url": "https://www.20minutos.es/madrid/ayuso-teme-situaciones-mucho-peores-las-proximas-horas-unirse-los-fuegos-avila-madrid-un-frente-20-000-hectareas_7018909_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:18:09.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»",
-      "url": "https://okdiario.com/espana/ayuso-evita-polemizar-gobierno-pedro-sanchez-centra-lucha-contra-fuego-19067211?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T11:59:44.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
     {
       "title": "Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid",
       "url": "https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com",
@@ -86,5 +74,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

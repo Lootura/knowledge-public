@@ -1,0 +1,59 @@
+{
+  "id": "es-agencia-espacial-europea",
+  "name": "Agencia Espacial Europea",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/agencia-espacial-europea",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.json",
+  "description": "Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "aliases": [
+    "Agencia Europea del Espacio",
+    "European Space Research Organization"
+  ],
+  "changes": [
+    {
+      "title": "El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela",
+      "summary": "La estación de espacio profundo de la Agencia Espacial Europea (ESA por sus siglas en inglés) en Cebreros parece haber salido indemne del incendio forestal que desde hace días asola la Sierra Oeste de Madrid y el sur de Ávila. Sin embargo, la propia agencia evita dar la amenaza por superada . Las instalaciones permanec.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "La Agencia Espacial Europea afirma que su estación de Cebreros \"parece\" intacta por el incendio de Ávila",
+      "summary": "Se realizará una evaluación completa de su estado se llevará a cabo cuando las autoridades permitan el acceso con seguridad El incendio de Ávila arrasa ya unas 22.000 hectáreas y deja más de 30.000 desalojados La estación de seguimiento del espacio profundo de la Agencia Espacial Europea (ESA) en Cebreros, en la provin.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
+      "summary": "Llamas en las proximidades de la estación de la DSN de Robledo de Chavela – vía Ignacio Villaverde [Anotación en actualización] Los incendios forestales que están arrasando las provincias de Ávila y de Madrid obligaron a la Agencia Espacial Europea (ESA) y a la NASA a evacuar sus estaciones de espacio profundo en Cebre.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Agencia Espacial Europea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela",
+      "url": "https://www.abc.es/sociedad/fuego-respeta-estacion-espacial-europea-cebreros-golpea-20260725170457-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T15:04:57.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La Agencia Espacial Europea afirma que su estación de Cebreros \"parece\" intacta por el incendio de Ávila",
+      "url": "https://www.eldiario.es/castilla-y-leon/sociedad/agencia-espacial-europea-afirma-estacion-cebreros-parece-intacta-incendio-avila_1_13406687.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:41:01.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
+      "url": "http://www.microsiervos.com/archivo/espacio/incendios-forestales-evacuar-estrack-esa-cebreros-dsn-nasa-robledo-chavela.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "sourceId": "lootura-es-microsiervos"
+    }
+  ],
+  "evidenceCount": 3
+}

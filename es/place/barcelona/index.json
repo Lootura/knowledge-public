@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -27,13 +27,18 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Lola Índigo suspende su concierto en Barcelona por un problema de salud",
-      "summary": "La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.",
+      "title": "Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas",
+      "summary": "Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.",
       "date": "2026-07-25"
     },
     {
-      "title": "Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas",
-      "summary": "Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.",
+      "title": "Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas",
+      "summary": "Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Las llamas han comenzado sobre las 16.20 horas de este sábado, cuando varios vecinos han alertado al teléfono de Emergencias 112 tras divisar el fuego que afecta a vegetación. En un primer momento, hasta.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Lola Índigo suspende su concierto en Barcelona por un problema de salud",
+      "summary": "La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.",
       "date": "2026-07-25"
     },
     {
@@ -65,18 +70,13 @@
       "title": "El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años",
       "summary": "Jordi Hurtado es uno de los rostros más reconocibles y longevos de la televisión española , conocido por presentar «Saber y ganar» en La2. El popular comunicador ha elegido como lugar de residencia Molins de Rei , un municipio del Bajo Llobregat donde vive desde hace más de 20 años rodeado de naturaleza y tranquilidad.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización",
-      "summary": "Por qué Barcelona tiene calles en cuadrícula: el origen del Eixample y el diseño urbano que explica su estructura más allá de la estética.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Lola Índigo suspende su concierto en Barcelona por un problema de salud",
-      "url": "https://www.abc.es/gente/lola-indigo-suspende-concierto-barcelona-problema-salud-20260725120743-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:07:47.000Z",
+      "title": "Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas",
+      "url": "https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:02:12.000Z",
       "sourceId": "lootura-es-abc"
     },
     {

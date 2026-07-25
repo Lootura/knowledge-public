@@ -3,20 +3,20 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
 
-### Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez
-
-El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.
-
-Date: 2026-07-25
-
 ### Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno
 
 El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.
+
+Date: 2026-07-25
+
+### Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez
+
+El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.
 
 Date: 2026-07-25
 
@@ -46,5 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez](https://okdiario.com/espana/abascal-cree-que-incendios-tienen-que-ver-corrupcion-fanatismo-climatico-mafia-sanchez-19067130?utm_source=lootura.com) — 2026-07-25T12:19:39.000Z
 - [Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno](https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com) — 2026-07-25T10:40:21.000Z

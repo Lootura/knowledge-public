@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca
+
+Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.
+
+Date: 2026-07-25
 
 ### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
 
@@ -62,14 +68,7 @@ Donald Trump volvió a reconstruir este viernes el muro arancelario que ya habí
 
 Date: 2026-07-24
 
-### Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas
-
-Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciales" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española](https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com) — 2026-07-25T03:44:00.000Z
 - [Trump advierte a la UE de que «pagará un precio muy alto» por multar a Goggle](https://www.elcorreo.com/economia/trump-advierte-ue-pagara-precio-alto-multar-20260725005908-nt_amp.html?utm_source=lootura.com) — 2026-07-24T22:59:09.000Z
-- [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z
+- [Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca](https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com) — 2026-07-25T06:29:14.000Z

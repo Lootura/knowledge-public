@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Empeora el incendio en Ávila: se evacúa a 30.000 personas en todo el Valle del Tiétar",
-      "summary": "El Gobierno ha decretado la evacuación de nueve municipios del Valle del Tiétar, siete de ellos en Ávila y dos en Madrid, en una operación que afecta a más de 30.000 personas, según ha anunciado el delegado del Gobierno en la Comunidad de Madrid, Francisco Martín, lo que eleva a unos 38.000 los desalojados totales en Á.",
+      "title": "El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila",
+      "summary": "El Gobierno central ha hecho un llamamiento a la población para protegerse permaneciendo en espacios cerrados y usar mascarilla cuando sea imprescindible salir al exterior allí donde haya humo provocado por los gigantescos incendios que azotan la Sierra Oeste de Madrid y parte de la provincia de Ávila, que han calcinad.",
       "date": "2026-07-25"
     },
     {
-      "title": "El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila",
-      "summary": "El Gobierno central ha hecho un llamamiento a la población para protegerse permaneciendo en espacios cerrados y usar mascarilla cuando sea imprescindible salir al exterior allí donde haya humo provocado por los gigantescos incendios que azotan la Sierra Oeste de Madrid y parte de la provincia de Ávila, que han calcinad.",
+      "title": "Empeora el incendio en Ávila: se evacúa a 30.000 personas en todo el Valle del Tiétar",
+      "summary": "El Gobierno ha decretado la evacuación de nueve municipios del Valle del Tiétar, siete de ellos en Ávila y dos en Madrid, en una operación que afecta a más de 30.000 personas, según ha anunciado el delegado del Gobierno en la Comunidad de Madrid, Francisco Martín, lo que eleva a unos 38.000 los desalojados totales en Á.",
       "date": "2026-07-25"
     },
     {
@@ -34,11 +34,6 @@
     {
       "title": "El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila",
       "summary": "Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Última hora de los incendios | El Gobierno tratará el fuego en Ávila y Madrid como un único incendio",
-      "summary": "Después de una noche de trabajos sin apenas descanso, los bomberos están logrando contener parcialmente los avances del fuego ante la oportunidad que ha presentado la bajada de las temperaturas de esta madrugada. Pese a ello, se espera un sábado muy complicado en la lucha contra los incendios forestales declarados esta.",
       "date": "2026-07-25"
     },
     {
@@ -57,18 +52,17 @@
       "date": "2026-07-25"
     },
     {
-      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
-      "summary": "España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...",
+      "title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
+      "summary": "El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
+      "summary": "Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...",
       "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Empeora el incendio en Ávila: se evacúa a 30.000 personas en todo el Valle del Tiétar",
-      "url": "https://www.20minutos.es/castilla-y-leon/avila/empeora-incendio-avila-se-evacua-30-000-personas-todo-valle-tietar_7018900_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T11:35:47.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
       "url": "https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com",
@@ -80,19 +74,7 @@
       "url": "https://elpais.com/sociedad/2026-07-25/protegerse-frente-al-humo-mejor-quedarse-en-casa-usar-mascarilla-ffp2-al-salir-y-llamar-a-urgencias-si-cuesta-respirar.html?utm_source=lootura.com",
       "publishedAt": "2026-07-25T12:26:19.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El incendio de Ávila arrasa ya unas 22.000 hectáreas y deja más de 30.000 desalojados",
-      "url": "https://www.eldiario.es/castilla-y-leon/sociedad/incendio-avila-arrasa-11-000-hectareas-mejora-durante-noche-no-junta-fuego-madrid_1_13406346.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T08:40:47.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila",
-      "url": "https://www.larazon.es/pais-vasco/motivo-que-pais-vasco-envio-medios-aereos-madrid-avila-b30m_202607256a64b1d0da3add27d4e1a843.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:53:36.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

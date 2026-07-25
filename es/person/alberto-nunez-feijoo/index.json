@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -25,6 +25,11 @@
     {
       "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
       "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Feijóo pide ser \"responsables\" y combatir \"juntos\" los incendios",
+      "summary": "Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar \"juntos\" para combatir los incendios, así de ser \"responsables\" y \"refrescar el ambiente político\". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.",
       "date": "2026-07-25"
     },
     {
@@ -66,14 +71,15 @@
       "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
       "summary": "Activa la \"cuenta atrás\" hacia La Moncloa y plantea un plan de regeneración institucional, más \"gestión\" y rebajas fiscales a familia y autónomos Leer.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
-      "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Feijóo pide ser \"responsables\" y combatir \"juntos\" los incendios",
+      "url": "https://www.larazon.es/espana/feijoo-pide-ser-responsables-combatir-juntos-incendios_202607256a64e4974687a22bdecd9957.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:30:15.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
     {
       "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
       "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
@@ -81,5 +87,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -80,13 +80,7 @@
       "url": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers?utm_source=lootura.com",
       "publishedAt": "2026-07-25T11:43:48.000Z",
       "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "How volunteers with 3D printers make weapons for Ukraine",
-      "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:40:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

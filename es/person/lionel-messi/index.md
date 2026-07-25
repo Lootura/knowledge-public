@@ -3,7 +3,7 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [El inesperado y amargo momento de Messi: en su casa, en silencio y en medio de una tormenta mundial](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/25/6a63399dfc6c8334148b4595.html?utm_source=lootura.com) — 2026-07-25T14:12:32.000Z

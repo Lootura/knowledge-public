@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Trucos para crear mejores imágenes con ChatGPT y Gemini](https://hipertextual.com/guias/crear-imagenes-profesionales-con-chatgpt-gemini/?utm_source=lootura.com) — 2026-07-25T07:00:00.000Z
+No public source links.

@@ -34,6 +34,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Empeora el incendio en Ávila: se evacúa a 30.000 personas en todo el Valle del Tiétar](https://www.20minutos.es/castilla-y-leon/avila/empeora-incendio-avila-se-evacua-30-000-personas-todo-valle-tietar_7018900_0.html?utm_source=lootura.com) — 2026-07-25T11:35:47.000Z
-- [El incendio de Madrid obliga a evacuar Cenicientos y a trasladar el puesto de mando: "Os rogamos que vayáis saliendo de aquí"](https://www.20minutos.es/madrid/incendio-madrid-obliga-evacuar-cenicientos-trasladar-puesto-mando_7018907_0.html?utm_source=lootura.com) — 2026-07-25T12:03:35.000Z
-- [Última hora de los incendios forestales, en directo | Más de 87.000 evacuados o confinados por los incendios en Ávila y Madrid](https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-25T13:14:09.000Z
+No public source links.

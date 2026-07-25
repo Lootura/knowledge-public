@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
+      "summary": "Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.",
+      "date": "2026-07-25"
+    },
     {
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
       "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
@@ -57,26 +62,15 @@
       "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
       "summary": "President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
-      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:54:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "China Has Come Through Trump’s Trade War in a Good Position",
-      "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:20:13.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
+      "url": "https://www.cbsnews.com/video/beluga-whales-transferred-to-us-aquariums-after-canadian-theme-park-closes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:13:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -23,12 +23,6 @@ Date: 2026-07-25
 ### Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»
 
 La presidenta del Gobierno de la Comunidad de Madrid , Isabel Díaz Ayuso , ha evitado de forma explícita hacer comentarios sobre la gestión y las críticas que se han vertido sobre su Gobierno desde el Gobierno de Pedro Sánchez . La presidenta madrileña ha reiterado que sus prioridades son: «salvar vidas, seguir evacuan.
-
-Date: 2026-07-25
-
-### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.
 
 Date: 2026-07-25
 
@@ -68,8 +62,12 @@ El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la preside
 
 Date: 2026-07-24
 
+### Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»
+
+El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.
+
+Date: 2026-07-24
+
 ## Fuentes
 
-- [Ayuso teme "situaciones mucho peores en las próximas horas" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas](https://www.20minutos.es/madrid/ayuso-teme-situaciones-mucho-peores-las-proximas-horas-unirse-los-fuegos-avila-madrid-un-frente-20-000-hectareas_7018909_0.html?utm_source=lootura.com) — 2026-07-25T12:18:09.000Z
-- [Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»](https://okdiario.com/espana/ayuso-evita-polemizar-gobierno-pedro-sanchez-centra-lucha-contra-fuego-19067211?utm_source=lootura.com) — 2026-07-25T11:59:44.000Z
 - [Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid](https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com) — 2026-07-25T09:33:58.000Z

@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Apalachee High School shooting suspect pleads guilty to all charges](https://www.cbsnews.com/news/apalachee-high-school-shooting-suspect-colt-gray-non-negotiated-plea-hearing-updates/?utm_source=lootura.com) — 2026-07-24T20:38:00.000Z
+No public source links.

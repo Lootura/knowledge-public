@@ -3,10 +3,34 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Opposing Defense Bill, Democrats Shift Their Tactics
+
+Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+
+Date: 2026-07-25
+
+### Maine Democrats pick Troy Jackson to replace Platner on Senate ballot
+
+Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.
+
+Date: 2026-07-25
+
+### Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate
+
+Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Robert F. Bukaty).
+
+Date: 2026-07-25
+
+### Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race
+
+Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.
+
+Date: 2026-07-25
 
 ### Democrats poised to nominate Troy Jackson in must-win Maine Senate race
 
@@ -17,12 +41,6 @@ Date: 2026-07-25
 ### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
 
 Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
-
-Date: 2026-07-25
-
-### Opposing Defense Bill, Democrats Shift Their Tactics
-
-Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
 
 Date: 2026-07-25
 
@@ -50,28 +68,10 @@ Crossing what was once seen as a political red line, Democrats voted against the
 
 Date: 2026-07-24
 
-### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
-
-For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.
-
-Date: 2026-07-23
-
-### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
-
-Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
-
-Date: 2026-07-23
-
-### House again rebukes Trump over Iran, while similar effort stalls in Senate
-
-The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Maine Democrats meet to select Senate nominee to replace Graham Platner](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T10:00:07.000Z
-- [Democrats poised to nominate Troy Jackson in must-win Maine Senate race](https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
+- [Maine Democrats pick Troy Jackson to replace Platner on Senate ballot](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T15:42:27.000Z
+- [Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
+- [Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race](https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com) — 2026-07-25T15:44:09.000Z
 - [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-25T01:29:29.000Z

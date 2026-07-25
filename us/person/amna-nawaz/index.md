@@ -46,5 +46,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Brooks and Marcus on the Iran conflict becoming a 'forever war'](https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com) — 2026-07-24T22:35:39.000Z
-- [Aid worker describes crisis in Venezuela, one month after devastating earthquakes](https://www.pbs.org/newshour/show/aid-worker-describes-crisis-in-venezuela-one-month-after-devastating-earthquakes?utm_source=lootura.com) — 2026-07-24T22:45:14.000Z
+No public source links.

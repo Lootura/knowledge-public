@@ -2,23 +2,11 @@
 
 > Sigue la actividad de Sierra Oeste en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Type: organization
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/place/sierra-oeste
 
 ## Cambios recientes
-
-### Ayuso teme "situaciones mucho peores en las próximas horas" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas
-
-La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un "momento muy crítico", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.
-
-Date: 2026-07-25
-
-### El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2
-
-El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al límite entre ambas provincias. La nueva evolución del fuego ha obligado al Plan Infocam a elevar la situación operativa al nivel 2 , apenas un d.
-
-Date: 2026-07-25
 
 ### El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila
 
@@ -38,9 +26,26 @@ Sierra Oeste first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-25
 
+### El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela
+
+La estación de espacio profundo de la Agencia Espacial Europea (ESA por sus siglas en inglés) en Cebreros parece haber salido indemne del incendio forestal que desde hace días asola la Sierra Oeste de Madrid y el sur de Ávila. Sin embargo, la propia agencia evita dar la amenaza por superada . Las instalaciones permanec.
+
+Date: 2026-07-25
+
+### Ayuso teme "situaciones mucho peores en las próximas horas" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas
+
+La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un "momento muy crítico", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.
+
+Date: 2026-07-25
+
+### El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2
+
+El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al límite entre ambas provincias. La nueva evolución del fuego ha obligado al Plan Infocam a elevar la situación operativa al nivel 2 , apenas un d.
+
+Date: 2026-07-25
+
 ## Fuentes
 
-- [Ayuso teme "situaciones mucho peores en las próximas horas" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas](https://www.20minutos.es/madrid/ayuso-teme-situaciones-mucho-peores-las-proximas-horas-unirse-los-fuegos-avila-madrid-un-frente-20-000-hectareas_7018909_0.html?utm_source=lootura.com) — 2026-07-25T12:18:09.000Z
-- [El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2](https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/viento-acerca-incendio-sierra-oeste-madrid-almorox-20260725143034-nt.html?utm_source=lootura.com) — 2026-07-25T12:30:34.000Z
+- [El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela](https://www.abc.es/sociedad/fuego-respeta-estacion-espacial-europea-cebreros-golpea-20260725170457-nt.html?utm_source=lootura.com) — 2026-07-25T15:04:57.000Z
 - [El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila](https://elpais.com/sociedad/2026-07-25/protegerse-frente-al-humo-mejor-quedarse-en-casa-usar-mascarilla-ffp2-al-salir-y-llamar-a-urgencias-si-cuesta-respirar.html?utm_source=lootura.com) — 2026-07-25T12:26:19.000Z
 - [Telemadrid da voz al negacionismo del cambio climático en un especial informativo sobre los incendios: "En Madrid ha hecho calor siempre"](https://www.eldiario.es/rastreador/telemadrid-da-voz-negacionismo-cambio-climatico-especial-informativo-incendios-madrid-hecho-calor_132_13406556.html?utm_source=lootura.com) — 2026-07-25T10:32:43.000Z

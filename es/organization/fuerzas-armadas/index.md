@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia
+
+Al menos ocho personas han muerto, entre ellas dos niños, y otras 14 han resultado heridas en un ataque perpetrado este sábado por las Fuerzas Armadas de Ucrania contra una zona ocupada por las tropas rusas en la provincia ucraniana de Zaporiyia, en el este del país. «Esta madrugada, en la localidad de Kirilivka, se ha.
+
+Date: 2026-07-25
 
 ### Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países
 
@@ -46,4 +52,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia](https://theobjective.com/internacional/2026-07-25/ocho-muertos-heridos-ataque-ucrania-zona-ocupada/?utm_source=lootura.com) — 2026-07-25T13:29:46.000Z

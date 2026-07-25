@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo
+
+La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha recordado este sábado en su cuenta personal de la red social Bluesky, que aquellas personas que no puedan acceder o desplazarse hasta su puesto de trabajo por culpa de incendios como los de Ávila y Madrid tienen derecho a cuatro días de permiso retribuid.
+
+Date: 2026-07-25
 
 ### Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas
 
@@ -62,12 +68,6 @@ Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en p
 
 Date: 2026-07-23
 
-### Más de 150.000 euros anuales y ayuda para la vivienda en Suiza, el salario al que opta
-
-La posible llegada de Yolanda Díaz a la Dirección General de la Organización Internacional del Trabajo (OIT) supondría, además de su salida del Gobierno, un incremento en el salario de la hasta ahora vicepresidenta segunda del Gobierno. El puesto que busca abordar la exlíder de Sumar es uno de los mejores remunerados d.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas](https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com) — 2026-07-24T23:08:43.000Z
+- [Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo](https://elpais.com/economia/2026-07-25/los-afectados-por-los-incendios-cuentan-con-cuatro-dias-de-permiso-retribuido-en-el-trabajo.html?utm_source=lootura.com) — 2026-07-25T13:45:15.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -37,42 +37,42 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez",
-      "summary": "El operativo contra el incendio que afecta al suroeste de la Comunidad de Madrid continúa desplegado con un amplio dispositivo de medios terrestres y aéreos. Tras una jornada especialmente complicada, los equipos de extinción centran ahora sus esfuerzos en consolidar el perímetro, proteger los núcleos urbanos y evitar.",
+      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
+      "summary": "El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
+      "summary": "El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara",
+      "summary": "España arde. La situación compleja que atraviesa el país por la gran intensidad de los incendios forestales ha hecho que el ministerio del Interior haya declarado la emergencia de interés nacional en la Comunidad de Madrid y en Ávila . Es precisamente en ambas regiones donde se vive el escenario más complicado. Más de.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados",
+      "summary": "Más de 60.000 personas han sido confinadas o evacuadas por los incendios declarados en la Comunidad de Madrid y la provincia de Ávila, que ya son.",
       "date": "2026-07-25"
     },
     {
       "title": "Consulta cómo avanza el fuego y el mapa de riesgo",
       "summary": "Código Desktop Incendios en España .apertura-incendios { width: 100%; margin: 20px auto 28px; padding: 0 20px; box-sizing: border-box; } .apertura-incendios__grafico { width: 100%; max-width: 200px; margin: 0 auto; } .apertura-incendios__svg { display: block; width: 100%; height: auto; overflow: visible; } .apertura-in.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Los incendios que asolan España, en imágenes",
-      "summary": "Madrid y Ávila concentran los principales focos.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
-      "summary": "El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
-      "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "No es una plaga, pero está generando graves problemas: los expertos alertan por la expansión en España de este animal",
-      "summary": "La llegada y expansión de ciertas especies de animales puede alterar sin avisar el equilibrio natural de un territorio. En la Península Ibérica, un pequeño animal carnívoro está generando inquietud con su presencia entre expertos y responsables de conservación. Su capacidad de adaptación y el impacto sobre la fauna aut.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Consulta cómo avanza el fuego y el mapa de riesgo",
-      "url": "https://www.abc.es/sociedad/mapa-incendios-dia-dia-hectareas-arrasadas-20260714000641-ntrc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T11:20:10.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara",
+      "url": "https://www.20minutos.es/nacional/mapa-incendios-tiempo-real-espana-consultar-focos-activos-fuegos-tiempo-real_7013152_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T15:20:06.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
@@ -87,12 +87,6 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas",
-      "url": "https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T23:08:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html?utm_source=lootura.com",
       "publishedAt": "2026-07-25T06:31:59.000Z",
@@ -105,29 +99,29 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Los incendios que asolan España, en imágenes",
-      "url": "https://elpais.com/espana/2026-07-25/los-incendios-que-asolan-espana-en-imagenes.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:10:22.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Incendios en Madrid y en España, en directo hoy: Última hora del fuego, desalojos, carreteras cortadas y declaración de Sánchez",
-      "url": "https://www.larazon.es/madrid/incendio-madrid-directo-hoy-ultima-hora-fuego-desalojos-evolucion-llamas-b50m_202607256a6435fada3add27d4e1002a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:40:16.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
-      "url": "https://okdiario.com/espana/abascal-cree-que-incendios-tienen-que-ver-corrupcion-fanatismo-climatico-mafia-sanchez-19067130?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:19:39.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
       "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
       "publishedAt": "2026-07-25T13:18:46.000Z",
       "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
+      "url": "https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T11:29:52.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-25/directo-avance-incendio-madrid/directo/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:42:21.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
+      "url": "https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T10:40:21.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 9
 }

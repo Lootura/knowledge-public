@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "startup funding"
   ],
@@ -38,7 +38,7 @@
     {
       "title": "White House rolls out AI funding — and signals a new era for US science",
       "url": "https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:19:49.607Z",
+      "publishedAt": "2026-07-25T16:54:19.750Z",
       "sourceId": "lootura-us-nature"
     }
   ],

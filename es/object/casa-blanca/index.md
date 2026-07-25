@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca
+
+Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.
+
+Date: 2026-07-25
 
 ### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
 
@@ -62,12 +68,6 @@ La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.87
 
 Date: 2026-07-22
 
-### Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump
-
-El presidente estadounidense Donald Trump, con ocasión de una visita del primer ministro iraquí Ali Zaydi en la Casa Blanca, hizo unas declaraciones hizo declaraciones sobre el ataque con drones estadounidense de enero de 2020 que acabó con la vida del comandante de la Fuerza Quds de la Guardia Revolucionaria Islámica.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z
+- [Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca](https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com) — 2026-07-25T06:29:14.000Z

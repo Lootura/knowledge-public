@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Upper West Side double stabbing suspect facing hate crime charges
 
 The suspect in Thursday's double stabbing​ on New York City's Upper West Side has been charged with attempted murder as a hate crime, among other things.
+
+Date: 2026-07-25
+
+### Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda
+
+Dean and Maya Jankelowitz aim to serve up a tradition of food, family, and grandmotherly magic at Jack's Wife Freda, their New York City restaurant chain. Their signature comfort food keeps New Yorkers and tourists coming back for more.
 
 Date: 2026-07-25
 
@@ -62,12 +68,7 @@ Mayor Zohran Mamdani challenged the United States to execute an international ar
 
 Date: 2026-07-22
 
-### New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu
-
-New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 2026. —Screenshot from Mayor Zohran Kwame Mamdani's X account (@NYCMayor) Since campaigning for New York City mayor, Zohran Mamdani has pledged to arrest Israel’s Prime Minister Benjamin Netanyahu for his alleged war crimes if he ever shows up.
-
-Date: 2026-07-22
-
 ## Sources
 
+- [Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda](https://www.cbsnews.com/video/maya-and-dean-jankelowitz-serve-up-comfort-food-to-new-yorkers-with-jacks-wife-freda/?utm_source=lootura.com) — 2026-07-25T16:40:36.000Z
 - [Upper West Side double stabbing suspect facing hate crime charges](https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com) — 2026-07-25T03:34:20.000Z

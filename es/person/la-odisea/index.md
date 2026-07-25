@@ -3,7 +3,7 @@
 > Sigue la actividad de La Odisea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/la-odisea
 
 ## Cambios recientes

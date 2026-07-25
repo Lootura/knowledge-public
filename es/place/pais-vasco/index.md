@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila](https://www.larazon.es/pais-vasco/motivo-que-pais-vasco-envio-medios-aereos-madrid-avila-b30m_202607256a64b1d0da3add27d4e1a843.html?utm_source=lootura.com) — 2026-07-25T12:53:36.000Z
+No public source links.

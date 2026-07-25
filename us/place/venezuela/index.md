@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Aid worker describes crisis in Venezuela, one month after devastating earthquakes](https://www.pbs.org/newshour/show/aid-worker-describes-crisis-in-venezuela-one-month-after-devastating-earthquakes?utm_source=lootura.com) — 2026-07-24T22:45:14.000Z
+No public source links.

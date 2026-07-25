@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,11 @@
     {
       "title": "Upper West Side double stabbing suspect facing hate crime charges",
       "summary": "The suspect in Thursday's double stabbing​ on New York City's Upper West Side has been charged with attempted murder as a hate crime, among other things.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda",
+      "summary": "Dean and Maya Jankelowitz aim to serve up a tradition of food, family, and grandmotherly magic at Jack's Wife Freda, their New York City restaurant chain. Their signature comfort food keeps New Yorkers and tourists coming back for more.",
       "date": "2026-07-25"
     },
     {
@@ -77,14 +82,15 @@
       "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
       "summary": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu",
-      "summary": "New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 2026. —Screenshot from Mayor Zohran Kwame Mamdani's X account (@NYCMayor) Since campaigning for New York City mayor, Zohran Mamdani has pledged to arrest Israel’s Prime Minister Benjamin Netanyahu for his alleged war crimes if he ever shows up.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda",
+      "url": "https://www.cbsnews.com/video/maya-and-dean-jankelowitz-serve-up-comfort-food-to-new-yorkers-with-jacks-wife-freda/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:40:36.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Upper West Side double stabbing suspect facing hate crime charges",
       "url": "https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com",
@@ -92,5 +98,5 @@
       "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

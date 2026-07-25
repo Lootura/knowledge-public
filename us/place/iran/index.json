@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -42,6 +42,16 @@
       "date": "2026-07-25"
     },
     {
+      "title": "From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed",
+      "summary": "The U.S. deal with Iran signed in June initially appeared to be a success. It didn’t take long to fall apart.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "What’s Left of the U.S.-Iran Cease-Fire Agreement",
+      "summary": "Nearly all of the agreement’s 14 points have been violated.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
       "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
       "date": "2026-07-25"
@@ -52,28 +62,12 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
-      "summary": "Stock markets closed mixed on Friday as the Iran war continues to upend energy prices. CBS News MoneyWatch correspondent Kelly O'Grady has more.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
-      "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:50:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "How Jordan became a target for Iran in war with U.S.",
       "url": "https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com",
@@ -91,18 +85,6 @@
       "url": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia?utm_source=lootura.com",
       "publishedAt": "2026-07-25T11:43:45.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
-      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:57:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:35:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
@@ -123,11 +105,29 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:41:20.000Z",
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:29:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "How a Summer of War With Iran Could Shape the Fall Elections",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/republicans-trump-iran-war-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:21:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T13:58:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:11:26.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 11
 }

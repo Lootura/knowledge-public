@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -14,15 +14,21 @@ Hundreds of thousands of people, including residents as well as vacationers, wer
 
 Date: 2026-07-25
 
-### Wildfires in France and Spain force 200,000 to flee
-
-The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heatwaves.
-
-Date: 2026-07-25
-
 ### What to Know About the Wildfires Raging in Western Europe
 
 Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.
+
+Date: 2026-07-25
+
+### Wildfires in France and Spain force more than 267,000 to flee
+
+The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.
+
+Date: 2026-07-25
+
+### Wildfires in France and Spain force 200,000 to flee
+
+The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heatwaves.
 
 Date: 2026-07-25
 
@@ -58,7 +64,6 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Wildfires in France and Spain force 200,000 to flee](https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/?utm_source=lootura.com) — 2026-07-25T12:31:34.000Z
-- [Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope](https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com) — 2026-07-24T16:10:17.000Z
+- [Wildfires in France and Spain force more than 267,000 to flee](https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/?utm_source=lootura.com) — 2026-07-25T15:15:09.000Z
 - [What to Know About the Wildfires Raging in Western Europe](https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html?utm_source=lootura.com) — 2026-07-25T12:53:41.000Z
-- [Wildfire Smoke Chokes Skies in Spain and France](https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html?utm_source=lootura.com) — 2026-07-25T09:49:31.000Z
+- [Wildfire Smoke Chokes Skies in Spain and France](https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html?utm_source=lootura.com) — 2026-07-25T13:44:37.000Z

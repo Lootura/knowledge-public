@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -26,21 +26,9 @@ President Trump has lashed out over the years at NBA star LeBron James, who has 
 
 Date: 2026-07-25
 
-### Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner
-
-Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.
-
-Date: 2026-07-25
-
 ### Trump returns to correspondents' dinner 3 months after shooting
 
 President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).
-
-Date: 2026-07-25
-
-### At Correspondents’ Dinner, a Rambling Trump Hurls Insults
-
-President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
 
 Date: 2026-07-25
 
@@ -68,15 +56,27 @@ While living in Miami, Colombia’s president-elect represented accused drug tra
 
 Date: 2026-07-25
 
+### Trump cracks jokes at first White House Correspondents' Dinner
+
+President Trump cracked jokes at the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.
+
+Date: 2026-07-25
+
+### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
+
+The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.
+
+Date: 2026-07-25
+
 ## Sources
 
-- [Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs](https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com) — 2026-07-24T20:50:53.000Z
 - [Trump cracks jokes at first White House Correspondents' Dinner](https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com) — 2026-07-25T12:50:00.000Z
-- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-25T13:19:49.607Z
+- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-25T16:54:19.751Z
 - [Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks](https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com) — 2026-07-25T01:24:23.000Z
-- [Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner](https://www.nbcnews.com/now/video/trump-delivers-speech-at-rescheduled-white-house-correspondents-dinner-267262021881?utm_source=lootura.com) — 2026-07-25T03:19:41.000Z
 - [Trump is hellbent on tariffs. Here are 5 implications](https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z
 - [Trump returns to correspondents' dinner 3 months after shooting](https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner?utm_source=lootura.com) — 2026-07-25T05:04:00.000Z
 - [Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia](https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia?utm_source=lootura.com) — 2026-07-25T11:43:45.000Z
-- [Brooks and Marcus on the Iran conflict becoming a 'forever war'](https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com) — 2026-07-24T22:35:39.000Z
+- [Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran](https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html?utm_source=lootura.com) — 2026-07-24T21:41:12.000Z
+- [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html?utm_source=lootura.com) — 2026-07-24T22:11:17.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z

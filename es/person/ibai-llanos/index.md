@@ -3,7 +3,7 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal
 
 La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.
+
+Date: 2026-07-25
+
+### Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales
+
+Siga el minuto a minuto de la Velada del Año VI con sus ganadores y los conciertos.
 
 Date: 2026-07-25
 
@@ -62,13 +68,7 @@ Ibai Llanos first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-07-20
 
-### Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos
-
-La Selección española de fútbol, flamante campeona del mundo , ha sido recibida este lunes en el Palacio de la Moncloa por el presidente del Gobierno , Pedro Sánchez , y por el personal del recinto. Lo que suele ser un evento protocolario cerrado y sobrio, ha sido una auténtica fiesta: un escenario en los jardines del.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [La Velada del Año 6: lista completa de artistas que actúan](https://okdiario.com/happyfm/velada-del-ano-6-lista-completa-artistas-que-actuan-19032259/amp?utm_source=lootura.com) — 2026-07-25T09:33:21.000Z
+- [Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales](https://www.larazon.es/actualidad/velada-ano-ibai-llanos-directo-ultima-hora-combates-orden-peleas-actuaciones-musicales-b50m_202607256a64d028aa17c0020f2f9d6b.html?outputType=amp&utm_source=lootura.com) — 2026-07-25T16:48:32.000Z
 - [La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal](https://theobjective.com/cultura/2026-07-25/velada-del-ano-reune-20-creadores-ring-artistas-juanes-bad-gyal/?amp=&utm_source=lootura.com) — 2026-07-25T09:26:35.000Z

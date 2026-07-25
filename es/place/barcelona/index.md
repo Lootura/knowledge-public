@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-07-25T16:53:58.142Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 hora
 
 Date: 2026-07-25
 
-### Lola Índigo suspende su concierto en Barcelona por un problema de salud
-
-La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.
-
-Date: 2026-07-25
-
 ### Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas
 
 Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.
+
+Date: 2026-07-25
+
+### Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas
+
+Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Las llamas han comenzado sobre las 16.20 horas de este sábado, cuando varios vecinos han alertado al teléfono de Emergencias 112 tras divisar el fuego que afecta a vegetación. En un primer momento, hasta.
+
+Date: 2026-07-25
+
+### Lola Índigo suspende su concierto en Barcelona por un problema de salud
+
+La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.
 
 Date: 2026-07-25
 
@@ -62,14 +68,8 @@ Jordi Hurtado es uno de los rostros más reconocibles y longevos de la televisi�
 
 Date: 2026-07-24
 
-### ¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización
-
-Por qué Barcelona tiene calles en cuadrícula: el origen del Eixample y el diseño urbano que explica su estructura más allá de la estética.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Lola Índigo suspende su concierto en Barcelona por un problema de salud](https://www.abc.es/gente/lola-indigo-suspende-concierto-barcelona-problema-salud-20260725120743-nt.html?utm_source=lootura.com) — 2026-07-25T12:07:47.000Z
+- [Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas](https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html?utm_source=lootura.com) — 2026-07-25T16:02:12.000Z
 - [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
 - [Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas](https://okdiario.com/historia/hallazgo-historico-obras-mercado-barcelona-sacan-luz-refugio-antiaereo-guerra-civil-capacidad-240-personas-19055911?utm_source=lootura.com) — 2026-07-25T13:00:12.000Z

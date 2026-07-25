@@ -46,4 +46,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»](https://theobjective.com/actualidad/2026-07-25/amancio-ortega-anos-busdongo-arbas-lujos/?amp=&utm_source=lootura.com) — 2026-07-25T05:30:00.000Z
+No public source links.

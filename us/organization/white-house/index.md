@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-07-25T16:54:15.759Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -20,12 +20,6 @@ Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US 
 
 Date: 2026-07-25
 
-### Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner
-
-Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.
-
-Date: 2026-07-25
-
 ### Trump returns to correspondents' dinner 3 months after shooting
 
 President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).
@@ -35,6 +29,12 @@ Date: 2026-07-25
 ### Trump cracks jokes at first White House Correspondents' Dinner
 
 President Trump cracked jokes at the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.
+
+Date: 2026-07-25
+
+### Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner
+
+Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.
 
 Date: 2026-07-25
 
@@ -72,7 +72,6 @@ Date: 2026-07-25
 
 - [White House Correspondents' Association scholarship recipients relive terrifying dinner](https://www.cbsnews.com/video/whca-scholarship-recipients-relive-terrifying-dinner/?utm_source=lootura.com) — 2026-07-25T00:21:05.000Z
 - [Trump cracks jokes at first White House Correspondents' Dinner](https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com) — 2026-07-25T12:50:00.000Z
-- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T13:19:49.607Z
-- [Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner](https://www.nbcnews.com/now/video/trump-delivers-speech-at-rescheduled-white-house-correspondents-dinner-267262021881?utm_source=lootura.com) — 2026-07-25T03:19:41.000Z
+- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T16:54:19.750Z
 - [Trump returns to correspondents' dinner 3 months after shooting](https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner?utm_source=lootura.com) — 2026-07-25T05:04:00.000Z
 - [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html?utm_source=lootura.com) — 2026-07-24T22:11:17.000Z

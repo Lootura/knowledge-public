@@ -1,26 +1,16 @@
 {
   "id": "es-sierra-oeste",
   "name": "Sierra Oeste",
-  "type": "place",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/place/sierra-oeste",
   "canonicalUrl": "https://atlas.lootura.com/es/place/sierra-oeste",
   "markdownUrl": "https://atlas.lootura.com/es/place/sierra-oeste/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/sierra-oeste/index.json",
   "description": "Sigue la actividad de Sierra Oeste en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-07-25T16:53:58.142Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
-      "summary": "La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un \"momento muy crítico\", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2",
-      "summary": "El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al límite entre ambas provincias. La nueva evolución del fuego ha obligado al Plan Infocam a elevar la situación operativa al nivel 2 , apenas un d.",
-      "date": "2026-07-25"
-    },
     {
       "title": "El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila",
       "summary": "El Gobierno central ha hecho un llamamiento a la población para protegerse permaneciendo en espacios cerrados y usar mascarilla cuando sea imprescindible salir al exterior allí donde haya humo provocado por los gigantescos incendios que azotan la Sierra Oeste de Madrid y parte de la provincia de Ávila, que han calcinad.",
@@ -35,19 +25,28 @@
       "title": "Discovered by Atlas",
       "summary": "Sierra Oeste first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela",
+      "summary": "La estación de espacio profundo de la Agencia Espacial Europea (ESA por sus siglas en inglés) en Cebreros parece haber salido indemne del incendio forestal que desde hace días asola la Sierra Oeste de Madrid y el sur de Ávila. Sin embargo, la propia agencia evita dar la amenaza por superada . Las instalaciones permanec.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
+      "summary": "La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un \"momento muy crítico\", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2",
+      "summary": "El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al límite entre ambas provincias. La nueva evolución del fuego ha obligado al Plan Infocam a elevar la situación operativa al nivel 2 , apenas un d.",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
-      "url": "https://www.20minutos.es/madrid/ayuso-teme-situaciones-mucho-peores-las-proximas-horas-unirse-los-fuegos-avila-madrid-un-frente-20-000-hectareas_7018909_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:18:09.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y eleva la emergencia a nivel 2",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/viento-acerca-incendio-sierra-oeste-madrid-almorox-20260725143034-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:30:34.000Z",
+      "title": "El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela",
+      "url": "https://www.abc.es/sociedad/fuego-respeta-estacion-espacial-europea-cebreros-golpea-20260725170457-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T15:04:57.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -63,5 +62,5 @@
       "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham](https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html?utm_source=lootura.com) — 2026-07-24T18:33:21.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "España",
     "Estado español",
@@ -21,13 +21,18 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Wildfires in France and Spain force 200,000 to flee",
-      "summary": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heatwaves.",
+      "title": "What to Know About the Wildfires Raging in Western Europe",
+      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
       "date": "2026-07-25"
     },
     {
-      "title": "What to Know About the Wildfires Raging in Western Europe",
-      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+      "title": "Wildfires in France and Spain force more than 267,000 to flee",
+      "summary": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Wildfires in France and Spain force 200,000 to flee",
+      "summary": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heatwaves.",
       "date": "2026-07-25"
     },
     {
@@ -58,16 +63,10 @@
   ],
   "sources": [
     {
-      "title": "Wildfires in France and Spain force 200,000 to flee",
+      "title": "Wildfires in France and Spain force more than 267,000 to flee",
       "url": "https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:31:34.000Z",
+      "publishedAt": "2026-07-25T15:15:09.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:10:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "What to Know About the Wildfires Raging in Western Europe",
@@ -78,9 +77,9 @@
     {
       "title": "Wildfire Smoke Chokes Skies in Spain and France",
       "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:49:31.000Z",
+      "publishedAt": "2026-07-25T13:44:37.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

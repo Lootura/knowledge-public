@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-07-25T16:54:15.759Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -74,27 +74,33 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Secret Service agent who confronted gunman honored at Correspondents’ Dinner",
-      "summary": "U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.",
+      "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
+      "summary": "Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.",
       "date": "2026-07-25"
     },
     {
-      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
-      "date": "2026-07-24"
+      "title": "How California Pizza Kitchen co-founder Rick Rosenfield built a pizza empire",
+      "summary": "California Pizza Kitchen co-founder o joins \"CBS Saturday Morning\" to discuss the history of the franchise and his new memoir; \"The California Pizza Kitchen Story: How Two Federal Prosecutors Changed the Way America Eats Pizza.\".",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
-      "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:50:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
+      "url": "https://www.cbsnews.com/video/beluga-whales-transferred-to-us-aquariums-after-canadian-theme-park-closes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:13:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "How California Pizza Kitchen co-founder Rick Rosenfield built a pizza empire",
+      "url": "https://www.cbsnews.com/video/how-california-pizza-kitchen-co-founder-rick-rosenfield-built-a-pizza-empire/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T16:31:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -106,14 +112,8 @@
     {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:19:49.607Z",
+      "publishedAt": "2026-07-25T16:54:19.751Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "U.S. military intentionally allowing some Iranian projectiles through defenses",
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-military-intentionally-allowing-some-iranian-projectiles-through-defenses-267250757926?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:52:24.000Z",
-      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
@@ -134,17 +134,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
-      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:57:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:35:39.000Z",
+      "title": "Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T12:00:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 19
 }
