@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios",
+      "summary": "La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.",
+      "date": "2026-07-25"
+    },
     {
       "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
       "summary": "La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.",
@@ -45,6 +50,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios",
+      "url": "https://www.larazon.es/actualidad/estrategia-chantaje-madrid-tomara-medidas-bomberos-forestales-que-protestan-plena-ola-incendios-b50m_202607256a6481ecaa17c0020f2f2a54.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:29:16.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

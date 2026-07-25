@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
+
+Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-25
 
 ### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
 
@@ -62,12 +68,6 @@ La lavanda se ha convertido en una de las plantas favoritas para quienes buscan 
 
 Date: 2026-07-23
 
-### El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas
-
-El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T09:43:04.000Z

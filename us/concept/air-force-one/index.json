@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -18,6 +18,16 @@
     {
       "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
       "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
+      "summary": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
       "date": "2026-07-25"
     },
     {
@@ -54,24 +64,14 @@
       "title": "Discovered by Atlas",
       "summary": "New Air Force first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-      "summary": "The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
-      "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "DOJ admits legal errors, drops subpoenas of New York Times journalists",
-      "url": "https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:13:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:57:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
@@ -80,11 +80,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T01:57:36.000Z",
+      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:02:08.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

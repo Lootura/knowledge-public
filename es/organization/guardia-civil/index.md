@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”](https://elpais.com/videos/2026-07-24/las-dos-columnas-de-humo-vistas-desde-el-centro-de-mando-pedimos-a-los-ciudadanos-que-colaboren-con-nostros.html?utm_source=lootura.com) — 2026-07-24T16:42:02.000Z
+No public source links.

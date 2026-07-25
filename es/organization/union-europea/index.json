@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
+      "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
@@ -52,17 +57,11 @@
   ],
   "sources": [
     {
-      "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
-      "url": "https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:52:56.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
-      "url": "https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T21:38:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
+      "url": "https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T07:30:47.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

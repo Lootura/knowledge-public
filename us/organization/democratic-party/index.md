@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T06:16:13.562Z
+- Updated: 2026-07-25T09:44:25.725Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Democrats poised to nominate Troy Jackson in must-win Maine Senate race
+
+BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.
+
+Date: 2026-07-25
+
+### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
+
+Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
+
+Date: 2026-07-25
+
+### Opposing Defense Bill, Democrats Shift Their Tactics
+
+Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+
+Date: 2026-07-25
 
 ### Opposing Defense Bill, Democrats Shift Their Tactics
 
@@ -50,25 +68,9 @@ For the second time, a few House Republicans joined Democrats to back a measure 
 
 Date: 2026-07-23
 
-### House Again Rebukes Trump on Iran War Powers Vote
-
-For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.
-
-Date: 2026-07-23
-
-### House Passes Defense Bill Amid Iran War Divide
-
-Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.
-
-Date: 2026-07-23
-
-### The Debate Moment That Captures Democrats’ Worries About Troy Jackson
-
-Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.
-
-Date: 2026-07-23
-
 ## Sources
 
+- [Democrats poised to nominate Troy Jackson in must-win Maine Senate race](https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
+- [Democrats in Maine gather to replace Graham Platner in the race against Susan Collins](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
 - [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-25T01:29:29.000Z

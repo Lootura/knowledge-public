@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+
+El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.
+
+Date: 2026-07-25
 
 ### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
 
@@ -62,12 +68,6 @@ Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las
 
 Date: 2026-07-13
 
-### El fútbol francés responde a Rajoy: "Los jugadores no tienen por qué recibir un certificado de nacionalidad"
-
-Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), criticó este domingo las declaraciones del expresidente del Gobierno español Mariano Rajoy sobre la selección francesa, por tener un "tufo de racismo intolerable" y ser contrarias a la realidad del equipo nacional. "Las palabras de Mariano Rajoy evo.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z

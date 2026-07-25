@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,19 +32,19 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
-      "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
+      "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "summary": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
       "date": "2026-07-25"
     },
     {
-      "title": "Morning news brief",
-      "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
-      "date": "2026-07-24"
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
+      "date": "2026-07-25"
     },
     {
-      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
-      "date": "2026-07-24"
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+      "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
+      "date": "2026-07-25"
     },
     {
       "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
@@ -87,12 +87,6 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:45:17.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
       "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com",
       "publishedAt": "2026-07-24T22:57:39.000Z",
@@ -103,12 +97,6 @@
       "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
       "publishedAt": "2026-07-24T22:35:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
-      "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:43:57.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
@@ -127,7 +115,19 @@
       "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T18:18:50.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:41:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:29:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 12
 }

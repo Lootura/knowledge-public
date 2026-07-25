@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela
+
+Las autoridades de Venezuela han actualizado este sábado el balance de víctimas a causa de los terremotos de magnitud superior a siete en la escala de Richter registrados el 24 de junio en el país, una cifra que ha aumentado hasta situarse por encima de los 5.500 muertos y los 16.740 heridos. Así lo ha anunciado el pre.
+
+Date: 2026-07-25
 
 ### Los fallecidos en el terremoto doble en Venezuela superan los 5.500
 
@@ -62,13 +68,6 @@ La cifra de fallecidos a causa del devastador doble terremoto que sacudió Venez
 
 Date: 2026-07-19
 
-### Los muertos por el doble terremoto en Venezuela superan los 5.000
-
-La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela ascendió el viernes a 5.069, tras sumarse 139 nuevos fallecimientos, informó el presidente del Parlamento, Jorge Rodríguez, quien también detalló que la cantidad de heridos se mantiene en 16.740. Las personas sin vivienda se mantienen en 17.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Delcy Rodríguez cambia al jefe operativo militar y anuncia un "plan maestro" para reconstruir Venezuela](https://www.larazon.es/internacional/delcy-rodriguez-cambia-jefe-operativo-militar-anuncia-plan-maestro-reconstruir-venezuela_202607256a644f46aa17c0020f2ee772.html?utm_source=lootura.com) — 2026-07-25T05:53:12.000Z
-- [Los fallecidos en el terremoto doble en Venezuela superan los 5.500](https://theobjective.com/internacional/2026-07-25/fallecidos-terremoto-doble-venezuela-5-500/?amp=&utm_source=lootura.com) — 2026-07-25T01:37:34.000Z
+- [Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela](https://theobjective.com/internacional/2026-07-25/ascienden-5-500-muertos-terremotos-venezuela/?utm_source=lootura.com) — 2026-07-25T07:01:44.000Z

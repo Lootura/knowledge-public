@@ -3,10 +3,16 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
+
+### La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal
+
+La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.
+
+Date: 2026-07-25
 
 ### Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»
 
@@ -62,12 +68,7 @@ La Selección española de fútbol, flamante campeona del mundo , ha sido recibi
 
 Date: 2026-07-20
 
-### Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»
-
-El presidente recibió a los campeones del mundo en la Moncloa, en un acto amenizado por Ibai Llanos. Borja Iglesias fue el más efusivo en su saludo.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»](https://theobjective.com/gente/2026-07-24/ibai-llanos-politicos-ofrecido-plelear-la-velada/?amp=&utm_source=lootura.com) — 2026-07-24T20:49:52.000Z
+- [La Velada del Año 6: lista completa de artistas que actúan](https://okdiario.com/happyfm/velada-del-ano-6-lista-completa-artistas-que-actuan-19032259/amp?utm_source=lootura.com) — 2026-07-25T09:33:21.000Z
+- [La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal](https://theobjective.com/cultura/2026-07-25/velada-del-ano-reune-20-creadores-ring-artistas-juanes-bad-gyal/?amp=&utm_source=lootura.com) — 2026-07-25T09:26:35.000Z

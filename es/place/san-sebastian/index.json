@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
+      "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana",
       "summary": "La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriola, aunque no se requirió traslado de ningún afectado. Las falsas medusas son cada vez más pequeñas.",
@@ -64,14 +69,15 @@
       "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
       "summary": "La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
-      "summary": "El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
+      "url": "https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T08:33:05.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana",
       "url": "https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

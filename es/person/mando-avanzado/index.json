@@ -1,0 +1,34 @@
+{
+  "id": "es-mando-avanzado",
+  "name": "Mando Avanzado",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/mando-avanzado",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/mando-avanzado",
+  "markdownUrl": "https://atlas.lootura.com/es/person/mando-avanzado/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/mando-avanzado/index.json",
+  "description": "Sigue la actividad de Mando Avanzado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
+      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mando Avanzado first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
+      "url": "https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:27:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
+}

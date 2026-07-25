@@ -3,10 +3,46 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Autopercibido como socialdemócrata
+
+No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.
+
+Date: 2026-07-25
+
+### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.
+
+Date: 2026-07-25
+
+### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+
+El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.
+
+Date: 2026-07-25
+
+### Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»
+
+Más de 24.000 evacuados en la Comunidad de Madrid.
+
+Date: 2026-07-25
+
+### Sánchez anuncia que los incendios de Madrid y Ávila pasan a tratarse como uno solo
+
+El presidente del Gobierno, Pedro Sánchez, ha advertido este sábado de que la situación por los incendios forestales en Madrid y Ávila "sigue siendo compleja", aunque ha subrayado que existe una "ventana de oportunidad" durante este fin de semana para avanzar en las labores de extinción. Por su lado, el general jefe de.
+
+Date: 2026-07-25
+
+### Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid
+
+El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se han saludado con un formal apretón de manos a.
+
+Date: 2026-07-25
 
 ### Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez
 
@@ -17,12 +53,6 @@ Date: 2026-07-25
 ### Los bomberos trabajan a destajo para intentar ganarle terreno al fuego
 
 La evolución de los incendios llevará este sábado a Pedro Sánchez, presidente del Gobierno, hasta el Puesto de Mando Avanzado de Cenicientos.
-
-Date: 2026-07-25
-
-### Autopercibido como socialdemócrata
-
-No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.
 
 Date: 2026-07-25
 
@@ -38,38 +68,11 @@ La crisis de los graves incendios que afectan a la Comunidad de Madrid y la prov
 
 Date: 2026-07-24
 
-### Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes
-
-Todo lo que rodea a la regularización masiva de inmigrantes impulsada por el Gobierno de Pedro Sánchez es escandaloso. Primero dijeron que solo iba a beneficiar a 500.000, que se encontraban en situación irregular en nuestro país, y finalmente fueron 1,2 millones de solicitudes. Pues bien, de estos, tal y como ha desve.
-
-Date: 2026-07-24
-
-### Sánchez visita este sábado la zona afectada por los incendios de Madrid
-
-El presidente del Gobierno, Pedro Sánchez , visitará la zona afectada por los incendios que han calcinado la Comunidad de Madrid el próximo sábado. Estos fuegos han dejado, al menos, 45.000 personas o evacuadas . Así lo ha detallado el Gobierno en un comunicado, en el que, además, informan que el jefe del Ejecutivo acu.
-
-Date: 2026-07-24
-
-### Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos
-
-Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
-
-Date: 2026-07-24
-
-### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
-
-La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
-### Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»
-
-La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez](https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com) — 2026-07-25T01:36:58.000Z
-- [Los bomberos trabajan a destajo para intentar ganarle terreno al fuego](https://www.lavanguardia.com/vida/20260725/11600859/incendios-madrid-directo-ultima-hora-emergencia-nacional-situacion-fuegos-forestales-espana.html?utm_source=lootura.com) — 2026-07-25T04:00:12.000Z
+- [Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente](https://www.20minutos.es/madrid/asi-sido-saludo-sanchez-ayuso-visita-incendios-madrid-tormenta-palabras-oscar-puente_7018865_0.html?utm_source=lootura.com) — 2026-07-25T08:30:05.000Z
+- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
+- [Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»](https://www.elcorreo.com/sociedad/directo-incendios-forestales-espana-sabado-ventana-oportunidad-20260725090402-dirc_amp.html?utm_source=lootura.com) — 2026-07-25T07:04:26.000Z
+- [Sánchez anuncia que los incendios de Madrid y Ávila pasan a tratarse como uno solo](https://www.larazon.es/sociedad/sanchez-anuncia-que-incendios-madrid-avila-pasan-tratarse-como-uno-solo_202607256a647fd3da3add27d4e15d58.html?utm_source=lootura.com) — 2026-07-25T09:20:19.000Z
 - [Autopercibido como socialdemócrata](https://theobjective.com/elsubjetivo/opinion/2026-07-25/autopercibido-socialdemocrata-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z
+- [Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid](https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com) — 2026-07-25T09:33:58.000Z

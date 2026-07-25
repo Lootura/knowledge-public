@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
+      "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad",
       "summary": "Duchas o remojadas con mangueras, comidas en formato helado y renovación más constante del agua de los bebederos son algunas de las medidas que aplica el Zoo de Barcelona este verano para que los animales sobrelleven mejor las altas temperaturas . En el marco de otra ola de calor en el conjunto de España, Cataluña volv.",
@@ -65,19 +70,14 @@
       "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
       "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "summary": "Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad",
-      "url": "https://www.larazon.es/cataluna/duchas-helados-animales-medidas-zoo-barcelona-calor-extremo-ciudad_202607256a6450f24687a22bdeccca51.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T06:00:18.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
+      "url": "https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T08:33:05.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
   "evidenceCount": 1

@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico](https://www.eldiario.es/internacional/ofensiva-trump-iran-desencadena-escalada-regional-golfo-persico_1_13402464.html?utm_source=lootura.com) — 2026-07-24T20:46:10.000Z
-- [EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes](https://www.eldiario.es/internacional/eeuu-ataca-buque-mercante-intentaba-sortear-bloqueo-puertos-iranies_1_13406151.html?utm_source=lootura.com) — 2026-07-25T00:20:23.000Z
+No public source links.

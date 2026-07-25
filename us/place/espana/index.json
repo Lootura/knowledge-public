@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "summary": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
       "summary": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
@@ -47,7 +52,13 @@
       "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T16:10:17.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:35:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

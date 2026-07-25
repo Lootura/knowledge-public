@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
+
+Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.
+
+Date: 2026-07-25
 
 ### Discovered by Atlas
 
@@ -52,5 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”](https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com) — 2026-07-24T15:52:56.000Z
-- [Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas](https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/?utm_source=lootura.com) — 2026-07-24T21:38:00.000Z
+- [Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados](https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:47.000Z

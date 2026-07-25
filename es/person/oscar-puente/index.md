@@ -3,10 +3,22 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.
+
+Date: 2026-07-25
+
+### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
+
+La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.
+
+Date: 2026-07-25
 
 ### Discovered by Atlas
 
@@ -46,4 +58,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente](https://www.20minutos.es/madrid/asi-sido-saludo-sanchez-ayuso-visita-incendios-madrid-tormenta-palabras-oscar-puente_7018865_0.html?utm_source=lootura.com) — 2026-07-25T08:30:05.000Z
+- [Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:00.000Z

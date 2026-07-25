@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -31,11 +31,6 @@
     {
       "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
       "summary": "President Donald Trump thanks reporters and recalls the events of the night of the first White House Correspondents' Dinner earlier this year, where a gunman attempted to storm the room at the Washington Hilton.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Secret Service agent who confronted gunman honored at Correspondents’ Dinner",
-      "summary": "U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.",
       "date": "2026-07-25"
     },
     {
@@ -64,6 +59,11 @@
       "date": "2026-07-25"
     },
     {
+      "title": "Secret Service agent who confronted gunman honored at Correspondents’ Dinner",
+      "summary": "U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Trump’s rambling gala address included insults, potshots and quip about a third presidential term",
       "summary": "President mocks political opponents and journalists in mostly light-hearted, hour-long speech at White House correspondents’ dinner Donald Trump joked around with the room of journalists who he again accused of producing “fake news” as he hurled insults at his political enemies in a speech at the White House correspond.",
       "date": "2026-07-25"
@@ -74,12 +74,6 @@
       "title": "White House Correspondents' Association scholarship recipients relive terrifying dinner",
       "url": "https://www.cbsnews.com/video/whca-scholarship-recipients-relive-terrifying-dinner/?utm_source=lootura.com",
       "publishedAt": "2026-07-25T00:21:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
-      "url": "https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:07:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,12 +107,6 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "White House Correspondents’ Association president says ‘we will not be intimidated’ during dinner",
-      "url": "https://www.nbcnews.com/video/white-house-correspondents-association-president-says-we-will-not-be-intimidated-during-dinner-267253829701?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T23:53:47.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
       "url": "https://www.nbcnews.com/now/video/trump-says-a-lot-was-learned-from-white-house-correspondents-dinner-shooting-267259973960?utm_source=lootura.com",
       "publishedAt": "2026-07-25T01:48:44.000Z",
@@ -129,7 +117,19 @@
       "url": "https://www.nbcnews.com/now/video/trump-delivers-speech-at-rescheduled-white-house-correspondents-dinner-267262021881?utm_source=lootura.com",
       "publishedAt": "2026-07-25T03:19:41.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
+      "url": "https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:55:21.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T05:04:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 13
 }

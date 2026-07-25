@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### «Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios
+
+La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.
+
+Date: 2026-07-25
 
 ### La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios
 
@@ -46,4 +52,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios](https://www.larazon.es/actualidad/estrategia-chantaje-madrid-tomara-medidas-bomberos-forestales-que-protestan-plena-ola-incendios-b50m_202607256a6481ecaa17c0020f2f2a54.html?utm_source=lootura.com) — 2026-07-25T09:29:16.000Z

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T06:16:13.562Z
+- Updated: 2026-07-25T09:44:25.725Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -26,23 +26,29 @@ Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researche
 
 Date: 2026-07-25
 
+### Trump is hellbent on tariffs. Here are 5 implications
+
+Trump's determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies. (Image credit: Tasos Katopodis).
+
+Date: 2026-07-25
+
+### Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates
+
+Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.
+
+Date: 2026-07-25
+
+### Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities
+
+While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.
+
+Date: 2026-07-25
+
 ### Secret Service agent who confronted gunman honored at Correspondents’ Dinner
 
 U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.
 
 Date: 2026-07-25
-
-### Morning news brief
-
-U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.
-
-Date: 2026-07-24
-
-### Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On
-
-Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
-
-Date: 2026-07-24
 
 ### Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy
 
@@ -56,15 +62,9 @@ Companies in Africa and India will make generic versions of the pill that could 
 
 Date: 2026-07-24
 
-### New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners
+### Measles Cases Hit New Record in U.S., as Vaccination Rates Wane
 
-U.S. President Donald Trump's latest set of tariffs drew objections Friday from America's trading partners including China and Japan, with Australia's trade minister slamming them as "completely unjustified.".
-
-Date: 2026-07-24
-
-### Outbreak of diarrhea-causing parasite linked to 4 more states
-
-Federal health officials on Friday said they have linked cases of a diarrhea-causing parasite tied to shredded lettuce to an additional four states, expanding the scope of the largest U.S. outbreak of cyclospora.
+More measles cases have been reported in the United States in the last two years than in all the years from 2000 through 2024 combined.
 
 Date: 2026-07-24
 
@@ -76,7 +76,7 @@ Date: 2026-07-24
 - [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
 - [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-25T06:16:17.183Z
 - [U.S. military intentionally allowing some Iranian projectiles through defenses](https://www.nbcnews.com/nightly-news/video/u-s-military-intentionally-allowing-some-iranian-projectiles-through-defenses-267250757926?utm_source=lootura.com) — 2026-07-24T22:52:24.000Z
-- [Secret Service agent who confronted gunman honored at Correspondents’ Dinner](https://www.nbcnews.com/video/secret-service-agent-who-confronted-gunman-honored-at-correspondents-dinner-267257413918?utm_source=lootura.com) — 2026-07-25T00:50:41.000Z
 - [Paramount says it will pause its Warner acquisition while legal challenges play out](https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits?utm_source=lootura.com) — 2026-07-24T22:26:21.000Z
-- [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
+- [Trump is hellbent on tariffs. Here are 5 implications](https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
 - [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z
+- [Jason Epperson on the history found at national parks](https://www.pbs.org/newshour/show/jason-epperson-on-the-history-found-at-national-parks?utm_source=lootura.com) — 2026-07-24T22:25:06.000Z

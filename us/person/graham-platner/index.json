@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "Graham Cunningham Platner",
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "summary": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).",
+      "date": "2026-07-25"
+    },
     {
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
       "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
@@ -58,13 +63,15 @@
       "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
       "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
-      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

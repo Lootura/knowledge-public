@@ -3,10 +3,16 @@
 > Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-militar
 
 ## Cambios recientes
+
+### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
+
+La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.
+
+Date: 2026-07-25
 
 ### España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila
 
@@ -58,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:00.000Z

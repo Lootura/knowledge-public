@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/west-virginia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/west-virginia/index.json",
   "description": "Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "Almost Heaven",
     "State of West Virginia",
@@ -21,11 +21,6 @@
   ],
   "changes": [
     {
-      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
-      "summary": "Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out. (Image credit: Chris Jackson for NPR).",
-      "date": "2026-07-24"
-    },
-    {
       "title": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
       "summary": "Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.",
       "date": "2026-07-24"
@@ -33,6 +28,11 @@
     {
       "title": "2 dead after flash floods inundate West Virginia; National Guard deployed",
       "summary": "Torrential rains in West Virginia have caused flash flooding that inundated homes and businesses this week.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
+      "summary": "Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out. (Image credit: Chris Jackson for NPR).",
       "date": "2026-07-24"
     },
     {
@@ -54,17 +54,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
       "url": "https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T16:06:03.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Lamine Yamal busca su segundo título mundial](https://www.larazon.es/deportes/lamine-yamal-busca-segundo-titulo-mundial_202607256a6413e8aa17c0020f2ea1fc.html?utm_source=lootura.com) — 2026-07-25T01:39:52.000Z
+No public source links.

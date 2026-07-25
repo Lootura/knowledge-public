@@ -3,10 +3,22 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T06:16:13.562Z
+- Updated: 2026-07-25T09:44:25.725Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+Date: 2026-07-25
+
+### Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying
+
+The authorities in Belgium did not name the country that the intern, a woman “of Chinese origin,” is suspected of spying for.
+
+Date: 2026-07-25
 
 ### NATO spending pressure returned
 
@@ -56,18 +68,7 @@ NPR's Michel Martin speaks with New Hampshire Sen. Jeanne Shaheen about Presiden
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?
-
-Date: 2026-07-09
-
-### NATO spending pressure returned
-
-NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z
+- [Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying](https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html?utm_source=lootura.com) — 2026-07-25T07:59:14.000Z

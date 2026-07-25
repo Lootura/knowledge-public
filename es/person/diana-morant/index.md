@@ -3,10 +3,22 @@
 > Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/person/diana-morant
 
 ## Cambios recientes
+
+### El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia
+
+La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.
+
+Date: 2026-07-25
+
+### Discovered by Atlas
+
+Diana Morant first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-24
 
 ### Morant matiza pero insiste en equiparar al PP con las políticas nazis
 
@@ -26,12 +38,6 @@ La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha aseg
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Diana Morant first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia](https://www.larazon.es/comunidad-valenciana/saca-musculo-feudo-diana-morant-multitudinaria-cena-gandia_202607256a647eafaa17c0020f2f252c.html?utm_source=lootura.com) — 2026-07-25T09:15:27.000Z

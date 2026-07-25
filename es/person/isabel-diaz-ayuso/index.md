@@ -3,10 +3,28 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.
+
+Date: 2026-07-25
+
+### Más de 30 grados, menos del 30% de humedad y viento superior a 30 km/h: el combo del peor incendio de la historia de Madrid
+
+Una combinación de fenómenos meteorológicos es uno de los factores que está propiciando el crecimiento del incendio que asola la Comunidad de Madrid. El peor de la historia madrileña, según su presidenta, Isabel Díaz Ayuso. Seguir leyendo...
+
+Date: 2026-07-25
+
+### Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid
+
+El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se han saludado con un formal apretón de manos a.
+
+Date: 2026-07-25
 
 ### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
 
@@ -50,24 +68,8 @@ La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha advertido de q
 
 Date: 2026-07-24
 
-### Ayuso define como "inédito" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"
-
-"La situación es inédita. Es una tormenta perfecta. Está siendo catastrófico". Con estas palabras ha definido Isabel Díaz Ayuso el estado en el que se encuentra el...
-
-Date: 2026-07-24
-
-### Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”
-
-Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.
-
-Date: 2026-07-24
-
-### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
-
-El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente](https://www.20minutos.es/madrid/asi-sido-saludo-sanchez-ayuso-visita-incendios-madrid-tormenta-palabras-oscar-puente_7018865_0.html?utm_source=lootura.com) — 2026-07-25T08:30:05.000Z
+- [Más de 30 grados, menos del 30% de humedad y viento superior a 30 km/h: el combo del peor incendio de la historia de Madrid](https://www.lavanguardia.com/local/madrid/20260725/11600920/mas-30-grados-30-humedad-viento-superior-30-km-h-combo-peor-incendio-historia-madrid.html?utm_source=lootura.com) — 2026-07-25T09:06:06.000Z
+- [Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid](https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com) — 2026-07-25T09:33:58.000Z

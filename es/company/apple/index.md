@@ -70,5 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Samsung busca ventaja ante Apple en la batalla de los plegables](https://www.expansion.com/economia-digital/companias/2026/07/25/6a636eb4e5fdea86718b4586.html?utm_source=lootura.com) — 2026-07-24T22:02:09.000Z
-- [Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas](https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/?utm_source=lootura.com) — 2026-07-24T21:38:00.000Z
+No public source links.

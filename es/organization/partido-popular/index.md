@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
+
+La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.
+
+Date: 2026-07-25
+
+### El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia
+
+La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.
+
+Date: 2026-07-25
 
 ### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
@@ -56,18 +68,8 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-24
 
-### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
-
-La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.
-
-Date: 2026-07-24
-
-### Morant matiza pero insiste en equiparar al PP con las políticas nazis
-
-«Yo no dije eso. Yo no comparé a -Alberto Núñez- Feijóo con -Adolf- Hitler». La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha matizado este viernes sus declaraciones sobre los planes para un hipotético gobierno del líder nacional del PP si llega a la Moncloa con Vox.No obstante, ha insistido en real.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:00.000Z
 - [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z
+- [El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia](https://www.larazon.es/comunidad-valenciana/saca-musculo-feudo-diana-morant-multitudinaria-cena-gandia_202607256a647eafaa17c0020f2f252c.html?utm_source=lootura.com) — 2026-07-25T09:15:27.000Z

@@ -3,20 +3,20 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
 
-### Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%
-
-Los datos del Eustat reflejan un aumento de empleo en la industria y en la construcción que no cubren la caída del sector servicios.
-
-Date: 2026-07-24
-
 ### Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas
 
 El pasado sábado y el lunes fueron las jornadas más críticas ya que estos organismos causaron 13 lesionados en toda Euskadi.
+
+Date: 2026-07-24
+
+### Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%
+
+Los datos del Eustat reflejan un aumento de empleo en la industria y en la construcción que no cubren la caída del sector servicios.
 
 Date: 2026-07-24
 
@@ -70,5 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%](https://www.elcorreo.com/economia/euskadi-pierde-2500-ocupados-ultimo-trimestre-tasa-20260724114355-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:43:56.000Z
 - [Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-pican-personas-bizkaia-dias-playas-20260724135109-nt_amp.html?utm_source=lootura.com) — 2026-07-24T11:51:09.000Z

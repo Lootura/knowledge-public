@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia",
       "summary": "El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, celebrada este viernes en el Waldorf Astoria, para insultar a cómicos y a representantes demócratas como Alexandria Ocasio-Cortez, Elizabeth Warren, Gavin Newsom y J.B. Pritzker: \"Este lugar alberga al grupo más grande de personas con el 'sínd.",
@@ -64,32 +69,15 @@
       "title": "Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump",
       "summary": "El presidente estadounidense Donald Trump, con ocasión de una visita del primer ministro iraquí Ali Zaydi en la Casa Blanca, hizo unas declaraciones hizo declaraciones sobre el ataque con drones estadounidense de enero de 2020 que acabó con la vida del comandante de la Fuerza Quds de la Guardia Revolucionaria Islámica.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Las palabras de Topuria: «No importa lo duro que pueda ponerse, no me rendiré»",
-      "summary": "La confianza que atesora Ilia Topuria nunca ha sido fruto de la casualidad . Antes incluso de subirse al octágono en el mayor evento de los deportes de contacto en la Casa Blanca en UFC Freedom 250 para defender su cinturón del peso ligero frente a Justin Gaethje, ya había explicado de dónde salía esa fuerza interior p.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia",
-      "url": "https://www.eldiario.es/internacional/trump-reparte-insultos-cena-corresponsales-repetida-atentado-amaga-presentarse-nuevo-presidencia_1_13406184.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:40:13.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
-      "url": "https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:02:15.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
-      "url": "https://www.larazon.es/internacional/trump-vuelve-cena-corresponsales-atentado-bromas-seguridad_202607256a644936aa17c0020f2ee055.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T05:27:18.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
+      "url": "https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T08:32:38.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

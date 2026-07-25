@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
+      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
       "summary": "La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.",
@@ -58,13 +63,15 @@
       "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
       "summary": "Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . \"Francia tiene, además, una plantilla de altís.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El fútbol francés responde a Rajoy: \"Los jugadores no tienen por qué recibir un certificado de nacionalidad\"",
-      "summary": "Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), criticó este domingo las declaraciones del expresidente del Gobierno español Mariano Rajoy sobre la selección francesa, por tener un \"tufo de racismo intolerable\" y ser contrarias a la realidad del equipo nacional. \"Las palabras de Mariano Rajoy evo.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
+      "url": "https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:27:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

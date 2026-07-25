@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -69,6 +69,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Trump conditions a landmark nuclear agreement, and a unique critter goes viral: The news quiz",
+      "url": "https://www.nbcnews.com/news/news-quiz/trump-conditions-landmark-nuclear-agreement-unique-critter-goes-viral-rcna588957?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:15:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "How volunteers with 3D printers make weapons for Ukraine",
       "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine?utm_source=lootura.com",

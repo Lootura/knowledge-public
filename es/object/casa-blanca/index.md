@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
+
+El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
+
+Date: 2026-07-25
 
 ### Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia
 
@@ -62,14 +68,6 @@ El presidente estadounidense Donald Trump, con ocasión de una visita del primer
 
 Date: 2026-07-21
 
-### Las palabras de Topuria: «No importa lo duro que pueda ponerse, no me rendiré»
-
-La confianza que atesora Ilia Topuria nunca ha sido fruto de la casualidad . Antes incluso de subirse al octágono en el mayor evento de los deportes de contacto en la Casa Blanca en UFC Freedom 250 para defender su cinturón del peso ligero frente a Justin Gaethje, ya había explicado de dónde salía esa fuerza interior p.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia](https://www.eldiario.es/internacional/trump-reparte-insultos-cena-corresponsales-repetida-atentado-amaga-presentarse-nuevo-presidencia_1_13406184.html?utm_source=lootura.com) — 2026-07-25T02:40:13.000Z
-- [Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?](https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com) — 2026-07-24T22:02:15.000Z
-- [Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad](https://www.larazon.es/internacional/trump-vuelve-cena-corresponsales-atentado-bromas-seguridad_202607256a644936aa17c0020f2ee055.html?utm_source=lootura.com) — 2026-07-25T05:27:18.000Z
+- [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
+
+El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
+
+Date: 2026-07-25
 
 ### Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad
 
@@ -62,12 +68,6 @@ Los servicios de emergencia continúan trabajando en varios incendios forestales
 
 Date: 2026-07-23
 
-### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
-
-Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad](https://www.larazon.es/cataluna/duchas-helados-animales-medidas-zoo-barcelona-calor-extremo-ciudad_202607256a6450f24687a22bdeccca51.html?utm_source=lootura.com) — 2026-07-25T06:00:18.000Z
+- [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z

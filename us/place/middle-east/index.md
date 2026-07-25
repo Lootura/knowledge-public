@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens](https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com) — 2026-07-25T02:43:57.000Z
+No public source links.

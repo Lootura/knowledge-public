@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+
+El Gobierno de España ha tomado las riendas de la catástrofe forestal. Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónoma.
+
+Date: 2026-07-25
+
+### Última hora de los incendios | El Gobierno tratará el fuego en Ávila y Madrid como un único incendio
+
+Después de una noche de trabajos sin apenas descanso, los bomberos están logrando contener parcialmente los avances del fuego ante la oportunidad que ha presentado la bajada de las temperaturas de esta madrugada. Pese a ello, se espera un sábado muy complicado en la lucha contra los incendios forestales declarados esta.
+
+Date: 2026-07-25
+
+### «Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios
+
+La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.
+
+Date: 2026-07-25
 
 ### ¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder
 
@@ -50,25 +68,9 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### El Gobierno plantea un castigo fiscal a las Socimis de viviendas
-
-Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...
-
-Date: 2026-07-24
-
-### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
-
-Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.
-
-Date: 2026-07-24
-
-### "Nos enfrentamos a una importante amenaza": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional
-
-El consejero Novillo pidió la activación del Sistema Nacional de Protección Civil, "requiriendo el empleo de los medios y recursos nacionales o europeos que sean necesarios", en una misiva a la que ha tenido acceso elDiario.es El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendio.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder](https://www.20minutos.es/madrid/por-que-fuego-se-ceba-historicamente-con-sierra-oeste-los-motivos-masa-forestal-suelo-que-hacen-mas-proclive-arder_7018673_0.html?utm_source=lootura.com) — 2026-07-25T05:53:04.000Z
+- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
 - [El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos](https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com) — 2026-07-24T20:45:43.000Z
+- [Última hora de los incendios | El Gobierno tratará el fuego en Ávila y Madrid como un único incendio](https://www.eldiario.es/sociedad/ultima-hora-incendios-bomberos-destajo-durante-noche-frenar-avance-fuego-avila-madrid_133_13406252.html?utm_source=lootura.com) — 2026-07-25T06:11:52.000Z
+- [«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios](https://www.larazon.es/actualidad/estrategia-chantaje-madrid-tomara-medidas-bomberos-forestales-que-protestan-plena-ola-incendios-b50m_202607256a6481ecaa17c0020f2f2a54.html?utm_source=lootura.com) — 2026-07-25T09:29:16.000Z

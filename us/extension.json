@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T06:25:22.730Z",
+  "generatedAt": "2026-07-25T09:54:47.753Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|33|1784960173562",
+    "signature": "1.18.0|34|1784972665725",
     "version": "1.18.0",
-    "build": 33,
-    "latestEntityUpdatedAt": "2026-07-25T06:16:13.562Z"
+    "build": 34,
+    "latestEntityUpdatedAt": "2026-07-25T09:44:25.725Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-25T06:16:13.562Z",
-      "score": 1742,
-      "sourceCount": 440,
+      "id": "usa-white-house",
+      "name": "White House",
+      "type": "organization",
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "url": "https://atlas.lootura.com/us/organization/white-house",
+      "path": "/us/organization/white-house",
+      "updatedAt": "2026-07-25T09:44:25.725Z",
+      "score": 1750,
+      "sourceCount": 83,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Trump returns to correspondents' dinner 3 months after shooting",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-25T06:16:13.562Z",
-        "score": 1742,
-        "sourceCount": 83,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-canada",
         "name": "Canada",
@@ -47,9 +34,35 @@
         "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
-        "updatedAt": "2026-07-25T06:16:13.562Z",
-        "score": 1659,
+        "updatedAt": "2026-07-25T09:44:25.725Z",
+        "score": 1674,
         "sourceCount": 48,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-maine",
+        "name": "Maine",
+        "type": "place",
+        "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
+        "url": "https://atlas.lootura.com/us/place/maine",
+        "path": "/us/place/maine",
+        "updatedAt": "2026-07-25T09:44:25.725Z",
+        "score": 1668,
+        "sourceCount": 101,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-troy-jackson",
+        "name": "Troy Jackson",
+        "type": "person",
+        "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
+        "url": "https://atlas.lootura.com/us/person/troy-jackson",
+        "path": "/us/person/troy-jackson",
+        "updatedAt": "2026-07-25T09:44:25.725Z",
+        "score": 1668,
+        "sourceCount": 16,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-25T06:16:13.562Z",
-        "score": 1659,
+        "updatedAt": "2026-07-25T09:44:25.725Z",
+        "score": 1667,
         "sourceCount": 42,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-saudi-arabia",
-        "name": "Saudi Arabia",
-        "type": "place",
-        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
-        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
-        "path": "/us/place/saudi-arabia",
-        "updatedAt": "2026-07-25T06:16:13.562Z",
-        "score": 1657,
-        "sourceCount": 19,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 81
+    "publicEntityCount": 80
   }
 }

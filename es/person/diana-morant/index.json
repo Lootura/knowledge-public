@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/diana-morant/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/diana-morant/index.json",
   "description": "Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-25T09:43:58.602Z",
   "aliases": [
     "Diana",
     "Diana Morant Ripoll",
     "Morant"
   ],
   "changes": [
+    {
+      "title": "El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia",
+      "summary": "La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Diana Morant first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Morant matiza pero insiste en equiparar al PP con las políticas nazis",
       "summary": "«Yo no dije eso. Yo no comparé a -Alberto Núñez- Feijóo con -Adolf- Hitler». La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha matizado este viernes sus declaraciones sobre los planes para un hipotético gobierno del líder nacional del PP si llega a la Moncloa con Vox.No obstante, ha insistido en real.",
@@ -29,13 +39,15 @@
       "title": "Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»",
       "summary": "La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Diana Morant first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia",
+      "url": "https://www.larazon.es/comunidad-valenciana/saca-musculo-feudo-diana-morant-multitudinaria-cena-gandia_202607256a647eafaa17c0020f2f252c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T09:15:27.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

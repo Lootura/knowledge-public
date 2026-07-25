@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»](https://www.larazon.es/gente/famosos/montoya-como-ferran-torres-dios-pondra-lugar_202607256a641546aa17c0020f2ea3c5.html?outputType=amp&utm_source=lootura.com) — 2026-07-25T01:45:42.000Z
+No public source links.

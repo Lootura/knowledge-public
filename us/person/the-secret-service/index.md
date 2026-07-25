@@ -46,4 +46,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Inside the heightened security for the rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T17:07:00.000Z
+No public source links.

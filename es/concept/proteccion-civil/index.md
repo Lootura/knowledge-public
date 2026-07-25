@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)
+
+La secretaria general de Protección Civil, Virginia Barcones, confirmó en una entrevista en TVE que son 9.000 los evacuados en diferentes localidades y 8.000 los confinados en sus casas a consecuencia del incendio de Burgohondo, en la provincia de Ávila. El incendio mantiene evacuados a los vecinos de Villanueva de Ávi.
+
+Date: 2026-07-25
 
 ### La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"
 
@@ -62,12 +68,6 @@ El consejero Novillo pidió la activación del Sistema Nacional de Protección C
 
 Date: 2026-07-24
 
-### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
-
-El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)](https://www.larazon.es/castilla-y-leon/incendios-castilla-leon-barcones-cifra-9000-evacuados-8000-confinados-incendio-burgohondo-avila_202607256a647ea14687a22bdecd054b.html?utm_source=lootura.com) — 2026-07-25T09:15:13.000Z

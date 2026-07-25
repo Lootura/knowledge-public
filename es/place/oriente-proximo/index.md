@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [¿Quién teme el crudo a 100 dólares?](https://www.expansion.com/inversion/2026/07/25/6a63b2de468aeb75258b45b9.html?utm_source=lootura.com) — 2026-07-24T22:02:06.000Z
+No public source links.

@@ -3,20 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU
-
-El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.
-
-Date: 2026-07-25
-
 ### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
 
 La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.
+
+Date: 2026-07-25
+
+### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
+
+Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.
+
+Date: 2026-07-25
+
+### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
+
+El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
+
+Date: 2026-07-25
+
+### Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU
+
+El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.
 
 Date: 2026-07-25
 
@@ -56,24 +68,8 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%
-
-Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
-
-Date: 2026-07-24
-
-### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen casi un 5%
-
-Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Alvise Lennkh-Yunus (Scope): “Nos preocupa bastante el deterioro fiscal y de gobernabilidad de Estados Unidos”](https://cincodias.elpais.com/mercados-financieros/2026-07-25/alvise-lennkh-yunus-scope-nos-preocupa-bastante-el-deterioro-fiscal-y-de-gobernabilidad-de-estados-unidos.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
+- [Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados](https://www.abc.es/internacional/bruselas-valora-positivamente-nuevos-aranceles-eeuu-ajustarse-20260724183409-nt.html?utm_source=lootura.com) — 2026-07-25T07:30:47.000Z
 - [El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española](https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html?utm_source=lootura.com) — 2026-07-25T03:44:00.000Z
-- [La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico](https://www.eldiario.es/internacional/ofensiva-trump-iran-desencadena-escalada-regional-golfo-persico_1_13402464.html?utm_source=lootura.com) — 2026-07-24T20:46:10.000Z
-- [Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?](https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com) — 2026-07-24T22:02:15.000Z
-- [Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad](https://www.larazon.es/internacional/trump-vuelve-cena-corresponsales-atentado-bromas-seguridad_202607256a644936aa17c0020f2ee055.html?utm_source=lootura.com) — 2026-07-25T05:27:18.000Z
-- [La clave de Ayn Rand sobre la independencia: "La cuestión no es quién me lo va a permitir, sino quién va a detenerme"](https://www.larazon.es/actualidad/clave-ayn-rand-independencia-cuestion-quien-permitir-sino-quien-detenerme_202607256a6450f5da3add27d4e11f10.html?utm_source=lootura.com) — 2026-07-25T06:00:21.000Z
-- [Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU](https://theobjective.com/internacional/2026-07-25/argentina-ventaja-arancelaria-nueva-politica-comercial-eeuu/?utm_source=lootura.com) — 2026-07-25T00:35:42.000Z
+- [Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales](https://theobjective.com/internacional/2026-07-25/trump-bromea-tercer-mandato-celebracion-cena-corresposales/?utm_source=lootura.com) — 2026-07-25T08:32:38.000Z

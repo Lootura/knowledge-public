@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-07-25T09:43:58.602Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
+
+El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
+
+Date: 2026-07-25
 
 ### Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana
 
@@ -62,12 +68,7 @@ La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Al
 
 Date: 2026-07-20
 
-### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
-
-El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
 - [Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana](https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com) — 2026-07-24T12:48:21.000Z

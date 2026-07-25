@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T06:16:13.562Z",
+  "updatedAt": "2026-07-25T09:44:25.725Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
@@ -73,17 +73,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
-      "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:43:57.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T21:32:37.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }
