@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T13:31:04.987Z",
+  "generatedAt": "2026-07-25T14:55:03.090Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|35|1784985564039",
+    "signature": "1.18.0|36|1784985564039",
     "version": "1.18.0",
-    "build": 35,
+    "build": 36,
     "latestEntityUpdatedAt": "2026-07-25T13:19:24.039Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-07-25T13:19:24.039Z",
-      "score": 1761,
+      "score": 1755,
       "sourceCount": 601,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-25T13:19:24.039Z",
-        "score": 1731,
+        "score": 1725,
         "sourceCount": 255,
         "isBreaking": false,
         "isPinned": false
@@ -48,21 +48,8 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-25T13:19:24.039Z",
-        "score": 1691,
+        "score": 1683,
         "sourceCount": 147,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-25T13:19:24.039Z",
-        "score": 1688,
-        "sourceCount": 163,
         "isBreaking": false,
         "isPinned": false
       },
@@ -74,8 +61,21 @@
         "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
         "path": "/es/person/isabel-diaz-ayuso",
         "updatedAt": "2026-07-25T13:19:24.039Z",
-        "score": 1688,
+        "score": 1682,
         "sourceCount": 17,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-25T13:19:24.039Z",
+        "score": 1680,
+        "sourceCount": 163,
         "isBreaking": false,
         "isPinned": false
       }
