@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»
+
+Amancio Ortega creció en la pequeña localidad de Busdongo de Arriba, donde nació porque su padre se encontraba trabajando allí.
+
+Date: 2026-07-25
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»](https://theobjective.com/actualidad/2026-07-25/amancio-ortega-anos-busdongo-arbas-lujos/?amp=&utm_source=lootura.com) — 2026-07-25T05:30:00.000Z

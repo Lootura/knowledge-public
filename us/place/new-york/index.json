@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Upper West Side double stabbing suspect facing hate crime charges",
+      "summary": "The suspect in Thursday's double stabbing​ on New York City's Upper West Side has been charged with attempted murder as a hate crime, among other things.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Stabbings near New York City’s Central Park",
       "summary": "Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. Witnesses say the attacker yelled Allahu-Akbar. NBC News’ Erin McLaughlin has the latest on the investigation.",
@@ -77,13 +82,15 @@
       "title": "New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu",
       "summary": "New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 2026. —Screenshot from Mayor Zohran Kwame Mamdani's X account (@NYCMayor) Since campaigning for New York City mayor, Zohran Mamdani has pledged to arrest Israel’s Prime Minister Benjamin Netanyahu for his alleged war crimes if he ever shows up.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority",
-      "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Upper West Side double stabbing suspect facing hate crime charges",
+      "url": "https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:34:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

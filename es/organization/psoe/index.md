@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Autopercibido como socialdemócrata
+
+No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.
+
+Date: 2026-07-25
 
 ### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
@@ -14,15 +20,15 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-25
 
-### El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos
-
-Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...
-
-Date: 2026-07-24
-
 ### Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos
 
 El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.
+
+Date: 2026-07-24
+
+### El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos
+
+Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...
 
 Date: 2026-07-24
 
@@ -62,14 +68,7 @@ Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarl
 
 Date: 2026-07-23
 
-### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
-
-La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z
 - [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z
-- [El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos](https://amp.expansion.com/economia/2026/07/24/6a63a1ad468aeba9388b45a1.html?utm_source=lootura.com) — 2026-07-24T17:32:32.000Z
+- [Autopercibido como socialdemócrata](https://theobjective.com/elsubjetivo/opinion/2026-07-25/autopercibido-socialdemocrata-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z
 - [Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”](https://elpais.com/videos/2026-07-24/las-dos-columnas-de-humo-vistas-desde-el-centro-de-mando-pedimos-a-los-ciudadanos-que-colaboren-con-nostros.html?utm_source=lootura.com) — 2026-07-24T16:42:02.000Z

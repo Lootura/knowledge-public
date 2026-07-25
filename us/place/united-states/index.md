@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -56,27 +56,27 @@ Companies in Africa and India will make generic versions of the pill that could 
 
 Date: 2026-07-24
 
-### How Trump's threat of a "massive attack" on Iran could unfold
-
-President Trump said he is considering a "massive attack" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.
-
-Date: 2026-07-24
-
 ### New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners
 
 U.S. President Donald Trump's latest set of tariffs drew objections Friday from America's trading partners including China and Japan, with Australia's trade minister slamming them as "completely unjustified.".
 
 Date: 2026-07-24
 
+### Outbreak of diarrhea-causing parasite linked to 4 more states
+
+Federal health officials on Friday said they have linked cases of a diarrhea-causing parasite tied to shredded lettuce to an additional four states, expanding the scope of the largest U.S. outbreak of cyclospora.
+
+Date: 2026-07-24
+
 ## Sources
 
-- [How Trump's threat of a "massive attack" on Iran could unfold](https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com) — 2026-07-24T17:01:00.000Z
 - [Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs](https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com) — 2026-07-24T20:50:53.000Z
 - [Costa Rica captures top fugitive "Diablo," wanted by U.S., officials say](https://www.cbsnews.com/news/costa-rica-captures-top-fugitive-diablo-drug-trafficking/?utm_source=lootura.com) — 2026-07-24T20:10:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
-- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-25T02:27:10.343Z
+- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-25T06:16:17.183Z
 - [U.S. military intentionally allowing some Iranian projectiles through defenses](https://www.nbcnews.com/nightly-news/video/u-s-military-intentionally-allowing-some-iranian-projectiles-through-defenses-267250757926?utm_source=lootura.com) — 2026-07-24T22:52:24.000Z
 - [Secret Service agent who confronted gunman honored at Correspondents’ Dinner](https://www.nbcnews.com/video/secret-service-agent-who-confronted-gunman-honored-at-correspondents-dinner-267257413918?utm_source=lootura.com) — 2026-07-25T00:50:41.000Z
 - [Paramount says it will pause its Warner acquisition while legal challenges play out](https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits?utm_source=lootura.com) — 2026-07-24T22:26:21.000Z
 - [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
+- [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z

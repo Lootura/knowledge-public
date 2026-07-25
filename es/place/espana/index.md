@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,11 +14,47 @@ Sociedad Civil Española —S.C.E.—, plataforma que cuenta con el apoyo de cer
 
 Date: 2026-07-25
 
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
+### No estamos preparados para estas catástrofes
 
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+Nos viene grande . Ni capacidad, ni idea de cómo manejar un monstruo que año a año nos quema España de arriba a abajo. No tenemos conciencia de qué hacer o qué necesitamos preparar para que no vuelva a suceder. Ni lo prioritario que es esta pesadilla constante que nos acompaña cada vez durante más meses al año. En lo q.
 
-Date: 2026-07-24
+Date: 2026-07-25
+
+### Digi busca ganar tracción tras su gris salida a Bolsa
+
+El toque de campana marca el momento en que una compañía empieza a cotizar, pero una salida a Bolsa es un proceso complejo. Hace solo unos días, el 16 de julio, Digi Spain se estrenó en el parqué madrileño , un movimiento estratégico para la operadora de telecomunicaciones que cumple 18 años en el mercado español. Por.
+
+Date: 2026-07-25
+
+### Las claves para evitar que el crédito privado estalle en el bolsillo del pequeño inversor
+
+Muchos daños de la Gran Crisis Financiera todavía se recuerdan. El hundimiento de las Bolsas, el descalabro de los precios de la vivienda, el desempleo galopante que disparó la tasa de paro en España hasta el 27% , la dificultad de algunos países para financiarse... Algunos expertos apuntan a esa aciaga etapa y señalan.
+
+Date: 2026-07-25
+
+### Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años
+
+En las últimas dos semanas la curva de hectáreas quemadas en España ha dado un salto brusco. No lo han provocado incendios repartidos por toda la península, sino fuegos que se han expandido muy rápido y se han concentrado en zonas muy concretas. Seguir leyendo Metodología Los datos . El análisis se limita a los grandes.
+
+Date: 2026-07-25
+
+### El coste de viajar con nuestras mascotas fuera de la UE
+
+Cada vez son más las familias que no conciben las vacaciones sin sus animales de compañía. En España hay ya cerca de 15 millones de mascotas y el número de viajes con ellas no deja de crecer. Los certificados emitidos para exportar animales de compañía se han duplicado desde 2022, hasta alcanzar los 18.363 en 2025. Sin.
+
+Date: 2026-07-25
+
+### Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad
+
+Duchas o remojadas con mangueras, comidas en formato helado y renovación más constante del agua de los bebederos son algunas de las medidas que aplica el Zoo de Barcelona este verano para que los animales sobrelleven mejor las altas temperaturas . En el marco de otra ola de calor en el conjunto de España, Cataluña volv.
+
+Date: 2026-07-25
+
+### Estos son los supermercados que abren hoy 25 de julio de 2026, Día de Santiago Apóstol: horario de Mercadona, Alcampo, Gadis, Lidl, Carrefour…
+
+Hoy es 25 de julio sabemos que se celebra el Día del Apóstol Santiago , que es el patrón de España , de modo que es posible que muchos tengan la duda de si van a poder hacer la compra con normalidad o toca buscar alternativas, así que conviene hacer repaso y ver no sólo dónde es festivo realmente hoy sábado y también q.
+
+Date: 2026-07-25
 
 ### Cebreros acoge a los evacuados por los incendios de Madrid: “Los ancianos llegaban descalzos y en bata”
 
@@ -32,51 +68,15 @@ La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia res
 
 Date: 2026-07-24
 
-### El antes y el después de los incendios de Madrid y Ávila, visto desde el satélite
-
-Las imágenes de satélite de Copernicus muestran la escala de fuego y humo de los incendios que han arrasado el sur de Madrid y Ávila y han obligado a evacuar a 50.000 personas DIRECTO - Última hora sobre los incendios en España El avance de los incendios en Madrid y Ávila llevó este jueves a la activación de la emergen.
-
-Date: 2026-07-24
-
-### Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas
-
-La vicepresidenta deja los deberes para la vuelta del verano, cuando entrará de lleno en la carrera de la OIT. España se arriesga a una sanción de la UE por el incumplimiento en transparencia salarial Leer.
-
-Date: 2026-07-24
-
-### El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos
-
-España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...
-
-Date: 2026-07-24
-
-### La crisis climática manda
-
-Los incendios que están devorando miles de hectáreas en toda España durante este tórrido verano no son un fenómeno puntual. Ni tampoco las olas de calor que nos azotan. Es posible que haya todavía quien crea que la crisis climática es un invento de los pesados ecologistas. Todo es mucho más sencillo: el calentamiento d.
-
-Date: 2026-07-24
-
-### Incendios en Madrid y Ávila, en directo: mapa de los focos activos, zonas evacuadas y última hora de la emergencia nacional en España
-
-España afronta este viernes una de las jornadas más críticas del verano por la coincidencia de numerosos incendios forestales activos en varias comunidades autónomas. La situación es especialmente grave en la Comunidad de Madrid y la provincia de Ávila , donde se ha declarado la emergencia nacional ante la magnitud de.
-
-Date: 2026-07-24
-
-### Fragmento del día: Angrois
-
-en Angrois, un barrio de las afueras de Santiago de Compostela, España, se produce el accidente del tren Alvia, que viajaba con 209 pasajeros, al descarrilarse a la altura de la curva llamada A Grandeira, dejando 78 muertos y 131 heridos.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Prime Video pone fecha de estreno a la docuserie sobre el triunfo de la selección en el Mundial](https://www.abc.es/play/series/noticias/prime-video-fecha-estreno-docuserie-triunfo-seleccion-mundial-20260724165107-nt.html?utm_source=lootura.com) — 2026-07-24T23:58:38.000Z
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T20:31:27.000Z
+- [No estamos preparados para estas catástrofes](https://www.20minutos.es/nacional/incendios-no-estamos-preparados-catastrofes_7018835_3.html?utm_source=lootura.com) — 2026-07-25T05:58:21.000Z
+- [Digi busca ganar tracción tras su gris salida a Bolsa](https://elpais.com/economia/negocios/2026-07-25/digi-busca-ganar-traccion-tras-su-salida-a-bolsa.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
+- [Las claves para evitar que el crédito privado estalle en el bolsillo del pequeño inversor](https://cincodias.elpais.com/mercados-financieros/2026-07-25/las-claves-para-evitar-que-el-credito-privado-estalle-en-el-bolsillo-del-pequeno-inversor.html?utm_source=lootura.com) — 2026-07-25T03:30:01.000Z
 - [Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas](https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com) — 2026-07-24T23:08:43.000Z
 - [El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos](https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com) — 2026-07-24T20:45:43.000Z
 - [Cebreros acoge a los evacuados por los incendios de Madrid: “Los ancianos llegaban descalzos y en bata”](https://elpais.com/espana/2026-07-24/cebreros-acoge-a-los-evacuados-por-los-incendios-de-madrid-los-ancianos-llegaban-descalzos-y-en-bata.html?utm_source=lootura.com) — 2026-07-24T16:46:40.000Z
 - [La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”](https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com) — 2026-07-24T15:52:56.000Z
-- [El antes y el después de los incendios de Madrid y Ávila, visto desde el satélite](https://www.eldiario.es/madrid/despues-incendios-madrid-avila-visto-satelite_1_13405845.html?utm_source=lootura.com) — 2026-07-24T18:03:09.000Z
-- [Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez](https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com) — 2026-07-25T01:36:58.000Z
-- [La crisis climática manda](https://www.lavanguardia.com/opinion/20260725/11600649/crisis-climatica-manda.html?utm_source=lootura.com) — 2026-07-24T22:05:00.000Z
-- [Incendios en Madrid y Ávila, en directo: mapa de los focos activos, zonas evacuadas y última hora de la emergencia nacional en España](https://okdiario.com/espana/incendios-activos-espana-hoy-directo-evacuados-heridos-muertos-ultima-hora-del-fuego-madrid-19058993?utm_source=lootura.com) — 2026-07-24T21:52:39.000Z
+- [Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años](https://elpais.com/espana/2026-07-25/datos-pocos-incendios-pero-grandes-y-veloces-julio-deja-ya-una-de-las-peores-quincenas-en-mas-de-40-anos.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
+- [El coste de viajar con nuestras mascotas fuera de la UE](https://www.larazon.es/sociedad/coste-viajar-nuestras-mascotas-fuera_202607256a6450f8da3add27d4e11f1d.html?utm_source=lootura.com) — 2026-07-25T06:00:24.000Z
+- [Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad](https://www.larazon.es/cataluna/duchas-helados-animales-medidas-zoo-barcelona-calor-extremo-ciudad_202607256a6450f24687a22bdeccca51.html?utm_source=lootura.com) — 2026-07-25T06:00:18.000Z

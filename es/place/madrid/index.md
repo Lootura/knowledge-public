@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -14,33 +14,51 @@ Las llamas y el fuerte viento arrasan pueblos enteros en una auténtica emergenc
 
 Date: 2026-07-25
 
+### Los agricultores critican el abandono rural y reclaman contra los incendios "un plan para cortar el combustible en invierno"
+
+En plena emergencia nacional por los incendios forestales declarados en la Comunidad de Madrid y la provincia de Ávila, que este viernes obligaron a evacuar a 20.000 personas, desde la Unión de Pequeños Agricultores y Ganaderos (UPA) , su secreatario de Ganadería, José Ramón González, ha señalado a 20minutos que la pre.
+
+Date: 2026-07-25
+
+### ¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder
+
+El Gobierno central declaró este jueves la emergencia de interés nacional en la Comunidad de Madrid tras la petición del gobierno reagional ante la gravedad de los incendios que asolan el monte en Villa del Prado y San Martín de Valdeiglesias ( unidos ya en uno solo ), y también por el de Burgohondo, en la provincia de.
+
+Date: 2026-07-25
+
+### "Parece un campo de guerra": la angustia de los desalojados por los incendios en Madrid
+
+"Esperar. No hay otra". Miguel responde a 20minutos con resignación cuando se le pregunta qué piensa hacer después de comprobar los daños provocados por el incendio en su vivienda de la urbanización El Encinar del Alberche, ubicada en la localidad de Villa del Prado, una de las más afectadas por los fuegos que sacuden.
+
+Date: 2026-07-25
+
+### El Estado cobra 3.400 millones de euros en dividendos de Bankia y CaixaBank desde el rescate
+
+Más de una década después, el Estado aún mantiene abierto el rescate de Bankia. Retiene una participación del 18% en CaixaBank, que se fusionó con la antigua Caja Madrid en 2021, lo que le permite cobrar dividendos, embolsarse dinero por las recompras de acciones y aprovechar las subidas de la acción en un momento de b.
+
+Date: 2026-07-25
+
+### Tú sí, tú no: los clubes privados para ricos toman Madrid
+
+“Madrid jugaba en una categoría inferior a la que le correspondía en Europa. Las grandes capitales europeas son París y Londres y luego hay otra división: Berlín, Milán, Ámsterdam… Madrid no estaba ahí. Entonces ha tenido la oportunidad de subir de golpe, de hacerse mayor de golpe. Eso es lo que creo que ha pasado. Tam.
+
+Date: 2026-07-25
+
+### El peligroso incendio que acecha a Madrid: de quinta generación y con la regla del 30-30-30
+
+La extinción de los tres incendios que acaban de fusionarse este viernes por la tarde en uno solo en la esquina suroeste de la región madrileña se ve dificultada por un peligroso cóctel meteorológico: la conocida como regla del 30-30-30. Utilizada por bomberos, meteorólogos y expertos forestales, resume los tres factor.
+
+Date: 2026-07-25
+
+### Incendio en Madrid, en directo hoy: Última hora del fuego, los desalojos y la evolución de las llamas
+
+Los servicios de emergencia afrontan una nueva jornada de máxima vigilancia en el gran incendio que afecta al suroeste de la Comunidad de Madrid.
+
+Date: 2026-07-25
+
 ### 34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»
 
 5.000 participantes se instalan en al BEC con maletas, cocinas portátiles y comida para aguantar hasta el domingo.
-
-Date: 2026-07-24
-
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
-
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
-
-Date: 2026-07-24
-
-### Incertidumbre y angustia entre los miles de evacuados en los pueblos amenazados de Madrid: "Hoy estamos aquí, mañana no lo sabemos"
-
-Familias, mayores y personas dependientes pasan las horas en el pabellón de Villamanta esperando esa llamada que les permita regresar: "No nos ha faltado de nada. Anoche faltaron camas, pero la UME estaba desbordada" Leer.
-
-Date: 2026-07-24
-
-### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
-
-La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
-
-Date: 2026-07-24
-
-### Una vecina de Chapinería (Madrid) que ha tenido que huir del fuego: “Está todo lleno de humo y de pavesas”
-
-Honorina Hernández metió en el coche a su familia, a cinco perros y poco más. “Realmente he cogido unas pastillas que tengo que tomar, y ya está”, explica. Detrás dejaba Chapinería (2.700 habitantes), su pueblo, convertido en una de las localidades que la Comunidad de Madrid ha ordenado desalojar este viernes por el av.
 
 Date: 2026-07-24
 
@@ -50,33 +68,15 @@ Nadie ha pegado ojo en Cebreros. Este pueblo abulense acogió a más de 500 pers
 
 Date: 2026-07-24
 
-### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
-
-El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.
-
-Date: 2026-07-24
-
-### Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila
-
-El incendio que afecta al suroeste de la Comunidad de Madrid alcanzó durante la tarde de este viernes su “momento álgido” y varios de sus frentes están “fuera de capacidad de extinción”, según el consejero de Medio Ambiente, Carlos Novillo. Los tres frentes que afectaban a la región ya se han fusionado en uno único, qu.
-
-Date: 2026-07-24
-
-### Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado este viernes que los fuegos en la región afectan ya a 12.000 hectáreas , que hay 20.000 habitantes evacuados y que la situación sigue siendo "muy crítica" debido al viento, datos a los que ha sumado una reivindicación: la llegada de más medios aé.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Atento y sereno: así fue el debut de Mourinho ante el Alcorcón](https://www.abc.es/deportes/real-madrid/atento-sereno-debut-mourinho-ante-alcorcon-20260724200503-nt.html?utm_source=lootura.com) — 2026-07-24T23:57:50.000Z
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T20:31:27.000Z
+- [Los agricultores critican el abandono rural y reclaman contra los incendios "un plan para cortar el combustible en invierno"](https://www.20minutos.es/nacional/los-agricultores-critican-abandono-rural-reclaman-contra-los-incendios-un-plan-para-cortar-combustible-invierno_7018659_0.html?utm_source=lootura.com) — 2026-07-25T05:51:17.000Z
+- [¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder](https://www.20minutos.es/madrid/por-que-fuego-se-ceba-historicamente-con-sierra-oeste-los-motivos-masa-forestal-suelo-que-hacen-mas-proclive-arder_7018673_0.html?utm_source=lootura.com) — 2026-07-25T05:53:04.000Z
+- ["Parece un campo de guerra": la angustia de los desalojados por los incendios en Madrid](https://www.20minutos.es/madrid/aquello-parece-un-campo-guerra-angustia-los-vecinos-desalojados-por-los-incendios-madrid_7018837_0.html?utm_source=lootura.com) — 2026-07-25T05:48:43.000Z
+- [El Estado cobra 3.400 millones de euros en dividendos de Bankia y CaixaBank desde el rescate](https://cincodias.elpais.com/companias/2026-07-25/el-estado-cobra-3400-millones-de-euros-en-dividendos-de-bankia-y-caixabank-desde-el-rescate.html?utm_source=lootura.com) — 2026-07-25T03:15:00.000Z
 - [Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila](https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-24T23:40:19.000Z
-- [Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid](https://www.elconfidencial.com/espana/2026-07-24/ayuso-12-000-hectareas-situacion-muy-critica-madrid_4395826/?utm_source=lootura.com) — 2026-07-24T18:58:00.000Z
-- [El incendio deja en situación "crítica" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-24/incendio-sierra-madrid-nasa-antenas-1hms_4395815/?utm_source=lootura.com) — 2026-07-24T19:13:00.000Z
 - [34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»](https://www.elcorreo.com/bizkaia/pistoletazo-salida-edicion-euskal-encounter-tiendas-campana-20260724105759-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:51:43.000Z
 - [Ayuso define como "inédito" el incendio que ya obliga a evacuar a 36.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"](https://www.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html?utm_source=lootura.com) — 2026-07-24T20:07:02.000Z
 - [Fuegos inextinguibles ponen Madrid en emergencia nacional](https://amp.elmundo.es/espana/2026/07/24/6a63b59efc6c839c588b45b4.html?utm_source=lootura.com) — 2026-07-24T20:45:52.000Z
-- [Incertidumbre y angustia entre los miles de evacuados en los pueblos amenazados de Madrid: "Hoy estamos aquí, mañana no lo sabemos"](https://www.elmundo.es/espana/2026/07/24/6a63557ee4d4d876428b4590.html?utm_source=lootura.com) — 2026-07-24T12:44:12.000Z
 - [En el punto cero del incendio que cerca Madrid: "No tenemos nada"](https://www.elmundo.es/espana/2026/07/24/6a63c8d0e85ece96798b45aa.html?utm_source=lootura.com) — 2026-07-24T20:45:32.000Z
+- [Madrid se defiende de un fuego "insólito" con el mayor operativo de Emergencias desde el Covid: "Un incendio ha llamado a otro"](https://www.elmundo.es/madrid/2026/07/25/6a63c874e4d4d85c218b45ad.html?utm_source=lootura.com) — 2026-07-24T22:11:44.000Z

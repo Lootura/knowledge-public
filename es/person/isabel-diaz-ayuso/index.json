@@ -66,19 +66,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Ayuso eleva a 12.000 las hectáreas quemadas en un situación \"muy crítica\" para Madrid",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/ayuso-12-000-hectareas-situacion-muy-critica-madrid_4395826/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T18:58:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
-      "url": "https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:41:40.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

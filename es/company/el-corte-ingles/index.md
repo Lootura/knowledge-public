@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La Smart TV perfecta para jugar con tu PS5, Switch 2 o Xbox es esta LG OLED de 48 pulgadas, ahora a precio mínimo en El Corte Inglés](https://www.larazon.es/compras/nuestra-eleccion/smart-perfecta-jugar-ps5-switch-2-xbox-esta-oled-48-pulgadas-ahora-precio-minimo-corte-ingles_202607246a63cb554687a22bdecc24fc.html?utm_source=lootura.com) — 2026-07-24T20:30:13.000Z
+No public source links.

@@ -3,16 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### ¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder
+
+El Gobierno central declaró este jueves la emergencia de interés nacional en la Comunidad de Madrid tras la petición del gobierno reagional ante la gravedad de los incendios que asolan el monte en Villa del Prado y San Martín de Valdeiglesias ( unidos ya en uno solo ), y también por el de Burgohondo, en la provincia de.
+
+Date: 2026-07-25
 
 ### El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO
 
 La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.
 
 Date: 2026-07-25
+
+### El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos
+
+España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...
+
+Date: 2026-07-24
 
 ### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
 
@@ -23,12 +35,6 @@ Date: 2026-07-24
 ### El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen
 
 Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...
-
-Date: 2026-07-24
-
-### El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos
-
-España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...
 
 Date: 2026-07-24
 
@@ -62,15 +68,7 @@ El consejero Novillo pidió la activación del Sistema Nacional de Protección C
 
 Date: 2026-07-24
 
-### FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes
-
-El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder](https://www.20minutos.es/madrid/por-que-fuego-se-ceba-historicamente-con-sierra-oeste-los-motivos-masa-forestal-suelo-que-hacen-mas-proclive-arder_7018673_0.html?utm_source=lootura.com) — 2026-07-25T05:53:04.000Z
 - [El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos](https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com) — 2026-07-24T20:45:43.000Z
-- [De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"](https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com) — 2026-07-24T17:21:42.000Z
-- [El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen](https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com) — 2026-07-24T17:01:57.000Z
-- [El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO](https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com) — 2026-07-25T01:07:31.000Z

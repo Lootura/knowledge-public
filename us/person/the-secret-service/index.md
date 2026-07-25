@@ -3,7 +3,7 @@
 > Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/person/the-secret-service
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### Inside the heightened security for the rescheduled White House Correspondents' Dinner
 
 The Secret Service says there has been a significant rise in threats ahead of the rescheduled White House Correspondents' Dinner. CBS News' Nicole Sganga has more details.
-
-Date: 2026-07-24
-
-### White House Correspondents’ Dinner Returns Under High Security
-
-President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.
 
 Date: 2026-07-24
 

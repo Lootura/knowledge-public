@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -40,5 +40,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat](https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com) — 2026-07-24T16:25:09.000Z
 - [Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope](https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com) — 2026-07-24T16:10:17.000Z

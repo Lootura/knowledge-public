@@ -3,7 +3,7 @@
 > Follow Apalachee High School, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/organization/apalachee-high-school
 
 ## Recent changes

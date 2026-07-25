@@ -3,20 +3,26 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
 
-### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
-
-El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.
-
-Date: 2026-07-24
-
 ### Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate
 
 Martínez Sola y Roselli, ambos imputados, habían sido citados hoy mismo de nuevo por el juez Calama tras su escrito de confesión.
+
+Date: 2026-07-24
+
+### Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero
+
+Julio Martínez Sola y Roberto Roselli permanecen investigados por el préstamo recibido en pandemia por la aerolínea, Leer.
+
+Date: 2026-07-24
+
+### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
+
+El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ La alternativa a la versión de Zapatero es que el empresario del calzado alican
 
 Date: 2026-07-23
 
-### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
-
-Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate](https://www.elcorreo.com/politica/plus-ultra-20260724224714-ntrc_amp.html?utm_source=lootura.com) — 2026-07-24T20:47:14.000Z
-- [El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate](https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com) — 2026-07-24T13:22:29.000Z
+- [Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero](https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com) — 2026-07-24T21:45:04.000Z

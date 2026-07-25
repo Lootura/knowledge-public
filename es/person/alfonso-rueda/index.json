@@ -1,0 +1,47 @@
+{
+  "id": "es-alfonso-rueda",
+  "name": "Alfonso Rueda",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/alfonso-rueda",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/alfonso-rueda",
+  "markdownUrl": "https://atlas.lootura.com/es/person/alfonso-rueda/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/alfonso-rueda/index.json",
+  "description": "Sigue la actividad de Alfonso Rueda en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "aliases": [
+    "Alfonso Rueda Valenzuela"
+  ],
+  "changes": [
+    {
+      "title": "Alfonso Rueda: “La inversión de SAIC será la mayor del siglo XXI en Galicia. Seremos un polo europeo de la automoción”",
+      "summary": "Tras una larga comida con empresarios del sector de la energía, Alfonso Rueda (Pontevedra, 1968) llega a su despacho en los edificios administrativos de San Caetano. Ilusionado con el de­sem­barco del fabricante chino de motor SAIC, el potencial eólico y el próximo Xacobeo, insiste el presidente gallego en que “vende t.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Alfonso Rueda first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Alfonso Rueda: “La inversión de SAIC será la mayor del siglo XXI en Galicia. Seremos un polo europeo de la automoción”",
+      "url": "https://cincodias.elpais.com/extras/galicia/2026-07-25/alfonso-rueda-presidente-de-la-xunta-la-inversion-de-saic-en-automocion-sera-la-mayor-del-siglo-xxi-en-galicia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:44:45.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 2
+}

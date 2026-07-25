@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -24,11 +24,6 @@
   ],
   "changes": [
     {
-      "title": "Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada",
-      "summary": "La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%",
       "summary": "Los datos del Eustat reflejan un aumento de empleo en la industria y en la construcción que no cubren la caída del sector servicios.",
       "date": "2026-07-24"
@@ -36,6 +31,11 @@
     {
       "title": "Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas",
       "summary": "El pasado sábado y el lunes fueron las jornadas más críticas ya que estos organismos causaron 13 lesionados en toda Euskadi.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada",
+      "summary": "La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.",
       "date": "2026-07-24"
     },
     {
@@ -86,13 +86,7 @@
       "url": "https://www.elcorreo.com/bizkaia/carabelas-portuguesas-pican-personas-bizkaia-dias-playas-20260724135109-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T11:51:09.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada",
-      "url": "https://www.diariovasco.com/sociedad/oficial-euskadi-andalucia-recuperan-conexion-aerea-directa-20260724174904-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:32:40.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

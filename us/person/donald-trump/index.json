@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T02:27:06.617Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,11 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
-      "summary": "President Trump is attending the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
-      "date": "2026-07-25"
-    },
     {
       "title": "International PhD students to face strict limits on time in the US",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3 Trump administration takes action to address ‘forever students’.",
@@ -55,33 +50,32 @@
       "date": "2026-07-25"
     },
     {
-      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-      "date": "2026-07-24"
+      "title": "Trump speaks at White House Correspondents' Dinner, in redo after April attack",
+      "summary": "President Trump is attending the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
+      "date": "2026-07-25"
     },
     {
-      "title": "Morning news brief",
-      "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
-      "date": "2026-07-24"
+      "title": "Trump calls Obama's speech at past White House Correspondents' Dinner 'respectful'",
+      "summary": "President Trump recounts a previous White House Correspondents' Dinner during which former President Barack Obama gave a speech. Trump also reflects on his decision to run for office, and his relationship with the press.",
+      "date": "2026-07-25"
     },
     {
-      "title": "The Cost of Trump’s New Tariffs, and the $100 Million Popcorn Bucket Market",
-      "summary": "Plus, the Friday news quiz.",
-      "date": "2026-07-24"
+      "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
+      "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
+      "date": "2026-07-25"
     },
     {
-      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
-      "date": "2026-07-24"
+      "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
+      "summary": "President Trump gave lengthy speech at the rescheduled White House Correspondents' Dinner, where he insulted his political rivals and touted his accomplishments and relationship with the press.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
-    {
-      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
-      "url": "https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:01:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "DOJ admits legal errors, drops subpoenas of New York Times journalists",
       "url": "https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com",
@@ -107,21 +101,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump speaks at White House Correspondents' Dinner, in redo after April attack",
+      "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:15:58.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
       "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T20:28:05.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
-      "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:23:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "International PhD students to face strict limits on time in the US",
       "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T02:27:10.342Z",
+      "publishedAt": "2026-07-25T06:16:17.183Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -131,11 +125,17 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump administration concedes that it canceled research grants in blue states",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-concedes-canceled-research-grants-blue-states-rcna589129?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T22:12:40.000Z",
+      "title": "Trump calls Obama's speech at past White House Correspondents' Dinner 'respectful'",
+      "url": "https://www.nbcnews.com/now/video/trump-calls-obama-s-speech-at-past-white-house-correspondents-dinner-respectful-267259461934?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:15:02.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "White House Correspondents’ Association president says ‘we will not be intimidated’ during dinner",
+      "url": "https://www.nbcnews.com/video/white-house-correspondents-association-president-says-we-will-not-be-intimidated-during-dinner-267253829701?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:53:47.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 33
+  "evidenceCount": 37
 }

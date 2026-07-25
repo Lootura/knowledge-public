@@ -52,4 +52,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
+No public source links.

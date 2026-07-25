@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
+
+Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
+
+Date: 2026-07-25
 
 ### Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes
 
@@ -62,12 +68,6 @@ There are new concerns about the future of oil and gas prices after Yemen-based 
 
 Date: 2026-07-23
 
-### Oil price passes $100 a barrel again as Middle East conflict escalates
-
-Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens](https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com) — 2026-07-25T02:43:57.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T02:27:06.617Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,6 +32,11 @@
       "date": "2026-07-25"
     },
     {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+      "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "Morning news brief",
       "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
       "date": "2026-07-24"
@@ -47,11 +52,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
-      "summary": "President Trump said he is considering a \"massive attack\" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
       "summary": "Stock markets closed mixed on Friday as the Iran war continues to upend energy prices. CBS News MoneyWatch correspondent Kelly O'Grady has more.",
       "date": "2026-07-24"
@@ -62,18 +62,12 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-      "summary": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
+      "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
+      "summary": "The U.S. and Iran showed no sign of backing away from their conflict after a 13th straight night of strikes. With fighting flaring again and diplomacy uncertain, both sides made moves suggesting an escalation was possible.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
-      "url": "https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:01:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
       "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
@@ -111,6 +105,12 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+      "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:43:57.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T21:32:37.000Z",
@@ -123,9 +123,9 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-      "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:28:16.000Z",
+      "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:18:50.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

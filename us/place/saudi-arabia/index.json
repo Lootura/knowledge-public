@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T02:27:06.617Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+      "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
       "summary": "President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.",
@@ -58,11 +63,6 @@
       "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
       "summary": "President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-      "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -73,11 +73,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+      "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:43:57.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T21:32:37.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

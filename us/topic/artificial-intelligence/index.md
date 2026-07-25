@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-07-23
 
 ## Sources
 
-- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T02:27:10.342Z
-- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-25T02:27:10.342Z
+- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T06:16:17.182Z
+- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-25T06:16:17.182Z

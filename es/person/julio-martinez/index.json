@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero",
+      "summary": "Julio Martínez Sola y Roberto Roselli permanecen investigados por el préstamo recibido en pandemia por la aerolínea, Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
       "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
@@ -59,19 +64,14 @@
       "title": "Podcast | Zapatero, tocado y hundido",
       "summary": "El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
-      "summary": "OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
-      "url": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:22:29.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero",
+      "url": "https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:45:04.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 1

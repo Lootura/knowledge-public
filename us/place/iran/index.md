@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,6 +26,12 @@ Crossing what was once seen as a political red line, Democrats voted against the
 
 Date: 2026-07-25
 
+### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
+
+Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
+
+Date: 2026-07-25
+
 ### Morning news brief
 
 U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.
@@ -44,12 +50,6 @@ As renewed fighting with Iran sends oil and gas prices soaring, President Trump 
 
 Date: 2026-07-24
 
-### How Trump's threat of a "massive attack" on Iran could unfold
-
-President Trump said he is considering a "massive attack" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.
-
-Date: 2026-07-24
-
 ### Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs
 
 Stock markets closed mixed on Friday as the Iran war continues to upend energy prices. CBS News MoneyWatch correspondent Kelly O'Grady has more.
@@ -62,21 +62,21 @@ Even after the collapse of the cease-fire between the United States and Iran, Am
 
 Date: 2026-07-24
 
-### Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says
+### U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports
 
-The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.
+The U.S. and Iran showed no sign of backing away from their conflict after a 13th straight night of strikes. With fighting flaring again and diplomacy uncertain, both sides made moves suggesting an escalation was possible.
 
 Date: 2026-07-24
 
 ## Sources
 
-- [How Trump's threat of a "massive attack" on Iran could unfold](https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com) — 2026-07-24T17:01:00.000Z
 - [Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs](https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com) — 2026-07-24T20:50:53.000Z
 - [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
 - [Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks](https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com) — 2026-07-25T01:24:23.000Z
 - [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
 - [U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports](https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com) — 2026-07-24T22:57:39.000Z
 - [Brooks and Marcus on the Iran conflict becoming a 'forever war'](https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com) — 2026-07-24T22:35:39.000Z
+- [Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens](https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com) — 2026-07-25T02:43:57.000Z
 - [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T21:32:37.000Z
 - [Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran](https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html?utm_source=lootura.com) — 2026-07-24T21:41:12.000Z
-- [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com) — 2026-07-24T09:28:16.000Z
+- [Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says](https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html?utm_source=lootura.com) — 2026-07-24T18:18:50.000Z

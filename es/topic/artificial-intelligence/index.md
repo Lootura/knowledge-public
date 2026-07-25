@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Anthropic lanza Claude Opus 5: su nueva IA se acerca a Fable 5, pero sin ser tan cara](https://hipertextual.com/inteligencia-artificial/nuevo-claude-opus-5/?utm_source=lootura.com) — 2026-07-24T18:19:14.000Z
+- [La inteligencia artificial acelera el fin de la facturación por horas en los despachos de abogados](https://cincodias.elpais.com/companias/2026-07-25/la-inteligencia-artificial-acelera-el-fin-de-la-facturacion-por-horas-en-los-despachos-de-abogados.html?utm_source=lootura.com) — 2026-07-25T03:15:00.000Z

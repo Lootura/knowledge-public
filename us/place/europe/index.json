@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T02:27:06.617Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
+      "summary": "One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
       "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
@@ -58,11 +63,6 @@
       "title": "Developer ecosystem expanded",
       "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Climate change making Europe drought 'more severe': study",
-      "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com",
       "publishedAt": "2026-07-24T20:26:01.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
+      "url": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

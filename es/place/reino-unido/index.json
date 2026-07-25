@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Europa tiene petróleo pero decidió no tenerlo",
+      "summary": "Europa habla de su energía como si la geología la hubiera condenado, y es falso. El continente tiene petróleo y gas en cantidades relevantes. Lo que no tiene es voluntad política de producirlos. El Reino Unido y Noruega producen entre 2,7 y 3 millones de barriles diarios en el mar del Norte, y aunque la cuenca es madur.",
+      "date": "2026-07-25"
+    },
     {
       "title": "La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte",
       "summary": "La Policía irlandesa se ha incautado esta semana de una « potente bomba » durante una operación en la frontera con Reino Unido que se ha saldado por ahora con dos arrestos y una línea de investigación que apunta a la posibilidad de que el artefacto explosivo tenía Irlanda del Norte como destino final. La operación ha o.",
@@ -67,13 +72,15 @@
       "title": "Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido",
       "summary": "El presidente de Iberdrola, Ignacio Sánchez Galán, se ha mostrado partidario de rebajar las cargas fiscales que gravan la factura de la luz, en línea con las recomendaciones de la Comisión Europea y la decisión del nuevo primer ministro británico, Andy Burgham, de suprimir el IVA de la luz para los hogares. Así lo ha d.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año",
-      "summary": "CaixaBank acelera en Reino Unido en su negocio de utilities (energía, gas y agua) con una financiación de más de 3.000 millones de libras (3.500 millones de euros) en los...",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Europa tiene petróleo pero decidió no tenerlo",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-25/europa-petroleo-articulo-martin-varsavsky/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

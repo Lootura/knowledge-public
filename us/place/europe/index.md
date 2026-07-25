@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Prize honors discovery of altermagnetism as a third fundamental class of magnetism
+
+One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr.
+
+Date: 2026-07-25
 
 ### Trump's replacement tariffs continue to put pressure on U.S. economy
 
@@ -62,12 +68,7 @@ The European Union has fined Google's parent company Alphabet €890 million (ab
 
 Date: 2026-07-23
 
-### Climate change making Europe drought 'more severe': study
-
-Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z
+- [Prize honors discovery of altermagnetism as a third fundamental class of magnetism](https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html?utm_source=lootura.com) — 2026-07-25T03:00:01.000Z

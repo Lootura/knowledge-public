@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero
+
+Julio Martínez Sola y Roberto Roselli permanecen investigados por el préstamo recibido en pandemia por la aerolínea, Leer.
+
+Date: 2026-07-24
 
 ### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
 
@@ -62,12 +68,6 @@ El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto
 
 Date: 2026-07-22
 
-### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
-
-OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate](https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com) — 2026-07-24T13:22:29.000Z
+- [Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero](https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com) — 2026-07-24T21:45:04.000Z

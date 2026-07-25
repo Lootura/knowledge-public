@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Upper West Side double stabbing suspect facing hate crime charges
+
+The suspect in Thursday's double stabbing​ on New York City's Upper West Side has been charged with attempted murder as a hate crime, among other things.
+
+Date: 2026-07-25
 
 ### Stabbings near New York City’s Central Park
 
@@ -62,12 +68,6 @@ New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 202
 
 Date: 2026-07-22
 
-### Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority
-
-New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [Upper West Side double stabbing suspect facing hate crime charges](https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com) — 2026-07-25T03:34:20.000Z

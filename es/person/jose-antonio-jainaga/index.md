@@ -28,5 +28,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Jainaga y un grupo de inversores vascos lanzan una OPA sobre Azkoyen por 244 millones](https://cincodias.elpais.com/companias/2026-07-24/jainaga-y-un-grupo-inversores-vascos-lanzan-una-opa-sobre-azkoyen-por-244-millones.html?utm_source=lootura.com) — 2026-07-24T17:38:59.000Z
-- [El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen](https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com) — 2026-07-24T17:01:57.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -25,13 +25,13 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google",
-      "summary": "Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.",
+      "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
+      "summary": "Donald Trump ha amenazado a la Unión Europea con imponer aranceles \"sustanciales\" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.",
       "date": "2026-07-24"
     },
     {
-      "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
-      "summary": "Donald Trump ha amenazado a la Unión Europea con imponer aranceles \"sustanciales\" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.",
+      "title": "Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google",
+      "summary": "Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.",
       "date": "2026-07-24"
     },
     {
@@ -52,12 +52,6 @@
   ],
   "sources": [
     {
-      "title": "Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google",
-      "url": "https://elpais.com/economia/2026-07-24/trump-amenaza-a-europa-con-nuevos-aranceles-tras-la-multa-de-la-ue-a-google.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:46:49.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
       "url": "https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T15:52:56.000Z",
@@ -70,5 +64,5 @@
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

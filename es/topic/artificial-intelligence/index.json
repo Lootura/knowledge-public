@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Anthropic lanza Claude Opus 5: su nueva IA se acerca a Fable 5, pero sin ser tan cara",
-      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-claude-opus-5/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T18:19:14.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "La inteligencia artificial acelera el fin de la facturación por horas en los despachos de abogados",
+      "url": "https://cincodias.elpais.com/companias/2026-07-25/la-inteligencia-artificial-acelera-el-fin-de-la-facturacion-por-horas-en-los-despachos-de-abogados.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

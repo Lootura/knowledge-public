@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.json",
   "description": "Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
-      "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
+      "title": "Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate",
+      "summary": "Martínez Sola y Roselli, ambos imputados, habían sido citados hoy mismo de nuevo por el juez Calama tras su escrito de confesión.",
       "date": "2026-07-24"
     },
     {
-      "title": "Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate",
-      "summary": "Martínez Sola y Roselli, ambos imputados, habían sido citados hoy mismo de nuevo por el juez Calama tras su escrito de confesión.",
+      "title": "Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero",
+      "summary": "Julio Martínez Sola y Roberto Roselli permanecen investigados por el préstamo recibido en pandemia por la aerolínea, Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
+      "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
       "date": "2026-07-24"
     },
     {
@@ -55,11 +60,6 @@
       "title": "La filtración a Plus Ultra del 26-F: tres protagonistas la confirman, Aagesen la critica y Zapatero afirma que él no fue el autor",
       "summary": "La alternativa a la versión de Zapatero es que el empresario del calzado alicantino tenía capacidad para saber en tiempo real que había llegado a la Sepi un informe definitivo de Deloitte Leer.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE",
-      "summary": "Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -70,10 +70,10 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
-      "url": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:22:29.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero",
+      "url": "https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:45:04.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 2

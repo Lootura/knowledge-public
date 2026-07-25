@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -20,15 +20,15 @@ La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia res
 
 Date: 2026-07-24
 
-### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
-
-Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
-
-Date: 2026-07-24
-
 ### Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas
 
 Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciales" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.
+
+Date: 2026-07-24
+
+### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
+
+Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
 
 Date: 2026-07-24
 
@@ -52,6 +52,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google](https://elpais.com/economia/2026-07-24/trump-amenaza-a-europa-con-nuevos-aranceles-tras-la-multa-de-la-ue-a-google.html?utm_source=lootura.com) — 2026-07-24T17:46:49.000Z
 - [La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”](https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com) — 2026-07-24T15:52:56.000Z
 - [Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas](https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/?utm_source=lootura.com) — 2026-07-24T21:38:00.000Z

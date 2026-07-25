@@ -22,5 +22,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Prime Video pone fecha de estreno a la docuserie sobre el triunfo de la selección en el Mundial](https://www.abc.es/play/series/noticias/prime-video-fecha-estreno-docuserie-triunfo-seleccion-mundial-20260724165107-nt.html?utm_source=lootura.com) — 2026-07-24T23:58:38.000Z
-- [‘Blade Runner 2099’ estrena su asombroso primer tráiler y revela su fecha de estreno](https://hipertextual.com/cine-television/blade-runner-2099-estrena-su-asombroso-primer-trailer-y-revela-su-fecha-de-estreno/?utm_source=lootura.com) — 2026-07-24T17:57:21.000Z
+No public source links.

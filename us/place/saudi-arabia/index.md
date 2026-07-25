@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T02:27:06.617Z
+- Updated: 2026-07-25T06:16:13.562Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
+
+Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
+
+Date: 2026-07-25
 
 ### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
 
@@ -62,13 +68,8 @@ President Trump has put Saudi Arabia on the path to enriching uranium on its own
 
 Date: 2026-07-23
 
-### Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea
-
-The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z
+- [Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens](https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war?utm_source=lootura.com) — 2026-07-25T02:43:57.000Z
 - [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T21:32:37.000Z

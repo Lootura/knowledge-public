@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -22,6 +22,11 @@
     {
       "title": "Los fallecidos en el terremoto doble en Venezuela superan los 5.500",
       "summary": "El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 personas.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Delcy Rodríguez cambia al jefe operativo militar y anuncia un \"plan maestro\" para reconstruir Venezuela",
+      "summary": "La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nuevas designaciones en la Fuerza Armada Nacional Bolivariana (FANB), destacando entre ellas el nombramiento del mayor general Rubén Belzares Escobar como nuevo jefe del Comando Estratégico Operacional del cuerpo castrense y el de Pedro Gonzále.",
       "date": "2026-07-25"
     },
     {
@@ -63,19 +68,14 @@
       "title": "Los muertos por el doble terremoto en Venezuela superan los 5.000",
       "summary": "La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela ascendió el viernes a 5.069, tras sumarse 139 nuevos fallecimientos, informó el presidente del Parlamento, Jorge Rodríguez, quien también detalló que la cantidad de heridos se mantiene en 16.740. Las personas sin vivienda se mantienen en 17.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos",
-      "summary": "Las autoridades venezolanas han elevado este jueves a más de 4.900 el número de fallecidos por cuenta de los devastadores terremotos que sacudieron al país el pasado 24 de junio, mientras que el saldo de heridos se mantiene en 16.740 personas. Concretamente, el presidente de la Asamblea Nacional de Venezuela , Jorge Ro.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU",
-      "url": "https://theobjective.com/internacional/2026-07-24/exmministro-venezolano-alex-saab-no-culpable-dinero-eeuu/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:42:31.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Delcy Rodríguez cambia al jefe operativo militar y anuncia un \"plan maestro\" para reconstruir Venezuela",
+      "url": "https://www.larazon.es/internacional/delcy-rodriguez-cambia-jefe-operativo-militar-anuncia-plan-maestro-reconstruir-venezuela_202607256a644f46aa17c0020f2ee772.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T05:53:12.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Los fallecidos en el terremoto doble en Venezuela superan los 5.500",

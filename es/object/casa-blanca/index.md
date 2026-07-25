@@ -3,10 +3,22 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia
+
+El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, celebrada este viernes en el Waldorf Astoria, para insultar a cómicos y a representantes demócratas como Alexandria Ocasio-Cortez, Elizabeth Warren, Gavin Newsom y J.B. Pritzker: "Este lugar alberga al grupo más grande de personas con el 'sínd.
+
+Date: 2026-07-25
+
+### Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad
+
+El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.
+
+Date: 2026-07-25
 
 ### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
 
@@ -56,18 +68,8 @@ La confianza que atesora Ilia Topuria nunca ha sido fruto de la casualidad . Ant
 
 Date: 2026-07-18
 
-### EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar
-
-La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.
-
-Date: 2026-07-18
-
-### El 'efecto Trump': China ya es más popular que Estados Unidos
-
-Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia](https://www.eldiario.es/internacional/trump-reparte-insultos-cena-corresponsales-repetida-atentado-amaga-presentarse-nuevo-presidencia_1_13406184.html?utm_source=lootura.com) — 2026-07-25T02:40:13.000Z
 - [Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?](https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com) — 2026-07-24T22:02:15.000Z
+- [Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad](https://www.larazon.es/internacional/trump-vuelve-cena-corresponsales-atentado-bromas-seguridad_202607256a644936aa17c0020f2ee055.html?utm_source=lootura.com) — 2026-07-25T05:27:18.000Z

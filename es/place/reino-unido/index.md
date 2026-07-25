@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Europa tiene petróleo pero decidió no tenerlo
+
+Europa habla de su energía como si la geología la hubiera condenado, y es falso. El continente tiene petróleo y gas en cantidades relevantes. Lo que no tiene es voluntad política de producirlos. El Reino Unido y Noruega producen entre 2,7 y 3 millones de barriles diarios en el mar del Norte, y aunque la cuenca es madur.
+
+Date: 2026-07-25
 
 ### La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte
 
@@ -62,12 +68,6 @@ El presidente de Iberdrola, Ignacio Sánchez Galán, se ha mostrado partidario d
 
 Date: 2026-07-22
 
-### CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año
-
-CaixaBank acelera en Reino Unido en su negocio de utilities (energía, gas y agua) con una financiación de más de 3.000 millones de libras (3.500 millones de euros) en los...
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Europa tiene petróleo pero decidió no tenerlo](https://theobjective.com/elsubjetivo/opinion/2026-07-25/europa-petroleo-articulo-martin-varsavsky/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z

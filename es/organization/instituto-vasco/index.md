@@ -28,5 +28,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen](https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com) — 2026-07-24T17:01:57.000Z
-- [Clerbil, BBK, Kutxabank y Gobierno vasco lanzan una opa de 244 millones por Azkoyen](https://theobjective.com/economia/banca/2026-07-24/clerbil-bbk-kutkabank-gobierno-vasco-opa-azkoyen/?utm_source=lootura.com) — 2026-07-24T19:44:59.000Z
+No public source links.

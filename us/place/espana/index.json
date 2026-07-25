@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T02:27:06.617Z",
+  "updatedAt": "2026-07-25T06:16:13.562Z",
   "aliases": [
     "España",
     "Estado español",
@@ -42,12 +42,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat",
-      "url": "https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:25:09.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
     {
       "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
       "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com",

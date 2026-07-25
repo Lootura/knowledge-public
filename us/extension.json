@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T04:48:43.389Z",
+  "generatedAt": "2026-07-25T06:25:22.730Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|32|1784946426617",
+    "signature": "1.18.0|33|1784960173562",
     "version": "1.18.0",
-    "build": 32,
-    "latestEntityUpdatedAt": "2026-07-25T02:27:06.617Z"
+    "build": 33,
+    "latestEntityUpdatedAt": "2026-07-25T06:16:13.562Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-white-house",
-      "name": "White House",
-      "type": "organization",
-      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
-      "url": "https://atlas.lootura.com/us/organization/white-house",
-      "path": "/us/organization/white-house",
-      "updatedAt": "2026-07-25T02:27:06.617Z",
-      "score": 1722,
-      "sourceCount": 77,
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-07-25T06:16:13.562Z",
+      "score": 1742,
+      "sourceCount": 440,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-25T02:27:06.617Z",
-        "score": 1710,
-        "sourceCount": 433,
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Trump returns to correspondents' dinner 3 months after shooting",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-07-25T06:16:13.562Z",
+        "score": 1742,
+        "sourceCount": 83,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,8 +47,8 @@
         "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
-        "updatedAt": "2026-07-25T02:27:06.617Z",
-        "score": 1652,
+        "updatedAt": "2026-07-25T06:16:13.562Z",
+        "score": 1659,
         "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
@@ -60,26 +60,26 @@
         "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-25T02:27:06.617Z",
-        "score": 1652,
+        "updatedAt": "2026-07-25T06:16:13.562Z",
+        "score": 1659,
         "sourceCount": 42,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-espana",
-        "name": "Spain",
+        "id": "usa-saudi-arabia",
+        "name": "Saudi Arabia",
         "type": "place",
-        "title": "More than 80,000 flee forest infernos in France and Spain",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-07-25T02:27:06.617Z",
-        "score": 1637,
-        "sourceCount": 5,
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
+        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+        "path": "/us/place/saudi-arabia",
+        "updatedAt": "2026-07-25T06:16:13.562Z",
+        "score": 1657,
+        "sourceCount": 19,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 83
+    "publicEntityCount": 81
   }
 }

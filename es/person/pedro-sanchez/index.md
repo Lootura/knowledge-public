@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez
 
 Sociedad Civil Española —S.C.E.—, plataforma que cuenta con el apoyo de cerca de 150 asociaciones de la sociedad civil de toda España, junto con otras 33 entidades ciudadanas, ha convocado para el próximo domingo, 26 de julio, una marcha para pedir la dimisión de Pedro Sánchez. La movilización comenzará a las 20:00 hor.
+
+Date: 2026-07-25
+
+### Los bomberos trabajan a destajo para intentar ganarle terreno al fuego
+
+La evolución de los incendios llevará este sábado a Pedro Sánchez, presidente del Gobierno, hasta el Puesto de Mando Avanzado de Cenicientos.
+
+Date: 2026-07-25
+
+### Autopercibido como socialdemócrata
+
+No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.
 
 Date: 2026-07-25
 
@@ -56,21 +68,8 @@ La secretaria general de los socialistas valencianos y ministra en el Gobierno d
 
 Date: 2026-07-24
 
-### Sánchez advierte de la "situación dramática" por los incendios: "Sigamos las indicaciones y evitemos riesgos"
-
-El presidente del Gobierno , Pedro Sánchez , ha advertido de la "situación dramática" que se está viviendo a consecuencia de los incendios "no sólo en distintas provincias españolas, sino también en comarcas de países vecinos". En un mensaje en X , el jefe del Ejecutivo a pedido "precaución". "Sigamos las indicaciones.
-
-Date: 2026-07-24
-
-### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
-
-Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El fuego no da tregua: más de 60.000 evacuados en incendios sin control](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-24T23:51:19.000Z
-- [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
 - [Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez](https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com) — 2026-07-25T01:36:58.000Z
-- [El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO](https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com) — 2026-07-25T01:07:31.000Z
+- [Los bomberos trabajan a destajo para intentar ganarle terreno al fuego](https://www.lavanguardia.com/vida/20260725/11600859/incendios-madrid-directo-ultima-hora-emergencia-nacional-situacion-fuegos-forestales-espana.html?utm_source=lootura.com) — 2026-07-25T04:00:12.000Z
+- [Autopercibido como socialdemócrata](https://theobjective.com/elsubjetivo/opinion/2026-07-25/autopercibido-socialdemocrata-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-25T03:25:00.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes
+
+Las embajadas estadounidenses en Oriente Medio advierten a los ciudadanos estadounidenses en la región de que las opciones para salir podrían verse limitadas, mientras que la Guardia Revolucionaria de Irán aconseja a los residentes de países vecinos mantenerse alejados de las bases que albergan tropas estadounidenses E.
+
+Date: 2026-07-25
+
+### La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico
+
+Mientras Estados Unidos incrementa el número y la potencia de los ataques contra Irán, la República Islámica busca expandir el conflicto a toda la región para ejercer más presión sobre Washington y la economía global El Congreso de EEUU aprueba 1,15 billones para defensa y 95.000 millones más para la guerra en Irán mie.
+
+Date: 2026-07-24
 
 ### El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'
 
@@ -56,18 +68,7 @@ El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupo
 
 Date: 2026-07-23
 
-### El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía
-
-El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.
-
-Date: 2026-07-23
-
-### Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”
-
-El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico](https://www.eldiario.es/internacional/ofensiva-trump-iran-desencadena-escalada-regional-golfo-persico_1_13402464.html?utm_source=lootura.com) — 2026-07-24T20:46:10.000Z
+- [EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes](https://www.eldiario.es/internacional/eeuu-ataca-buque-mercante-intentaba-sortear-bloqueo-puertos-iranies_1_13406151.html?utm_source=lootura.com) — 2026-07-25T00:20:23.000Z

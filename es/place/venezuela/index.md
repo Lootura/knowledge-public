@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-07-25T06:15:37.989Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Los fallecidos en el terremoto doble en Venezuela superan los 5.500
 
 El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 personas.
+
+Date: 2026-07-25
+
+### Delcy Rodríguez cambia al jefe operativo militar y anuncia un "plan maestro" para reconstruir Venezuela
+
+La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nuevas designaciones en la Fuerza Armada Nacional Bolivariana (FANB), destacando entre ellas el nombramiento del mayor general Rubén Belzares Escobar como nuevo jefe del Comando Estratégico Operacional del cuerpo castrense y el de Pedro Gonzále.
 
 Date: 2026-07-25
 
@@ -62,13 +68,7 @@ La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela a
 
 Date: 2026-07-18
 
-### Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos
-
-Las autoridades venezolanas han elevado este jueves a más de 4.900 el número de fallecidos por cuenta de los devastadores terremotos que sacudieron al país el pasado 24 de junio, mientras que el saldo de heridos se mantiene en 16.740 personas. Concretamente, el presidente de la Asamblea Nacional de Venezuela , Jorge Ro.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU](https://theobjective.com/internacional/2026-07-24/exmministro-venezolano-alex-saab-no-culpable-dinero-eeuu/?amp=&utm_source=lootura.com) — 2026-07-24T20:42:31.000Z
+- [Delcy Rodríguez cambia al jefe operativo militar y anuncia un "plan maestro" para reconstruir Venezuela](https://www.larazon.es/internacional/delcy-rodriguez-cambia-jefe-operativo-militar-anuncia-plan-maestro-reconstruir-venezuela_202607256a644f46aa17c0020f2ee772.html?utm_source=lootura.com) — 2026-07-25T05:53:12.000Z
 - [Los fallecidos en el terremoto doble en Venezuela superan los 5.500](https://theobjective.com/internacional/2026-07-25/fallecidos-terremoto-doble-venezuela-5-500/?amp=&utm_source=lootura.com) — 2026-07-25T01:37:34.000Z

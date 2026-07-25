@@ -22,4 +22,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat](https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com) — 2026-07-24T16:25:09.000Z
+No public source links.

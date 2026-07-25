@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate](https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com) — 2026-07-24T13:22:29.000Z
+No public source links.

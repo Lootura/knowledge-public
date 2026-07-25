@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-25T06:15:37.989Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes",
+      "summary": "Las embajadas estadounidenses en Oriente Medio advierten a los ciudadanos estadounidenses en la región de que las opciones para salir podrían verse limitadas, mientras que la Guardia Revolucionaria de Irán aconseja a los residentes de países vecinos mantenerse alejados de las bases que albergan tropas estadounidenses E.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico",
+      "summary": "Mientras Estados Unidos incrementa el número y la potencia de los ataques contra Irán, la República Islámica busca expandir el conflicto a toda la región para ejercer más presión sobre Washington y la economía global El Congreso de EEUU aprueba 1,15 billones para defensa y 95.000 millones más para la guerra en Irán mie.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
       "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
@@ -57,18 +67,21 @@
       "title": "El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo \"insuficiente\"",
       "summary": "El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía",
-      "summary": "El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
-      "summary": "El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico",
+      "url": "https://www.eldiario.es/internacional/ofensiva-trump-iran-desencadena-escalada-regional-golfo-persico_1_13402464.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:46:10.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes",
+      "url": "https://www.eldiario.es/internacional/eeuu-ataca-buque-mercante-intentaba-sortear-bloqueo-puertos-iranies_1_13406151.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:20:23.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
 }

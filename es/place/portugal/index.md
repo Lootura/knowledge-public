@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Guardiola no será el próximo seleccionador de Italia](https://theobjective.com/deportes/futbol/2026-07-24/guardiola-no-sera-proximo-entrenador-italia/?utm_source=lootura.com) — 2026-07-24T20:25:09.000Z
+No public source links.
