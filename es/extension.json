@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T02:36:36.173Z",
+  "generatedAt": "2026-07-25T04:48:46.381Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|31|1784946406300",
+    "signature": "1.18.0|32|1784946406300",
     "version": "1.18.0",
-    "build": 31,
+    "build": 32,
     "latestEntityUpdatedAt": "2026-07-25T02:26:46.300Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-07-25T02:26:46.300Z",
-      "score": 1761,
+      "score": 1749,
       "sourceCount": 581,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-25T02:26:46.300Z",
-        "score": 1761,
+        "score": 1749,
         "sourceCount": 409,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-25T02:26:46.300Z",
-        "score": 1697,
+        "score": 1684,
         "sourceCount": 139,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/union-europea",
         "path": "/es/organization/union-europea",
         "updatedAt": "2026-07-25T02:26:46.300Z",
-        "score": 1671,
+        "score": 1659,
         "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/la-mancha",
         "path": "/es/place/la-mancha",
         "updatedAt": "2026-07-25T02:26:46.300Z",
-        "score": 1669,
+        "score": 1657,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
