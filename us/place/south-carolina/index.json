@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-carolina/index.json",
   "description": "Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Palmetto State",
     "S. C.",
@@ -20,13 +20,13 @@
   ],
   "changes": [
     {
-      "title": "There are already more U.S. measles cases this year than in all of 2025",
-      "summary": "This year has easily become the U.S.'s worst year for measles since 1991, as major outbreaks in South Carolina, Utah and Arizona have sickened hundreds and smaller clusters of cases sparked in other states.",
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).",
       "date": "2026-07-24"
     },
     {
-      "title": "DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries",
-      "summary": "South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.",
+      "title": "There are already more U.S. measles cases this year than in all of 2025",
+      "summary": "This year has easily become the U.S.'s worst year for measles since 1991, as major outbreaks in South Carolina, Utah and Arizona have sickened hundreds and smaller clusters of cases sparked in other states.",
       "date": "2026-07-24"
     },
     {
@@ -78,11 +78,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "There are already more U.S. measles cases this year than in all of 2025",
-      "url": "https://www.pbs.org/newshour/health/there-are-already-more-u-s-measles-cases-this-year-than-in-all-of-2025?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:37:10.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:50:41.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

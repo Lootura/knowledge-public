@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"](https://www.eldiario.es/sociedad/directora-proteccion-civil-tuvimos-meses-borrascas-ahora-incendios-realidad-tozuda-hay-creer-ciencia_128_13404634.html?utm_source=lootura.com) — 2026-07-24T16:06:14.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Aid worker describes crisis in Venezuela, one month after devastating earthquakes
+
+Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.
+
+Date: 2026-07-24
 
 ### Venezuela’s Earthquakes Show Wealth Divide, Even in Death
 
@@ -62,12 +68,6 @@ The economic collapse of Venezuela has pushed its healthcare system to the brink
 
 Date: 2026-07-08
 
-### As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine
-
-Fearful that officials would tear down damaged buildings without accounting for any remaining bodies, Venezuelans are desperately digging for their relatives’ remains.
-
-Date: 2026-07-08
-
 ## Sources
 
-No public source links.
+- [Aid worker describes crisis in Venezuela, one month after devastating earthquakes](https://www.pbs.org/newshour/show/aid-worker-describes-crisis-in-venezuela-one-month-after-devastating-earthquakes?utm_source=lootura.com) — 2026-07-24T22:45:14.000Z

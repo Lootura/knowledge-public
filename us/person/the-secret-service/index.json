@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/the-secret-service/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/the-secret-service/index.json",
   "description": "Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Secret",
     "Service"
@@ -56,13 +56,7 @@
       "url": "https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T17:07:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "White House Correspondents’ Dinner Returns Under High Security",
-      "url": "https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:20:35.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas
+
+La vicepresidenta deja los deberes para la vuelta del verano, cuando entrará de lleno en la carrera de la OIT. España se arriesga a una sanción de la UE por el incumplimiento en transparencia salarial Leer.
+
+Date: 2026-07-24
 
 ### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
 
@@ -62,12 +68,6 @@ La posible llegada de Yolanda Díaz a la Dirección General de la Organización 
 
 Date: 2026-07-23
 
-### El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo
-
-El Gobierno propone a Yolanda Díaz como directora general de la Organización Internacional del Trabajo (OIT), según ha podido saber EL PAÍS por fuentes conocedoras de la decisión y ha confirmado La Moncloa este jueves. La vicepresidenta segunda y ministra de Trabajo plantará cara a Gilbert F. Houngbo , que dirige desde.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas](https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com) — 2026-07-24T23:08:43.000Z

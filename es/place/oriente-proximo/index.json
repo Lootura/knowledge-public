@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "¿Quién teme el crudo a 100 dólares?",
+      "summary": "El precio del Brent , la referencia más utilizada en los mercados globales, ha escalado esta semana de nuevo a los 100 dólares por barril . Su vuelta a los niveles más altos desde principios de junio se produce en plena escalada del conflicto de Oriente Próximo. Seguir leyendo.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco",
       "summary": "El reciente alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial han mermado la confianza de los inversores. El riesgo d.",
@@ -60,13 +65,15 @@
       "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
       "summary": "Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Oriente Próximo first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Quién teme el crudo a 100 dólares?",
+      "url": "https://www.expansion.com/inversion/2026/07/25/6a63b2de468aeb75258b45b9.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:02:06.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

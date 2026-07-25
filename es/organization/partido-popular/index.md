@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-25
+
+### Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica
+
+El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.
+
+Date: 2026-07-24
+
+### Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos
+
+El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.
+
+Date: 2026-07-24
 
 ### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
 
@@ -50,25 +68,8 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### El PP tilda de "miserable" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios
-
-"Ellos ven bandos donde nosotros vemos fuego", afirma Alma Ezcurra, que dice no entender "que todas las fuerzas políticas no colaboren en el mismo objetivo" contra los incendios El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios Última hora de los incendios en España El Parti.
-
-Date: 2026-07-24
-
-### Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”
-
-Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.
-
-Date: 2026-07-24
-
-### Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»
-
-La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
-- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
+- [Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica](https://www.abc.es/espana/feijoo-intenta-recuperar-espacio-cedido-vox-iberoamerica-20260725014331-nt.html?utm_source=lootura.com) — 2026-07-24T23:43:31.000Z
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z
+- [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z

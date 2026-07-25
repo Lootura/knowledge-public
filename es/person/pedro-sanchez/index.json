@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez",
+      "summary": "Sociedad Civil Española —S.C.E.—, plataforma que cuenta con el apoyo de cerca de 150 asociaciones de la sociedad civil de toda España, junto con otras 33 entidades ciudadanas, ha convocado para el próximo domingo, 26 de julio, una marcha para pedir la dimisión de Pedro Sánchez. La movilización comenzará a las 20:00 hor.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El Gobierno \"dopa\" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO",
+      "summary": "La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
       "summary": "La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.",
@@ -56,24 +66,14 @@
       "title": "Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»",
       "summary": "Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Sánchez pide ayuda a la UE para luchar contra los incendios",
-      "summary": "Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila",
-      "summary": "Tras declarar el Gobierno la emergencia nacional por la rápida propagación del fuego, la reunión de coordinación celebrada en La Monloa y presidida por Pedro Sánchez ha terminado pasadas las 10.00 de la mañana DIRECTO - Sigue aquí la última hora sobre los incendios España ha solicitado a través de la Unidad Militar de.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez visita este sábado la zona afectada por los incendios de Madrid",
-      "url": "https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T18:34:25.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El fuego no da tregua: más de 60.000 evacuados en incendios sin control",
+      "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:51:19.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
@@ -82,11 +82,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes",
-      "url": "https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-escandalo-regularizacion-inmigrantes/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:20:49.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez",
+      "url": "https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:36:58.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El Gobierno \"dopa\" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO",
+      "url": "https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:07:31.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

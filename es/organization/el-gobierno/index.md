@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO
+
+La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.
+
+Date: 2026-07-25
 
 ### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
 
@@ -17,6 +23,12 @@ Date: 2026-07-24
 ### El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen
 
 Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...
+
+Date: 2026-07-24
+
+### El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos
+
+España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...
 
 Date: 2026-07-24
 
@@ -56,19 +68,9 @@ El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.
 
 Date: 2026-07-24
 
-### El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO
-
-La consejera de Territorio, Vivienda y Transición Ecológica de la Generalitat, Sílvia Paneque, y la líder de los Comuns en el Parlamento, Jéssica Albiach, han presentado una proposición de ley para reconvertir oficinas y locales comerciales en viviendas de protección oficial (VPO), y para aumentar la edificabilidad de.
-
-Date: 2026-07-24
-
-### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
-
-El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos](https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com) — 2026-07-24T20:45:43.000Z
 - [De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"](https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com) — 2026-07-24T17:21:42.000Z
 - [El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen](https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com) — 2026-07-24T17:01:57.000Z
+- [El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO](https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com) — 2026-07-25T01:07:31.000Z

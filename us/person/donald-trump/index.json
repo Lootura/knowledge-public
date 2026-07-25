@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,9 +25,34 @@
   ],
   "changes": [
     {
+      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
+      "summary": "President Trump is attending the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "International PhD students to face strict limits on time in the US",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3 Trump administration takes action to address ‘forever students’.",
-      "date": "2026-07-24"
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "summary": "The affordability crisis is revving up again. The war in Iran and Trump’s tariffs are pushing prices up and raising fears of renewed inflation.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
+      "summary": "President Donald Trump thanks reporters and recalls the events of the night of the first White House Correspondents' Dinner earlier this year, where a gunman attempted to storm the room at the Washington Hilton.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Trump on LeBron James: ‘Maybe He’s a Racist’",
+      "summary": "President Trump has lashed out over the years at NBA star LeBron James, who has been critical of the president in the past.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+      "date": "2026-07-25"
     },
     {
       "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
@@ -47,31 +72,6 @@
     {
       "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
       "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
-      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, including U.S. allies",
-      "summary": "President Trump is imposing new tariffs on dozens of countries accused of failing to crack down on forced labor. The tariffs range from 10% to 12.5% and include U.S. allies. Nancy Cordes reports.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
-      "summary": "Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Why Trump’s Renewed Trade War Could Be Costly",
-      "summary": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
-      "summary": "President Trump said he is considering a \"massive attack\" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.",
       "date": "2026-07-24"
     }
   ],
@@ -107,34 +107,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump expected to attend White House Correspondents' Dinner redo after April attack",
-      "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:57:25.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
-      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:17:11.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, including U.S. allies",
-      "url": "https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:22:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
       "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T20:28:05.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
-      "url": "https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:18:54.000Z",
+      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
+      "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:23:30.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "International PhD students to face strict limits on time in the US",
+      "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T02:27:10.342Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "url": "https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:24:23.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump administration concedes that it canceled research grants in blue states",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-concedes-canceled-research-grants-blue-states-rcna589129?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:12:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
   "evidenceCount": 33

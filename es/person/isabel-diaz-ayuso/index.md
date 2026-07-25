@@ -3,16 +3,10 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
-
-### Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón
-
-El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.
-
-Date: 2026-07-24
 
 ### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
 
@@ -20,15 +14,21 @@ La crisis de los graves incendios que afectan a la Comunidad de Madrid y la prov
 
 Date: 2026-07-24
 
-### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
-
-Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
-
-Date: 2026-07-24
-
 ### Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid
 
 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado este viernes que los fuegos en la región afectan ya a 12.000 hectáreas , que hay 20.000 habitantes evacuados y que la situación sigue siendo "muy crítica" debido al viento, datos a los que ha sumado una reivindicación: la llegada de más medios aé.
+
+Date: 2026-07-24
+
+### Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón
+
+El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.
+
+Date: 2026-07-24
+
+### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
+
+Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
 
 Date: 2026-07-24
 
@@ -71,6 +71,4 @@ Date: 2026-07-24
 ## Fuentes
 
 - [Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid](https://www.elconfidencial.com/espana/2026-07-24/ayuso-12-000-hectareas-situacion-muy-critica-madrid_4395826/?utm_source=lootura.com) — 2026-07-24T18:58:00.000Z
-- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
-- [Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón](https://elpais.com/espana/2026-07-24/precedentes-y-polemicas-de-la-declaracion-de-emergencia-nacional-del-bulo-del-si-quieren-ayuda-que-la-pidan-al-apagon.html?utm_source=lootura.com) — 2026-07-24T09:40:11.000Z
 - [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z

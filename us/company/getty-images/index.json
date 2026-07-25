@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).",
+      "date": "2026-07-24"
+    },
     {
       "title": "Meet Me in the Notes App",
       "summary": "—NurPhoto—Getty Images “What’s the oldest note in your phone?” my younger sister asked, in the same tone one might use to share gossip. She was explaining what she called “notes app digest,” rereading notes like a kind of personal magazine of one’s own insight and nonsense. I immediately scrolled. For better or worse,.",
@@ -59,13 +64,15 @@
       "title": "Discovered by Atlas",
       "summary": "Getty Images first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
-      "summary": "We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship? (Image credit: Fox Photos/Getty Images).",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:50:41.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

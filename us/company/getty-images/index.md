@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Democrats approve new primary election calendar, putting South Carolina first
+
+Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).
+
+Date: 2026-07-24
 
 ### Meet Me in the Notes App
 
@@ -62,12 +68,6 @@ Getty Images first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-16
 
-### 'Gossip' had godly origins. Here's how it gained its sinful reputation
-
-We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship? (Image credit: Fox Photos/Getty Images).
-
-Date: 2026-07-16
-
 ## Sources
 
-No public source links.
+- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z

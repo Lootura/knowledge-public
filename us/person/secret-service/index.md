@@ -3,10 +3,22 @@
 > Follow Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/person/secret-service
 
 ## Recent changes
+
+### Secret Service agent who confronted gunman honored at Correspondents’ Dinner
+
+U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.
+
+Date: 2026-07-25
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+Date: 2026-07-25
 
 ### Secret Service warns of high threat levels before White House Correspondents' Dinner
 
@@ -56,13 +68,7 @@ The New York Times reported earlier this month that security concerns had led th
 
 Date: 2026-07-23
 
-### Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security info
-
-A member of JD Vance’s protective detail has been removed pending an investigation into allegations of compromising the vice president’s security, a Secret Service spokesman said Thursday.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Secret Service warns of high threat levels before White House Correspondents' Dinner](https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T13:00:14.000Z
-- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-24T20:24:58.000Z
+- [Secret Service agent who confronted gunman honored at Correspondents’ Dinner](https://www.nbcnews.com/video/secret-service-agent-who-confronted-gunman-honored-at-correspondents-dinner-267257413918?utm_source=lootura.com) — 2026-07-25T00:50:41.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas",
+      "summary": "La vicepresidenta deja los deberes para la vuelta del verano, cuando entrará de lleno en la carrera de la OIT. España se arriesga a una sanción de la UE por el incumplimiento en transparencia salarial Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
       "summary": "Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.",
@@ -61,13 +66,15 @@
       "title": "Más de 150.000 euros anuales y ayuda para la vivienda en Suiza, el salario al que opta",
       "summary": "La posible llegada de Yolanda Díaz a la Dirección General de la Organización Internacional del Trabajo (OIT) supondría, además de su salida del Gobierno, un incremento en el salario de la hasta ahora vicepresidenta segunda del Gobierno. El puesto que busca abordar la exlíder de Sumar es uno de los mejores remunerados d.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
-      "summary": "El Gobierno propone a Yolanda Díaz como directora general de la Organización Internacional del Trabajo (OIT), según ha podido saber EL PAÍS por fuentes conocedoras de la decisión y ha confirmado La Moncloa este jueves. La vicepresidenta segunda y ministra de Trabajo plantará cara a Gilbert F. Houngbo , que dirige desde.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas",
+      "url": "https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:08:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

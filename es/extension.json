@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T21:09:49.279Z",
+  "generatedAt": "2026-07-25T02:36:36.173Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|30|1784926796236",
+    "signature": "1.18.0|31|1784946406300",
     "version": "1.18.0",
-    "build": 30,
-    "latestEntityUpdatedAt": "2026-07-24T20:59:56.236Z"
+    "build": 31,
+    "latestEntityUpdatedAt": "2026-07-25T02:26:46.300Z"
   },
   "atlas": {
     "hero": {
@@ -20,36 +20,49 @@
       "title": "Incendios en Madrid y Ávila, en directo: mapa de los focos activos, zonas evacuadas y última hora de la emergencia nacional en España",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-07-24T20:59:56.236Z",
+      "updatedAt": "2026-07-25T02:26:46.300Z",
       "score": 1761,
-      "sourceCount": 575,
+      "sourceCount": 581,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-isabel-diaz-ayuso",
-        "name": "Isabel Díaz Ayuso",
-        "type": "person",
-        "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-        "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
-        "path": "/es/person/isabel-diaz-ayuso",
-        "updatedAt": "2026-07-24T20:59:56.236Z",
-        "score": 1696,
-        "sourceCount": 12,
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-25T02:26:46.300Z",
+        "score": 1761,
+        "sourceCount": 409,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-24T20:59:56.236Z",
-        "score": 1683,
-        "sourceCount": 403,
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-07-25T02:26:46.300Z",
+        "score": 1697,
+        "sourceCount": 139,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-union-europea",
+        "name": "Unión Europea",
+        "type": "organization",
+        "title": "Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas",
+        "url": "https://atlas.lootura.com/es/organization/union-europea",
+        "path": "/es/organization/union-europea",
+        "updatedAt": "2026-07-25T02:26:46.300Z",
+        "score": 1671,
+        "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,22 +73,9 @@
         "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
         "url": "https://atlas.lootura.com/es/place/la-mancha",
         "path": "/es/place/la-mancha",
-        "updatedAt": "2026-07-24T20:59:56.236Z",
-        "score": 1673,
+        "updatedAt": "2026-07-25T02:26:46.300Z",
+        "score": 1669,
         "sourceCount": 23,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: \"Lo pagarán caro\"",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-07-24T20:59:56.236Z",
-        "score": 1672,
-        "sourceCount": 137,
         "isBreaking": false,
         "isPinned": false
       }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
@@ -71,5 +71,4 @@ Date: 2026-07-23
 ## Fuentes
 
 - [Dimiten el presidente y el CEO de Plus Ultra tras inculpar a Zapatero en una «mordida» por el rescate](https://www.elcorreo.com/politica/plus-ultra-20260724224714-ntrc_amp.html?utm_source=lootura.com) — 2026-07-24T20:47:14.000Z
-- [Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea](https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com) — 2026-07-24T20:50:02.000Z
 - [El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate](https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com) — 2026-07-24T13:22:29.000Z

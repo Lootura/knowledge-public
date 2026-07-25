@@ -3,14 +3,26 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-25
+
 ### El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos
 
 Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...
+
+Date: 2026-07-24
+
+### Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos
+
+El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.
 
 Date: 2026-07-24
 
@@ -56,18 +68,8 @@ La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos 
 
 Date: 2026-07-23
 
-### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
-
-Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
-
-Date: 2026-07-23
-
-### Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno
-
-La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresidente del Gobierno José Luis Zapatero tras su entrevista en TVE, la primera desde que fue imputado por el caso Plus Ultra . “Ha sido una tomadura de pelo”, ha dicho Muñoz en los pasillos. “No ha ido a defender solo su inocencia, sino a defender.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z
+- [Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos](https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com) — 2026-07-24T20:44:45.000Z
 - [El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos](https://amp.expansion.com/economia/2026/07/24/6a63a1ad468aeba9388b45a1.html?utm_source=lootura.com) — 2026-07-24T17:32:32.000Z

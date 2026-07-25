@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Los fallecidos en el terremoto doble en Venezuela superan los 5.500
+
+El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 personas.
+
+Date: 2026-07-25
 
 ### Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU
 
@@ -62,12 +68,7 @@ Las autoridades venezolanas han elevado este jueves a más de 4.900 el número d
 
 Date: 2026-07-17
 
-### Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»
-
-Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a viajar a España en enero de 2020 para mantener reuniones «con las autoridades». La presidenta encargada de Venezuela sostiene que conserva la carta de invitación remitida por quien entonces era ministro de Transportes y secretario de Organización.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU](https://theobjective.com/internacional/2026-07-24/exmministro-venezolano-alex-saab-no-culpable-dinero-eeuu/?amp=&utm_source=lootura.com) — 2026-07-24T20:42:31.000Z
+- [Los fallecidos en el terremoto doble en Venezuela superan los 5.500](https://theobjective.com/internacional/2026-07-25/fallecidos-terremoto-doble-venezuela-5-500/?amp=&utm_source=lootura.com) — 2026-07-25T01:37:34.000Z

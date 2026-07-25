@@ -3,10 +3,16 @@
 > Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/manuel-llamas
 
 ## Cambios recientes
+
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-25
 
 ### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
 
@@ -62,12 +68,6 @@ El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirm
 
 Date: 2026-07-16
 
-### El DAO admite reuniones con Leire Díez pero dice que no pidió ponerse de perfil en causas contra el Gobierno
-
-El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha contradicho este jueves ante el juez a la Unidad Central Operativa (UCO), al negar que pidiera a sus agentes ponerse "de perfil" en causas judiciales comprometedoras para el Gobierno o con incidencia política. Según fuentes jurídicas, Llamas ha.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z

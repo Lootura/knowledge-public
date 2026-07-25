@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
+      "summary": "Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
       "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.",
@@ -59,13 +64,15 @@
       "title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
       "summary": "The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress. (Image credit: Family photo).",
       "date": "2026-07-08"
-    },
-    {
-      "title": "As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine",
-      "summary": "Fearful that officials would tear down damaged buildings without accounting for any remaining bodies, Venezuelans are desperately digging for their relatives’ remains.",
-      "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
+      "url": "https://www.pbs.org/newshour/show/aid-worker-describes-crisis-in-venezuela-one-month-after-devastating-earthquakes?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:45:14.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

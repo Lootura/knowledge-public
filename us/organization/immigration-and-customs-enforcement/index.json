@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -22,6 +22,11 @@
     "United States Immigration & Customs Enforcement"
   ],
   "changes": [
+    {
+      "title": "Substance in work van of man killed by ICE tested negative for drugs, prosecutor says",
+      "summary": "A substance found in the work van of a Mexican immigrant killed by an Immigration and Customs Enforcement agent has tested negative for illicit drugs, the top prosecutor in Houston said Friday.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Video appears to show United employee threatening to call ICE on customer",
       "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
@@ -66,13 +71,15 @@
       "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
       "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
-      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Substance in work van of man killed by ICE tested negative for drugs, prosecutor says",
+      "url": "https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:07:47.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

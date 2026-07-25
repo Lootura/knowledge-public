@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T21:09:46.376Z",
+  "generatedAt": "2026-07-25T02:36:33.374Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|30|1784926815269",
+    "signature": "1.18.0|31|1784946426617",
     "version": "1.18.0",
-    "build": 30,
-    "latestEntityUpdatedAt": "2026-07-24T21:00:15.269Z"
+    "build": 31,
+    "latestEntityUpdatedAt": "2026-07-25T02:27:06.617Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-24T21:00:15.269Z",
-      "score": 1749,
-      "sourceCount": 422,
+      "id": "usa-white-house",
+      "name": "White House",
+      "type": "organization",
+      "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
+      "url": "https://atlas.lootura.com/us/organization/white-house",
+      "path": "/us/organization/white-house",
+      "updatedAt": "2026-07-25T02:27:06.617Z",
+      "score": 1735,
+      "sourceCount": 77,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Funding milestone detected",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-24T21:00:15.269Z",
-        "score": 1749,
-        "sourceCount": 71,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
-        "type": "organization",
-        "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-07-24T21:00:15.269Z",
-        "score": 1685,
-        "sourceCount": 17,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump speaking at White House Correspondents' Dinner redo after April attack",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-07-25T02:27:06.617Z",
+        "score": 1723,
+        "sourceCount": 433,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,8 +47,8 @@
         "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
-        "updatedAt": "2026-07-24T21:00:15.269Z",
-        "score": 1673,
+        "updatedAt": "2026-07-25T02:27:06.617Z",
+        "score": 1665,
         "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
@@ -73,13 +60,26 @@
         "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-24T21:00:15.269Z",
-        "score": 1673,
+        "updatedAt": "2026-07-25T02:27:06.617Z",
+        "score": 1665,
         "sourceCount": 42,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-espana",
+        "name": "Spain",
+        "type": "place",
+        "title": "More than 80,000 flee forest infernos in France and Spain",
+        "url": "https://atlas.lootura.com/us/place/espana",
+        "path": "/us/place/espana",
+        "updatedAt": "2026-07-25T02:27:06.617Z",
+        "score": 1650,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 82
+    "publicEntityCount": 83
   }
 }

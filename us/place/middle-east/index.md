@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
-- [Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say](https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com) — 2026-07-24T13:18:54.000Z
-- [Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface](https://www.pbs.org/newshour/nation/gas-groceries-and-back-to-school-items-are-where-shoppers-might-see-higher-oil-prices-surface?utm_source=lootura.com) — 2026-07-24T15:12:57.000Z
+No public source links.

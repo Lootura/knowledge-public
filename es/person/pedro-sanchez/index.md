@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez
+
+Sociedad Civil Española —S.C.E.—, plataforma que cuenta con el apoyo de cerca de 150 asociaciones de la sociedad civil de toda España, junto con otras 33 entidades ciudadanas, ha convocado para el próximo domingo, 26 de julio, una marcha para pedir la dimisión de Pedro Sánchez. La movilización comenzará a las 20:00 hor.
+
+Date: 2026-07-25
+
+### El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO
+
+La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.
+
+Date: 2026-07-25
 
 ### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
 
@@ -56,20 +68,9 @@ Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera 
 
 Date: 2026-07-24
 
-### Sánchez pide ayuda a la UE para luchar contra los incendios
-
-Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
-
-Date: 2026-07-24
-
-### España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila
-
-Tras declarar el Gobierno la emergencia nacional por la rápida propagación del fuego, la reunión de coordinación celebrada en La Monloa y presidida por Pedro Sánchez ha terminado pasadas las 10.00 de la mañana DIRECTO - Sigue aquí la última hora sobre los incendios España ha solicitado a través de la Unidad Militar de.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Sánchez visita este sábado la zona afectada por los incendios de Madrid](https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com) — 2026-07-24T18:34:25.000Z
+- [El fuego no da tregua: más de 60.000 evacuados en incendios sin control](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-24T23:51:19.000Z
 - [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
-- [Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-escandalo-regularizacion-inmigrantes/?utm_source=lootura.com) — 2026-07-24T15:20:49.000Z
+- [Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez](https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com) — 2026-07-25T01:36:58.000Z
+- [El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO](https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com) — 2026-07-25T01:07:31.000Z

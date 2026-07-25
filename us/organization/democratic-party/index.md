@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -12,11 +12,17 @@
 
 Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
 
+Date: 2026-07-25
+
+### Democrats approve new primary election calendar, putting South Carolina first
+
+Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).
+
 Date: 2026-07-24
 
-### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
+### Opposing Defense Bill, Democrats Shift Their Tactics
 
-South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.
+Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal 
 
 Date: 2026-07-23
 
-### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
-
-The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas](https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas?utm_source=lootura.com) — 2026-07-24T14:43:59.000Z
-- [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-24T19:14:36.000Z
+- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
+- [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-25T01:29:29.000Z

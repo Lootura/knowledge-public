@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.json",
   "description": "Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Llamas",
     "Manuel"
   ],
   "changes": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
+      "date": "2026-07-25"
+    },
     {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
@@ -58,19 +63,14 @@
       "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
       "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El DAO admite reuniones con Leire Díez pero dice que no pidió ponerse de perfil en causas contra el Gobierno",
-      "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha contradicho este jueves ante el juez a la Unidad Central Operativa (UCO), al negar que pidiera a sus agentes ponerse \"de perfil\" en causas judiciales comprometedoras para el Gobierno o con incidencia política. Según fuentes jurídicas, Llamas ha.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:53:02.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:00:15.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

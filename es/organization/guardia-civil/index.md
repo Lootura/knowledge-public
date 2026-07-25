@@ -3,20 +3,26 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
 
-### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
-El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
 
-Date: 2026-07-24
+Date: 2026-07-25
 
 ### Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”
 
 Un equipo de vídeo de EL PAÍS entrevista a la portavoz de la Guardia Civil en Cenicientos, que insta a los habitantes a no volver a sus casas hasta nuevo aviso.
+
+Date: 2026-07-24
+
+### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
+
+El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ Eugenio se quedó en su cortijo a luchar contra el fuego en Bédar (Almería); M
 
 Date: 2026-07-21
 
-### Robles avala a las Fuerzas Armadas durante la entrega de las máximas distinciones militares
-
-La ministra de Defensa, Margarita Robles , ha reivindicado este lunes el papel de las Fuerzas Armadas y de la Guardia Civil durante la ceremonia de imposición de las Grandes Cruces del Mérito Militar y de la Real y Militar Orden de San Hermenegildo . El acto, celebrado en el Palacio de Buenavista, sede del Cuartel Gene.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-25T00:00:15.000Z
 - [Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”](https://elpais.com/videos/2026-07-24/las-dos-columnas-de-humo-vistas-desde-el-centro-de-mando-pedimos-a-los-ciudadanos-que-colaboren-con-nostros.html?utm_source=lootura.com) — 2026-07-24T16:42:02.000Z

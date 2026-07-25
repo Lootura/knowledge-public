@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,8 +22,18 @@
   ],
   "changes": [
     {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
+      "date": "2026-07-25"
+    },
+    {
       "title": "El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos",
       "summary": "Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
       "date": "2026-07-24"
     },
     {
@@ -60,19 +70,21 @@
       "title": "\"Decepción\" en el PSOE con Zapatero tras su entrevista: \"No lo hemos entendido, no ha aclarado nada de las joyas\"",
       "summary": "La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La cúpula del PSOE da por buenas las explicaciones de Zapatero: \"Mantenemos nuestro apoyo\"",
-      "summary": "Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno",
-      "summary": "La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresidente del Gobierno José Luis Zapatero tras su entrevista en TVE, la primera desde que fue imputado por el caso Plus Ultra . “Ha sido una tomadura de pelo”, ha dicho Muñoz en los pasillos. “No ha ido a defender solo su inocencia, sino a defender.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:00:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:44:45.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos",
       "url": "https://amp.expansion.com/economia/2026/07/24/6a63a1ad468aeba9388b45a1.html?utm_source=lootura.com",
@@ -80,5 +92,5 @@
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

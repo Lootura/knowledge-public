@@ -3,7 +3,7 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Prime Video pone fecha de estreno a la docuserie sobre el triunfo de la selección en el Mundial](https://www.abc.es/play/series/noticias/prime-video-fecha-estreno-docuserie-triunfo-seleccion-mundial-20260724165107-nt.html?utm_source=lootura.com) — 2026-07-24T23:58:38.000Z

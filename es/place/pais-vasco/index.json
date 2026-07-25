@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -92,13 +92,7 @@
       "url": "https://www.diariovasco.com/sociedad/oficial-euskadi-andalucia-recuperan-conexion-aerea-directa-20260724174904-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T05:32:40.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Último día de calor extremo en Euskadi: el fin de semana traerá un desplome de temperaturas y lluvias intensas",
-      "url": "https://www.larazon.es/pais-vasco/ultimo-dia-calor-extremo-euskadi-fin-semana-traera-desplome-temperaturas-lluvias-intensas-b30m_202607246a63c450da3add27d4e0708d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:00:16.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

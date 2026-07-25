@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home
 
 The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.
+
+Date: 2026-07-24
+
+### How volunteers with 3D printers make weapons for Ukraine
+
+Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine's defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that t.
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just day
 
 Date: 2026-07-22
 
-### Mykhailo Drapatyi: What to Know About Ukraine’s New Top General
-
-Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.
-
-Date: 2026-07-21
-
 ## Sources
 
+- [How volunteers with 3D printers make weapons for Ukraine](https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine?utm_source=lootura.com) — 2026-07-24T22:40:44.000Z
 - [Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home](https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com) — 2026-07-24T15:33:58.000Z

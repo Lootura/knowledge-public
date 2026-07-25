@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte](https://theobjective.com/internacional/2026-07-24/coche-bomba-frontera-irlanda-e-irlanda-norte/?utm_source=lootura.com) — 2026-07-24T15:13:19.000Z
+No public source links.

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno \"dopa\" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO",
+      "summary": "La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.",
+      "date": "2026-07-25"
+    },
     {
       "title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
       "summary": "El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.",
@@ -19,6 +24,11 @@
     {
       "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
       "summary": "Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
+      "summary": "España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...",
       "date": "2026-07-24"
     },
     {
@@ -50,19 +60,15 @@
       "title": "FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes",
       "summary": "El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO",
-      "summary": "La consejera de Territorio, Vivienda y Transición Ecológica de la Generalitat, Sílvia Paneque, y la líder de los Comuns en el Parlamento, Jéssica Albiach, han presentado una proposición de ley para reconvertir oficinas y locales comerciales en viviendas de protección oficial (VPO), y para aumentar la edificabilidad de.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
-      "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
+      "url": "https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:45:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
       "url": "https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com",
@@ -74,7 +80,13 @@
       "url": "https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T17:01:57.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "El Gobierno \"dopa\" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO",
+      "url": "https://www.larazon.es/economia/gobierno-dopa-aportaciones-millonarias-extras-aspiraciones-diaz-planas-dirigir-oit-fao_202607256a640c53da3add27d4e0cee2.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:07:31.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

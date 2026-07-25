@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,9 +17,19 @@
   ],
   "changes": [
     {
-      "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
-      "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
-      "date": "2026-07-24"
+      "title": "How Jordan became a target for Iran in war with U.S.",
+      "summary": "Since the Iran war began in February, Jordan has largely avoided the kind of onslaught Tehran has aimed at places like Kuwait, Bahrain and the United Arab Emirates. With recent attacks, and one that killed three U.S. soldiers, that's changed. CBS News senior national security correspondent Charlie D'Agata examines why.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "summary": "The affordability crisis is revving up again. The war in Iran and Trump’s tariffs are pushing prices up and raising fears of renewed inflation.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
+      "date": "2026-07-25"
     },
     {
       "title": "Morning news brief",
@@ -37,18 +47,8 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
-      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
       "summary": "President Trump said he is considering a \"massive attack\" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface",
-      "summary": "Already feeling pinched since the start of the Iran war, consumers are likely to feel more pain ahead as oil prices pushed past $100 a barrel Thursday amid renewed fighting and military strikes that have left global oil supplies stranded in the Middle East.",
       "date": "2026-07-24"
     },
     {
@@ -57,13 +57,13 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home",
-      "summary": "NBC’s Monica Alba, Brian Cheung, Courtney Kube and Richard Engel share their latest reporting on new strikes in Iran and the economic impact of a growing war. Retired Vice Admiral Kevin Donegan reacts to the president’s comments, saying he sees a “potential path to escalation\" in Iran.",
+      "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
       "date": "2026-07-24"
     },
     {
-      "title": "Trump takes questions on Iran and cyclosporiasis outbreak during White House event",
-      "summary": "During an event on nuclear innovation, President Trump fielded questions from reporters on the war with Iran and threats about potential targets and the outbreak of cyclosporiasis. NBC News' Monica Alba reports on what the president had to say about the issues facing the administration.",
+      "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
+      "summary": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
       "date": "2026-07-24"
     }
   ],
@@ -81,22 +81,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
-      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:17:11.000Z",
+      "title": "How Jordan became a target for Iran in war with U.S.",
+      "url": "https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:08:19.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-locked-and-loaded-to-attack-iran-as-concerns-grow-over-rising-costs-at-home-267244101960?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:33:49.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump takes questions on Iran and cyclosporiasis outbreak during White House event",
-      "url": "https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:14:14.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "url": "https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:24:23.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Morning news brief",
@@ -105,21 +99,27 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface",
-      "url": "https://www.pbs.org/newshour/nation/gas-groceries-and-back-to-school-items-are-where-shoppers-might-see-higher-oil-prices-surface?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:12:57.000Z",
+      "title": "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-fired-on-another-vessel-trying-to-breach-its-blockade-of-iranian-ports?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:57:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
-      "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:04:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:35:39.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T18:27:32.000Z",
+      "publishedAt": "2026-07-24T21:32:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:41:12.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {

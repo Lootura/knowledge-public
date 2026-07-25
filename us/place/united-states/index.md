@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -14,17 +14,23 @@ We celebrate the United States ahead of its 250th anniversary with stories about
 
 Date: 2026-07-27
 
+### How Jordan became a target for Iran in war with U.S.
+
+Since the Iran war began in February, Jordan has largely avoided the kind of onslaught Tehran has aimed at places like Kuwait, Bahrain and the United Arab Emirates. With recent attacks, and one that killed three U.S. soldiers, that's changed. CBS News senior national security correspondent Charlie D'Agata examines why.
+
+Date: 2026-07-25
+
 ### How does Make America Healthy Again hold up against scientific scrutiny?
 
 Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.
 
-Date: 2026-07-24
+Date: 2026-07-25
 
-### A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War
+### Secret Service agent who confronted gunman honored at Correspondents’ Dinner
 
-Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.
+U.S. Secret Service Agent Victor Gonzales was awarded the WHCA President’s Award for Exceptional Service in recognition of his efforts to stop the gunman who tried to break through security during April’s White House Correspondents’ Dinner.
 
-Date: 2026-07-24
+Date: 2026-07-25
 
 ### Morning news brief
 
@@ -44,18 +50,6 @@ As renewed fighting with Iran sends oil and gas prices soaring, President Trump 
 
 Date: 2026-07-24
 
-### Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes
-
-As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.
-
-Date: 2026-07-24
-
-### Trump imposes new tariffs on dozens of countries, including U.S. allies
-
-President Trump is imposing new tariffs on dozens of countries accused of failing to crack down on forced labor. The tariffs range from 10% to 12.5% and include U.S. allies. Nancy Cordes reports.
-
-Date: 2026-07-24
-
 ### With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access
 
 Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains uncertain.
@@ -68,15 +62,21 @@ President Trump said he is considering a "massive attack" on Iran as fighting ra
 
 Date: 2026-07-24
 
+### New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners
+
+U.S. President Donald Trump's latest set of tariffs drew objections Friday from America's trading partners including China and Japan, with Australia's trade minister slamming them as "completely unjustified.".
+
+Date: 2026-07-24
+
 ## Sources
 
 - [How Trump's threat of a "massive attack" on Iran could unfold](https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com) — 2026-07-24T17:01:00.000Z
 - [Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs](https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com) — 2026-07-24T20:50:53.000Z
 - [Costa Rica captures top fugitive "Diablo," wanted by U.S., officials say](https://www.cbsnews.com/news/costa-rica-captures-top-fugitive-diablo-drug-trafficking/?utm_source=lootura.com) — 2026-07-24T20:10:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
-- [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
-- [Trump imposes new tariffs on dozens of countries, including U.S. allies](https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com) — 2026-07-24T13:22:15.000Z
-- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-24T21:00:19.062Z
-- [Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home](https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-locked-and-loaded-to-attack-iran-as-concerns-grow-over-rising-costs-at-home-267244101960?utm_source=lootura.com) — 2026-07-24T20:33:49.000Z
+- [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
+- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-25T02:27:10.343Z
+- [U.S. military intentionally allowing some Iranian projectiles through defenses](https://www.nbcnews.com/nightly-news/video/u-s-military-intentionally-allowing-some-iranian-projectiles-through-defenses-267250757926?utm_source=lootura.com) — 2026-07-24T22:52:24.000Z
+- [Secret Service agent who confronted gunman honored at Correspondents’ Dinner](https://www.nbcnews.com/video/secret-service-agent-who-confronted-gunman-honored-at-correspondents-dinner-267257413918?utm_source=lootura.com) — 2026-07-25T00:50:41.000Z
+- [Paramount says it will pause its Warner acquisition while legal challenges play out](https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits?utm_source=lootura.com) — 2026-07-24T22:26:21.000Z
 - [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
-- [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z

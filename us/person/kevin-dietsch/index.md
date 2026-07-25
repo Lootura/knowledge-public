@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [A defiant Trump imposes replacement tariffs on biggest U.S. trading partners](https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
+No public source links.

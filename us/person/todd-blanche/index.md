@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process
+
+A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.
+
+Date: 2026-07-25
 
 ### Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton
 
@@ -62,12 +68,6 @@ NPR's Leila Fadel asks Democratic Sen. Cory Booker of New Jersey why he says Tod
 
 Date: 2026-07-16
 
-### Epstein survivor Dani Bensky says Blanche has never responded to them in opening statement
-
-She implored senators on the Judiciary Committee to "think about the girls in these photos" when casting their confirmation votes for attorney general nominee Todd Blanche.
-
-Date: 2026-07-16
-
 ## Sources
 
-No public source links.
+- [In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process](https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com) — 2026-07-25T01:46:39.000Z

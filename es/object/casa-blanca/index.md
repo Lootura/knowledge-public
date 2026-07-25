@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
+
+Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...
+
+Date: 2026-07-24
 
 ### Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril
 
@@ -62,12 +68,6 @@ Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logr
 
 Date: 2026-07-16
 
-### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
-
-Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril](https://www.abc.es/internacional/trump-vuelve-cenar-prensa-terminar-fiesta-interrumpida-20260723215516-nt.html?utm_source=lootura.com) — 2026-07-24T19:57:15.000Z
+- [Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?](https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com) — 2026-07-24T22:02:15.000Z

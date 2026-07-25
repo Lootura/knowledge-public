@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+      "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+      "date": "2026-07-25"
+    },
     {
       "title": "DOJ admits legal errors, drops subpoenas of New York Times journalists",
       "summary": "A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.",
@@ -54,16 +64,6 @@
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
       "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
-      "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
-      "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -74,11 +74,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:46:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
       "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:24:58.000Z",
+      "publishedAt": "2026-07-25T01:57:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

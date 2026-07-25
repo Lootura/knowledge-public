@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### ¿Quién teme el crudo a 100 dólares?
+
+El precio del Brent , la referencia más utilizada en los mercados globales, ha escalado esta semana de nuevo a los 100 dólares por barril . Su vuelta a los niveles más altos desde principios de junio se produce en plena escalada del conflicto de Oriente Próximo. Seguir leyendo.
+
+Date: 2026-07-24
 
 ### El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco
 
@@ -62,12 +68,6 @@ Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un at
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-Oriente Próximo first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [¿Quién teme el crudo a 100 dólares?](https://www.expansion.com/inversion/2026/07/25/6a63b2de468aeb75258b45b9.html?utm_source=lootura.com) — 2026-07-24T22:02:06.000Z

@@ -3,10 +3,22 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process
+
+A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.
+
+Date: 2026-07-25
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+Date: 2026-07-25
 
 ### DOJ admits legal errors, drops subpoenas of New York Times journalists
 
@@ -56,19 +68,8 @@ A court document says the Trump administration sought New York Times journalists
 
 Date: 2026-07-20
 
-### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
-
-The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
-
-Date: 2026-07-20
-
-### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
-
-The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [DOJ admits legal errors, drops subpoenas of New York Times journalists](https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com) — 2026-07-24T17:13:52.000Z
-- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-24T20:24:58.000Z
+- [In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process](https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com) — 2026-07-25T01:46:39.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z

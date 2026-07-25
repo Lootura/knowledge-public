@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica
+
+El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.
+
+Date: 2026-07-24
 
 ### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
 
@@ -62,12 +68,6 @@ La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinad
 
 Date: 2026-07-22
 
-### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
-
-El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica](https://www.abc.es/espana/feijoo-intenta-recuperar-espacio-cedido-vox-iberoamerica-20260725014331-nt.html?utm_source=lootura.com) — 2026-07-24T23:43:31.000Z

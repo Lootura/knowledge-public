@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,28 +17,13 @@
   ],
   "changes": [
     {
-      "title": "Fragmento del día: Angrois",
-      "summary": "en Angrois, un barrio de las afueras de Santiago de Compostela, España, se produce el accidente del tren Alvia, que viajaba con 209 pasajeros, al descarrilarse a la altura de la curva llamada A Grandeira, dejando 78 muertos y 131 heridos.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
-      "summary": "En las últimas dos semanas se han iniciado en España {{fires_2weeks}} incendios, {{bigfires_2weeks}} de ellos han sido grandes incendios forestales de más de 500 hectáreas. Eso indican los datos provisionales del Sistema de información europeo de incendios forestales (EFFIS) que miden la extensión de los fuegos a parti.",
-      "date": "2026-07-24"
+      "title": "Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez",
+      "summary": "Sociedad Civil Española —S.C.E.—, plataforma que cuenta con el apoyo de cerca de 150 asociaciones de la sociedad civil de toda España, junto con otras 33 entidades ciudadanas, ha convocado para el próximo domingo, 26 de julio, una marcha para pedir la dimisión de Pedro Sánchez. La movilización comenzará a las 20:00 hor.",
+      "date": "2026-07-25"
     },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Los mejores lugares de España para ver el eclipse solar total del 12 de agosto: guía completa por regiones",
-      "summary": "El eclipse solar total del 12 de agosto de 2026 podrá contemplarse desde numerosos puntos de España durante el atardecer. La franja de totalidad entrará por Galicia, cruzará el norte y el este peninsular y llegará hasta Baleares. Ante la elevada movilidad prevista, la DGT recomienda informarse antes de viajar y extrema.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
       "date": "2026-07-24"
     },
     {
@@ -47,27 +32,48 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Las imágenes de los incendios en España | Día 24 de julio",
-      "summary": "Los frentes de Madrid y Ávila, los más virulentos.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
       "summary": "La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia rescEU —cuatro aviones en España y tres aviones más dos helicópteros en Francia— para combatir los incendios forestales que golpean España y Francia. El Ejecutivo comunitario ha advertido este viernes de que la Unión Europea se prepara para esc.",
       "date": "2026-07-24"
     },
     {
-      "title": "Las sanciones a Rusia dejan a España sin sus mejores helicópteros para combatir los incendios forestales",
-      "summary": "Las sanciones europeas impuestas a Moscú paralizan la flota de los 10 Kamov Ka-32 que tenía España, considerados una de las aeronaves más eficaces en la extinción de fuegos. El bloqueo impide la llegada de técnicos y repuestos.",
+      "title": "El antes y el después de los incendios de Madrid y Ávila, visto desde el satélite",
+      "summary": "Las imágenes de satélite de Copernicus muestran la escala de fuego y humo de los incendios que han arrasado el sur de Madrid y Ávila y han obligado a evacuar a 50.000 personas DIRECTO - Última hora sobre los incendios en España El avance de los incendios en Madrid y Ávila llevó este jueves a la activación de la emergen.",
       "date": "2026-07-24"
     },
     {
-      "title": "España frena la modernización de sus aviones contra incendios en plena crisis territorial",
-      "summary": "El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco), a través de la Dirección General de Biodiversidad, Bosques y Desertificación , ha tenido que dar un carpetazo definitivo al contrato para la actualización y modernización técnica de la flota de aviones anfibios contraincendios CL-215T de la Admi.",
+      "title": "Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas",
+      "summary": "La vicepresidenta deja los deberes para la vuelta del verano, cuando entrará de lleno en la carrera de la OIT. España se arriesga a una sanción de la UE por el incumplimiento en transparencia salarial Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
+      "summary": "España recibirá de la UE cuatro aviones anfibios idénticos a los que debería tener operativos en pleno pico de la campaña de incendios. Dos Canadair 415 los cederá Grecia y...",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "La crisis climática manda",
+      "summary": "Los incendios que están devorando miles de hectáreas en toda España durante este tórrido verano no son un fenómeno puntual. Ni tampoco las olas de calor que nos azotan. Es posible que haya todavía quien crea que la crisis climática es un invento de los pesados ecologistas. Todo es mucho más sencillo: el calentamiento d.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Incendios en Madrid y Ávila, en directo: mapa de los focos activos, zonas evacuadas y última hora de la emergencia nacional en España",
+      "summary": "España afronta este viernes una de las jornadas más críticas del verano por la coincidencia de numerosos incendios forestales activos en varias comunidades autónomas. La situación es especialmente grave en la Comunidad de Madrid y la provincia de Ávila , donde se ha declarado la emergencia nacional ante la magnitud de.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Fragmento del día: Angrois",
+      "summary": "en Angrois, un barrio de las afueras de Santiago de Compostela, España, se produce el accidente del tren Alvia, que viajaba con 209 pasajeros, al descarrilarse a la altura de la curva llamada A Grandeira, dejando 78 muertos y 131 heridos.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Prime Video pone fecha de estreno a la docuserie sobre el triunfo de la selección en el Mundial",
+      "url": "https://www.abc.es/play/series/noticias/prime-video-fecha-estreno-docuserie-triunfo-seleccion-mundial-20260724165107-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:58:38.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
@@ -75,27 +81,21 @@
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Los mejores lugares de España para ver el eclipse solar total del 12 de agosto: guía completa por regiones",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/mejores-lugares-espana-eclipse-solar-12-agosto_4395322/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:05:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Yolanda Díaz arranca su campaña internacional con las grandes reformas atascadas y un nuevo frente abierto con Bruselas",
+      "url": "https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:08:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:40:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "El Gobierno pide a la UE los mismos aviones anti incendios que prometió en mayo y que no tiene listos",
+      "url": "https://amp.elmundo.es/espana/2026/07/24/6a63b92dfdddffa2088b45a0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:45:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Cebreros acoge a los evacuados por los incendios de Madrid: “Los ancianos llegaban descalzos y en bata”",
       "url": "https://elpais.com/espana/2026-07-24/cebreros-acoge-a-los-evacuados-por-los-incendios-de-madrid-los-ancianos-llegaban-descalzos-y-en-bata.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T16:46:40.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Las imágenes de los incendios en España | Día 24 de julio",
-      "url": "https://elpais.com/espana/2026-07-24/las-imagenes-de-los-incendios-en-espana-dia-24-de-julio.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:33:34.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -105,29 +105,29 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:48:17.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "El antes y el después de los incendios de Madrid y Ávila, visto desde el satélite",
       "url": "https://www.eldiario.es/madrid/despues-incendios-madrid-avila-visto-satelite_1_13405845.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T18:03:09.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "La NASA investiga una de las costumbres más universales de España: estas fueron sus conclusiones",
-      "url": "https://www.larazon.es/ciencia/nasa-investiga-costumbres-mas-universales-espana-estas-fueron-sus-conclusiones_202607246a63c9b64687a22bdecc22d1.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:23:18.000Z",
+      "title": "Sociedad Civil Española convoca este domingo en Marbella una gran marcha para pedir la dimisión de Pedro Sánchez",
+      "url": "https://www.larazon.es/andalucia/malaga/sociedad-civil-espanola-convoca-este-domingo-marbella-gran-marcha-pedir-dimision-pedro-sanchez_202607256a64133ada3add27d4e0d752.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:36:58.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Las sanciones a Rusia dejan a España sin sus mejores helicópteros para combatir los incendios forestales",
-      "url": "https://www.larazon.es/tecnologia-consumo/sanciones-rusia-dejan-espana-sus-mejores-helicopteros-combatir-incendios-forestales_202607246a639ff7aa17c0020f2e03d2.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:25:14.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "La crisis climática manda",
+      "url": "https://www.lavanguardia.com/opinion/20260725/11600649/crisis-climatica-manda.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Incendios en Madrid y Ávila, en directo: mapa de los focos activos, zonas evacuadas y última hora de la emergencia nacional en España",
+      "url": "https://okdiario.com/espana/incendios-activos-espana-hoy-directo-evacuados-heridos-muertos-ultima-hora-del-fuego-madrid-19058993?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:52:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 10
 }

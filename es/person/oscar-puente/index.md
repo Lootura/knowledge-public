@@ -46,5 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
-- [Óscar Puente y otros irresponsables del sanchismo](https://www.larazon.es/opinion/oscar-puente-otros-irresponsables-sanchismo_202607246a63c46aaa17c0020f2e39e5.html?utm_source=lootura.com) — 2026-07-24T20:00:42.000Z
+No public source links.

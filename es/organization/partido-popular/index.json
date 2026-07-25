@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
+      "summary": "El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
@@ -48,36 +63,27 @@
       "title": "Morant matiza pero insiste en equiparar al PP con las políticas nazis",
       "summary": "«Yo no dije eso. Yo no comparé a -Alberto Núñez- Feijóo con -Adolf- Hitler». La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha matizado este viernes sus declaraciones sobre los planes para un hipotético gobierno del líder nacional del PP si llega a la Moncloa con Vox.No obstante, ha insistido en real.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El PP tilda de \"miserable\" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios",
-      "summary": "\"Ellos ven bandos donde nosotros vemos fuego\", afirma Alma Ezcurra, que dice no entender \"que todas las fuerzas políticas no colaboren en el mismo objetivo\" contra los incendios El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios Última hora de los incendios en España El Parti.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
-      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»",
-      "summary": "La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:40:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
+      "url": "https://www.abc.es/espana/feijoo-intenta-recuperar-espacio-cedido-vox-iberoamerica-20260725014331-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T23:43:31.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:53:02.000Z",
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T00:00:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:44:45.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

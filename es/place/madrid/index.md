@@ -3,20 +3,20 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
+### Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado
+
+Las llamas y el fuerte viento arrasan pueblos enteros en una auténtica emergencia de carácter nacional que mantiene en alerta a los servicios de emergencia y ha obligado a ampliar las evacuaciones y confinamientos en varios municipios.
+
+Date: 2026-07-25
+
 ### 34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»
 
 5.000 participantes se instalan en al BEC con maletas, cocinas portátiles y comida para aguantar hasta el domingo.
-
-Date: 2026-07-24
-
-### Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón
-
-El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.
 
 Date: 2026-07-24
 
@@ -44,39 +44,39 @@ Honorina Hernández metió en el coche a su familia, a cinco perros y poco más.
 
 Date: 2026-07-24
 
-### Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado
-
-Las llamas y el fuerte viento arrasan pueblos enteros en una auténtica emergencia de carácter nacional que mantiene en alerta a los servicios de emergencia y ha obligado a ampliar las evacuaciones y confinamientos en varios municipios.
-
-Date: 2026-07-24
-
-### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
-
-Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
-
-Date: 2026-07-24
-
 ### Cebreros acoge a los evacuados por los incendios de Madrid: “Los ancianos llegaban descalzos y en bata”
 
 Nadie ha pegado ojo en Cebreros. Este pueblo abulense acogió a más de 500 personas que tuvieron que abandonar sus casas por el avance del humo y las llamas provenientes de los tres incendios que amenazan la capital española y la provincia de Ávila. En las calles, las pavesas vuelan mientras una nube gris cubre el cielo.
 
 Date: 2026-07-24
 
-### Las imágenes de los incendios en España | Día 24 de julio
+### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
 
-Los frentes de Madrid y Ávila, los más virulentos.
+El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.
+
+Date: 2026-07-24
+
+### Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila
+
+El incendio que afecta al suroeste de la Comunidad de Madrid alcanzó durante la tarde de este viernes su “momento álgido” y varios de sus frentes están “fuera de capacidad de extinción”, según el consejero de Medio Ambiente, Carlos Novillo. Los tres frentes que afectaban a la región ya se han fusionado en uno único, qu.
+
+Date: 2026-07-24
+
+### Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado este viernes que los fuegos en la región afectan ya a 12.000 hectáreas , que hay 20.000 habitantes evacuados y que la situación sigue siendo "muy crítica" debido al viento, datos a los que ha sumado una reivindicación: la llegada de más medios aé.
 
 Date: 2026-07-24
 
 ## Fuentes
 
-- [Detectan varios fuegos nuevos en poco tiempo en Casillas y temen que los estén provocando: "Tiene toda la pinta"](https://www.20minutos.es/castilla-y-leon/avila/detectan-varios-fuegos-nuevos-poco-tiempo-casillas-temen-provocados-tiene-toda-pinta_7018792_0.html?utm_source=lootura.com) — 2026-07-24T17:43:14.000Z
-- [Sánchez visita este sábado la zona afectada por los incendios de Madrid](https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com) — 2026-07-24T18:34:25.000Z
-- [Madrid admite que el incendio está "fuera de capacidad de extinción" y llega a su "momento álgido" con miles de afectados](https://www.20minutos.es/madrid/novillo-admite-que-incendio-madrid-esta-fuera-capacidad-extincion-llega-su-momento-algido-con-miles-afectados_7018793_0.html?utm_source=lootura.com) — 2026-07-24T17:46:55.000Z
+- [Atento y sereno: así fue el debut de Mourinho ante el Alcorcón](https://www.abc.es/deportes/real-madrid/atento-sereno-debut-mourinho-ante-alcorcon-20260724200503-nt.html?utm_source=lootura.com) — 2026-07-24T23:57:50.000Z
 - [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T20:31:27.000Z
-- [Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila](https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-24T20:47:14.000Z
+- [Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila](https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-24T23:40:19.000Z
 - [Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid](https://www.elconfidencial.com/espana/2026-07-24/ayuso-12-000-hectareas-situacion-muy-critica-madrid_4395826/?utm_source=lootura.com) — 2026-07-24T18:58:00.000Z
-- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
 - [El incendio deja en situación "crítica" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-24/incendio-sierra-madrid-nasa-antenas-1hms_4395815/?utm_source=lootura.com) — 2026-07-24T19:13:00.000Z
 - [34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»](https://www.elcorreo.com/bizkaia/pistoletazo-salida-edicion-euskal-encounter-tiendas-campana-20260724105759-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:51:43.000Z
 - [Ayuso define como "inédito" el incendio que ya obliga a evacuar a 36.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"](https://www.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html?utm_source=lootura.com) — 2026-07-24T20:07:02.000Z
+- [Fuegos inextinguibles ponen Madrid en emergencia nacional](https://amp.elmundo.es/espana/2026/07/24/6a63b59efc6c839c588b45b4.html?utm_source=lootura.com) — 2026-07-24T20:45:52.000Z
+- [Incertidumbre y angustia entre los miles de evacuados en los pueblos amenazados de Madrid: "Hoy estamos aquí, mañana no lo sabemos"](https://www.elmundo.es/espana/2026/07/24/6a63557ee4d4d876428b4590.html?utm_source=lootura.com) — 2026-07-24T12:44:12.000Z
+- [En el punto cero del incendio que cerca Madrid: "No tenemos nada"](https://www.elmundo.es/espana/2026/07/24/6a63c8d0e85ece96798b45aa.html?utm_source=lootura.com) — 2026-07-24T20:45:32.000Z

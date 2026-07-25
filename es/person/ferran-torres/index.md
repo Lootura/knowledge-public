@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»
+
+«La música ha sido una cura para mí. Me ha costado caro tener esta visibilidad en la televisión», asegura.
+
+Date: 2026-07-25
 
 ### Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"
 
@@ -62,12 +68,6 @@ Date: 2026-07-19
 
 Date: 2026-07-19
 
-### España habita la eternidad
-
-Imposible no recordar Sudáfrica, a Iniesta, a Cesc, la prórroga , el abismo, la gloria. Imposible no verlo en este instante de Ferran Torres que sucedió diez minutos antes, el 106 después de años celebrando la leyenda del 116. Porro envió una pelota al área, Nico Williams la dejó atrás con la coronilla y Ferran reventó.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Trump opina sobre la gorra de Ferran Torres: "Creo que lo hizo con buena intención"](https://www.larazon.es/deportes/laotraliga/trump-opina-gorra-ferran-torres-creo-que-hizo-buena-intencion_202607246a63ca51aa17c0020f2e42b4.html?utm_source=lootura.com) — 2026-07-24T20:25:53.000Z
+- [Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»](https://www.larazon.es/gente/famosos/montoya-como-ferran-torres-dios-pondra-lugar_202607256a641546aa17c0020f2ea3c5.html?outputType=amp&utm_source=lootura.com) — 2026-07-25T01:45:42.000Z

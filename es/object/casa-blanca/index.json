@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
+      "summary": "Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...",
+      "date": "2026-07-24"
+    },
     {
       "title": "Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril",
       "summary": "La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo la cena que quedó suspendida hace tres meses tras el tiroteo registrado en el Washington Hilton. Donald Trump volverá a asistir a la cita, esta vez en un recinto distinto y con un dispositivo de seguridad muy reforzado, para completar un pr.",
@@ -64,19 +69,14 @@
       "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
       "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
-      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril",
-      "url": "https://www.abc.es/internacional/trump-vuelve-cenar-prensa-terminar-fiesta-interrumpida-20260723215516-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T19:57:15.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
+      "url": "https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T22:02:15.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

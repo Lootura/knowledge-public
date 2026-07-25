@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+      "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
       "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
@@ -58,13 +63,15 @@
       "title": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
       "summary": "NPR's Leila Fadel asks Democratic Sen. Cory Booker of New Jersey why he says Todd Blanche should not be confirmed as attorney general.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Epstein survivor Dani Bensky says Blanche has never responded to them in opening statement",
-      "summary": "She implored senators on the Judiciary Committee to \"think about the girls in these photos\" when casting their confirmation votes for attorney general nominee Todd Blanche.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-25T01:46:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

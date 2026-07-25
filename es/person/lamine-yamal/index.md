@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal busca su segundo título mundial](https://www.larazon.es/deportes/lamine-yamal-busca-segundo-titulo-mundial_202607256a6413e8aa17c0020f2ea1fc.html?utm_source=lootura.com) — 2026-07-25T01:39:52.000Z

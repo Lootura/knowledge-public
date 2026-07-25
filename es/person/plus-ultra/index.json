@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.json",
   "description": "Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-07-25T02:26:46.300Z",
   "aliases": [],
   "changes": [
     {
@@ -70,17 +70,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a63cfbae4d4d8e0578b4578.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T20:50:02.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
       "url": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:22:29.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

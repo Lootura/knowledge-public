@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+Date: 2026-07-25
 
 ### NATO spending pressure returned
 
@@ -62,12 +68,6 @@ NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns reg
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-The agreement on the long-range missiles, which are used to strike targets deep inside enemy territory, was reached this week on the sidelines of the NATO summit in Turkey's capital, Ankara, Merz said.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-24T20:24:58.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-25T01:57:36.000Z

@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### Substance in work van of man killed by ICE tested negative for drugs, prosecutor says
+
+A substance found in the work van of a Mexican immigrant killed by an Immigration and Customs Enforcement agent has tested negative for illicit drugs, the top prosecutor in Houston said Friday.
+
+Date: 2026-07-25
 
 ### Video appears to show United employee threatening to call ICE on customer
 
@@ -62,12 +68,6 @@ It was the third death in a week involving encounters with U.S. Immigration and 
 
 Date: 2026-07-15
 
-### After ICE fatally shot multiple people, officials speak out: "We want them out"
-
-U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.
-
-Date: 2026-07-15
-
 ## Sources
 
-No public source links.
+- [Substance in work van of man killed by ICE tested negative for drugs, prosecutor says](https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/?utm_source=lootura.com) — 2026-07-25T00:07:47.000Z

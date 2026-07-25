@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Samsung busca ventaja ante Apple en la batalla de los plegables
+
+Hay una nueva carrera en el mercado de smartphones y Samsung acaba de dar el pistoletazo de salida. La compañía coreana reunió este miércoles en Londres a expertos en tecnología para presentar la actualización más ambiciosa de su gama de teléfonos plegables hasta la fecha. La empresa ha ampliado por primera vez su fami.
+
+Date: 2026-07-24
+
+### Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas
+
+Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciales" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.
+
+Date: 2026-07-24
 
 ### Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico
 
@@ -56,18 +68,7 @@ Quedan apenas unos días para la presentación oficial de los Galaxy Z Flip 8, Z
 
 Date: 2026-07-20
 
-### Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?
-
-Hace unos meses te contamos que la UE estaba modificando su reglamento para exigirle a las compañías tecnológicas una nueva medida. Todas debían adaptarse y fabricar dispositivos electrónicos con una 'batería extraíble' . ¿El motivo? Que los usuarios pudiesen cambiarla de forma relativamente fácil en su casa para alarg.
-
-Date: 2026-07-19
-
-### Olvídate de iCloud y Google Drive: hay un truco para usar los 10 TB gratis de O2 sin ser cliente
-
-Hace un mes, O2 sorprendía a todos sus clientes con una novedad que te puede hacer ahorrar cientos de euros. La OMV de Movistar permite activar de forma gratuita un plan de almacenamiento en la nube, O2 Cloud, con un total de 10 TB . Se trata de una cantidad de almacenamiento que compañías como Google o Apple ofrecen p.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Samsung busca ventaja ante Apple en la batalla de los plegables](https://www.expansion.com/economia-digital/companias/2026/07/25/6a636eb4e5fdea86718b4586.html?utm_source=lootura.com) — 2026-07-24T22:02:09.000Z
+- [Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas](https://hipertextual.com/economia-empresas/trump-aranceles-union-europea-multas-google-apple/?utm_source=lootura.com) — 2026-07-24T21:38:00.000Z

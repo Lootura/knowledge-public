@@ -3,20 +3,20 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T21:00:15.269Z
+- Updated: 2026-07-25T02:27:06.617Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
 
-### There are already more U.S. measles cases this year than in all of 2025
+### Democrats approve new primary election calendar, putting South Carolina first
 
-This year has easily become the U.S.'s worst year for measles since 1991, as major outbreaks in South Carolina, Utah and Arizona have sickened hundreds and smaller clusters of cases sparked in other states.
+Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).
 
 Date: 2026-07-24
 
-### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
+### There are already more U.S. measles cases this year than in all of 2025
 
-South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.
+This year has easily become the U.S.'s worst year for measles since 1991, as major outbreaks in South Carolina, Utah and Arizona have sickened hundreds and smaller clusters of cases sparked in other states.
 
 Date: 2026-07-24
 
@@ -71,4 +71,4 @@ Date: 2026-07-14
 ## Sources
 
 - [South Carolina on cusp of being first 2028 Democratic presidential primary state](https://www.cbsnews.com/news/south-carolina-first-2028-democratic-presidential-primary-state/?utm_source=lootura.com) — 2026-07-24T19:30:22.000Z
-- [There are already more U.S. measles cases this year than in all of 2025](https://www.pbs.org/newshour/health/there-are-already-more-u-s-measles-cases-this-year-than-in-all-of-2025?utm_source=lootura.com) — 2026-07-24T16:37:10.000Z
+- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z

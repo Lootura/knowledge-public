@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T21:00:15.269Z",
+  "updatedAt": "2026-07-25T02:27:06.617Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,11 +16,16 @@
     {
       "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
       "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).",
       "date": "2026-07-24"
     },
     {
-      "title": "DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries",
-      "summary": "South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.",
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
       "date": "2026-07-24"
     },
     {
@@ -57,24 +62,19 @@
       "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
       "summary": "Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
-      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas",
-      "url": "https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:43:59.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T21:50:41.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
       "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T19:14:36.000Z",
+      "publishedAt": "2026-07-25T01:29:29.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

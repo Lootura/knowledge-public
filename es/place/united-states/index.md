@@ -3,16 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-07-25T02:26:46.300Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%
+### Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU
 
-Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
+El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.
 
-Date: 2026-07-24
+Date: 2026-07-25
 
 ### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
 
@@ -23,6 +23,18 @@ Date: 2026-07-24
 ### Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"
 
 "La Unión Europea vuelve a las andadas y, como siempre, ¡ataca directamente a grandes empresas estadounidenses!", ha denunciado el presidente de Estados Unidos en un mensaje en su plataforma de redes sociales, en el que ha acusado a Bruselas de "robar" a estas compañías sin dar ningún tipo de explicación. Seguir leyend.
+
+Date: 2026-07-24
+
+### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
+
+Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...
+
+Date: 2026-07-24
+
+### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%
+
+Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
 
 Date: 2026-07-24
 
@@ -56,20 +68,10 @@ El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden
 
 Date: 2026-07-23
 
-### Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países
-
-Donald Trump ha terminado por desplegar la artillería para su nueva batalla comercial. Estados Unidos estrenará este viernes una nueva oleada de aranceles, de entre el 10% y el 12,5%, sobre los productos de más de 60 países para sustituir a las tarifas generales del 10% que impuso después de que la Justicia estadounide.
-
-Date: 2026-07-23
-
-### Mapfre compra la estadounidense Safety por 1.352 millones de euros
-
-Mapfre redobla la apuesta por Estados Unidos. La aseguradora anunció este jueves, al cierre de Wall Street, la adquisición a través de Mapfre USA Corporation del 100% de Safety Insurance Group, entidad cotizada en el Nasdaq Global Market y especializada en la distribución de pólizas de no vida.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Prime Video pone fecha de estreno a la docuserie sobre el triunfo de la selección en el Mundial](https://www.abc.es/play/series/noticias/prime-video-fecha-estreno-docuserie-triunfo-seleccion-mundial-20260724165107-nt.html?utm_source=lootura.com) — 2026-07-24T23:58:38.000Z
 - [Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google](https://elpais.com/economia/2026-07-24/trump-amenaza-a-europa-con-nuevos-aranceles-tras-la-multa-de-la-ue-a-google.html?utm_source=lootura.com) — 2026-07-24T17:46:49.000Z
-- [El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%](https://www.expansion.com/mercados/2026/07/24/6a633d7be5fdeaf81a8b457f.html?utm_source=lootura.com) — 2026-07-24T15:54:33.000Z
+- [Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?](https://amp.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html?utm_source=lootura.com) — 2026-07-24T22:02:15.000Z
 - [Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"](https://www.expansion.com/economia/2026/07/24/6a63b3f9468aebf87d8b45ba.html?utm_source=lootura.com) — 2026-07-24T19:46:00.000Z
+- [Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU](https://theobjective.com/internacional/2026-07-25/argentina-ventaja-arancelaria-nueva-politica-comercial-eeuu/?utm_source=lootura.com) — 2026-07-25T00:35:42.000Z
