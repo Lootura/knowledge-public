@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -24,6 +24,16 @@
     {
       "title": "Shabat de terror de siete judíos franceses en la Barcelona antisemita: \"Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas\"",
       "summary": "Una mujer con una kufiya palestina abordó en Barcelona a siete turistas judíos; reclutó a renglón seguido a una turba y aterrorizó a los parisinos durante treinta interminables minutos. Lo sucedido evoca el pogromo del Kurfürstendamm, cuando los nazis persiguieron a los fieles de una sinagoga berlinesa al grito de «Mue.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»",
+      "summary": "Jesse Bisiwu acaba de llegar al Fc Barcelona como una de las joyas más prometedoras del equipo, aunque es probable que no tenga hueco en la primera plantilla . Sin embargo, en unas declaraciones para los medios en St. George’s Park, el belga deja claro que su objetivo es jugar con los mayores: « He hablado con Hansi y.",
       "date": "2026-08-01"
     },
     {
@@ -60,16 +70,6 @@
       "title": "El Barcelona se impone al Europa por 4-1 en su primer partido de pretemporada a puerta cerrada",
       "summary": "El FC Barcelona ha disputado a puerta cerrada su primer partido amistoso de la pretemporada, en el que ha derrotado por 4-1 al Europa (equipo de Primera RFEF ) en la Ciudad Deportiva Joan Gamper . Hansi Flick ha tenido que optar por un once repleto de canteranos y de futbolistas que apuntan a salir en las próximas sema.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El Barcelona pesca en la NBA para salir de la tumba",
-      "summary": "Los azulgranas, en plena reconstrucción, han cerrado este viernes las incorporaciones de Tosan Evbuomwan y Tyrese Martin, ambos procedentes de la liga estadounidense.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Primer trasplante de órganos entre pacientes con VIH en España",
-      "summary": "Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la donación de órganos. Esa barrera acaba de desaparecer en España. El Hospital Vall d'Hebron de Barcelona ha realizado el primer trasplante de órganos entre personas con VIH , un hito médico que ha sido posible gracias a la modificación normati.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -80,11 +80,23 @@
       "sourceId": "lootura-es-abc"
     },
     {
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "url": "https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:21:52.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Shabat de terror de siete judíos franceses en la Barcelona antisemita: \"Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas\"",
       "url": "https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T12:26:10.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»",
+      "url": "https://okdiario.com/deportes/jesse-bisiwu-no-ve-filial-del-barcelona-aspira-jugar-hansi-flick-estare-preparado-19111879?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:34:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

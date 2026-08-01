@@ -3,7 +3,7 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes

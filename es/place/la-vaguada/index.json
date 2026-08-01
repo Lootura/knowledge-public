@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-vaguada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-vaguada/index.json",
   "description": "Sigue la actividad de La Vaguada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [],
   "changes": [
     {
@@ -30,13 +30,18 @@
       "title": "Discovered by Atlas",
       "summary": "La Vaguada first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
+      "summary": "El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
       "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
       "url": "https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T16:40:54.000Z",
+      "publishedAt": "2026-08-01T19:41:48.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -46,11 +51,17 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
+      "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:17:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
       "url": "https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com",
       "publishedAt": "2026-08-01T16:49:37.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

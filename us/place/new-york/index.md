@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?](https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/?utm_source=lootura.com) — 2026-08-01T18:08:45.000Z

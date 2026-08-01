@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -73,10 +73,10 @@ Date: 2026-08-01
 - [Trump poses ultimatum on Blanche, will push for "anti-weaponization fund" if AG not confirmed](https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com) — 2026-08-01T13:06:07.000Z
 - [Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked](https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com) — 2026-08-01T16:54:34.000Z
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
+- [Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues](https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes?utm_source=lootura.com) — 2026-08-01T20:27:32.000Z
+- [Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals](https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com) — 2026-08-01T18:34:10.000Z
+- [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z
 - [Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks](https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com) — 2026-08-01T16:15:42.000Z
+- [Trump offering early access to online posts in move seen as corruption](https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access?utm_source=lootura.com) — 2026-08-01T17:29:00.000Z
 - [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html?utm_source=lootura.com) — 2026-08-01T09:00:17.000Z
-- [Trump Administration Is Undoing Plans to Boost Workplace Heat Protections](https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html?utm_source=lootura.com) — 2026-08-01T09:01:03.000Z
-- [Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html?utm_source=lootura.com) — 2026-08-01T14:11:57.000Z
-- [Trump and Netanyahu May Be at Odds Again Over Gaza Plan](https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html?utm_source=lootura.com) — 2026-07-31T23:05:17.000Z
-- [How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer](https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com) — 2026-08-01T09:02:02.000Z
-- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z
+- [Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga](https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com) — 2026-08-01T19:52:51.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -45,6 +45,11 @@
     {
       "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
       "summary": "El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas",
+      "summary": "Laudelina Romero lleva una silla de plástico, un termo con café frío y una foto de su hijo Gabriel Barros pegada con cinta al pecho. Gabriel es uno de los 379 presos políticos que registra Foro Penal en su último informe. Laudelina lleva más de 50 días apostada frente a la embajada de Estados Unidos en Caracas. Nadie d.",
       "date": "2026-08-01"
     },
     {
@@ -86,19 +91,14 @@
       "title": "Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU",
       "summary": "El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
-      "summary": "El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "El futuro de Ceuta y el modelo de Ormuz",
-      "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:28:16.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas",
+      "url": "https://www.abc.es/internacional/chavismo-oposicion-negocian-maria-corina-machado-379-20260801205835-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:18:51.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
@@ -107,5 +107,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

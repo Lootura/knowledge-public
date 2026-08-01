@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.
+
+Date: 2026-08-01
 
 ### Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta
 
@@ -17,12 +23,6 @@ Date: 2026-08-01
 ### Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta
 
 Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.
-
-Date: 2026-08-01
-
-### Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.
 
 Date: 2026-08-01
 
@@ -65,6 +65,4 @@ Date: 2026-07-23
 ## Fuentes
 
 - [22 países de la UE piden una «acción conjunta» para reforzar el control en las fronteras europeas tras la crisis en Ceuta](https://www.elcorreo.com/internacional/europa/paises-ue-piden-20260801132441-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T11:31:42.000Z
-- [Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta](https://okdiario.com/espana/lideres-22-paises-europeos-senalan-regularizacion-sanchez-como-factor-atraccion-plena-invasion-ceuta-19111146?utm_source=lootura.com) — 2026-08-01T12:32:31.000Z
-- [Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta](https://theobjective.com/espana/2026-08-01/sanchez-carta-ue-reunion-interior-ceuta/?utm_source=lootura.com) — 2026-08-01T08:50:08.000Z
 - [Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta](https://theobjective.com/internacional/2026-08-01/von-der-leyen-celebra-retorno-marruecos-ceuta/?utm_source=lootura.com) — 2026-08-01T12:09:35.000Z

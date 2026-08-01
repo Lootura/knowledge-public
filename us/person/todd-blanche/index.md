@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-08-01
 ### Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup
 
 Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.
+
+Date: 2026-08-01
+
+### Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked
+
+Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.
+
+Date: 2026-08-01
+
+### Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight
+
+The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.
 
 Date: 2026-08-01
 
@@ -56,20 +68,9 @@ A judge’s remarks on subpoenas to reporters cast attention on two administrati
 
 Date: 2026-07-25
 
-### Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton
-
-Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.
-
-Date: 2026-07-18
-
-### Blanche holds meeting with Epstein accusers after Tillis' request
-
-Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [Trump poses ultimatum on Blanche, will push for "anti-weaponization fund" if AG not confirmed](https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com) — 2026-08-01T13:06:07.000Z
 - [Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked](https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com) — 2026-08-01T16:54:34.000Z
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
+- [Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight](https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html?utm_source=lootura.com) — 2026-08-01T20:14:09.000Z

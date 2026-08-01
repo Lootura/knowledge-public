@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T17:07:57.257Z",
+  "generatedAt": "2026-08-01T20:59:36.464Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|42|1785603418471",
+    "signature": "1.18.0|43|1785617327958",
     "version": "1.18.0",
-    "build": 42,
-    "latestEntityUpdatedAt": "2026-08-01T16:56:58.471Z"
+    "build": 43,
+    "latestEntityUpdatedAt": "2026-08-01T20:48:47.958Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-todd-blanche",
       "name": "Todd Blanche",
       "type": "person",
-      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
       "url": "https://atlas.lootura.com/us/person/todd-blanche",
       "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-08-01T16:56:58.471Z",
-      "score": 1642,
-      "sourceCount": 31,
+      "updatedAt": "2026-08-01T20:48:47.958Z",
+      "score": 1684,
+      "sourceCount": 33,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-08-01T16:56:58.471Z",
-        "score": 1640,
-        "sourceCount": 490,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
@@ -47,9 +34,35 @@
         "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-01T16:56:58.471Z",
-        "score": 1639,
-        "sourceCount": 478,
+        "updatedAt": "2026-08-01T20:48:47.958Z",
+        "score": 1667,
+        "sourceCount": 486,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-01T20:48:47.958Z",
+        "score": 1667,
+        "sourceCount": 496,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-reflecting-pool",
+        "name": "Reflecting pool",
+        "type": "object",
+        "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
+        "url": "https://atlas.lootura.com/us/object/reflecting-pool",
+        "path": "/us/object/reflecting-pool",
+        "updatedAt": "2026-08-01T20:48:47.958Z",
+        "score": 1660,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-01T16:56:58.471Z",
-        "score": 1639,
-        "sourceCount": 267,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-espana",
-        "name": "Spain",
-        "type": "place",
-        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-08-01T16:56:58.471Z",
-        "score": 1627,
-        "sourceCount": 18,
+        "updatedAt": "2026-08-01T20:48:47.958Z",
+        "score": 1641,
+        "sourceCount": 271,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 85
+    "publicEntityCount": 87
   }
 }

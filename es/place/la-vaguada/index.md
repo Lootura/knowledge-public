@@ -3,7 +3,7 @@
 > Sigue la actividad de La Vaguada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/place/la-vaguada
 
 ## Cambios recientes
@@ -32,8 +32,15 @@ La Vaguada first entered the public knowledge record with source-backed evidence
 
 Date: 2026-08-01
 
+### Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo
+
+El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.
+
+Date: 2026-08-01
+
 ## Fuentes
 
-- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T16:40:54.000Z
+- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T19:41:48.000Z
 - [Norges y Sonae Sierra compran La Vaguada, Gran Plaza 2 y otros seis centros comerciales valorados en 1.500 millones](https://cincodias.elpais.com/companias/2026-08-01/norges-y-sonae-sierra-compran-la-vaguada-gran-plaza-2-y-otros-seis-centros-comerciales-valorados-en-1500-millones.html?utm_source=lootura.com) — 2026-08-01T11:54:09.000Z
+- [Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo](https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com) — 2026-08-01T19:17:00.000Z
 - [Madrid: desalojan el centro comercial La Vaguada por un incendio](https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com) — 2026-08-01T16:49:37.000Z

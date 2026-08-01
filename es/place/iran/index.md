@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-23
 ## Fuentes
 
 - [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z
-- [Irán amenaza con asesinar a Melania Trump con un gas venenoso](https://www.larazon.es/internacional/iran-amenaza-asesinar-melania-trump-gas-venenoso_202608016a6deddda5690f04735e3a24.html?utm_source=lootura.com) — 2026-08-01T13:00:13.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
 
 El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
+
+Date: 2026-08-01
+
+### El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas
+
+Laudelina Romero lleva una silla de plástico, un termo con café frío y una foto de su hijo Gabriel Barros pegada con cinta al pecho. Gabriel es uno de los 379 presos políticos que registra Foro Penal en su último informe. Laudelina lleva más de 50 días apostada frente a la embajada de Estados Unidos en Caracas. Nadie d.
 
 Date: 2026-08-01
 
@@ -62,13 +68,7 @@ El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábad
 
 Date: 2026-07-25
 
-### Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad
-
-El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z
+- [El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas](https://www.abc.es/internacional/chavismo-oposicion-negocian-maria-corina-machado-379-20260801205835-nt.html?utm_source=lootura.com) — 2026-08-01T19:18:51.000Z
 - [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T16:56:58.471Z",
+  "updatedAt": "2026-08-01T20:48:47.958Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,11 @@
     {
       "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
       "summary": "World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "summary": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal of Primatology published a proof-of-concept for the novel method—dubbed CapuchinAI—developed by researchers at Emory University and Georgia I.",
       "date": "2026-08-01"
     },
     {
@@ -71,11 +76,6 @@
       "title": "Google basically confirms the Pixel 11 is getting a price hike",
       "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -86,10 +86,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T17:48:26.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T20:00:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 2

@@ -28,4 +28,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Arizona, California and Nevada would share cuts under federal proposal for Colorado River](https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com) — 2026-08-01T00:21:26.000Z
+No public source links.

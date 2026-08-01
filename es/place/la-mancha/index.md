@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)](https://www.elconfidencial.com/espana/2026-08-01/muere-mujer-22-anos-atrapada-maquina-lavanderia-1tna-1tps_4399473/?utm_source=lootura.com) — 2026-08-01T10:16:00.000Z
+No public source links.

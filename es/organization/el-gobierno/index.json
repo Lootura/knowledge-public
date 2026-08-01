@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [],
   "changes": [
     {
       "title": "El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'",
       "summary": "La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas Leer.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”",
-      "summary": "El Gobierno no vio venir la crisis de Ceuta. “Es una evidencia que no teníamos información. Si la tienes, no entran 50.000 personas de la forma en que lo han hecho en 24 horas”, reconoce un alto miembro del Ejecutivo. La dimensión de los incendios en el centro y oeste del país, que obligaron además al confinamiento o e.",
       "date": "2026-08-01"
     },
     {
@@ -60,6 +55,11 @@
       "title": "El incendio de Ávila arrasa ya unas 22.000 hectáreas y deja más de 30.000 desalojados",
       "summary": "El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorológicas La carrera para evitar que el “tsunami” que arrasa Madrid se una al incendio de Ávila: “Hacemos todo para que no se junten” El incendio forestal de Burgohondo (Ávila) es la principal preocupación del operativo en Castilla y León. El.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila",
+      "summary": "Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.",
+      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -76,17 +76,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”",
-      "url": "https://elpais.com/espana/2026-08-01/el-gobierno-admite-que-no-vio-venir-la-crisis-de-ceuta-si-hubieramos-tenido-informacion-no-habrian-entrado-50000-en-24-horas.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial",
       "url": "https://theobjective.com/espana/politica/2026-08-01/gobierno-reabre-frontera-melilla-dispositivo-policial/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-08-01T15:54:59.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

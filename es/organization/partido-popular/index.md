@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
 
 El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
+
+Date: 2026-08-01
+
+### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
+
+Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.
 
 Date: 2026-08-01
 
@@ -62,12 +68,7 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-25
 
-### Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos
-
-El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
 - [Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo](https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com) — 2026-08-01T13:53:25.000Z

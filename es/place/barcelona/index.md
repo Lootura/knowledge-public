@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"
 
 Una mujer con una kufiya palestina abordó en Barcelona a siete turistas judíos; reclutó a renglón seguido a una turba y aterrorizó a los parisinos durante treinta interminables minutos. Lo sucedido evoca el pogromo del Kurfürstendamm, cuando los nazis persiguieron a los fieles de una sinagoga berlinesa al grito de «Mue.
+
+Date: 2026-08-01
+
+### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
+
+Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.
+
+Date: 2026-08-01
+
+### Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»
+
+Jesse Bisiwu acaba de llegar al Fc Barcelona como una de las joyas más prometedoras del equipo, aunque es probable que no tenga hueco en la primera plantilla . Sin embargo, en unas declaraciones para los medios en St. George’s Park, el belga deja claro que su objetivo es jugar con los mayores: « He hablado con Hansi y.
 
 Date: 2026-08-01
 
@@ -56,19 +68,9 @@ El FC Barcelona ha disputado a puerta cerrada su primer partido amistoso de la p
 
 Date: 2026-07-24
 
-### El Barcelona pesca en la NBA para salir de la tumba
-
-Los azulgranas, en plena reconstrucción, han cerrado este viernes las incorporaciones de Tosan Evbuomwan y Tyrese Martin, ambos procedentes de la liga estadounidense.
-
-Date: 2026-07-24
-
-### Primer trasplante de órganos entre pacientes con VIH en España
-
-Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la donación de órganos. Esa barrera acaba de desaparecer en España. El Hospital Vall d'Hebron de Barcelona ha realizado el primer trasplante de órganos entre personas con VIH , un hito médico que ha sido posible gracias a la modificación normati.
-
-Date: 2026-07-24
-
 ## Fuentes
 
 - [El United remonta ante un Atlético obligado a mirar a la cantera](https://www.abc.es/deportes/atletico-madrid/united-remonta-ante-atletico-obligado-mirar-cantera-20260801173258-nt.html?utm_source=lootura.com) — 2026-08-01T15:43:58.000Z
+- [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
 - [Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"](https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com) — 2026-08-01T12:26:10.000Z
+- [Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»](https://okdiario.com/deportes/jesse-bisiwu-no-ve-filial-del-barcelona-aspira-jugar-hansi-flick-estare-preparado-19111879?utm_source=lootura.com) — 2026-08-01T19:34:39.000Z

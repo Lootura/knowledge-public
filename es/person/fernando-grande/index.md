@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"](https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com) — 2026-08-01T10:18:00.000Z
-- [Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse](https://theobjective.com/espana/politica/2026-08-01/marlaska-marruecos-amenaza-repetirse/?utm_source=lootura.com) — 2026-08-01T11:29:00.000Z
+No public source links.

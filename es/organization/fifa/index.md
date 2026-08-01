@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -52,5 +52,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El fútbol celebra el fracaso de Infantino: «Ha perdido nuestra confianza»](https://www.abc.es/deportes/futbol/futbol-celebra-fracaso-infantino-perdido-confianza-20260801144453-nt_amp.html?utm_source=lootura.com) — 2026-08-01T12:45:25.000Z
 - [Infantino retira su plan privatizador de la FIFA tras las «divisiones» generadas](https://www.elcorreo.com/deportes/futbol/infantino-retira-plan-privatizador-fifa-tras-divisiones-20260801020039-nt_amp.html?utm_source=lootura.com) — 2026-08-01T00:00:40.000Z

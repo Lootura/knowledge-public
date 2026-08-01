@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -75,13 +75,7 @@
       "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:28:16.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
-      "url": "https://www.larazon.es/internacional/iran-amenaza-asesinar-melania-trump-gas-venenoso_202608016a6deddda5690f04735e3a24.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:00:13.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [The U.S. Deported Him to Jail in Russia. Then He Escaped.](https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html?utm_source=lootura.com) — 2026-08-01T09:00:09.000Z
+No public source links.

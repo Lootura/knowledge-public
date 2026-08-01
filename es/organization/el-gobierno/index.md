@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'
 
 La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas Leer.
-
-Date: 2026-08-01
-
-### El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”
-
-El Gobierno no vio venir la crisis de Ceuta. “Es una evidencia que no teníamos información. Si la tienes, no entran 50.000 personas de la forma en que lo han hecho en 24 horas”, reconoce un alto miembro del Ejecutivo. La dimensión de los incendios en el centro y oeste del país, que obligaron además al confinamiento o e.
 
 Date: 2026-08-01
 
@@ -68,9 +62,14 @@ El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorol
 
 Date: 2026-07-25
 
+### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
+
+Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.
+
+Date: 2026-07-25
+
 ## Fuentes
 
 - [El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'](https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html?utm_source=lootura.com) — 2026-08-01T08:10:48.000Z
 - [El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z
-- [El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”](https://elpais.com/espana/2026-08-01/el-gobierno-admite-que-no-vio-venir-la-crisis-de-ceuta-si-hubieramos-tenido-informacion-no-habrian-entrado-50000-en-24-horas.html?utm_source=lootura.com) — 2026-08-01T03:30:01.000Z
 - [El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial](https://theobjective.com/espana/politica/2026-08-01/gobierno-reabre-frontera-melilla-dispositivo-policial/?amp=&utm_source=lootura.com) — 2026-08-01T15:54:59.000Z

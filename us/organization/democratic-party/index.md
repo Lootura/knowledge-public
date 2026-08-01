@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-01
 ### Dems are increasingly desperate to get their Senate candidates to drop out in these races
 
 Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.
+
+Date: 2026-08-01
+
+### Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller
+
+Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.
 
 Date: 2026-08-01
 
@@ -62,16 +68,9 @@ Maine Democrats gathered Saturday to select former state Senate President Troy J
 
 Date: 2026-07-25
 
-### Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate
-
-Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).
-
-Date: 2026-07-25
-
 ## Sources
 
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
+- [Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller](https://www.pbs.org/newshour/politics/democrats-see-a-chance-to-flip-a-seat-as-focus-on-abuse-claims-mounts-against-ohio-rep-max-miller?utm_source=lootura.com) — 2026-08-01T20:14:55.000Z
 - [Dems are increasingly desperate to get their Senate candidates to drop out in these races](https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995?utm_source=lootura.com) — 2026-08-01T11:00:00.000Z
 - [Democrats’ ‘climate hushing’ prompts activists to turn up the volume](https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing?utm_source=lootura.com) — 2026-08-01T12:00:53.000Z
-- [Why Mitch McConnell Isn’t Giving Up His Senate Seat](https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html?utm_source=lootura.com) — 2026-07-31T20:23:42.000Z
-- [What Worries Democrats as the Midterms Heat Up](https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html?utm_source=lootura.com) — 2026-07-31T22:02:21.000Z

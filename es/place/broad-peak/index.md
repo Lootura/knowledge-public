@@ -22,4 +22,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Encuentran el cadáver del alpinista Nirmal Purja tras la avalancha de nieve en el Broad Peak](https://okdiario.com/deportes/encuentran-cadaver-nirmal-purja-avalancha-nieve-broad-peak-19111150?utm_source=lootura.com) — 2026-08-01T12:38:38.000Z
+No public source links.

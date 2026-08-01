@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta](https://www.elconfidencial.com/espana/2026-08-01/67-muertos-ceuta-marruecos-frontera-inmigracion_4399459/?utm_source=lootura.com) — 2026-08-01T09:32:00.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz
 
 World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.
+
+Date: 2026-08-01
+
+### AI opens new era in cognitive studies of wild primates
+
+Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal of Primatology published a proof-of-concept for the novel method—dubbed CapuchinAI—developed by researchers at Emory University and Georgia I.
 
 Date: 2026-08-01
 
@@ -62,13 +68,7 @@ Google's Vice President of Devices and Services, Shakil Barkat, all but confirme
 
 Date: 2026-07-25
 
-### One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
-
-A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz](https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com) — 2026-08-01T09:15:00.000Z
-- [Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky?utm_source=lootura.com) — 2026-07-31T17:48:26.000Z
+- [AI opens new era in cognitive studies of wild primates](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html?utm_source=lootura.com) — 2026-08-01T20:00:02.000Z

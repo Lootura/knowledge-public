@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nirmal-purja/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nirmal-purja/index.json",
   "description": "Sigue la actividad de Nirmal Purja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "Nims Purja",
     "Nimsdai",
@@ -23,6 +23,11 @@
       "date": "2026-08-01"
     },
     {
+      "title": "El reconocido alpinista Nirmal Purja, entre los cuatro fallecidos en la avalancha en Pakistán",
+      "summary": "Escaló los 14 ochomiles en seis meses y seis días entre abril y octubre de 2019, lo que en ese momento fue un récord Leer.",
+      "date": "2026-08-01"
+    },
+    {
       "title": "El famoso alpinista Nirmal Purja, entre los fallecidos tras la avalancha de Pakistán",
       "summary": "La empresa del famoso alpinista Nirmal Purja ha confirmado este sábado su muerte tras una avalancha ocurrida en el norte de Pakistán que mantuvo desaparecido durante el pasado viernes a un grupo de 10 personas que se encontraban en plena expedición.Purja, de 43 años y con múltiples récords de escalada a su espalda lide.",
       "date": "2026-08-01"
@@ -30,10 +35,10 @@
   ],
   "sources": [
     {
-      "title": "Encuentran el cadáver del alpinista Nirmal Purja tras la avalancha de nieve en el Broad Peak",
-      "url": "https://okdiario.com/deportes/encuentran-cadaver-nirmal-purja-avalancha-nieve-broad-peak-19111150?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:38:38.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El reconocido alpinista Nirmal Purja, entre los cuatro fallecidos en la avalancha en Pakistán",
+      "url": "https://www.elmundo.es/deportes/2026/07/31/6a6c4adae85ece49628b458b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:47:41.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 1

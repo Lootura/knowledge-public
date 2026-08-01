@@ -3,10 +3,22 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno
+
+Poco a poco, la normalidad se está instalando nuevamente en Castilla y León en la lucha contra el fuego. A esta hora la situación está mejorando en general, sobre todo en Burgohondo (Ávila), aunque Protección Civil enviaba una nueva alerta ES-Alert para evacuar la urbanización La Picota, en La Adrada. El mensaje recibi.
+
+Date: 2026-08-01
+
+### Una posible reactivacion del fuego de Ávila obliga a evacuar una urbanización de La Adrada
+
+Una «posible reactivación» registrada en la tarde de este sábado en el incendio de Burgohondo ( Ávila ), en el término municipal de La Adrada, por debajo del pueblo, ha obligado a Protección Civil de Castilla y León a enviar un mensaje ES-Alert para ordenar la evacuación de la urbanización La Picota y de las edificacio.
+
+Date: 2026-08-01
 
 ### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
 
@@ -56,18 +68,7 @@ La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones 
 
 Date: 2026-07-24
 
-### Sánchez pide ayuda a la UE para luchar contra los incendios
-
-Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
-
-Date: 2026-07-24
-
-### Francia lucha contra tres grandes incendios activos en el sur del país
-
-Francia mantiene tres grandes incendios forestales activos, dos en la región de Nueva Aquitania (en la bahía de Arcachon y en Las Landas) y un tercero en el departamento mediterráneo de Var (entre Marsella y Niza), mientras las autoridades han solicitado la activación del Mecanismo de Protección Civil de la Unión Europ.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno](https://www.larazon.es/castilla-y-leon/estabiliza-situacion-fuego-mientras-junta-refuerza-trabajo-terreno_202608016a6e32b5a046ad6ebc958e5b.html?utm_source=lootura.com) — 2026-08-01T19:30:15.000Z
+- [Una posible reactivacion del fuego de Ávila obliga a evacuar una urbanización de La Adrada](https://theobjective.com/sociedad/suceso/2026-08-01/posible-reactivacion-fuego-avila-obliga-evacuar-urbanizacion-adrada/?utm_source=lootura.com) — 2026-08-01T19:58:21.000Z

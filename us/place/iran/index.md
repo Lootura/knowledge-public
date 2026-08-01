@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -62,21 +62,21 @@ Donald Trump speaks during the House Republican Party member retreat. | Image: M
 
 Date: 2026-08-01
 
-### Iran's overlapping power centers make ending the war more complicated
+### U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota
 
-Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
+Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.
 
 Date: 2026-08-01
 
 ## Sources
 
-- [U.S. probing if Iran was behind cyberattack on water systems in 7 states](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-07-31T23:52:33.000Z
 - [U.S., Israel preparing to bombard energy-related targets in Iran, sources say](https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com) — 2026-08-01T12:36:27.000Z
-- [Oil giants see profits surge as Iran war drives energy prices higher](https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com) — 2026-07-31T23:50:01.000Z
+- [U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-08-01T18:49:05.000Z
+- [State Department urges Americans to consider leaving Middle East as regional conflict escalates](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
 - [Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest](https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+- [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z
+- [Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop](https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html?utm_source=lootura.com) — 2026-08-01T20:14:08.000Z
 - [Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com) — 2026-08-01T03:40:13.000Z
-- [Trump and Netanyahu May Be at Odds Again Over Gaza Plan](https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html?utm_source=lootura.com) — 2026-07-31T23:05:17.000Z
-- [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?utm_source=lootura.com) — 2026-08-01T14:46:38.000Z
-- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z
-- [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html?utm_source=lootura.com) — 2026-08-01T14:46:19.000Z
-- [Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation](https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html?utm_source=lootura.com) — 2026-08-01T12:44:03.000Z
+- [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?utm_source=lootura.com) — 2026-08-01T19:54:48.000Z
+- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T20:13:38.000Z
+- [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html?utm_source=lootura.com) — 2026-08-01T14:46:20.000Z

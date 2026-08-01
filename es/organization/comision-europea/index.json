@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta",
+      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta",
       "summary": "El presidente del Gobierno, Pedro Sánchez , ha enviado este sábado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen, con el objetivo de trasladarle su «seria preocupación» sobre la «reciente reacción» de «algunos gobiernos europeos» tras la crisis migratoria de Ceuta . Además, ha pedido una reunió.",
@@ -23,11 +28,6 @@
     {
       "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
       "summary": "Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta",
-      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.",
       "date": "2026-08-01"
     },
     {
@@ -69,23 +69,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
-      "url": "https://okdiario.com/espana/lideres-22-paises-europeos-senalan-regularizacion-sanchez-como-factor-atraccion-plena-invasion-ceuta-19111146?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:32:31.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta",
-      "url": "https://theobjective.com/espana/2026-08-01/sanchez-carta-ue-reunion-interior-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:50:08.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
       "title": "Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta",
       "url": "https://theobjective.com/internacional/2026-08-01/von-der-leyen-celebra-retorno-marruecos-ceuta/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T12:09:35.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

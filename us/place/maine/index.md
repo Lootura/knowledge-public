@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-No public source links.
+- [Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins](https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380?utm_source=lootura.com) — 2026-08-01T17:17:30.000Z

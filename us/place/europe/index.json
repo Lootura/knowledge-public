@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T16:56:58.471Z",
+  "updatedAt": "2026-08-01T20:48:47.958Z",
   "aliases": [
     "EU",
     "European Union"
@@ -22,6 +22,16 @@
     {
       "title": "Europe continues to celebrate Pride after attack on Berlin parade",
       "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
+      "summary": "For Greece, the danger carried grim resonance: a 2018 wildfire​ at the seaside community of Mati​, near Athens, killed 104 people.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+      "summary": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the weather is less widely recognized.",
       "date": "2026-08-01"
     },
     {
@@ -53,24 +63,26 @@
       "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
       "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "More than 80,000 flee forest infernos in France and Spain",
-      "summary": "Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "summary": "Australia and the European Union were among U.S. trade partners who condemned the tariffs. (Image credit: Mark Schiefelbein).",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
+      "url": "https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T18:58:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Europe continues to celebrate Pride after attack on Berlin parade",
       "url": "https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T15:30:04.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+      "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T18:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Extreme Heat Has Transformed What Summer Means Across Generations in Europe",
@@ -79,5 +91,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

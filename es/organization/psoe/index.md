@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»](https://okdiario.com/espana/marroqui-que-acaba-entrar-ceuta-irrumpe-directo-tve-grita-has-cagao-psoe-19111139?utm_source=lootura.com) — 2026-08-01T13:02:33.000Z
+No public source links.

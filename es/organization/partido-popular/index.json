@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [
     "PP",
     "populares"
@@ -17,6 +17,11 @@
     {
       "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
       "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
       "date": "2026-08-01"
     },
     {
@@ -58,14 +63,15 @@
       "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
       "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
-      "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "url": "https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:21:52.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
       "url": "https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

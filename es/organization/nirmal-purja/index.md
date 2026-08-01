@@ -3,7 +3,7 @@
 > Sigue la actividad de Nirmal Purja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/nirmal-purja
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Discovered by Atlas
 
 Nirmal Purja first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-01
+
+### El reconocido alpinista Nirmal Purja, entre los cuatro fallecidos en la avalancha en Pakistán
+
+Escaló los 14 ochomiles en seis meses y seis días entre abril y octubre de 2019, lo que en ese momento fue un récord Leer.
 
 Date: 2026-08-01
 
@@ -22,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Encuentran el cadáver del alpinista Nirmal Purja tras la avalancha de nieve en el Broad Peak](https://okdiario.com/deportes/encuentran-cadaver-nirmal-purja-avalancha-nieve-broad-peak-19111150?utm_source=lootura.com) — 2026-08-01T12:38:38.000Z
+- [El reconocido alpinista Nirmal Purja, entre los cuatro fallecidos en la avalancha en Pakistán](https://www.elmundo.es/deportes/2026/07/31/6a6c4adae85ece49628b458b.html?utm_source=lootura.com) — 2026-08-01T11:47:41.000Z

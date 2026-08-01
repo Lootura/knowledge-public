@@ -3,16 +3,10 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
-
-### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
-
-La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.
-
-Date: 2026-08-01
 
 ### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
 
@@ -64,5 +58,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"](https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com) — 2026-08-01T10:18:00.000Z
 - [El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z

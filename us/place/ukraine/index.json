@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T16:56:58.471Z",
+  "updatedAt": "2026-08-01T20:48:47.958Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -43,6 +43,11 @@
       "date": "2026-08-01"
     },
     {
+      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems. (Image credit: Dan Bashakov).",
+      "date": "2026-08-01"
+    },
+    {
       "title": "Russian strikes on Kyiv kill 9, injure at least 15, officials say",
       "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
       "date": "2026-08-01"
@@ -61,11 +66,6 @@
       "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
       "summary": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "How volunteers with 3D printers make weapons for Ukraine",
-      "summary": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine's defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that t.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -74,6 +74,12 @@
       "url": "https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T04:45:41.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T20:27:32.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
@@ -90,7 +96,7 @@
     {
       "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
       "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:02:16.000Z",
+      "publishedAt": "2026-08-01T20:13:38.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -100,5 +106,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T06:16:13.562Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### State Department urges Americans to consider leaving Middle East as regional conflict escalates
+
+The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.
+
+Date: 2026-08-01
+
+### Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings
+
+Here are the most important developments in the Middle East on Saturday.
+
+Date: 2026-08-01
 
 ### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
 
@@ -56,18 +68,7 @@ In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedg
 
 Date: 2026-07-23
 
-### Coal-fired power generation rising globally on Mideast war: IEA
-
-Coal-fired power generation is set to increase in 2026, driven by supply difficulties and soaring natural gas prices linked to the war in the Middle East, the International Energy Agency said Thursday.
-
-Date: 2026-07-23
-
-### New Concerns Over Oil Prices After Houthis Attack Saudi Tankers
-
-There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [State Department urges Americans to consider leaving Middle East as regional conflict escalates](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
+- [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z

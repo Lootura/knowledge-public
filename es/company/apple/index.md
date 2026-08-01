@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple](https://hipertextual.com/apple/nadie-habla-de-esta-funcion-de-ios-27-y-te-va-a-cambiar-la-vida-es-lo-mas-util-que-ha-hecho-apple/?utm_source=lootura.com) — 2026-08-01T11:00:00.000Z
+No public source links.

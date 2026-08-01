@@ -3,7 +3,7 @@
 > Follow Broad Peak, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-01T20:48:47.958Z
 - Canonical: https://atlas.lootura.com/us/place/broad-peak
 
 ## Recent changes
@@ -26,7 +26,14 @@ The 10-person expedition lost contact with its base camp after an avalanche stru
 
 Date: 2026-08-01
 
+### All 10 climbers swept away in avalanche in Pakistan are confirmed dead
+
+The 10-member expedition was swept away by an avalanche Thursday on Pakistan's Broad Peak.
+
+Date: 2026-08-01
+
 ## Sources
 
-- [Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say](https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/?utm_source=lootura.com) — 2026-08-01T16:51:51.000Z
-- [Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com) — 2026-08-01T14:34:53.000Z
+- [Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say](https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/?utm_source=lootura.com) — 2026-08-01T20:04:31.000Z
+- [All 10 climbers swept away in avalanche in Pakistan are confirmed dead](https://www.pbs.org/newshour/world/all-10-climbers-swept-away-in-avalanche-in-pakistan-are-confirmed-dead?utm_source=lootura.com) — 2026-08-01T18:03:11.000Z
+- [Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com) — 2026-08-01T19:59:09.000Z

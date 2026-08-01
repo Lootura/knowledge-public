@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T16:56:58.471Z",
+  "updatedAt": "2026-08-01T20:48:47.958Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
-    {
-      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier. (Image credit: Antonio Sempere).",
-      "date": "2026-08-01"
-    },
     {
       "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
       "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
@@ -28,6 +23,11 @@
     {
       "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
       "summary": "The death toll climbed to 67, including some who drowned and others who were killed in a stampede to cross a breakwater barrier, the Spanish government said Saturday.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier. (Image credit: Antonio Sempere).",
       "date": "2026-08-01"
     },
     {
@@ -68,15 +68,9 @@
   ],
   "sources": [
     {
-      "title": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
-      "url": "https://www.cbsnews.com/video/60000-migrants-poured-pain-morocco-ceuta-president-many-left/?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T23:57:19.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:36:05.000Z",
+      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T18:33:27.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
@@ -92,5 +86,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -1,0 +1,34 @@
+{
+  "id": "es-iris-tio",
+  "name": "Iris Tió",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/iris-tio",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/iris-tio",
+  "markdownUrl": "https://atlas.lootura.com/es/person/iris-tio/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/iris-tio/index.json",
+  "description": "Sigue la actividad de Iris Tió en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Iris Tio y Lilou Lluis, subcampeonas de Europa en dúo libre",
+      "summary": "Algo más de una hora había pasado desde que atrapara la plata en el dúo mixto libre con Dennis González e Iris Tio ya saltaba a por la segunda de la jornada en el dúo libre con Lilou Lluis. La nadadora había olvidado el resbalón de la 'base mark' del primer día en el dúo técnico y estaba preparada para ello, porque bri.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Iris Tió first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Iris Tio y Lilou Lluis, subcampeonas de Europa en dúo libre",
+      "url": "https://www.abc.es/deportes/iris-tio-lilou-lluis-subcampeonas-europa-duo-20260801181237-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:18:54.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

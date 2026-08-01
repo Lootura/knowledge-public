@@ -3,16 +3,10 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
-
-### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
-
-La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.
-
-Date: 2026-08-01
 
 ### Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno
 
@@ -20,15 +14,21 @@ Tras exigir durante las últimas horas en diversos comunicados que se reforme la
 
 Date: 2026-08-01
 
-### Feijóo afirma que lo ocurrido es una "ocupación premeditada" y culpa al Gobierno: "Lo sabían"
-
-El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado Ceuta , apenas unas horas después del momento álgido de la crisis migratoria protagonizada por decenas de miles de inmigrantes, y ha acusado al Gobierno de inacción ante un suceso que califica de premeditado y que evidencia las carencias de la pol.
-
-Date: 2026-08-01
-
 ### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
 
 El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
+
+Date: 2026-08-01
+
+### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
+
+La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.
+
+Date: 2026-08-01
+
+### Feijóo afirma que lo ocurrido es una "ocupación premeditada" y culpa al Gobierno: "Lo sabían"
+
+El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado Ceuta , apenas unas horas después del momento álgido de la crisis migratoria protagonizada por decenas de miles de inmigrantes, y ha acusado al Gobierno de inacción ante un suceso que califica de premeditado y que evidencia las carencias de la pol.
 
 Date: 2026-08-01
 
@@ -70,7 +70,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Feijóo afirma que lo ocurrido es una "ocupación premeditada" y culpa al Gobierno: "Lo sabían"](https://www.20minutos.es/nacional/feijoo-afirma-ocurrido-ceuta-ocupacion-premeditada-culpa-gobierno-sabian-no-actuaron_7021608_0.html?utm_source=lootura.com) — 2026-08-01T12:59:03.000Z
-- [Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"](https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com) — 2026-08-01T10:18:00.000Z
 - [Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno](https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html?utm_source=lootura.com) — 2026-08-01T12:52:15.000Z
 - [Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo](https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com) — 2026-08-01T13:53:25.000Z

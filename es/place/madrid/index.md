@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho
-
-El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.
-
-Date: 2026-08-01
 
 ### Un incendio en La Vaguada obliga a desalojar el centro comercial
 
@@ -38,6 +32,24 @@ Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento d
 
 Date: 2026-08-01
 
+### Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid
+
+El Real Madrid anunciaba este partido con un mensaje claro. «Estamos de vuelta», publicaba el club en las redes sociales con una imagen de Jose Mourinho. Después de tres semanas de trabajo y de disputar dos encuentros de entrenamiento en la ciudad deportiva contra el Alcorcón y el Leganés, los blancos comienzan la gira.
+
+Date: 2026-08-01
+
+### Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo
+
+El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.
+
+Date: 2026-08-01
+
+### El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho
+
+El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.
+
+Date: 2026-08-01
+
 ### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
 
 Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
@@ -56,22 +68,11 @@ Date: 2026-08-01
 
 Date: 2026-08-01
 
-### Precio de la gasolina hoy 1 de agosto: localiza las gasolineras más baratas de Madrid
-
-Precio de la gasolina hoy 1 de agosto en Madrid: nuevo descuento de 10 céntimos y gasolineras más baratas.
-
-Date: 2026-08-01
-
-### El podcast de ‘El Liberal’ con Alberto Nadal
-
-Alberto Nadal (Madrid, 1970) es técnico comercial y economista del Estado y una figura relativamente nueva de nuestro bestiario político. No es que no haya hecho política, todo lo contrario. Probablemente es lo que más ha hecho, pero siempre desde un discreto segundo plano. Fue secretario general de Comercio con José M.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T16:40:54.000Z
+- [Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid](https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com) — 2026-08-01T18:13:51.000Z
+- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T19:41:48.000Z
 - [Las obras de Atocha modifican el servicio de cinco líneas de Cercanías](https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html?utm_source=lootura.com) — 2026-08-01T15:20:00.000Z
+- [Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo](https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com) — 2026-08-01T19:17:00.000Z
 - [Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza](https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com) — 2026-08-01T15:25:00.000Z
-- [El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho](https://www.larazon.es/deportes/laotraliga/sevilla-ficha-real-madrid-uno-descartes-mourinho_202608016a6dec1ba046ad6ebc95246c.html?utm_source=lootura.com) — 2026-08-01T12:52:43.000Z
 - [Madrid: desalojan el centro comercial La Vaguada por un incendio](https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com) — 2026-08-01T16:49:37.000Z

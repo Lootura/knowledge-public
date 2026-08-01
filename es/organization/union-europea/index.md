@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T20:48:29.218Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»
+
+La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.
+
+Date: 2026-08-01
+
+### Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta
+
+Los ministros de Interior de la Unión Europea se reunirán el próximo martes por videoconferencia para abordar la evolución de la crisis migratoria en Ceuta, después de que tanto el presidente del Gobierno, Pedro Sánchez , como los líderes de otros 22 Estados miembro solicitaran la convocatoria urgente de un encuentro e.
+
+Date: 2026-08-01
 
 ### Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos
 
@@ -56,18 +68,7 @@ La Comisión Europea ha explicado este viernes que recibió el jueves por la noc
 
 Date: 2026-07-24
 
-### Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público
-
-El Banco Central Europeo (BCE) ha presentado las diez propuestas finalistas para la próxima serie de billetes del euro y ha abierto una encuesta pública para que cualquier ciudadano europeo pueda opinar hasta el 21 de septiembre de 2026. Al concurso se presentaron más de 1.200 diseñadores de toda la Unión Europea. Un j.
-
-Date: 2026-07-24
-
-### Bruselas manda cuatro aviones para combatir los incendios forestales en España
-
-La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones para apoyar la lucha contra los incendios forestales en España, después de que el Gobierno solicitara la activación del Mecanismo de Protección Civil de la Unión Europea ante la gravedad de los fuegos que afectan especialmente a la Comunidad.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»](https://theobjective.com/internacional/2026-08-01/meloni-carta-ue-defensa-fronteras-responsabilidad-comun/?utm_source=lootura.com) — 2026-08-01T18:18:22.000Z
+- [Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta](https://theobjective.com/espana/politica/2026-08-01/ministros-interior-ue-reuniran-martes-abordar-crisis-ceuta/?utm_source=lootura.com) — 2026-08-01T19:25:48.000Z

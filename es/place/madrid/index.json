@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-01T20:48:29.218Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho",
-      "summary": "El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
       "summary": "El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado de urgencia por un incendio que se ha originado en la gran superficie. Varias dotaciones de bomberos están ya desplegados en la zona para tratar de atajar las llamas, que han dejado una gran columna de humo negro visible p.",
@@ -37,6 +32,21 @@
       "date": "2026-08-01"
     },
     {
+      "title": "Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid",
+      "summary": "El Real Madrid anunciaba este partido con un mensaje claro. «Estamos de vuelta», publicaba el club en las redes sociales con una imagen de Jose Mourinho. Después de tres semanas de trabajo y de disputar dos encuentros de entrenamiento en la ciudad deportiva contra el Alcorcón y el Leganés, los blancos comienzan la gira.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
+      "summary": "El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho",
+      "summary": "El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.",
+      "date": "2026-08-01"
+    },
+    {
       "title": "La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España",
       "summary": "Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.",
       "date": "2026-08-01"
@@ -50,23 +60,19 @@
       "title": "Cabeza de Chorlito, la pequeña librería de Madrid convertida en refugio de fotógrafos y editores independientes",
       "summary": "\"Me cuesta elegir, la verdad. Todos los libros que tenemos son especiales\" , se sincera Frédérique Bangerter cuando le pedimos que seleccione alguno de los proyectos reunidos en Cabeza de Chorlito. Fred, como la conoce todo el mundo, recorre con la mirada las estanterías que cubren las paredes de la librería. Se detien.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Precio de la gasolina hoy 1 de agosto: localiza las gasolineras más baratas de Madrid",
-      "summary": "Precio de la gasolina hoy 1 de agosto en Madrid: nuevo descuento de 10 céntimos y gasolineras más baratas.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El podcast de ‘El Liberal’ con Alberto Nadal",
-      "summary": "Alberto Nadal (Madrid, 1970) es técnico comercial y economista del Estado y una figura relativamente nueva de nuestro bestiario político. No es que no haya hecho política, todo lo contrario. Probablemente es lo que más ha hecho, pero siempre desde un discreto segundo plano. Fue secretario general de Comercio con José M.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
+      "title": "Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid",
+      "url": "https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T18:13:51.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
       "url": "https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T16:40:54.000Z",
+      "publishedAt": "2026-08-01T19:41:48.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -76,16 +82,16 @@
       "sourceId": "lootura-es-abc"
     },
     {
+      "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T19:17:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza",
       "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T15:25:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho",
-      "url": "https://www.larazon.es/deportes/laotraliga/sevilla-ficha-real-madrid-uno-descartes-mourinho_202608016a6dec1ba046ad6ebc95246c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:52:43.000Z",
-      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
@@ -94,5 +100,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }
