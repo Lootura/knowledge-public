@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas
+
+La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido unos 150 objetivos militares de Estados Unidos en la región del golfo Pérsico durante las últimas dos semanas de repunte de hostilidades, entre ellos centros de mando, aviones y helicópteros de combate, sistemas de defensa antiaérea Patriot, r.
+
+Date: 2026-07-25
 
 ### EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes
 
@@ -62,12 +68,6 @@ La norma permite que los asalariados públicos compatibilicen la reducción de s
 
 Date: 2026-07-23
 
-### El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"
-
-El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z

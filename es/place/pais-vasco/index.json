@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»",
+      "summary": "«Me hice profesional gracias a esta estructura y regresar aquí en mi etapa de madurez es algo francamente significativo a nivel personal», reconoce el ciclista alavés.",
+      "date": "2026-08-01"
+    },
     {
       "title": "El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila",
       "summary": "Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.",
@@ -67,13 +72,15 @@
       "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
       "summary": "El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: \"Es un viaje que se puede cerrar por todo lo alto\"",
-      "summary": "Vizcaya se ha consolidado en los últimos años como uno de los destinos más completos del norte de España. Costa, montaña, pueblos con historia, gastronomía y algunos de los paisajes más reconocibles del País Vasco convierten a este territorio en una opción cada vez más popular entre quienes buscan una escapada de vario.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»",
+      "url": "https://www.diariovasco.com/deportes/ciclismo/euskaltel-euskadi-mikel-landa-dos-temporadas-20260801112256-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:24:20.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says
+
+The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.
+
+Date: 2026-08-01
 
 ### 'Software Error' Led Hundreds of Noncitizens to Vote in NJ
 
@@ -52,4 +58,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Opinion: New Jersey pizza, the fuel of world champions](https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com) — 2026-07-25T12:00:00.000Z
+- [Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says](https://www.cbsnews.com/newyork/news/passaic-river-missing-girl-body-found/?utm_source=lootura.com) — 2026-08-01T03:45:31.000Z

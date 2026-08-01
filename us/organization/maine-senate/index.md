@@ -3,7 +3,7 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race](https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com) — 2026-07-25T15:44:09.000Z
-- [Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race](https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html?utm_source=lootura.com) — 2026-07-25T16:32:16.000Z
+No public source links.

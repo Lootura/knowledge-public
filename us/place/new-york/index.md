@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda](https://www.cbsnews.com/video/maya-and-dean-jankelowitz-serve-up-comfort-food-to-new-yorkers-with-jacks-wife-freda/?utm_source=lootura.com) — 2026-07-25T16:40:36.000Z
-- [Upper West Side double stabbing suspect facing hate crime charges](https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com) — 2026-07-25T03:34:20.000Z
+No public source links.

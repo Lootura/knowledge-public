@@ -3,10 +3,34 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings
+
+The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.
+
+Date: 2026-07-31
+
+### Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts
+
+President Trump says he's willing to hold his nomination of Attorney General Todd Blanche until January, when he says he'll have an easier political calculation in the Senate.
+
+Date: 2026-07-31
+
+### Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk
+
+Todd Blanche’s approach has collided with the jury-of-two reality in the Senate that has, thus far, kept him from the prize he covets: the stability and status conferred by a Senate confirmation.
+
+Date: 2026-07-31
+
+### Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General
+
+Acting Attorney General Todd Blanche gets sworn in at his confirmation hearing in front of the Senate Judiciary Committee on Capitol Hill July 15, 2026 in Washington, D.C. —Win McNamee—Getty Images With just a week left before the Senate leaves for its August recess, the Trump Administration is increasing pressure on l.
+
+Date: 2026-07-31
 
 ### In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process
 
@@ -44,30 +68,9 @@ Sen. Thom Tillis said that Todd Blanche must meet with survivors of convicted se
 
 Date: 2026-07-16
 
-### Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing
-
-"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues," Bos said.
-
-Date: 2026-07-16
-
-### Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing
-
-Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.
-
-Date: 2026-07-16
-
-### Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing
-
-During a five-hour confirmation hearing, acting AG Todd Blanche faced bipartisan scrutiny. He was questioned on his handling of the Jeffrey Epstein files and his personal relationship with President Trump. Caitlin Huey-Burns reports.
-
-Date: 2026-07-16
-
-### Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG
-
-NPR's Leila Fadel asks Democratic Sen. Cory Booker of New Jersey why he says Todd Blanche should not be confirmed as attorney general.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process](https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com) — 2026-07-25T01:46:39.000Z
+- [Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings](https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307?utm_source=lootura.com) — 2026-07-31T23:39:06.000Z
+- [Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts](https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts?utm_source=lootura.com) — 2026-07-31T10:42:20.000Z
+- [Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk](https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html?utm_source=lootura.com) — 2026-07-31T21:02:54.000Z
+- [Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General](https://time.com/article/2026/07/31/trump-administration-amps-up-pressure-on-senate-to-confirm-todd-blanche-as-attorney-general/?utm_source=lootura.com) — 2026-07-31T21:40:36.000Z

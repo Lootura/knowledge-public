@@ -3,7 +3,7 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca](https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com) — 2026-07-25T06:29:14.000Z
+No public source links.

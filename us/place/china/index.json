@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -23,6 +23,11 @@
     {
       "title": "South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul",
       "summary": "Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "China evacuates 340,000 people as Typhoon Noul approaches",
+      "summary": "Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in Hong Kong.",
       "date": "2026-07-25"
     },
     {
@@ -64,20 +69,8 @@
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [
-    {
-      "title": "South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:39:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

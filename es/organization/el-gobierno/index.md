@@ -3,20 +3,56 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+### Así es la barrera de contención que el Gobierno instala en Ceuta: 500 metros de longitud y 1,70 de alto
 
-El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
+El Gobierno central ha informado este sábado del comienzo de la colocación de barreras de contención en la ciudad autónoma de Ceuta tras una noche que ha definido como "con normalidad". A las 7:50 horas de la mañana de este sábado ha empezado la instalación de las barreras de contención en el espigón del Tarajal, en Ce.
 
-Date: 2026-07-25
+Date: 2026-08-01
+
+### El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'
+
+La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas Leer.
+
+Date: 2026-08-01
+
+### El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”
+
+El Gobierno no vio venir la crisis de Ceuta. “Es una evidencia que no teníamos información. Si la tienes, no entran 50.000 personas de la forma en que lo han hecho en 24 horas”, reconoce un alto miembro del Ejecutivo. La dimensión de los incendios en el centro y oeste del país, que obligaron además al confinamiento o e.
+
+Date: 2026-08-01
+
+### El Gobierno comienza la instalación de una barrera de contención en Ceuta
+
+El Gobierno ha informado este sábado del comienzo de la colocación de barreras de contención en la ciudad autónoma de Ceuta tras una noche que ha definido como «con normalidad». A las 7.50 horas ha empezado la instalación de las barreras de contención en el espigón del Tarajal , en Ceuta, informan desde Moncloa esta ma.
+
+Date: 2026-08-01
 
 ### El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila
 
 El Gobierno central ha hecho un llamamiento a la población para protegerse permaneciendo en espacios cerrados y usar mascarilla cuando sea imprescindible salir al exterior allí donde haya humo provocado por los gigantescos incendios que azotan la Sierra Oeste de Madrid y parte de la provincia de Ávila, que han calcinad.
+
+Date: 2026-07-25
+
+### Última hora de los incendios forestales, en directo | El Gobierno amplía la emergencia nacional por los incendios a Toledo
+
+El ministro del Interior, Fernando Grande-Marlaska, ha reconocido desde Navaluenga (Ávila) que este sábado “no ha sido un día positivo” en la lucha contra el fuego debido a las difíciles condiciones meteorológicas, aunque ha subrayado que los incendios “no han ido a más” gracias al trabajo de la UME, los bomberos, las.
+
+Date: 2026-07-25
+
+### El brote de Ébola en Congo se acerca a los 3.000 casos, con 1.309 muertes
+
+El Gobierno de la República Democrática del Congo (RDC) elevó a 1.309 el número de muertos y a 2.973 los casos confirmados de ébola por el brote declarado en el este del país el pasado 15 de mayo. Según el último boletín del Instituto Nacional de Salud Pública (INSP) de la RDC, con datos recopilados hasta el 23 de juli.
+
+Date: 2026-07-25
+
+### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+
+El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
 
 Date: 2026-07-25
 
@@ -32,43 +68,9 @@ El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorol
 
 Date: 2026-07-25
 
-### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
-
-Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.
-
-Date: 2026-07-25
-
-### «Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios
-
-La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.
-
-Date: 2026-07-25
-
-### ¿Por qué el fuego se ceba históricamente con la 'Sierra Oeste'? Los motivos de masa forestal y de suelo que la hacen "más proclive" a arder
-
-El Gobierno central declaró este jueves la emergencia de interés nacional en la Comunidad de Madrid tras la petición del gobierno reagional ante la gravedad de los incendios que asolan el monte en Villa del Prado y San Martín de Valdeiglesias ( unidos ya en uno solo ), y también por el de Burgohondo, en la provincia de.
-
-Date: 2026-07-25
-
-### El Gobierno "dopa" con aportaciones millonarias extras las aspiraciones de Díaz y Planas para dirigir la OIT y la FAO
-
-La parálisis política que atenaza al Gobierno de Pedro Sánchez, incapaz de garantizar una mayoría parlamentaria estable para sacar adelante su agenda legislativa, empieza a tener efectos más allá del bloqueo institucional. Con tan escaso margen para impulsar nuevas iniciativas y con el horizonte electoral cada vez más.
-
-Date: 2026-07-25
-
-### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
-
-El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.
-
-Date: 2026-07-24
-
-### El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen
-
-Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
-- [El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila](https://elpais.com/sociedad/2026-07-25/protegerse-frente-al-humo-mejor-quedarse-en-casa-usar-mascarilla-ffp2-al-salir-y-llamar-a-urgencias-si-cuesta-respirar.html?utm_source=lootura.com) — 2026-07-25T12:26:19.000Z
+- [Así es la barrera de contención que el Gobierno instala en Ceuta: 500 metros de longitud y 1,70 de alto](https://www.20minutos.es/ceuta/asi-barrera-contencion-gobierno-instala-espigon-tarajal-ceuta-longitud-altura_7021554_0.html?utm_source=lootura.com) — 2026-08-01T07:48:32.000Z
+- [El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'](https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html?utm_source=lootura.com) — 2026-08-01T08:10:48.000Z
+- [El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”](https://elpais.com/espana/2026-08-01/el-gobierno-admite-que-no-vio-venir-la-crisis-de-ceuta-si-hubieramos-tenido-informacion-no-habrian-entrado-50000-en-24-horas.html?utm_source=lootura.com) — 2026-08-01T03:30:01.000Z
+- [El Gobierno comienza la instalación de una barrera de contención en Ceuta](https://theobjective.com/espana/2026-08-01/gobierno-comienza-instalacion-barrera-contencion-ceuta/?utm_source=lootura.com) — 2026-08-01T07:27:38.000Z

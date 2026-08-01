@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev
+
+Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas cuatro niños , en un ataque lanzado durante la madrugada de este sábado por las Fuerzas Armadas de Rusia sobre Kiev , la capital ucraniana.«Lamentablemente, nueve vecinos de Kiev han fallecido» , ha informado el gobierno regional, en un me.
+
+Date: 2026-08-01
 
 ### Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia
 
@@ -52,4 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia](https://theobjective.com/internacional/2026-07-25/ocho-muertos-heridos-ataque-ucrania-zona-ocupada/?utm_source=lootura.com) — 2026-07-25T13:29:46.000Z
+- [Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev](https://www.abc.es/internacional/nueve-muertos-heridos-varios-ninos-ataque-misiles-20260801100209-nt.html?utm_source=lootura.com) — 2026-08-01T08:02:10.000Z

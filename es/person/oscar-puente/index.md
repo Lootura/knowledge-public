@@ -64,4 +64,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez](https://www.eldiario.es/madrid/somos/ayuso-aparca-polemicas-viernes-cambia-tono-institucional-trabajar-gobierno-sanchez_1_13406680.html?utm_source=lootura.com) — 2026-07-25T11:54:16.000Z
+No public source links.

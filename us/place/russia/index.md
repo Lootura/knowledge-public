@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### The U.S. Deported Him to Jail in Russia. Then He Escaped.
+
+Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.
+
+Date: 2026-08-01
+
+### Zelenskyy accuses Russia of helping Iran target U.S. bases with satellite images
+
+Ukrainian President Volodymyr Zelenskyy's accusations of Russia helping Iran target U.S. troops are not the first.
+
+Date: 2026-07-25
 
 ### Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham
 
@@ -56,18 +68,6 @@ Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war
 
 Date: 2026-07-20
 
-### Putin meets North Korean foreign minister in diplomatic push
-
-The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un. (Image credit: Alexander Shcherbak).
-
-Date: 2026-07-20
-
-### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
-
-On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.
-
-Date: 2026-07-19
-
 ## Sources
 
-No public source links.
+- [The U.S. Deported Him to Jail in Russia. Then He Escaped.](https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html?utm_source=lootura.com) — 2026-08-01T09:00:09.000Z

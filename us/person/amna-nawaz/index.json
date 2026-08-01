@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "How Iranians are living through months of war and government crackdowns",
+      "summary": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.",
+      "date": "2026-07-31"
+    },
     {
       "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
       "summary": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the economic and human toll of the Iran war, the U.S.-Saudi nuclear energy deal and Trump-allied election deniers winning GOP primaries.",
@@ -44,6 +49,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How Iranians are living through months of war and government crackdowns",
+      "url": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T22:40:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

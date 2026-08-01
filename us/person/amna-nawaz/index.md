@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### How Iranians are living through months of war and government crackdowns
+
+As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.
+
+Date: 2026-07-31
 
 ### Brooks and Marcus on the Iran conflict becoming a 'forever war'
 
@@ -46,4 +52,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [How Iranians are living through months of war and government crackdowns](https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns?utm_source=lootura.com) — 2026-07-31T22:40:06.000Z

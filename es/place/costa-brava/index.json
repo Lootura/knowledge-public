@@ -1,0 +1,32 @@
+{
+  "id": "es-costa-brava",
+  "name": "Costa Brava",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/costa-brava",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/costa-brava",
+  "markdownUrl": "https://atlas.lootura.com/es/place/costa-brava/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/costa-brava/index.json",
+  "description": "Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La romántica boda de Susanna Griso y Luis Enríquez: «sí, quiero» frente al mar",
+      "summary": "Ya son marido y mujer. Tras año y medio de noviazgo, Susanna Griso y Luis Enríquez han contraído este sábado matrimonio en una romántica ceremonia frente al mar, en la localidad de S’Agaró, en la Costa Brava, ante más de 200 invitados. Las celebraciones nupciales comenzaron el viernes por la noche. Susanna y Luis organ.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Susanna Griso ya ha dado el «sí, quiero» con un vestido que rompe las reglas de la novia tradicional",
+      "summary": "Susanna Griso ya ha dado el «sí, quiero». La periodista y Luis Enríquez Nistal ya son marido y mujer. Después de más de dos décadas de relación, la pareja ha celebrado una de las bodas más esperadas del verano en el emblemático hotel La Gavina , en S’Agaró (Costa Brava). Fieles a su discreción, ambos apostaron por una.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Costa Brava first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

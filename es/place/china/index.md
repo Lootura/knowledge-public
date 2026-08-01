@@ -3,10 +3,28 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país
+
+Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.
+
+Date: 2026-08-01
+
+### China es el ganador del caos global. ¿Por qué ha elegido invertir en España?
+
+En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.
+
+Date: 2026-08-01
+
+### Fragmento del día: Eclipse solar del 1 de agosto de 2008
+
+segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].
+
+Date: 2026-08-01
 
 ### Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona
 
@@ -50,24 +68,8 @@ El mapa industrial del automóvil en España vuelve a redibujarse con un movimie
 
 Date: 2026-07-23
 
-### La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores
-
-La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.
-
-Date: 2026-07-22
-
-### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
-
-El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
-
-Date: 2026-07-22
-
-### Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»
-
-Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Según la tradición china, fue general del Estado de Wu y sobresalió por sus ingeniosas estrategias y numerosas victorias, siempre apoyadas en la planificación y el profundo conocimiento del enemigo. Su filosofía se basaba en un principio esen.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país](https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com) — 2026-08-01T07:30:00.000Z
+- [China es el ganador del caos global. ¿Por qué ha elegido invertir en España?](https://cincodias.elpais.com/opinion/2026-08-01/china-es-el-ganador-del-caos-global-por-que-ha-elegido-invertir-en-espana.html?utm_source=lootura.com) — 2026-08-01T03:40:00.000Z
+- [Fragmento del día: Eclipse solar del 1 de agosto de 2008](https://es.wikipedia.org/wiki/Eclipse_solar_del_1_de_agosto_de_2008?utm_source=lootura.com) — 2026-08-01T04:00:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -24,6 +24,11 @@
     {
       "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
       "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "El Barcelona no puede retener a sus estrellas: la salida de Alexia, Salma, Mapi y Ona desmantelan la sección",
+      "summary": "El Barcelona no escapa al éxodo de calidad que vive el fútbol femenino español. España vive su mejor momento en cuanto a calidad y potencial de sus futbolistas, como demuestra que sean campeonas del mundo en categoría absoluta y sub-19. Sin embargo, las jugadoras apenas tienen posibilidad de crecer en los clubes de nue.",
       "date": "2026-07-25"
     },
     {
@@ -65,32 +70,8 @@
       "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
       "summary": "Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: \"No.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años",
-      "summary": "Jordi Hurtado es uno de los rostros más reconocibles y longevos de la televisión española , conocido por presentar «Saber y ganar» en La2. El popular comunicador ha elegido como lugar de residencia Molins de Rei , un municipio del Bajo Llobregat donde vive desde hace más de 20 años rodeado de naturaleza y tranquilidad.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas",
-      "url": "https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:02:12.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
-      "url": "https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T08:33:05.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas",
-      "url": "https://okdiario.com/historia/hallazgo-historico-obras-mercado-barcelona-sacan-luz-refugio-antiaereo-guerra-civil-capacidad-240-personas-19055911?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:00:12.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Substance in work van of man killed by ICE tested negative for drugs, prosecutor says](https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/?utm_source=lootura.com) — 2026-07-25T00:07:47.000Z
+No public source links.

@@ -1,0 +1,45 @@
+{
+  "id": "es-el-tarajal",
+  "name": "El Tarajal",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/el-tarajal",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/el-tarajal",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
+  "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Abascal usa la crisis para elevar la presión: “Si el Gobierno no echa a los inmigrantes lo harán los españoles”",
+      "summary": "Las imágenes de miles de marroquíes entrando ilegalmente en Ceuta a través del paso de El Tarajal, a nado o a pie, han confirmado los más negros augurios de Vox, a juicio de sus dirigentes. La palabra “invasión”, que llevan blandiendo desde hace años como un mantra, no parece tan hiperbólica ante la irrupción en la ciu.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "\"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat",
+      "summary": "El paso a nado por el cruce de El Tarajal era un goteo constante de personas desde que comenzó el verano. Ocho, nueve o 10 individuos llegaban a diario a la costa ceutí, algo a...",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Tarajal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "\"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat",
+      "url": "https://amp.elmundo.es/espana/2026/07/31/6a6ced9bfdddfffa7a8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T20:53:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Abascal usa la crisis para elevar la presión: “Si el Gobierno no echa a los inmigrantes lo harán los españoles”",
+      "url": "https://elpais.com/espana/2026-08-01/abascal-usa-la-crisis-para-elevar-la-presion-si-el-gobierno-no-echa-a-los-inmigrantes-lo-haran-los-espanoles.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

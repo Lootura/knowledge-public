@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Seis valores del Ibex desafían la incertidumbre y rozan máximos
+
+El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resistir en un mes que ha puesto a prueba la confianza de los inversores. El recrudecimiento de las tensiones en Oriente Próximo, la perspectiva de unos tipos de interés elevados durante más tiempo y las crecientes dudas sobre el sector tecnológ.
+
+Date: 2026-08-01
 
 ### ¿Quién teme el crudo a 100 dólares?
 
@@ -62,12 +68,6 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-23
 
-### Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo
-
-Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Seis valores del Ibex desafían la incertidumbre y rozan máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-01/cinco-valores-del-ibex-desafian-la-incertidumbre-y-rozan-maximos.html?utm_source=lootura.com) — 2026-08-01T03:25:00.000Z

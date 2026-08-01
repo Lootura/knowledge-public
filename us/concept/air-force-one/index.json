@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -66,25 +66,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T01:57:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T01:46:39.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T14:31:56.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

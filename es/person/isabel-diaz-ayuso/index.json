@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acudido a la localidad de Sotillo de la Adrada , en Ávila, para recoger pertenecias personales de su casa familiar. Según el diario El Mundo , que cita a fuentes del Gobierno autonómico, la presidenta, cuyo padre nació en Sotillo y donde pasa temporadas en.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Ayuso: \"La situación cambia a gran velocidad, es un momento crítico\"",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha dicho este sábado que \"la situación está cambiando a gran velocidad\" y es \"un momento muy crítico\". En declaraciones a los medios en el puesto de mando avanzado de Cenicientos para coordinar la extinción del fuego , Ayuso ha explicado que el incendio se co.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid",
       "summary": "El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se han saludado con un formal apretón de manos a.",
@@ -54,25 +64,8 @@
       "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
       "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
-      "summary": "El ministro de Transportes, Óscar Puente , ha llamado \"mamarracha\" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los \".",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "summary": "El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid",
-      "url": "https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:33:58.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -46,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno](https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com) — 2026-07-25T10:40:21.000Z
+No public source links.

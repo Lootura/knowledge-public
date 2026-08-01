@@ -3,79 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años
+### Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país
 
-En las últimas dos semanas la curva de hectáreas quemadas en España ha dado un salto brusco. No lo han provocado incendios repartidos por toda la península, sino fuegos que se han expandido muy rápido y se han concentrado en zonas muy concretas. Seguir leyendo Metodología Los datos . El análisis se limita a los grandes.
+Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
+### La destrucción de España
 
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+Cuando todavía colean los incendios más voraces jamás padecidos en España sufrimos la invasión de una horda incontable de marroquíes. ¿Alguien puede todavía negar que estamos gobernados por chacales juramentados en la destrucción de España? ¿Alguien puede negar que estamos en manos de criminales dispuestos a convertir.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+### Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta
 
-El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
+El presidente del Gobierno ha remitido una carta a Ursula Von der Leyen y Antonio Costa en la que denuncia el «ataque» de varios miembros de la UE por la crisis migratoria acaecida en España.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### ¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves
+### China es el ganador del caos global. ¿Por qué ha elegido invertir en España?
 
-En las últimas dos semanas se han iniciado en España {{fires_2weeks}} incendios, {{bigfires_2weeks}} de ellos han sido grandes incendios forestales de más de 500 hectáreas. Eso indican los datos provisionales del Sistema de información europeo de incendios forestales (EFFIS) que miden la extensión de los fuegos a parti.
+En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
+### La falta de incentivos para cuidar los montes y prevenir los incendios en España: “Es más rentable no hacer nada”
 
-El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
+El tiempo pasa despacio en el campo y la frontera entre el pasado y el futuro se desdibuja. Los abuelos de Rosendo Castelló abandonaron a principios del siglo XX la finca familiar, situada a las afueras del pueblo barcelonés de Tordera (19.047 habitantes), porque ya no podían afrontar los costes. 300 hectáreas gestiona.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios
+### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
 
-El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.
+Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno
+### Castilla y León entra en la carrera de los centros de datos con un importante proyecto de 1.600 millones
 
-El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.
+Con retraso, pero Castilla y León va a entrar al fin en la carrera por los centros de tratamiento de datos , unas instalaciones que comienzan a abrirse paso en España en los últimos años. La empresa DC Mudarra SLU proyecta en Torrelobatón un centro con una capacidad máxima de 160 MW que requerirá una inversión de no me.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara
+### Navia, el pueblo de Asturias donde más durará el eclipse solar del 12 de agosto y por qué es de los mejores lugares de España para verlo
 
-España arde. La situación compleja que atraviesa el país por la gran intensidad de los incendios forestales ha hecho que el ministerio del Interior haya declarado la emergencia de interés nacional en la Comunidad de Madrid y en Ávila . Es precisamente en ambas regiones donde se vive el escenario más complicado. Más de.
+Navia será uno de los enclaves privilegiados para contemplar el eclipse total de Sol del 12 de agosto de 2026. Este concejo de la costa occidental asturiana disfrutará de casi un minuto y 50 segundos de oscuridad completa , la mayor duración prevista en España. El fenómeno comenzará en Navia a las 19.30 , cuando la Lun.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados
+### Del carajillo a la esterilla: España vive un 'boom' de los bares donde se va para hacer deporte
 
-Más de 60.000 personas han sido confinadas o evacuadas por los incendios declarados en la Comunidad de Madrid y la provincia de Ávila, que ya son.
+Visitamos los nuevos establecimientos de moda: los locales de restauración a los que se va para tomar algo... o a sudar.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Consulta cómo avanza el fuego y el mapa de riesgo
+### Las 38 horas de un gobierno en 'shock' ante la "violación de la integridad territorial de España"
 
-Código Desktop Incendios en España .apertura-incendios { width: 100%; margin: 20px auto 28px; padding: 0 20px; box-sizing: border-box; } .apertura-incendios__grafico { width: 100%; max-width: 200px; margin: 0 auto; } .apertura-incendios__svg { display: block; width: 100%; height: auto; overflow: visible; } .apertura-in.
+El Ejecutivo central no logró contener durante toda una jornada el aluvión de llegadas de inmigrantes irregulares a Ceuta, ni con el despliegue de agentes ni por la vía diplomática Leer.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
 ## Fuentes
 
-- [El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara](https://www.20minutos.es/nacional/mapa-incendios-tiempo-real-espana-consultar-focos-activos-fuegos-tiempo-real_7013152_0.html?utm_source=lootura.com) — 2026-07-25T15:20:06.000Z
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T13:02:22.000Z
-- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
-- [¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves](https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html?utm_source=lootura.com) — 2026-07-25T06:31:59.000Z
-- [Datos | Pocos incendios pero grandes y rápidos: julio deja ya una de las peores quincenas en más de 40 años](https://elpais.com/espana/2026-07-25/datos-pocos-incendios-pero-grandes-y-veloces-julio-deja-ya-una-de-las-peores-quincenas-en-mas-de-40-anos.html?utm_source=lootura.com) — 2026-07-25T03:30:00.000Z
-- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
-- [El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios](https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com) — 2026-07-25T11:29:52.000Z
-- [El avance de los incendios que asolan España, en directo | El fuego unificado en Madrid y Ávila deja ya casi 88.500 evacuados y confinados](https://theobjective.com/sociedad/suceso/2026-07-25/directo-avance-incendio-madrid/directo/?amp=&utm_source=lootura.com) — 2026-07-25T16:42:21.000Z
-- [Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno](https://theobjective.com/espana/politica/2026-07-25/abascal-incendios-fanatismo-climatico-corrupcion-gobierno/?utm_source=lootura.com) — 2026-07-25T10:40:21.000Z
+- [Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país](https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com) — 2026-08-01T07:30:00.000Z
+- [La destrucción de España](https://www.abc.es/opinion/juan-manuel-de-prada-destruccion-espana-20260731134519-nt.html?utm_source=lootura.com) — 2026-08-01T08:53:18.000Z
+- [Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta](https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com) — 2026-08-01T08:54:18.000Z
+- [China es el ganador del caos global. ¿Por qué ha elegido invertir en España?](https://cincodias.elpais.com/opinion/2026-08-01/china-es-el-ganador-del-caos-global-por-que-ha-elegido-invertir-en-espana.html?utm_source=lootura.com) — 2026-08-01T03:40:00.000Z
+- [La falta de incentivos para cuidar los montes y prevenir los incendios en España: “Es más rentable no hacer nada”](https://elpais.com/economia/2026-08-01/la-falta-de-incentivos-para-cuidar-los-montes-y-prevenir-los-incendios-en-espana-es-mas-rentable-no-hacer-nada.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España](https://www.elconfidencial.com/espana/madrid/2026-08-01/madrid-siglo-de-oro-exposicion-1qrt_4399141/?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [Castilla y León entra en la carrera de los centros de datos con un importante proyecto de 1.600 millones](https://www.elconfidencial.com/espana/castilla-y-leon/2026-08-01/castilla-y-leon-entra-en-la-carrera-de-los-centros-de-datos-con-un-importante-proyecto-de-1-600-millones_4399021/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
+- [Navia, el pueblo de Asturias donde más durará el eclipse solar del 12 de agosto y por qué es de los mejores lugares de España para verlo](https://www.elconfidencial.com/espana/2026-08-01/navia-pueblo-asturias-mas-dura-eclipse-solar-12-agosto-1qrt_4398440/?utm_source=lootura.com) — 2026-08-01T07:04:00.000Z
+- [Del carajillo a la esterilla: España vive un 'boom' de los bares donde se va para hacer deporte](https://www.elconfidencial.com/espana/2026-08-01/carajillo-rodillo-espana-deporte-bares_4389203/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
+- [Las 38 horas de un gobierno en 'shock' ante la "violación de la integridad territorial de España"](https://www.elmundo.es/espana/2026/08/01/6a6cf124fdddff45638b4598.html?utm_source=lootura.com) — 2026-08-01T00:35:06.000Z

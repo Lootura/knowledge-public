@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
+      "summary": "Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
+      "summary": "En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Fragmento del día: Eclipse solar del 1 de agosto de 2008",
+      "summary": "segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].",
+      "date": "2026-08-01"
+    },
     {
       "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
       "summary": "Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03 , la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnología a un precio muy ajustado. La compañía confía tanto en repetir ese éxito fuera de China que ha.",
@@ -45,23 +60,27 @@
       "title": "Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes",
       "summary": "El mapa industrial del automóvil en España vuelve a redibujarse con un movimiento de calado histórico, ya que la firma Ford formalizará este jueves un acuerdo con el gigante chino Geely para la venta de la planta Body 3, ubicada dentro del complejo industrial de Almussafes (Valencia). Según han informado al diario Las.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores",
-      "summary": "La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
-      "summary": "El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»",
-      "summary": "Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Según la tradición china, fue general del Estado de Wu y sobresalió por sus ingeniosas estrategias y numerosas victorias, siempre apoyadas en la planificación y el profundo conocimiento del enemigo. Su filosofía se basaba en un principio esen.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
+      "url": "https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T07:30:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-01/china-es-el-ganador-del-caos-global-por-que-ha-elegido-invertir-en-espana.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Fragmento del día: Eclipse solar del 1 de agosto de 2008",
+      "url": "https://es.wikipedia.org/wiki/Eclipse_solar_del_1_de_agosto_de_2008?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
+    }
+  ],
+  "evidenceCount": 3
 }

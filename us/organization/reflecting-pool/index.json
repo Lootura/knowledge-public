@@ -1,0 +1,45 @@
+{
+  "id": "usa-reflecting-pool",
+  "name": "Reflecting Pool",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/reflecting-pool",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/reflecting-pool",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/reflecting-pool/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/reflecting-pool/index.json",
+  "description": "Follow Reflecting Pool, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "DOJ drops Reflecting Pool case, blaming damage on ‘botched’ installation",
+      "summary": "WASHINGTON — The Trump administration has dropped its case against a former Olympic canoeist charged in connection with damage to the Reflecting Pool, acknowledging their allegations against David “Davey” Hearn don’t hold water.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "summary": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month. (Image credit: Finn Gomez).",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Reflecting Pool first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "DOJ drops Reflecting Pool case, blaming damage on ‘botched’ installation",
+      "url": "https://www.nbcnews.com/news/us-news/trump-administration-drops-reflecting-pool-case-blaming-damage-botched-rcna590303?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T21:55:16.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T23:24:36.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

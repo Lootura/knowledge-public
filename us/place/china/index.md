@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul
 
 Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.
+
+Date: 2026-07-25
+
+### China evacuates 340,000 people as Typhoon Noul approaches
+
+Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in Hong Kong.
 
 Date: 2026-07-25
 
@@ -62,12 +68,6 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-18
 
-### Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech
-
-Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul](https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/?utm_source=lootura.com) — 2026-07-25T16:39:44.000Z
+No public source links.

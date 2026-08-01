@@ -3,10 +3,34 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
+
+La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.
+
+Date: 2026-08-01
+
+### Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu
+
+A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.
+
+Date: 2026-08-01
+
+### Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos
+
+La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.
+
+Date: 2026-08-01
+
+### Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas
+
+La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido unos 150 objetivos militares de Estados Unidos en la región del golfo Pérsico durante las últimas dos semanas de repunte de hostilidades, entre ellos centros de mando, aviones y helicópteros de combate, sistemas de defensa antiaérea Patriot, r.
+
+Date: 2026-07-25
 
 ### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
 
@@ -44,30 +68,8 @@ Ayn Rand es quizás una de las pensadoras y escritoras más controvertidas de to
 
 Date: 2026-07-25
 
-### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
-
-Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...
-
-Date: 2026-07-24
-
-### La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico
-
-Mientras Estados Unidos incrementa el número y la potencia de los ataques contra Irán, la República Islámica busca expandir el conflicto a toda la región para ejercer más presión sobre Washington y la economía global El Congreso de EEUU aprueba 1,15 billones para defensa y 95.000 millones más para la guerra en Irán mie.
-
-Date: 2026-07-24
-
-### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
-
-Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
-
-Date: 2026-07-24
-
-### Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"
-
-"La Unión Europea vuelve a las andadas y, como siempre, ¡ataca directamente a grandes empresas estadounidenses!", ha denunciado el presidente de Estados Unidos en un mensaje en su plataforma de redes sociales, en el que ha acusado a Bruselas de "robar" a estas compañías sin dar ningún tipo de explicación. Seguir leyend.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país](https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu](https://okdiario.com/naturaleza/mientras-espana-arde-peru-planta-1-000-000-arboles-restaurar-ecosistemas-del-machu-picchu-16527735?utm_source=lootura.com) — 2026-08-01T06:07:23.000Z
+- [Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos](https://okdiario.com/happyfm/asi-vida-marian-aguilera-hombres-paco-estados-unidos-19082364?utm_source=lootura.com) — 2026-08-01T09:33:23.000Z

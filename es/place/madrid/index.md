@@ -3,34 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Tú sí, tú no: los clubes privados para ricos toman Madrid
+### Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"
 
-“Madrid jugaba en una categoría inferior a la que le correspondía en Europa. Las grandes capitales europeas son París y Londres y luego hay otra división: Berlín, Milán, Ámsterdam… Madrid no estaba ahí. Entonces ha tenido la oportunidad de subir de golpe, de hacerse mayor de golpe. Eso es lo que creo que ha pasado. Tam.
+Acompañamiento a la tercera edad, en la protección animal, durante la campaña del frío, para luchar contra la brecha digital o como apoyo escolar a menores. Voluntarios por Madrid realiza una tarea sinigual. Sin ellos, muchos de los programas y eventos que se celebran en la capital no se podrían desarrollar con normali.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### El peligroso incendio que acecha a Madrid: de quinta generación y con la regla del 30-30-30
+### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
 
-La extinción de los tres incendios , fusionados desde la tarde del viernes en un solo monstruo que avanza por la esquina suroeste de la región madrileña hacia el norte, se ve dificultada por un peligroso cóctel meteorológico: la conocida como regla del 30-30-30. Utilizada por bomberos, meteorólogos y expertos forestale.
+Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
+### Cabeza de Chorlito, la pequeña librería de Madrid convertida en refugio de fotógrafos y editores independientes
 
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+"Me cuesta elegir, la verdad. Todos los libros que tenemos son especiales" , se sincera Frédérique Bangerter cuando le pedimos que seleccione alguno de los proyectos reunidos en Cabeza de Chorlito. Fred, como la conoce todo el mundo, recorre con la mirada las estanterías que cubren las paredes de la librería. Se detien.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
+### Precio de la gasolina hoy 1 de agosto: localiza las gasolineras más baratas de Madrid
 
-El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
+Precio de la gasolina hoy 1 de agosto en Madrid: nuevo descuento de 10 céntimos y gasolineras más baratas.
 
-Date: 2026-07-25
+Date: 2026-08-01
+
+### El podcast de ‘El Liberal’ con Alberto Nadal
+
+Alberto Nadal (Madrid, 1970) es técnico comercial y economista del Estado y una figura relativamente nueva de nuestro bestiario político. No es que no haya hecho política, todo lo contrario. Probablemente es lo que más ha hecho, pero siempre desde un discreto segundo plano. Fue secretario general de Comercio con José M.
+
+Date: 2026-08-01
 
 ### Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»
 
@@ -41,12 +47,6 @@ Date: 2026-07-25
 ### Madrid se defiende de un fuego "insólito" con el mayor operativo de Emergencias desde el Covid: "Un incendio ha llamado a otro"
 
 Leer.
-
-Date: 2026-07-25
-
-### Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid
-
-El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se han saludado con un formal apretón de manos a.
 
 Date: 2026-07-25
 
@@ -70,13 +70,8 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El mapa de incendios en España en tiempo real: consulta el estado de los focos activos en Madrid, Ávila, Toledo y Guadalajara](https://www.20minutos.es/nacional/mapa-incendios-tiempo-real-espana-consultar-focos-activos-fuegos-tiempo-real_7013152_0.html?utm_source=lootura.com) — 2026-07-25T15:20:06.000Z
-- [Pompeya dirección El Escorial](https://www.abc.es/opinion/juan-soto-ivars-pompeya-direccion-escorial-20260725132431-nt.html?utm_source=lootura.com) — 2026-07-25T15:26:32.000Z
-- [El fuego respeta la estación espacial europea de Cebreros pero golpea la base de la NASA en Robledo de Chavela](https://www.abc.es/sociedad/fuego-respeta-estacion-espacial-europea-cebreros-golpea-20260725170457-nt.html?utm_source=lootura.com) — 2026-07-25T15:04:57.000Z
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T13:02:22.000Z
-- [Miles de personas huyen por carretera del incendio en la sierra oeste de Madrid](https://www.abc.es/sociedad/miles-personas-huyen-carretera-incendio-sierra-oeste-20260725162245-nt.html?utm_source=lootura.com) — 2026-07-25T14:22:45.000Z
-- [Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo](https://elpais.com/economia/2026-07-25/los-afectados-por-los-incendios-cuentan-con-cuatro-dias-de-permiso-retribuido-en-el-trabajo.html?utm_source=lootura.com) — 2026-07-25T13:45:15.000Z
-- [Última hora de los incendios forestales, en directo | Más de 88.500 evacuados o confinados por los incendios en Ávila y Madrid](https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-25T16:45:46.000Z
-- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
-- [Sanidad alerta sobre la calidad del aire en Madrid por los incendios: recomendaciones y cómo protegerse del humo](https://www.elconfidencial.com/espana/2026-07-25/sanidad-alerta-sobre-la-calidad-del-aire-en-madrid-por-los-incendios-recomendaciones-y-como-protegerse-del-humo_4395935/?utm_source=lootura.com) — 2026-07-25T12:17:00.000Z
-- [Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»](https://www.elcorreo.com/sociedad/directo-incendios-forestales-espana-sabado-ventana-oportunidad-20260725090402-dirc_amp.html?utm_source=lootura.com) — 2026-07-25T07:04:26.000Z
+- [Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"](https://www.elconfidencial.com/espana/madrid/2026-08-01/voluntarios-solidaridad-madrid-pequeno-gesto-marca-diferencia_4397255/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
+- [La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España](https://www.elconfidencial.com/espana/madrid/2026-08-01/madrid-siglo-de-oro-exposicion-1qrt_4399141/?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [Cabeza de Chorlito, la pequeña librería de Madrid convertida en refugio de fotógrafos y editores independientes](https://www.elconfidencial.com/espana/madrid/2026-08-01/cabeza-chorlito-pequena-libreria-madrid-refugio-fotografos-editores-independientes_4396455/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
+- [Precio de la gasolina hoy 1 de agosto: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-1-agosto-localiza-gasolineras-mas-baratas-madrid-19073001/amp?utm_source=lootura.com) — 2026-08-01T06:15:47.000Z
+- [El podcast de ‘El Liberal’ con Alberto Nadal](https://theobjective.com/podcasts/el-liberal-podcast/el-podcast-de-el-liberal-alberto-nadal/?utm_source=lootura.com) — 2026-08-01T03:25:46.000Z

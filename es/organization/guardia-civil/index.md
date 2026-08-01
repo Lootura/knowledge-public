@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta
+
+El número de cadáveres recuperados en la costa de Ceuta tras la entrada masiva de 50.000 personas desde Marruecos en los últimos días ya asciende a 67 , según los datos facilitados por fuentes de la Delegación del Gobierno en la ciudad autónoma.Mientras tanto, la Guardia Civil mantiene un rastreo constante para localiz.
+
+Date: 2026-08-01
+
+### España, en estado de sitio
+
+Más de 50.000 personas entraron en Ceuta el jueves. No por la valla, en su mayoría, sino a nado, bordeando el espigón del Tarajal en oleadas sucesivas que desbordaron a una Guardia Civil que llevaba meses advirtiendo de que el dispositivo era insuficiente . El Ejército terminó desplegado. La Legión, activada. El presid.
+
+Date: 2026-08-01
 
 ### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
@@ -56,18 +68,7 @@ Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hom
 
 Date: 2026-07-21
 
-### Manifestarse contra el turismo
-
-Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.
-
-Date: 2026-07-21
-
-### El fuego pasa del monte al pueblo: «Los incendios ya no son forestales, son territoriales»
-
-Eugenio se quedó en su cortijo a luchar contra el fuego en Bédar (Almería); Miguel solo se fue de su propiedad cuando el humo se hizo irrespirable en Santa Baia de Montes (Orense) y José Luis no dudó en dejar su vivienda en Mahíde (Zamora) al aviso nocturno de la Guardia Civil, aún con las piernas temblando y un color.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta](https://www.elconfidencial.com/espana/2026-08-01/67-muertos-ceuta-marruecos-frontera-inmigracion_4399459/?utm_source=lootura.com) — 2026-08-01T09:32:00.000Z
+- [España, en estado de sitio](https://theobjective.com/elsubjetivo/opinion/2026-08-01/espana-estado-sitio-articulo-juan-angel-soto/?utm_source=lootura.com) — 2026-08-01T03:25:00.000Z

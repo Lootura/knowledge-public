@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-07-31"
+    },
     {
       "title": "Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms",
       "summary": "President Trump's top military advisors were on Capitol Hill to make the case for the war in Iran, and additional money to fund the Pentagon. Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine argued for an additional $67 billion, what Hegseth called an urgent and necessary injection of funds. N.",
@@ -58,13 +63,15 @@
       "title": "Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor",
       "summary": "Fmr. Gov. Mark Sanford (R-S.C.) joins Meet the Press NOW to react to the sudden and unexpected death of Sen. Lindsey Graham (R-S.C.). Sanford discusses Senator Graham's legacy on Capitol Hill and his role as a liaison between President Trump and the Senate.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
-      "summary": "The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T21:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

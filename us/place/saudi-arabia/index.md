@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
 
 The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.
+
+Date: 2026-07-25
+
+### Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping
+
+Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.
 
 Date: 2026-07-25
 
@@ -62,13 +68,6 @@ President Donald Trump said Thursday that a nuclear deal between the United Stat
 
 Date: 2026-07-23
 
-### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
-
-During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia](https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia?utm_source=lootura.com) — 2026-07-25T11:43:45.000Z
-- [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T21:32:37.000Z
+No public source links.

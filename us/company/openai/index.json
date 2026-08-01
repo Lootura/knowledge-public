@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Product availability changed in Europe",
       "summary": "Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.",
@@ -32,11 +37,17 @@
   ],
   "sources": [
     {
-      "title": "ChatGPT now has a space for sharing medical records. Should you?",
-      "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T10:00:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T00:00:00.000Z",
+      "sourceId": "lootura-us-openai"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

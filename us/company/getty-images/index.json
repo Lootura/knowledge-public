@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
@@ -66,25 +66,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "Opinion: New Jersey pizza, the fuel of world champions",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Democrats approve new primary election calendar, putting South Carolina first",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T21:50:41.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "What Octogenarian Pop Divas Show Us About a Life Well-Lived",
-      "url": "https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T11:00:04.000Z",
-      "sourceId": "lootura-us-time"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Feijóo pide ser "responsables" y combatir "juntos" los incendios
+
+Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar "juntos" para combatir los incendios, así de ser "responsables" y "refrescar el ambiente político". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.
+
+Date: 2026-07-25
 
 ### Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez
 
@@ -23,12 +29,6 @@ Date: 2026-07-25
 ### El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios
 
 El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.
-
-Date: 2026-07-25
-
-### Feijóo pide ser "responsables" y combatir "juntos" los incendios
-
-Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar "juntos" para combatir los incendios, así de ser "responsables" y "refrescar el ambiente político". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.
 
 Date: 2026-07-25
 
@@ -70,7 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez](https://www.eldiario.es/madrid/somos/ayuso-aparca-polemicas-viernes-cambia-tono-institucional-trabajar-gobierno-sanchez_1_13406680.html?utm_source=lootura.com) — 2026-07-25T11:54:16.000Z
-- [Feijóo pide ser "responsables" y combatir "juntos" los incendios](https://www.larazon.es/espana/feijoo-pide-ser-responsables-combatir-juntos-incendios_202607256a64e4974687a22bdecd9957.html?utm_source=lootura.com) — 2026-07-25T16:30:15.000Z
-- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
-- [El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios](https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com) — 2026-07-25T11:29:52.000Z
+No public source links.

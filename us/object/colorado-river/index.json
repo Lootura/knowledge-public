@@ -1,0 +1,95 @@
+{
+  "id": "usa-colorado-river",
+  "name": "Colorado River",
+  "type": "object",
+  "locale": "en",
+  "canonicalPath": "/us/object/colorado-river",
+  "canonicalUrl": "https://atlas.lootura.com/us/object/colorado-river",
+  "markdownUrl": "https://atlas.lootura.com/us/object/colorado-river/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/object/colorado-river/index.json",
+  "description": "Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "aliases": [
+    "Rio Colorado",
+    "Ahan Yava Kothickwa",
+    "Ancon de San Andres",
+    "Big River",
+    "Blue River",
+    "Bunkara River",
+    "Buqui Acqumuri",
+    "Canon of the Colorado River",
+    "El Rio de Buena Guia",
+    "Grand River",
+    "Green River",
+    "Gritetho",
+    "Hah Weal Asientic",
+    "Hahweel",
+    "Javill",
+    "Mar Bermejo",
+    "Nah Oon Kara",
+    "North Fork",
+    "North Fork Colorado River",
+    "North Fork of Grand River",
+    "Pa-na-weap",
+    "Packet-to",
+    "Pagah",
+    "Pocket-to",
+    "Red River of California",
+    "Red River of the West",
+    "Rio Buena Guia",
+    "Rio Colorado Del Norte",
+    "Rio Colorado del Norte",
+    "Rio Cosnina",
+    "Rio Del Norte",
+    "Rio Del Tizon",
+    "Rio Grande De Buena Esperanza",
+    "Rio Grande de Buena Esperanza",
+    "Rio Grande de los Cosninas",
+    "Rio Grande de los Martyres",
+    "Rio de Buena Guia",
+    "Rio de los Martires",
+    "Rio del Norta",
+    "Rio del Norte",
+    "Rio del Tizon",
+    "Seedekeeden",
+    "Seeds Keedee",
+    "Seeds Keeden",
+    "Seeds Keeder",
+    "Seeds-ke-Agie",
+    "Seedskeedee Agie",
+    "Seedskeeden",
+    "Seetes-Ker-Der"
+  ],
+  "changes": [
+    {
+      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
+      "summary": "The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Colorado River first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Western states face more water cutbacks as Colorado River shrinks",
+      "summary": "After years of battles over its use — and a long-running drought — states that rely on the Colorado River are facing the prospect of further cutbacks. Years of gridlock among the states prompted the federal government to step in. A new blueprint lays out new requirements for managing the shrinking river. Science corres.",
+      "date": "2026-07-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
+      "url": "https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T00:21:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Western states face more water cutbacks as Colorado River shrinks",
+      "url": "https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T22:35:41.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Europa se revuelve contra Sánchez por poner en riesgo sus fronteras
+
+Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta Leer.
+
+Date: 2026-08-01
+
+### Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior
+
+El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: "Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.
+
+Date: 2026-08-01
 
 ### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
 
@@ -56,18 +68,7 @@ La sala de lo Penal del Tribunal Supremo (TS) ha inadmitido la querella interpue
 
 Date: 2026-07-14
 
-### Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba
-
-Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.
-
-Date: 2026-07-13
-
-### Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"
-
-Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . "Francia tiene, además, una plantilla de altís.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática](https://www.elconfidencial.com/espana/2026-07-25/sanchez-asume-el-mando-unico-del-incendio-de-madrid-y-avila-y-urge-a-un_4395882/?utm_source=lootura.com) — 2026-07-25T09:27:00.000Z
+- [Europa se revuelve contra Sánchez por poner en riesgo sus fronteras](https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html?utm_source=lootura.com) — 2026-08-01T00:35:03.000Z
+- [Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior](https://www.eldiario.es/internacional/sanchez-acusa-gobiernos-europeos-atacar-espana-pide-reunion-urgencia-ministros-interior_1_13422370.html?utm_source=lootura.com) — 2026-08-01T08:24:25.000Z

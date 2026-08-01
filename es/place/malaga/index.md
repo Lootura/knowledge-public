@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### A prisión un hombre por una agresión machista a su expareja en Benamocarra (Málaga)
+
+Un hombre ha ingresado en prisión provisional por una agresión machista a su expareja en Benamocarra (Málaga), a la que hirió al golpearla con una piedra en la cabeza, según han confirmado fuentes de la investigación. La Guardia Civil detuvo al agresor, que ha ingresado en prisión con medidas de protección para la víct.
+
+Date: 2026-07-25
 
 ### El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen
 
@@ -61,12 +67,6 @@ Date: 2026-07-21
 La mujer de 30 años que ha sido hallada muerta este lunes con lesiones de arma blanca en una vivienda de Antequera (Málaga) fue presuntamente asesinada por su pareja, un hombre que se suicidó después de cometer el crimen , según fuentes de la investigación. El cuerpo de la mujer presenta heridas de arma blanca que apun.
 
 Date: 2026-07-20
-
-### Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias
-
-Los incendios forestales que están atacando España han provocado el corte de hasta 14 carreteras secundarias de todo el país. Entre ellas se encuentran siete en Guadalajara , cinco en Zaragoza , una en la provincia de Madrid y otra en la de Málaga , según el último boletín difundido por la Dirección General de Tráfico.
-
-Date: 2026-07-18
 
 ## Fuentes
 

@@ -3,7 +3,7 @@
 > Sigue la actividad de El Ayuntamiento en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/place/el-ayuntamiento
 
 ## Cambios recientes
@@ -58,5 +58,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Hallado un hombre muerto en el incendio de un barranco de Manises (Valencia)](https://elpais.com/espana/comunidad-valenciana/2026-07-25/hallado-un-hombre-muerto-en-el-incendio-de-un-barranco-de-manises-valencia.html?utm_source=lootura.com) — 2026-07-25T15:52:32.000Z
-- [El Ayuntamiento de Valladolid refuerza un año más su apuesta por las familias con nuevas actuaciones de conciliación y corresponsabilidad](https://www.larazon.es/castilla-y-leon/ayuntamiento-valladolid-refuerza-ano-mas-apuesta-familias-nuevas-actuaciones-conciliacion-corresponsabilidad_202607256a64e4974687a22bdecd9954.html?utm_source=lootura.com) — 2026-07-25T16:30:15.000Z
+No public source links.

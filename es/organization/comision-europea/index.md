@@ -3,10 +3,22 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior
+
+El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su "seria preocupación" sobre la "reciente reacción" de "algunos gobiernos europeos" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.
+
+Date: 2026-08-01
+
+### Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta
+
+El presidente del Gobierno, Pedro Sánchez , ha enviado este sábado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen, con el objetivo de trasladarle su «seria preocupación» sobre la «reciente reacción» de «algunos gobiernos europeos» tras la crisis migratoria de Ceuta . Además, ha pedido una reunió.
+
+Date: 2026-08-01
 
 ### La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'
 
@@ -34,4 +46,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior](https://www.20minutos.es/nacional/sanchez-expresa-preocupacion-von-der-leyen-reaccion-socios-meloni-crisis-migratoria-pide-reunion-ministros-interior_7021576_0.html?utm_source=lootura.com) — 2026-08-01T09:18:21.000Z
+- [Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta](https://theobjective.com/espana/2026-08-01/sanchez-carta-ue-reunion-interior-ceuta/?utm_source=lootura.com) — 2026-08-01T08:50:08.000Z

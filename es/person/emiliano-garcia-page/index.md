@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios
+
+La decisión se adopta a petición del Mando Unificado de Extinción (MUE), que ha trasladado al presidente de Castilla-La Mancha, Emiliano García-Page, la solicitud de declaración de la situación operativa 3 para la provincia de Toledo. Se trata de "reforzar la coordinación de todos los servicios y recursos implicados en.
+
+Date: 2026-07-25
 
 ### Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones
 

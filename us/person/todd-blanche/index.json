@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+      "summary": "The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
+      "summary": "President Trump says he's willing to hold his nomination of Attorney General Todd Blanche until January, when he says he'll have an easier political calculation in the Senate.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
+      "summary": "Todd Blanche’s approach has collided with the jury-of-two reality in the Senate that has, thus far, kept him from the prize he covets: the stability and status conferred by a Senate confirmation.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General",
+      "summary": "Acting Attorney General Todd Blanche gets sworn in at his confirmation hearing in front of the Senate Judiciary Committee on Capitol Hill July 15, 2026 in Washington, D.C. —Win McNamee—Getty Images With just a week left before the Senate leaves for its August recess, the Trump Administration is increasing pressure on l.",
+      "date": "2026-07-31"
+    },
     {
       "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
       "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
@@ -43,35 +63,33 @@
       "title": "Tillis says he won't support Blanche unless he meets with Epstein survivors",
       "summary": "Sen. Thom Tillis said that Todd Blanche must meet with survivors of convicted sex offender Jeffrey Epstein's crimes before he'll vote to advance his nomination for attorney general out of the Senate Judiciary Committee.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
-      "summary": "\"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues,\" Bos said.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
-      "summary": "Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
-      "summary": "During a five-hour confirmation hearing, acting AG Todd Blanche faced bipartisan scrutiny. He was questioned on his handling of the Jeffrey Epstein files and his personal relationship with President Trump. Caitlin Huey-Burns reports.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
-      "summary": "NPR's Leila Fadel asks Democratic Sen. Cory Booker of New Jersey why he says Todd Blanche should not be confirmed as attorney general.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T01:46:39.000Z",
+      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T23:39:06.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T10:42:20.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T21:02:54.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General",
+      "url": "https://time.com/article/2026/07/31/trump-administration-amps-up-pressure-on-senate-to-confirm-todd-blanche-as-attorney-general/?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T21:40:36.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

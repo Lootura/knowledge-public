@@ -28,5 +28,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El incendio de Pinos del Valle, en Granada, se agrava: la Junta confina a los vecinos y activa el Es-Alert](https://www.abc.es/espana/andalucia/granada/junta-andalucia-activa-nivel-emergencia-nuevo-incendio-20260725141200-nts.html?utm_source=lootura.com) — 2026-07-25T12:43:19.000Z
-- [Activada la fase de emergencia nivel 1 por el incendio forestal de El Valle (Granada)](https://www.larazon.es/andalucia/activada-fase-emergencia-nivel-1-incendio-forestal-valle-granada_202607256a64b635da3add27d4e1ae18.html?utm_source=lootura.com) — 2026-07-25T13:12:21.000Z
+No public source links.

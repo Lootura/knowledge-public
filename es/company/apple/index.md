@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone
+
+Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directamente dentro del simulador de Apple . Si tienes una Mac y una suscripción de pago de Claude, ya puedes p.
+
+Date: 2026-07-25
 
 ### ¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él
 
@@ -62,12 +68,6 @@ Samsung ha decidido seguir los pasos de Apple y desembarcar en el negocio de las
 
 Date: 2026-07-21
 
-### Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE
-
-Sabíamos que era cuestión de tiempo que el precio de los iPhone despegase como un cohete. Todo apuntaba a septiembre y el lanzamiento de los nuevos iPhone 18 como el momento clave para la subida, con el coste de la memoria RAM como el principal culpable de este hito. No ha sido necesario esperar varios meses: Apple aca.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [¿MacBook Neo 2? Te contamos TODO lo que sabemos sobre él](https://hipertextual.com/tecnologia/macbook-neo-2-te-contamos-todo-lo-que-sabemos-sobre-el/?utm_source=lootura.com) — 2026-07-25T10:00:00.000Z
+No public source links.

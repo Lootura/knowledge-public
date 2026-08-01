@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios",
+      "summary": "La decisión se adopta a petición del Mando Unificado de Extinción (MUE), que ha trasladado al presidente de Castilla-La Mancha, Emiliano García-Page, la solicitud de declaración de la situación operativa 3 para la provincia de Toledo. Se trata de \"reforzar la coordinación de todos los servicios y recursos implicados en.",
+      "date": "2026-07-25"
+    },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
@@ -58,32 +63,8 @@
       "title": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
       "summary": "El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectáreas han sido arrasadas por el mayor incendio de la historia de Castilla-La Mancha, que este miércoles por primer vez parece dar tregua tras más de seis días. Algunos pueblos han podido ser realojados, otros siguen confinados o desalojados. L.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
-      "summary": "Los equipos de extinción afrontan una nueva jornada de trabajo en varios incendios forestales que permanecen activos en diferentes comunidades autónomas. Castilla-La Mancha continúa concentrando buena parte del operativo nacional, mientras los servicios de emergencia mantienen desplegados numerosos medios terrestres y.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
-      "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:02:22.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
-      "url": "https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:18:46.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
-      "url": "https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T11:29:52.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

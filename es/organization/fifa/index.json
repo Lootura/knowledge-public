@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
       "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
@@ -50,6 +55,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Infantino retira su plan privatizador de la FIFA tras las «divisiones» generadas",
+      "url": "https://www.elcorreo.com/deportes/futbol/infantino-retira-plan-privatizador-fifa-tras-divisiones-20260801020039-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T00:00:40.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 2
 }

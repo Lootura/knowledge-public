@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -84,19 +84,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda",
-      "url": "https://www.cbsnews.com/video/maya-and-dean-jankelowitz-serve-up-comfort-food-to-new-yorkers-with-jacks-wife-freda/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:40:36.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Upper West Side double stabbing suspect facing hate crime charges",
-      "url": "https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing-hate-crime/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T03:34:20.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

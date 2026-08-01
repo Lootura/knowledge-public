@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz
+
+World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.
+
+Date: 2026-08-01
 
 ### Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham
 
@@ -62,12 +68,6 @@ The entrance of Darline Graham into the Republican scramble to select a new Sena
 
 Date: 2026-07-20
 
-### Trump Endorses Graham for Senate, Scrambling South Carolina Primary
-
-Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz](https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com) — 2026-08-01T09:15:00.000Z

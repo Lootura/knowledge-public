@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Abortion is on the ballot again in these two states: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-31
 
 ### Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms
 
@@ -62,12 +68,6 @@ Fmr. Gov. Mark Sanford (R-S.C.) joins Meet the Press NOW to react to the sudden 
 
 Date: 2026-07-13
 
-### After Weeks of Silence, McConnell Says He Is Recovering From a Fall
-
-The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [Abortion is on the ballot again in these two states: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278?utm_source=lootura.com) — 2026-07-31T21:00:00.000Z

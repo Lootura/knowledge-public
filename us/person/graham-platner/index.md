@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-07-25
 
 ### Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate
 
-Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Robert F. Bukaty).
+Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).
 
 Date: 2026-07-25
 
@@ -70,7 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Maine Democrats pick Troy Jackson to replace Platner on Senate ballot](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T15:42:27.000Z
-- [Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race](https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com) — 2026-07-25T15:44:09.000Z
-- [Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race](https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html?utm_source=lootura.com) — 2026-07-25T16:32:16.000Z
+No public source links.

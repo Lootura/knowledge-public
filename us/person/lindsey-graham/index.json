@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
+      "summary": "World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham",
       "summary": "A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.",
@@ -58,13 +63,15 @@
       "title": "'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat",
       "summary": "The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
-      "summary": "Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
+      "url": "https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:15:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

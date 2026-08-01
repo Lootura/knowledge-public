@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "A prisión un hombre por una agresión machista a su expareja en Benamocarra (Málaga)",
+      "summary": "Un hombre ha ingresado en prisión provisional por una agresión machista a su expareja en Benamocarra (Málaga), a la que hirió al golpearla con una piedra en la cabeza, según han confirmado fuentes de la investigación. La Guardia Civil detuvo al agresor, que ha ingresado en prisión con medidas de protección para la víct.",
+      "date": "2026-07-25"
+    },
     {
       "title": "El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen",
       "summary": "El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.",
@@ -55,11 +60,6 @@
       "title": "La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó",
       "summary": "La mujer de 30 años que ha sido hallada muerta este lunes con lesiones de arma blanca en una vivienda de Antequera (Málaga) fue presuntamente asesinada por su pareja, un hombre que se suicidó después de cometer el crimen , según fuentes de la investigación. El cuerpo de la mujer presenta heridas de arma blanca que apun.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias",
-      "summary": "Los incendios forestales que están atacando España han provocado el corte de hasta 14 carreteras secundarias de todo el país. Entre ellas se encuentran siete en Guadalajara , cinco en Zaragoza , una en la provincia de Madrid y otra en la de Málaga , según el último boletín difundido por la Dirección General de Tráfico.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [],

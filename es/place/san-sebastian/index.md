@@ -3,10 +3,22 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### 'Dulce locura' de La Oreja de Van Gogh en San Sebastián
+
+Convirtió Illunbe en la fiesta que prometía con sus fans y amigos más cercanos coreando cada canción.
+
+Date: 2026-07-31
+
+### Toda carrera necesita a su rey
+
+Evenepoel busca su cuarta txapela en la Clásica y superar a Marino Lejarreta para agrandar su leyenda en Donostia.
+
+Date: 2026-07-31
 
 ### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
 
@@ -56,20 +68,7 @@ La circulación de Cercanías permanece interrumpida desde primera hora de este 
 
 Date: 2026-07-23
 
-### Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»
-
-Se trata de la tumba donde reposan los restos de Sara y Matilde, fallecidas a mediados de la década de 1830 y sepultadas en la ladera del monte Urgull.
-
-Date: 2026-07-22
-
-### Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia
-
-El conflicto también afectará a las fiestas de Vitoria, el 5 de agosto, y a las de San Sebastián, el 14.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [En directo, la bandera Fabrika en San Sebastián](https://www.elcorreo.com/deportes/mas-deportes/directo-bandera-fabrika-san-sebastian-20260725181631-di_amp.html?utm_source=lootura.com) — 2026-07-25T16:16:32.000Z
-- [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
-- [Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40](https://www.diariovasco.com/gipuzkoa/fallece-joven-anos-donostia-tras-sufrir-accidente-20260725181053-nt_amp.html?utm_source=lootura.com) — 2026-07-25T16:11:15.000Z
+- ['Dulce locura' de La Oreja de Van Gogh en San Sebastián](https://www.elcorreo.com/culturas/musica/dulce-locura-oreja-van-gogh-san-sebastian-20260801013750-nt_amp.html?utm_source=lootura.com) — 2026-07-31T23:37:50.000Z
+- [Toda carrera necesita a su rey](https://www.diariovasco.com/clasica-san-sebastian/carrera-necesita-rey-20260801000946-nt_amp.html?utm_source=lootura.com) — 2026-07-31T22:09:46.000Z

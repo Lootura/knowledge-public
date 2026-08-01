@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
   "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "Ibai",
     "Ibai Llanos Garatea",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal",
-      "summary": "La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.",
+      "title": "Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales",
+      "summary": "Siga el minuto a minuto de la Velada del Año VI con sus ganadores y los conciertos.",
       "date": "2026-07-25"
     },
     {
-      "title": "Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales",
-      "summary": "Siga el minuto a minuto de la Velada del Año VI con sus ganadores y los conciertos.",
+      "title": "Marta Díaz deja atrás el «menú infantil» y sorprende con una espectacular transformación para La Velada del Año",
+      "summary": "La Velada del Año VI no solo pone a prueba los golpes sobre el ring; también el sacrificio que hay detrás de cada combate. Durante meses, los participantes han transformado por completo sus rutinas para llegar en las mejores condiciones posibles al evento organizado por Ibai Llanos. Algunos cambios físicos han sorprend.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal",
+      "summary": "La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.",
       "date": "2026-07-25"
     },
     {
@@ -59,26 +64,8 @@
       "title": "Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada",
       "summary": "La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres propios del evento organizado por Ibai Llanos es el de Angie Velasco . La creadora de contenido argentina será una de las protagonistas de la edición de 2026, en la que se subirá por primera vez al ring para enfrentarse a la influencer puerto.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Ibai Llanos first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [
-    {
-      "title": "Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales",
-      "url": "https://www.larazon.es/actualidad/velada-ano-ibai-llanos-directo-ultima-hora-combates-orden-peleas-actuaciones-musicales-b50m_202607256a64d028aa17c0020f2f9d6b.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:48:32.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal",
-      "url": "https://theobjective.com/cultura/2026-07-25/velada-del-ano-reune-20-creadores-ring-artistas-juanes-bad-gyal/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:26:35.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

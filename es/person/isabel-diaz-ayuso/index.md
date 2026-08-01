@@ -3,10 +3,22 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acudido a la localidad de Sotillo de la Adrada , en Ávila, para recoger pertenecias personales de su casa familiar. Según el diario El Mundo , que cita a fuentes del Gobierno autonómico, la presidenta, cuyo padre nació en Sotillo y donde pasa temporadas en.
+
+Date: 2026-07-25
+
+### Ayuso: "La situación cambia a gran velocidad, es un momento crítico"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha dicho este sábado que "la situación está cambiando a gran velocidad" y es "un momento muy crítico". En declaraciones a los medios en el puesto de mando avanzado de Cenicientos para coordinar la extinción del fuego , Ayuso ha explicado que el incendio se co.
+
+Date: 2026-07-25
 
 ### Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid
 
@@ -56,18 +68,6 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"
-
-El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los ".
-
-Date: 2026-07-24
-
-### Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»
-
-El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid](https://theobjective.com/espana/politica/2026-07-25/sanchez-ayuso-puesto-mando-incendios-madrid/?amp=&utm_source=lootura.com) — 2026-07-25T09:33:58.000Z
+No public source links.

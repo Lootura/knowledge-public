@@ -3,20 +3,20 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
 
-### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
-
-El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
-
-Date: 2026-07-25
-
 ### Feijóo pide ser "responsables" y combatir "juntos" los incendios
 
 Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar "juntos" para combatir los incendios, así de ser "responsables" y "refrescar el ambiente político". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.
+
+Date: 2026-07-25
+
+### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
+
+El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
 
 Date: 2026-07-25
 
@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Feijóo pide ser "responsables" y combatir "juntos" los incendios](https://www.larazon.es/espana/feijoo-pide-ser-responsables-combatir-juntos-incendios_202607256a64e4974687a22bdecd9957.html?utm_source=lootura.com) — 2026-07-25T16:30:15.000Z
-- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
+No public source links.

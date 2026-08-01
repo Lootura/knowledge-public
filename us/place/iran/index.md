@@ -3,80 +3,80 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### How Jordan became a target for Iran in war with U.S.
+### Iran's overlapping power centers make ending the war more complicated
 
-Since the Iran war began in February, Jordan has largely avoided the kind of onslaught Tehran has aimed at places like Kuwait, Bahrain and the United Arab Emirates. With recent attacks, and one that killed three U.S. soldiers, that's changed. CBS News senior national security correspondent Charlie D'Agata examines why.
+Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks
+### Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest
 
-The affordability crisis is revving up again. The war in Iran and Trump’s tariffs are pushing prices up and raising fears of renewed inflation.
+Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military. (Image credit: Ryan Murphy).
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Opposing Defense Bill, Democrats Shift Their Tactics
+### Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians
 
-Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Iran Journey Reveals Society’s Wartime Defiance and Hope
+### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
 
-From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.
+The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
+### In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear
 
-The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.
+With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed
+### U.S. probing if Iran was behind cyberattack on water systems in 7 states
 
-The U.S. deal with Iran signed in June initially appeared to be a success. It didn’t take long to fall apart.
+Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.
 
-Date: 2026-07-25
+Date: 2026-07-31
 
-### What’s Left of the U.S.-Iran Cease-Fire Agreement
+### Oil giants see profits surge as Iran war drives energy prices higher
 
-Nearly all of the agreement’s 14 points have been violated.
+America's biggest oil companies are reporting massive profits as the Iran war continues to disrupt global energy supplies. CBS News business contributor Javier David joins with analysis.
 
-Date: 2026-07-25
+Date: 2026-07-31
 
-### Opposing Defense Bill, Democrats Shift Their Tactics
+### How Iranians are living through months of war and government crackdowns
 
-Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.
 
-Date: 2026-07-25
+Date: 2026-07-31
 
-### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
+### Trump and Netanyahu May Be at Odds Again Over Gaza Plan
 
-Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
+President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.
 
-Date: 2026-07-25
+Date: 2026-07-31
 
-### Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses
+### Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation
 
-Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.
+President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.
 
-Date: 2026-07-24
+Date: 2026-07-31
 
 ## Sources
 
-- [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
-- [Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks](https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816?utm_source=lootura.com) — 2026-07-25T01:24:23.000Z
-- [Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia](https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia?utm_source=lootura.com) — 2026-07-25T11:43:45.000Z
-- [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T21:32:37.000Z
-- [Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran](https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html?utm_source=lootura.com) — 2026-07-24T21:41:12.000Z
-- [Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says](https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html?utm_source=lootura.com) — 2026-07-24T18:18:50.000Z
-- [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-25T01:29:29.000Z
-- [How a Summer of War With Iran Could Shape the Fall Elections](https://www.nytimes.com/2026/07/24/us/politics/republicans-trump-iran-war-midterms.html?utm_source=lootura.com) — 2026-07-24T21:21:53.000Z
-- [From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed](https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html?utm_source=lootura.com) — 2026-07-25T13:58:49.000Z
-- [Iran Journey Reveals Society’s Wartime Defiance and Hope](https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html?utm_source=lootura.com) — 2026-07-25T12:11:26.000Z
+- [U.S. probing if Iran was behind cyberattack on water systems in 7 states](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-07-31T23:52:33.000Z
+- [Oil giants see profits surge as Iran war drives energy prices higher](https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com) — 2026-07-31T23:50:01.000Z
+- [Iran's overlapping power centers make ending the war more complicated](https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html?utm_source=lootura.com) — 2026-08-01T06:52:42.000Z
+- [Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest](https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+- [How Iranians are living through months of war and government crackdowns](https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns?utm_source=lootura.com) — 2026-07-31T22:40:06.000Z
+- [Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com) — 2026-08-01T03:40:13.000Z
+- [Trump and Netanyahu May Be at Odds Again Over Gaza Plan](https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html?utm_source=lootura.com) — 2026-07-31T23:05:17.000Z
+- [Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation](https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html?utm_source=lootura.com) — 2026-07-31T19:48:38.000Z
+- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z
+- [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html?utm_source=lootura.com) — 2026-08-01T09:01:52.000Z

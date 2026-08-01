@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»
+
+«Me hice profesional gracias a esta estructura y regresar aquí en mi etapa de madurez es algo francamente significativo a nivel personal», reconoce el ciclista alavés.
+
+Date: 2026-08-01
 
 ### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
 
@@ -62,12 +68,6 @@ El Mediterráneo suele concentrar buena parte de las miradas cuando llega el ver
 
 Date: 2026-07-22
 
-### Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: "Es un viaje que se puede cerrar por todo lo alto"
-
-Vizcaya se ha consolidado en los últimos años como uno de los destinos más completos del norte de España. Costa, montaña, pueblos con historia, gastronomía y algunos de los paisajes más reconocibles del País Vasco convierten a este territorio en una opción cada vez más popular entre quienes buscan una escapada de vario.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»](https://www.diariovasco.com/deportes/ciclismo/euskaltel-euskadi-mikel-landa-dos-temporadas-20260801112256-nt_amp.html?utm_source=lootura.com) — 2026-08-01T09:24:20.000Z

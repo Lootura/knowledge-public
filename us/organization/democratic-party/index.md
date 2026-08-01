@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Why Mitch McConnell Isn’t Giving Up His Senate Seat
+
+Democrats are demanding that the Kentucky Republican resign. Others who were sidelined for far longer faced no such calls, but times are changing.
+
+Date: 2026-07-31
+
+### What Worries Democrats as the Midterms Heat Up
+
+There’s a lot going right for the Democrats. Here’s what could go wrong.
+
+Date: 2026-07-31
 
 ### Opposing Defense Bill, Democrats Shift Their Tactics
 
@@ -22,7 +34,7 @@ Date: 2026-07-25
 
 ### Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate
 
-Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Robert F. Bukaty).
+Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).
 
 Date: 2026-07-25
 
@@ -56,22 +68,8 @@ Crossing what was once seen as a political red line, Democrats voted against the
 
 Date: 2026-07-25
 
-### Democrats approve new primary election calendar, putting South Carolina first
-
-Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).
-
-Date: 2026-07-24
-
-### Opposing Defense Bill, Democrats Shift Their Tactics
-
-Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Maine Democrats pick Troy Jackson to replace Platner on Senate ballot](https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com) — 2026-07-25T15:42:27.000Z
-- [Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
-- [Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race](https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com) — 2026-07-25T15:44:09.000Z
-- [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-25T01:29:29.000Z
+- [WATCH: Democrats admit when they'd eliminate the filibuster as SAVE Act fight heats up](https://www.foxnews.com/politics/democrats-admit-when-theyd-eliminate-filibuster-save-act-fight-heats?utm_source=lootura.com) — 2026-08-01T08:00:00.000Z
+- [Why Mitch McConnell Isn’t Giving Up His Senate Seat](https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html?utm_source=lootura.com) — 2026-07-31T20:23:41.000Z
+- [What Worries Democrats as the Midterms Heat Up](https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html?utm_source=lootura.com) — 2026-07-31T22:02:21.000Z

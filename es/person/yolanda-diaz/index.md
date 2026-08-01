@@ -3,7 +3,7 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo](https://elpais.com/economia/2026-07-25/los-afectados-por-los-incendios-cuentan-con-cuatro-dias-de-permiso-retribuido-en-el-trabajo.html?utm_source=lootura.com) — 2026-07-25T13:45:15.000Z
+No public source links.

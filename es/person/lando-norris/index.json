@@ -1,0 +1,30 @@
+{
+  "id": "es-lando-norris",
+  "name": "Lando Norris",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/lando-norris",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/lando-norris",
+  "markdownUrl": "https://atlas.lootura.com/es/person/lando-norris/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/lando-norris/index.json",
+  "description": "Sigue la actividad de Lando Norris en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "aliases": [
+    "Lando",
+    "Norris"
+  ],
+  "changes": [
+    {
+      "title": "Norris planta cara con su pole y Alonso ya tiene coche para disfrutar",
+      "summary": "Estratosférica y sorprendente pole de Lando Norris , que superó por 12 milésimas a Lewis Hamilton, el auténtico protagonista del fin de semana y que después sería sancionado con tres posiciones por bloquear a Piastri. McLaren aguó la fiesta de Ferrari en Budapest, zona de difícil adelantamientos. Jarro de agua fría par.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Lando Norris first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

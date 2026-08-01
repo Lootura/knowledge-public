@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-25T16:54:19.750Z
+- [FIFA scraps controversial deal to sell stakes in World Cup to private investors](https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino?utm_source=lootura.com) — 2026-08-01T02:08:51.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
 
-### La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal
-
-La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.
-
-Date: 2026-07-25
-
 ### Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales
 
 Siga el minuto a minuto de la Velada del Año VI con sus ganadores y los conciertos.
+
+Date: 2026-07-25
+
+### Marta Díaz deja atrás el «menú infantil» y sorprende con una espectacular transformación para La Velada del Año
+
+La Velada del Año VI no solo pone a prueba los golpes sobre el ring; también el sacrificio que hay detrás de cada combate. Durante meses, los participantes han transformado por completo sus rutinas para llegar en las mejores condiciones posibles al evento organizado por Ibai Llanos. Algunos cambios físicos han sorprend.
+
+Date: 2026-07-25
+
+### La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal
+
+La Velada del Año VI de Ibai Llanos se celebra este sábado por segundo año consecutivo en el Estadio de La Cartuja de Sevilla, donde un total de 20.
 
 Date: 2026-07-25
 
@@ -62,13 +68,6 @@ La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres 
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-Ibai Llanos first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales](https://www.larazon.es/actualidad/velada-ano-ibai-llanos-directo-ultima-hora-combates-orden-peleas-actuaciones-musicales-b50m_202607256a64d028aa17c0020f2f9d6b.html?outputType=amp&utm_source=lootura.com) — 2026-07-25T16:48:32.000Z
-- [La Velada del Año VI reúne a 20 creadores sobre el ring y artistas como Juanes y Bad Gyal](https://theobjective.com/cultura/2026-07-25/velada-del-ano-reune-20-creadores-ring-artistas-juanes-bad-gyal/?amp=&utm_source=lootura.com) — 2026-07-25T09:26:35.000Z
+No public source links.

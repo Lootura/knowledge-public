@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas",
+      "summary": "La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido unos 150 objetivos militares de Estados Unidos en la región del golfo Pérsico durante las últimas dos semanas de repunte de hostilidades, entre ellos centros de mando, aviones y helicópteros de combate, sistemas de defensa antiaérea Patriot, r.",
+      "date": "2026-07-25"
+    },
     {
       "title": "EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes",
       "summary": "Las embajadas estadounidenses en Oriente Medio advierten a los ciudadanos estadounidenses en la región de que las opciones para salir podrían verse limitadas, mientras que la Guardia Revolucionaria de Irán aconseja a los residentes de países vecinos mantenerse alejados de las bases que albergan tropas estadounidenses E.",
@@ -62,13 +67,15 @@
       "title": "La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP",
       "summary": "La norma permite que los asalariados públicos compatibilicen la reducción de su jornada con el cobro de la pensión y mejoran el complemento de residencia de más de 11.000 empleados públicos en Baleares El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo \"insuficiente\"",
-      "summary": "El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El futuro de Ceuta y el modelo de Ormuz",
+      "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:28:16.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

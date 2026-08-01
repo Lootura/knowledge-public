@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z

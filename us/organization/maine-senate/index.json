@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [],
   "changes": [
     {
@@ -62,19 +62,6 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [
-    {
-      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T15:44:09.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:32:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

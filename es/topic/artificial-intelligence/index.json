@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -45,6 +45,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El futuro de Ceuta y el modelo de Ormuz",
+      "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:28:16.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

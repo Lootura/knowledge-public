@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios](https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html?utm_source=lootura.com) — 2026-07-25T15:28:34.000Z
+No public source links.

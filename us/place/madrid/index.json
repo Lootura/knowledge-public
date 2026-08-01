@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/madrid/index.json",
   "description": "Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes. About 70,000 people.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Madrid first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
     {
       "title": "More than 80,000 flee forest infernos in France and Spain",
       "summary": "Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.",
@@ -19,11 +29,6 @@
     {
       "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
       "summary": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Madrid first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
     }
   ],

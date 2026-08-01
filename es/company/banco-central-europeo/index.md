@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria](https://www.elconfidencial.com/espana/2026-07-25/nuevos-billetes-euro-bce-lanza-encuesta-elegir-disenos-ue-espana_4395910/?utm_source=lootura.com) — 2026-07-25T11:07:00.000Z
+No public source links.

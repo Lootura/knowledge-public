@@ -1,0 +1,75 @@
+{
+  "id": "es-fernando-grande",
+  "name": "Fernando Grande",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/fernando-grande",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/fernando-grande",
+  "markdownUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.json",
+  "description": "Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Fernando Grande-Marlaska, ofrece una rueda de prensa sobre la situación de los inmigrantes en Ceuta, en directo",
+      "summary": "Siga las imágenes en directo.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el \"egoísmo\" de los países de la UE",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, destaca la \"impactante\" actuación del Gobierno ante la crisis en Ceuta.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Última hora de los incendios forestales, en directo | El Gobierno amplía la emergencia nacional por los incendios a Toledo",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha reconocido desde Navaluenga (Ávila) que este sábado “no ha sido un día positivo” en la lucha contra el fuego debido a las difíciles condiciones meteorológicas, aunque ha subrayado que los incendios “no han ido a más” gracias al trabajo de la UME, los bomberos, las.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Marlaska señala que la noche \"no va a ser sencilla\" y reconoce que \"no ha sido un día positivo\" en la lucha contra el fuego",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha admitido este sábado que hoy «no ha sido un día positivo» para la evolución de los incendios en Ávila y Madrid, con unas condiciones meteorológicas que han sido «absolutamente difíciles». «Estamos un poco más pesimistas de lo que estábamos ayer», ha lamentado el mi.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
+      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Fernando Grande first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Las impactantes imágenes de las llamas que ponen en jaque a Madrid y a Ávila",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha declarado la emergencia de interés nacional en la Comunidad de Madrid y Ávila ante la evolución de los incendios forestales de Villa del Prado, San Martín de Valdeiglesias y Burgohondo. La decisión llega después de que la Comunidad de Madrid solicitara la activaci.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Última hora sobre los incendios: Marlaska advierte de “un día crítico” para evitar que los tres incendios de Madrid y Ávila confluyan",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha advertido de que este viernes será “un día crítico” debido a la evolución de los tres incendios que asolan la Comunidad de Madrid y Ávila y por los que se ha declarado la emergencia nacional. El ministro, que dirige el operativo, ha calificado de objetivo “priorita.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes",
+      "summary": "El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fernando Grande-Marlaska, ofrece una rueda de prensa sobre la situación de los inmigrantes en Ceuta, en directo",
+      "url": "https://www.eldebate.com/espana/20260801/fernando-grandemarlaska-ofrece-rueda-prensa-sobre-situacion-inmigrantes-ceuta-directo_445904.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:12:13.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el \"egoísmo\" de los países de la UE",
+      "url": "https://okdiario.com/espana/marlaska-rinde-pleitesia-marruecos-invasion-ceuta-carga-contra-egoismo-paises-ue-19110566/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:42:59.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

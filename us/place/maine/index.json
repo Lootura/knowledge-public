@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -19,7 +19,7 @@
   "changes": [
     {
       "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
-      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the new Democratic nominee, has a lot of catching up to do.",
+      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
       "date": "2026-07-25"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-      "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Robert F. Bukaty).",
+      "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).",
       "date": "2026-07-25"
     },
     {
@@ -68,37 +68,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
-      "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T15:42:27.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T15:44:09.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T16:32:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T15:57:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 5
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-08-01T09:56:32.156Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says",
+      "summary": "The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.",
+      "date": "2026-08-01"
+    },
     {
       "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
       "summary": "New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.",
@@ -61,11 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Opinion: New Jersey pizza, the fuel of world champions",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says",
+      "url": "https://www.cbsnews.com/newyork/news/passaic-river-missing-girl-body-found/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:45:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

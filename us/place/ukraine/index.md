@@ -3,10 +3,46 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian strikes on Kyiv kill 9, injure at least 15, officials say
+
+Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.
+
+Date: 2026-08-01
+
+### Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles
+
+The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.
+
+Date: 2026-08-01
+
+### How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer
+
+Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.
+
+Date: 2026-08-01
+
+### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
+
+The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.
+
+Date: 2026-08-01
+
+### Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge
+
+It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.
+
+Date: 2026-08-01
+
+### News Wrap: Death toll from Japan earthquake rises to 34
+
+In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to let Ukraine build Patriot missiles to a.
+
+Date: 2026-07-31
 
 ### Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers
 
@@ -32,43 +68,11 @@ Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian 
 
 Date: 2026-07-24
 
-### Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war
-
-Laura Loomer, an ardent ally of President Donald Trump with a reputation for incendiary social media commentary, sat down with Ukrainian President Volodymyr Zelenskyy on Thursday after a dramatic turnaround on the war that could have political reverberations back in Washington.
-
-Date: 2026-07-24
-
-### Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead
-
-Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work "if conditions and factors have changed to make that possible." (Image credit: BRENDAN SMIALOWSKI).
-
-Date: 2026-07-24
-
-### Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them
-
-President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.
-
-Date: 2026-07-23
-
-### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
-
-Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.
-
-Date: 2026-07-23
-
-### Ukraine targets Russian online retailer Wildberries
-
-Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.
-
-Date: 2026-07-22
-
-### Firing of Ukraine’s Top General Signals the End of an Era
-
-Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Trump conditions a landmark nuclear agreement, and a unique critter goes viral: The news quiz](https://www.nbcnews.com/news/news-quiz/trump-conditions-landmark-nuclear-agreement-unique-critter-goes-viral-rcna588957?utm_source=lootura.com) — 2026-07-25T09:15:00.000Z
-- [Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers](https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers?utm_source=lootura.com) — 2026-07-25T11:43:48.000Z
+- [Russian strikes on Kyiv kill 9, injure at least 15, officials say](https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com) — 2026-08-01T04:45:41.000Z
+- [News Wrap: Death toll from Japan earthquake rises to 34](https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com) — 2026-07-31T22:45:12.000Z
+- [Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles](https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html?utm_source=lootura.com) — 2026-08-01T05:49:43.000Z
+- [How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer](https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com) — 2026-08-01T09:02:02.000Z
+- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z
+- [Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge](https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com) — 2026-08-01T07:14:41.000Z

@@ -1,0 +1,49 @@
+{
+  "id": "es-van-gogh",
+  "name": "Vincent van Gogh",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/van-gogh",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/van-gogh",
+  "markdownUrl": "https://atlas.lootura.com/es/person/van-gogh/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/van-gogh/index.json",
+  "description": "Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "aliases": [
+    "Van Gogh",
+    "van Gogh",
+    "Vincent Willem van Gogh"
+  ],
+  "changes": [
+    {
+      "title": "'Dulce locura' de La Oreja de Van Gogh en San Sebastián",
+      "summary": "Convirtió Illunbe en la fiesta que prometía con sus fans y amigos más cercanos coreando cada canción.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "La canción sorpresa de la noche: Amaia Montero se atreve con 'Ilargia'",
+      "summary": "Con un Illunbe entregado, la Oreja de Van Gogh hizo un repaso de sus mejores éxitos… incluido uno de los temas más icónicos de Ken Zazpi.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Van Gogh first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "'Dulce locura' de La Oreja de Van Gogh en San Sebastián",
+      "url": "https://www.elcorreo.com/culturas/musica/dulce-locura-oreja-van-gogh-san-sebastian-20260801013750-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T23:37:50.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "La canción sorpresa de la noche: Amaia Montero se atreve con 'Ilargia'",
+      "url": "https://www.diariovasco.com/culturas/musica/cancion-sorpresa-noche-amaia-montero-atreve-ilargia-20260731235348-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T21:54:05.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 2
+}

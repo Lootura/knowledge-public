@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta",
+      "summary": "El número de cadáveres recuperados en la costa de Ceuta tras la entrada masiva de 50.000 personas desde Marruecos en los últimos días ya asciende a 67 , según los datos facilitados por fuentes de la Delegación del Gobierno en la ciudad autónoma.Mientras tanto, la Guardia Civil mantiene un rastreo constante para localiz.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "España, en estado de sitio",
+      "summary": "Más de 50.000 personas entraron en Ceuta el jueves. No por la valla, en su mayoría, sino a nado, bordeando el espigón del Tarajal en oleadas sucesivas que desbordaron a una Guardia Civil que llevaba meses advirtiendo de que el dispositivo era insuficiente . El Ejército terminó desplegado. La Legión, activada. El presid.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
       "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
@@ -50,18 +60,21 @@
       "title": "Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)",
       "summary": "Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hombre de 48 años, que ha sido detenido por la Guardia Civil en la localidad toledana de Alameda de la Sagra. El servicio de emergencias 112 de Castilla-La Mancha ha informado a EFE de que la agresión se ha producido a las 5:16 horas en una vi.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Manifestarse contra el turismo",
-      "summary": "Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El fuego pasa del monte al pueblo: «Los incendios ya no son forestales, son territoriales»",
-      "summary": "Eugenio se quedó en su cortijo a luchar contra el fuego en Bédar (Almería); Miguel solo se fue de su propiedad cuando el humo se hizo irrespirable en Santa Baia de Montes (Orense) y José Luis no dudó en dejar su vivienda en Mahíde (Zamora) al aviso nocturno de la Guardia Civil, aún con las piernas temblando y un color.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta",
+      "url": "https://www.elconfidencial.com/espana/2026-08-01/67-muertos-ceuta-marruecos-frontera-inmigracion_4399459/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:32:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "España, en estado de sitio",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-01/espana-estado-sitio-articulo-juan-angel-soto/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

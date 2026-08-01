@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Seis valores del Ibex desafían la incertidumbre y rozan máximos",
+      "summary": "El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resistir en un mes que ha puesto a prueba la confianza de los inversores. El recrudecimiento de las tensiones en Oriente Próximo, la perspectiva de unos tipos de interés elevados durante más tiempo y las crecientes dudas sobre el sector tecnológ.",
+      "date": "2026-08-01"
+    },
     {
       "title": "¿Quién teme el crudo a 100 dólares?",
       "summary": "El precio del Brent , la referencia más utilizada en los mercados globales, ha escalado esta semana de nuevo a los 100 dólares por barril . Su vuelta a los niveles más altos desde principios de junio se produce en plena escalada del conflicto de Oriente Próximo. Seguir leyendo.",
@@ -60,13 +65,15 @@
       "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
       "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
-      "summary": "Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Seis valores del Ibex desafían la incertidumbre y rozan máximos",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-01/cinco-valores-del-ibex-desafian-la-incertidumbre-y-rozan-maximos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

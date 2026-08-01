@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.
+
+Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
+
+Date: 2026-08-01
 
 ### Trump’s Global Tariffs: What’s the Latest on the Trade War
 
@@ -62,12 +68,6 @@ Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nati
 
 Date: 2026-07-14
 
-### Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’
-
-In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html?utm_source=lootura.com) — 2026-08-01T09:00:56.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
+
+La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.
+
+Date: 2026-08-01
 
 ### Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca
 
@@ -62,13 +68,6 @@ El presidente de EE UU amenaza con nuevos aranceles «lo antes posible», tras l
 
 Date: 2026-07-24
 
-### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
-
-Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Trump advierte a la UE de que «pagará un precio muy alto» por multar a Goggle](https://www.elcorreo.com/economia/trump-advierte-ue-pagara-precio-alto-multar-20260725005908-nt_amp.html?utm_source=lootura.com) — 2026-07-24T22:59:09.000Z
-- [Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca](https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com) — 2026-07-25T06:29:14.000Z
+- [Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país](https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z

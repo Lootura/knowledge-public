@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
 
 El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
+
+Date: 2026-07-25
+
+### El Barcelona no puede retener a sus estrellas: la salida de Alexia, Salma, Mapi y Ona desmantelan la sección
+
+El Barcelona no escapa al éxodo de calidad que vive el fútbol femenino español. España vive su mejor momento en cuanto a calidad y potencial de sus futbolistas, como demuestra que sean campeonas del mundo en categoría absoluta y sub-19. Sin embargo, las jugadoras apenas tienen posibilidad de crecer en los clubes de nue.
 
 Date: 2026-07-25
 
@@ -62,14 +68,6 @@ Después de que se vandalizara el mural de Ferran Torres con la Selección Espa�
 
 Date: 2026-07-24
 
-### El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años
-
-Jordi Hurtado es uno de los rostros más reconocibles y longevos de la televisión española , conocido por presentar «Saber y ganar» en La2. El popular comunicador ha elegido como lugar de residencia Molins de Rei , un municipio del Bajo Llobregat donde vive desde hace más de 20 años rodeado de naturaleza y tranquilidad.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas](https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html?utm_source=lootura.com) — 2026-07-25T16:02:12.000Z
-- [Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián](https://www.diariovasco.com/san-sebastian/herido-motorista-chocar-coche-ertzaintza-donostia-20260725103034-nt_amp.html?utm_source=lootura.com) — 2026-07-25T08:33:05.000Z
-- [Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas](https://okdiario.com/historia/hallazgo-historico-obras-mercado-barcelona-sacan-luz-refugio-antiaereo-guerra-civil-capacidad-240-personas-19055911?utm_source=lootura.com) — 2026-07-25T13:00:12.000Z
+No public source links.

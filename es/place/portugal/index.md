@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios](https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html?utm_source=lootura.com) — 2026-07-25T15:28:34.000Z
+- [Portugal refuerza el control de la frontera marítima en el sur tras la crisis en Ceuta](https://www.larazon.es/internacional/portugal-refuerza-control-frontera-maritima-sur-crisis-ceuta_202608016a6dc01d71b42a0b5dd3377a.html?utm_source=lootura.com) — 2026-08-01T09:45:01.000Z

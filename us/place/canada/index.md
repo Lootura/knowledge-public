@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Beluga whales transferred to U.S. aquariums after Canadian theme park closes](https://www.cbsnews.com/video/beluga-whales-transferred-to-us-aquariums-after-canadian-theme-park-closes/?utm_source=lootura.com) — 2026-07-25T16:13:20.000Z
+No public source links.

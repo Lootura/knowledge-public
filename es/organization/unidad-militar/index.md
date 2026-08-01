@@ -3,10 +3,22 @@
 > Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-militar
 
 ## Cambios recientes
+
+### Marlaska recurre a la UME para la dirección de la emergencia nacional con Defensa al margen del Cecopi
+
+El Ministerio de Defensa ha vuelto a quedar fuera del Centro de Coordinación Operativa Integrado (CECOPI) de los incendios en Madrid y Ávila, aunque la dirección técnica de la emergencia ha recaído en la Unidad Militar de Emergencias (UME) bajo las órdenes de Interior. Es la segunda vez este año que Defensa queda fuera.
+
+Date: 2026-07-25
+
+### Desalojan 16 municipios de Castellón debido al incendio de la Vall d'Uixó, que está "fuera de capacidad de extinción"
+
+Un total de 65 efectivos de la Unidad Militar de Emergencias se une a los 10 medios aéreos y numerosos medios terrestres desplegados Una decena de medios aéreos y numerosos terrestres trabajan en un incendio en La Vall d'Uxiò Los municipios de La Vilavella, Artana, Eslida, Artesa, Alfondeguilla, Tales, Aín, Alcúdia de.
+
+Date: 2026-07-25
 
 ### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
 
@@ -53,12 +65,6 @@ Date: 2026-07-16
 ### Otro fuego en Lozoyuela obliga a desalojos y al corte de vías: hay un detenido
 
 Un incendio en el municipio de Lozoyuela obliga a activar la Situación Operativa 2 del Plan de Protección Civil y desplegar a la Unidad Militar de Emergencia (UME). La Guardia Civil ha detenido a una persona como principal sospechoso del incendio. La situación en la sierra de Madrid ha provocado el desalojo de vivienda.
-
-Date: 2026-07-16
-
-### Un incendio en La Mierla y otro en Lozoyuela, ambos de nivel dos, obligan a desalojar a los vecinos
-
-El incendio forestal declarado este jueves en La Mierla (Guadalajara) avanza a 30 metros por minuto y se encuentra en nivel 2, por lo que ya se ha activado a la Unidad Militar de Emergencias (UME). El Gobierno de Castilla-La Mancha ha enviado un mensaje ES-alert a la población para pedir el desalojado del municipio de.
 
 Date: 2026-07-16
 

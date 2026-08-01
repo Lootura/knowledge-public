@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -71,13 +71,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
-      "url": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T06:29:14.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

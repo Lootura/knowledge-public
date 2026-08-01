@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-07-25T20:49:12.134Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -20,6 +20,11 @@
     {
       "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
       "summary": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
       "date": "2026-07-25"
     },
     {
@@ -61,20 +66,8 @@
       "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
       "summary": "There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
-      "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
-      "url": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T09:02:10.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

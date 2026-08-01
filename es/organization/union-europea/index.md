@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos
+
+El presidente de España, Pedro Sánchez, ha enviado una carta a la Unión Europea para solicitar una videoconferencia extraordinaria de los ministros del Interior europeos “con carácter de urgencia” a raíz de la crisis migratoria de esta semana en Ceuta. Seguir leyendo...
+
+Date: 2026-08-01
+
+### El precio de la vivienda sigue disparado en España mientras se modera en Europa
+
+El mercado inmobiliario español sigue marcando la diferencia respecto al europeo. España se mantuvo en el primer trimestre de 2026 entre los países de la Unión Europea con...
+
+Date: 2026-07-25
 
 ### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
 
@@ -58,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos](https://www.lavanguardia.com/politica/20260801/11605805/sanchez-pide-reunion-europea-urgente-crisis-ceuta-carga-reaccion-gobiernos.html?utm_source=lootura.com) — 2026-08-01T09:04:24.000Z

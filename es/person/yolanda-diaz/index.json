@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-07-25T20:48:53.384Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -68,13 +68,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo",
-      "url": "https://elpais.com/economia/2026-07-25/los-afectados-por-los-incendios-cuentan-con-cuatro-dias-de-permiso-retribuido-en-el-trabajo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-25T13:45:15.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

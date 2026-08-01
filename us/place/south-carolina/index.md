@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
+No public source links.

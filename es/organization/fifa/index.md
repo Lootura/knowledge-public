@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-08-01T09:56:12.868Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.
+
+Date: 2026-08-01
 
 ### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
 
@@ -46,4 +52,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Infantino retira su plan privatizador de la FIFA tras las «divisiones» generadas](https://www.elcorreo.com/deportes/futbol/infantino-retira-plan-privatizador-fifa-tras-divisiones-20260801020039-nt_amp.html?utm_source=lootura.com) — 2026-08-01T00:00:40.000Z

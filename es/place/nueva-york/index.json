@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’",
+      "summary": "Spider-Man: Brand New Day , la nueva entrega de la saga del vecino amistoso de Nueva York, no solo es una gran película del querido héroe . También, es una de las mejores cintas de superhéroes de los últimos años. Y el motivo es evidente. La cinta, dirigida por Destin Daniel Cretton y con un guion escrito por Chris McK.",
+      "date": "2026-08-01"
+    },
     {
       "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
       "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
@@ -85,13 +90,15 @@
       "title": "El hincha español más veterano en Nueva York: «Si pudiera, iba al estadio»",
       "summary": "No hay español que haya vivido más que Rogelio Álvarez en Nueva York. Que haya vivido más fútbol o cualquier otra cosa. Este gallego llegó en 1956 en un barco, como tantos otros, de todo el mundo, para buscar una vida mejor, su sueño americano.Siete décadas después, Rogelio se sentará en el sofá de su apartamento para.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "De Sudáfrica a Nueva York: el hilo rojo de la eternidad",
-      "summary": "El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender un puente de dieciséis años entre dos puntos cardinales de la historia del deporte español. De Johannesburgo, la ciudad más grande de Sudáfrica, al MetLife Stadium de Nueva York, España vuelve a paralizarse ante la pantalla . Este domingo, la.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’",
+      "url": "https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-del-universo-cinematografico-de-marvel-para-disfrutar-mejor-spider-man-brand-new-day/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T08:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

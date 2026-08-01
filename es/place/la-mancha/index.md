@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-07-25T20:48:53.384Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios
+
+La decisión se adopta a petición del Mando Unificado de Extinción (MUE), que ha trasladado al presidente de Castilla-La Mancha, Emiliano García-Page, la solicitud de declaración de la situación operativa 3 para la provincia de Toledo. Se trata de "reforzar la coordinación de todos los servicios y recursos implicados en.
+
+Date: 2026-07-25
 
 ### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
 
@@ -62,14 +68,6 @@ El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectá
 
 Date: 2026-07-23
 
-### Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas
-
-Los equipos de extinción afrontan una nueva jornada de trabajo en varios incendios forestales que permanecen activos en diferentes comunidades autónomas. Castilla-La Mancha continúa concentrando buena parte del operativo nacional, mientras los servicios de emergencia mantienen desplegados numerosos medios terrestres y.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-25T13:02:22.000Z
-- [Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"](https://okdiario.com/espana/feijoo-pide-administraciones-que-trabajen-juntas-frente-fuego-sugiere-refrescar-ambiente-politico-19067469/amp?utm_source=lootura.com) — 2026-07-25T13:18:46.000Z
-- [El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios](https://theobjective.com/espana/politica/2026-07-25/pp-coordinacion-instituciones-confrontacion-incendios/?utm_source=lootura.com) — 2026-07-25T11:29:52.000Z
+No public source links.

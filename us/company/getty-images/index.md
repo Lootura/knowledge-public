@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-07-25T20:49:12.134Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Opinion: New Jersey pizza, the fuel of world champions](https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions?utm_source=lootura.com) — 2026-07-25T12:00:00.000Z
-- [Democrats approve new primary election calendar, putting South Carolina first](https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028?utm_source=lootura.com) — 2026-07-24T21:50:41.000Z
-- [What Octogenarian Pop Divas Show Us About a Life Well-Lived](https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/?utm_source=lootura.com) — 2026-07-25T11:00:04.000Z
+No public source links.

@@ -3,80 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-01T09:56:32.156Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### The Uplift: The American Dream
+### Iran's overlapping power centers make ending the war more complicated
 
-We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
+Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
 
-Date: 2026-07-27
+Date: 2026-08-01
 
-### How Jordan became a target for Iran in war with U.S.
+### The Post-Roe Surprise: More Abortions
 
-Since the Iran war began in February, Jordan has largely avoided the kind of onslaught Tehran has aimed at places like Kuwait, Bahrain and the United Arab Emirates. With recent attacks, and one that killed three U.S. soldiers, that's changed. CBS News senior national security correspondent Charlie D'Agata examines why.
+Access to medication abortion in the years since Covid and the fall of Roe v. Wade has completely reshaped the abortion access landscape in America. “There’s this irony that’s actually happened,” says Dr. Angel Foster, an abortion provider and researcher. “Tragically, 33 to 40 percent of women of reproductive age now h.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### How does Make America Healthy Again hold up against scientific scrutiny?
+### Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified
 
-Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.
+In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is. (Image credit: Hope McKenney).
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Trump is hellbent on tariffs. Here are 5 implications
+### U.S. will make visa bond program permanent, affecting mostly African countries
 
-Trump's determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies. (Image credit: Tasos Katopodis).
+A draft notice published Friday in the Federal Register says a nearly year-long review "provided sufficient data" to suggest the bond program effectively enforces compliance with visa conditions, and would be made permanent.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates
+### Arizona, California and Nevada would share cuts under federal proposal for Colorado River
 
-Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.
+The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities
+### Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians
 
-While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.
+The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections
+### Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts
 
-Mullin's comments about foreign adversaries accessing voting machines reflect concerns that security and election technology experts have long had. But so far, there's no proof of such attempts.
+The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Understanding The Fraught Politics Of Powering AI
+### In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear
 
-U.S. President Donald Trump speaks during an event about the Ratepayer Protection Pledge at the Environmental Protection Agency in Washington D.C. on July 23 —Photo by Saul Loeb / AFP via Getty Images Sitting at the Environmental Protection Agency with a mix of CEOs and cabinet officials, President Trump announced this.
+With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### Beluga whales transferred to U.S. aquariums after Canadian theme park closes
+### The U.S. Deported Him to Jail in Russia. Then He Escaped.
 
-Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.
+Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.
 
-Date: 2026-07-25
+Date: 2026-08-01
 
-### How California Pizza Kitchen co-founder Rick Rosenfield built a pizza empire
+### U.S. probing if Iran was behind cyberattack on water systems in 7 states
 
-California Pizza Kitchen co-founder o joins "CBS Saturday Morning" to discuss the history of the franchise and his new memoir; "The California Pizza Kitchen Story: How Two Federal Prosecutors Changed the Way America Eats Pizza.".
+Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.
 
-Date: 2026-07-25
+Date: 2026-07-31
 
 ## Sources
 
-- [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
-- [Beluga whales transferred to U.S. aquariums after Canadian theme park closes](https://www.cbsnews.com/video/beluga-whales-transferred-to-us-aquariums-after-canadian-theme-park-closes/?utm_source=lootura.com) — 2026-07-25T16:13:20.000Z
-- [How California Pizza Kitchen co-founder Rick Rosenfield built a pizza empire](https://www.cbsnews.com/video/how-california-pizza-kitchen-co-founder-rick-rosenfield-built-a-pizza-empire/?utm_source=lootura.com) — 2026-07-25T16:31:00.000Z
-- [How Jordan became a target for Iran in war with U.S.](https://www.cbsnews.com/video/how-jordan-became-target-iran-war-us/?utm_source=lootura.com) — 2026-07-25T00:08:19.000Z
-- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-25T16:54:19.751Z
-- [Paramount says it will pause its Warner acquisition while legal challenges play out](https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits?utm_source=lootura.com) — 2026-07-24T22:26:21.000Z
-- [Trump is hellbent on tariffs. Here are 5 implications](https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z
-- [Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate](https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race?utm_source=lootura.com) — 2026-07-25T09:00:00.000Z
-- [Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections](https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections?utm_source=lootura.com) — 2026-07-25T12:00:26.000Z
+- [U.S. probing if Iran was behind cyberattack on water systems in 7 states](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-07-31T23:52:33.000Z
+- [Oil giants see profits surge as Iran war drives energy prices higher](https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com) — 2026-07-31T23:50:01.000Z
+- [Iran's overlapping power centers make ending the war more complicated](https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html?utm_source=lootura.com) — 2026-08-01T06:52:42.000Z
+- [The Post-Roe Surprise: More Abortions](https://www.motherjones.com/politics/2026/08/medication-abortion-access-increasing-roe-v-wade-angel-foster/?utm_source=lootura.com) — 2026-08-01T07:01:00.000Z
+- [Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified](https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+- [U.S. will make visa bond program permanent, affecting mostly African countries](https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries?utm_source=lootura.com) — 2026-08-01T00:38:11.000Z
+- [News Wrap: Death toll from Japan earthquake rises to 34](https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com) — 2026-07-31T22:45:12.000Z
+- [Arizona, California and Nevada would share cuts under federal proposal for Colorado River](https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com) — 2026-08-01T00:21:26.000Z
+- [Fish pathogens once limited to Asia and US emerge in Brazilian farms](https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html?utm_source=lootura.com) — 2026-07-31T22:20:01.000Z
+- [Will the US midterm elections be free and fair? – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/jul/31/us-midterm-elections-voting-rights-stateside-podcast?utm_source=lootura.com) — 2026-07-31T20:45:33.000Z

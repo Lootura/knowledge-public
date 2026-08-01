@@ -1,0 +1,40 @@
+{
+  "id": "es-uefa",
+  "name": "Unión de Federaciones Europeas de Fútbol",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/uefa",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/uefa",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
+  "description": "Sigue la actividad de Unión de Federaciones Europeas de Fútbol en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "aliases": [
+    "Unión de Federaciones Europeas de Fútbol",
+    "Union des Associations Européennes de Football",
+    "Vereinigung Europäischer Fußballverbände",
+    "Union des Associations Europeennes de Football",
+    "Union Europea de Asociaciones de Futbol"
+  ],
+  "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "UEFA first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Infantino retira su plan privatizador de la FIFA tras las «divisiones» generadas",
+      "url": "https://www.elcorreo.com/deportes/futbol/infantino-retira-plan-privatizador-fifa-tras-divisiones-20260801020039-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T00:00:40.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 2
+}
