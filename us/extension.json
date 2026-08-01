@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T13:25:47.966Z",
+  "generatedAt": "2026-08-01T14:53:21.501Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|40|1785590087199",
+    "signature": "1.18.0|41|1785590087199",
     "version": "1.18.0",
-    "build": 40,
+    "build": 41,
     "latestEntityUpdatedAt": "2026-08-01T13:14:47.199Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
       "updatedAt": "2026-08-01T13:14:47.199Z",
-      "score": 1642,
+      "score": 1634,
       "sourceCount": 473,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1642,
+        "score": 1634,
         "sourceCount": 488,
         "isBreaking": false,
         "isPinned": false
@@ -48,21 +48,8 @@
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
         "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1628,
+        "score": 1620,
         "sourceCount": 264,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-espana",
-        "name": "Spain",
-        "type": "place",
-        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1627,
-        "sourceCount": 17,
         "isBreaking": false,
         "isPinned": false
       },
@@ -74,8 +61,21 @@
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
         "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1627,
+        "score": 1619,
         "sourceCount": 78,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-espana",
+        "name": "Spain",
+        "type": "place",
+        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+        "url": "https://atlas.lootura.com/us/place/espana",
+        "path": "/us/place/espana",
+        "updatedAt": "2026-08-01T13:14:47.199Z",
+        "score": 1618,
+        "sourceCount": 17,
         "isBreaking": false,
         "isPinned": false
       }

@@ -22,7 +22,7 @@ Date: 2026-08-01
 
 ### Discovered by Atlas
 
-Antonio Costa first entered the public knowledge record with source-backed evidence.
+António Costa first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-01
 
