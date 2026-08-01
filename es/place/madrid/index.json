@@ -8,17 +8,37 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [],
   "changes": [
     {
-      "title": "La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España",
-      "summary": "Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.",
+      "title": "El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho",
+      "summary": "El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.",
       "date": "2026-08-01"
     },
     {
-      "title": "El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho",
-      "summary": "El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.",
+      "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
+      "summary": "El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado de urgencia por un incendio que se ha originado en la gran superficie. Varias dotaciones de bomberos están ya desplegados en la zona para tratar de atajar las llamas, que han dejado una gran columna de humo negro visible p.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
+      "summary": "Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza",
+      "summary": "Agentes de la Policía Municipal de Madrid han incautado un total de 111 paquetes de cocaína de aproximadamente 1 kilo cada uno, ocultos en diferentes maletas y bolsas de deporte encontradas en el rellano de la primera planta de un aparcamiento del distrito de Hortaleza . Según han informado fuentes policiales a Europa.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
+      "summary": "Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España",
+      "summary": "Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.",
       "date": "2026-08-01"
     },
     {
@@ -40,33 +60,25 @@
       "title": "El podcast de ‘El Liberal’ con Alberto Nadal",
       "summary": "Alberto Nadal (Madrid, 1970) es técnico comercial y economista del Estado y una figura relativamente nueva de nuestro bestiario político. No es que no haya hecho política, todo lo contrario. Probablemente es lo que más ha hecho, pero siempre desde un discreto segundo plano. Fue secretario general de Comercio con José M.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»",
-      "summary": "Más de 24.000 evacuados en la Comunidad de Madrid.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Madrid se defiende de un fuego \"insólito\" con el mayor operativo de Emergencias desde el Covid: \"Un incendio ha llamado a otro\"",
-      "summary": "Leer.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Sanidad alerta sobre la calidad del aire en Madrid por los incendios: recomendaciones y cómo protegerse del humo",
-      "summary": "El Ministerio de Sanidad ha aconsejado no permanecer al aire libre en la Comunidad de Madrid debido a los elevados niveles de partículas contaminantes, provocados por el humo derivado de los incendios forestales de Ávila y Madrid. Con esta situación, la calidad del aire ha empeorado y, a esto se une la intrusión de pol.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Efectos secundarios de los incendios: el humo que viaja cientos de kilómetros también perjudica a los pulmones y el corazón",
-      "summary": "Las autoridades recomiendan en la Comunidad de Madrid no salir de casa en la medida de lo posible y, en caso de hacerlo, llevar mascarillas FFP2 o N95 Leer.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/madrid-siglo-de-oro-exposicion-1qrt_4399141/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:45:00.000Z",
+      "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
+      "url": "https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:40:54.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
+      "url": "https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T15:20:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T15:25:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
@@ -74,7 +86,13 @@
       "url": "https://www.larazon.es/deportes/laotraliga/sevilla-ficha-real-madrid-uno-descartes-mourinho_202608016a6dec1ba046ad6ebc95246c.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T12:52:43.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
+      "url": "https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:49:37.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-01T16:56:58.471Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -56,27 +56,27 @@ Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney 
 
 Date: 2026-08-01
 
-### The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash
+### Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge
 
-American democrats need a Hungarian-style landslide to overwhelm Trump’s attempts to rig November’s midterm elections In these days of extreme weather events, it seems odd to say that the US needs a big landslide. But a landslide defeat for President Donald Trump in November’s midterm elections is exactly what is requi.
+Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.
 
 Date: 2026-08-01
 
-### Cori Bush Has No Regrets
+### Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation
 
-The internet had a field day last summer when a picture surfaced of Sen. Josh Hawley, R-Mo., with his arm around a former Democratic member of Congress. Hawley was at an event in St. Louis, Missouri, celebrating the inclusion of expanded funds for victims of nuclear radiation in President Donald Trump’s signature econo.
+The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”.
 
 Date: 2026-08-01
 
 ## Sources
 
 - [Trump poses ultimatum on Blanche, will push for "anti-weaponization fund" if AG not confirmed](https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com) — 2026-08-01T13:06:07.000Z
-- [Charges dropped against former Olympian over reflecting pool damage](https://www.nbcnews.com/nightly-news/video/charges-dropped-against-former-olympian-over-reflecting-pool-damage-267612741793?utm_source=lootura.com) — 2026-07-31T23:39:23.000Z
-- [In Nebraska, Americans begin to lose Medicaid under Trump's work rules](https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska?utm_source=lootura.com) — 2026-07-31T13:22:40.000Z
+- [Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked](https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com) — 2026-08-01T16:54:34.000Z
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
-- [News Wrap: Death toll from Japan earthquake rises to 34](https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com) — 2026-07-31T22:45:12.000Z
-- [The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash](https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms?utm_source=lootura.com) — 2026-08-01T09:00:49.000Z
-- [Cori Bush Has No Regrets](https://theintercept.com/2026/08/01/missouri-cori-bush-wesley-bell-primary-aipac/?utm_source=lootura.com) — 2026-08-01T13:06:00.000Z
+- [Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks](https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com) — 2026-08-01T16:15:42.000Z
 - [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html?utm_source=lootura.com) — 2026-08-01T09:00:17.000Z
 - [Trump Administration Is Undoing Plans to Boost Workplace Heat Protections](https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html?utm_source=lootura.com) — 2026-08-01T09:01:03.000Z
-- [Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html?utm_source=lootura.com) — 2026-08-01T02:12:17.000Z
+- [Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html?utm_source=lootura.com) — 2026-08-01T14:11:57.000Z
+- [Trump and Netanyahu May Be at Odds Again Over Gaza Plan](https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html?utm_source=lootura.com) — 2026-07-31T23:05:17.000Z
+- [How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer](https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com) — 2026-08-01T09:02:02.000Z
+- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z

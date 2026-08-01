@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,13 +19,18 @@
       "date": "2026-08-01"
     },
     {
-      "title": "It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents",
+      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Resea.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
       "summary": "Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.",
       "date": "2026-08-01"
     },
     {
-      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Resea.",
+      "title": "It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents",
+      "summary": "Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.",
       "date": "2026-08-01"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
       "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-      "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -72,7 +72,7 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents",
+      "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
       "url": "https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995?utm_source=lootura.com",
       "publishedAt": "2026-08-01T11:00:00.000Z",
       "sourceId": "lootura-us-politico"
@@ -84,15 +84,9 @@
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:00:49.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Why Mitch McConnell Isn’t Giving Up His Senate Seat",
       "url": "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T20:23:41.000Z",
+      "publishedAt": "2026-07-31T20:23:42.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -102,5 +96,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

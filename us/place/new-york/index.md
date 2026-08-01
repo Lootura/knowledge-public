@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Property owner advocacy groups push back on Mamdani's 'Rental Ripoff Report,' public database of landlords](https://www.foxnews.com/media/property-owner-advocacy-groups-push-back-mamdani-rental-ripoff-report-database-landlords?utm_source=lootura.com) — 2026-08-01T13:00:51.000Z
+No public source links.

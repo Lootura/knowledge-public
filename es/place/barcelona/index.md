@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
+- [El United remonta ante un Atlético obligado a mirar a la cantera](https://www.abc.es/deportes/atletico-madrid/united-remonta-ante-atletico-obligado-mirar-cantera-20260801173258-nt.html?utm_source=lootura.com) — 2026-08-01T15:43:58.000Z
 - [Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"](https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com) — 2026-08-01T12:26:10.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.json",
   "description": "Follow Nirmal Purja, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "Nims Purja",
     "Nimsdai",
@@ -33,9 +33,20 @@
       "title": "Discovered by Atlas",
       "summary": "Nirmal Purja first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say",
+      "summary": "The 10-person expedition lost contact with its base camp after an avalanche struck Broad Peak as they attempted to scale the mountain.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say",
+      "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:51:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Search Continues for 7 Missing Climbers After Pakistan Avalanche",
       "url": "https://www.nytimes.com/2026/08/01/world/asia/pakistan-avalanche-climbers-purja.html?utm_source=lootura.com",
@@ -45,9 +56,9 @@
     {
       "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:09:14.000Z",
+      "publishedAt": "2026-08-01T14:34:53.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

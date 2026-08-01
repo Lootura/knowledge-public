@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T14:53:21.501Z",
+  "generatedAt": "2026-08-01T17:07:57.257Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|41|1785590087199",
+    "signature": "1.18.0|42|1785603418471",
     "version": "1.18.0",
-    "build": 41,
-    "latestEntityUpdatedAt": "2026-08-01T13:14:47.199Z"
+    "build": 42,
+    "latestEntityUpdatedAt": "2026-08-01T16:56:58.471Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
+      "id": "usa-todd-blanche",
+      "name": "Todd Blanche",
       "type": "person",
-      "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-01T13:14:47.199Z",
-      "score": 1634,
-      "sourceCount": 473,
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "url": "https://atlas.lootura.com/us/person/todd-blanche",
+      "path": "/us/person/todd-blanche",
+      "updatedAt": "2026-08-01T16:56:58.471Z",
+      "score": 1642,
+      "sourceCount": 31,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,22 @@
         "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1634,
-        "sourceCount": 488,
+        "updatedAt": "2026-08-01T16:56:58.471Z",
+        "score": 1640,
+        "sourceCount": 490,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-01T16:56:58.471Z",
+        "score": 1639,
+        "sourceCount": 478,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +60,9 @@
         "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1620,
-        "sourceCount": 264,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1619,
-        "sourceCount": 78,
+        "updatedAt": "2026-08-01T16:56:58.471Z",
+        "score": 1639,
+        "sourceCount": 267,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,9 +73,9 @@
         "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
         "url": "https://atlas.lootura.com/us/place/espana",
         "path": "/us/place/espana",
-        "updatedAt": "2026-08-01T13:14:47.199Z",
-        "score": 1618,
-        "sourceCount": 17,
+        "updatedAt": "2026-08-01T16:56:58.471Z",
+        "score": 1627,
+        "sourceCount": 18,
         "isBreaking": false,
         "isPinned": false
       }

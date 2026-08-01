@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -76,12 +76,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "News Wrap: Death toll from Japan earthquake rises to 34",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T22:45:12.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
       "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T05:49:43.000Z",
@@ -102,9 +96,9 @@
     {
       "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
       "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:24:05.000Z",
+      "publishedAt": "2026-08-01T13:49:10.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

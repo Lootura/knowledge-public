@@ -3,20 +3,26 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-01T16:56:58.471Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Hungary to shut nuclear plant as heatwave hits central Europe
-
-Hungary's sole nuclear power plant will be shut down next week because of low water levels in the Danube, Prime Minister Peter Magyar said Friday as central Europe slogs through the latest in a series of heat waves.
-
-Date: 2026-08-01
-
 ### Extreme Heat Has Transformed What Summer Means Across Generations in Europe
 
 Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
+
+Date: 2026-08-01
+
+### Europe continues to celebrate Pride after attack on Berlin parade
+
+Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.
+
+Date: 2026-08-01
+
+### Hungary to shut nuclear plant as heatwave hits central Europe
+
+Hungary's sole nuclear power plant will be shut down next week because of low water levels in the Danube, Prime Minister Peter Magyar said Friday as central Europe slogs through the latest in a series of heat waves.
 
 Date: 2026-08-01
 
@@ -62,14 +68,7 @@ Australia and the European Union were among U.S. trade partners who condemned th
 
 Date: 2026-07-24
 
-### Thousands flee wildfires in southern Europe
-
-Luggage-clad residents and tourists fled a French peninsula by boat, and the smell of smoke drifted into parts of Madrid on Friday as wildfires swept through parts of Western Europe, triggering states of emergency and calls for EU help.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-01T13:14:51.833Z
-- [Hungary to shut nuclear plant as heatwave hits central Europe](https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html?utm_source=lootura.com) — 2026-08-01T06:47:14.000Z
+- [Europe continues to celebrate Pride after attack on Berlin parade](https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com) — 2026-08-01T15:30:04.000Z
 - [Extreme Heat Has Transformed What Summer Means Across Generations in Europe](https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html?utm_source=lootura.com) — 2026-08-01T12:39:14.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/colorado-river/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/colorado-river/index.json",
   "description": "Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "Ahan Yava Kothickwa",
     "Ancon de San Andres",
@@ -83,13 +83,7 @@
       "url": "https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com",
       "publishedAt": "2026-08-01T00:21:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Western states face more water cutbacks as Colorado River shrinks",
-      "url": "https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T22:35:41.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

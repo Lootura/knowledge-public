@@ -3,20 +3,26 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
-
-La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.
-
-Date: 2026-08-01
-
 ### Irán amenaza con asesinar a Melania Trump con un gas venenoso
 
 La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.
+
+Date: 2026-08-01
+
+### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
+
+El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
+
+Date: 2026-08-01
+
+### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
+
+La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.
 
 Date: 2026-08-01
 
@@ -62,13 +68,8 @@ El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, cel
 
 Date: 2026-07-25
 
-### Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad
-
-El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país](https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [La ultraderecha mundial liderada por Trump pone a España en el punto de mira y usa Ceuta para esparcir su xenofobia](https://www.eldiario.es/internacional/ultraderecha-mundial-liderada-trump-pone-espana-punto-mira-ceuta-esparcir-xenofobia_1_13421799.html?utm_source=lootura.com) — 2026-08-01T14:03:05.000Z
 - [Irán amenaza con asesinar a Melania Trump con un gas venenoso](https://www.larazon.es/internacional/iran-amenaza-asesinar-melania-trump-gas-venenoso_202608016a6deddda5690f04735e3a24.html?utm_source=lootura.com) — 2026-08-01T13:00:13.000Z
+- [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z

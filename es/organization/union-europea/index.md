@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Italia y Dinamarca también piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez](https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html?utm_source=lootura.com) — 2026-08-01T10:23:55.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
+
+El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
+
+Date: 2026-08-01
 
 ### Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»
 
@@ -62,12 +68,6 @@ El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izqu
 
 Date: 2026-07-24
 
-### Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica
-
-El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»](https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html?utm_source=lootura.com) — 2026-08-01T11:55:56.000Z
+- [Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo](https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com) — 2026-08-01T13:53:25.000Z

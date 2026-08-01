@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Trump Administration Plans to Upend Head Start by Deregulating It](https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html?utm_source=lootura.com) — 2026-07-31T20:31:08.000Z
+No public source links.

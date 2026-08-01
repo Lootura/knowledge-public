@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -65,13 +65,13 @@
       "date": "2026-08-01"
     },
     {
-      "title": "The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash",
-      "summary": "American democrats need a Hungarian-style landslide to overwhelm Trump’s attempts to rig November’s midterm elections In these days of extreme weather events, it seems odd to say that the US needs a big landslide. But a landslide defeat for President Donald Trump in November’s midterm elections is exactly what is requi.",
+      "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+      "summary": "Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.",
       "date": "2026-08-01"
     },
     {
-      "title": "Cori Bush Has No Regrets",
-      "summary": "The internet had a field day last summer when a picture surfaced of Sen. Josh Hawley, R-Mo., with his arm around a former Democratic member of Congress. Hawley was at an event in St. Louis, Missouri, celebrating the inclusion of expanded funds for victims of nuclear radiation in President Donald Trump’s signature econo.",
+      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+      "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”.",
       "date": "2026-08-01"
     }
   ],
@@ -83,16 +83,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Charges dropped against former Olympian over reflecting pool damage",
-      "url": "https://www.nbcnews.com/nightly-news/video/charges-dropped-against-former-olympian-over-reflecting-pool-damage-267612741793?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T23:39:23.000Z",
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "url": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:54:34.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T13:22:40.000Z",
-      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
@@ -101,22 +95,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "News Wrap: Death toll from Japan earthquake rises to 34",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T22:45:12.000Z",
+      "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+      "url": "https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:15:42.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:00:49.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Cori Bush Has No Regrets",
-      "url": "https://theintercept.com/2026/08/01/missouri-cori-bush-wesley-bell-primary-aipac/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:06:00.000Z",
-      "sourceId": "lootura-us-the-intercept"
     },
     {
       "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
@@ -133,9 +115,27 @@
     {
       "title": "Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
       "url": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T02:12:17.000Z",
+      "publishedAt": "2026-08-01T14:11:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T23:05:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:02:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:02:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 17
 }

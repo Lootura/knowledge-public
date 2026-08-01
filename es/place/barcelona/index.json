@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -73,6 +73,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "El United remonta ante un Atlético obligado a mirar a la cantera",
+      "url": "https://www.abc.es/deportes/atletico-madrid/united-remonta-ante-atletico-obligado-mirar-cantera-20260801173258-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T15:43:58.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Shabat de terror de siete judíos franceses en la Barcelona antisemita: \"Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas\"",
       "url": "https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com",

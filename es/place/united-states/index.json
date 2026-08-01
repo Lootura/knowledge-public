@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
+      "summary": "El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
       "summary": "La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.",
@@ -86,26 +91,21 @@
       "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
       "summary": "El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "La clave de Ayn Rand sobre la independencia: \"La cuestión no es quién me lo va a permitir, sino quién va a detenerme\"",
-      "summary": "Ayn Rand es quizás una de las pensadoras y escritoras más controvertidas de todo el siglo XX . Su novela ' The Fountainhead ' (\"El manantial\") ha vendido más de 10 millones de copias en todo el mundo y un famoso sondeo realizado a finales de los años 90 en Estados Unidos lo declaró 'el segundo libro más influyente en s.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
-      "url": "https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El futuro de Ceuta y el modelo de Ormuz",
+      "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:28:16.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos",
-      "url": "https://okdiario.com/happyfm/asi-vida-marian-aguilera-hombres-paco-estados-unidos-19082364?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:33:23.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
+      "url": "https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T14:59:47.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

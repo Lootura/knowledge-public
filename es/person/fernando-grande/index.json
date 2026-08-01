@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.json",
   "description": "Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el \"egoísmo\" de los países de la UE",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska, destaca la \"impactante\" actuación del Gobierno ante la crisis en Ceuta.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Marlaska dice que España ha revertido la crisis \"sola\", aplaude a Marruecos y ve mala fe en Italia: \"Ceuta no es Schengen\"",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Feijóo tacha la crisis de Ceuta de \"ocupación premeditada\" frente a un Marlaska que presume de haber alcanzado la \"normalidad\"",
       "summary": "La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.",
@@ -29,6 +19,16 @@
     {
       "title": "Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha defendido que Marruecos «no es una amenaza» ni para la ciudad de Ceuta ni para el conjunto de España , y que el Gobierno trabaja para que una entrada masiva de inmigrantes no se vuelva a repetir, si bien no lo ha descartado del todo esgrimiendo que no es «adivino».",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el \"egoísmo\" de los países de la UE",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, destaca la \"impactante\" actuación del Gobierno ante la crisis en Ceuta.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Marlaska dice que España ha revertido la crisis \"sola\", aplaude a Marruecos y ve mala fe en Italia: \"Ceuta no es Schengen\"",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.",
       "date": "2026-08-01"
     },
     {
@@ -64,22 +64,10 @@
   ],
   "sources": [
     {
-      "title": "Marlaska dice que España ha revertido la crisis \"sola\", aplaude a Marruecos y ve mala fe en Italia: \"Ceuta no es Schengen\"",
-      "url": "https://www.20minutos.es/nacional/marlaska-dice-espana-revertido-crisis-migratoria-sola-alaba-marruecos-mala-fe-italia-ceuta-schengen_7021589_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T10:23:55.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Feijóo tacha la crisis de Ceuta de \"ocupación premeditada\" frente a un Marlaska que presume de haber alcanzado la \"normalidad\"",
       "url": "https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T10:18:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el \"egoísmo\" de los países de la UE",
-      "url": "https://okdiario.com/espana/marlaska-rinde-pleitesia-marruecos-invasion-ceuta-carga-contra-egoismo-paises-ue-19110566/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:42:59.000Z",
-      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

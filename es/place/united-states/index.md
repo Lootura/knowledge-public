@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
+
+El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
+
+Date: 2026-08-01
 
 ### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
 
@@ -62,13 +68,7 @@ El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebra
 
 Date: 2026-07-25
 
-### La clave de Ayn Rand sobre la independencia: "La cuestión no es quién me lo va a permitir, sino quién va a detenerme"
-
-Ayn Rand es quizás una de las pensadoras y escritoras más controvertidas de todo el siglo XX . Su novela ' The Fountainhead ' ("El manantial") ha vendido más de 10 millones de copias en todo el mundo y un famoso sondeo realizado a finales de los años 90 en Estados Unidos lo declaró 'el segundo libro más influyente en s.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país](https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
-- [Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos](https://okdiario.com/happyfm/asi-vida-marian-aguilera-hombres-paco-estados-unidos-19082364?utm_source=lootura.com) — 2026-08-01T09:33:23.000Z
+- [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z
+- [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z

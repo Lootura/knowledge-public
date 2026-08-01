@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
+      "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
       "summary": "El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».",
@@ -58,19 +63,14 @@
       "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
       "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
-      "summary": "El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
-      "url": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:55:56.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
+      "url": "https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:53:25.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

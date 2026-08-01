@@ -3,22 +3,10 @@
 > Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-grande
 
 ## Cambios recientes
-
-### Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el "egoísmo" de los países de la UE
-
-El ministro del Interior, Fernando Grande-Marlaska, destaca la "impactante" actuación del Gobierno ante la crisis en Ceuta.
-
-Date: 2026-08-01
-
-### Marlaska dice que España ha revertido la crisis "sola", aplaude a Marruecos y ve mala fe en Italia: "Ceuta no es Schengen"
-
-El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.
-
-Date: 2026-08-01
 
 ### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
 
@@ -29,6 +17,18 @@ Date: 2026-08-01
 ### Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse
 
 El ministro del Interior, Fernando Grande-Marlaska , ha defendido que Marruecos «no es una amenaza» ni para la ciudad de Ceuta ni para el conjunto de España , y que el Gobierno trabaja para que una entrada masiva de inmigrantes no se vuelva a repetir, si bien no lo ha descartado del todo esgrimiendo que no es «adivino».
+
+Date: 2026-08-01
+
+### Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el "egoísmo" de los países de la UE
+
+El ministro del Interior, Fernando Grande-Marlaska, destaca la "impactante" actuación del Gobierno ante la crisis en Ceuta.
+
+Date: 2026-08-01
+
+### Marlaska dice que España ha revertido la crisis "sola", aplaude a Marruecos y ve mala fe en Italia: "Ceuta no es Schengen"
+
+El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.
 
 Date: 2026-08-01
 
@@ -70,7 +70,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Marlaska dice que España ha revertido la crisis "sola", aplaude a Marruecos y ve mala fe en Italia: "Ceuta no es Schengen"](https://www.20minutos.es/nacional/marlaska-dice-espana-revertido-crisis-migratoria-sola-alaba-marruecos-mala-fe-italia-ceuta-schengen_7021589_0.html?utm_source=lootura.com) — 2026-08-01T10:23:55.000Z
 - [Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"](https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com) — 2026-08-01T10:18:00.000Z
-- [Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el "egoísmo" de los países de la UE](https://okdiario.com/espana/marlaska-rinde-pleitesia-marruecos-invasion-ceuta-carga-contra-egoismo-paises-ue-19110566/amp?utm_source=lootura.com) — 2026-08-01T09:42:59.000Z
 - [Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse](https://theobjective.com/espana/politica/2026-08-01/marlaska-marruecos-amenaza-repetirse/?utm_source=lootura.com) — 2026-08-01T11:29:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’](https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-del-universo-cinematografico-de-marvel-para-disfrutar-mejor-spider-man-brand-new-day/?utm_source=lootura.com) — 2026-08-01T08:00:00.000Z
+- [Audiencias de TV: el Mundial da el liderazgo a La 1 en el mes más complicado de Telecinco](https://www.abc.es/play/television/noticias/audiencias-julio-mundial-liderazgo-mes-complicado-telecinco-20260731120204-nt.html?utm_source=lootura.com) — 2026-08-01T15:41:36.000Z

@@ -3,20 +3,44 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
-
-Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
-
-Date: 2026-08-01
-
 ### El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho
 
 El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.
+
+Date: 2026-08-01
+
+### Un incendio en La Vaguada obliga a desalojar el centro comercial
+
+El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado de urgencia por un incendio que se ha originado en la gran superficie. Varias dotaciones de bomberos están ya desplegados en la zona para tratar de atajar las llamas, que han dejado una gran columna de humo negro visible p.
+
+Date: 2026-08-01
+
+### Las obras de Atocha modifican el servicio de cinco líneas de Cercanías
+
+Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.
+
+Date: 2026-08-01
+
+### Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza
+
+Agentes de la Policía Municipal de Madrid han incautado un total de 111 paquetes de cocaína de aproximadamente 1 kilo cada uno, ocultos en diferentes maletas y bolsas de deporte encontradas en el rellano de la primera planta de un aparcamiento del distrito de Hortaleza . Según han informado fuentes policiales a Europa.
+
+Date: 2026-08-01
+
+### Madrid: desalojan el centro comercial La Vaguada por un incendio
+
+Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.
+
+Date: 2026-08-01
+
+### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
+
+Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
 
 Date: 2026-08-01
 
@@ -44,31 +68,10 @@ Alberto Nadal (Madrid, 1970) es técnico comercial y economista del Estado y una
 
 Date: 2026-08-01
 
-### Directo | Sánchez alerta de la complejidad de los incendios: «No sabemos cuál será la evolución del viento»
-
-Más de 24.000 evacuados en la Comunidad de Madrid.
-
-Date: 2026-07-25
-
-### Madrid se defiende de un fuego "insólito" con el mayor operativo de Emergencias desde el Covid: "Un incendio ha llamado a otro"
-
-Leer.
-
-Date: 2026-07-25
-
-### Sanidad alerta sobre la calidad del aire en Madrid por los incendios: recomendaciones y cómo protegerse del humo
-
-El Ministerio de Sanidad ha aconsejado no permanecer al aire libre en la Comunidad de Madrid debido a los elevados niveles de partículas contaminantes, provocados por el humo derivado de los incendios forestales de Ávila y Madrid. Con esta situación, la calidad del aire ha empeorado y, a esto se une la intrusión de pol.
-
-Date: 2026-07-25
-
-### Efectos secundarios de los incendios: el humo que viaja cientos de kilómetros también perjudica a los pulmones y el corazón
-
-Las autoridades recomiendan en la Comunidad de Madrid no salir de casa en la medida de lo posible y, en caso de hacerlo, llevar mascarillas FFP2 o N95 Leer.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España](https://www.elconfidencial.com/espana/madrid/2026-08-01/madrid-siglo-de-oro-exposicion-1qrt_4399141/?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
+- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T16:40:54.000Z
+- [Las obras de Atocha modifican el servicio de cinco líneas de Cercanías](https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html?utm_source=lootura.com) — 2026-08-01T15:20:00.000Z
+- [Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza](https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com) — 2026-08-01T15:25:00.000Z
 - [El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho](https://www.larazon.es/deportes/laotraliga/sevilla-ficha-real-madrid-uno-descartes-mourinho_202608016a6dec1ba046ad6ebc95246c.html?utm_source=lootura.com) — 2026-08-01T12:52:43.000Z
+- [Madrid: desalojan el centro comercial La Vaguada por un incendio](https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com) — 2026-08-01T16:49:37.000Z

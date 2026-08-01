@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-01T16:56:58.471Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -77,6 +77,6 @@ Date: 2026-08-01
 - [Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified](https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
 - [U.S. will make visa bond program permanent, affecting mostly African countries](https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries?utm_source=lootura.com) — 2026-08-01T00:38:11.000Z
-- [News Wrap: Death toll from Japan earthquake rises to 34](https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com) — 2026-07-31T22:45:12.000Z
 - [Arizona, California and Nevada would share cuts under federal proposal for Colorado River](https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com) — 2026-08-01T00:21:26.000Z
 - [Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com) — 2026-08-01T03:40:13.000Z
+- [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html?utm_source=lootura.com) — 2026-08-01T09:00:17.000Z

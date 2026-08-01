@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/prime-video/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/prime-video/index.json",
   "description": "Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "Amazon Instant Video",
     "Amazon Unbox",
@@ -16,6 +16,11 @@
     "Amazon Video On Demand"
   ],
   "changes": [
+    {
+      "title": "10 películas de Prime Video que te sorprenderán",
+      "summary": "Prime Video es una de las plataformas más curiosas del mundo del streaming . Por un lado y al contrario de gigantes como Netflix y HBO Max , no tiene un catálogo en frecuente renovación. Al contrario, el servicio por suscripción hace una cuidadosa selección de contenido que permite, que su oferta sea cuidadosamente sel.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Tráiler de ‘Blade Runner 2099’: Michelle Yeoh y Hunter Schafer brillan en la ambiciosa producción de Prime Video",
       "summary": "Las franquicias ya no son sólo un reclamo para los cines . El auge de las plataformas de streaming ha conseguido que estas puedan expandirse en series de televisión que hace algunos años, resultaban impensables. Entre otras cosas, porque algunos géneros precisan de una inversión y efectos especiales que, hasta hace bie.",
@@ -32,6 +37,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "10 películas de Prime Video que te sorprenderán",
+      "url": "https://hipertextual.com/cine-television/10-peliculas-de-prime-video-que-te-sorprenderan/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T14:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

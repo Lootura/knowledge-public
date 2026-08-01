@@ -3,7 +3,7 @@
 > Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-01T16:56:58.471Z
 - Canonical: https://atlas.lootura.com/us/object/colorado-river
 
 ## Recent changes
@@ -29,4 +29,3 @@ Date: 2026-07-31
 ## Sources
 
 - [Arizona, California and Nevada would share cuts under federal proposal for Colorado River](https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river?utm_source=lootura.com) — 2026-08-01T00:21:26.000Z
-- [Western states face more water cutbacks as Colorado River shrinks](https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks?utm_source=lootura.com) — 2026-07-31T22:35:41.000Z

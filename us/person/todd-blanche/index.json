@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T13:14:47.199Z",
+  "updatedAt": "2026-08-01T16:56:58.471Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -22,6 +22,11 @@
     {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "summary": "Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.",
       "date": "2026-08-01"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Blanche holds meeting with Epstein accusers after Tillis' request",
       "summary": "Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies",
-      "summary": "Sen. Adam Schiff questioned former Attorney General John Ashcroft Thursday about President Trump's calls to prosecute his perceived political enemies. Ashcroft was appearing before the Senate in support of Todd Blanche's confirmation as attorney general.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -73,16 +73,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "url": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:54:34.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
       "publishedAt": "2026-08-01T11:46:43.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T21:02:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 3

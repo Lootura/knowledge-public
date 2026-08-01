@@ -1,14 +1,14 @@
 {
   "id": "es-ursula-von",
-  "name": "Ursula Von",
+  "name": "Úrsula Von",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/ursula-von",
   "canonicalUrl": "https://atlas.lootura.com/es/person/ursula-von",
   "markdownUrl": "https://atlas.lootura.com/es/person/ursula-von/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ursula-von/index.json",
-  "description": "Sigue la actividad de Ursula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "description": "Sigue la actividad de Úrsula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [],
   "changes": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Ursula Von first entered the public knowledge record with source-backed evidence.",
+      "summary": "Úrsula Von first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
     },
     {
@@ -44,12 +44,6 @@
   ],
   "sources": [
     {
-      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
-      "url": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:38:38.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Sánchez pide una reunión urgente de los ministros del Interior de la UE por el cierre del espacio Schengen por parte de Italia",
       "url": "https://www.elcorreo.com/politica/sanchez-pide-reunion-ministros-interior-europeos-cierre-20260801104825-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T08:48:25.000Z",
@@ -62,5 +56,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

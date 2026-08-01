@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/antonio-costa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/antonio-costa/index.json",
   "description": "Sigue la actividad de António Costa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "Antonio Luis Costa",
     "Antonio Luis Santos Costa",
@@ -22,11 +22,6 @@
   ],
   "changes": [
     {
-      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
-      "summary": "Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de los ministros del Interior de los países miembros tras las cri.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
       "summary": "Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.",
       "date": "2026-08-01"
@@ -35,15 +30,14 @@
       "title": "Discovered by Atlas",
       "summary": "António Costa first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
+      "summary": "Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de los ministros del Interior de los países miembros tras las cri.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
-      "url": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:38:38.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
       "url": "https://okdiario.com/espana/lideres-22-paises-europeos-senalan-regularizacion-sanchez-como-factor-atraccion-plena-invasion-ceuta-19111146?utm_source=lootura.com",
@@ -51,5 +45,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

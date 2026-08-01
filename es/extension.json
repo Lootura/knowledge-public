@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T14:53:23.941Z",
+  "generatedAt": "2026-08-01T17:08:00.398Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|41|1785590052629",
+    "signature": "1.18.0|42|1785603398429",
     "version": "1.18.0",
-    "build": 41,
-    "latestEntityUpdatedAt": "2026-08-01T13:14:12.629Z"
+    "build": 42,
+    "latestEntityUpdatedAt": "2026-08-01T16:56:38.429Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
+      "title": "Sánchez traslada a Von der Leyen su \"preocupación\" por la reacción de los gobiernos europeos tras la crisis migratoria",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-01T13:14:12.629Z",
-      "score": 1755,
-      "sourceCount": 273,
+      "updatedAt": "2026-08-01T16:56:38.429Z",
+      "score": 1761,
+      "sourceCount": 278,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,25 +31,12 @@
         "id": "es-alberto-nunez-feijoo",
         "name": "Alberto Núñez Feijóo",
         "type": "person",
-        "title": "Feijóo afirma que lo ocurrido es una \"ocupación premeditada\" y culpa al Gobierno: \"Lo sabían y no actuaron\"",
+        "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
         "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
         "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-08-01T13:14:12.629Z",
-        "score": 1707,
-        "sourceCount": 73,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-comision-europea",
-        "name": "Comisión Europea",
-        "type": "organization",
-        "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
-        "url": "https://atlas.lootura.com/es/organization/comision-europea",
-        "path": "/es/organization/comision-europea",
-        "updatedAt": "2026-08-01T13:14:12.629Z",
-        "score": 1693,
-        "sourceCount": 8,
+        "updatedAt": "2026-08-01T16:56:38.429Z",
+        "score": 1733,
+        "sourceCount": 75,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +44,42 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "La destrucción de España",
+        "title": "Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-01T13:14:12.629Z",
-        "score": 1677,
-        "sourceCount": 633,
+        "updatedAt": "2026-08-01T16:56:38.429Z",
+        "score": 1719,
+        "sourceCount": 640,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-antonio-costa",
-        "name": "António Costa",
-        "type": "person",
-        "title": "Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta",
-        "url": "https://atlas.lootura.com/es/person/antonio-costa",
-        "path": "/es/person/antonio-costa",
-        "updatedAt": "2026-08-01T13:14:12.629Z",
-        "score": 1638,
-        "sourceCount": 2,
+        "id": "es-comision-europea",
+        "name": "Comisión Europea",
+        "type": "organization",
+        "title": "Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior",
+        "url": "https://atlas.lootura.com/es/organization/comision-europea",
+        "path": "/es/organization/comision-europea",
+        "updatedAt": "2026-08-01T16:56:38.429Z",
+        "score": 1682,
+        "sourceCount": 9,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-la-moncloa",
+        "name": "Palacio de la Moncloa",
+        "type": "object",
+        "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+        "url": "https://atlas.lootura.com/es/object/la-moncloa",
+        "path": "/es/object/la-moncloa",
+        "updatedAt": "2026-08-01T16:56:38.429Z",
+        "score": 1673,
+        "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 128
+    "publicEntityCount": 133
   }
 }

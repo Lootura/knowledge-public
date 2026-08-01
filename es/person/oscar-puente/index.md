@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»
+
+La situación en Ceuta sigue siendo muy delicada después de la llegada masiva de miles de inmigrantes desde Marruecos y el ministro de Transportes, Óscar Puente, continúa en su propio mundo después de asegurar que Pedro Sánchez ha resuelto «otra crisis más». Así lo ha indicado en su cuenta de X. Según Puente, el preside.
+
+Date: 2026-08-01
 
 ### Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez
 
@@ -64,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»](https://okdiario.com/espana/oscar-puente-propio-mundo-otra-crisis-mas-que-resuelve-pedro-sanchez-19111371?utm_source=lootura.com) — 2026-08-01T16:10:29.000Z

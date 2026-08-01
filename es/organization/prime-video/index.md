@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### 10 películas de Prime Video que te sorprenderán
+
+Prime Video es una de las plataformas más curiosas del mundo del streaming . Por un lado y al contrario de gigantes como Netflix y HBO Max , no tiene un catálogo en frecuente renovación. Al contrario, el servicio por suscripción hace una cuidadosa selección de contenido que permite, que su oferta sea cuidadosamente sel.
+
+Date: 2026-08-01
 
 ### Tráiler de ‘Blade Runner 2099’: Michelle Yeoh y Hunter Schafer brillan en la ambiciosa producción de Prime Video
 
@@ -28,4 +34,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [10 películas de Prime Video que te sorprenderán](https://hipertextual.com/cine-television/10-peliculas-de-prime-video-que-te-sorprenderan/?utm_source=lootura.com) — 2026-08-01T14:00:00.000Z

@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
     {
-      "title": "Europa se revuelve contra Sánchez por poner en riesgo sus fronteras",
-      "summary": "Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta Leer.",
+      "title": "Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior",
+      "summary": "El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: \"Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos\" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.",
       "date": "2026-08-01"
     },
     {
-      "title": "Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior",
-      "summary": "El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: \"Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos\" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.",
+      "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta",
+      "summary": "El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Europa se revuelve contra Sánchez por poner en riesgo sus fronteras",
+      "summary": "Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta Leer.",
       "date": "2026-08-01"
     },
     {
@@ -58,25 +63,14 @@
       "title": "El trilero y Gibraltar",
       "summary": "La tramitación del Tratado entre la Unión Europea y el Reino Unido sobre Gibraltar semeja a la de un juego trilero hilvanado por el Gobierno español y la Comisión de la Unión Europea. Con ello se busca desmontar las bazas que ciertamente tienen la oposición para bloquear un tratado traidor a nuestra historia y a nuestr.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»",
-      "summary": "El Gobierno de España espera que «instancias superiores» a la Audiencia de Bajadoz, que ha condenado a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, constaten su «inocencia» cuando se resuelva el recurso a la sentencia. Así lo ha manifestado la ministra portavoz del Gobierno, Elma.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Europa se revuelve contra Sánchez por poner en riesgo sus fronteras",
-      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T00:35:03.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE",
-      "url": "https://elpais.com/espana/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta-y-pide-una-reunion-urgente-de-la-ue.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T10:08:11.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta",
+      "url": "https://cincodias.elpais.com/economia/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T14:19:12.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -1,9 +1,9 @@
-# Ursula Von
+# Úrsula Von
 
-> Sigue la actividad de Ursula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Úrsula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T13:14:12.629Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/person/ursula-von
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-08-01
 
 ### Discovered by Atlas
 
-Ursula Von first entered the public knowledge record with source-backed evidence.
+Úrsula Von first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-01
 
@@ -46,6 +46,5 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»](https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com) — 2026-08-01T11:38:38.000Z
 - [Sánchez pide una reunión urgente de los ministros del Interior de la UE por el cierre del espacio Schengen por parte de Italia](https://www.elcorreo.com/politica/sanchez-pide-reunion-ministros-interior-europeos-cierre-20260801104825-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T08:48:25.000Z
 - [Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta](https://theobjective.com/espana/2026-08-01/sanchez-carta-ue-reunion-interior-ceuta/?utm_source=lootura.com) — 2026-08-01T08:50:08.000Z

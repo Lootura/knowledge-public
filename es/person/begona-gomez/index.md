@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-08-01T16:56:38.429Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Pedro Sánchez ya está en Lanzarote para descansar hasta el 24
+
+Pedro Sánchez ya se encuentra en Lanzarote para disfrutar de sus vacaciones de verano. El presidente del Gobierno y su esposa, Begoña Gómez, aterrizaron este sábado, poco después de las 13:00 horas, en el Aeropuerto César Manrique-Lanzarote a bordo de un avión Falcon del Ejército del Aire, desde donde se desplazaron a.
+
+Date: 2026-08-01
 
 ### La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte
 
@@ -62,12 +68,6 @@ La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próxima
 
 Date: 2026-07-18
 
-### Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos
-
-El socialista asturiano se plantea «no casarse», ya que «esa persona siempre va a estar potencialmente enjuiciada».
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Pedro Sánchez ya está en Lanzarote para descansar hasta el 24](https://www.larazon.es/espana/pedro-sanchez-esta-lanzarote-descansar-24_202608016a6e206871b42a0b5dd3adf1.html?utm_source=lootura.com) — 2026-08-01T16:35:52.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "updatedAt": "2026-08-01T16:56:38.429Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Evenepoel firma un póker legendario en la Clásica San Sebastián",
+      "summary": "El belga se impone a Richard Carapaz al sprint en el Boulevard después de recuperarse de un pinchazo a 51 kilómetros de meta que hizo peligrar su carrera.",
+      "date": "2026-08-01"
+    },
     {
       "title": "'Dulce locura' de La Oreja de Van Gogh en San Sebastián",
       "summary": "Convirtió Illunbe en la fiesta que prometía con sus fans y amigos más cercanos coreando cada canción.",
@@ -64,11 +69,6 @@
       "title": "La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»",
       "summary": "Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha",
-      "summary": "La circulación de Cercanías permanece interrumpida desde primera hora de este viernes entre Villaverde Bajo y Atocha en las líneas C3 (Aranjuez-Chamartín) y C4 ( Parla-San Sebastián de los Reyes ) debido a una avería que afecta al sistema de señalización. Adif ha señalado que los equipos técnicos han trabajado para sol.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -79,11 +79,17 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
+      "title": "Evenepoel firma un póker legendario en la Clásica San Sebastián",
+      "url": "https://www.diariovasco.com/clasica-san-sebastian/evenepoel-firma-poker-legendario-clasica-san-sebastian-20260801171919-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T15:19:19.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
       "title": "Toda carrera necesita a su rey",
       "url": "https://www.diariovasco.com/clasica-san-sebastian/carrera-necesita-rey-20260801000946-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-31T22:09:46.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }
