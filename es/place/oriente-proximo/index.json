@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -69,11 +69,11 @@
   ],
   "sources": [
     {
-      "title": "Seis valores del Ibex desafían la incertidumbre y rozan máximos",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-01/cinco-valores-del-ibex-desafian-la-incertidumbre-y-rozan-maximos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Irán advierte a sus vecinos regionales de que si actúan como «escudo» de EEUU «arderán»",
+      "url": "https://theobjective.com/internacional/2026-08-01/iran-advierte-vecinos-regionales-escudo-eeuu-arderan/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:08:15.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

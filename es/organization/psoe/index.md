@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»
+
+Mientras Ceuta trata de recuperar la normalidad tras la entrada masiva de inmigrantes desde Marruecos, un vídeo grabado el 31 de julio durante un directo de TVE se ha convertido en una de las imágenes más comentadas de la crisis migratoria. Un inmigrante marroquí recién llegado a la ciudad autónoma irrumpió en la emisi.
+
+Date: 2026-08-01
 
 ### Autopercibido como socialdemócrata
 
@@ -62,12 +68,6 @@ Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero t
 
 Date: 2026-07-24
 
-### La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"
-
-Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarles la palabra, el grupo que lidera Montero abandona el pleno Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»](https://okdiario.com/espana/marroqui-que-acaba-entrar-ceuta-irrumpe-directo-tve-grita-has-cagao-psoe-19111139?utm_source=lootura.com) — 2026-08-01T13:02:33.000Z

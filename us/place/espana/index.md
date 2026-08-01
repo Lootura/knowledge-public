@@ -3,16 +3,10 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
-
-### Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead
-
-Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.
-
-Date: 2026-08-01
 
 ### Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco
 
@@ -22,7 +16,19 @@ Date: 2026-08-01
 
 ### Spain Installs Floating Barrier in Ceuta After Influx of Migrants
 
-Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.
+Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.
+
+Date: 2026-08-01
+
+### Spain to put containment fence around Ceuta after migrants rush border
+
+Most migrants who entered the tiny Spanish territory of Ceuta have been returned to Morocco, Spain's authorities said Saturday.
+
+Date: 2026-08-01
+
+### Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead
+
+Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.
 
 Date: 2026-08-01
 
@@ -62,16 +68,10 @@ Hundreds of firefighters battle blazes as strong winds drive fires towards Borde
 
 Date: 2026-07-25
 
-### Conditions for European Wildfires Created by Summer of Extremes
-
-The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.
-
-Date: 2026-07-25
-
 ## Sources
 
+- [Spain to put containment fence around Ceuta after migrants rush border](https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/?utm_source=lootura.com) — 2026-08-01T11:26:07.000Z
 - [60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left](https://www.cbsnews.com/video/60000-migrants-poured-pain-morocco-ceuta-president-many-left/?utm_source=lootura.com) — 2026-07-31T23:57:19.000Z
-- [Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead](https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/?utm_source=lootura.com) — 2026-08-01T00:25:04.000Z
 - [Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco](https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco?utm_source=lootura.com) — 2026-08-01T09:36:05.000Z
 - [Tens of thousands of migrants enter Spanish territory, then return to Morocco](https://www.pbs.org/newshour/show/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco?utm_source=lootura.com) — 2026-07-31T22:50:28.000Z
-- [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T08:49:40.000Z
+- [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T12:48:55.000Z

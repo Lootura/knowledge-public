@@ -3,7 +3,7 @@
 > Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/person/van-gogh
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-07-31
 
 ### Discovered by Atlas
 
-Van Gogh first entered the public knowledge record with source-backed evidence.
+Vincent van Gogh first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-31
 

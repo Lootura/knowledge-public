@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Shabat de terror de siete judíos franceses en la Barcelona antisemita: \"Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas\"",
+      "summary": "Una mujer con una kufiya palestina abordó en Barcelona a siete turistas judíos; reclutó a renglón seguido a una turba y aterrorizó a los parisinos durante treinta interminables minutos. Lo sucedido evoca el pogromo del Kurfürstendamm, cuando los nazis persiguieron a los fieles de una sinagoga berlinesa al grito de «Mue.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
       "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
@@ -65,13 +70,15 @@
       "title": "Primer trasplante de órganos entre pacientes con VIH en España",
       "summary": "Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la donación de órganos. Esa barrera acaba de desaparecer en España. El Hospital Vall d'Hebron de Barcelona ha realizado el primer trasplante de órganos entre personas con VIH , un hito médico que ha sido posible gracias a la modificación normati.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
-      "summary": "Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: \"No.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Shabat de terror de siete judíos franceses en la Barcelona antisemita: \"Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas\"",
+      "url": "https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:26:10.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://www.elconfidencial.com/espana/2026-08-01/67-muertos-ceuta-marruecos-frontera-inmigracion_4399459/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:32:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "España, en estado de sitio",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-01/espana-estado-sitio-articulo-juan-angel-soto/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

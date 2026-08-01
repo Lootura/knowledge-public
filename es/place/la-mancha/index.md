@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)
+
+Una trabajadora de 22 años ha fallecido en la mañana de este sábado tras quedar atrapada en una máquina de una lavandería en Yeles ( Toledo ). El servicio de emergencias 112 de Castilla-La Mancha ha informado de que este accidente laboral ha ocurrido a las 7.25 horas de este sábado en una lavandería ubicada en el Camin.
+
+Date: 2026-08-01
 
 ### Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios
 
@@ -62,12 +68,6 @@ Los servicios de emergencia continúan trabajando en varios incendios forestales
 
 Date: 2026-07-23
 
-### El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”
-
-El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectáreas han sido arrasadas por el mayor incendio de la historia de Castilla-La Mancha, que este miércoles por primer vez parece dar tregua tras más de seis días. Algunos pueblos han podido ser realojados, otros siguen confinados o desalojados. L.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)](https://www.elconfidencial.com/espana/2026-08-01/muere-mujer-22-anos-atrapada-maquina-lavanderia-1tna-1tps_4399473/?utm_source=lootura.com) — 2026-08-01T10:16:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Seis valores del Ibex desafían la incertidumbre y rozan máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-01/cinco-valores-del-ibex-desafian-la-incertidumbre-y-rozan-maximos.html?utm_source=lootura.com) — 2026-08-01T03:25:00.000Z
+- [Irán advierte a sus vecinos regionales de que si actúan como «escudo» de EEUU «arderán»](https://theobjective.com/internacional/2026-08-01/iran-advierte-vecinos-regionales-escudo-eeuu-arderan/?amp=&utm_source=lootura.com) — 2026-08-01T13:08:15.000Z

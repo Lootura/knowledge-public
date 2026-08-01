@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Iran's overlapping power centers make ending the war more complicated
-
-Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
-
-Date: 2026-08-01
 
 ### Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest
 
@@ -38,6 +32,24 @@ With none of President Trump’s aims accomplished and the Strait of Hormuz clos
 
 Date: 2026-08-01
 
+### U.S., Israel preparing to bombard energy-related targets in Iran, sources say
+
+The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.
+
+Date: 2026-08-01
+
+### Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation
+
+The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”.
+
+Date: 2026-08-01
+
+### Iran's overlapping power centers make ending the war more complicated
+
+Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
+
+Date: 2026-08-01
+
 ### U.S. probing if Iran was behind cyberattack on water systems in 7 states
 
 Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.
@@ -56,23 +68,11 @@ As the Iran war enters its sixth month, the toll continues to grow. The UN says 
 
 Date: 2026-07-31
 
-### Trump and Netanyahu May Be at Odds Again Over Gaza Plan
-
-President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.
-
-Date: 2026-07-31
-
-### Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation
-
-President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.
-
-Date: 2026-07-31
-
 ## Sources
 
 - [U.S. probing if Iran was behind cyberattack on water systems in 7 states](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-07-31T23:52:33.000Z
+- [U.S., Israel preparing to bombard energy-related targets in Iran, sources say](https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com) — 2026-08-01T12:36:27.000Z
 - [Oil giants see profits surge as Iran war drives energy prices higher](https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com) — 2026-07-31T23:50:01.000Z
-- [Iran's overlapping power centers make ending the war more complicated](https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html?utm_source=lootura.com) — 2026-08-01T06:52:42.000Z
 - [Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest](https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
 - [How Iranians are living through months of war and government crackdowns](https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns?utm_source=lootura.com) — 2026-07-31T22:40:06.000Z
 - [Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com) — 2026-08-01T03:40:13.000Z

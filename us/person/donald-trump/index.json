@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -55,32 +55,32 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Charges dropped against former Olympian over reflecting pool damage",
-      "summary": "The Trump administration dropped charges against a former Olympic canoeist over damage to the renovated Lincoln Memorial reflecting pool, saying new evidence showed the contractor was to blame. NBC News’ Garrett Haake reports.",
-      "date": "2026-07-31"
+      "title": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed",
+      "summary": "Todd Blanche previously repeatedly told Congress the \"anti-weaponization fund\" was \"dead.\".",
+      "date": "2026-08-01"
     },
     {
-      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
-      "summary": "The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.",
-      "date": "2026-07-31"
+      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
+      "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
+      "date": "2026-08-01"
     },
     {
-      "title": "DOJ drops Reflecting Pool case, blaming damage on ‘botched’ installation",
-      "summary": "WASHINGTON — The Trump administration has dropped its case against a former Olympic canoeist charged in connection with damage to the Reflecting Pool, acknowledging their allegations against David “Davey” Hearn don’t hold water.",
-      "date": "2026-07-31"
+      "title": "The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash",
+      "summary": "American democrats need a Hungarian-style landslide to overwhelm Trump’s attempts to rig November’s midterm elections In these days of extreme weather events, it seems odd to say that the US needs a big landslide. But a landslide defeat for President Donald Trump in November’s midterm elections is exactly what is requi.",
+      "date": "2026-08-01"
     },
     {
-      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
-      "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1. (Image credit: Rebecca S. Gratz for The Washington Post).",
-      "date": "2026-07-31"
+      "title": "Cori Bush Has No Regrets",
+      "summary": "The internet had a field day last summer when a picture surfaced of Sen. Josh Hawley, R-Mo., with his arm around a former Democratic member of Congress. Hawley was at an event in St. Louis, Missouri, celebrating the inclusion of expanded funds for victims of nuclear radiation in President Donald Trump’s signature econo.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "WATCH: Booker continues to reject SAVE Act despite bombshell NJ voter roll scandal",
-      "url": "https://www.foxnews.com/politics/watch-booker-continues-reject-save-act-despite-bombshell-nj-voter-roll-scandal?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:00:12.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed",
+      "url": "https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:06:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Charges dropped against former Olympian over reflecting pool damage",
@@ -89,27 +89,15 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
-      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T23:39:06.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "DOJ drops Reflecting Pool case, blaming damage on ‘botched’ installation",
-      "url": "https://www.nbcnews.com/news/us-news/trump-administration-drops-reflecting-pool-case-blaming-damage-botched-rcna590303?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T21:55:16.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
       "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska?utm_source=lootura.com",
       "publishedAt": "2026-07-31T13:22:40.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T10:42:20.000Z",
+      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:46:43.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -119,10 +107,16 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Will the US midterm elections be free and fair? – Stateside with Kai and Carter",
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/31/us-midterm-elections-voting-rights-stateside-podcast?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T20:45:33.000Z",
+      "title": "The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T09:00:49.000Z",
       "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Cori Bush Has No Regrets",
+      "url": "https://theintercept.com/2026/08/01/missouri-cori-bush-wesley-bell-primary-aipac/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:06:00.000Z",
+      "sourceId": "lootura-us-the-intercept"
     },
     {
       "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
@@ -135,7 +129,13 @@
       "url": "https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:01:03.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T02:12:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 18
 }

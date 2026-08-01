@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-21
 ## Fuentes
 
 - [Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta](https://www.elconfidencial.com/espana/2026-08-01/67-muertos-ceuta-marruecos-frontera-inmigracion_4399459/?utm_source=lootura.com) — 2026-08-01T09:32:00.000Z
-- [España, en estado de sitio](https://theobjective.com/elsubjetivo/opinion/2026-08-01/espana-estado-sitio-articulo-juan-angel-soto/?utm_source=lootura.com) — 2026-08-01T03:25:00.000Z

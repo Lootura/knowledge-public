@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -27,6 +27,11 @@
     {
       "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
       "summary": "La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
+      "summary": "La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.",
       "date": "2026-08-01"
     },
     {
@@ -68,11 +73,6 @@
       "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
       "summary": "El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump advierte a la UE de que «pagará un precio muy alto» por multar a Goggle",
-      "summary": "El presidente de EE UU amenaza con nuevos aranceles «lo antes posible», tras la sanción de 890 millones impuesta a la tecnológica.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -81,7 +81,13 @@
       "url": "https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T03:45:00.000Z",
       "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
+      "url": "https://www.larazon.es/internacional/iran-amenaza-asesinar-melania-trump-gas-venenoso_202608016a6deddda5690f04735e3a24.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

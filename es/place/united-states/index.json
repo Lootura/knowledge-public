@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -26,6 +26,7 @@
     "US of A",
     "US of America",
     "United States",
+    "United States of America",
     "Unión Americana",
     "los Estados",
     "the States",
@@ -38,8 +39,7 @@
     "the US of America",
     "the USA",
     "the United States",
-    "the United States of America",
-    "United States of America"
+    "the United States of America"
   ],
   "changes": [
     {
@@ -48,13 +48,13 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu",
-      "summary": "A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.",
+      "title": "Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos",
+      "summary": "La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.",
       "date": "2026-08-01"
     },
     {
-      "title": "Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos",
-      "summary": "La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.",
+      "title": "Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu",
+      "summary": "A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.",
       "date": "2026-08-01"
     },
     {
@@ -101,17 +101,11 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu",
-      "url": "https://okdiario.com/naturaleza/mientras-espana-arde-peru-planta-1-000-000-arboles-restaurar-ecosistemas-del-machu-picchu-16527735?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T06:07:23.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos",
       "url": "https://okdiario.com/happyfm/asi-vida-marian-aguilera-hombres-paco-estados-unidos-19082364?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:33:23.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

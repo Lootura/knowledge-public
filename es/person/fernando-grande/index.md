@@ -3,20 +3,38 @@
 > Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-grande
 
 ## Cambios recientes
 
-### Fernando Grande-Marlaska, ofrece una rueda de prensa sobre la situación de los inmigrantes en Ceuta, en directo
-
-Siga las imágenes en directo.
-
-Date: 2026-08-01
-
 ### Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el "egoísmo" de los países de la UE
 
 El ministro del Interior, Fernando Grande-Marlaska, destaca la "impactante" actuación del Gobierno ante la crisis en Ceuta.
+
+Date: 2026-08-01
+
+### Marlaska dice que España ha revertido la crisis "sola", aplaude a Marruecos y ve mala fe en Italia: "Ceuta no es Schengen"
+
+El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.
+
+Date: 2026-08-01
+
+### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
+
+La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.
+
+Date: 2026-08-01
+
+### Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse
+
+El ministro del Interior, Fernando Grande-Marlaska , ha defendido que Marruecos «no es una amenaza» ni para la ciudad de Ceuta ni para el conjunto de España , y que el Gobierno trabaja para que una entrada masiva de inmigrantes no se vuelva a repetir, si bien no lo ha descartado del todo esgrimiendo que no es «adivino».
+
+Date: 2026-08-01
+
+### Fernando Grande-Marlaska, ofrece una rueda de prensa sobre la situación de los inmigrantes en Ceuta, en directo
+
+Siga las imágenes en directo.
 
 Date: 2026-08-01
 
@@ -50,19 +68,9 @@ El ministro del Interior, Fernando Grande-Marlaska , ha declarado la emergencia 
 
 Date: 2026-07-24
 
-### Última hora sobre los incendios: Marlaska advierte de “un día crítico” para evitar que los tres incendios de Madrid y Ávila confluyan
-
-El ministro del Interior, Fernando Grande-Marlaska, ha advertido de que este viernes será “un día crítico” debido a la evolución de los tres incendios que asolan la Comunidad de Madrid y Ávila y por los que se ha declarado la emergencia nacional. El ministro, que dirige el operativo, ha calificado de objetivo “priorita.
-
-Date: 2026-07-24
-
-### FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes
-
-El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Fernando Grande-Marlaska, ofrece una rueda de prensa sobre la situación de los inmigrantes en Ceuta, en directo](https://www.eldebate.com/espana/20260801/fernando-grandemarlaska-ofrece-rueda-prensa-sobre-situacion-inmigrantes-ceuta-directo_445904.html?utm_source=lootura.com) — 2026-08-01T09:12:13.000Z
+- [Marlaska dice que España ha revertido la crisis "sola", aplaude a Marruecos y ve mala fe en Italia: "Ceuta no es Schengen"](https://www.20minutos.es/nacional/marlaska-dice-espana-revertido-crisis-migratoria-sola-alaba-marruecos-mala-fe-italia-ceuta-schengen_7021589_0.html?utm_source=lootura.com) — 2026-08-01T10:23:55.000Z
+- [Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"](https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com) — 2026-08-01T10:18:00.000Z
 - [Marlaska rinde pleitesía a Marruecos tras la invasión de Ceuta y carga contra el "egoísmo" de los países de la UE](https://okdiario.com/espana/marlaska-rinde-pleitesia-marruecos-invasion-ceuta-carga-contra-egoismo-paises-ue-19110566/amp?utm_source=lootura.com) — 2026-08-01T09:42:59.000Z
+- [Marlaska no ve a Marruecos «una amenaza», pero no descarta que pueda repetirse](https://theobjective.com/espana/politica/2026-08-01/marlaska-marruecos-amenaza-repetirse/?utm_source=lootura.com) — 2026-08-01T11:29:00.000Z

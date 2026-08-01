@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T20:49:12.134Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Opinion: Remembering Margo Howard",
+      "summary": "Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86. (Image credit: Michael L Abramson/Getty Images).",
+      "date": "2026-08-01"
+    },
     {
       "title": "What Octogenarian Pop Divas Show Us About a Life Well-Lived",
       "summary": "Cher, Dolly Parton, Barbra Streisand, and Dionne Warwick —Stewart Cook—CBS/Getty Images; Jason Kempin—Getty Images; Kevin Mazur—BSB/Getty Images; Frank Hoensch—Redferns/Getty Images On May 20, Cher turned 80 years old. Beyond a celebration of one spectacular career, her birthday is an occasion to consider what it means.",
@@ -59,13 +64,15 @@
       "title": "We’re Taking Hobbies Too Far",
       "summary": "—Mitch Diamond—Getty Images A few weeks ago, a clip from Dominican Sisters Open Mic , a podcast featuring Catholic nuns, went viral. “Do you have a hobby, sister?” one nun asks the other. “I do not have a hobby,” the nun replied, noting that a “hobby, to me, feels like just something else to do.” That must be freeing.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Opinion: Remembering Margo Howard",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Property owner advocacy groups push back on Mamdani's 'Rental Ripoff Report,' public database of landlords
+
+Organizations that advocate on behalf of property owners called out New York City’s democratic socialist Mayor Zohran Mamdani in blistering statements to Fox News Digital. Mamdani campaigned on freezing rents for New Yorkers and appears to have delivered on his crackdown on landlords, upsetting local property owners. H.
+
+Date: 2026-08-01
 
 ### Upper West Side double stabbing suspect facing hate crime charges
 
@@ -62,12 +68,6 @@ New York Mayor Mamdani said the city would not be able to execute an arrest warr
 
 Date: 2026-07-22
 
-### Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him
-
-Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [Property owner advocacy groups push back on Mamdani's 'Rental Ripoff Report,' public database of landlords](https://www.foxnews.com/media/property-owner-advocacy-groups-push-back-mamdani-rental-ripoff-report-database-landlords?utm_source=lootura.com) — 2026-08-01T13:00:51.000Z

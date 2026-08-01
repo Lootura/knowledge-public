@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -20,6 +20,7 @@
     "U.S. of America",
     "US of A",
     "US of America",
+    "United States of America",
     "the States",
     "the U.S.",
     "the U.S. of A",
@@ -30,20 +31,9 @@
     "the US of America",
     "the USA",
     "the United States",
-    "the United States of America",
-    "United States of America"
+    "the United States of America"
   ],
   "changes": [
-    {
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "The Post-Roe Surprise: More Abortions",
-      "summary": "Access to medication abortion in the years since Covid and the fall of Roe v. Wade has completely reshaped the abortion access landscape in America. “There’s this irony that’s actually happened,” says Dr. Angel Foster, an abortion provider and researcher. “Tragically, 33 to 40 percent of women of reproductive age now h.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
       "summary": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is. (Image credit: Hope McKenney).",
@@ -80,9 +70,19 @@
       "date": "2026-08-01"
     },
     {
-      "title": "U.S. probing if Iran was behind cyberattack on water systems in 7 states",
-      "summary": "Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.",
-      "date": "2026-07-31"
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
+      "summary": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "A brief timeline of Iranian cyberattacks on the U.S.",
+      "summary": "Investigators are probing whether Iranian hackers are behind this week's malicious cyber activity against water systems in Minnesota. If they are found to be the culprits, it would not be the first time.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
+      "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -93,28 +93,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
+      "url": "https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:36:27.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Oil giants see profits surge as Iran war drives energy prices higher",
       "url": "https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com",
       "publishedAt": "2026-07-31T23:50:01.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T06:52:42.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "The Post-Roe Surprise: More Abortions",
-      "url": "https://www.motherjones.com/politics/2026/08/medication-abortion-access-increasing-roe-v-wade-angel-foster/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T07:01:00.000Z",
-      "sourceId": "lootura-us-mother-jones"
+      "title": "A brief timeline of Iranian cyberattacks on the U.S.",
+      "url": "https://www.cbsnews.com/news/iranian-cyberattacks-timeline-u-s-companies-water-systems-minnesota-hacked/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T10:00:03.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:46:43.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "U.S. will make visa bond program permanent, affecting mostly African countries",
@@ -135,16 +141,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
-      "url": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T22:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Will the US midterm elections be free and fair? – Stateside with Kai and Carter",
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/31/us-midterm-elections-voting-rights-stateside-podcast?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T20:45:33.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T03:40:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 14

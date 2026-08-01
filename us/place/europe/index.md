@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’
-
-A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.
-
-Date: 2026-08-01
 
 ### Hungary to shut nuclear plant as heatwave hits central Europe
 
@@ -23,6 +17,12 @@ Date: 2026-08-01
 ### Extreme Heat Has Transformed What Summer Means Across Generations in Europe
 
 Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
+
+Date: 2026-08-01
+
+### Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’
+
+A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.
 
 Date: 2026-08-01
 
@@ -70,7 +70,6 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’](https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html?utm_source=lootura.com) — 2026-08-01T06:58:41.000Z
+- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-01T13:14:51.833Z
 - [Hungary to shut nuclear plant as heatwave hits central Europe](https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html?utm_source=lootura.com) — 2026-08-01T06:47:14.000Z
-- [From research to policy: Study turns EU wildfire assessments into a tool for better governance](https://phys.org/news/2026-07-policy-eu-wildfire-tool.html?utm_source=lootura.com) — 2026-07-31T20:40:05.000Z
-- [Extreme Heat Has Transformed What Summer Means Across Generations in Europe](https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html?utm_source=lootura.com) — 2026-08-01T04:01:07.000Z
+- [Extreme Heat Has Transformed What Summer Means Across Generations in Europe](https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html?utm_source=lootura.com) — 2026-08-01T12:39:14.000Z

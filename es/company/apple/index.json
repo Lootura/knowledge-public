@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple",
+      "summary": "iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta Siri con IA, pero algunas son especialmente útiles y dignas de mención, como esta de la que casi nadie se ha dado cuenta . Se trata de una característica que muchos llevan pidiendo y que te va a ahorrar muchísimo tiempo. Además, te va a permit.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone",
       "summary": "Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directamente dentro del simulador de Apple . Si tienes una Mac y una suscripción de pago de Claude, ya puedes p.",
@@ -58,13 +63,15 @@
       "title": "Samsung lanza su primera tarjeta de crédito para competir con la Apple Card",
       "summary": "A unas horas de la presentación de sus nuevos plegables, Samsung anunció su primera tarjeta de crédito . Conocida como Samsung Galaxy Card , su principal atractivo son las recompensas en efectivo escalonadas según dónde y cómo gastes tu dinero. Al igual que ocurre con la Apple Card, los usuarios pueden obtener cashback.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución",
-      "summary": "Samsung ha decidido seguir los pasos de Apple y desembarcar en el negocio de las tarjetas de crédito, un movimiento del que se venía hablando desde hace tiempo. La compañía surcoreana ha presentado oficialmente la Samsung Galaxy Card , una propuesta integrada en Samsung Wallet que ofrecerá recompensas especiales al rea.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple",
+      "url": "https://hipertextual.com/apple/nadie-habla-de-esta-funcion-de-ios-27-y-te-va-a-cambiar-la-vida-es-lo-mas-util-que-ha-hecho-apple/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

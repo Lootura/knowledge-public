@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,11 +17,6 @@
     "Ukraïna"
   ],
   "changes": [
-    {
-      "title": "Russian strikes on Kyiv kill 9, injure at least 15, officials say",
-      "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
       "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
@@ -35,6 +30,21 @@
     {
       "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
       "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Russian strikes on Kyiv kill 9, injure at least 27, officials say",
+      "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+      "summary": "Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Russian strikes on Kyiv kill 9, injure at least 15, officials say",
+      "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
       "date": "2026-08-01"
     },
     {
@@ -56,21 +66,11 @@
       "title": "How volunteers with 3D printers make weapons for Ukraine",
       "summary": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine's defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that t.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
-      "summary": "The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "summary": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Russian strikes on Kyiv kill 9, injure at least 15, officials say",
+      "title": "Russian strikes on Kyiv kill 9, injure at least 27, officials say",
       "url": "https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T04:45:41.000Z",
       "sourceId": "lootura-us-cbs-news"
@@ -100,9 +100,9 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+      "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
       "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T07:14:41.000Z",
+      "publishedAt": "2026-08-01T11:24:05.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

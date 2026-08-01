@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
-      "summary": "Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.",
-      "date": "2026-08-01"
-    },
     {
       "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
       "summary": "En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.",
@@ -24,6 +19,11 @@
     {
       "title": "Fragmento del día: Eclipse solar del 1 de agosto de 2008",
       "summary": "segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
+      "summary": "Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.",
       "date": "2026-08-01"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
-      "url": "https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T07:30:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
       "url": "https://cincodias.elpais.com/opinion/2026-08-01/china-es-el-ganador-del-caos-global-por-que-ha-elegido-invertir-en-espana.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T03:40:00.000Z",
@@ -82,5 +76,5 @@
       "sourceId": "lootura-es-lootura-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

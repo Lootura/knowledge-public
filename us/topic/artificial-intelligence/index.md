@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,5 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Judge denies request by Elon Musk’s xAI to pause Minnesota nudification ban](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993?utm_source=lootura.com) — 2026-07-31T19:41:20.000Z
 - [A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz](https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com) — 2026-08-01T09:15:00.000Z
 - [Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky?utm_source=lootura.com) — 2026-07-31T17:48:26.000Z
-- [Autism Diagnoses Spiked After COVID-19, But Probably Not For The Reason You Think](https://www.sciencealert.com/autism-diagnoses-spiked-after-covid-19-but-probably-not-for-the-reason-you-think?utm_source=lootura.com) — 2026-08-01T08:00:00.000Z

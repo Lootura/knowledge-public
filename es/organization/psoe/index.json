@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»",
+      "summary": "Mientras Ceuta trata de recuperar la normalidad tras la entrada masiva de inmigrantes desde Marruecos, un vídeo grabado el 31 de julio durante un directo de TVE se ha convertido en una de las imágenes más comentadas de la crisis migratoria. Un inmigrante marroquí recién llegado a la ciudad autónoma irrumpió en la emisi.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Autopercibido como socialdemócrata",
       "summary": "No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.",
@@ -65,13 +70,15 @@
       "title": "Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle",
       "summary": "Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: \"Esto no va ser un ring\"",
-      "summary": "Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarles la palabra, el grupo que lidera Montero abandona el pleno Leer.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»",
+      "url": "https://okdiario.com/espana/marroqui-que-acaba-entrar-ceuta-irrumpe-directo-tve-grita-has-cagao-psoe-19111139?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:02:33.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

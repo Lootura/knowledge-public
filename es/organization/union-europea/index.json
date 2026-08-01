@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -67,11 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos",
-      "url": "https://www.lavanguardia.com/politica/20260801/11605805/sanchez-pide-reunion-europea-urgente-crisis-ceuta-carga-reaccion-gobiernos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:04:24.000Z",
+      "title": "Italia y Dinamarca también piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez",
+      "url": "https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T10:23:55.000Z",
       "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

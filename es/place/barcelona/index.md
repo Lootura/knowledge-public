@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"
+
+Una mujer con una kufiya palestina abordó en Barcelona a siete turistas judíos; reclutó a renglón seguido a una turba y aterrorizó a los parisinos durante treinta interminables minutos. Lo sucedido evoca el pogromo del Kurfürstendamm, cuando los nazis persiguieron a los fieles de una sinagoga berlinesa al grito de «Mue.
+
+Date: 2026-08-01
 
 ### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
 
@@ -62,12 +68,6 @@ Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la d
 
 Date: 2026-07-24
 
-### Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"
-
-Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: "No.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"](https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com) — 2026-08-01T12:26:10.000Z

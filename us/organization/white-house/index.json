@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,13 @@
   ],
   "changes": [
     {
-      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "title": "Funding milestone detected",
+      "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
       "date": "2026-07-31"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
+      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-07-31"
     },
     {
@@ -71,17 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T21:00:00.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump Administration Plans to Upend Head Start by Deregulating It",
       "url": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-31T20:31:08.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

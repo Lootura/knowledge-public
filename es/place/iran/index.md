@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán amenaza con asesinar a Melania Trump con un gas venenoso
+
+La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.
+
+Date: 2026-08-01
 
 ### Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas
 
@@ -62,12 +68,7 @@ El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad
 
 Date: 2026-07-23
 
-### La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP
-
-La norma permite que los asalariados públicos compatibilicen la reducción de su jornada con el cobro de la pensión y mejoran el complemento de residencia de más de 11.000 empleados públicos en Baleares El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z
+- [Irán amenaza con asesinar a Melania Trump con un gas venenoso](https://www.larazon.es/internacional/iran-amenaza-asesinar-melania-trump-gas-venenoso_202608016a6deddda5690f04735e3a24.html?utm_source=lootura.com) — 2026-08-01T13:00:13.000Z

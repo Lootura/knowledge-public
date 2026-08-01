@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,18 +17,8 @@
   ],
   "changes": [
     {
-      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
-      "summary": "Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "La destrucción de España",
       "summary": "Cuando todavía colean los incendios más voraces jamás padecidos en España sufrimos la invasión de una horda incontable de marroquíes. ¿Alguien puede todavía negar que estamos gobernados por chacales juramentados en la destrucción de España? ¿Alguien puede negar que estamos en manos de criminales dispuestos a convertir.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
-      "summary": "El presidente del Gobierno ha remitido una carta a Ursula Von der Leyen y Antonio Costa en la que denuncia el «ataque» de varios miembros de la UE por la crisis migratoria acaecida en España.",
       "date": "2026-08-01"
     },
     {
@@ -47,44 +37,54 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Castilla y León entra en la carrera de los centros de datos con un importante proyecto de 1.600 millones",
-      "summary": "Con retraso, pero Castilla y León va a entrar al fin en la carrera por los centros de tratamiento de datos , unas instalaciones que comienzan a abrirse paso en España en los últimos años. La empresa DC Mudarra SLU proyecta en Torrelobatón un centro con una capacidad máxima de 160 MW que requerirá una inversión de no me.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Navia, el pueblo de Asturias donde más durará el eclipse solar del 12 de agosto y por qué es de los mejores lugares de España para verlo",
       "summary": "Navia será uno de los enclaves privilegiados para contemplar el eclipse total de Sol del 12 de agosto de 2026. Este concejo de la costa occidental asturiana disfrutará de casi un minuto y 50 segundos de oscuridad completa , la mayor duración prevista en España. El fenómeno comenzará en Navia a las 19.30 , cuando la Lun.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Del carajillo a la esterilla: España vive un 'boom' de los bares donde se va para hacer deporte",
-      "summary": "Visitamos los nuevos establecimientos de moda: los locales de restauración a los que se va para tomar algo... o a sudar.",
       "date": "2026-08-01"
     },
     {
       "title": "Las 38 horas de un gobierno en 'shock' ante la \"violación de la integridad territorial de España\"",
       "summary": "El Ejecutivo central no logró contener durante toda una jornada el aluvión de llegadas de inmigrantes irregulares a Ceuta, ni con el despliegue de agentes ni por la vía diplomática Leer.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Europa se revuelve contra Sánchez por poner en riesgo sus fronteras",
+      "summary": "Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta Leer.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior",
+      "summary": "El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: \"Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos\" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Marlaska dice que España ha revertido la crisis \"sola\", aplaude a Marruecos y ve mala fe en Italia: \"Ceuta no es Schengen\"",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha comparecido este sábado en Ceuta tras la crisis migratoria provocada por la entrada masiva de extranjeros de este jueves y este viernes, y ha defendido la gestión del Ejecutivo y la actuación de Marruecos y ha atacado a Italia por su decisión de suspender el acuer.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Norges Bank Investment Management (“NBIM”) y Sonae Sierra han acordado la adquisición de una cartera de ocho centros comerciales en España , por la que llevaban meses negociando , con un valor bruto aproximado de 1.500 millones de euros. Los activos incluidos en la operación son Gran Plaza 2, Plaza Norte 2, Plaza Río 2.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
-      "url": "https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T07:30:00.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Marlaska dice que España ha revertido la crisis \"sola\", aplaude a Marruecos y ve mala fe en Italia: \"Ceuta no es Schengen\"",
+      "url": "https://www.20minutos.es/nacional/marlaska-dice-espana-revertido-crisis-migratoria-sola-alaba-marruecos-mala-fe-italia-ceuta-schengen_7021589_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T10:23:55.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "La destrucción de España",
       "url": "https://www.abc.es/opinion/juan-manuel-de-prada-destruccion-espana-20260731134519-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:53:18.000Z",
+      "publishedAt": "2026-08-01T11:01:50.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
-      "url": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:54:18.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Norges y Sonae Sierra compran La Vaguada, Gran Plaza 2 y otros seis centros comerciales valorados en 1.500 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-08-01/norges-y-sonae-sierra-compran-la-vaguada-gran-plaza-2-y-otros-seis-centros-comerciales-valorados-en-1500-millones.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:54:09.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
@@ -105,21 +105,9 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Castilla y León entra en la carrera de los centros de datos con un importante proyecto de 1.600 millones",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-08-01/castilla-y-leon-entra-en-la-carrera-de-los-centros-de-datos-con-un-importante-proyecto-de-1-600-millones_4399021/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Navia, el pueblo de Asturias donde más durará el eclipse solar del 12 de agosto y por qué es de los mejores lugares de España para verlo",
       "url": "https://www.elconfidencial.com/espana/2026-08-01/navia-pueblo-asturias-mas-dura-eclipse-solar-12-agosto-1qrt_4398440/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T07:04:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Del carajillo a la esterilla: España vive un 'boom' de los bares donde se va para hacer deporte",
-      "url": "https://www.elconfidencial.com/espana/2026-08-01/carajillo-rodillo-espana-deporte-bares_4389203/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T03:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
@@ -127,7 +115,19 @@
       "url": "https://www.elmundo.es/espana/2026/08/01/6a6cf124fdddff45638b4598.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T00:35:06.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Europa se revuelve contra Sánchez por poner en riesgo sus fronteras",
+      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T00:35:03.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE",
+      "url": "https://elpais.com/espana/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta-y-pide-una-reunion-urgente-de-la-ue.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T10:08:11.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 22
+  "evidenceCount": 18
 }

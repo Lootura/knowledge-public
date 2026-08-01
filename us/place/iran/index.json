@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
       "summary": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military. (Image credit: Ryan Murphy).",
@@ -42,6 +37,21 @@
       "date": "2026-08-01"
     },
     {
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
+      "summary": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+      "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Iran's overlapping power centers make ending the war more complicated",
+      "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
+      "date": "2026-08-01"
+    },
+    {
       "title": "U.S. probing if Iran was behind cyberattack on water systems in 7 states",
       "summary": "Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.",
       "date": "2026-07-31"
@@ -55,16 +65,6 @@
       "title": "How Iranians are living through months of war and government crackdowns",
       "summary": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
-      "summary": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation",
-      "summary": "President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
@@ -75,16 +75,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
+      "url": "https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:36:27.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Oil giants see profits surge as Iran war drives energy prices higher",
       "url": "https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/?utm_source=lootura.com",
       "publishedAt": "2026-07-31T23:50:01.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T06:52:42.000Z",
-      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",

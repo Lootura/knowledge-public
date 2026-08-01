@@ -1,26 +1,16 @@
 {
   "id": "es-ursula-von",
-  "name": "Úrsula Von",
+  "name": "Ursula Von",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/ursula-von",
   "canonicalUrl": "https://atlas.lootura.com/es/person/ursula-von",
   "markdownUrl": "https://atlas.lootura.com/es/person/ursula-von/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ursula-von/index.json",
-  "description": "Sigue la actividad de Úrsula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "description": "Sigue la actividad de Ursula Von en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior",
-      "summary": "El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su \"seria preocupación\" sobre la \"reciente reacción\" de \"algunos gobiernos europeos\" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
-      "summary": "El presidente del Gobierno ha remitido una carta a Ursula Von der Leyen y Antonio Costa en la que denuncia el «ataque» de varios miembros de la UE por la crisis migratoria acaecida en España.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Sánchez pide una reunión urgente de los ministros del Interior de la UE por el cierre del espacio Schengen por parte de Italia",
       "summary": "El presidente del Gobierno envía una carta a Úrsula Von der Leyen trasladándole su «seria preocupación» por la reacción de algunos países como el italiano ante la crisis migratoria en Ceuta.",
@@ -33,21 +23,30 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Úrsula Von first entered the public knowledge record with source-backed evidence.",
+      "summary": "Ursula Von first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
+      "summary": "Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de los ministros del Interior de los países miembros tras las cri.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su \"seria preocupación\" sobre la \"reciente reacción\" de \"algunos gobiernos europeos\" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
+      "summary": "El presidente del Gobierno ha remitido una carta a Ursula Von der Leyen y Antonio Costa en la que denuncia el «ataque» de varios miembros de la UE por la crisis migratoria acaecida en España.",
       "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior",
-      "url": "https://www.20minutos.es/nacional/sanchez-expresa-preocupacion-von-der-leyen-reaccion-socios-meloni-crisis-migratoria-pide-reunion-ministros-interior_7021576_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:18:21.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
+      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»",
       "url": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:54:18.000Z",
+      "publishedAt": "2026-08-01T11:38:38.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -63,5 +62,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

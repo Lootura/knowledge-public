@@ -3,16 +3,10 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
-
-### Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país
-
-Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.
-
-Date: 2026-08-01
 
 ### China es el ganador del caos global. ¿Por qué ha elegido invertir en España?
 
@@ -23,6 +17,12 @@ Date: 2026-08-01
 ### Fragmento del día: Eclipse solar del 1 de agosto de 2008
 
 segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].
+
+Date: 2026-08-01
+
+### Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país
+
+Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.
 
 Date: 2026-08-01
 
@@ -70,6 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país](https://www.abc.es/recreo/chino-vive-espana-explica-pasa-muere-gente-20260801221803-nt.html?utm_source=lootura.com) — 2026-08-01T07:30:00.000Z
 - [China es el ganador del caos global. ¿Por qué ha elegido invertir en España?](https://cincodias.elpais.com/opinion/2026-08-01/china-es-el-ganador-del-caos-global-por-que-ha-elegido-invertir-en-espana.html?utm_source=lootura.com) — 2026-08-01T03:40:00.000Z
 - [Fragmento del día: Eclipse solar del 1 de agosto de 2008](https://es.wikipedia.org/wiki/Eclipse_solar_del_1_de_agosto_de_2008?utm_source=lootura.com) — 2026-08-01T04:00:00.000Z

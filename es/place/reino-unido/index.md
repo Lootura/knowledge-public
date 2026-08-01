@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza
+
+Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decorado de época romana en Colchester , Reino Unido , durante obras de reurbanización en el antiguo Hospital de Essex. Dentro, los arqueólogos hallaron los restos de una mujer de alto estatus social que vivió hace unos 1.700 años, hacia el final.
+
+Date: 2026-08-01
 
 ### Europa tiene petróleo pero decidió no tenerlo
 
@@ -62,12 +68,6 @@ Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a c
 
 Date: 2026-07-22
 
-### Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido
-
-El presidente de Iberdrola, Ignacio Sánchez Galán, se ha mostrado partidario de rebajar las cargas fiscales que gravan la factura de la luz, en línea con las recomendaciones de la Comisión Europea y la decisión del nuevo primer ministro británico, Andy Burgham, de suprimir el IVA de la luz para los hogares. Así lo ha d.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza](https://okdiario.com/historia/hallazgo-insolito-arqueologos-del-reino-unido-encuentran-sarcofago-romano-plomo-1-700-anos-restos-dama-nobleza-19078828?utm_source=lootura.com) — 2026-08-01T13:00:33.000Z

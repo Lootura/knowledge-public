@@ -1,20 +1,20 @@
 {
   "id": "es-uefa",
-  "name": "Unión de Federaciones Europeas de Fútbol",
+  "name": "Union des Associations Européennes de Football",
   "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/uefa",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/uefa",
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
-  "description": "Sigue la actividad de Unión de Federaciones Europeas de Fútbol en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
-    "Unión de Federaciones Europeas de Fútbol",
-    "Union des Associations Européennes de Football",
-    "Vereinigung Europäischer Fußballverbände",
+    "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
-    "Union Europea de Asociaciones de Futbol"
+    "Union des Associations Européennes de Football",
+    "Unión de Federaciones Europeas de Fútbol",
+    "Vereinigung Europäischer Fußballverbände"
   ],
   "changes": [
     {

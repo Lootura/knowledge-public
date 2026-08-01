@@ -3,20 +3,38 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
 
-### Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior
-
-El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su "seria preocupación" sobre la "reciente reacción" de "algunos gobiernos europeos" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.
-
-Date: 2026-08-01
-
 ### Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta
 
 El presidente del Gobierno, Pedro Sánchez , ha enviado este sábado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen, con el objetivo de trasladarle su «seria preocupación» sobre la «reciente reacción» de «algunos gobiernos europeos» tras la crisis migratoria de Ceuta . Además, ha pedido una reunió.
+
+Date: 2026-08-01
+
+### Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»
+
+Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de los ministros del Interior de los países miembros tras las cri.
+
+Date: 2026-08-01
+
+### Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta
+
+Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.
+
+Date: 2026-08-01
+
+### Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.
+
+Date: 2026-08-01
+
+### Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior
+
+El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su "seria preocupación" sobre la "reciente reacción" de "algunos gobiernos europeos" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.
 
 Date: 2026-08-01
 
@@ -46,5 +64,7 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior](https://www.20minutos.es/nacional/sanchez-expresa-preocupacion-von-der-leyen-reaccion-socios-meloni-crisis-migratoria-pide-reunion-ministros-interior_7021576_0.html?utm_source=lootura.com) — 2026-08-01T09:18:21.000Z
+- [Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoístas»](https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html?utm_source=lootura.com) — 2026-08-01T11:38:38.000Z
+- [Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta](https://okdiario.com/espana/lideres-22-paises-europeos-senalan-regularizacion-sanchez-como-factor-atraccion-plena-invasion-ceuta-19111146?utm_source=lootura.com) — 2026-08-01T12:32:31.000Z
 - [Sánchez envía una carta a la UE y pide una reunión de ministros del Interior sobre Ceuta](https://theobjective.com/espana/2026-08-01/sanchez-carta-ue-reunion-interior-ceuta/?utm_source=lootura.com) — 2026-08-01T08:50:08.000Z
+- [Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta](https://theobjective.com/internacional/2026-08-01/von-der-leyen-celebra-retorno-marruecos-ceuta/?utm_source=lootura.com) — 2026-08-01T12:09:35.000Z

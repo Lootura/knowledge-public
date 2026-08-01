@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos](https://www.lavanguardia.com/politica/20260801/11605805/sanchez-pide-reunion-europea-urgente-crisis-ceuta-carga-reaccion-gobiernos.html?utm_source=lootura.com) — 2026-08-01T09:04:24.000Z
+- [Italia y Dinamarca también piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez](https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html?utm_source=lootura.com) — 2026-08-01T10:23:55.000Z

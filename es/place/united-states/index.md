@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados
 
 Date: 2026-08-01
 
-### Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu
-
-A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.
-
-Date: 2026-08-01
-
 ### Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos
 
 La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.
+
+Date: 2026-08-01
+
+### Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu
+
+A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.
 
 Date: 2026-08-01
 
@@ -71,5 +71,4 @@ Date: 2026-07-25
 ## Fuentes
 
 - [Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país](https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
-- [Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu](https://okdiario.com/naturaleza/mientras-espana-arde-peru-planta-1-000-000-arboles-restaurar-ecosistemas-del-machu-picchu-16527735?utm_source=lootura.com) — 2026-08-01T06:07:23.000Z
 - [Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos](https://okdiario.com/happyfm/asi-vida-marian-aguilera-hombres-paco-estados-unidos-19082364?utm_source=lootura.com) — 2026-08-01T09:33:23.000Z

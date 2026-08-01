@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Russian strikes on Kyiv kill 9, injure at least 15, officials say
-
-Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.
-
-Date: 2026-08-01
 
 ### Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles
 
@@ -29,6 +23,24 @@ Date: 2026-08-01
 ### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
 
 The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.
+
+Date: 2026-08-01
+
+### Russian strikes on Kyiv kill 9, injure at least 27, officials say
+
+Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.
+
+Date: 2026-08-01
+
+### Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge
+
+Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.
+
+Date: 2026-08-01
+
+### Russian strikes on Kyiv kill 9, injure at least 15, officials say
+
+Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.
 
 Date: 2026-08-01
 
@@ -56,23 +68,11 @@ Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minist
 
 Date: 2026-07-24
 
-### Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home
-
-The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.
-
-Date: 2026-07-24
-
-### Russia and Ukraine Trade Deadly Blows With Missiles and Drones
-
-Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Russian strikes on Kyiv kill 9, injure at least 15, officials say](https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com) — 2026-08-01T04:45:41.000Z
+- [Russian strikes on Kyiv kill 9, injure at least 27, officials say](https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com) — 2026-08-01T04:45:41.000Z
 - [News Wrap: Death toll from Japan earthquake rises to 34](https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34?utm_source=lootura.com) — 2026-07-31T22:45:12.000Z
 - [Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles](https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html?utm_source=lootura.com) — 2026-08-01T05:49:43.000Z
 - [How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer](https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com) — 2026-08-01T09:02:02.000Z
 - [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T09:02:16.000Z
-- [Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge](https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com) — 2026-08-01T07:14:41.000Z
+- [Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge](https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com) — 2026-08-01T11:24:05.000Z

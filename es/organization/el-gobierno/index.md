@@ -3,16 +3,10 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
-
-### Así es la barrera de contención que el Gobierno instala en Ceuta: 500 metros de longitud y 1,70 de alto
-
-El Gobierno central ha informado este sábado del comienzo de la colocación de barreras de contención en la ciudad autónoma de Ceuta tras una noche que ha definido como "con normalidad". A las 7:50 horas de la mañana de este sábado ha empezado la instalación de las barreras de contención en el espigón del Tarajal, en Ce.
-
-Date: 2026-08-01
 
 ### El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'
 
@@ -29,6 +23,12 @@ Date: 2026-08-01
 ### El Gobierno comienza la instalación de una barrera de contención en Ceuta
 
 El Gobierno ha informado este sábado del comienzo de la colocación de barreras de contención en la ciudad autónoma de Ceuta tras una noche que ha definido como «con normalidad». A las 7.50 horas ha empezado la instalación de las barreras de contención en el espigón del Tarajal , en Ceuta, informan desde Moncloa esta ma.
+
+Date: 2026-08-01
+
+### Así es la barrera de contención que el Gobierno instala en Ceuta: 500 metros de longitud y 1,70 de alto
+
+El Gobierno central ha informado este sábado del comienzo de la colocación de barreras de contención en la ciudad autónoma de Ceuta tras una noche que ha definido como "con normalidad". A las 7:50 horas de la mañana de este sábado ha empezado la instalación de las barreras de contención en el espigón del Tarajal, en Ce.
 
 Date: 2026-08-01
 
@@ -70,7 +70,6 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Así es la barrera de contención que el Gobierno instala en Ceuta: 500 metros de longitud y 1,70 de alto](https://www.20minutos.es/ceuta/asi-barrera-contencion-gobierno-instala-espigon-tarajal-ceuta-longitud-altura_7021554_0.html?utm_source=lootura.com) — 2026-08-01T07:48:32.000Z
 - [El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'](https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html?utm_source=lootura.com) — 2026-08-01T08:10:48.000Z
 - [El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”](https://elpais.com/espana/2026-08-01/el-gobierno-admite-que-no-vio-venir-la-crisis-de-ceuta-si-hubieramos-tenido-informacion-no-habrian-entrado-50000-en-24-horas.html?utm_source=lootura.com) — 2026-08-01T03:30:01.000Z
 - [El Gobierno comienza la instalación de una barrera de contención en Ceuta](https://theobjective.com/espana/2026-08-01/gobierno-comienza-instalacion-barrera-contencion-ceuta/?utm_source=lootura.com) — 2026-08-01T07:27:38.000Z

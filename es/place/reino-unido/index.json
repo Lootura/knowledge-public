@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza",
+      "summary": "Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decorado de época romana en Colchester , Reino Unido , durante obras de reurbanización en el antiguo Hospital de Essex. Dentro, los arqueólogos hallaron los restos de una mujer de alto estatus social que vivió hace unos 1.700 años, hacia el final.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Europa tiene petróleo pero decidió no tenerlo",
       "summary": "Europa habla de su energía como si la geología la hubiera condenado, y es falso. El continente tiene petróleo y gas en cantidades relevantes. Lo que no tiene es voluntad política de producirlos. El Reino Unido y Noruega producen entre 2,7 y 3 millones de barriles diarios en el mar del Norte, y aunque la cuenca es madur.",
@@ -67,13 +72,15 @@
       "title": "Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud",
       "summary": "Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a convocar a toda la atención mediática de la industria para un interesantísimo Galaxy Unpacked 2026 celebrado en Londres. Allí, en la capital del Reino Unido, la empresa surcoreana nos ha enseñado no sólo a los nuevos Galaxy Z Fold8 , Fold8 U.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido",
-      "summary": "El presidente de Iberdrola, Ignacio Sánchez Galán, se ha mostrado partidario de rebajar las cargas fiscales que gravan la factura de la luz, en línea con las recomendaciones de la Comisión Europea y la decisión del nuevo primer ministro británico, Andy Burgham, de suprimir el IVA de la luz para los hogares. Así lo ha d.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza",
+      "url": "https://okdiario.com/historia/hallazgo-insolito-arqueologos-del-reino-unido-encuentran-sarcofago-romano-plomo-1-700-anos-restos-dama-nobleza-19078828?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T13:00:33.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

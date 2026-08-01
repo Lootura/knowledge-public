@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "AI",
     "AI science",
@@ -80,12 +80,6 @@
   ],
   "sources": [
     {
-      "title": "Judge denies request by Elon Musk’s xAI to pause Minnesota nudification ban",
-      "url": "https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T19:41:20.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
       "url": "https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:15:00.000Z",
@@ -96,13 +90,7 @@
       "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky?utm_source=lootura.com",
       "publishedAt": "2026-07-31T17:48:26.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Autism Diagnoses Spiked After COVID-19, But Probably Not For The Reason You Think",
-      "url": "https://www.sciencealert.com/autism-diagnoses-spiked-after-covid-19-but-probably-not-for-the-reason-you-think?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:00:00.000Z",
-      "sourceId": "lootura-us-sciencealert"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

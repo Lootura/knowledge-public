@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-01T13:14:47.199Z",
   "aliases": [
     "España",
     "Estado español",
@@ -16,18 +16,23 @@
   ],
   "changes": [
     {
-      "title": "Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead",
-      "summary": "Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
       "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier. (Image credit: Antonio Sempere).",
       "date": "2026-08-01"
     },
     {
       "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "summary": "Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
+      "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Spain to put containment fence around Ceuta after migrants rush border",
+      "summary": "Most migrants who entered the tiny Spanish territory of Ceuta have been returned to Morocco, Spain's authorities said Saturday.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead",
+      "summary": "Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.",
       "date": "2026-08-01"
     },
     {
@@ -59,24 +64,19 @@
       "title": "More than 250,000 people flee wildfires in France and Spain",
       "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes. About 70,000 people.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Conditions for European Wildfires Created by Summer of Extremes",
-      "summary": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
-      "url": "https://www.cbsnews.com/video/60000-migrants-poured-pain-morocco-ceuta-president-many-left/?utm_source=lootura.com",
-      "publishedAt": "2026-07-31T23:57:19.000Z",
+      "title": "Spain to put containment fence around Ceuta after migrants rush border",
+      "url": "https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:26:07.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead",
-      "url": "https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T00:25:04.000Z",
+      "title": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
+      "url": "https://www.cbsnews.com/video/60000-migrants-poured-pain-morocco-ceuta-president-many-left/?utm_source=lootura.com",
+      "publishedAt": "2026-07-31T23:57:19.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
       "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T08:49:40.000Z",
+      "publishedAt": "2026-08-01T12:48:55.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

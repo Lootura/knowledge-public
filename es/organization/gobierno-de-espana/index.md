@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-01
 ### Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior
 
 El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: "Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.
+
+Date: 2026-08-01
+
+### Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE
+
+El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.
 
 Date: 2026-08-01
 
@@ -62,13 +68,8 @@ El Gobierno de España espera que «instancias superiores» a la Audiencia de Ba
 
 Date: 2026-07-14
 
-### El Supremo archiva la querella del conseller valenciano de Sanidad contra Diana Morant
-
-La sala de lo Penal del Tribunal Supremo (TS) ha inadmitido la querella interpuesta por el conseller de Sanidad , Marciano Gómez, contra la ministra de Ciencia, Innovación y Universidades del Gobierno de España, Diana Morant, por presuntas calumnias, en relación a unas manifestaciones de la ministra , cuando acusó a Gó.
-
-Date: 2026-07-14
-
 ## Fuentes
 
 - [Europa se revuelve contra Sánchez por poner en riesgo sus fronteras](https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html?utm_source=lootura.com) — 2026-08-01T00:35:03.000Z
+- [Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE](https://elpais.com/espana/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta-y-pide-una-reunion-urgente-de-la-ue.html?utm_source=lootura.com) — 2026-08-01T10:08:11.000Z
 - [Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior](https://www.eldiario.es/internacional/sanchez-acusa-gobiernos-europeos-atacar-espana-pide-reunion-urgencia-ministros-interior_1_13422370.html?utm_source=lootura.com) — 2026-08-01T08:24:25.000Z

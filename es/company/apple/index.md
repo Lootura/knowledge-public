@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple
+
+iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta Siri con IA, pero algunas son especialmente útiles y dignas de mención, como esta de la que casi nadie se ha dado cuenta . Se trata de una característica que muchos llevan pidiendo y que te va a ahorrar muchísimo tiempo. Además, te va a permit.
+
+Date: 2026-08-01
 
 ### Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone
 
@@ -62,12 +68,6 @@ A unas horas de la presentación de sus nuevos plegables, Samsung anunció su pr
 
 Date: 2026-07-21
 
-### Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución
-
-Samsung ha decidido seguir los pasos de Apple y desembarcar en el negocio de las tarjetas de crédito, un movimiento del que se venía hablando desde hace tiempo. La compañía surcoreana ha presentado oficialmente la Samsung Galaxy Card , una propuesta integrada en Samsung Wallet que ofrecerá recompensas especiales al rea.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple](https://hipertextual.com/apple/nadie-habla-de-esta-funcion-de-ios-27-y-te-va-a-cambiar-la-vida-es-lo-mas-util-que-ha-hecho-apple/?utm_source=lootura.com) — 2026-08-01T11:00:00.000Z

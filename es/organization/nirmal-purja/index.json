@@ -1,0 +1,40 @@
+{
+  "id": "es-nirmal-purja",
+  "name": "Nirmal Purja",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/nirmal-purja",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/nirmal-purja",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/nirmal-purja/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/nirmal-purja/index.json",
+  "description": "Sigue la actividad de Nirmal Purja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
+  "aliases": [
+    "Nims Purja",
+    "Purja, Nirmal",
+    "Nimsdai",
+    "Nirmal \"Nimsdai\" Purja",
+    "Nimsdai Purja"
+  ],
+  "changes": [
+    {
+      "title": "El famoso alpinista Nirmal Purja, entre los fallecidos tras la avalancha de Pakistán",
+      "summary": "La empresa del famoso alpinista Nirmal Purja ha confirmado este sábado su muerte tras una avalancha ocurrida en el norte de Pakistán que mantuvo desaparecido durante el pasado viernes a un grupo de 10 personas que se encontraban en plena expedición.Purja, de 43 años y con múltiples récords de escalada a su espalda lide.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nirmal Purja first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El famoso alpinista Nirmal Purja, entre los fallecidos tras la avalancha de Pakistán",
+      "url": "https://www.abc.es/internacional/famoso-alpinista-nirmal-purja-fallecidos-tras-avalancha-20260801140609-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:06:09.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 2
+}

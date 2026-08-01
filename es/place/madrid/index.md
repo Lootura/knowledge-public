@@ -3,20 +3,26 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"
-
-Acompañamiento a la tercera edad, en la protección animal, durante la campaña del frío, para luchar contra la brecha digital o como apoyo escolar a menores. Voluntarios por Madrid realiza una tarea sinigual. Sin ellos, muchos de los programas y eventos que se celebran en la capital no se podrían desarrollar con normali.
-
-Date: 2026-08-01
-
 ### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
 
 Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
+
+Date: 2026-08-01
+
+### El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho
+
+El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.
+
+Date: 2026-08-01
+
+### Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"
+
+Acompañamiento a la tercera edad, en la protección animal, durante la campaña del frío, para luchar contra la brecha digital o como apoyo escolar a menores. Voluntarios por Madrid realiza una tarea sinigual. Sin ellos, muchos de los programas y eventos que se celebran en la capital no se podrían desarrollar con normali.
 
 Date: 2026-08-01
 
@@ -62,16 +68,7 @@ Las autoridades recomiendan en la Comunidad de Madrid no salir de casa en la med
 
 Date: 2026-07-25
 
-### La misión del día: defender San Martín de Valdeiglesias
-
-¿Hacia dónde se espera que evolucione este sábado el incendio que arrasa la sierra suroeste de Madrid ?, ¿qué ha pasado durante la noche y cuál es la situación actual? “Se ha hecho un trabajazo para contener el avance esta noche por parte de las dotaciones. Pero lo grave, grave, viene del incendio de Ávila. Pinta mal,.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"](https://www.elconfidencial.com/espana/madrid/2026-08-01/voluntarios-solidaridad-madrid-pequeno-gesto-marca-diferencia_4397255/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
 - [La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España](https://www.elconfidencial.com/espana/madrid/2026-08-01/madrid-siglo-de-oro-exposicion-1qrt_4399141/?utm_source=lootura.com) — 2026-08-01T03:45:00.000Z
-- [Cabeza de Chorlito, la pequeña librería de Madrid convertida en refugio de fotógrafos y editores independientes](https://www.elconfidencial.com/espana/madrid/2026-08-01/cabeza-chorlito-pequena-libreria-madrid-refugio-fotografos-editores-independientes_4396455/?utm_source=lootura.com) — 2026-08-01T03:00:00.000Z
-- [Precio de la gasolina hoy 1 de agosto: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-1-agosto-localiza-gasolineras-mas-baratas-madrid-19073001/amp?utm_source=lootura.com) — 2026-08-01T06:15:47.000Z
-- [El podcast de ‘El Liberal’ con Alberto Nadal](https://theobjective.com/podcasts/el-liberal-podcast/el-podcast-de-el-liberal-alberto-nadal/?utm_source=lootura.com) — 2026-08-01T03:25:46.000Z
+- [El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho](https://www.larazon.es/deportes/laotraliga/sevilla-ficha-real-madrid-uno-descartes-mourinho_202608016a6dec1ba046ad6ebc95246c.html?utm_source=lootura.com) — 2026-08-01T12:52:43.000Z

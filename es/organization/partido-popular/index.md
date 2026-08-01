@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»
+
+El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».
+
+Date: 2026-08-01
 
 ### Feijóo pide ser "responsables" y combatir "juntos" los incendios
 
@@ -62,12 +68,6 @@ El líder del PP acude a la toma de posesión de Fujimori y potencia su interloc
 
 Date: 2026-07-24
 
-### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
-
-El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»](https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html?utm_source=lootura.com) — 2026-08-01T11:55:56.000Z

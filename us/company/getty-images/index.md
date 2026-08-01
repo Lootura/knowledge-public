@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Opinion: Remembering Margo Howard
+
+Margo Howard had a lot of life experience and used it to offer advice for years as "Dear Prudence" for Slate. She died this week at the age of 86. (Image credit: Michael L Abramson/Getty Images).
+
+Date: 2026-08-01
 
 ### What Octogenarian Pop Divas Show Us About a Life Well-Lived
 
@@ -62,12 +68,6 @@ Date: 2026-07-20
 
 Date: 2026-07-20
 
-### Air quality improving in Northeast, while wildfire smoke hangs over Midwest
-
-Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [Opinion: Remembering Margo Howard](https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard?utm_source=lootura.com) — 2026-08-01T12:00:00.000Z

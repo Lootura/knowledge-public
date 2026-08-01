@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T10:07:39.408Z",
+  "generatedAt": "2026-08-01T13:25:47.966Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|39|1785578192156",
+    "signature": "1.18.0|40|1785590087199",
     "version": "1.18.0",
-    "build": 39,
-    "latestEntityUpdatedAt": "2026-08-01T09:56:32.156Z"
+    "build": 40,
+    "latestEntityUpdatedAt": "2026-08-01T13:14:47.199Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-todd-blanche",
-      "name": "Todd Blanche",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General",
-      "url": "https://atlas.lootura.com/us/person/todd-blanche",
-      "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-08-01T09:56:32.156Z",
-      "score": 1702,
-      "sourceCount": 28,
+      "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-08-01T13:14:47.199Z",
+      "score": 1642,
+      "sourceCount": 473,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-01T09:56:32.156Z",
-        "score": 1657,
-        "sourceCount": 468,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-united-states",
         "name": "United States",
@@ -47,9 +34,9 @@
         "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-01T09:56:32.156Z",
-        "score": 1657,
-        "sourceCount": 484,
+        "updatedAt": "2026-08-01T13:14:47.199Z",
+        "score": 1642,
+        "sourceCount": 488,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,12 +44,25 @@
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
-        "title": "Iran's overlapping power centers make ending the war more complicated",
+        "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-01T09:56:32.156Z",
-        "score": 1648,
-        "sourceCount": 262,
+        "updatedAt": "2026-08-01T13:14:47.199Z",
+        "score": 1628,
+        "sourceCount": 264,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-espana",
+        "name": "Spain",
+        "type": "place",
+        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+        "url": "https://atlas.lootura.com/us/place/espana",
+        "path": "/us/place/espana",
+        "updatedAt": "2026-08-01T13:14:47.199Z",
+        "score": 1627,
+        "sourceCount": 17,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "usa-ukraine",
         "name": "Ukraine",
         "type": "place",
-        "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+        "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
-        "updatedAt": "2026-08-01T09:56:32.156Z",
-        "score": 1644,
-        "sourceCount": 76,
+        "updatedAt": "2026-08-01T13:14:47.199Z",
+        "score": 1627,
+        "sourceCount": 78,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 84
+    "publicEntityCount": 85
   }
 }

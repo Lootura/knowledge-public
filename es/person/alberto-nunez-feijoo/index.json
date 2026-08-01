@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,26 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo afirma que lo ocurrido es una \"ocupación premeditada\" y culpa al Gobierno: \"Lo sabían y no actuaron\"",
+      "summary": "El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado Ceuta , apenas unas horas después del momento álgido de la crisis migratoria protagonizada por decenas de miles de inmigrantes, y ha acusado al Gobierno de inacción ante un suceso que califica de premeditado y que evidencia las carencias de la pol.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
+      "summary": "El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Feijóo tacha la crisis de Ceuta de \"ocupación premeditada\" frente a un Marlaska que presume de haber alcanzado la \"normalidad\"",
+      "summary": "La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno",
+      "summary": "Tras exigir durante las últimas horas en diversos comunicados que se reforme la ley de extranjería para “para garantizar el rechazo en frontera en las entradas por vía marítima” y solicitar la comparecencia urgente de Pedro Sánchez en el Congreso por la crisis de Ceuta, Alberto Núñez Feijóo ha viajado este sábado a la.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Feijóo pide ser \"responsables\" y combatir \"juntos\" los incendios",
       "summary": "Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar \"juntos\" para combatir los incendios, así de ser \"responsables\" y \"refrescar el ambiente político\". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.",
@@ -51,28 +71,33 @@
       "title": "Sánchez, a Feijóo: \"Se le ha olvidado que hay unas elecciones de por medio, y ya veremos\"",
       "summary": "\"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027\", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La desvergüenza de comparar a Feijóo con Hitler",
-      "summary": "Comparar a Feijóo con Hitler no es solo una ofensa a las víctimas, sino que demuestra que Diana Morant es una sectaria sin escrúpulos.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: \"Está en una situación desesperada\"",
-      "summary": "El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "\"No ha pasado lo peor\": Feijóo aguarda la \"traca final\" de la corrupción del PSOE a la vuelta del verano",
-      "summary": "Pilotar la bancada de la oposición no entraba en los planes de Alberto Núñez Feijóo cuando decidió saltar a Madrid hace ya más de cuatro años, que en política es toda una eternidad. Pero el líder popular divisa ya la luz al final del túnel. La legislatura finalizará, como máximo, dentro de un año y en Génova ven comple.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
-      "summary": "Activa la \"cuenta atrás\" hacia La Moncloa y plantea un plan de regeneración institucional, más \"gestión\" y rebajas fiscales a familia y autónomos Leer.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo afirma que lo ocurrido es una \"ocupación premeditada\" y culpa al Gobierno: \"Lo sabían y no actuaron\"",
+      "url": "https://www.20minutos.es/nacional/feijoo-afirma-ocurrido-ceuta-ocupacion-premeditada-culpa-gobierno-sabian-no-actuaron_7021608_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:59:03.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
+      "url": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:55:56.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Feijóo tacha la crisis de Ceuta de \"ocupación premeditada\" frente a un Marlaska que presume de haber alcanzado la \"normalidad\"",
+      "url": "https://www.elconfidencial.com/espana/2026-08-01/marlaska-afirma-que_4399474/?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T10:18:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno",
+      "url": "https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T12:52:15.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -35,4 +35,3 @@ Date: 2026-07-22
 ## Sources
 
 - [Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics?utm_source=lootura.com) — 2026-08-01T00:00:00.000Z

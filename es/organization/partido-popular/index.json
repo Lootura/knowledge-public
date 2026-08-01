@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-01T13:14:12.629Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
+      "summary": "El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».",
+      "date": "2026-08-01"
+    },
     {
       "title": "Feijóo pide ser \"responsables\" y combatir \"juntos\" los incendios",
       "summary": "Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar \"juntos\" para combatir los incendios, así de ser \"responsables\" y \"refrescar el ambiente político\". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.",
@@ -58,13 +63,15 @@
       "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
       "summary": "El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
-      "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
+      "url": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T11:55:56.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

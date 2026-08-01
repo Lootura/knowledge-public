@@ -1,9 +1,9 @@
-# Unión de Federaciones Europeas de Fútbol
+# Union des Associations Européennes de Football
 
-> Sigue la actividad de Unión de Federaciones Europeas de Fútbol en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T09:56:12.868Z
+- Actualizado: 2026-08-01T13:14:12.629Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes

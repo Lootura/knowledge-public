@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Abortion is on the ballot again in these two states: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278?utm_source=lootura.com) — 2026-07-31T21:00:00.000Z
+No public source links.

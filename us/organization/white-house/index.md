@@ -3,20 +3,20 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-01T13:14:47.199Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Abortion is on the ballot again in these two states: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-31
-
 ### Funding milestone detected
 
 The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.
+
+Date: 2026-07-31
+
+### Abortion is on the ballot again in these two states: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-07-31
 
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Abortion is on the ballot again in these two states: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278?utm_source=lootura.com) — 2026-07-31T21:00:00.000Z
 - [Trump Administration Plans to Upend Head Start by Deregulating It](https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html?utm_source=lootura.com) — 2026-07-31T20:31:08.000Z
