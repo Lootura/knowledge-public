@@ -1,0 +1,56 @@
+{
+  "id": "usa-out-burger",
+  "name": "Out Burger",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/out-burger",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/out-burger",
+  "markdownUrl": "https://atlas.lootura.com/us/place/out-burger/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/out-burger/index.json",
+  "description": "Follow Out Burger, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
+      "summary": "Police chief says the shooter is among the dead in ‘very chaotic scene’ near busy shopping area in Twin Falls A shooting at an In-N-Out Burger restaurant in southern Idaho on Saturday afternoon left multiple people dead and others injured, police said. The shooter was among the dead, Twin Falls police chief Matthew Hic.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
+      "summary": "A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "3 dead, 2 injured in shooting incident in Twin Falls, Idaho",
+      "summary": "Three people were killed in what police described as an “active shooter incident” around an In-N-Out Burger and other businesses in Twin Falls, Idaho, on Saturday, a city spokesperson said. NBC News’ Valerie Castro reports.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Out Burger first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "3 dead, 2 injured in shooting incident in Twin Falls, Idaho",
+      "url": "https://www.nbcnews.com/nightly-news/video/3-dead-2-injured-in-shooting-incident-in-twin-falls-idaho-267632709644?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T23:16:31.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T01:03:46.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
+      "url": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T02:27:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímet
 
 Date: 2026-08-01
 
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
+### El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial
+
+La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.
+
+Date: 2026-08-01
+
+### El Gobierno despliega una barrera flotante en la frontera de Ceuta
 
 Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
 
 Date: 2026-08-01
 
-### El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial
+### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
 
-La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.
+Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
 
 Date: 2026-08-01
 
@@ -62,14 +68,8 @@ El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorol
 
 Date: 2026-07-25
 
-### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
-
-Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'](https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html?utm_source=lootura.com) — 2026-08-01T08:10:48.000Z
-- [El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z
+- [El Gobierno despliega una barrera flotante en la frontera de Ceuta](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z
 - [El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial](https://theobjective.com/espana/politica/2026-08-01/gobierno-reabre-frontera-melilla-dispositivo-policial/?amp=&utm_source=lootura.com) — 2026-08-01T15:54:59.000Z

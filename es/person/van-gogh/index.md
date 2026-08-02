@@ -28,5 +28,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- ['Dulce locura' de La Oreja de Van Gogh en San Sebastián](https://www.elcorreo.com/culturas/musica/dulce-locura-oreja-van-gogh-san-sebastian-20260801013750-nt_amp.html?utm_source=lootura.com) — 2026-07-31T23:37:50.000Z
-- [La canción sorpresa de la noche: Amaia Montero se atreve con 'Ilargia'](https://www.diariovasco.com/culturas/musica/cancion-sorpresa-noche-amaia-montero-atreve-ilargia-20260731235348-nt_amp.html?utm_source=lootura.com) — 2026-07-31T21:54:05.000Z
+No public source links.

@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### Extreme Heat Has Transformed What Summer Means Across Generations in Europe
-
-Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
-
-Date: 2026-08-01
 
 ### Europe continues to celebrate Pride after attack on Berlin parade
 
@@ -29,6 +23,12 @@ Date: 2026-08-01
 ### Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames
 
 Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the weather is less widely recognized.
+
+Date: 2026-08-01
+
+### Extreme Heat Has Transformed What Summer Means Across Generations in Europe
+
+Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
 
 Date: 2026-08-01
 
@@ -73,4 +73,3 @@ Date: 2026-07-24
 - [Wildfire danger in Europe shifts to Greece as evacuation orders remain in France](https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com) — 2026-08-01T18:58:23.000Z
 - [Europe continues to celebrate Pride after attack on Berlin parade](https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com) — 2026-08-01T15:30:04.000Z
 - [Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames](https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html?utm_source=lootura.com) — 2026-08-01T18:00:01.000Z
-- [Extreme Heat Has Transformed What Summer Means Across Generations in Europe](https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html?utm_source=lootura.com) — 2026-08-01T12:39:14.000Z

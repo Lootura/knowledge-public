@@ -58,4 +58,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says](https://www.cbsnews.com/newyork/news/passaic-river-missing-girl-body-found/?utm_source=lootura.com) — 2026-08-01T03:45:31.000Z
+No public source links.

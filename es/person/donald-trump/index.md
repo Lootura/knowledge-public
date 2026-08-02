@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
 
 El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
+
+Date: 2026-08-01
+
+### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
+
+El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.
 
 Date: 2026-08-01
 
@@ -62,13 +68,8 @@ El presidente confiesa que espera las llamadas de los periodistas para intentar 
 
 Date: 2026-07-25
 
-### Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia
-
-El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, celebrada este viernes en el Waldorf Astoria, para insultar a cómicos y a representantes demócratas como Alexandria Ocasio-Cortez, Elizabeth Warren, Gavin Newsom y J.B. Pritzker: "Este lugar alberga al grupo más grande de personas con el 'sínd.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [La ultraderecha mundial liderada por Trump pone a España en el punto de mira y usa Ceuta para esparcir su xenofobia](https://www.eldiario.es/internacional/ultraderecha-mundial-liderada-trump-pone-espana-punto-mira-ceuta-esparcir-xenofobia_1_13421799.html?utm_source=lootura.com) — 2026-08-01T14:03:05.000Z
+- [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
 - [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z

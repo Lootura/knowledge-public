@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Audiencias de TV: el Mundial da el liderazgo a La 1 en el mes más complicado de Telecinco](https://www.abc.es/play/television/noticias/audiencias-julio-mundial-liderazgo-mes-complicado-telecinco-20260731120204-nt.html?utm_source=lootura.com) — 2026-08-01T15:41:36.000Z
+No public source links.

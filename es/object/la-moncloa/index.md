@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### El Gobierno despliega una barrera flotante en la frontera de Ceuta
+
+Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
+
+Date: 2026-08-01
 
 ### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
 
@@ -58,4 +64,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z
+- [El Gobierno despliega una barrera flotante en la frontera de Ceuta](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z

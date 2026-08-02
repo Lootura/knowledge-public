@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [FIFA scraps controversial deal to sell stakes in World Cup to private investors](https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino?utm_source=lootura.com) — 2026-08-01T02:08:51.000Z
+No public source links.

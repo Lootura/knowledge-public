@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Fragmento del día: Irak
+
+Irak invade el emirato de Kuwait. El Consejo de Seguridad de la ONU condena la invasión.
+
+Date: 2026-08-02
 
 ### Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude
 
@@ -52,4 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Fragmento del día: Irak](https://es.wikipedia.org/wiki/Irak?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z

@@ -3,7 +3,7 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins](https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380?utm_source=lootura.com) — 2026-08-01T17:17:30.000Z
+- [Troy Jackson launches first general election ad in Maine Senate race](https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380?utm_source=lootura.com) — 2026-08-01T17:17:30.000Z

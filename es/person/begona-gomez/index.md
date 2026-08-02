@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Pedro Sánchez ya está en Lanzarote para descansar hasta el 24](https://www.larazon.es/espana/pedro-sanchez-esta-lanzarote-descansar-24_202608016a6e206871b42a0b5dd3adf1.html?utm_source=lootura.com) — 2026-08-01T16:35:52.000Z
+No public source links.

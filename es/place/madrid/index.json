@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [],
   "changes": [
     {
@@ -17,18 +17,8 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
-      "summary": "Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza",
       "summary": "Agentes de la Policía Municipal de Madrid han incautado un total de 111 paquetes de cocaína de aproximadamente 1 kilo cada uno, ocultos en diferentes maletas y bolsas de deporte encontradas en el rellano de la primera planta de un aparcamiento del distrito de Hortaleza . Según han informado fuentes policiales a Europa.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
-      "summary": "Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.",
       "date": "2026-08-01"
     },
     {
@@ -39,6 +29,16 @@
     {
       "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
       "summary": "El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
+      "summary": "Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
+      "summary": "Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.",
       "date": "2026-08-01"
     },
     {
@@ -66,19 +66,13 @@
     {
       "title": "Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid",
       "url": "https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:13:51.000Z",
+      "publishedAt": "2026-08-01T23:49:48.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
       "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
       "url": "https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T19:41:48.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
-      "url": "https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T15:20:00.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -92,13 +86,7 @@
       "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T15:25:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
-      "url": "https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-01T16:49:37.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

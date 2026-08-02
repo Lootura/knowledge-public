@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
+      "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
+      "date": "2026-08-01"
+    },
     {
       "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
       "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
@@ -57,7 +62,7 @@
   ],
   "sources": [
     {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "url": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T14:42:34.000Z",
       "sourceId": "lootura-es-el-pais"

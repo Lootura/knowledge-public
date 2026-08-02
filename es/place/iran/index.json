@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
+      "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de en una escalada global Leer.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
       "summary": "La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.",
@@ -62,20 +67,15 @@
       "title": "El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados",
       "summary": "Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebraron el acercamiento entre EE UU e Irán, julio ha dado un vuelco al sentimiento de los mercados. Dos semanas después de que Washington diera por rota la tregua y los ataques se intensificaran, un nuevo actor ha entrado en escena: los hutíes de.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto",
-      "summary": "El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El futuro de Ceuta y el modelo de Ormuz",
-      "url": "https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:28:16.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
+      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T20:35:51.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

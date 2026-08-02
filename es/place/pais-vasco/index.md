@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-07-22
 
 ## Fuentes
 
+- [PNV y Bildu respaldaron la campaña que acabó con la caza de seguidores de La Roja](https://www.abc.es/espana/pais-vasco/pnv-bildu-respaldaron-junto-nostalgicos-eta-campana-20260730012842-nt.html?utm_source=lootura.com) — 2026-08-01T23:48:19.000Z
 - [El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»](https://www.diariovasco.com/deportes/ciclismo/euskaltel-euskadi-mikel-landa-dos-temporadas-20260801112256-nt_amp.html?utm_source=lootura.com) — 2026-08-01T09:24:20.000Z

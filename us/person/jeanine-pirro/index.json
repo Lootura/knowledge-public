@@ -1,0 +1,45 @@
+{
+  "id": "usa-jeanine-pirro",
+  "name": "Jeanine Pirro",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jeanine-pirro",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jeanine-pirro",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
+  "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+      "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
+      "summary": "President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jeanine Pirro first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T21:25:42.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T00:49:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.json",
   "description": "Follow Nirmal Purja, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "Nims Purja",
     "Nimsdai",
@@ -42,17 +42,11 @@
   ],
   "sources": [
     {
-      "title": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say",
-      "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:04:31.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T19:59:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

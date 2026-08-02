@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-01
 ### Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga
 
 President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.
+
+Date: 2026-08-01
+
+### Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case
+
+President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.
 
 Date: 2026-08-01
 
@@ -47,5 +53,6 @@ Date: 2026-07-31
 ## Sources
 
 - [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-01T17:27:00.000Z
+- [Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case](https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408?utm_source=lootura.com) — 2026-08-01T21:25:42.000Z
 - [Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals](https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com) — 2026-08-01T18:34:10.000Z
-- [Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga](https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com) — 2026-08-01T19:52:51.000Z
+- [Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga](https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com) — 2026-08-01T22:49:51.000Z

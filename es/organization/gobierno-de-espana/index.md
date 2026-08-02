@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobie
 
 Date: 2026-08-01
 
-### Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta
-
-El presidente del Gobierno de España, Pedro Sánchez , ha aterrizado a mediodía de este sábado en el aeropuerto César Manrique-Lanzarote para comenzar sus vacaciones en la residencia oficial de La Mareta, en Costa Teguise. Sánchez y su familia, según han avanzado los periódicos regionales de La Provincia y Canarias7, ha.
-
-Date: 2026-08-01
-
 ### Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»
 
 La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.
+
+Date: 2026-08-01
+
+### Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta
+
+El presidente del Gobierno de España, Pedro Sánchez , ha aterrizado a mediodía de este sábado en el aeropuerto César Manrique-Lanzarote para comenzar sus vacaciones en la residencia oficial de La Mareta, en Costa Teguise. Sánchez y su familia, según han avanzado los periódicos regionales de La Provincia y Canarias7, ha.
 
 Date: 2026-08-01
 
@@ -70,6 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta](https://www.20minutos.es/nacional/pedro-sanchez-inicia-vacaciones-residencia-oficial-mareta-lanzarote_7021672_0.html?utm_source=lootura.com) — 2026-08-01T17:39:45.000Z
 - [Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta](https://cincodias.elpais.com/economia/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-01T14:19:12.000Z
 - [Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»](https://theobjective.com/internacional/2026-08-01/meloni-carta-ue-defensa-fronteras-responsabilidad-comun/?utm_source=lootura.com) — 2026-08-01T18:18:22.000Z

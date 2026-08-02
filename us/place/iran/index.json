@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Oil companies see soaring profits amid Iran war",
+      "summary": "As the threat of escalation in the war with Iran drives gas prices higher and hurts economies worldwide, one sector is doing really well, the revenue for Big Oil. Ali Bauman explains.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
       "summary": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military. (Image credit: Ryan Murphy).",
@@ -32,18 +37,8 @@
       "date": "2026-08-01"
     },
     {
-      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-      "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
       "summary": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
-      "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”.",
       "date": "2026-08-01"
     },
     {
@@ -57,13 +52,18 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "summary": "Donald Trump speaks during the House Republican Party member retreat. | Image: Mandel NGAN / AFP via Getty Images The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency ( CISA ) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus is t.",
+      "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
+      "summary": "Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.",
       "date": "2026-08-01"
     },
     {
-      "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
-      "summary": "Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.",
+      "title": "State Department urges Americans to consider leaving Middle East as regional conflict escalates",
+      "summary": "The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings",
+      "summary": "Here are the most important developments in the Middle East on Saturday.",
       "date": "2026-08-01"
     }
   ],
@@ -78,6 +78,12 @@
       "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
       "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T18:49:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Oil companies see soaring profits amid Iran war",
+      "url": "https://www.cbsnews.com/video/oil-companies-see-soaring-profits-amid-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T00:54:06.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -99,12 +105,6 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:14:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
       "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T03:40:13.000Z",
@@ -123,11 +123,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T14:46:20.000Z",
+      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T20:14:08.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 11
 }

@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
     {
-      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
-      "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
       "date": "2026-08-01"
     },
     {
-      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
-      "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
+      "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
+      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
+      "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
       "date": "2026-08-01"
     },
     {
@@ -58,25 +63,20 @@
       "title": "El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia",
       "summary": "La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
+      "url": "https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T23:47:10.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
       "url": "https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T19:21:52.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
-      "url": "https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:53:25.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

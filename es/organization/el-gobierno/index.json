@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-08-01"
     },
     {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "title": "El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial",
+      "summary": "La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
       "date": "2026-08-01"
     },
     {
-      "title": "El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial",
-      "summary": "La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.",
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
       "date": "2026-08-01"
     },
     {
@@ -55,11 +60,6 @@
       "title": "El incendio de Ávila arrasa ya unas 22.000 hectáreas y deja más de 30.000 desalojados",
       "summary": "El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorológicas La carrera para evitar que el “tsunami” que arrasa Madrid se una al incendio de Ávila: “Hacemos todo para que no se junten” El incendio forestal de Burgohondo (Ávila) es la principal preocupación del operativo en Castilla y León. El.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila",
-      "summary": "Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -70,7 +70,7 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "url": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T14:42:34.000Z",
       "sourceId": "lootura-es-el-pais"

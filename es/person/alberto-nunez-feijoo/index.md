@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno
 
 Tras exigir durante las últimas horas en diversos comunicados que se reforme la ley de extranjería para “para garantizar el rechazo en frontera en las entradas por vía marítima” y solicitar además la comparecencia urgente de Pedro Sánchez en el Congreso por la crisis de Ceuta, Alberto Núñez Feijóo ha viajado este sábad.
+
+Date: 2026-08-01
+
+### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
 
 Date: 2026-08-01
 
@@ -62,13 +68,7 @@ El líder del PP acude a la toma de posesión de Fujimori y potencia su interloc
 
 Date: 2026-07-24
 
-### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
-
-La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z
 - [Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno](https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html?utm_source=lootura.com) — 2026-08-01T12:52:15.000Z
-- [Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo](https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com) — 2026-08-01T13:53:25.000Z

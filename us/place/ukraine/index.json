@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,11 +17,6 @@
     "Ukraïna"
   ],
   "changes": [
-    {
-      "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
-      "date": "2026-08-01"
-    },
     {
       "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
       "summary": "Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.",
@@ -33,6 +28,16 @@
       "date": "2026-08-01"
     },
     {
+      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems. (Image credit: Dan Bashakov).",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+      "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+      "date": "2026-08-01"
+    },
+    {
       "title": "Russian strikes on Kyiv kill 9, injure at least 27, officials say",
       "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
       "date": "2026-08-01"
@@ -40,11 +45,6 @@
     {
       "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
       "summary": "Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems. (Image credit: Dan Bashakov).",
       "date": "2026-08-01"
     },
     {
@@ -70,22 +70,10 @@
   ],
   "sources": [
     {
-      "title": "Russian strikes on Kyiv kill 9, injure at least 27, officials say",
-      "url": "https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T04:45:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes?utm_source=lootura.com",
       "publishedAt": "2026-08-01T20:27:32.000Z",
       "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T05:49:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
@@ -98,13 +86,7 @@
       "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T20:13:38.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:49:10.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

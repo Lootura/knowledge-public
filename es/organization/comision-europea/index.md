@@ -3,7 +3,7 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
@@ -65,4 +65,3 @@ Date: 2026-07-23
 ## Fuentes
 
 - [22 países de la UE piden una «acción conjunta» para reforzar el control en las fronteras europeas tras la crisis en Ceuta](https://www.elcorreo.com/internacional/europa/paises-ue-piden-20260801132441-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T11:31:42.000Z
-- [Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta](https://theobjective.com/internacional/2026-08-01/von-der-leyen-celebra-retorno-marruecos-ceuta/?utm_source=lootura.com) — 2026-08-01T12:09:35.000Z

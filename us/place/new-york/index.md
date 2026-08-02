@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Investigating the death of designer Sylvie Cachay
+
+Sylvie Cachay was found dead in an overflowing bathtub at the exclusive Soho House in New York City on Dec. 9, 2010. A water leak at the hotel gave away a timeline that may have revealed her killer.
+
+Date: 2026-08-02
 
 ### Property owner advocacy groups push back on Mamdani's 'Rental Ripoff Report,' public database of landlords
 
@@ -62,12 +68,6 @@ New York Mayor Zohran Mamdani said late Tuesday that the city would not be able 
 
 Date: 2026-07-22
 
-### Mamdani says New York City can't arrest Netanyahu but the federal government should
-
-New York Mayor Mamdani said the city would not be able to execute an arrest warrant issued by the top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so. (Image credit: Anna Connors/Anna Connors).
-
-Date: 2026-07-22
-
 ## Sources
 
-- [FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?](https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/?utm_source=lootura.com) — 2026-08-01T18:08:45.000Z
+- [Investigating the death of designer Sylvie Cachay](https://www.cbsnews.com/pictures/timeline-investigating-the-death-of-designer-sylvie-cachay/?utm_source=lootura.com) — 2026-08-02T01:05:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/truth-social/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/truth-social/index.json",
   "description": "Follow Truth Social, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [],
   "changes": [
     {
@@ -29,10 +29,10 @@
   ],
   "sources": [
     {
-      "title": "For sale: early access to Trump's Truth Social posts",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Truth Social launches service selling faster access to Trump posts",
+      "url": "https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T00:06:17.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",

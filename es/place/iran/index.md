@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo
+
+Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de en una escalada global Leer.
+
+Date: 2026-08-01
 
 ### Irán amenaza con asesinar a Melania Trump con un gas venenoso
 
@@ -62,12 +68,6 @@ Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebrar
 
 Date: 2026-07-23
 
-### El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto
-
-El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El futuro de Ceuta y el modelo de Ormuz](https://elpais.com/espana/2026-08-01/el-futuro-de-ceuta-y-el-modelo-de-ormuz.html?utm_source=lootura.com) — 2026-08-01T09:28:16.000Z
+- [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-01T20:35:51.000Z

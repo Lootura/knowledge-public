@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- ['Dulce locura' de La Oreja de Van Gogh en San Sebastián](https://www.elcorreo.com/culturas/musica/dulce-locura-oreja-van-gogh-san-sebastian-20260801013750-nt_amp.html?utm_source=lootura.com) — 2026-07-31T23:37:50.000Z
 - [Evenepoel firma un póker legendario en la Clásica San Sebastián](https://www.diariovasco.com/clasica-san-sebastian/evenepoel-firma-poker-legendario-clasica-san-sebastian-20260801171919-nt_amp.html?utm_source=lootura.com) — 2026-08-01T15:19:19.000Z
-- [Toda carrera necesita a su rey](https://www.diariovasco.com/clasica-san-sebastian/carrera-necesita-rey-20260801000946-nt_amp.html?utm_source=lootura.com) — 2026-07-31T22:09:46.000Z

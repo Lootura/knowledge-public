@@ -3,7 +3,7 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes

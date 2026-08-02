@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,7 +70,6 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El United remonta ante un Atlético obligado a mirar a la cantera](https://www.abc.es/deportes/atletico-madrid/united-remonta-ante-atletico-obligado-mirar-cantera-20260801173258-nt.html?utm_source=lootura.com) — 2026-08-01T15:43:58.000Z
 - [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
 - [Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"](https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com) — 2026-08-01T12:26:10.000Z
 - [Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»](https://okdiario.com/deportes/jesse-bisiwu-no-ve-filial-del-barcelona-aspira-jugar-hansi-flick-estare-preparado-19111879?utm_source=lootura.com) — 2026-08-01T19:34:39.000Z

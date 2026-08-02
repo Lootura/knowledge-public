@@ -3,20 +3,26 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
-
-El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
-
-Date: 2026-08-01
-
 ### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
 
 Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.
+
+Date: 2026-08-01
+
+### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
+
+Date: 2026-08-01
+
+### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
+
+El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
 
 Date: 2026-08-01
 
@@ -62,13 +68,7 @@ La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su 
 
 Date: 2026-07-25
 
-### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
-
-Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z
 - [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
-- [Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo](https://theobjective.com/espana/politica/2026-08-01/feijoo-gobierno-conocer-crisis-migratoria/?utm_source=lootura.com) — 2026-08-01T13:53:25.000Z

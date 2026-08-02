@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-vaguada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-vaguada/index.json",
   "description": "Sigue la actividad de La Vaguada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [],
   "changes": [
     {
       "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
       "summary": "El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado de urgencia por un incendio que se ha originado en la gran superficie. Varias dotaciones de bomberos están ya desplegados en la zona para tratar de atajar las llamas, que han dejado una gran columna de humo negro visible p.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Norges Bank Investment Management (“NBIM”) y Sonae Sierra han acordado la adquisición de una cartera de ocho centros comerciales en España , por la que llevaban meses negociando , con un valor bruto aproximado de 1.500 millones de euros. Los activos incluidos en la operación son Gran Plaza 2, Plaza Norte 2, Plaza Río 2.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
-      "summary": "Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.",
       "date": "2026-08-01"
     },
     {
@@ -35,6 +25,16 @@
       "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
       "summary": "El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Norges Bank Investment Management (“NBIM”) y Sonae Sierra han acordado la adquisición de una cartera de ocho centros comerciales en España , por la que llevaban meses negociando , con un valor bruto aproximado de 1.500 millones de euros. Los activos incluidos en la operación son Gran Plaza 2, Plaza Norte 2, Plaza Río 2.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
+      "summary": "Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -45,23 +45,11 @@
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Norges y Sonae Sierra compran La Vaguada, Gran Plaza 2 y otros seis centros comerciales valorados en 1.500 millones",
-      "url": "https://cincodias.elpais.com/companias/2026-08-01/norges-y-sonae-sierra-compran-la-vaguada-gran-plaza-2-y-otros-seis-centros-comerciales-valorados-en-1500-millones.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:54:09.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo",
       "url": "https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com",
       "publishedAt": "2026-08-01T19:17:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Madrid: desalojan el centro comercial La Vaguada por un incendio",
-      "url": "https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-01T16:49:37.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

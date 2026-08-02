@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -14,21 +14,9 @@ El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido q
 
 Date: 2026-08-01
 
-### Las obras de Atocha modifican el servicio de cinco líneas de Cercanías
-
-Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.
-
-Date: 2026-08-01
-
 ### Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza
 
 Agentes de la Policía Municipal de Madrid han incautado un total de 111 paquetes de cocaína de aproximadamente 1 kilo cada uno, ocultos en diferentes maletas y bolsas de deporte encontradas en el rellano de la primera planta de un aparcamiento del distrito de Hortaleza . Según han informado fuentes policiales a Europa.
-
-Date: 2026-08-01
-
-### Madrid: desalojan el centro comercial La Vaguada por un incendio
-
-Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.
 
 Date: 2026-08-01
 
@@ -41,6 +29,18 @@ Date: 2026-08-01
 ### Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo
 
 El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evacuado este sábado tras registrarse un incendio en varios contenedores de cartón, plástico y embalajes situados en el área de carga y descarga del complejo. Hasta el lugar acudieron nueve dotaciones de Bomberos del Ayuntamiento de Madrid , qu.
+
+Date: 2026-08-01
+
+### Las obras de Atocha modifican el servicio de cinco líneas de Cercanías
+
+Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.
+
+Date: 2026-08-01
+
+### Madrid: desalojan el centro comercial La Vaguada por un incendio
+
+Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.
 
 Date: 2026-08-01
 
@@ -70,9 +70,7 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid](https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com) — 2026-08-01T18:13:51.000Z
+- [Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid](https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com) — 2026-08-01T23:49:48.000Z
 - [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T19:41:48.000Z
-- [Las obras de Atocha modifican el servicio de cinco líneas de Cercanías](https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html?utm_source=lootura.com) — 2026-08-01T15:20:00.000Z
 - [Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo](https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com) — 2026-08-01T19:17:00.000Z
 - [Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza](https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com) — 2026-08-01T15:25:00.000Z
-- [Madrid: desalojan el centro comercial La Vaguada por un incendio](https://www.larazon.es/madrid/madrid-desalojan-centro-comercial-vaguada-incendio_202608016a6e23a171b42a0b5dd3b2ce.html?outputType=amp&utm_source=lootura.com) — 2026-08-01T16:49:37.000Z

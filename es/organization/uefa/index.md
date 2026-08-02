@@ -22,4 +22,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Infantino retira su plan privatizador de la FIFA tras las «divisiones» generadas](https://www.elcorreo.com/deportes/futbol/infantino-retira-plan-privatizador-fifa-tras-divisiones-20260801020039-nt_amp.html?utm_source=lootura.com) — 2026-08-01T00:00:40.000Z
+No public source links.

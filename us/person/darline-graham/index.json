@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "Darline"
   ],
   "changes": [
+    {
+      "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
+      "summary": "As one of nine Republicans seeking to replace him more permanently in a special primary election set for Aug. 11, Graham is a relative political unknown facing off against some of the state's best-known GOP names.",
+      "date": "2026-08-01"
+    },
     {
       "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
       "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
@@ -57,13 +62,15 @@
       "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Tim Scott doesn't rule out Darline Graham running for her brother Lindsey's Senate seat",
-      "summary": "With this year's race to succeed Lindsey Graham in the Senate still wide-open, GOP Sen. Tim Scott suggested the late senator's interim replacement — his sister, Darline Graham — could be one candidate.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T22:07:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

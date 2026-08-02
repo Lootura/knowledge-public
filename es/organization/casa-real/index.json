@@ -1,0 +1,72 @@
+{
+  "id": "es-casa-real",
+  "name": "Dinastía real",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/casa-real",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/casa-real",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/casa-real/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/casa-real/index.json",
+  "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "aliases": [
+    "Dinastía real",
+    "Casa de Su Magestad",
+    "Casas reales",
+    "Casas regias",
+    "Dinastía regia",
+    "Casa regia",
+    "Casa de Su Majestad",
+    "Dinastia real",
+    "Dinastia regia",
+    "ruling dynasty"
+  ],
+  "changes": [
+    {
+      "title": "El rey se muestra \"indignado\" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad",
+      "summary": "Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido \"con gran preocupación e indignación\" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Casa Real first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El Rey, «indignado», advierte de que el Estado «debe velar» por la seguridad en Ceuta y Melilla",
+      "summary": "En un gesto inhabitual, la Casa Real difunde un mensaje de Felipe VI que da la medida de la gravedad de la crisis.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan",
+      "summary": "Felipe VI ha expresado su “gran preocupación e indignación” ante los “graves acontecimientos” ocurridos en Ceuta, adonde más de 50.000 personas entraron procedentes de Marruecos entre el jueves y viernes. A través de un mensaje hecho público este sábado por la Casa Real, el monarca ha informado de que, “a lo largo de e.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "El Rey Felipe ha seguido con \"indignación\" los \"graves acontecimientos\" de Ceuta y recuerda que el Estado \"debe velar por la seguridad\" de los ceutíes",
+      "summary": "El Rey Felipe ha seguido con «indignación» y «preocupación» los «graves acontecimientos» de Ceuta. Así lo ha trasmitido oficiosamente la Casa Real varios días después del inicio de la crisis en la ciudad española del norte de África. No ha habido, estrictamente, por tanto, un comunicado oficial de la Jefatura del Estad.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Rey, «indignado», advierte de que el Estado «debe velar» por la seguridad en Ceuta y Melilla",
+      "url": "https://www.elcorreo.com/politica/rey-muestra-indignado-crisis-migratoria-ceuta-exige-20260801191652-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T17:16:53.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan",
+      "url": "https://elpais.com/espana/2026-08-01/el-rey-expresa-su-indignacion-por-los-graves-acontecimientos-de-ceuta-y-pide-medidas-para-que-no-se-repitan.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:52:38.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El rey se muestra \"indignado\" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad",
+      "url": "https://www.eldiario.es/politica/rey-muestra-indignado-ocurrido-ceuta-pide-vele-seguridad_1_13422987.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:14:07.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,11 +19,6 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Resea.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
       "summary": "Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.",
       "date": "2026-08-01"
@@ -31,6 +26,11 @@
     {
       "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
       "summary": "Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Resea.",
       "date": "2026-08-01"
     },
     {
@@ -82,13 +82,7 @@
       "url": "https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995?utm_source=lootura.com",
       "publishedAt": "2026-08-01T11:00:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:00:53.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

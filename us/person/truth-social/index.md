@@ -3,7 +3,7 @@
 > Follow Truth Social, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/person/truth-social
 
 ## Recent changes
@@ -28,6 +28,6 @@ Date: 2026-08-01
 
 ## Sources
 
-- [For sale: early access to Trump's Truth Social posts](https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+- [Truth Social launches service selling faster access to Trump posts](https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419?utm_source=lootura.com) — 2026-08-02T00:06:17.000Z
 - [Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks](https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com) — 2026-08-01T16:15:42.000Z
 - [Trump offering early access to online posts in move seen as corruption](https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access?utm_source=lootura.com) — 2026-08-01T17:29:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»](https://okdiario.com/espana/oscar-puente-propio-mundo-otra-crisis-mas-que-resuelve-pedro-sanchez-19111371?utm_source=lootura.com) — 2026-08-01T16:10:29.000Z
+No public source links.

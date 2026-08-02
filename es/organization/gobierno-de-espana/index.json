@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
@@ -20,13 +20,13 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta",
-      "summary": "El presidente del Gobierno de España, Pedro Sánchez , ha aterrizado a mediodía de este sábado en el aeropuerto César Manrique-Lanzarote para comenzar sus vacaciones en la residencia oficial de La Mareta, en Costa Teguise. Sánchez y su familia, según han avanzado los periódicos regionales de La Provincia y Canarias7, ha.",
+      "title": "Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»",
+      "summary": "La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.",
       "date": "2026-08-01"
     },
     {
-      "title": "Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»",
-      "summary": "La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.",
+      "title": "Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta",
+      "summary": "El presidente del Gobierno de España, Pedro Sánchez , ha aterrizado a mediodía de este sábado en el aeropuerto César Manrique-Lanzarote para comenzar sus vacaciones en la residencia oficial de La Mareta, en Costa Teguise. Sánchez y su familia, según han avanzado los periódicos regionales de La Provincia y Canarias7, ha.",
       "date": "2026-08-01"
     },
     {
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-inicia-vacaciones-residencia-oficial-mareta-lanzarote_7021672_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T17:39:45.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta",
       "url": "https://cincodias.elpais.com/economia/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T14:19:12.000Z",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

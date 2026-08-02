@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
+
+El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.
+
+Date: 2026-08-01
+
+### Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta
+
+Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.
+
+Date: 2026-08-01
 
 ### Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela
 
@@ -56,18 +68,7 @@ Los terremotos del 24 de junio dejaron en Venezuela, según el balance oficial m
 
 Date: 2026-07-20
 
-### EEUU pretende seguir ayudando a Venezuela durante cinco años por el doble terremoto
-
-La organización estadounidense Global Empowerment Mission espera poder seguir en Venezuela durante cinco años para ayudar a los afectados del doble terremoto del pasado 24 de junio, en una primera fase con la entrega de donaciones de alimentos y productos de higiene personal, con el apoyo de la Administración de Donald.
-
-Date: 2026-07-19
-
-### El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119
-
-La cifra de fallecidos a causa del devastador doble terremoto que sacudió Venezuela el pasado 24 de junio ha alcanzado las 5.119 personas, tras confirmarse 50 nuevas muertes, según informó Jorge Rodríguez, presidente del Parlamento venezolano. Según EFE, el último informe difundido en Telegram detalla que el número de.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
+- [Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta](https://theobjective.com/internacional/2026-08-01/heridos-atentado-terrorista-colombiana-cucuta/?utm_source=lootura.com) — 2026-08-01T21:27:29.000Z

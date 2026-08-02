@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Irán advierte a sus vecinos regionales de que si actúan como «escudo» de EEUU «arderán»](https://theobjective.com/internacional/2026-08-01/iran-advierte-vecinos-regionales-escudo-eeuu-arderan/?amp=&utm_source=lootura.com) — 2026-08-01T13:08:15.000Z
+No public source links.

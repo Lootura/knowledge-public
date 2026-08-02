@@ -3,20 +3,20 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
-### Fragmento del día: Eclipse solar del 1 de agosto de 2008
-
-segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].
-
-Date: 2026-08-01
-
 ### Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa
 
 La nueva máquina de helados de Xiaomi llega para solucionar los dos problemas más repetidos de su competencia. La marca china se ha sacado de la manga un sistema bastante ingenioso para que puedas comerte un helado casero con los ingredientes que quieras sin tener que pasar por dos aros que todas las máquinas del merca.
+
+Date: 2026-08-01
+
+### Fragmento del día: Eclipse solar del 1 de agosto de 2008
+
+segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].
 
 Date: 2026-08-01
 
@@ -71,4 +71,3 @@ Date: 2026-07-23
 ## Fuentes
 
 - [Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa](https://hipertextual.com/tecnologia/xiaomi-lanza-la-maquina-de-helados-perfecta-los-hace-en-70-minutos-y-el-precio-es-de-risa/?utm_source=lootura.com) — 2026-08-01T15:00:00.000Z
-- [Fragmento del día: Eclipse solar del 1 de agosto de 2008](https://es.wikipedia.org/wiki/Eclipse_solar_del_1_de_agosto_de_2008?utm_source=lootura.com) — 2026-08-01T04:00:00.000Z

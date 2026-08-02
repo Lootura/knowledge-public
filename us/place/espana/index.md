@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -72,4 +72,4 @@ Date: 2026-07-25
 
 - [Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge](https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants?utm_source=lootura.com) — 2026-08-01T18:33:27.000Z
 - [Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67](https://www.pbs.org/newshour/world/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67?utm_source=lootura.com) — 2026-08-01T15:19:24.000Z
-- [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T15:28:36.000Z
+- [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T21:23:42.000Z

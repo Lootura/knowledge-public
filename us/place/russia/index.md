@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia
+
+A bipartisan bill to impose tough new sanctions on Russia is making progress in the U.S. Senate. But concerns over how the bill grants President Trump new tariff authorities is complicating the path.
+
+Date: 2026-08-01
 
 ### The U.S. Deported Him to Jail in Russia. Then He Escaped.
 
@@ -62,12 +68,6 @@ The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with
 
 Date: 2026-07-20
 
-### What it's like inside Ukraine during a massive Russian ballistic missile attack
-
-Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia](https://www.npr.org/2026/08/01/nx-s1-5913204/bill-championed-by-late-senator-lindsey-graham-seeks-to-increase-sanctions-on-russia?utm_source=lootura.com) — 2026-08-01T20:54:08.000Z

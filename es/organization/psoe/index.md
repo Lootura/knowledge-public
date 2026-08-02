@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-02T02:32:28.527Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
+
+Date: 2026-08-01
 
 ### Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»
 
@@ -62,12 +68,6 @@ La secretaria general de los socialistas valencianos y ministra en el Gobierno d
 
 Date: 2026-07-24
 
-### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
-
-Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z

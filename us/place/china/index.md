@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Daily fragment: 2014 Kunshan explosion
+
+At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+
+Date: 2026-08-02
 
 ### South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul
 
@@ -62,12 +68,6 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-19
 
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [Daily fragment: 2014 Kunshan explosion](https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z

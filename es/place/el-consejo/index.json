@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Fragmento del día: Irak",
+      "summary": "Irak invade el emirato de Kuwait. El Consejo de Seguridad de la ONU condena la invasión.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude",
       "summary": "El anteproyecto de Ley de Integridad Pública impulsado por el Gobierno sigue sumando opiniones críticas. El Consejo de Estado ha emitido un duro informe en el que alerta de que algunas de las líneas principales de la norma diseñada por los socialistas podrían acarrear serios problemas para la seguridad jurídica. El doc.",
@@ -47,6 +52,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Fragmento del día: Irak",
+      "url": "https://es.wikipedia.org/wiki/Irak?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

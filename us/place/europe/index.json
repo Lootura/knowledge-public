@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-02T02:32:52.484Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
-    {
-      "title": "Extreme Heat Has Transformed What Summer Means Across Generations in Europe",
-      "summary": "Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Europe continues to celebrate Pride after attack on Berlin parade",
       "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
@@ -32,6 +27,11 @@
     {
       "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
       "summary": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the weather is less widely recognized.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Extreme Heat Has Transformed What Summer Means Across Generations in Europe",
+      "summary": "Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.",
       "date": "2026-08-01"
     },
     {
@@ -83,13 +83,7 @@
       "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T18:00:01.000Z",
       "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Extreme Heat Has Transformed What Summer Means Across Generations in Europe",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:39:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

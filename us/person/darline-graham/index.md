@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-08-02T02:32:52.484Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary
+
+As one of nine Republicans seeking to replace him more permanently in a special primary election set for Aug. 11, Graham is a relative political unknown facing off against some of the state's best-known GOP names.
+
+Date: 2026-08-01
 
 ### There’s a power struggle brewing in South Carolina, and Trump might not win
 
@@ -62,12 +68,6 @@ Darline Graham indicated in a White House meeting Thursday that she's weighing a
 
 Date: 2026-07-17
 
-### Tim Scott doesn't rule out Darline Graham running for her brother Lindsey's Senate seat
-
-With this year's race to succeed Lindsey Graham in the Senate still wide-open, GOP Sen. Tim Scott suggested the late senator's interim replacement — his sister, Darline Graham — could be one candidate.
-
-Date: 2026-07-16
-
 ## Sources
 
-No public source links.
+- [Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary](https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary?utm_source=lootura.com) — 2026-08-01T22:07:37.000Z
