@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el \"caos continuo\" que vive España. La líder madrileña ha denunciado este domingo la \"inva.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.",
+      "date": "2026-08-02"
+    },
     {
       "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
       "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
@@ -54,18 +64,21 @@
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
       "summary": "La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Ayuso eleva a 12.000 las hectáreas quemadas en un situación \"muy crítica\" para Madrid",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado este viernes que los fuegos en la región afectan ya a 12.000 hectáreas , que hay 20.000 habitantes evacuados y que la situación sigue siendo \"muy crítica\" debido al viento, datos a los que ha sumado una reivindicación: la llegada de más medios aé.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón",
-      "summary": "El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
+      "url": "https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:44:24.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
+      "url": "https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:31:35.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

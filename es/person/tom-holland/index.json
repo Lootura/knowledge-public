@@ -1,0 +1,45 @@
+{
+  "id": "es-tom-holland",
+  "name": "Tom Holland",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/tom-holland",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/tom-holland",
+  "markdownUrl": "https://atlas.lootura.com/es/person/tom-holland/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/tom-holland/index.json",
+  "description": "Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Todos los cameos de ‘Spider-Man: Brand New Day’, explicados",
+      "summary": "El estreno de Spider-Man: Brand New Day ha supuesto la cuarta entrega de la saga de Tom Holland que, nuevamente, llega cargada de cameos. La cinta por fin está en cines tras cinco largos años de aquel éxito que fue No Way Home . Esta vez, además, el filme se lanza a un cambio radical de tono, buscando la esencia más te.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "¿Cuándo aparecerá Miles Morales en el Universo Marvel? Tom Holland confirma el plan de futuro de Spider-Man",
+      "summary": "Con el estreno de Spider-Man: Brand New Day , Tom Holland ha protagonizado su cuarta película propia como el superhéroe a la espera de la ansiada llegada de Miles Morales . El actor lleva años asegurando que le encantaría poder hacer de mentor de alguien más joven que encarne por primera vez a esa otra versión del arác.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tom Holland first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Todos los cameos de ‘Spider-Man: Brand New Day’, explicados",
+      "url": "https://hipertextual.com/cine-television/todos-los-cameos-de-spider-man-brand-new-day-explicados/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "¿Cuándo aparecerá Miles Morales en el Universo Marvel? Tom Holland confirma el plan de futuro de Spider-Man",
+      "url": "https://hipertextual.com/cine-television/cuando-aparecera-miles-morales-en-el-universo-marvel-tom-holland-confirma-el-plan-de-futuro-de-spider-man/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Qué se sabe de la trágica muerte de Nirmal Purja y los nueve miembros de su expedición tras la avalancha](https://www.20minutos.es/deportes/claves-muerte-nirmal-purja-los-nueve-miembros-su-expedicion-tras-avalancha-broad-peak_7021613_0.html?utm_source=lootura.com) — 2026-08-02T07:04:36.000Z
+No public source links.

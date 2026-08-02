@@ -3,16 +3,10 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
-
-### Isabel Pantoja cumple 70 años: triunfos, fracasos y escándalos de una vida en el ojo del huracán
-
-Nadie podrá decir que Isabel Pantoja no ha vivido. Otra cosa es cómo lo haya hecho. La tonadillera cumple este domingo, 2 de agosto, la redonda cifra de 70 años, siete décadas de existencia en la que ha habido de todo y probablemente también tiempo mejores. Y peores. Fue viuda de Paquirri, salió con el también difunto.
-
-Date: 2026-08-02
 
 ### Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»
 
@@ -26,7 +20,12 @@ Isabel Pantoja first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-02
 
+### Isabel Pantoja cumple 70 años: triunfos, fracasos y escándalos de una vida en el ojo del huracán
+
+Nadie podrá decir que Isabel Pantoja no ha vivido. Otra cosa es cómo lo haya hecho. La tonadillera cumple este domingo, 2 de agosto, la redonda cifra de 70 años, siete décadas de existencia en la que ha habido de todo y probablemente también tiempo mejores. Y peores. Fue viuda de Paquirri, salió con el también difunto.
+
+Date: 2026-08-02
+
 ## Fuentes
 
-- [Isabel Pantoja cumple 70 años: triunfos, fracasos y escándalos de una vida en el ojo del huracán](https://www.abc.es/gente/isabel-pantoja-cumple-anos-triunfos-fracasos-polemicas-20260802100355-nt.html?utm_source=lootura.com) — 2026-08-02T08:04:32.000Z
 - [Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»](https://okdiario.com/cool/famosos/isa-pantoja-omite-cumpleanos-madre-graba-video-ceuta-mucha-pena-19112816?utm_source=lootura.com) — 2026-08-02T09:45:04.000Z

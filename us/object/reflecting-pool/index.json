@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [],
   "changes": [
     {
@@ -55,12 +55,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:25:42.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
       "url": "https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com",
       "publishedAt": "2026-08-01T18:34:10.000Z",
@@ -73,5 +67,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

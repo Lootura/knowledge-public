@@ -34,4 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Las reactivaciones del incendio en Ávila podrían ser intencionadas: "Pudo ser provocado en dos puntos"](https://www.20minutos.es/castilla-y-leon/avila/rebrotes-incendio-avila-intencionados-segun-junta-castilla-leon_7021720_0.html?utm_source=lootura.com) — 2026-08-02T08:48:45.000Z
+No public source links.

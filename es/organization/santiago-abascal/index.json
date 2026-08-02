@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
+      "summary": "El presidente de Vox , Santiago Abascal , ha pedido este domingo \"militarizar permanentemente la frontera\" de Ceuta \"hasta que sea necesario\". El líder de la formación verde ha culpado a Marruecos de promover una \"invasión\" y un \"acto de guerra tolerado y permitido por Pedro Sánchez\". \"¿Por qué Marruecos se ha atrevido.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»",
+      "summary": "El líder de Vox, Santiago Abascal , ha calificado este domingo la invasión de inmigrantes irregulares en Ceuta, registrada el pasado jueves, como « un acto de guerra promovido por Marruecos y tolerado y permitido por Pedro Sánchez ». Abascal ha visitado la ciudad autónoma para conocer de primera mano la situación tras.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
       "summary": "El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.",
@@ -44,6 +54,19 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
+      "url": "https://www.20minutos.es/ceuta/santiago-abascal-pide-militarizar-permanentemente-frontera-ceuta-invasion-culpa-marruecos-sanchez_7021774_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:59:31.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»",
+      "url": "https://okdiario.com/espana/abascal-desde-ceuta-sanchez-esta-sometido-marruecos-porque-tienen-pruebas-corrupciones-que-aun-desconocemos-19113195?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T11:50:45.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

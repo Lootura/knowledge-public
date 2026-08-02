@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-02
 ### How China Keeps Tabs on Foreigners
 
 An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
+
+Date: 2026-08-02
+
+### Op-ed: The U.S. lead over China in AI is all but gone
+
+AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.
 
 Date: 2026-08-02
 
@@ -62,13 +68,8 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-20
 
-### Becker: "Hardly a week goes by" without Trump administration threatening election official arrests
-
-CBS News contributors David Becker and Chris Krebs joined "Face the Nation with Margaret Brennan" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.
-
-Date: 2026-07-19
-
 ## Sources
 
+- [Op-ed: The U.S. lead over China in AI is all but gone](https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html?utm_source=lootura.com) — 2026-08-02T12:30:01.000Z
 - [Daily fragment: 2014 Kunshan explosion](https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
 - [How China Keeps Tabs on Foreigners](https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html?utm_source=lootura.com) — 2026-08-02T04:03:06.000Z

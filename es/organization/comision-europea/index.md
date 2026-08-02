@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T08:11:19.000Z
+No public source links.

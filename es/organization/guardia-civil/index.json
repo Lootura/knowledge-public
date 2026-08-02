@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
       "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos",
+      "summary": "Un hombre, de 29 años , ha sido detenido en Laredo (Cantabria) por supuestamente agredir sexualmente esta madrugada a una mujer, después de que la víctima denunciara los hechos ante la Guardia Civil , según han informado a EFE fuentes de la investigación. La detención se ha producido pasadas las 14:00 horas en la estac.",
       "date": "2026-08-02"
     },
     {
@@ -55,14 +60,15 @@
       "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
       "summary": "Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil",
-      "summary": "Casas y coches completamente calcinados , rescates de la Guardia Civil con el fuego pisando los talones … Es el panorama que deja, esta madrugada del jueves, el incendio forestal iniciado en Almorox (Toledo) y que el viento ha propagado con gran velocidad a la localidad madrileña vecina de Villa del Prado , cuya poblac.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos",
+      "url": "https://www.elconfidencial.com/espana/2026-08-02/detenido-en-laredo-por-agresion-sexual-a-una-mujer-1tna_4399653/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T06:50:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Mohamed VI y sus proyectiles humanos",
       "url": "https://elpais.com/opinion/2026-08-02/mohamed-vi-y-sus-proyectiles-humanos.html?utm_source=lootura.com",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
+      "summary": "Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
+      "summary": "Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
@@ -21,11 +36,6 @@
     {
       "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
       "summary": "Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
-      "summary": "Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.",
       "date": "2026-08-01"
     },
     {
@@ -52,23 +62,19 @@
       "title": "What Worries Democrats as the Midterms Heat Up",
       "summary": "There’s a lot going right for the Democrats. Here’s what could go wrong.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
-      "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
-      "summary": "Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:46:43.000Z",
+      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
+      "url": "https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T13:09:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:08:02.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -76,12 +82,6 @@
       "url": "https://www.pbs.org/newshour/politics/democrats-see-a-chance-to-flip-a-seat-as-focus-on-abuse-claims-mounts-against-ohio-rep-max-miller?utm_source=lootura.com",
       "publishedAt": "2026-08-01T20:14:55.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
-      "url": "https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:00:00.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 3

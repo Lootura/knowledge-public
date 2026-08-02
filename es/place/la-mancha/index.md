@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa
+
+Villarrubia de Santiago , en la provincia de Toledo, conserva una de las historias más curiosas relacionadas con Santa Teresa de Jesús . En el interior de la iglesia de San Bartolomé se guarda un antiguo baúl que, según la tradición, perteneció a la santa y quedó olvidado en la localidad durante uno de sus viajes por C.
+
+Date: 2026-08-02
 
 ### Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios
 
@@ -62,12 +68,6 @@ Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigar�
 
 Date: 2026-07-23
 
-### Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...
-
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios](https://www.20minutos.es/nacional/prohibidas-raves-acampadas-andar-por-monte-preocupacion-por-eclipse-lleva-extremar-precauciones-contra-los-incendios_7021236_0.html?utm_source=lootura.com) — 2026-08-02T07:05:46.000Z
+- [La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa](https://www.larazon.es/castilla-la-mancha/localidad-castillala-mancha-donde-guarda-curiosa-reliquia-vinculada-santa-teresa-b30m_202608026a6f3b7ea046ad6ebc96fb3b.html?utm_source=lootura.com) — 2026-08-02T12:43:42.000Z

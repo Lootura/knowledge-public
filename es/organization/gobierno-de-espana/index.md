@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
+
+El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.
+
+Date: 2026-08-02
 
 ### Ceuta, la avalancha consentida
 
@@ -62,12 +68,6 @@ La Comisión Europea ha explicado este viernes que recibió el jueves por la noc
 
 Date: 2026-07-24
 
-### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
-
-El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Ceuta, la avalancha consentida](https://www.20minutos.es/nacional/ceuta-avalancha-consentida_7021636_3.html?utm_source=lootura.com) — 2026-08-02T07:03:23.000Z
+- [Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal](https://www.lavanguardia.com/politica/20260802/11606225/ascienden-72-cadaveres-recuperados-mar-ceuta-intentos-entrar-espigon-tarajal.html?utm_source=lootura.com) — 2026-08-02T09:33:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
   "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "Jeanine",
     "Pirro"
@@ -20,27 +20,32 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-      "summary": "President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.",
-      "date": "2026-08-01"
+      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
+      "summary": "President Donald Trump is criticizing his handpicked choice for U.S. attorney in D.C., Jeanine Pirro, for dropping charges against the former Olympian accused of vandalizing the reflecting pool. Meanwhile, the president said he will continue to push for an “anti-weaponization fund” if the senate does not confirm Todd B.",
+      "date": "2026-08-02"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Jeanine Pirro first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
+      "summary": "President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:25:42.000Z",
+      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
+      "url": "https://www.today.com/video/trump-blasts-jeanine-pirro-s-move-to-drop-reflecting-pool-charges-267642949631?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:35:30.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
       "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T00:49:27.000Z",
+      "publishedAt": "2026-08-02T00:49:28.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

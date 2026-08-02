@@ -3,16 +3,10 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
-
-### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
-
-Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
-
-Date: 2026-08-02
 
 ### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
 
@@ -23,6 +17,18 @@ Date: 2026-08-02
 ### Trump anuncia la suspensión de un ataque contra Irán
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
+
+### Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.
+
+Date: 2026-08-02
+
+### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
+
+Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
 
 Date: 2026-08-02
 
@@ -62,15 +68,8 @@ El precio del petróleo superó los 100 dólares por barril por primera vez desd
 
 Date: 2026-07-24
 
-### Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios
-
-La Confederación Nacional de la Construcción (CNC) denuncia una situación límite en la licitación de obra pública tras el estallido de la guerra en Irán, que ha vuelto a disparar el precio de los materiales para edificar. La patronal de las empresas constructoras ha cifrado hoy en 1.130 el número de concursos que se ha.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-01T20:35:51.000Z
-- [Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"](https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com) — 2026-08-02T09:31:06.000Z
+- [Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán](https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com) — 2026-08-02T10:47:48.000Z
 - [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
 - [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

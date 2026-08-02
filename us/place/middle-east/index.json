@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "summary": "President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings",
       "summary": "Here are the most important developments in the Middle East on Saturday.",
@@ -58,14 +63,15 @@
       "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
       "summary": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "url": "https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:32:59.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
     {
       "title": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings",
       "url": "https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

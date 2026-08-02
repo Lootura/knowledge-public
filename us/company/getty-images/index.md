@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Opinion: Remembering Margo Howard](https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard?utm_source=lootura.com) — 2026-08-01T12:00:00.000Z
+No public source links.

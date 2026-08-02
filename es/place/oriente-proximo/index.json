@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -19,6 +19,11 @@
     {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
       "date": "2026-08-02"
     },
     {
@@ -60,14 +65,15 @@
       "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
       "summary": "Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La rentabilidad de los bonos, en máximos a la espera del BCE",
-      "summary": "La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en los mercados: la renta fija. En Europa, la venta de bonos soberanos ha llevado su rentabilidad a máximos del año, ante el temor de los inversores a una mayor inflación y un mensaje más duro del Banco Central Europeo . Seguir leyendo.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "url": "https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T10:47:48.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

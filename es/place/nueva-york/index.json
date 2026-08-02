@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -44,6 +44,11 @@
     {
       "title": "Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario",
       "summary": "Cualquier guionista medianamente apañado podría convertir la vida del director ejecutivo de IMAX en una película sobre el manido sueño americano. La historia de Richard Gelfond (Nueva York, 1955) es el epítome del hombre de negocios hecho a sí mismo, una de esas historias capaces de enamorar a Hollywood y a Wall Street.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años",
+      "summary": "El actor estadounidense Vincent Pastore , recordado popularmente por su papel de Salvatore ‘Big Pussy’ Bonpensiero en la aclamada serie ‘Los Soprano’ , ha sido hallado sin vida este sábado en su residencia del barrio del Bronx, en Nueva York. Ha sido un vecino quien ha encontrado el cuerpo en su vivienda tras varios dí.",
       "date": "2026-08-02"
     },
     {
@@ -85,11 +90,6 @@
       "title": "Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei",
       "summary": "Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuestionado por Diego Armando Maradona al relevar a Jorge Sampaoli, vivió en Nueva York uno de sus días más tristes al cargo de la albiceleste. Quizás el último. Su futuro queda en el aire tras la derrota en la final. Seguir leyendo...",
       "date": "2026-07-19"
-    },
-    {
-      "title": "La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires",
-      "summary": "Los día previos a la esperada final han sido de gran emoción para los aficionados argentinos pese a tener una final tan cercana como la de Qatar 2022. Esto se ha dejado ver no solo en las calles de Nueva York, sino también en Argentina. Sin embargo, apenas dos horas antes de arrancar el partido, los ánimos se han visto.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -98,7 +98,13 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-02/richard-gelfond-el-hombre-que-convirtio-imax-en-un-negocio-millonario.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T03:40:00.000Z",
       "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años",
+      "url": "https://theobjective.com/cultura/2026-08-02/vicente-pastore-actor-los-soprano-fallece-80-anos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T11:05:55.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

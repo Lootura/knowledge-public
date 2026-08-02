@@ -40,4 +40,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers](https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche?utm_source=lootura.com) — 2026-08-01T22:23:39.000Z
+No public source links.

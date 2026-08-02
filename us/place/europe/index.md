@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
-
-New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
-
-Date: 2026-08-02
 
 ### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
 
@@ -20,15 +14,21 @@ Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis i
 
 Date: 2026-08-02
 
-### Europe continues to celebrate Pride after attack on Berlin parade
+### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
 
-Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.
+New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
 
-Date: 2026-08-01
+Date: 2026-08-02
 
 ### Wildfire danger in Europe shifts to Greece as evacuation orders remain in France
 
 For Greece, the danger carried grim resonance: a 2018 wildfire​ at the seaside community of Mati​, near Athens, killed 104 people.
+
+Date: 2026-08-01
+
+### Europe continues to celebrate Pride after attack on Berlin parade
+
+Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.
 
 Date: 2026-08-01
 
@@ -71,6 +71,4 @@ Date: 2026-07-25
 ## Sources
 
 - [Wildfire danger in Europe shifts to Greece as evacuation orders remain in France](https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com) — 2026-08-01T18:58:23.000Z
-- [Europe continues to celebrate Pride after attack on Berlin parade](https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com) — 2026-08-01T15:30:04.000Z
-- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:01.000Z
-- [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com) — 2026-08-02T09:53:30.000Z
+- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:02.000Z

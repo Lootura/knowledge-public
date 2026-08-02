@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Cervantes y un caluroso verano de 1610 en las playas de Barcelona
+
+El icónico escritor pasó la verbena de San Juan atónito ante los disparos de las murallas de Montjuïc y las galeras del puerto, en unos días que marcarían la segunda parte de 'El Quijote'.
+
+Date: 2026-08-02
+
+### Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo
+
+El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.
+
+Date: 2026-08-02
 
 ### Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”
 
@@ -56,18 +68,7 @@ Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000
 
 Date: 2026-07-25
 
-### Lola Índigo suspende su concierto en Barcelona por un problema de salud
-
-La cantante española Lola Índigo , de 34 años, ha llenado de preocupación a sus seguidores al ser obligada a suspender su concierto en Barcelona al encontrarse mal de repente en plena actuación. «Veía borroso, me faltaba el aire...», ha reseñado. Temía que fuera a caerse en cualquier momento.El suceso ha ocurrido en la.
-
-Date: 2026-07-25
-
-### Duchas y helados para los animales: las medidas del Zoo de Barcelona contra el calor extremo en la ciudad
-
-Duchas o remojadas con mangueras, comidas en formato helado y renovación más constante del agua de los bebederos son algunas de las medidas que aplica el Zoo de Barcelona este verano para que los animales sobrelleven mejor las altas temperaturas . En el marco de otra ola de calor en el conjunto de España, Cataluña volv.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”](https://cincodias.elpais.com/fortunas/2026-08-02/cajal-la-marca-de-joyas-que-convierte-el-vidrio-en-pequenas-obras-de-arte-tiempo-y-dedicacion-ese-es-el-verdadero-lujo.html?utm_source=lootura.com) — 2026-08-02T03:30:00.000Z
+- [Cervantes y un caluroso verano de 1610 en las playas de Barcelona](https://www.abc.es/cultura/cervantes-bajo-fuego-cruzado-barcelona-1610-20260706143539-nt_amp.html?utm_source=lootura.com) — 2026-08-02T12:35:39.000Z
+- [Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo](https://okdiario.com/deportes/imprevisto-ultima-hora-pretemporada-del-barcelona-inglaterra-volveran-antes-tiempo-19113336/amp?utm_source=lootura.com) — 2026-08-02T13:10:43.000Z

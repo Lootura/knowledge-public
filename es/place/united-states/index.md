@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -29,6 +29,12 @@ Date: 2026-08-02
 ### Trump anuncia la suspensión de un ataque contra Irán
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
+
+### Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.
 
 Date: 2026-08-02
 
@@ -62,14 +68,9 @@ La industria televisiva nos ha presentado, a lo largo de los años, a numerosos 
 
 Date: 2026-08-01
 
-### Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu
-
-A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán](https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com) — 2026-08-02T10:47:48.000Z
 - [¿De verdad son los estadounidenses más ricos que los europeos?](https://elpais.com/economia/2026-08-02/de-verdad-son-los-estadounidenses-mas-ricos-en-mayusculas-que-los-europeos.html?utm_source=lootura.com) — 2026-08-02T03:45:00.000Z
 - [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
 - [EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes](https://theobjective.com/internacional/2026-08-02/eeuu-nivel-3-advertencia-viaje-ceuta/?utm_source=lootura.com) — 2026-08-02T07:05:20.000Z

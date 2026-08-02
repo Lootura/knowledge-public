@@ -3,10 +3,22 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez
+
+El presidente de Vox , Santiago Abascal , ha pedido este domingo "militarizar permanentemente la frontera" de Ceuta "hasta que sea necesario". El líder de la formación verde ha culpado a Marruecos de promover una "invasión" y un "acto de guerra tolerado y permitido por Pedro Sánchez". "¿Por qué Marruecos se ha atrevido.
+
+Date: 2026-08-02
+
+### Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»
+
+El líder de Vox, Santiago Abascal , ha calificado este domingo la invasión de inmigrantes irregulares en Ceuta, registrada el pasado jueves, como « un acto de guerra promovido por Marruecos y tolerado y permitido por Pedro Sánchez ». Abascal ha visitado la ciudad autónoma para conocer de primera mano la situación tras.
+
+Date: 2026-08-02
 
 ### Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno
 
@@ -46,4 +58,5 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez](https://www.20minutos.es/ceuta/santiago-abascal-pide-militarizar-permanentemente-frontera-ceuta-invasion-culpa-marruecos-sanchez_7021774_0.html?utm_source=lootura.com) — 2026-08-02T12:59:31.000Z
+- [Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»](https://okdiario.com/espana/abascal-desde-ceuta-sanchez-esta-sometido-marruecos-porque-tienen-pruebas-corrupciones-que-aun-desconocemos-19113195?utm_source=lootura.com) — 2026-08-02T11:50:45.000Z

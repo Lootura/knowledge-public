@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,11 +19,6 @@
   ],
   "changes": [
     {
-      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
-      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto \"un ataque\" contra Irán tras \"alcanzar las bases de un acuerdo\" que...",
       "date": "2026-08-02"
@@ -31,6 +26,16 @@
     {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
       "date": "2026-08-02"
     },
     {
@@ -62,25 +67,14 @@
       "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
       "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
-      "summary": "La Confederación Nacional de la Construcción (CNC) denuncia una situación límite en la licitación de obra pública tras el estallido de la guerra en Irán, que ha vuelto a disparar el precio de los materiales para edificar. La patronal de las empresas constructoras ha cifrado hoy en 1.130 el número de concursos que se ha.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
-      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:35:51.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
-      "url": "https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:31:06.000Z",
-      "sourceId": "lootura-es-el-periodico-mediterraneo"
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "url": "https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T10:47:48.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
@@ -95,5 +89,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

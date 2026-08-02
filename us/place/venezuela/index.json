@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -66,6 +66,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T11:05:56.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
   "evidenceCount": 0
 }

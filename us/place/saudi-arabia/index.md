@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
+
+President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.
+
+Date: 2026-08-02
 
 ### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
 
@@ -62,12 +68,6 @@ During a press briefing, White House press secretary Karoline Leavitt echoed a s
 
 Date: 2026-07-23
 
-### Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved
-
-President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T12:29:07.000Z

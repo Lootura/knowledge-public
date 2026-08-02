@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos
 
 EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».
+
+Date: 2026-08-02
+
+### El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica
+
+El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Dinorah Figuera, presidenta de la Asamblea Nacional de 2015 , publicó un comunicado a las diez y media de la noche (cuatro y media de la madrugada, hora peninsular española). El contenido: ella y Jorge Rodríguez habían sostenido una conversaci.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ El consejero delegado de Repsol , Josu Jon Imaz, ha reafirmado el compromiso de 
 
 Date: 2026-07-23
 
-### Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año
-
-Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica](https://www.abc.es/internacional/llamada-telefonica-debia-haber-mesa-dialogo-venezuela-20260802083251-nt.html?utm_source=lootura.com) — 2026-08-02T12:28:44.000Z
 - [Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos](https://theobjective.com/internacional/2026-08-02/venezuela-dialogo-politico-oposicion-terremotos/?amp=&utm_source=lootura.com) — 2026-08-02T06:27:49.000Z
-- [Opacidad y turbulencia en Venezuela](https://theobjective.com/elsubjetivo/opinion/2026-08-02/opacidad-y-turbulencia-en-venezuela-articulo-granes/?utm_source=lootura.com) — 2026-08-02T03:25:00.000Z

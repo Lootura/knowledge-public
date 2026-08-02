@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -63,6 +63,11 @@
       "date": "2026-08-02"
     },
     {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
       "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
       "date": "2026-08-01"
@@ -86,14 +91,15 @@
       "title": "Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos",
       "summary": "La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Mientras España arde, Perú planta 1.000.000 árboles para restaurar ecosistemas del Machu Picchu",
-      "summary": "A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambiente de Perú lidera una movilización que busca la conservación y protección de uno de los entornos naturales más populares de América Latina. Se trata del área protegida del Santuario Histórico de Machupicchu , un espacio donde la presión cli.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "url": "https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T10:47:48.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "¿De verdad son los estadounidenses más ricos que los europeos?",
       "url": "https://elpais.com/economia/2026-08-02/de-verdad-son-los-estadounidenses-mas-ricos-en-mayusculas-que-los-europeos.html?utm_source=lootura.com",
@@ -119,5 +125,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

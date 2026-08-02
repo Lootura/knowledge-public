@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/out-burger/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/out-burger/index.json",
   "description": "Follow Out Burger, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,11 @@
       "date": "2026-08-01"
     },
     {
+      "title": "At least 3 killed in Idaho In-N-Out Burger shooting; suspect dead",
+      "summary": "Three people are dead in a shooting around an In-N-Out Burger in Twin Falls, Idaho, on Saturday, authorities said.",
+      "date": "2026-08-01"
+    },
+    {
       "title": "At least 3 killed, 2 injured in Idaho shooting; suspect dead",
       "summary": "Three people are dead in a shooting around an In-N-Out Burger in Twin Falls, Idaho, on Saturday, authorities said.",
       "date": "2026-08-01"
@@ -39,7 +44,7 @@
   ],
   "sources": [
     {
-      "title": "At least 3 killed, 2 injured in Idaho shooting; suspect dead",
+      "title": "At least 3 killed in Idaho In-N-Out Burger shooting; suspect dead",
       "url": "https://www.nbcnews.com/news/us-news/dead-injured-shooting-twin-falls-idaho-rcna590420?utm_source=lootura.com",
       "publishedAt": "2026-08-01T23:07:02.000Z",
       "sourceId": "lootura-us-nbc-news"
@@ -59,7 +64,7 @@
     {
       "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
       "url": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:47:07.000Z",
+      "publishedAt": "2026-08-02T10:56:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

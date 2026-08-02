@@ -3,10 +3,22 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
+
+Date: 2026-08-02
+
+### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.
+
+Date: 2026-08-02
 
 ### La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”
 
@@ -56,18 +68,7 @@ La crisis de los graves incendios que afectan a la Comunidad de Madrid y la prov
 
 Date: 2026-07-24
 
-### Ayuso eleva a 12.000 las hectáreas quemadas en un situación "muy crítica" para Madrid
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado este viernes que los fuegos en la región afectan ya a 12.000 hectáreas , que hay 20.000 habitantes evacuados y que la situación sigue siendo "muy crítica" debido al viento, datos a los que ha sumado una reivindicación: la llegada de más medios aé.
-
-Date: 2026-07-24
-
-### Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón
-
-El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"](https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com) — 2026-08-02T12:44:24.000Z
+- [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z

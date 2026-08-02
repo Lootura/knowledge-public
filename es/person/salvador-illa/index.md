@@ -52,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Illa subvenciona los 'comisarios lingüísticos' municipales que controlan el uso del catalán en las tiendas, los restaurantes y el ocio infantil](https://www.abc.es/espana/cataluna/illa-subvenciona-informantes-municipales-controlar-uso-catalan-20260731012801-nt.html?utm_source=lootura.com) — 2026-08-02T08:58:26.000Z
+No public source links.

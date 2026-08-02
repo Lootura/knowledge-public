@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta",
+      "summary": "El Ministerio del Interior ha informado este domingo de que las barreras de contención instaladas este sábado, 1 de agosto, en la zona de El Tarajal, en Ceuta , se encuentran ya «plenamente operativas» . En un mensaje difundido a través de sus canales oficiales, el departamento que dirige Fernando Grande-Marlaska ha se.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Ceuta recobra parte de la calma en medio de la tensión política",
       "summary": "Ceuta ha recobrado parte de la calma robada con la entrada multitudinaria de miles de marroquíes en una crisis de cifras inéditas . Por las calles del centro y cerca de la frontera de El Tarajal todavía se veían este sábado jóvenes con bolsas deambulando de un lado para otro, pero en grupos mucho menos numerosos que en.",
@@ -42,6 +47,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta",
+      "url": "https://theobjective.com/espana/2026-08-02/interior-asegura-barreras-contencion-operativas-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:05:49.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

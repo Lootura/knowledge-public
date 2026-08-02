@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes

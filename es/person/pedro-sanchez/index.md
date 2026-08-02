@@ -3,10 +3,46 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La crisis de Ceuta alinea a la derecha europea contra Sánchez
+
+Un nuevo fantasma recorre Europa y esta vez se llama inmigración. Sobre él cabalga la rampante derechización del continente. Y ante él, Pedro Sánchez, el único socialdemócrata al mando de uno de los grandes países de los 27, se ve cada vez más solo, como ha evidenciado la crisis de Ceuta con sus imágenes de una oleada.
+
+Date: 2026-08-02
+
+### Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez
+
+El presidente de Vox , Santiago Abascal , ha pedido este domingo "militarizar permanentemente la frontera" de Ceuta "hasta que sea necesario". El líder de la formación verde ha culpado a Marruecos de promover una "invasión" y un "acto de guerra tolerado y permitido por Pedro Sánchez". "¿Por qué Marruecos se ha atrevido.
+
+Date: 2026-08-02
+
+### Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera
+
+El líder de Vox asegura que Marruecos permite la invasión de la cuidad autónoma porque sabe que no va a tener represalias porque tiene información a de mafias y corrosión de Sánchez.
+
+Date: 2026-08-02
+
+### Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"
+
+La presidenta de la Comunidad de Madrid y el líder de Vox confluyen en dureza frente a la crisis de Ceuta Leer.
+
+Date: 2026-08-02
+
+### Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»
+
+El líder de Vox, Santiago Abascal , ha calificado este domingo la invasión de inmigrantes irregulares en Ceuta, registrada el pasado jueves, como « un acto de guerra promovido por Marruecos y tolerado y permitido por Pedro Sánchez ». Abascal ha visitado la ciudad autónoma para conocer de primera mano la situación tras.
+
+Date: 2026-08-02
+
+### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.
+
+Date: 2026-08-02
 
 ### Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos
 
@@ -26,55 +62,17 @@ Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobr
 
 Date: 2026-08-02
 
-### La crisis de Ceuta alinea a la derecha europea contra Sánchez
-
-Un nuevo fantasma recorre Europa y esta vez se llama inmigración. Sobre él cabalga la rampante derechización del continente. Y ante él, Pedro Sánchez, el único socialdemócrata al mando de uno de los grandes países de los 27, se ve cada vez más solo, como ha evidenciado la crisis de Ceuta con sus imágenes de una oleada.
-
-Date: 2026-08-02
-
 ### Sánchez se enfrenta a socios de la UE y alaba la actuación de Marruecos tras la peor crisis migratoria en la historia de Ceuta
 
 La ciudad autónoma de Ceuta y su frontera vivió este jueves su peor crisis migratoria en su historia, con la entrada masiva de entre 50.000 y 60.000 inmigrantes procedentes de Marruecos , que provocaron un colapso en materia de seguridad e imagen internacional y que ha golpeado directamente a un Gobierno que ahora ve c.
 
 Date: 2026-08-02
 
-### Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»
-
-España atraviesa una de las crisis migratorias más complejas de los últimos años. El pasado jueves 30 de julio, alrededor de 60.000 personas migrantes llegaron a Ceuta desde Marruecos , entrando por vía marítima. Este episodio ha evidenciado, una vez más, la especial vulnerabilidad de las fronteras españolas .Lo ocurri.
-
-Date: 2026-08-02
-
-### Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»
-
-El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.
-
-Date: 2026-08-02
-
-### Veintidós países europeos señalan a España y reprochan la regularización
-
-El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
-
-Date: 2026-08-02
-
-### Guerra fría PSOE-PP ante la crisis climática
-
-La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
-
-Date: 2026-08-02
-
-### El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta
-
-"Un Gobierno que funciona". Es la definición que hizo Pedro Sánchez del suyo hace solo cinco días, ensalzando el número de leyes aprobadas y asegurando que sus...
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Sánchez se enfrenta a socios de la UE y alaba la actuación de Marruecos tras la peor crisis migratoria en la historia de Ceuta](https://www.20minutos.es/nacional/sanchez-enfrenta-socios-ue-alaba-actuacion-marruecos-tras-peor-crisis-migratoria-historia-ceuta_7021711_0.html?utm_source=lootura.com) — 2026-08-02T08:27:56.000Z
-- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T08:11:19.000Z
-- [Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»](https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-considera-espana-sufrido-20260802103438-nt.html?utm_source=lootura.com) — 2026-08-02T08:34:39.000Z
-- [43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio](https://www.elconfidencial.com/espana/2026-08-02/40-anos-indultos-espana_4399230/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
-- [El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"](https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
-- [El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta](https://amp.elmundo.es/espana/2026/08/01/6a6e3c75e4d4d8165a8b457a.html?utm_source=lootura.com) — 2026-08-01T20:36:41.000Z
+- [Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez](https://www.20minutos.es/ceuta/santiago-abascal-pide-militarizar-permanentemente-frontera-ceuta-invasion-culpa-marruecos-sanchez_7021774_0.html?utm_source=lootura.com) — 2026-08-02T12:59:31.000Z
+- [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
+- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T12:20:21.000Z
 - [La crisis de Ceuta alinea a la derecha europea contra Sánchez](https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»](https://okdiario.com/espana/tellado-acusa-gobierno-no-actuar-ceuta-puede-volver-ocurrir-manana-19112803?utm_source=lootura.com) — 2026-08-02T09:31:50.000Z
+- [Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»](https://okdiario.com/espana/abascal-desde-ceuta-sanchez-esta-sometido-marruecos-porque-tienen-pruebas-corrupciones-que-aun-desconocemos-19113195?utm_source=lootura.com) — 2026-08-02T11:50:45.000Z
+- [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z

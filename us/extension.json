@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T10:05:28.953Z",
+  "generatedAt": "2026-08-02T13:26:49.894Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|47|1785664450257",
+    "signature": "1.18.0|48|1785676532753",
     "version": "1.18.0",
-    "build": 47,
-    "latestEntityUpdatedAt": "2026-08-02T09:54:10.257Z"
+    "build": 48,
+    "latestEntityUpdatedAt": "2026-08-02T13:15:32.753Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-02T09:54:10.257Z",
-      "score": 1719,
-      "sourceCount": 498,
+      "updatedAt": "2026-08-02T13:15:32.753Z",
+      "score": 1716,
+      "sourceCount": 504,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-saudi-arabia",
+        "name": "Saudi Arabia",
+        "type": "place",
+        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+        "path": "/us/place/saudi-arabia",
+        "updatedAt": "2026-08-02T13:15:32.753Z",
+        "score": 1693,
+        "sourceCount": 22,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+        "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-02T09:54:10.257Z",
-        "score": 1695,
-        "sourceCount": 508,
+        "updatedAt": "2026-08-02T13:15:32.753Z",
+        "score": 1692,
+        "sourceCount": 513,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +60,9 @@
         "title": "Oil companies see soaring profits amid Iran war",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-02T09:54:10.257Z",
-        "score": 1683,
-        "sourceCount": 279,
+        "updatedAt": "2026-08-02T13:15:32.753Z",
+        "score": 1668,
+        "sourceCount": 284,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
         "url": "https://atlas.lootura.com/us/object/reflecting-pool",
         "path": "/us/object/reflecting-pool",
-        "updatedAt": "2026-08-02T09:54:10.257Z",
-        "score": 1662,
+        "updatedAt": "2026-08-02T13:15:32.753Z",
+        "score": 1653,
         "sourceCount": 6,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
-        "type": "person",
-        "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-02T09:54:10.257Z",
-        "score": 1651,
-        "sourceCount": 33,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 91
+    "publicEntityCount": 92
   }
 }

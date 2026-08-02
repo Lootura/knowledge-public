@@ -28,5 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Truth Social launches service selling faster access to Trump posts](https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419?utm_source=lootura.com) — 2026-08-02T00:06:17.000Z
-- [Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks](https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com) — 2026-08-01T16:15:42.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante",
+      "summary": "Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha percibido el temblor en la práctica totalidad de la Vega Baja, aunque no se ha recibido ninguna llamada al 112 de la Comunitat Valenciana.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
       "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
@@ -64,13 +69,15 @@
       "title": "Incendios forestales en España hoy, en directo: última hora de la evolución de los fuegos activos",
       "summary": "El calor extremo mantiene en alerta a los servicios de emergencia ante la evolución de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, Andalucía y la Comunidad Valenciana concentran algunos de los principales operativos en una jornada marcada por nuevos focos y las altas te.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano",
-      "summary": "La Comunidad Valenciana es uno de los centros turísticos más importantes en España. Este territorio cerró 2025 con casi 30 millones de turistas, de los cuales 12,5 millones fueron extranjeros y 17,4% son nacionales.Las previsiones para este 2026 apuntan a que los números seguirán al alza en el caso de los turistas proc.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante",
+      "url": "https://www.larazon.es/comunidad-valenciana/alicante/terremoto-murcia-41-grados-sentido-tambien-alicante_202608026a6f3ecea046ad6ebc97014c.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:57:50.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

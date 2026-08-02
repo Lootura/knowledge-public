@@ -65,19 +65,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Guardias civiles piden a la UE una política de fronteras \"que no dependa\" de terceros países tras la crisis de Ceuta",
-      "url": "https://www.20minutos.es/ceuta/guardias-civiles-piden-ue-politica-fronteras-no-dependa-terceros-paises-crisis-migratoria-ceuta_7021685_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T06:58:27.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El amnistiado que reniega del perdón: \"Sólo sirvió para que Sánchez esté en la Moncloa\"",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

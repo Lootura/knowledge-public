@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Trump Battles GOP Holdouts Amid Democrats’ Factional Fight
+
+Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.
+
+Date: 2026-08-02
+
+### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
+
+We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.
+
+Date: 2026-08-02
+
+### Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller
+
+Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.
+
+Date: 2026-08-01
 
 ### Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup
 
@@ -17,12 +35,6 @@ Date: 2026-08-01
 ### Dems are increasingly desperate to get their Senate candidates to drop out in these races
 
 Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.
-
-Date: 2026-08-01
-
-### Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller
-
-Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.
 
 Date: 2026-08-01
 
@@ -56,20 +68,8 @@ There’s a lot going right for the Democrats. Here’s what could go wrong.
 
 Date: 2026-07-31
 
-### Opposing Defense Bill, Democrats Shift Their Tactics
-
-Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
-
-Date: 2026-07-25
-
-### Maine Democrats pick Troy Jackson to replace Platner on Senate ballot
-
-Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
+- [Trump Battles GOP Holdouts Amid Democrats’ Factional Fight](https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com) — 2026-08-02T13:09:33.000Z
+- [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z
 - [Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller](https://www.pbs.org/newshour/politics/democrats-see-a-chance-to-flip-a-seat-as-focus-on-abuse-claims-mounts-against-ohio-rep-max-miller?utm_source=lootura.com) — 2026-08-01T20:14:55.000Z
-- [Dems are increasingly desperate to get their Senate candidates to drop out in these races](https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995?utm_source=lootura.com) — 2026-08-01T11:00:00.000Z

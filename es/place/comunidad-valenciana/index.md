@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante
+
+Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha percibido el temblor en la práctica totalidad de la Vega Baja, aunque no se ha recibido ninguna llamada al 112 de la Comunitat Valenciana.
+
+Date: 2026-08-02
 
 ### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
 
@@ -62,12 +68,6 @@ El calor extremo mantiene en alerta a los servicios de emergencia ante la evoluc
 
 Date: 2026-07-14
 
-### Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano
-
-La Comunidad Valenciana es uno de los centros turísticos más importantes en España. Este territorio cerró 2025 con casi 30 millones de turistas, de los cuales 12,5 millones fueron extranjeros y 17,4% son nacionales.Las previsiones para este 2026 apuntan a que los números seguirán al alza en el caso de los turistas proc.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante](https://www.larazon.es/comunidad-valenciana/alicante/terremoto-murcia-41-grados-sentido-tambien-alicante_202608026a6f3ecea046ad6ebc97014c.html?outputType=amp&utm_source=lootura.com) — 2026-08-02T12:57:50.000Z

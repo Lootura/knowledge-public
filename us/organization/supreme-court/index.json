@@ -67,19 +67,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
-      "url": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T06:48:35.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T15:24:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

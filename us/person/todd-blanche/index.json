@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
+      "summary": "Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed",
       "summary": "Todd Blanche previously repeatedly told Congress the \"anti-weaponization fund\" was \"dead.\".",
@@ -22,11 +32,6 @@
     {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
       "date": "2026-08-01"
     },
     {
@@ -58,25 +63,14 @@
       "title": "Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General",
       "summary": "Acting Attorney General Todd Blanche gets sworn in at his confirmation hearing in front of the Senate Judiciary Committee on Capitol Hill July 15, 2026 in Washington, D.C. —Win McNamee—Getty Images With just a week left before the Senate leaves for its August recess, the Trump Administration is increasing pressure on l.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-      "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed",
-      "url": "https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T13:06:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:46:43.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
+      "url": "https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T13:09:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

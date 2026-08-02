@@ -8,30 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
       "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
       "date": "2026-08-02"
     },
     {
-      "title": "Europe continues to celebrate Pride after attack on Berlin parade",
-      "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
-      "date": "2026-08-01"
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.",
+      "date": "2026-08-02"
     },
     {
       "title": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
       "summary": "For Greece, the danger carried grim resonance: a 2018 wildfire​ at the seaside community of Mati​, near Athens, killed 104 people.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Europe continues to celebrate Pride after attack on Berlin parade",
+      "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
       "date": "2026-08-01"
     },
     {
@@ -73,23 +73,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Europe continues to celebrate Pride after attack on Berlin parade",
-      "url": "https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T15:30:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
       "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:30:01.000Z",
+      "publishedAt": "2026-08-02T07:30:02.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:53:30.000Z",
-      "sourceId": "lootura-us-wired"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

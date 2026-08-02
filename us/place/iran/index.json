@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -27,6 +27,36 @@
       "date": "2026-08-02"
     },
     {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Iran's war on Americans began decades ago. These families still carry the scars",
+      "summary": "Nearly two decades before the latest war with Iran, an explosively formed penetrator tore through a U.S. Army vehicle on a Baghdad road, killing Staff Sgt. William Brooks and leaving Sgt. (Ret.) Robert Bartlett with injuries so severe that he says he \"died three times.\" The weapon was part of a broader Iranian campaign.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "summary": "President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. Continue reading...",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
       "summary": "President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.",
       "date": "2026-08-02"
@@ -35,45 +65,9 @@
       "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
       "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "summary": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
-      "summary": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
-      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
-      "summary": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-      "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
-      "summary": "Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
-      "url": "https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T12:36:27.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
       "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com",
@@ -93,16 +87,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:31:00.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "Iran's war on Americans began decades ago. These families still carry the scars",
+      "url": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:00:13.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says",
       "url": "https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com",
       "publishedAt": "2026-08-01T20:37:54.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "url": "https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:32:59.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:08:02.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump says he's cancelling Iran strikes, deal pending",
@@ -117,17 +123,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
+      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
       "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:45:37.000Z",
+      "publishedAt": "2026-08-02T11:22:04.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:54:48.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 14
 }

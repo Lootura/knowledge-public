@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana
+
+Después de un julio de sobresaltos, que se despidió con los inversores tratando de descifrar las verdaderas intenciones de la Reserva Federal, los mercados se adentran en agosto, un mes en el que la escasa negociación y un flujo informativo más liviano suelen allanar el terreno para que la volatilidad campe a sus ancha.
+
+Date: 2026-08-02
 
 ### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
 
@@ -16,7 +22,7 @@ Date: 2026-07-16
 
 ### Discovered by Atlas
 
-Reserva Federal first entered the public knowledge record with source-backed evidence.
+Sistema de la Reserva Federal first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-15
 
@@ -40,4 +46,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana](https://cincodias.elpais.com/mercados-financieros/2026-08-02/las-bolsas-afrontan-el-examen-de-agosto-petroleo-empleo-e-ia-ponen-a-prueba-al-mercado-esta-semana.html?utm_source=lootura.com) — 2026-08-02T09:51:39.000Z

@@ -8,14 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
-  "aliases": [],
+  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "aliases": [
+    "Vallés",
+    "Vicente"
+  ],
   "changes": [
-    {
-      "title": "Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»",
-      "summary": "España atraviesa una de las crisis migratorias más complejas de los últimos años. El pasado jueves 30 de julio, alrededor de 60.000 personas migrantes llegaron a Ceuta desde Marruecos , entrando por vía marítima. Este episodio ha evidenciado, una vez más, la especial vulnerabilidad de las fronteras españolas .Lo ocurri.",
-      "date": "2026-08-02"
-    },
     {
       "title": "Vicente Vallés, sobre la vida de sus padres en Vallecas: «Vivían en una infravivienda; su día a día era de gran dureza, trabajando de sol a sol»",
       "summary": "Vicente Vallés se crio en una chabola en Antena 3, donde nació en un lugar muy humilde y rodeado de su familia.",
@@ -25,15 +23,14 @@
       "title": "Discovered by Atlas",
       "summary": "Vicente Vallés first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
+    },
+    {
+      "title": "Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»",
+      "summary": "España atraviesa una de las crisis migratorias más complejas de los últimos años. El pasado jueves 30 de julio, alrededor de 60.000 personas migrantes llegaron a Ceuta desde Marruecos , entrando por vía marítima. Este episodio ha evidenciado, una vez más, la especial vulnerabilidad de las fronteras españolas .Lo ocurri.",
+      "date": "2026-08-02"
     }
   ],
   "sources": [
-    {
-      "title": "Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»",
-      "url": "https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-considera-espana-sufrido-20260802103438-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T08:34:39.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Vicente Vallés, sobre la vida de sus padres en Vallecas: «Vivían en una infravivienda; su día a día era de gran dureza, trabajando de sol a sol»",
       "url": "https://theobjective.com/gente/2026-08-02/vicente-valles-padres-vallecas-infravivienda-trabajando/?amp=&utm_source=lootura.com",
@@ -41,5 +38,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa",
+      "summary": "Villarrubia de Santiago , en la provincia de Toledo, conserva una de las historias más curiosas relacionadas con Santa Teresa de Jesús . En el interior de la iglesia de San Bartolomé se guarda un antiguo baúl que, según la tradición, perteneció a la santa y quedó olvidado en la localidad durante uno de sus viajes por C.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Prohibidas 'raves', acampar... la \"preocupación\" por el eclipse lleva a extremar medidas contra incendios",
       "summary": "El próximo 12 de agosto, España vivirá un momento \"histórico\", el primer eclipse de sol desde hace 114 años, que a última hora de la tarde dejará en penumbra durante casi dos horas en algunos casos buena parte del territorio de Galicia, Castilla y León, la Comunidad de Madrid, Aragón, Castilla-La Mancha, Cataluña, la C.",
@@ -58,19 +63,14 @@
       "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
       "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...",
-      "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Prohibidas 'raves', acampar... la \"preocupación\" por el eclipse lleva a extremar medidas contra incendios",
-      "url": "https://www.20minutos.es/nacional/prohibidas-raves-acampadas-andar-por-monte-preocupacion-por-eclipse-lleva-extremar-precauciones-contra-los-incendios_7021236_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:05:46.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa",
+      "url": "https://www.larazon.es/castilla-la-mancha/localidad-castillala-mancha-donde-guarda-curiosa-reliquia-vinculada-santa-teresa-b30m_202608026a6f3b7ea046ad6ebc96fb3b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:43:42.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

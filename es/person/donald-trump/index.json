@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,18 +25,8 @@
   ],
   "changes": [
     {
-      "title": "Claves para proteger la cartera de inversiones en vacaciones",
-      "summary": "Primer día de agosto y, para muchos, el inicio de las vacaciones. Toca poner en pausa la rutina diaria y dar paso al descanso y el ocio. Es hora para la desconexión, también en el ámbito financiero, algo que, aunque parezca imposible, no lo es. La incertidumbre va a seguir dominando los mercados. Donald Trump continúa.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
       "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
-      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
       "date": "2026-08-02"
     },
     {
@@ -47,6 +37,21 @@
     {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Claves para proteger la cartera de inversiones en vacaciones",
+      "summary": "Primer día de agosto y, para muchos, el inicio de las vacaciones. Toca poner en pausa la rutina diaria y dar paso al descanso y el ocio. Es hora para la desconexión, también en el ámbito financiero, algo que, aunque parezca imposible, no lo es. La incertidumbre va a seguir dominando los mercados. Donald Trump continúa.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
       "date": "2026-08-02"
     },
     {
@@ -68,31 +73,20 @@
       "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
       "summary": "La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
-      "summary": "La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Claves para proteger la cartera de inversiones en vacaciones",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-02/claves-para-proteger-la-cartera-de-inversiones-en-vacaciones.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
+      "url": "https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T10:47:48.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
       "url": "https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
-      "url": "https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:31:06.000Z",
-      "sourceId": "lootura-es-el-periodico-mediterraneo"
     },
     {
       "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
@@ -107,5 +101,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

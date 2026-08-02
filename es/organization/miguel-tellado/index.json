@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-02T13:15:10.309Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»",
-      "summary": "El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.",
+      "title": "Discovered by Atlas",
+      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
+      "title": "Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»",
+      "summary": "El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.",
       "date": "2026-08-02"
     }
   ],
@@ -33,13 +33,7 @@
       "url": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T09:33:32.000Z",
       "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»",
-      "url": "https://okdiario.com/espana/tellado-acusa-gobierno-no-actuar-ceuta-puede-volver-ocurrir-manana-19112803?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:31:50.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

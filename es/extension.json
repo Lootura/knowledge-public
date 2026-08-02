@@ -1,43 +1,69 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T10:05:31.486Z",
+  "generatedAt": "2026-08-02T13:26:53.170Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|47|1785664427705",
+    "signature": "1.18.0|48|1785676510309",
     "version": "1.18.0",
-    "build": 47,
-    "latestEntityUpdatedAt": "2026-08-02T09:53:47.705Z"
+    "build": 48,
+    "latestEntityUpdatedAt": "2026-08-02T13:15:10.309Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»",
+      "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-02T09:53:47.705Z",
-      "score": 11748,
-      "sourceCount": 268,
+      "updatedAt": "2026-08-02T13:15:10.309Z",
+      "score": 11760,
+      "sourceCount": 273,
       "isBreaking": true,
       "isPinned": false,
       "badgeLabel": "Breaking"
     },
     "cards": [
       {
-        "id": "es-iran",
-        "name": "Irán",
+        "id": "es-madrid",
+        "name": "Madrid",
         "type": "place",
-        "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
-        "url": "https://atlas.lootura.com/es/place/iran",
-        "path": "/es/place/iran",
-        "updatedAt": "2026-08-02T09:53:47.705Z",
-        "score": 1673,
-        "sourceCount": 123,
+        "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-02T13:15:10.309Z",
+        "score": 1682,
+        "sourceCount": 517,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-isabel-diaz-ayuso",
+        "name": "Isabel Díaz Ayuso",
+        "type": "person",
+        "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
+        "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
+        "path": "/es/person/isabel-diaz-ayuso",
+        "updatedAt": "2026-08-02T13:15:10.309Z",
+        "score": 1672,
+        "sourceCount": 21,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-santiago-abascal",
+        "name": "Santiago Abascal",
+        "type": "organization",
+        "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
+        "url": "https://atlas.lootura.com/es/organization/santiago-abascal",
+        "path": "/es/organization/santiago-abascal",
+        "updatedAt": "2026-08-02T13:15:10.309Z",
+        "score": 1671,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       },
@@ -45,42 +71,16 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "Invierta en nuestra ‘start-up’: las megarrondas en España se generalizan en la era de la IA y la industria espacial",
+        "title": "Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-02T09:53:47.705Z",
-        "score": 1670,
-        "sourceCount": 666,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-08-02T09:53:47.705Z",
-        "score": 1666,
-        "sourceCount": 174,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-02T09:53:47.705Z",
-        "score": 1652,
-        "sourceCount": 158,
+        "updatedAt": "2026-08-02T13:15:10.309Z",
+        "score": 1657,
+        "sourceCount": 674,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 134
+    "publicEntityCount": 136
   }
 }

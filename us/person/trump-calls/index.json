@@ -1,0 +1,45 @@
+{
+  "id": "usa-trump-calls",
+  "name": "Trump Calls",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/trump-calls",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/trump-calls",
+  "markdownUrl": "https://atlas.lootura.com/us/person/trump-calls/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/trump-calls/index.json",
+  "description": "Follow Trump Calls, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "summary": "President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Trump Calls first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump Calls for Pause on Military Strikes Against Iran",
+      "url": "https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:32:59.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T20:14:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

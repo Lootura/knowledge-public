@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes](https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html?utm_source=lootura.com) — 2026-08-02T11:05:56.000Z

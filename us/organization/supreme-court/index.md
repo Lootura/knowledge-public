@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court](https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court?utm_source=lootura.com) — 2026-08-02T06:48:35.000Z
-- [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html?utm_source=lootura.com) — 2026-08-01T15:24:45.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario
 
 Cualquier guionista medianamente apañado podría convertir la vida del director ejecutivo de IMAX en una película sobre el manido sueño americano. La historia de Richard Gelfond (Nueva York, 1955) es el epítome del hombre de negocios hecho a sí mismo, una de esas historias capaces de enamorar a Hollywood y a Wall Street.
+
+Date: 2026-08-02
+
+### Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años
+
+El actor estadounidense Vincent Pastore , recordado popularmente por su papel de Salvatore ‘Big Pussy’ Bonpensiero en la aclamada serie ‘Los Soprano’ , ha sido hallado sin vida este sábado en su residencia del barrio del Bronx, en Nueva York. Ha sido un vecino quien ha encontrado el cuerpo en su vivienda tras varios dí.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuesti
 
 Date: 2026-07-19
 
-### La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires
-
-Los día previos a la esperada final han sido de gran emoción para los aficionados argentinos pese a tener una final tan cercana como la de Qatar 2022. Esto se ha dejado ver no solo en las calles de Nueva York, sino también en Argentina. Sin embargo, apenas dos horas antes de arrancar el partido, los ánimos se han visto.
-
-Date: 2026-07-19
-
 ## Fuentes
 
 - [Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario](https://cincodias.elpais.com/opinion/2026-08-02/richard-gelfond-el-hombre-que-convirtio-imax-en-un-negocio-millonario.html?utm_source=lootura.com) — 2026-08-02T03:40:00.000Z
+- [Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años](https://theobjective.com/cultura/2026-08-02/vicente-pastore-actor-los-soprano-fallece-80-anos/?utm_source=lootura.com) — 2026-08-02T11:05:55.000Z

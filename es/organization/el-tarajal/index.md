@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta
+
+El Ministerio del Interior ha informado este domingo de que las barreras de contención instaladas este sábado, 1 de agosto, en la zona de El Tarajal, en Ceuta , se encuentran ya «plenamente operativas» . En un mensaje difundido a través de sus canales oficiales, el departamento que dirige Fernando Grande-Marlaska ha se.
+
+Date: 2026-08-02
 
 ### Ceuta recobra parte de la calma en medio de la tensión política
 
@@ -46,4 +52,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-No public source links.
+- [Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta](https://theobjective.com/espana/2026-08-02/interior-asegura-barreras-contencion-operativas-ceuta/?utm_source=lootura.com) — 2026-08-02T12:05:49.000Z

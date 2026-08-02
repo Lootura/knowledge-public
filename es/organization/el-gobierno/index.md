@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta
+
+El Ejecutivo no supo del aluvión de personas que el jueves entró a Ceuta irregularmente hasta que lo vio cruzar la frontera. Así lo ha asegurado este domingo el delegado del...
+
+Date: 2026-08-02
+
+### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
+
+El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.
+
+Date: 2026-08-02
+
+### El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta
+
+El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.
+
+Date: 2026-08-02
 
 ### El Gobierno de Merz pone a los alemanes a trabajar
 
@@ -50,24 +68,9 @@ El ministro del Interior, Fernando Grande-Marlaska, ha reconocido desde Navaluen
 
 Date: 2026-07-25
 
-### El brote de Ébola en Congo se acerca a los 3.000 casos, con 1.309 muertes
-
-El Gobierno de la República Democrática del Congo (RDC) elevó a 1.309 el número de muertos y a 2.973 los casos confirmados de ébola por el brote declarado en el este del país el pasado 15 de mayo. Según el último boletín del Instituto Nacional de Salud Pública (INSP) de la RDC, con datos recopilados hasta el 23 de juli.
-
-Date: 2026-07-25
-
-### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
-
-El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
-
-Date: 2026-07-25
-
-### Empeora el incendio en Ávila: se evacúa a 30.000 personas en todo el Valle del Tiétar
-
-El Gobierno ha decretado la evacuación de nueve municipios del Valle del Tiétar, siete de ellos en Ávila y dos en Madrid, en una operación que afecta a más de 30.000 personas, según ha anunciado el delegado del Gobierno en la Comunidad de Madrid, Francisco Martín, lo que eleva a unos 38.000 los desalojados totales en Á.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [El Gobierno de Merz pone a los alemanes a trabajar](https://www.elcorreo.com/economia/trabajo/gobierno-merz-pone-alemanes-trabajar-20260802000557-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T22:05:57.000Z
+- [El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta](https://amp.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com) — 2026-08-02T10:17:12.000Z
+- [Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal](https://www.lavanguardia.com/politica/20260802/11606225/ascienden-72-cadaveres-recuperados-mar-ceuta-intentos-entrar-espigon-tarajal.html?utm_source=lootura.com) — 2026-08-02T09:33:01.000Z
+- [El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta](https://theobjective.com/espana/2026-08-02/gobierno-eleva-72-inmigrantes-muertos-ceuta/?utm_source=lootura.com) — 2026-08-02T10:27:53.000Z

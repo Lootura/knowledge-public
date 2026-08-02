@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -20,11 +20,11 @@ Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis i
 
 Date: 2026-08-02
 
-### Spain Installs Floating Barrier in Ceuta After Influx of Migrants
+### Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta
 
-Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.
+Spain’s leading far-right politician arrived in the territory on Sunday, fueling political tensions there after thousands of migrants entered the exclave last week.
 
-Date: 2026-08-01
+Date: 2026-08-02
 
 ### Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67
 
@@ -70,7 +70,6 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67](https://www.pbs.org/newshour/world/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67?utm_source=lootura.com) — 2026-08-01T15:19:24.000Z
-- [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T21:23:42.000Z
 - [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T08:49:09.000Z
-- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:01.000Z
+- [Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T12:49:54.000Z
+- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:02.000Z

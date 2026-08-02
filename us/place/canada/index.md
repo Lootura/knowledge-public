@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-02T13:15:32.753Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
 
 Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
+
+Date: 2026-08-02
+
+### Flights canceled as WestJet flight attendants strike over pay dispute
+
+WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ The president said punishing 50 percent tariffs would begin by Aug. 19, a signif
 
 Date: 2026-07-22
 
-### Canada cancels joint bridge-opening celebration with US amid trade tensions
-
-The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.
-
-Date: 2026-07-22
-
 ## Sources
 
+- [Flights canceled as WestJet flight attendants strike over pay dispute](https://www.cbsnews.com/news/canada-westjet-flight-attendants-strike/?utm_source=lootura.com) — 2026-08-02T12:27:28.000Z
 - [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com) — 2026-08-02T08:47:25.000Z

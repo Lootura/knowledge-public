@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-02T13:15:10.309Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-02
 ### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
 
 Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
+
+Date: 2026-08-02
+
+### Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza
+
+La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.
 
 Date: 2026-08-02
 
@@ -62,14 +68,8 @@ El líder del PP asegura que la ocupación fue «premeditada» y que la respuest
 
 Date: 2026-08-01
 
-### Feijóo pide ser "responsables" y combatir "juntos" los incendios
-
-Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad de trabajar "juntos" para combatir los incendios, así de ser "responsables" y "refrescar el ambiente político". Lo ha hecho en declaraciones en Santiago de Compostela, donde participa en los actos del Día de Galicia, con motivo de la celebración.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza](https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com) — 2026-08-02T11:11:19.000Z
 - [El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025](https://www.larazon.es/espana/supera-807000-afiliados-feijoo-sumo-casi-3000-nuevos-carnets-2025_202608026a6f0e3671b42a0b5dd4eae5.html?utm_source=lootura.com) — 2026-08-02T09:30:30.000Z
 - [El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”](https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com) — 2026-08-02T09:33:32.000Z
-- [Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»](https://okdiario.com/espana/tellado-acusa-gobierno-no-actuar-ceuta-puede-volver-ocurrir-manana-19112803?utm_source=lootura.com) — 2026-08-02T09:31:50.000Z
