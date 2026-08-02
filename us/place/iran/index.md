@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T06:30:58.422Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,15 +14,27 @@ As the threat of escalation in the war with Iran drives gas prices higher and hu
 
 Date: 2026-08-02
 
+### Trump says deal to end Iran war may be imminent, agrees to "cancel the attack"
+
+On Saturday, Saudi Crown Prince Mohammed bin Salman spoke with Mr. Trump and cautioned him against conducting a fresh round of strikes on Iran, CBS News learned.
+
+Date: 2026-08-02
+
+### Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran
+
+President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.
+
+Date: 2026-08-02
+
+### Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal
+
+President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.
+
+Date: 2026-08-02
+
 ### Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest
 
 Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military. (Image credit: Ryan Murphy).
-
-Date: 2026-08-01
-
-### Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians
-
-The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.
 
 Date: 2026-08-01
 
@@ -56,27 +68,15 @@ Malicious cyber activity affected technology at water systems in at least seven 
 
 Date: 2026-08-01
 
-### State Department urges Americans to consider leaving Middle East as regional conflict escalates
-
-The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.
-
-Date: 2026-08-01
-
-### Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings
-
-Here are the most important developments in the Middle East on Saturday.
-
-Date: 2026-08-01
-
 ## Sources
 
 - [U.S., Israel preparing to bombard energy-related targets in Iran, sources say](https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/?utm_source=lootura.com) — 2026-08-01T12:36:27.000Z
 - [U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-08-01T18:49:05.000Z
+- [Trump says deal to end Iran war may be imminent, agrees to "cancel the attack"](https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/?utm_source=lootura.com) — 2026-08-02T03:25:16.000Z
 - [Oil companies see soaring profits amid Iran war](https://www.cbsnews.com/video/oil-companies-see-soaring-profits-amid-iran-war/?utm_source=lootura.com) — 2026-08-02T00:54:06.000Z
-- [State Department urges Americans to consider leaving Middle East as regional conflict escalates](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
+- [U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
 - [Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest](https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
 - [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z
-- [Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html?utm_source=lootura.com) — 2026-08-01T03:40:13.000Z
+- [Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran](https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran?utm_source=lootura.com) — 2026-08-02T04:45:37.000Z
+- [Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T05:02:29.000Z
 - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?utm_source=lootura.com) — 2026-08-01T19:54:48.000Z
-- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T20:13:38.000Z
-- [Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop](https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html?utm_source=lootura.com) — 2026-08-01T20:14:08.000Z

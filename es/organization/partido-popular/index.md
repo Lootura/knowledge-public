@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Guerra fría PSOE-PP ante la crisis climática
+
+La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
+
+Date: 2026-08-02
+
+### La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”
+
+Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.
+
+Date: 2026-08-01
 
 ### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
 
@@ -56,19 +68,7 @@ El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo ,
 
 Date: 2026-07-25
 
-### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
-
-La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.
-
-Date: 2026-07-25
-
-### El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia
-
-La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z
-- [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
+- [La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”](https://www.eldiario.es/politica/acumulacion-escandalos-ayuso-enciende-alarmas-pp-caida-sera-peor-cifuentes-cremas_129_13421627.html?utm_source=lootura.com) — 2026-08-01T21:12:04.000Z
+- [Guerra fría PSOE-PP ante la crisis climática](https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"
+
+Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muestra un rostro más relajado y tranquilo que en los turbulentos años en los que dirigió el PSOE (2012-2014), a pesar de que "teníamos la mitad de lo que pasa ahora". Declara "absolutamente cerrada" su etapa en política, de la que salió no por v.
+
+Date: 2026-08-02
+
+### Guerra fría PSOE-PP ante la crisis climática
+
+La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
+
+Date: 2026-08-02
 
 ### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
 
@@ -56,18 +68,7 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-24
 
-### El Gobierno plantea un castigo fiscal a las Socimis de viviendas
-
-Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...
-
-Date: 2026-07-24
-
-### Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»
-
-La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z
+- [Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"](https://www.elperiodicomediterraneo.com/espana/2026/08/02/elena-valenciano-juanma-moreno-andalucia-psoe-vox-133030655.html?utm_source=lootura.com) — 2026-08-02T06:29:00.000Z
+- [Guerra fría PSOE-PP ante la crisis climática](https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z

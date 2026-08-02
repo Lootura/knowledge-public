@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
+      "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
       "summary": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.",
@@ -64,13 +69,15 @@
       "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
       "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»",
-      "summary": "La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.875 millones de euros) el coste de la guerra con Irán, desatada por la ofensiva lanzada por sorpresa el 28 de febrero por fuerzas estadounidenses e israelíes contra el país centroasiático en plenas conversaciones diplomáticas entre Washington.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
+      "url": "https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T21:12:05.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

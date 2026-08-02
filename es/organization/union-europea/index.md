@@ -3,10 +3,28 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
+
+Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
+
+Date: 2026-08-02
+
+### Ceuta, asaltada por los desamparados
+
+Solo una posición de firmeza, clara, consistente y creíble, ante Marruecos podrá frenar esta falta de respeto a los acuerdos y a la convivencia entre vecinos. Y en esa posición se debe exigir a la Unión Europea el apoyo absoluto e incondicional. Los que se juegan la vida para alcanzar territorio español son los que men.
+
+Date: 2026-08-01
+
+### La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta
+
+Las posiciones contrarias del Gobierno de Pedro Sánchez ante las últimas políticas antiimigración aprobadas en la Unión Europea siguiendo la estela de la extremaderecha más la derechización del espacio político europeo han causado a una falta de fraternidad inédita hacia España ante los peligrosos acontecimientos de Ce.
+
+Date: 2026-08-01
 
 ### Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»
 
@@ -50,25 +68,8 @@ La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia res
 
 Date: 2026-07-24
 
-### Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas
-
-Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciales" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.
-
-Date: 2026-07-24
-
-### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
-
-Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
-
-Date: 2026-07-24
-
-### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
-
-La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»](https://theobjective.com/internacional/2026-08-01/meloni-carta-ue-defensa-fronteras-responsabilidad-comun/?utm_source=lootura.com) — 2026-08-01T18:18:22.000Z
-- [Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta](https://theobjective.com/espana/politica/2026-08-01/ministros-interior-ue-reuniran-martes-abordar-crisis-ceuta/?utm_source=lootura.com) — 2026-08-01T19:25:48.000Z
+- [El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"](https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
+- [Ceuta, asaltada por los desamparados](https://www.eldiario.es/opinion/tribuna-abierta/ceuta-asaltada-desamparados_129_13422898.html?utm_source=lootura.com) — 2026-08-01T21:12:06.000Z
+- [La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta](https://www.eldiario.es/desalambre/ola-ultra-inmigracion-provoca-falta-solidaridad-ue-espana-crisis-ceuta_1_13421815.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z

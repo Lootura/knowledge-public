@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Mohamed VI y sus proyectiles humanos
+
+Imaginen la escena. 7 de agosto de 2014. Una patrullera de la Guardia Civil divisa un grupo de embarcaciones —dos yates y tres motos de agua—en actitud sospechosa a dos millas del cabo ceutí de Punta Almina. El brigada que va al mando pide a sus ocupantes que se identifiquen. Uno de ellos se quita las gafas oscuras y l.
+
+Date: 2026-08-02
 
 ### Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta
 
@@ -62,12 +68,6 @@ Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir 
 
 Date: 2026-07-21
 
-### Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)
-
-Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hombre de 48 años, que ha sido detenido por la Guardia Civil en la localidad toledana de Alameda de la Sagra. El servicio de emergencias 112 de Castilla-La Mancha ha informado a EFE de que la agresión se ha producido a las 5:16 horas en una vi.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Mohamed VI y sus proyectiles humanos](https://elpais.com/opinion/2026-08-02/mohamed-vi-y-sus-proyectiles-humanos.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z

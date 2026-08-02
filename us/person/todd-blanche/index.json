@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T02:32:52.484Z",
+  "updatedAt": "2026-08-02T06:30:58.422Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -25,13 +25,13 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-      "summary": "Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.",
+      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
       "date": "2026-08-01"
     },
     {
-      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "summary": "Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.",
       "date": "2026-08-01"
     },
     {
@@ -73,12 +73,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-      "url": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T16:54:34.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
       "publishedAt": "2026-08-01T11:46:43.000Z",
@@ -91,5 +85,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

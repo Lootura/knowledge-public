@@ -28,5 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno](https://www.larazon.es/castilla-y-leon/estabiliza-situacion-fuego-mientras-junta-refuerza-trabajo-terreno_202608016a6e32b5a046ad6ebc958e5b.html?utm_source=lootura.com) — 2026-08-01T19:30:15.000Z
-- [Una posible reactivacion del fuego de Ávila obliga a evacuar una urbanización de La Adrada](https://theobjective.com/sociedad/suceso/2026-08-01/posible-reactivacion-fuego-avila-obliga-evacuar-urbanizacion-adrada/?utm_source=lootura.com) — 2026-08-01T19:58:21.000Z
+No public source links.

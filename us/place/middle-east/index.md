@@ -3,20 +3,20 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T06:30:58.422Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
 
-### State Department urges Americans to consider leaving Middle East as regional conflict escalates
-
-The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.
-
-Date: 2026-08-01
-
 ### Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings
 
 Here are the most important developments in the Middle East on Saturday.
+
+Date: 2026-08-01
+
+### State Department urges Americans to consider leaving Middle East as regional conflict escalates
+
+The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.
 
 Date: 2026-08-01
 
@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [State Department urges Americans to consider leaving Middle East as regional conflict escalates](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
 - [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Guerra fría PSOE-PP ante la crisis climática",
+      "summary": "La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
+      "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
       "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
@@ -53,30 +63,20 @@
       "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
       "summary": "El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "summary": "La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia",
-      "summary": "La secretaria general del PSPV, Diana Morant , anunció el pasado 1 de julio su intención de presentarse a la candidatura de la Generalitat valenciana . Lo hacía con la seguridad de que no tendría rival, y que simplemente tenía que seguir el procedimiento establecido. Eligió su localidad natal, allí donde siempre vuelve.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
-      "url": "https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T23:47:10.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
+      "url": "https://www.eldiario.es/politica/acumulacion-escandalos-ayuso-enciende-alarmas-pp-caida-sera-peor-cifuentes-cremas_129_13421627.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T21:12:04.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
-      "url": "https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:21:52.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Guerra fría PSOE-PP ante la crisis climática",
+      "url": "https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 2

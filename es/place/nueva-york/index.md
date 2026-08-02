@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario
+
+Cualquier guionista medianamente apañado podría convertir la vida del director ejecutivo de IMAX en una película sobre el manido sueño americano. La historia de Richard Gelfond (Nueva York, 1955) es el epítome del hombre de negocios hecho a sí mismo, una de esas historias capaces de enamorar a Hollywood y a Wall Street.
+
+Date: 2026-08-02
 
 ### Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’
 
@@ -62,12 +68,6 @@ Los día previos a la esperada final han sido de gran emoción para los aficiona
 
 Date: 2026-07-19
 
-### El hincha español más veterano en Nueva York: «Si pudiera, iba al estadio»
-
-No hay español que haya vivido más que Rogelio Álvarez en Nueva York. Que haya vivido más fútbol o cualquier otra cosa. Este gallego llegó en 1956 en un barco, como tantos otros, de todo el mundo, para buscar una vida mejor, su sueño americano.Siete décadas después, Rogelio se sentará en el sofá de su apartamento para.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario](https://cincodias.elpais.com/opinion/2026-08-02/richard-gelfond-el-hombre-que-convirtio-imax-en-un-negocio-millonario.html?utm_source=lootura.com) — 2026-08-02T03:40:00.000Z

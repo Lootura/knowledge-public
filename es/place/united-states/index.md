@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
+
+Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.
+
+Date: 2026-08-01
 
 ### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
 
@@ -62,13 +68,6 @@ Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada 
 
 Date: 2026-07-25
 
-### Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU
-
-El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas](https://www.abc.es/internacional/chavismo-oposicion-negocian-maria-corina-machado-379-20260801205835-nt.html?utm_source=lootura.com) — 2026-08-01T19:18:51.000Z
-- [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z
+- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Troy Jackson launches first general election ad in Maine Senate race](https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380?utm_source=lootura.com) — 2026-08-01T17:17:30.000Z
+No public source links.

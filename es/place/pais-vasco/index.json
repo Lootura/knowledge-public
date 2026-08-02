@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -76,17 +76,11 @@
   ],
   "sources": [
     {
-      "title": "PNV y Bildu respaldaron la campaña que acabó con la caza de seguidores de La Roja",
-      "url": "https://www.abc.es/espana/pais-vasco/pnv-bildu-respaldaron-junto-nostalgicos-eta-campana-20260730012842-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T23:48:19.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»",
       "url": "https://www.diariovasco.com/deportes/ciclismo/euskaltel-euskadi-mikel-landa-dos-temporadas-20260801112256-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T09:24:20.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

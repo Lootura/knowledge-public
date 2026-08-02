@@ -3,10 +3,28 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos
+
+A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.
+
+Date: 2026-08-02
+
+### Veintidós países europeos señalan a España y reprochan la regularización
+
+El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
+
+Date: 2026-08-02
+
+### Cambio climático: ¿la ley protege más del calor a los animales que a las personas?
+
+Mientras la Comisión Europea ha propuesto medidas para reforzar el bienestar de los animales durante su transporte que pueden desembocar en la climatización de los camiones, el sindicato de docentes Ustec ha registrado un récord de 39 grados en un aula de un centro educativo de Lleida. La normativa es muy extensa y pre.
+
+Date: 2026-08-02
 
 ### Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta
 
@@ -50,18 +68,8 @@ Comisión Europea first entered the public knowledge record with source-backed e
 
 Date: 2026-07-23
 
-### Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales
-
-Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infracciones a la Ley de Mercados Digitales (DMA), una con su buscador y la otra con la Play Store. La nueva m.
-
-Date: 2026-07-23
-
-### Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia
-
-Nueva multa a Google de la Comisión Europea . En este caso, de 890 millones por favorecer sus propios productos y por poner restricciones a la competencia. La sanción, en realidad, son dos: una de 460 millones por “privilegiar sus propios servicios” en el buscador Google Search, y otra de 430 millones por “imponer rest.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [22 países de la UE piden una «acción conjunta» para reforzar el control en las fronteras europeas tras la crisis en Ceuta](https://www.elcorreo.com/internacional/europa/paises-ue-piden-20260801132441-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T11:31:42.000Z
+- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T00:13:39.000Z
+- [Veintidós países europeos señalan a España y reprochan la regularización](https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+- [Cambio climático: ¿la ley protege más del calor a los animales que a las personas?](https://www.lavanguardia.com/vida/20260802/11581300/cambio-climatico-ley-protege-mas-calor-animales-personas.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,11 +16,6 @@
     "🇨🇴"
   ],
   "changes": [
-    {
-      "title": "Petro se despide de la presidencia de Colombia con un peregrinaje a una Cuba en ruinas",
-      "summary": "A escasos días de abandonar la Casa de Nariño y de entregar la presidencia el próximo 7 de agosto, el mandatario colombiano Gustavo Petro ha decidido cerrar su mandato con una muestra más de su inclinación ideológica. Su último viaje de Estado lo ha realizado a La Habana para reunirse con la cúpula dictatorial, en lo q.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
       "summary": "Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.",
@@ -30,15 +25,14 @@
       "title": "Discovered by Atlas",
       "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Petro se despide de la presidencia de Colombia con un peregrinaje a una Cuba en ruinas",
+      "summary": "A escasos días de abandonar la Casa de Nariño y de entregar la presidencia el próximo 7 de agosto, el mandatario colombiano Gustavo Petro ha decidido cerrar su mandato con una muestra más de su inclinación ideológica. Su último viaje de Estado lo ha realizado a La Habana para reunirse con la cúpula dictatorial, en lo q.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "Petro se despide de la presidencia de Colombia con un peregrinaje a una Cuba en ruinas",
-      "url": "https://www.abc.es/internacional/petro-viaja-cuba-dejar-presidencia-colombia-20260731203416-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:35:29.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
       "url": "https://theobjective.com/internacional/2026-08-01/heridos-atentado-terrorista-colombiana-cucuta/?utm_source=lootura.com",
@@ -46,5 +40,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

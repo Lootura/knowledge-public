@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta](https://cincodias.elpais.com/economia/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-01T14:19:12.000Z
-- [Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»](https://theobjective.com/internacional/2026-08-01/meloni-carta-ue-defensa-fronteras-responsabilidad-comun/?utm_source=lootura.com) — 2026-08-01T18:18:22.000Z
+No public source links.

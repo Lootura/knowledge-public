@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T06:30:58.422Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -20,15 +20,15 @@ Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney 
 
 Date: 2026-08-01
 
-### Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked
-
-Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.
-
-Date: 2026-08-01
-
 ### Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight
 
 The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.
+
+Date: 2026-08-01
+
+### Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked
+
+Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.
 
 Date: 2026-08-01
 
@@ -71,6 +71,5 @@ Date: 2026-07-25
 ## Sources
 
 - [Trump poses ultimatum on Blanche, will push for "anti-weaponization fund" if AG not confirmed](https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/?utm_source=lootura.com) — 2026-08-01T13:06:07.000Z
-- [Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked](https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370?utm_source=lootura.com) — 2026-08-01T16:54:34.000Z
 - [Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup](https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com) — 2026-08-01T11:46:43.000Z
 - [Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight](https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html?utm_source=lootura.com) — 2026-08-01T20:14:09.000Z

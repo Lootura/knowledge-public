@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos
+
+EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».
+
+Date: 2026-08-02
+
+### Opacidad y turbulencia en Venezuela
+
+No son solo las malas experiencias del pasado, esa docena de diálogos y mesas de negociación fallidos que solo sirvieron para que el régimen chavista ganara tiempo y se enquistara en el poder, lo que explica el escepticismo que sobrevuela la nueva ronda de negociaciones que se abre hoy entre el gobierno de Delcy Rodríg.
+
+Date: 2026-08-02
 
 ### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
 
@@ -56,19 +68,9 @@ Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no libe
 
 Date: 2026-07-22
 
-### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
-
-Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.
-
-Date: 2026-07-21
-
-### Gobernar entre escombros: legitimidad ausente y negociación bajo tutela en Venezuela
-
-Los terremotos del 24 de junio dejaron en Venezuela, según el balance oficial más reciente, 5 119 muertos, 16 740 heridos y 17 907 personas sin vivienda , con 21 470 alojadas en campamentos transitorios. La catástrofe ha puesto en evidencia la incompetencia de las instituciones del Estado para garantizar la gobernabili.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos](https://theobjective.com/internacional/2026-08-02/venezuela-dialogo-politico-oposicion-terremotos/?amp=&utm_source=lootura.com) — 2026-08-02T06:27:49.000Z
 - [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
+- [Opacidad y turbulencia en Venezuela](https://theobjective.com/elsubjetivo/opinion/2026-08-02/opacidad-y-turbulencia-en-venezuela-articulo-granes/?utm_source=lootura.com) — 2026-08-02T03:25:00.000Z
 - [Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta](https://theobjective.com/internacional/2026-08-01/heridos-atentado-terrorista-colombiana-cucuta/?utm_source=lootura.com) — 2026-08-01T21:27:29.000Z

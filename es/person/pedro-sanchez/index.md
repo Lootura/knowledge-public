@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -14,69 +14,69 @@ Formentera clama contra «la desidia» del Gobierno de Pedro Sánchez con los me
 
 Date: 2026-08-02
 
+### Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos
+
+A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.
+
+Date: 2026-08-02
+
+### 43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio
+
+Los recientes indultos a la expresidenta del Parlamento de Cataluña, Laura Borràs, y al exalcalde de Linares, Juan Fernández , han resucitado la polémica sobre la medida de gracia y su incidencia política en el Gobierno de Pedro Sánchez . La realidad, no obstante, es que esta figura jurídica tiene una fuerte presencia.
+
+Date: 2026-08-02
+
+### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
+
+Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
+
+Date: 2026-08-02
+
+### La crisis de Ceuta alinea a la derecha europea contra Sánchez
+
+Un nuevo fantasma recorre Europa y esta vez se llama inmigración. Sobre él cabalga la rampante derechización del continente. Y ante él, Pedro Sánchez, el único socialdemócrata al mando de uno de los grandes países de los 27, se ve cada vez más solo, como ha evidenciado la crisis de Ceuta con sus imágenes de una oleada.
+
+Date: 2026-08-02
+
+### Veintidós países europeos señalan a España y reprochan la regularización
+
+El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
+
+Date: 2026-08-02
+
+### Guerra fría PSOE-PP ante la crisis climática
+
+La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
+
+Date: 2026-08-02
+
 ### Sánchez pide una reunión urgente de los ministros del Interior de la UE por el cierre del espacio Schengen por parte de Italia
 
 El presidente del Gobierno envía una carta a Úrsula Von der Leyen trasladándole su «seria preocupación» por la reacción de algunos países como el italiano ante la crisis migratoria en Ceuta.
 
 Date: 2026-08-01
 
-### Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno
+### El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta
 
-Tras exigir durante las últimas horas en diversos comunicados que se reforme la ley de extranjería para “para garantizar el rechazo en frontera en las entradas por vía marítima” y solicitar además la comparecencia urgente de Pedro Sánchez en el Congreso por la crisis de Ceuta, Alberto Núñez Feijóo ha viajado este sábad.
-
-Date: 2026-08-01
-
-### Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta
-
-El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.
+"Un Gobierno que funciona". Es la definición que hizo Pedro Sánchez del suyo hace solo cinco días, ensalzando el número de leyes aprobadas y asegurando que sus...
 
 Date: 2026-08-01
 
-### El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad
+### La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta
 
-Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido "con gran preocupación e indignación" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.
-
-Date: 2026-08-01
-
-### 22 países liderados por Italia y Dinamarca cuestionan la política migratoria de España y reclaman que la UE coja el timón
-
-Una carta y 22 firmantes. Ese es el documento que muestra la soledad de Pedro Sánchez y el rechazo a su política migratoria en Europa. Francia, que va a reforzar su frontera con...
-
-Date: 2026-08-01
-
-### Ceutíes plantan cara a Alvise, Vito Quiles y Núcleo Nacional: “Aprovecháis para sembrar odio”
-
-"Si sois islamófobos aquí en Ceuta, a la puta calle. No os queremos aquí. Sin violencia, ¿eh? No vamos a empujar. Estoy haciendo uso de mi libertad de expresión, igual que ustedes. Y yo con mi libertad de expresión le digo que se vaya usted con su puto racismo a la puta mierda", les han dicho Sánchez acusa a varios gob.
-
-Date: 2026-08-01
-
-### A Sánchez sólo le preocupa su integridad personal, la nacional se la sopla
-
-Bajo el eufemístico título de Exclusión temporal a la navegación marítima en la isla de Lanzarote por motivos de seguridad , el Ministerio de Transportes ha delimitado el trazado de las líneas que unen distintos puntos de la costa donde disfrutarán de sus vacaciones el presidente del Gobierno y sus familias. Es un espa.
-
-Date: 2026-08-01
-
-### Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta
-
-Los ministros de Interior de la Unión Europea se reunirán el próximo martes por videoconferencia para abordar la evolución de la crisis migratoria en Ceuta, después de que tanto el presidente del Gobierno, Pedro Sánchez , como los líderes de otros 22 Estados miembro solicitaran la convocatoria urgente de un encuentro e.
-
-Date: 2026-08-01
-
-### Sánchez se abraza a Marruecos y se queda solo en Europa
-
-El presidente se enfrenta a veintidós socios comunitarios por las críticas a su gestión de la invasión de Ceuta y los tilda de «egoístas».
+Las posiciones contrarias del Gobierno de Pedro Sánchez ante las últimas políticas antiimigración aprobadas en la Unión Europea siguiendo la estela de la extremaderecha más la derechización del espacio político europeo han causado a una falta de fraternidad inédita hacia España ante los peligrosos acontecimientos de Ce.
 
 Date: 2026-08-01
 
 ## Fuentes
 
-- [Sánchez se abraza a Marruecos y se queda solo en Europa](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-01T23:32:47.000Z
-- [Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta](https://cincodias.elpais.com/economia/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-01T14:19:12.000Z
+- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T00:13:39.000Z
+- [43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio](https://www.elconfidencial.com/espana/2026-08-02/40-anos-indultos-espana_4399230/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
+- [El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"](https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
 - [Sánchez pide una reunión urgente de los ministros del Interior de la UE por el cierre del espacio Schengen por parte de Italia](https://www.elcorreo.com/politica/sanchez-pide-reunion-ministros-interior-europeos-cierre-20260801104825-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T08:48:25.000Z
 - [El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta](https://amp.elmundo.es/espana/2026/08/01/6a6e3c75e4d4d8165a8b457a.html?utm_source=lootura.com) — 2026-08-01T20:36:41.000Z
-- [22 países liderados por Italia y Dinamarca cuestionan la política migratoria de España y reclaman que la UE coja el timón](https://amp.elmundo.es/internacional/2026/08/01/6a6dcbd7e9cf4a5d338b4585.html?utm_source=lootura.com) — 2026-08-01T11:06:21.000Z
-- [Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno](https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html?utm_source=lootura.com) — 2026-08-01T12:52:15.000Z
-- [El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad](https://www.eldiario.es/politica/rey-muestra-indignado-ocurrido-ceuta-pide-vele-seguridad_1_13422987.html?utm_source=lootura.com) — 2026-08-01T16:14:07.000Z
-- [Ceutíes plantan cara a Alvise, Vito Quiles y Núcleo Nacional: “Aprovecháis para sembrar odio”](https://www.eldiario.es/desalambre/ciudadanos-ceuties-plantan-cara-alvise-vito-quiles-aprovechais-situacion-sembrar-odio_1_13423142.html?utm_source=lootura.com) — 2026-08-01T19:30:55.000Z
-- [Órdago de Sánchez a la UE](https://www.lavanguardia.com/opinion/20260802/11605923/ordago-sanchez-ue.html?utm_source=lootura.com) — 2026-08-01T22:05:00.000Z
+- [La crisis de Ceuta alinea a la derecha europea contra Sánchez](https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
+- [La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta](https://www.eldiario.es/desalambre/ola-ultra-inmigracion-provoca-falta-solidaridad-ue-espana-crisis-ceuta_1_13421815.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
+- [Veintidós países europeos señalan a España y reprochan la regularización](https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+- [Guerra fría PSOE-PP ante la crisis climática](https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
 - [Formentera clama contra «la desidia» del Gobierno de Sánchez con los menas: sólo en julio han llegado 60 más](https://okdiario.com/baleares/formentera-clama-contra-desidia-del-gobierno-sanchez-menas-solo-julio-han-llegado-60-mas-19106309?utm_source=lootura.com) — 2026-08-02T02:00:05.000Z

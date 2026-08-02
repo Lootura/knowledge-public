@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Érase una vez el 'modelo español'...",
-      "url": "https://www.elmundo.es/espana/2026/08/01/6a6df9e9fc6c83bb2e8b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T14:31:36.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "1929 | Terminadas las obras de la Pescadería",
+      "url": "https://www.diariovasco.com/gipuzkoa/memoria/terminadas-obras-pescaderia-20260802175716-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T06:00:36.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
   "evidenceCount": 0

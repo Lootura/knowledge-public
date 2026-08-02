@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE](https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html?utm_source=lootura.com) — 2026-08-01T23:47:10.000Z
-- [Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno](https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html?utm_source=lootura.com) — 2026-08-01T12:52:15.000Z
+No public source links.

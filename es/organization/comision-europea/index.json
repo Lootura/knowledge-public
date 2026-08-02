@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
+      "summary": "A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Cambio climático: ¿la ley protege más del calor a los animales que a las personas?",
+      "summary": "Mientras la Comisión Europea ha propuesto medidas para reforzar el bienestar de los animales durante su transporte que pueden desembocar en la climatización de los camiones, el sindicato de docentes Ustec ha registrado un récord de 39 grados en un aula de un centro educativo de Lleida. La normativa es muy extensa y pre.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta",
       "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.",
@@ -49,25 +64,27 @@
       "title": "Discovered by Atlas",
       "summary": "Comisión Europea first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales",
-      "summary": "Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infracciones a la Ley de Mercados Digitales (DMA), una con su buscador y la otra con la Play Store. La nueva m.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia",
-      "summary": "Nueva multa a Google de la Comisión Europea . En este caso, de 890 millones por favorecer sus propios productos y por poner restricciones a la competencia. La sanción, en realidad, son dos: una de 460 millones por “privilegiar sus propios servicios” en el buscador Google Search, y otra de 430 millones por “imponer rest.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "22 países de la UE piden una «acción conjunta» para reforzar el control en las fronteras europeas tras la crisis en Ceuta",
-      "url": "https://www.elcorreo.com/internacional/europa/paises-ue-piden-20260801132441-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T11:31:42.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
+      "url": "https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T00:13:39.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
+      "url": "https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Cambio climático: ¿la ley protege más del calor a los animales que a las personas?",
+      "url": "https://www.lavanguardia.com/vida/20260802/11581300/cambio-climatico-ley-protege-mas-calor-animales-personas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 3
 }

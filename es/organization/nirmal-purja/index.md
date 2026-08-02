@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El reconocido alpinista Nirmal Purja, entre los cuatro fallecidos en la avalancha en Pakistán](https://www.elmundo.es/deportes/2026/07/31/6a6c4adae85ece49628b458b.html?utm_source=lootura.com) — 2026-08-01T11:47:41.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”
+
+Cajal tiene el taller en el barrio de Gràcia, en Barcelona. Desde la calle se puede ver a un grupo de chicas jóvenes manosear con soltura pinzas y sopletes. Moldean unas varitas de vidrio de colores; las giran, soplan, recortan, las dejan enfriar. Julieta Cajal (Salta, Argentina, 33) es la fundadora y directora creativ.
+
+Date: 2026-08-02
 
 ### Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"
 
@@ -62,14 +68,6 @@ Duchas o remojadas con mangueras, comidas en formato helado y renovación más c
 
 Date: 2026-07-25
 
-### El Barcelona se impone al Europa por 4-1 en su primer partido de pretemporada a puerta cerrada
-
-El FC Barcelona ha disputado a puerta cerrada su primer partido amistoso de la pretemporada, en el que ha derrotado por 4-1 al Europa (equipo de Primera RFEF ) en la Ciudad Deportiva Joan Gamper . Hansi Flick ha tenido que optar por un once repleto de canteranos y de futbolistas que apuntan a salir en las próximas sema.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»](https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html?utm_source=lootura.com) — 2026-08-01T19:21:52.000Z
-- [Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"](https://www.elmundo.es/cronica/2026/08/01/6a6a387ee85ece82558b45a3.html?utm_source=lootura.com) — 2026-08-01T12:26:10.000Z
-- [Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»](https://okdiario.com/deportes/jesse-bisiwu-no-ve-filial-del-barcelona-aspira-jugar-hansi-flick-estare-preparado-19111879?utm_source=lootura.com) — 2026-08-01T19:34:39.000Z
+- [Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”](https://cincodias.elpais.com/fortunas/2026-08-02/cajal-la-marca-de-joyas-que-convierte-el-vidrio-en-pequenas-obras-de-arte-tiempo-y-dedicacion-ese-es-el-verdadero-lujo.html?utm_source=lootura.com) — 2026-08-02T03:30:00.000Z

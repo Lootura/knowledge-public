@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario",
+      "summary": "Cualquier guionista medianamente apañado podría convertir la vida del director ejecutivo de IMAX en una película sobre el manido sueño americano. La historia de Richard Gelfond (Nueva York, 1955) es el epítome del hombre de negocios hecho a sí mismo, una de esas historias capaces de enamorar a Hollywood y a Wall Street.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’",
       "summary": "Spider-Man: Brand New Day , la nueva entrega de la saga del vecino amistoso de Nueva York, no solo es una gran película del querido héroe . También, es una de las mejores cintas de superhéroes de los últimos años. Y el motivo es evidente. La cinta, dirigida por Destin Daniel Cretton y con un guion escrito por Chris McK.",
@@ -85,13 +90,15 @@
       "title": "La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires",
       "summary": "Los día previos a la esperada final han sido de gran emoción para los aficionados argentinos pese a tener una final tan cercana como la de Qatar 2022. Esto se ha dejado ver no solo en las calles de Nueva York, sino también en Argentina. Sin embargo, apenas dos horas antes de arrancar el partido, los ánimos se han visto.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El hincha español más veterano en Nueva York: «Si pudiera, iba al estadio»",
-      "summary": "No hay español que haya vivido más que Rogelio Álvarez en Nueva York. Que haya vivido más fútbol o cualquier otra cosa. Este gallego llegó en 1956 en un barco, como tantos otros, de todo el mundo, para buscar una vida mejor, su sueño americano.Siete décadas después, Rogelio se sentará en el sofá de su apartamento para.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-02/richard-gelfond-el-hombre-que-convirtio-imax-en-un-negocio-millonario.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

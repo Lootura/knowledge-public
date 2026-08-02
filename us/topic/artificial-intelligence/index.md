@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T06:30:58.422Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
+
+New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
+
+Date: 2026-08-02
 
 ### 'Most Isolated Environments': Microplastics Are Finding Their Way Down to Deep-Sea Hydrothermal Vents
 
@@ -62,14 +68,8 @@ Thanks to advances in AI, popular calorie-tracking apps can now use a photo of a
 
 Date: 2026-07-25
 
-### Developer ecosystem expanded
-
-AI models that are open source allow developers and users to see and modify the underlying program code.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz](https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com) — 2026-08-01T09:15:00.000Z
 - [AI opens new era in cognitive studies of wild primates](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html?utm_source=lootura.com) — 2026-08-01T20:00:02.000Z
-- ['Most Isolated Environments': Microplastics Are Finding Their Way Down to Deep-Sea Hydrothermal Vents](https://www.sciencealert.com/most-isolated-environments-microplastics-are-finding-their-way-down-to-deep-sea-hydrothermal-vents?utm_source=lootura.com) — 2026-08-02T02:00:00.000Z
+- [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com) — 2026-08-02T06:27:38.000Z

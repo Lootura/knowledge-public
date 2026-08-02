@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T06:30:58.422Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
+
+New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
+
+Date: 2026-08-02
 
 ### Europe continues to celebrate Pride after attack on Berlin parade
 
@@ -62,14 +68,8 @@ One of Europe's highest distinctions in condensed matter physics has been awarde
 
 Date: 2026-07-25
 
-### Trump's replacement tariffs continue to put pressure on U.S. economy
-
-President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.
-
-Date: 2026-07-24
-
 ## Sources
 
 - [Wildfire danger in Europe shifts to Greece as evacuation orders remain in France](https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com) — 2026-08-01T18:58:23.000Z
 - [Europe continues to celebrate Pride after attack on Berlin parade](https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com) — 2026-08-01T15:30:04.000Z
-- [Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames](https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html?utm_source=lootura.com) — 2026-08-01T18:00:01.000Z
+- [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com) — 2026-08-02T06:27:38.000Z

@@ -3,10 +3,46 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"
+
+Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muestra un rostro más relajado y tranquilo que en los turbulentos años en los que dirigió el PSOE (2012-2014), a pesar de que "teníamos la mitad de lo que pasa ahora". Declara "absolutamente cerrada" su etapa en política, de la que salió no por v.
+
+Date: 2026-08-02
+
+### Metro de Madrid corta la L7 entre Gregorio Marañón y Pitis desde este domingo
+
+Cambios de calado en la movilidad en la Comunidad de Madrid. Metro de Madrid amplía este fin de semana las alteraciones de servicio por las obras previstas durante el verano con la interrupción a partir del domingo de la Línea 7 entre Gregorio Marañón y Pitis, después de que el sábado cerrara la estación de Moncloa de.
+
+Date: 2026-08-02
+
+### Fajas Ruiz: «Hasta 20 tiendas hemos llegado a tener en Madrid»
+
+Fajas Ruiz, uno de los comercios históricos de Madrid, ha sobrevivido durante casi un siglo gracias a la especialización, el trato personalizado y una clientela que sigue buscando aquello que internet no puede ofrecer: experiencia y confianza. En una época en la que casi cualquier prenda puede comprarse con un clic, to.
+
+Date: 2026-08-02
+
+### Uno de los mejores planes para un agosto en Madrid: la hipnótica cripta de la Almudena
+
+Más de 1.500 personas reposan en este espacio de la catedral madrileña que conserva también la imagen románica de la Virgen de la Flor de Lis.
+
+Date: 2026-08-02
+
+### Madrid amplia fronteras y tendrá un nuevo barrio con 7.130 viviendas de protección oficial y una superficie verde más grande que El Retiro
+
+Las obras de Los Cerros ya están en marcha, y aunque puede que muchos no sepan lo que es, lo cierto es que estamos ante el nuevo barrio de Madrid que va a estar ubicado en la zona de Vicálvaro, tirando hacia El Cañaveral, en un área donde en los últimos años han ido apareciendo nuevos desarrollos siendo este un proyect.
+
+Date: 2026-08-02
+
+### No es Chiang Mai: el espectáculo de farolillos flotantes tendrá lugar este septiembre en Madrid
+
+La belleza de ver farolillos sobre el agua, es algo que seguramente conocerás a través del cine, o de las redes sociales. Algo que además solemos asociar a otros países y en concreto a Asia donde en ciudades como Chiang Mai , los farolillos flotando tienen que ver con celebraciones muy tradicionales. Pero lo cierto es.
+
+Date: 2026-08-02
 
 ### Un incendio en La Vaguada obliga a desalojar el centro comercial
 
@@ -32,45 +68,11 @@ El centro comercial La Vaguada, en el distrito de Fuencarral-El Pardo , fue evac
 
 Date: 2026-08-01
 
-### Las obras de Atocha modifican el servicio de cinco líneas de Cercanías
-
-Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos se prolongará hasta el 28 de agosto, con el objetivo de culmi.
-
-Date: 2026-08-01
-
-### Madrid: desalojan el centro comercial La Vaguada por un incendio
-
-Hasta el lugar se han desplazado nueve dotaciones de Bomberos del Ayuntamiento de Madrid. Hay un intoxicado leve por el humo.
-
-Date: 2026-08-01
-
-### El Sevilla ficha en el Real Madrid a uno de los descartes de Mourinho
-
-El Sevilla y el Real Madrid han acordado este sábado el fichaje del portero Fran González , descartado por el entrenador portugués José Mourinho y que se sumará en las próximas horas a la concentración que el plantel sevillista desarrolla hasta el próximo sábado en Garderen (Países Bajos). El Sevilla pagará alrededor d.
-
-Date: 2026-08-01
-
-### La exposición gratis de Madrid que te hará viajar al Siglo de Oro: homenajea la literatura de las escritoras silenciadas de España
-
-Manuscritos, primeras ediciones, retratos y objetos históricos protagonizan una muestra que recupera el legado de autoras olvidadas.
-
-Date: 2026-08-01
-
-### Miles de voluntarios engrasan la solidaridad en Madrid: "Un pequeño gesto puede marcar la diferencia"
-
-Acompañamiento a la tercera edad, en la protección animal, durante la campaña del frío, para luchar contra la brecha digital o como apoyo escolar a menores. Voluntarios por Madrid realiza una tarea sinigual. Sin ellos, muchos de los programas y eventos que se celebran en la capital no se podrían desarrollar con normali.
-
-Date: 2026-08-01
-
-### Cabeza de Chorlito, la pequeña librería de Madrid convertida en refugio de fotógrafos y editores independientes
-
-"Me cuesta elegir, la verdad. Todos los libros que tenemos son especiales" , se sincera Frédérique Bangerter cuando le pedimos que seleccione alguno de los proyectos reunidos en Cabeza de Chorlito. Fred, como la conoce todo el mundo, recorre con la mirada las estanterías que cubren las paredes de la librería. Se detien.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Caras nuevas y un Endrick reivindicativo en el primer amistoso del Madrid](https://www.abc.es/deportes/real-madrid/caras-nuevas-endrick-reivindicativo-primer-amistoso-madrid-20260801200456-nt.html?utm_source=lootura.com) — 2026-08-01T23:49:48.000Z
-- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T19:41:48.000Z
-- [Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo](https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com) — 2026-08-01T19:17:00.000Z
-- [Incautados 111 paquetes de cocaína escondidos en maletas y bolsas en un parking de Hortaleza](https://www.elconfidencial.com/espana/madrid/2026-08-01/cocaina-maletas-bolsas-deporte-parking-hortaleza_4399544/?utm_source=lootura.com) — 2026-08-01T15:25:00.000Z
+- [Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"](https://www.elperiodicomediterraneo.com/espana/2026/08/02/elena-valenciano-juanma-moreno-andalucia-psoe-vox-133030655.html?utm_source=lootura.com) — 2026-08-02T06:29:00.000Z
+- [Metro de Madrid corta la L7 entre Gregorio Marañón y Pitis desde este domingo](https://www.larazon.es/madrid/metro-madrid-corta-gregorio-maranon-pitis-este-domingo_202608026a6edf5aa5690f04735f87f5.html?utm_source=lootura.com) — 2026-08-02T06:10:34.000Z
+- [Fajas Ruiz: «Hasta 20 tiendas hemos llegado a tener en Madrid»](https://www.larazon.es/madrid/fajas-ruiz-20-tiendas-hemos-llegado-tener-madrid_202608026a6edcf071b42a0b5dd4aef1.html?utm_source=lootura.com) — 2026-08-02T06:00:16.000Z
+- [Uno de los mejores planes para un agosto en Madrid: la hipnótica cripta de la Almudena](https://www.larazon.es/madrid/uno-mejores-planes-agosto-madrid-hipnotica-cripta-almudena_202608026a6ee209a046ad6ebc96781c.html?outputType=amp&utm_source=lootura.com) — 2026-08-02T06:22:01.000Z
+- [Madrid amplia fronteras y tendrá un nuevo barrio con 7.130 viviendas de protección oficial y una superficie verde más grande que El Retiro](https://okdiario.com/madrid/madrid-amplia-fronteras-tendra-nuevo-barrio-7-130-viviendas-proteccion-oficial-superficie-verde-mas-grande-que-retiro-19108885?utm_source=lootura.com) — 2026-08-02T06:15:55.000Z
+- [No es Chiang Mai: el espectáculo de farolillos flotantes tendrá lugar este septiembre en Madrid](https://okdiario.com/madrid/no-chiang-mai-espectaculo-farolillos-flotantes-tendra-lugar-este-septiembre-madrid-19005968?utm_source=lootura.com) — 2026-08-02T06:15:49.000Z

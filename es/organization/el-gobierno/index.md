@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno despliega una barrera flotante en la frontera de Ceuta
+
+Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
+
+Date: 2026-08-01
+
+### El Gobierno de Merz pone a los alemanes a trabajar
+
+Pretende elevar las jornadas laborales, endurecer las bajas y retrasar la jubilación para recuperar competitividad.
+
+Date: 2026-08-01
 
 ### El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'
 
@@ -17,12 +29,6 @@ Date: 2026-08-01
 ### El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial
 
 La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.
-
-Date: 2026-08-01
-
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta
-
-Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
 
 Date: 2026-08-01
 
@@ -62,14 +68,7 @@ El Gobierno ha decretado la evacuación de nueve municipios del Valle del Tiéta
 
 Date: 2026-07-25
 
-### El incendio de Ávila arrasa ya unas 22.000 hectáreas y deja más de 30.000 desalojados
-
-El Gobierno no descarta nuevas evacuaciones si empeoran las condiciones meteorológicas La carrera para evitar que el “tsunami” que arrasa Madrid se una al incendio de Ávila: “Hacemos todo para que no se junten” El incendio forestal de Burgohondo (Ávila) es la principal preocupación del operativo en Castilla y León. El.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'](https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html?utm_source=lootura.com) — 2026-08-01T08:10:48.000Z
+- [El Gobierno de Merz pone a los alemanes a trabajar](https://www.elcorreo.com/economia/trabajo/gobierno-merz-pone-alemanes-trabajar-20260802000557-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T22:05:57.000Z
 - [El Gobierno despliega una barrera flotante en la frontera de Ceuta](https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html?utm_source=lootura.com) — 2026-08-01T14:42:34.000Z
-- [El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial](https://theobjective.com/espana/politica/2026-08-01/gobierno-reabre-frontera-melilla-dispositivo-policial/?amp=&utm_source=lootura.com) — 2026-08-01T15:54:59.000Z

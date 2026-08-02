@@ -40,5 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Un incendio en La Vaguada obliga a desalojar el centro comercial](https://www.abc.es/espana/incendio-vaguada-obliga-desalojar-centro-comercial-20260801182429-nt.html?utm_source=lootura.com) — 2026-08-01T19:41:48.000Z
-- [Desalojado el centro comercial La Vaguada por un incendio: un vigilante, intoxicado leve por humo](https://www.elconfidencial.com/espana/madrid/2026-08-01/incendio-la-vaguada-madrid-desalojo-1tps_4399630/?utm_source=lootura.com) — 2026-08-01T19:17:00.000Z
+No public source links.

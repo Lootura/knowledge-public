@@ -52,4 +52,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Tebas carga contra la FIFA y pide la dimisión de Infantino: «El fútbol mundial necesita un nuevo liderazgo»](https://okdiario.com/deportes/tebas-carga-contra-fifa-pide-dimision-infantino-futbol-mundial-necesita-nuevo-liderazgo-19111938?utm_source=lootura.com) — 2026-08-01T19:24:00.000Z
+No public source links.

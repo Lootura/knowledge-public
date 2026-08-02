@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-02T06:30:38.679Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
+      "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
+      "date": "2026-08-01"
+    },
     {
       "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
       "summary": "El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.",
@@ -86,26 +91,15 @@
       "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
       "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Argentina celebra su ventaja arancelaria tras la nueva política comercial de EEUU",
-      "summary": "El portavoz presidencial de Argentina , Adrián Ravier, ha celebrado este sábado que la nueva política arancelaria dictada por Estados Unidos respeta «íntegramente […] y sin una sola excepción» el Acuerdo de Comercio e Inversión Recíprocos firmado entre ambos países el pasado febrero, manteniendo así al país suramerican.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas",
-      "url": "https://www.abc.es/internacional/chavismo-oposicion-negocian-maria-corina-machado-379-20260801205835-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:18:51.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
-      "url": "https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T14:59:47.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
+      "url": "https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T21:12:05.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

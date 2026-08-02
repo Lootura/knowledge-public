@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T02:32:52.484Z",
+  "updatedAt": "2026-08-02T06:30:58.422Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Europe continues to celebrate Pride after attack on Berlin parade",
       "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
@@ -58,11 +63,6 @@
       "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
       "summary": "One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
-      "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -79,10 +79,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
-      "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T06:27:38.000Z",
+      "sourceId": "lootura-us-wired"
     }
   ],
   "evidenceCount": 3

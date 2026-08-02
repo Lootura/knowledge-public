@@ -3,16 +3,10 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
-
-### El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad
-
-Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido "con gran preocupación e indignación" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.
-
-Date: 2026-08-01
 
 ### Discovered by Atlas
 
@@ -32,6 +26,12 @@ Felipe VI ha expresado su “gran preocupación e indignación” ante los “gr
 
 Date: 2026-08-01
 
+### El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad
+
+Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido "con gran preocupación e indignación" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.
+
+Date: 2026-08-01
+
 ### El Rey Felipe ha seguido con "indignación" los "graves acontecimientos" de Ceuta y recuerda que el Estado "debe velar por la seguridad" de los ceutíes
 
 El Rey Felipe ha seguido con «indignación» y «preocupación» los «graves acontecimientos» de Ceuta. Así lo ha trasmitido oficiosamente la Casa Real varios días después del inicio de la crisis en la ciudad española del norte de África. No ha habido, estrictamente, por tanto, un comunicado oficial de la Jefatura del Estad.
@@ -42,4 +42,3 @@ Date: 2026-08-01
 
 - [El Rey, «indignado», advierte de que el Estado «debe velar» por la seguridad en Ceuta y Melilla](https://www.elcorreo.com/politica/rey-muestra-indignado-crisis-migratoria-ceuta-exige-20260801191652-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T17:16:53.000Z
 - [El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan](https://elpais.com/espana/2026-08-01/el-rey-expresa-su-indignacion-por-los-graves-acontecimientos-de-ceuta-y-pide-medidas-para-que-no-se-repitan.html?utm_source=lootura.com) — 2026-08-01T16:52:38.000Z
-- [El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad](https://www.eldiario.es/politica/rey-muestra-indignado-ocurrido-ceuta-pide-vele-seguridad_1_13422987.html?utm_source=lootura.com) — 2026-08-01T16:14:07.000Z

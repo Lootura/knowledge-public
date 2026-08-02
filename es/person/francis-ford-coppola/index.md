@@ -3,20 +3,26 @@
 > Sigue la actividad de Francis Ford Coppola en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/person/francis-ford-coppola
 
 ## Cambios recientes
 
-### It’s not just business: why emotions are central to workplace management
+### La lección de Robert De Niro (82 años): «Cuando las cosas van bien, mantente calmado porque todos somos prescindibles»
 
-UNIKYLUCKK/Shutterstock “It’s not personal, it’s strictly business.” This line, which echoes throughout Francis Ford Coppola’s 1972 gangster film The Godfather, epitomises the classic view of management: doing business is, above all, about making money, even if it means sacrificing all of the personal, social aspects o.
+Hollywood está repleto de leyendas, pero seguramente ninguna ha sido tan longeva en lo profesional como la figura de Robert De Niro . Actor fetiche de Martin Scorsese, el ganador de dos premios de la Academia se ha puesto a las órdenes de los cineastas más respetados del séptimo arte. Francis Ford Coppola, Tarantino, M.
 
-Date: 2026-07-22
+Date: 2026-08-02
 
 ### Discovered by Atlas
 
 Francis Ford Coppola first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### It’s not just business: why emotions are central to workplace management
+
+UNIKYLUCKK/Shutterstock “It’s not personal, it’s strictly business.” This line, which echoes throughout Francis Ford Coppola’s 1972 gangster film The Godfather, epitomises the classic view of management: doing business is, above all, about making money, even if it means sacrificing all of the personal, social aspects o.
 
 Date: 2026-07-22
 
@@ -28,4 +34,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [La lección de Robert De Niro (82 años): «Cuando las cosas van bien, mantente calmado porque todos somos prescindibles»](https://okdiario.com/cool/television/leccion-robert-niro-82-anos-cuando-cosas-van-bien-mantente-calmado-porque-todos-somos-prescindibles-17434656?utm_source=lootura.com) — 2026-08-02T06:25:02.000Z

@@ -1,68 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T05:00:49.090Z",
+  "generatedAt": "2026-08-02T06:41:53.535Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|45|1785637948527",
+    "signature": "1.18.0|46|1785652238679",
     "version": "1.18.0",
-    "build": 45,
-    "latestEntityUpdatedAt": "2026-08-02T02:32:28.527Z"
+    "build": 46,
+    "latestEntityUpdatedAt": "2026-08-02T06:30:38.679Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Formentera clama contra «la desidia» del Gobierno de Sánchez con los menas: sólo en julio han llegado 60 más",
+      "title": "La crisis de Ceuta alinea a la derecha europea contra Sánchez",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-02T02:32:28.527Z",
-      "score": 1725,
-      "sourceCount": 287,
+      "updatedAt": "2026-08-02T06:30:38.679Z",
+      "score": 1726,
+      "sourceCount": 294,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "es-union-europea",
+        "name": "Unión Europea",
+        "type": "organization",
+        "title": "La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta",
+        "url": "https://atlas.lootura.com/es/organization/union-europea",
+        "path": "/es/organization/union-europea",
+        "updatedAt": "2026-08-02T06:30:38.679Z",
+        "score": 1650,
+        "sourceCount": 14,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta",
+        "title": "Invierta en nuestra ‘start-up’: las megarrondas en España se generalizan en la era de la IA y la industria espacial",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1683,
-        "sourceCount": 646,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
-        "type": "person",
-        "title": "Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1637,
-        "sourceCount": 76,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1634,
-        "sourceCount": 501,
+        "updatedAt": "2026-08-02T06:30:38.679Z",
+        "score": 1648,
+        "sourceCount": 657,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +60,26 @@
         "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
         "url": "https://atlas.lootura.com/es/object/la-moncloa",
         "path": "/es/object/la-moncloa",
-        "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1631,
+        "updatedAt": "2026-08-02T06:30:38.679Z",
+        "score": 1628,
         "sourceCount": 8,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-08-02T06:30:38.679Z",
+        "score": 1620,
+        "sourceCount": 155,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 132
+    "publicEntityCount": 133
   }
 }

@@ -3,20 +3,38 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
+### Claves para proteger la cartera de inversiones en vacaciones
 
-El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
+Primer día de agosto y, para muchos, el inicio de las vacaciones. Toca poner en pausa la rutina diaria y dar paso al descanso y el ocio. Es hora para la desconexión, también en el ámbito financiero, algo que, aunque parezca imposible, no lo es. La incertidumbre va a seguir dominando los mercados. Donald Trump continúa.
 
-Date: 2026-08-01
+Date: 2026-08-02
+
+### La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España
+
+Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.
+
+Date: 2026-08-02
 
 ### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
 
 El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.
+
+Date: 2026-08-01
+
+### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
+
+Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.
+
+Date: 2026-08-01
+
+### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
+
+El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
 
 Date: 2026-08-01
 
@@ -50,26 +68,9 @@ El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la C
 
 Date: 2026-07-25
 
-### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
-
-Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.
-
-Date: 2026-07-25
-
-### Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales
-
-Donald Trump pasó años llamando a la prensa «enemiga del pueblo». Pero este viernes, delante de cientos de periodistas, acabó confesando algo muy distinto: que espera sus llamadas, que se impacienta cuando no llegan y que incluso reparte su número de teléfono para intentar influir sobre las noticias antes de que se pub.
-
-Date: 2026-07-25
-
-### Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales
-
-El presidente confiesa que espera las llamadas de los periodistas para intentar cambiar el rumbo de una noticia y remata la velada con una gorra de «Trump 2028».
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [La ultraderecha mundial liderada por Trump pone a España en el punto de mira y usa Ceuta para esparcir su xenofobia](https://www.eldiario.es/internacional/ultraderecha-mundial-liderada-trump-pone-espana-punto-mira-ceuta-esparcir-xenofobia_1_13421799.html?utm_source=lootura.com) — 2026-08-01T14:03:05.000Z
+- [Claves para proteger la cartera de inversiones en vacaciones](https://cincodias.elpais.com/mercados-financieros/2026-08-02/claves-para-proteger-la-cartera-de-inversiones-en-vacaciones.html?utm_source=lootura.com) — 2026-08-02T03:30:00.000Z
+- [La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España](https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
+- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
 - [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
-- [Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»](https://theobjective.com/internacional/2026-08-01/trump-sabio-liderazgo-compromiso-paz-mohamed-vi/?utm_source=lootura.com) — 2026-08-01T14:59:47.000Z

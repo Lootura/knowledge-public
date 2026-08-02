@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-02T06:30:38.679Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”
+
+Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.
+
+Date: 2026-08-01
 
 ### Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio
 
@@ -62,12 +68,6 @@ El Boletín Oficial del Estado ha publicado este viernes la orden por la que se 
 
 Date: 2026-07-24
 
-### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
-
-Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”](https://www.eldiario.es/politica/acumulacion-escandalos-ayuso-enciende-alarmas-pp-caida-sera-peor-cifuentes-cremas_129_13421627.html?utm_source=lootura.com) — 2026-08-01T21:12:04.000Z
