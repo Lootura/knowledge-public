@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -23,6 +23,11 @@
     {
       "title": "Daily fragment: 2014 Kunshan explosion",
       "summary": "At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "How China Keeps Tabs on Foreigners",
+      "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
       "date": "2026-08-02"
     },
     {
@@ -64,11 +69,6 @@
       "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
       "summary": "CBS News contributors David Becker and Chris Krebs joined \"Face the Nation with Margaret Brennan\" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "US politicians push agencies to restrict research collaboration with China",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -77,7 +77,13 @@
       "url": "https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com",
       "publishedAt": "2026-08-02T04:00:00.000Z",
       "sourceId": "lootura-us-lootura-daily"
+    },
+    {
+      "title": "How China Keeps Tabs on Foreigners",
+      "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T04:03:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

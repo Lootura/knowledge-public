@@ -42,25 +42,6 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [
-    {
-      "title": "Ceuta recobra parte de la calma en medio de la tensión política",
-      "url": "https://elpais.com/espana/2026-08-01/ceuta-recobra-parte-de-la-calma-en-medio-de-la-tension-politica.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:48:11.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”",
-      "url": "https://elpais.com/espana/2026-08-01/la-desgracia-sumergida-en-la-frontera-de-ceuta-hay-mas-muertos-en-el-mar.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:34:03.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Relato fotográfico | Un rescate de madrugada en la playa de El Tarajal",
-      "url": "https://elpais.com/espana/2026-08-01/relato-fotografico-un-rescate-de-madrugada-en-la-playa-de-el-tarajal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:09:06.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

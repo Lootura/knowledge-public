@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nirmal-purja/index.json",
   "description": "Follow Nirmal Purja, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "Nims Purja",
     "Nimsdai",
@@ -20,13 +20,18 @@
   ],
   "changes": [
     {
-      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-      "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
+      "title": "Discovered by Atlas",
+      "summary": "Nirmal Purja first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Nirmal Purja first entered the public knowledge record with source-backed evidence.",
+      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "summary": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth. (Image credit: Niranjan Shrestha).",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+      "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
       "date": "2026-08-01"
     },
     {
@@ -42,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-      "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:59:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T22:23:39.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
   "evidenceCount": 1

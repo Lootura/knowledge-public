@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz](https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123?utm_source=lootura.com) — 2026-08-01T09:15:00.000Z
+No public source links.

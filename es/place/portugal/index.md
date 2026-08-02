@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [En el trasfondo de la crisis migratoria, la final del Mundial 2030](https://www.lavanguardia.com/politica/20260802/11605880/trasfondo-crisis-migratoria-final-mundial-2030.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+No public source links.

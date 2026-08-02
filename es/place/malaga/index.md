@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego
+
+La Diputación de Málaga ha movilizado 17,2 millones de euros para esta estrategia de economía circular.
+
+Date: 2026-08-02
 
 ### A prisión un hombre por una agresión machista a su expareja en Benamocarra (Málaga)
 
@@ -62,12 +68,6 @@ La Agencia Estatal de Meteorología (Aemet) ha activado para este martes aviso n
 
 Date: 2026-07-21
 
-### La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó
-
-La mujer de 30 años que ha sido hallada muerta este lunes con lesiones de arma blanca en una vivienda de Antequera (Málaga) fue presuntamente asesinada por su pareja, un hombre que se suicidó después de cometer el crimen , según fuentes de la investigación. El cuerpo de la mujer presenta heridas de arma blanca que apun.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego](https://www.larazon.es/andalucia/malaga/usar-biomasa-forestal-climatizar-edificios-escudo-preventivo-fuego_202608026a6f0ff9a046ad6ebc96ae3c.html?outputType=amp&utm_source=lootura.com) — 2026-08-02T09:38:01.000Z

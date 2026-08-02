@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/out-burger/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/out-burger/index.json",
   "description": "Follow Out Burger, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [],
   "changes": [
     {
@@ -22,11 +22,6 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
-      "summary": "Police chief says the shooter is among the dead in ‘very chaotic scene’ near busy shopping area in Twin Falls A shooting at an In-N-Out Burger restaurant in southern Idaho on Saturday afternoon left multiple people dead and others injured, police said. The shooter was among the dead, Twin Falls police chief Matthew Hic.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "3 dead, 2 injured in shooting incident in Twin Falls, Idaho",
       "summary": "Three people were killed in what police described as an “active shooter incident” around an In-N-Out Burger and other businesses in Twin Falls, Idaho, on Saturday, a city spokesperson said. NBC News’ Valerie Castro reports.",
       "date": "2026-08-01"
@@ -35,9 +30,20 @@
       "title": "Discovered by Atlas",
       "summary": "Out Burger first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "At least 3 killed, 2 injured in Idaho shooting; suspect dead",
+      "summary": "Three people are dead in a shooting around an In-N-Out Burger in Twin Falls, Idaho, on Saturday, authorities said.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "At least 3 killed, 2 injured in Idaho shooting; suspect dead",
+      "url": "https://www.nbcnews.com/news/us-news/dead-injured-shooting-twin-falls-idaho-rcna590420?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T23:07:02.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "3 dead, 2 injured in shooting incident in Twin Falls, Idaho",
       "url": "https://www.nbcnews.com/nightly-news/video/3-dead-2-injured-in-shooting-incident-in-twin-falls-idaho-267632709644?utm_source=lootura.com",
@@ -57,5 +63,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### ¿De verdad son los estadounidenses más ricos que los europeos?
+
+¿Es más rico, rico del todo, un estadounidense o un europeo? ¿Está Europa empobreciéndose tanto como hemos oído últimamente? Si torturas bien una estadística, acabará confesando lo que quieras. El debate sobre la brecha de productividad y riqueza que separa a Estados Unidos y Europa ha quedado salpicado en cierta medid.
+
+Date: 2026-08-02
+
+### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
+
+El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
+
+Date: 2026-08-02
+
+### EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes
+
+El Departamento de Estado de Estados Unidos ha actualizado su recomendación de viaje para España y ha elevado al nivel 3 («Reconsiderar el viaje») la advertencia específica para Ceuta , mientras mantiene el nivel 2 para el conjunto del país, debido a los disturbios derivados de la llegada masiva de migrantes al enclave.
+
+Date: 2026-08-02
+
+### Trump anuncia la suspensión de un ataque contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
 
 ### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
 
@@ -44,30 +68,9 @@ A través de una ambiciosa estrategia de reforestación , el Ministerio del Ambi
 
 Date: 2026-08-01
 
-### Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas
-
-La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido unos 150 objetivos militares de Estados Unidos en la región del golfo Pérsico durante las últimas dos semanas de repunte de hostilidades, entre ellos centros de mando, aviones y helicópteros de combate, sistemas de defensa antiaérea Patriot, r.
-
-Date: 2026-07-25
-
-### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
-
-La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.
-
-Date: 2026-07-25
-
-### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
-
-El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
-
-Date: 2026-07-25
-
-### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
-
-Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
+- [¿De verdad son los estadounidenses más ricos que los europeos?](https://elpais.com/economia/2026-08-02/de-verdad-son-los-estadounidenses-mas-ricos-en-mayusculas-que-los-europeos.html?utm_source=lootura.com) — 2026-08-02T03:45:00.000Z
+- [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes](https://theobjective.com/internacional/2026-08-02/eeuu-nivel-3-advertencia-viaje-ceuta/?utm_source=lootura.com) — 2026-08-02T07:05:20.000Z
+- [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

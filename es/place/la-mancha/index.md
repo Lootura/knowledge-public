@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios
+
+El próximo 12 de agosto, España vivirá un momento "histórico", el primer eclipse de sol desde hace 114 años, que a última hora de la tarde dejará en penumbra durante casi dos horas en algunos casos buena parte del territorio de Galicia, Castilla y León, la Comunidad de Madrid, Aragón, Castilla-La Mancha, Cataluña, la C.
+
+Date: 2026-08-02
 
 ### Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)
 
@@ -62,12 +68,6 @@ Sigue en directo los incendios forestales activos alrededor de España, en comun
 
 Date: 2026-07-23
 
-### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
-
-Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios](https://www.20minutos.es/nacional/prohibidas-raves-acampadas-andar-por-monte-preocupacion-por-eclipse-lleva-extremar-precauciones-contra-los-incendios_7021236_0.html?utm_source=lootura.com) — 2026-08-02T07:05:46.000Z

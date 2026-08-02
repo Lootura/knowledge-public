@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"
+
+El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino "no debe continuar al frente de la FIFA" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo "la punta del iceberg" y no resuelve "el problema de gobernanza". "Infantino no debe continuar. Que la FIFA haya retirado su propue.
+
+Date: 2026-08-02
 
 ### European criticism of FIFA ruling grew
 
@@ -52,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"](https://www.larazon.es/deportes/tebas-carga-infantino-debe-continuar-frente-fifa_202608026a6f0f98a5690f04735fc15f.html?utm_source=lootura.com) — 2026-08-02T09:36:24.000Z

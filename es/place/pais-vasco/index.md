@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»](https://www.diariovasco.com/deportes/ciclismo/euskaltel-euskadi-mikel-landa-dos-temporadas-20260801112256-nt_amp.html?utm_source=lootura.com) — 2026-08-01T09:24:20.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,17 +26,23 @@ President claims delay is ‘subject to being able to rapidly make a deal’ as 
 
 Date: 2026-08-02
 
+### Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'
+
+The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.
+
+Date: 2026-08-02
+
+### Trump says he's cancelling Iran strikes, deal pending
+
+Trump said that Iran and other Middle Eastern countries had asked the U.S. "to hold off any attack" on Iran because "the perimeters of a deal has been agreed to." (Image credit: Jacquelyn Martin).
+
+Date: 2026-08-02
+
 ### Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal
 
 President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.
 
 Date: 2026-08-02
-
-### Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest
-
-Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military. (Image credit: Ryan Murphy).
-
-Date: 2026-08-01
 
 ### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
 
@@ -56,12 +62,6 @@ Michigan and Minnesota are among at least seven states coping with cyberattacks 
 
 Date: 2026-08-01
 
-### Iran Plotted Wider War With Help of Its Proxies
-
-During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.
-
-Date: 2026-08-01
-
 ### U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota
 
 Malicious cyber activity affected technology at water systems in at least seven states this week, including Minnesota, leading authorities to dig into whether Iranian actors are behind the attack, CBS News has learned.
@@ -74,9 +74,9 @@ Date: 2026-08-01
 - [U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota](https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/?utm_source=lootura.com) — 2026-08-01T18:49:05.000Z
 - [Trump says deal to end Iran war may be imminent, agrees to "cancel the attack"](https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/?utm_source=lootura.com) — 2026-08-02T03:25:16.000Z
 - [Oil companies see soaring profits amid Iran war](https://www.cbsnews.com/video/oil-companies-see-soaring-profits-amid-iran-war/?utm_source=lootura.com) — 2026-08-02T00:54:06.000Z
+- [Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html?utm_source=lootura.com) — 2026-08-02T09:31:00.000Z
 - [U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says](https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com) — 2026-08-01T20:37:54.000Z
-- [Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest](https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+- [Trump says he's cancelling Iran strikes, deal pending](https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending?utm_source=lootura.com) — 2026-08-02T07:34:27.000Z
 - [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z
 - [Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran](https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran?utm_source=lootura.com) — 2026-08-02T04:45:37.000Z
-- [Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T05:02:29.000Z
 - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?utm_source=lootura.com) — 2026-08-01T19:54:48.000Z

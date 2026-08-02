@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,13 +35,28 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
-      "summary": "FAMILY UNDER SIEGE: Controversial teacher training targets parental authority as oppression, education expert warns LIZ PEEK : Trump is starving the machine that creates America's socialist revolutionaries HEATED EXCHANGE: Piers Morgan eviscerates Ivy League student who refused to work 'for a Jew' as 'brazenly' antisem.",
+      "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
+      "summary": "President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.",
       "date": "2026-08-02"
     },
     {
-      "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
-      "summary": "President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.",
+      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Inside the behemoth Smithsonian museum network drawing fire from the Trump administration",
+      "summary": "The Smithsonian Institution, whose museums in Washington, D.C. have come under fire from conservatives and President Donald Trump over what they describe as increasingly left-wing messaging, is the world's largest museum complex, comprising a sprawling network that spans the country and influences millions of people ea.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
+      "summary": "FAMILY UNDER SIEGE: Controversial teacher training targets parental authority as oppression, education expert warns LIZ PEEK : Trump is starving the machine that creates America's socialist revolutionaries HEATED EXCHANGE: Piers Morgan eviscerates Ivy League student who refused to work 'for a Jew' as 'brazenly' antisem.",
       "date": "2026-08-02"
     },
     {
@@ -50,23 +65,8 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-      "summary": "The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump Administration Is Undoing Plans to Boost Workplace Heat Protections",
-      "summary": "The Biden administration took steps to shield workers from extreme temperatures. The Trump administration is taking a gentler approach with employers.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
       "summary": "A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
-      "summary": "Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.",
       "date": "2026-08-01"
     },
     {
@@ -89,9 +89,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
-      "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:32:50.000Z",
+      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:31:00.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Inside the behemoth Smithsonian museum network drawing fire from the Trump administration",
+      "url": "https://www.foxnews.com/politics/inside-behemoth-smithsonian-museum-network-drawing-fire-trump-administration?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:00:25.000Z",
       "sourceId": "lootura-us-fox-news"
     },
     {
@@ -125,17 +131,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:27:32.000Z",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:34:27.000Z",
       "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
-      "url": "https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:34:10.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 26
+  "evidenceCount": 22
 }

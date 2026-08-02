@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -44,18 +44,6 @@ Date: 2026-08-02
 
 Date: 2026-08-02
 
-### Veintidós países europeos señalan a España y reprochan la regularización
-
-El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
-
-Date: 2026-08-02
-
-### La mejor planta con flores que puedes poner en tu jardín si quieres que aguante el calor y las altas temperaturas del verano
-
-Las olas de calor cada vez son más frecuentes y prolongadas en España. Esta situación está cambiando la forma de diseñar jardines, terrazas y espacios exteriores, donde las especies capaces de soportar altas temperaturas y largos periodos de sequía se han convertido en las grandes protagonistas. Entre todas las plantas.
-
-Date: 2026-08-02
-
 ### Podcast | ¿Quiso la CEDA la Guerra Civil?
 
 En Historia Canalla hablamos de la relación de la CEDA con la Guerra Civil y sobre la introducción del fascismo en España. [¿Eres anunciante y quieres patrocinar este programa? Escríbenos a comercial@theobjective.com ].
@@ -68,15 +56,27 @@ Convengamos en que (todavía) hay que mirar despacio , y acaso quienes no conoci
 
 Date: 2026-08-02
 
+### Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios
+
+El próximo 12 de agosto, España vivirá un momento "histórico", el primer eclipse de sol desde hace 114 años, que a última hora de la tarde dejará en penumbra durante casi dos horas en algunos casos buena parte del territorio de Galicia, Castilla y León, la Comunidad de Madrid, Aragón, Castilla-La Mancha, Cataluña, la C.
+
+Date: 2026-08-02
+
+### José Elías, empresario: «Soy un privilegiado porque puedo escoger cada día lo que hago»
+
+José Elías Navarro es uno de los empresarios más importantes de España. Con un patrimonio valorado en 650 millones de euros, el badalonés es propietario de varias compañías como la energética Audax Renovables y los supermercados La Sirena.Además de llevar todos sus negocios, el emprendedor tiene un pódcast junto a Eric.
+
+Date: 2026-08-02
+
 ## Fuentes
 
-- [El secreto escondido en el diseño G, la propuesta española para los nuevos billetes de euro](https://elpais.com/economia/2026-08-02/el-secreto-escondido-en-el-diseno-g-la-propuesta-espanola-para-los-nuevos-billetes-de-euro.html?utm_source=lootura.com) — 2026-08-02T03:45:00.000Z
+- [Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios](https://www.20minutos.es/nacional/prohibidas-raves-acampadas-andar-por-monte-preocupacion-por-eclipse-lleva-extremar-precauciones-contra-los-incendios_7021236_0.html?utm_source=lootura.com) — 2026-08-02T07:05:46.000Z
+- [José Elías, empresario: «Soy un privilegiado porque puedo escoger cada día lo que hago»](https://www.abc.es/recreo/jose-elias-empresario-privilegiado-puedo-escoger-dia-20260802103000-nt.html?utm_source=lootura.com) — 2026-08-02T08:30:00.000Z
+- [Vicente Vallés: «Sánchez habla de un ataque en Ceuta, pero agradece la colaboración de Marruecos. No son compatibles»](https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-considera-espana-sufrido-20260802103438-nt.html?utm_source=lootura.com) — 2026-08-02T08:34:39.000Z
+- [La mejor heladería de España está en Madrid al lado de la Puerta del Sol](https://www.abc.es/espana/madrid/mejor-heladeria-espana-madrid-situada-puerta-sol-tradicionales-italianos-20260802100000-nt.html?utm_source=lootura.com) — 2026-08-02T08:00:04.000Z
 - [Invierta en nuestra ‘start-up’: las megarrondas en España se generalizan en la era de la IA y la industria espacial](https://cincodias.elpais.com/companias/2026-08-02/invierta-en-nuestra-start-up-las-mega-rondas-en-espana-se-generalizan-en-la-era-de-la-ia-y-la-industria-espacial.html?utm_source=lootura.com) — 2026-08-02T03:15:00.000Z
 - [43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio](https://www.elconfidencial.com/espana/2026-08-02/40-anos-indultos-espana_4399230/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
+- [Detenido un menor en Gipuzkoa considerado el líder de la red extremista '764' de España](https://www.diariovasco.com/gipuzkoa/detenido-gipuzkoa-menor-llider-espana-red-764-20260802102143-nt_amp.html?utm_source=lootura.com) — 2026-08-02T08:22:45.000Z
 - [Aquí combaten la próxima pandemia](https://www.diariovasco.com/gipuzkoa/combaten-proxima-pandemia-20260802080930-nt_amp.html?utm_source=lootura.com) — 2026-08-02T06:09:30.000Z
 - [Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España](https://elpais.com/espana/2026-08-02/los-tres-dias-de-horror-que-acorralaron-a-ceuta.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
 - [La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España](https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [Ceuta y el ataque de la derecha a España](https://www.eldiario.es/blog/politica-para-supervivientes/ceuta-ataque-derecha-espana_132_13422483.html?utm_source=lootura.com) — 2026-08-02T06:17:33.000Z
-- [La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta](https://www.eldiario.es/desalambre/ola-ultra-inmigracion-provoca-falta-solidaridad-ue-espana-crisis-ceuta_1_13421815.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
-- [Veintidós países europeos señalan a España y reprochan la regularización](https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
-- [La mejor planta con flores que puedes poner en tu jardín si quieres que aguante el calor y las altas temperaturas del verano](https://okdiario.com/naturaleza/mejor-planta-flores-que-puedes-poner-tu-jardin-si-quieres-que-aguante-calor-altas-temperaturas-del-verano-18954426?utm_source=lootura.com) — 2026-08-02T06:15:53.000Z

@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"](https://www.elperiodicomediterraneo.com/espana/2026/08/02/elena-valenciano-juanma-moreno-andalucia-psoe-vox-133030655.html?utm_source=lootura.com) — 2026-08-02T06:29:00.000Z
-- [Guerra fría PSOE-PP ante la crisis climática](https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
+      "summary": "The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.",
+      "date": "2026-08-02"
+    },
     {
       "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
       "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
@@ -60,14 +65,15 @@
       "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
       "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
+      "url": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T06:48:35.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
     {
       "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
       "url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

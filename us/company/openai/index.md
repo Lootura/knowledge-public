@@ -34,4 +34,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity?utm_source=lootura.com) — 2026-08-01T09:00:00.000Z
+No public source links.

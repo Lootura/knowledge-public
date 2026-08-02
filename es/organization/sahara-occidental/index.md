@@ -3,7 +3,7 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
@@ -16,7 +16,7 @@ Date: 2026-08-02
 
 ### Discovered by Atlas
 
-Sáhara Occidental first entered the public knowledge record with source-backed evidence.
+Sahara Occidental first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-02
 
@@ -29,4 +29,3 @@ Date: 2026-08-01
 ## Fuentes
 
 - [La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España](https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z

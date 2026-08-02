@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/broad-peak/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/broad-peak/index.json",
   "description": "Follow Broad Peak, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-      "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
-      "date": "2026-08-01"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Broad Peak first entered the public knowledge record with source-backed evidence.",
@@ -24,6 +19,11 @@
     {
       "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead",
       "summary": "The 10-member expedition was swept away by an avalanche Thursday on Pakistan's Broad Peak.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+      "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
       "date": "2026-08-01"
     },
     {
@@ -38,13 +38,7 @@
       "url": "https://www.pbs.org/newshour/world/all-10-climbers-swept-away-in-avalanche-in-pakistan-are-confirmed-dead?utm_source=lootura.com",
       "publishedAt": "2026-08-01T18:03:11.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-      "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T19:59:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

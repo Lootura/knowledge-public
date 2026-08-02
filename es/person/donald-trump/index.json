@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,6 +35,21 @@
       "date": "2026-08-02"
     },
     {
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto \"un ataque\" contra Irán tras \"alcanzar las bases de un acuerdo\" que...",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51",
       "summary": "El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.",
       "date": "2026-08-01"
@@ -58,21 +73,6 @@
       "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
       "summary": "La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
-      "summary": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
-      "summary": "La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -89,17 +89,23 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
-      "url": "https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:12:05.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "url": "https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:31:06.000Z",
+      "sourceId": "lootura-es-el-periodico-mediterraneo"
     },
     {
-      "title": "Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51",
-      "url": "https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:22:23.000Z",
+      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
+      "url": "https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:09:10.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:31:29.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

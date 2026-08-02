@@ -3,7 +3,7 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T00:13:39.000Z
-- [Veintidós países europeos señalan a España y reprochan la regularización](https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
-- [Cambio climático: ¿la ley protege más del calor a los animales que a las personas?](https://www.lavanguardia.com/vida/20260802/11581300/cambio-climatico-ley-protege-mas-calor-animales-personas.html?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+- [Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos](https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com) — 2026-08-02T08:11:19.000Z

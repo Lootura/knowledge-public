@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-No public source links.
+- [Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways](https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html?utm_source=lootura.com) — 2026-08-02T09:01:05.000Z

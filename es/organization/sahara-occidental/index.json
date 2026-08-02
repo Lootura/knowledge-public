@@ -8,11 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.json",
   "description": "Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
-    "West Sahara",
+    "Southern Provinces",
     "Spanish Sahara",
-    "Southern Provinces"
+    "West Sahara"
   ],
   "changes": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Sáhara Occidental first entered the public knowledge record with source-backed evidence.",
+      "summary": "Sahara Occidental first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
     },
     {
@@ -37,13 +37,7 @@
       "url": "https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
-      "url": "https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:12:05.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

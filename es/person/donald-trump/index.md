@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-08-02
 ### La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España
 
 Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.
+
+Date: 2026-08-02
+
+### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
+
+Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
+
+Date: 2026-08-02
+
+### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
+
+El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
+
+Date: 2026-08-02
+
+### Trump anuncia la suspensión de un ataque contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
 
 Date: 2026-08-02
 
@@ -50,27 +68,10 @@ La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados
 
 Date: 2026-08-01
 
-### Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca
-
-Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.
-
-Date: 2026-07-25
-
-### El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española
-
-La Administración de Donald Trump ha activado una nueva fase en su política proteccionista que amenaza con encarecer las exportaciones españolas a Estados Unidos, sobre todo en algunos sectores industriales. Washington ha recurrido a la Sección 301 de la Ley de Comercio de 1974 para reconstruir su política arancelaria.
-
-Date: 2026-07-25
-
-### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
-
-El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [Claves para proteger la cartera de inversiones en vacaciones](https://cincodias.elpais.com/mercados-financieros/2026-08-02/claves-para-proteger-la-cartera-de-inversiones-en-vacaciones.html?utm_source=lootura.com) — 2026-08-02T03:30:00.000Z
 - [La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España](https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
-- [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
+- [Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"](https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com) — 2026-08-02T09:31:06.000Z
+- [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

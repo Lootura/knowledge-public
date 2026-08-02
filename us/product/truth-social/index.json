@@ -1,0 +1,47 @@
+{
+  "id": "usa-truth-social",
+  "name": "Truth Social",
+  "type": "product",
+  "locale": "en",
+  "canonicalPath": "/us/product/truth-social",
+  "canonicalUrl": "https://atlas.lootura.com/us/product/truth-social",
+  "markdownUrl": "https://atlas.lootura.com/us/product/truth-social/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/product/truth-social/index.json",
+  "description": "Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "aliases": [
+    "TruthSocial"
+  ],
+  "changes": [
+    {
+      "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+      "summary": "Trump asserted in a Truth Social post that he would keep acting Attorney General Todd Blanche in his current role and press ahead on the \"Anti-Weaponization Fund\" if Sens. John Cornyn and Thom Tillis refuse to back Blanche.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Truth Social first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Trump offering early access to online posts in move seen as corruption",
+      "summary": "Truth Social, where Trump’s account is by far the largest, to offer users early access for up to $100,000 per month Donald Trump is now offering early access to his Truth Social posts in a move that has been seen as corruption benefitting a sitting president. Trump Media and Technology Group officially rolled out its n.",
+      "date": "2026-08-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Truth Social launches service selling faster access to Trump posts",
+      "url": "https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T00:06:17.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+      "url": "https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T16:15:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

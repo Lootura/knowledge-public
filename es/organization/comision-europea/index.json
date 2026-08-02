@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "EC",
     "EU commission",
@@ -70,21 +70,9 @@
     {
       "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
       "url": "https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T00:13:39.000Z",
+      "publishedAt": "2026-08-02T08:11:19.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
-      "url": "https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Cambio climático: ¿la ley protege más del calor a los animales que a las personas?",
-      "url": "https://www.lavanguardia.com/vida/20260802/11581300/cambio-climatico-ley-protege-mas-calor-animales-personas.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

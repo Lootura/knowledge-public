@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,6 +40,31 @@
       "date": "2026-08-02"
     },
     {
+      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "What Cyclospora does inside the gut and how it gets there",
+      "summary": "Cyclospora , the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce. (Image credit: wildpixel).",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+      "summary": "The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.",
+      "summary": "At a national summit of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
       "summary": "FAMILY UNDER SIEGE: Controversial teacher training targets parental authority as oppression, education expert warns LIZ PEEK : Trump is starving the machine that creates America's socialist revolutionaries HEATED EXCHANGE: Piers Morgan eviscerates Ivy League student who refused to work 'for a Jew' as 'brazenly' antisem.",
       "date": "2026-08-02"
@@ -50,38 +75,13 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-      "summary": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is. (Image credit: Hope McKenney).",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-      "summary": "The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
       "summary": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
       "date": "2026-08-01"
     },
     {
-      "title": "A brief timeline of Iranian cyberattacks on the U.S.",
-      "summary": "Investigators are probing whether Iranian hackers are behind this week's malicious cyber activity against water systems in Minnesota. If they are found to be the culprits, it would not be the first time.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-      "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
       "date": "2026-08-01"
     }
   ],
@@ -105,16 +105,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "A brief timeline of Iranian cyberattacks on the U.S.",
-      "url": "https://www.cbsnews.com/news/iranian-cyberattacks-timeline-u-s-companies-water-systems-minnesota-hacked/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T10:00:03.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
-      "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:32:50.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:31:00.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says",
@@ -129,9 +123,9 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T09:00:00.000Z",
+      "title": "What Cyclospora does inside the gut and how it gets there",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -145,6 +139,12 @@
       "url": "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup?utm_source=lootura.com",
       "publishedAt": "2026-08-01T11:46:43.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:34:27.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
   "evidenceCount": 17

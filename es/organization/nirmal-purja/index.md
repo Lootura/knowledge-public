@@ -3,10 +3,16 @@
 > Sigue la actividad de Nirmal Purja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/nirmal-purja
 
 ## Cambios recientes
+
+### Qué se sabe de la trágica muerte de Nirmal Purja y los nueve miembros de su expedición tras la avalancha
+
+Oficialmente, Nirmal "Nimsdai" Purja y el resto de integrantes del grupo de diez personas sorprendidas por la avalancha del pasado jueves 30 de julio en el Broad Peak (8.051 m) han fallecido, tal y como ha confirmado este sábado Elite Expeditions. El trágico accidente tuvo lugar en el Broad Peak, una de las montañas de.
+
+Date: 2026-08-02
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Qué se sabe de la trágica muerte de Nirmal Purja y los nueve miembros de su expedición tras la avalancha](https://www.20minutos.es/deportes/claves-muerte-nirmal-purja-los-nueve-miembros-su-expedicion-tras-avalancha-broad-peak_7021613_0.html?utm_source=lootura.com) — 2026-08-02T07:04:36.000Z

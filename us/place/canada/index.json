@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T20:49:12.134Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "summary": "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
       "summary": "Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.",
@@ -57,13 +62,15 @@
       "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
       "summary": "The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
-      "summary": "President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T08:47:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

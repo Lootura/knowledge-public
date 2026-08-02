@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo
+
+Millie , una gata tricolor que vive en Manchester (Reino Unido), podría convertirse en la gata viva más longeva del mundo . Su dueño, Leslie Greenhough, asegura que nació en 1995 y está reuniendo la documentación necesaria para que el Guinness World Records pueda verificar oficialmente su edad. Si se confirma su fecha.
+
+Date: 2026-08-02
 
 ### Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza
 
@@ -62,12 +68,6 @@ El mundo de la aviación comercial podría estar a las puertas de su cambio más
 
 Date: 2026-07-22
 
-### Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud
-
-Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a convocar a toda la atención mediática de la industria para un interesantísimo Galaxy Unpacked 2026 celebrado en Londres. Allí, en la capital del Reino Unido, la empresa surcoreana nos ha enseñado no sólo a los nuevos Galaxy Z Fold8 , Fold8 U.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo](https://www.larazon.es/animales-mascotas/gata-britanica-31-anos-busca-entrar-guinness-como-mas-longeva-mundo-b50m_202608026a6f0e4ca5690f04735fbfb0.html?utm_source=lootura.com) — 2026-08-02T09:30:52.000Z

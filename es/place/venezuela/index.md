@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -71,6 +71,4 @@ Date: 2026-07-22
 ## Fuentes
 
 - [Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos](https://theobjective.com/internacional/2026-08-02/venezuela-dialogo-politico-oposicion-terremotos/?amp=&utm_source=lootura.com) — 2026-08-02T06:27:49.000Z
-- [Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51](https://theobjective.com/internacional/2026-08-01/trump-comparte-mensaje-red-social-mapa-venezuela-estado-51/?utm_source=lootura.com) — 2026-08-01T21:22:23.000Z
 - [Opacidad y turbulencia en Venezuela](https://theobjective.com/elsubjetivo/opinion/2026-08-02/opacidad-y-turbulencia-en-venezuela-articulo-granes/?utm_source=lootura.com) — 2026-08-02T03:25:00.000Z
-- [Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta](https://theobjective.com/internacional/2026-08-01/heridos-atentado-terrorista-colombiana-cucuta/?utm_source=lootura.com) — 2026-08-01T21:27:29.000Z

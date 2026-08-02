@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
 
 Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
+
+Date: 2026-08-02
+
+### Guardias civiles piden a la UE una política de fronteras "que no dependa" de terceros países tras la crisis de Ceuta
+
+La Asociación Unificada de Guardias Civiles (AUGC) ha solicitado este sábado que la Unión Europea disponga de una política de fronteras propia "que no dependa" de terceros países. En un comunicado, la organización sostiene que "Europa necesita una política de fronteras propia, que no dependa de terceros estados que pue.
 
 Date: 2026-08-02
 
@@ -62,14 +68,7 @@ Unión Europea first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-24
 
-### La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”
-
-La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia rescEU —cuatro aviones en España y tres aviones más dos helicópteros en Francia— para combatir los incendios forestales que golpean España y Francia. El Ejecutivo comunitario ha advertido este viernes de que la Unión Europea se prepara para esc.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Guardias civiles piden a la UE una política de fronteras "que no dependa" de terceros países tras la crisis de Ceuta](https://www.20minutos.es/ceuta/guardias-civiles-piden-ue-politica-fronteras-no-dependa-terceros-paises-crisis-migratoria-ceuta_7021685_0.html?utm_source=lootura.com) — 2026-08-02T06:58:27.000Z
 - [El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"](https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com) — 2026-08-02T03:00:00.000Z
-- [Ceuta, asaltada por los desamparados](https://www.eldiario.es/opinion/tribuna-abierta/ceuta-asaltada-desamparados_129_13422898.html?utm_source=lootura.com) — 2026-08-01T21:12:06.000Z
-- [La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta](https://www.eldiario.es/desalambre/ola-ultra-inmigracion-provoca-falta-solidaridad-ue-espana-crisis-ceuta_1_13421815.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z

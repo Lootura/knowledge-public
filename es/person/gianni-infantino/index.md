@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"
+
+El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino "no debe continuar al frente de la FIFA" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo "la punta del iceberg" y no resuelve "el problema de gobernanza". "Infantino no debe continuar. Que la FIFA haya retirado su propue.
+
+Date: 2026-08-02
 
 ### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
 
@@ -28,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"](https://www.larazon.es/deportes/tebas-carga-infantino-debe-continuar-frente-fifa_202608026a6f0f98a5690f04735fc15f.html?utm_source=lootura.com) — 2026-08-02T09:36:24.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Mohamed VI y sus proyectiles humanos
 
 Imaginen la escena. 7 de agosto de 2014. Una patrullera de la Guardia Civil divisa un grupo de embarcaciones —dos yates y tres motos de agua—en actitud sospechosa a dos millas del cabo ceutí de Punta Almina. El brigada que va al mando pide a sus ocupantes que se identifiquen. Uno de ellos se quita las gafas oscuras y l.
+
+Date: 2026-08-02
+
+### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
+
+Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ Casas y coches completamente calcinados , rescates de la Guardia Civil con el fu
 
 Date: 2026-07-22
 
-### Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas
-
-Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir fuego Leer.
-
-Date: 2026-07-21
-
 ## Fuentes
 
 - [Mohamed VI y sus proyectiles humanos](https://elpais.com/opinion/2026-08-02/mohamed-vi-y-sus-proyectiles-humanos.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
+- [El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”](https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com) — 2026-08-02T09:33:32.000Z

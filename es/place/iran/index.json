@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,21 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "summary": "Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un \"acuerdo rápido\".",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto \"un ataque\" contra Irán tras \"alcanzar las bases de un acuerdo\" que...",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
     {
       "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
       "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de en una escalada global Leer.",
@@ -52,21 +67,6 @@
       "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
       "summary": "La Confederación Nacional de la Construcción (CNC) denuncia una situación límite en la licitación de obra pública tras el estallido de la guerra en Irán, que ha vuelto a disparar el precio de los materiales para edificar. La patronal de las empresas constructoras ha cifrado hoy en 1.130 el número de concursos que se ha.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
-      "summary": "Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste",
-      "summary": "El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados",
-      "summary": "Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebraron el acercamiento entre EE UU e Irán, julio ha dado un vuelco al sentimiento de los mercados. Dos semanas después de que Washington diera por rota la tregua y los ataques se intensificaran, un nuevo actor ha entrado en escena: los hutíes de.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -75,7 +75,25 @@
       "url": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T20:35:51.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Trump cancela su ataque a gran escala contra Irán en previsión de un \"acuerdo rápido\"",
+      "url": "https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:31:06.000Z",
+      "sourceId": "lootura-es-el-periodico-mediterraneo"
+    },
+    {
+      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
+      "url": "https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:09:10.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:31:29.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

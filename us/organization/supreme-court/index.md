@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court
+
+The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.
+
+Date: 2026-08-02
 
 ### She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.
 
@@ -62,12 +68,7 @@ Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify s
 
 Date: 2026-07-14
 
-### Funding milestone detected
-
-Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.
-
-Date: 2026-07-14
-
 ## Sources
 
+- [New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court](https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court?utm_source=lootura.com) — 2026-08-02T06:48:35.000Z
 - [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html?utm_source=lootura.com) — 2026-08-01T15:24:45.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo",
+      "summary": "Millie , una gata tricolor que vive en Manchester (Reino Unido), podría convertirse en la gata viva más longeva del mundo . Su dueño, Leslie Greenhough, asegura que nació en 1995 y está reuniendo la documentación necesaria para que el Guinness World Records pueda verificar oficialmente su edad. Si se confirma su fecha.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza",
       "summary": "Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decorado de época romana en Colchester , Reino Unido , durante obras de reurbanización en el antiguo Hospital de Essex. Dentro, los arqueólogos hallaron los restos de una mujer de alto estatus social que vivió hace unos 1.700 años, hacia el final.",
@@ -67,13 +72,15 @@
       "title": "Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo",
       "summary": "El mundo de la aviación comercial podría estar a las puertas de su cambio más radical en décadas. Durante el reciente Salón Aeronáutico de Farnborough, en el Reino Unido, la startup estadounidense JetZero presentó oficialmente el Z4 , un avión que promete ser un punto de inflexión . Su gran baza es un diseño de ala int.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud",
-      "summary": "Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a convocar a toda la atención mediática de la industria para un interesantísimo Galaxy Unpacked 2026 celebrado en Londres. Allí, en la capital del Reino Unido, la empresa surcoreana nos ha enseñado no sólo a los nuevos Galaxy Z Fold8 , Fold8 U.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo",
+      "url": "https://www.larazon.es/animales-mascotas/gata-britanica-31-anos-busca-entrar-guinness-como-mas-longeva-mundo-b50m_202608026a6f0e4ca5690f04735fbfb0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:30:52.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

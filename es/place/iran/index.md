@@ -3,10 +3,28 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
+
+Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
+
+Date: 2026-08-02
+
+### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
+
+El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
+
+Date: 2026-08-02
+
+### Trump anuncia la suspensión de un ataque contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
 
 ### La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo
 
@@ -50,24 +68,9 @@ La Confederación Nacional de la Construcción (CNC) denuncia una situación lí
 
 Date: 2026-07-24
 
-### La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares
-
-Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.
-
-Date: 2026-07-24
-
-### El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste
-
-El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.
-
-Date: 2026-07-23
-
-### El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados
-
-Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebraron el acercamiento entre EE UU e Irán, julio ha dado un vuelco al sentimiento de los mercados. Dos semanas después de que Washington diera por rota la tregua y los ataques se intensificaran, un nuevo actor ha entrado en escena: los hutíes de.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-01T20:35:51.000Z
+- [Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"](https://www.elperiodicomediterraneo.com/internacional/2026/08/02/trump-cancela-ataque-gran-escala-133033258.html?utm_source=lootura.com) — 2026-08-02T09:31:06.000Z
+- [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

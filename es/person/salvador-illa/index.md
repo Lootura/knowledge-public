@@ -3,7 +3,7 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Illa subvenciona los 'comisarios lingüísticos' municipales que controlan el uso del catalán en las tiendas, los restaurantes y el ocio infantil](https://www.abc.es/espana/cataluna/illa-subvenciona-informantes-municipales-controlar-uso-catalan-20260731012801-nt.html?utm_source=lootura.com) — 2026-08-02T08:58:26.000Z

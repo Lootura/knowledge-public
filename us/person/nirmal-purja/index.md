@@ -3,20 +3,26 @@
 > Follow Nirmal Purja, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/person/nirmal-purja
 
 ## Recent changes
 
-### Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche
-
-The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
-
-Date: 2026-08-01
-
 ### Discovered by Atlas
 
 Nirmal Purja first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-01
+
+### Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers
+
+A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth. (Image credit: Niranjan Shrestha).
+
+Date: 2026-08-01
+
+### Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche
+
+The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
 
 Date: 2026-08-01
 
@@ -34,4 +40,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html?utm_source=lootura.com) — 2026-08-01T19:59:09.000Z
+- [Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers](https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche?utm_source=lootura.com) — 2026-08-01T22:23:39.000Z

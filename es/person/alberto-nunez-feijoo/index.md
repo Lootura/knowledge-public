@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025
+
+El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.
+
+Date: 2026-08-02
+
+### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
+
+Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
+
+Date: 2026-08-02
 
 ### Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno
 
@@ -56,18 +68,7 @@ Alberto Núñez Feijóo, líder del PP, ha defendido este sábado la necesidad d
 
 Date: 2026-07-25
 
-### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
-
-El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
-
-Date: 2026-07-25
-
-### Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica
-
-El líder del PP acude a la toma de posesión de Fujimori y potencia su interlocución con la hornada de nuevos líderes, a la espera de si hay foto con Milei.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025](https://www.larazon.es/espana/supera-807000-afiliados-feijoo-sumo-casi-3000-nuevos-carnets-2025_202608026a6f0e3671b42a0b5dd4eae5.html?utm_source=lootura.com) — 2026-08-02T09:30:30.000Z
+- [El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”](https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com) — 2026-08-02T09:33:32.000Z

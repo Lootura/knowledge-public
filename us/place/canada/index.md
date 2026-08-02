@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
+
+Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
+
+Date: 2026-08-02
 
 ### Beluga whales transferred to U.S. aquariums after Canadian theme park closes
 
@@ -62,12 +68,6 @@ The ribbon-cutting celebration of the Gordie Howe International Bridge is no lon
 
 Date: 2026-07-22
 
-### Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days
-
-President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com) — 2026-08-02T08:47:25.000Z

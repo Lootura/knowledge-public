@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Daily fragment: 2014 Kunshan explosion
 
 At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+
+Date: 2026-08-02
+
+### How China Keeps Tabs on Foreigners
+
+An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ CBS News contributors David Becker and Chris Krebs joined "Face the Nation with 
 
 Date: 2026-07-19
 
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Daily fragment: 2014 Kunshan explosion](https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+- [How China Keeps Tabs on Foreigners](https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html?utm_source=lootura.com) — 2026-08-02T04:03:06.000Z

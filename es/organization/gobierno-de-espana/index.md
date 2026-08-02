@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Ceuta, la avalancha consentida
+
+La entrada de decenas de miles de marroquíes en Ceuta no ha respondido al patrón habitual de las mafias que trafican con personas, por mucho que Rabat se refugie en esa explicación y el Gobierno español no lo haya cuestionado. Esta vez el detonante ha sido otro . La rápida difusión de mensajes en las redes sociales ale.
+
+Date: 2026-08-02
 
 ### Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta
 
@@ -62,12 +68,6 @@ El Gobierno de España ha recogido en cuestión de un par de horas el guante lan
 
 Date: 2026-07-24
 
-### Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"
-
-La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Ceuta, la avalancha consentida](https://www.20minutos.es/nacional/ceuta-avalancha-consentida_7021636_3.html?utm_source=lootura.com) — 2026-08-02T07:03:23.000Z

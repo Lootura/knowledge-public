@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Seis valores del Ibex desafían la incertidumbre y rozan máximos",
       "summary": "El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resistir en un mes que ha puesto a prueba la confianza de los inversores. El recrudecimiento de las tensiones en Oriente Próximo, la perspectiva de unos tipos de interés elevados durante más tiempo y las crecientes dudas sobre el sector tecnológ.",
@@ -60,13 +65,15 @@
       "title": "La rentabilidad de los bonos, en máximos a la espera del BCE",
       "summary": "La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en los mercados: la renta fija. En Europa, la venta de bonos soberanos ha llevado su rentabilidad a máximos del año, ante el temor de los inversores a una mayor inflación y un mensaje más duro del Banco Central Europeo . Seguir leyendo.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:31:29.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

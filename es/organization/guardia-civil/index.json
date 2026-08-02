@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [],
   "changes": [
     {
       "title": "Mohamed VI y sus proyectiles humanos",
       "summary": "Imaginen la escena. 7 de agosto de 2014. Una patrullera de la Guardia Civil divisa un grupo de embarcaciones —dos yates y tres motos de agua—en actitud sospechosa a dos millas del cabo ceutí de Punta Almina. El brigada que va al mando pide a sus ocupantes que se identifiquen. Uno de ellos se quita las gafas oscuras y l.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
+      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
       "date": "2026-08-02"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil",
       "summary": "Casas y coches completamente calcinados , rescates de la Guardia Civil con el fuego pisando los talones … Es el panorama que deja, esta madrugada del jueves, el incendio forestal iniciado en Almorox (Toledo) y que el viento ha propagado con gran velocidad a la localidad madrileña vecina de Villa del Prado , cuya poblac.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas",
-      "summary": "Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir fuego Leer.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://elpais.com/opinion/2026-08-02/mohamed-vi-y-sus-proyectiles-humanos.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
+      "url": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:33:32.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

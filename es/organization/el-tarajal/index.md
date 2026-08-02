@@ -46,6 +46,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [Ceuta recobra parte de la calma en medio de la tensión política](https://elpais.com/espana/2026-08-01/ceuta-recobra-parte-de-la-calma-en-medio-de-la-tension-politica.html?utm_source=lootura.com) — 2026-08-01T19:48:11.000Z
-- [La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”](https://elpais.com/espana/2026-08-01/la-desgracia-sumergida-en-la-frontera-de-ceuta-hay-mas-muertos-en-el-mar.html?utm_source=lootura.com) — 2026-08-01T18:34:03.000Z
-- [Relato fotográfico | Un rescate de madrugada en la playa de El Tarajal](https://elpais.com/espana/2026-08-01/relato-fotografico-un-rescate-de-madrugada-en-la-playa-de-el-tarajal.html?utm_source=lootura.com) — 2026-08-01T19:09:06.000Z
+No public source links.

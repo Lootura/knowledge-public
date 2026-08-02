@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-02T09:54:10.257Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
       "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
@@ -54,25 +64,9 @@
       "title": "Wildfire Smoke Chokes Skies in Spain and France",
       "summary": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "What to Know About the Wildfires Raging in Western Europe",
-      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Wildfires in France and Spain force 250,000 to flee as crews continue to battle untamed blazes",
-      "summary": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
-    {
-      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:33:27.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
     {
       "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
       "url": "https://www.pbs.org/newshour/world/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67?utm_source=lootura.com",
@@ -84,7 +78,19 @@
       "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com",
       "publishedAt": "2026-08-01T21:23:42.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T08:49:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:30:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,10 +3,22 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
+
+Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
+
+Date: 2026-08-02
+
+### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
+
+Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
+
+Date: 2026-08-02
 
 ### Spain Installs Floating Barrier in Ceuta After Influx of Migrants
 
@@ -56,20 +68,9 @@ Hundreds of thousands of people, including residents as well as vacationers, wer
 
 Date: 2026-07-25
 
-### What to Know About the Wildfires Raging in Western Europe
-
-Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.
-
-Date: 2026-07-25
-
-### Wildfires in France and Spain force 250,000 to flee as crews continue to battle untamed blazes
-
-The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge](https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants?utm_source=lootura.com) — 2026-08-01T18:33:27.000Z
 - [Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67](https://www.pbs.org/newshour/world/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67?utm_source=lootura.com) — 2026-08-01T15:19:24.000Z
 - [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html?utm_source=lootura.com) — 2026-08-01T21:23:42.000Z
+- [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T08:49:09.000Z
+- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:01.000Z

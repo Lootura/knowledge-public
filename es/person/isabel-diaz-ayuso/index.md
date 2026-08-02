@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”](https://www.eldiario.es/politica/acumulacion-escandalos-ayuso-enciende-alarmas-pp-caida-sera-peor-cifuentes-cremas_129_13421627.html?utm_source=lootura.com) — 2026-08-01T21:12:04.000Z
+No public source links.

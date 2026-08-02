@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Cómo ha estrechado Trump la alianza de EEUU con Marruecos](https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html?utm_source=lootura.com) — 2026-08-01T21:12:05.000Z
+No public source links.

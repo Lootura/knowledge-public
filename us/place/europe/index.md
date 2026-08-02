@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
 
 New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
+
+Date: 2026-08-02
+
+### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
+
+Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
 
 Date: 2026-08-02
 
@@ -62,14 +68,9 @@ Huge blazes have forced tens of thousands of residents and vacationers in France
 
 Date: 2026-07-25
 
-### Prize honors discovery of altermagnetism as a third fundamental class of magnetism
-
-One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [Wildfire danger in Europe shifts to Greece as evacuation orders remain in France](https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com) — 2026-08-01T18:58:23.000Z
 - [Europe continues to celebrate Pride after attack on Berlin parade](https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/?utm_source=lootura.com) — 2026-08-01T15:30:04.000Z
-- [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com) — 2026-08-02T06:27:38.000Z
+- [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:01.000Z
+- [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/?utm_source=lootura.com) — 2026-08-02T09:53:30.000Z

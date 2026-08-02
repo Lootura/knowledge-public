@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Prohibidas 'raves', acampar... la \"preocupación\" por el eclipse lleva a extremar medidas contra incendios",
+      "summary": "El próximo 12 de agosto, España vivirá un momento \"histórico\", el primer eclipse de sol desde hace 114 años, que a última hora de la tarde dejará en penumbra durante casi dos horas en algunos casos buena parte del territorio de Galicia, Castilla y León, la Comunidad de Madrid, Aragón, Castilla-La Mancha, Cataluña, la C.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)",
       "summary": "Una trabajadora de 22 años ha fallecido en la mañana de este sábado tras quedar atrapada en una máquina de una lavandería en Yeles ( Toledo ). El servicio de emergencias 112 de Castilla-La Mancha ha informado de que este accidente laboral ha ocurrido a las 7.25 horas de este sábado en una lavandería ubicada en el Camin.",
@@ -58,13 +63,15 @@
       "title": "Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Prohibidas 'raves', acampar... la \"preocupación\" por el eclipse lleva a extremar medidas contra incendios",
+      "url": "https://www.20minutos.es/nacional/prohibidas-raves-acampadas-andar-por-monte-preocupacion-por-eclipse-lleva-extremar-precauciones-contra-los-incendios_7021236_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:05:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

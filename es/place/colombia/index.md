@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta](https://theobjective.com/internacional/2026-08-01/heridos-atentado-terrorista-colombiana-cucuta/?utm_source=lootura.com) — 2026-08-01T21:27:29.000Z
+No public source links.

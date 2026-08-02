@@ -1,0 +1,45 @@
+{
+  "id": "es-miguel-tellado",
+  "name": "Miguel Tellado",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/miguel-tellado",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/miguel-tellado",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
+  "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
+      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»",
+      "summary": "El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
+      "url": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:33:32.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»",
+      "url": "https://okdiario.com/espana/tellado-acusa-gobierno-no-actuar-ceuta-puede-volver-ocurrir-manana-19112803?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T09:31:50.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

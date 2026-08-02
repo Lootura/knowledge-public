@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-02T09:53:47.705Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -17,6 +17,11 @@
     {
       "title": "El amnistiado que reniega del perdón: \"Sólo sirvió para que Sánchez esté en la Moncloa\"",
       "summary": "Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Guardias civiles piden a la UE una política de fronteras \"que no dependa\" de terceros países tras la crisis de Ceuta",
+      "summary": "La Asociación Unificada de Guardias Civiles (AUGC) ha solicitado este sábado que la Unión Europea disponga de una política de fronteras propia \"que no dependa\" de terceros países. En un comunicado, la organización sostiene que \"Europa necesita una política de fronteras propia, que no dependa de terceros estados que pue.",
       "date": "2026-08-02"
     },
     {
@@ -58,32 +63,21 @@
       "title": "Discovered by Atlas",
       "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
-      "summary": "La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia rescEU —cuatro aviones en España y tres aviones más dos helicópteros en Francia— para combatir los incendios forestales que golpean España y Francia. El Ejecutivo comunitario ha advertido este viernes de que la Unión Europea se prepara para esc.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Guardias civiles piden a la UE una política de fronteras \"que no dependa\" de terceros países tras la crisis de Ceuta",
+      "url": "https://www.20minutos.es/ceuta/guardias-civiles-piden-ue-politica-fronteras-no-dependa-terceros-paises-crisis-migratoria-ceuta_7021685_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T06:58:27.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "El amnistiado que reniega del perdón: \"Sólo sirvió para que Sánchez esté en la Moncloa\"",
       "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T03:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Ceuta, asaltada por los desamparados",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-asaltada-desamparados_129_13422898.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:12:06.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta",
-      "url": "https://www.eldiario.es/desalambre/ola-ultra-inmigracion-provoca-falta-solidaridad-ue-espana-crisis-ceuta_1_13421815.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:12:05.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,20 +3,20 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T09:54:10.257Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer
-
-Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.
-
-Date: 2026-08-01
-
 ### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
 
 The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.
+
+Date: 2026-08-01
+
+### How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer
+
+Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.
 
 Date: 2026-08-01
 
@@ -70,6 +70,5 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues](https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes?utm_source=lootura.com) — 2026-08-01T20:27:32.000Z
-- [How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer](https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html?utm_source=lootura.com) — 2026-08-01T09:02:02.000Z
+- [‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia](https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia?utm_source=lootura.com) — 2026-08-02T05:00:12.000Z
 - [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T20:13:38.000Z

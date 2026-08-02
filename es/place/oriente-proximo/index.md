@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-02T09:53:47.705Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Trump anuncia la suspensión de un ataque contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
 
 ### Seis valores del Ibex desafían la incertidumbre y rozan máximos
 
@@ -62,12 +68,6 @@ La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en l
 
 Date: 2026-07-23
 
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z
