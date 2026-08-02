@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T13:26:53.170Z",
+  "generatedAt": "2026-08-02T14:55:47.880Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|48|1785676510309",
+    "signature": "1.18.0|49|1785676510309",
     "version": "1.18.0",
-    "build": 48,
+    "build": 49,
     "latestEntityUpdatedAt": "2026-08-02T13:15:10.309Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-08-02T13:15:10.309Z",
-      "score": 11760,
+      "score": 11752,
       "sourceCount": 273,
       "isBreaking": true,
       "isPinned": false,
@@ -36,7 +36,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-02T13:15:10.309Z",
-        "score": 1682,
+        "score": 1674,
         "sourceCount": 517,
         "isBreaking": false,
         "isPinned": false
@@ -49,7 +49,7 @@
         "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
         "path": "/es/person/isabel-diaz-ayuso",
         "updatedAt": "2026-08-02T13:15:10.309Z",
-        "score": 1672,
+        "score": 1664,
         "sourceCount": 21,
         "isBreaking": false,
         "isPinned": false
@@ -62,7 +62,7 @@
         "url": "https://atlas.lootura.com/es/organization/santiago-abascal",
         "path": "/es/organization/santiago-abascal",
         "updatedAt": "2026-08-02T13:15:10.309Z",
-        "score": 1671,
+        "score": 1663,
         "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
@@ -75,7 +75,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-08-02T13:15:10.309Z",
-        "score": 1657,
+        "score": 1649,
         "sourceCount": 674,
         "isBreaking": false,
         "isPinned": false
