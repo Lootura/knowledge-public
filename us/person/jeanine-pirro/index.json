@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
   "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-08-02T02:32:52.484Z",
-  "aliases": [],
+  "aliases": [
+    "Jeanine",
+    "Pirro"
+  ],
   "changes": [
     {
       "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",

@@ -16,7 +16,7 @@ Date: 2026-08-01
 
 ### Discovered by Atlas
 
-Casa Real first entered the public knowledge record with source-backed evidence.
+Casa real first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-01
 

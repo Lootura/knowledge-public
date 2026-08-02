@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T02:43:39.184Z",
+  "generatedAt": "2026-08-02T05:00:49.090Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|44|1785637948527",
+    "signature": "1.18.0|45|1785637948527",
     "version": "1.18.0",
-    "build": 44,
+    "build": 45,
     "latestEntityUpdatedAt": "2026-08-02T02:32:28.527Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-08-02T02:32:28.527Z",
-      "score": 1738,
+      "score": 1725,
       "sourceCount": 287,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1696,
+        "score": 1683,
         "sourceCount": 646,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
         "path": "/es/person/alberto-nunez-feijoo",
         "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1650,
+        "score": 1637,
         "sourceCount": 76,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1646,
+        "score": 1634,
         "sourceCount": 501,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/object/la-moncloa",
         "path": "/es/object/la-moncloa",
         "updatedAt": "2026-08-02T02:32:28.527Z",
-        "score": 1644,
+        "score": 1631,
         "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false

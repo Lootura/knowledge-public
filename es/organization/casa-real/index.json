@@ -10,15 +10,15 @@
   "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-02T02:32:28.527Z",
   "aliases": [
-    "Dinastía real",
     "Casa de Su Magestad",
+    "Casa de Su Majestad",
+    "Casa regia",
     "Casas reales",
     "Casas regias",
-    "Dinastía regia",
-    "Casa regia",
-    "Casa de Su Majestad",
     "Dinastia real",
     "Dinastia regia",
+    "Dinastía real",
+    "Dinastía regia",
     "ruling dynasty"
   ],
   "changes": [
@@ -29,7 +29,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Casa Real first entered the public knowledge record with source-backed evidence.",
+      "summary": "Casa real first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
     },
     {
