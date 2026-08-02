@@ -1,0 +1,34 @@
+{
+  "id": "usa-max-miller",
+  "name": "Max Miller",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/max-miller",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/max-miller",
+  "markdownUrl": "https://atlas.lootura.com/us/person/max-miller/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/max-miller/index.json",
+  "description": "Follow Max Miller, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Max Miller first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Republican Sen. Bernie Moreno Says Max Miller is Unfit to Hold Office",
+      "summary": "Shortly after Congressman Max Miller (R-Ohio) went live on X to defend himself against recent reporting by Mother Jones documenting allegations of domestic violence against his ex-wife, Sen. Bernie Moreno (R-Ohio) posted his first in-depth public comment on the matter, saying Miller is unfit to hold office. “As he has.",
+      "date": "2026-08-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sen. Bernie Moreno says former son-in-law Max Miller shouldn’t serve in Congress following abuse allegations",
+      "url": "https://www.nbcnews.com/politics/congress/bernie-moreno-former-son-law-max-miller-shouldnt-serve-congress-abuse-rcna590459?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T20:46:46.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 0
+}

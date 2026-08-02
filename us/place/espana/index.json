@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "España",
     "Estado español",
@@ -21,13 +21,13 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
+      "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "summary": "Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.",
       "date": "2026-08-02"
     },
     {
-      "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "summary": "Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.",
+      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
       "date": "2026-08-02"
     },
     {
@@ -78,13 +78,7 @@
       "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T13:50:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:30:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

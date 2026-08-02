@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,51 +14,9 @@ En el único de este tipo que hay en España estudian y contienen los patógenos
 
 Date: 2026-08-02
 
-### Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España
-
-Las costas de Ceuta y Marruecos han dejado en unos pocos días decenas de cadáveres para el triste cementerio del mar Mediterráneo. Ceuta tocó campanas de alerta el 27 de julio, después de una semana en la que sus playas tenían bañistas de día e inmigrantes al amanecer . Las travesías nocturnas de los flotadores, escaso.
-
-Date: 2026-08-02
-
-### La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España
-
-Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.
-
-Date: 2026-08-02
-
 ### Detenido un menor en Gipuzkoa considerado el líder de la red extremista '764' de España
 
 Se le atribuye el envío de numerosas amenazas dirigidas contra centros educativos, organismos públicos y privados y diversas personas entre enero y abril de 2026.
-
-Date: 2026-08-02
-
-### EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes
-
-El Departamento de Estado de Estados Unidos ha actualizado su recomendación de viaje para España y ha elevado al nivel 3 («Reconsiderar el viaje») la advertencia específica para Ceuta , mientras mantiene el nivel 2 para el conjunto del país, debido a los disturbios derivados de la llegada masiva de migrantes al enclave.
-
-Date: 2026-08-02
-
-### Detenido en Guipúzcoa un menor como referente en España de la 'red 764'
-
-Se le atribuyen numerosas amenazas contra centros educativos, ayuntamientos, bibliotecas y personas.
-
-Date: 2026-08-02
-
-### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
-
-Date: 2026-08-02
-
-### ¿Se podrá ver el eclipse solar del 12 de agosto en España? La alerta de un climatólogo por la lluvia
-
-El climatólogo de Meteored España, Samuel Biener, ha señalado que la evolución de las precipitaciones "sigue siendo incierta" el próximo 12 de agosto, día del eclipse solar total que cruzará España, mientras que los mapas apuntan a que esa semana estará marcada por temperaturas de 1 a 3 grados por encima de la media pa.
-
-Date: 2026-08-02
-
-### He encontrado el ajuste de Google Maps para que me alerte de TODOS los radares en España
-
-No falla: confías en Google Maps para saber por dónde tienes que ir y el GPS no es capaz de alertarte de los radares que hay en tu ruta . La app sí que los marca con un pequeño icono en la pantalla, pero por defecto no te avisa como hace Waze con una ventana emergente y una alerta sonora. Es necesario ir constantemente.
 
 Date: 2026-08-02
 
@@ -68,15 +26,57 @@ Sigue en directo la última hora sobre la crisis migratoria en Ceuta por la lleg
 
 Date: 2026-08-02
 
+### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
+
+El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
+
+Date: 2026-08-02
+
+### Huelga indefinida en Airbus desde el 24 de agosto
+
+Huelga indefinida en Airbus . Los sindicatos CGT, UGT y UTIL iniciaron este viernes los trámites necesarios para la convocatoria de una huelga indefinida en todos los centros de Airbus en España a partir del próximo 24 de agosto. De esta forma, estas organizaciones toman el testigo de Sipa , que fue el sindicato convoc.
+
+Date: 2026-08-02
+
+### Cuáles son los acuerdos que firmó Sánchez en Argelia antes de la crisis de Ceuta
+
+La relación entre España y Argelia ha sido, durante décadas, una de las más sensibles de la política exterior española. No solo por la energía, sino por el peso del Magreb en la seguridad, la inmigración, el comercio y el tablero diplomático del sur de Europa. Por eso, cuando Pedro Sánchez intensificó el acercamiento a.
+
+Date: 2026-08-02
+
+### España, arrinconada ante la reunión de la UE por la crisis migratoria en Ceuta
+
+La tibia respuesta de España ante la avalancha de inmigrantes irregulares llegados a Ceuta en los últimos días, entre 50.000 y 60.000, ha instalado un estado de alta...
+
+Date: 2026-08-02
+
+### El CETI de Ceuta, un polvorín a punto de estallar
+
+El Centro de Estancia Temporal de Inmigrantes (CETI) de Ceuta es un polvorín a punto de estallar. Otra vez. Con una capacidad de 512 plazas, aunque ahora mismo acoge a 700 personas, cientos de inmigrantes que esta semana cruzaron a España con la permisividad de Marruecos esperan, cada vez más nerviosos, su turno para p.
+
+Date: 2026-08-02
+
+### Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»
+
+Las llegadas de inmigrantes a playas del Campo de Gibraltar en motos de agua y lanchas rápidas durante las últimas horas han llevado al vicepresidente segundo de la Junta de Andalucía y consejero de Turismo, Justicia, Desregulación y Administración Local, Manuel Gavira , a responsabilizar al Gobierno de Pedro Sánchez y.
+
+Date: 2026-08-02
+
+### El radar de Madrid que más multa está en la M-40 muy cerca de Mercamadrid
+
+Madrid tiene el radar que más multa en España , en la M-40 y muy cerca de Mercamadrid. La realidad es que este tipo de elementos que tienen como misión salvaguardar la seguridad de las personas, puede convertirse en un auténtico dolor de cabeza para los que se encuentran con una multa que quizás no esperaba. Los radare.
+
+Date: 2026-08-02
+
 ## Fuentes
 
-- [Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"](https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com) — 2026-08-02T12:44:24.000Z
-- [¿Se podrá ver el eclipse solar del 12 de agosto en España? La alerta de un climatólogo por la lluvia](https://www.elconfidencial.com/espana/2026-08-02/eclipse-solar-agosto-espana-perseidas-1hms_4399651/?utm_source=lootura.com) — 2026-08-02T07:26:00.000Z
+- [Los planes de Vinicius, a examen de Mourinho](https://www.abc.es/deportes/real-madrid/planes-vinicius-examen-mourinho-20260802172226-nt.html?utm_source=lootura.com) — 2026-08-02T17:42:37.000Z
 - [Detenido un menor en Gipuzkoa considerado el líder de la red extremista '764' de España](https://www.diariovasco.com/gipuzkoa/detenido-gipuzkoa-menor-llider-espana-red-764-20260802102143-nt_amp.html?utm_source=lootura.com) — 2026-08-02T08:22:45.000Z
 - [Aquí combaten la próxima pandemia](https://www.diariovasco.com/gipuzkoa/combaten-proxima-pandemia-20260802080930-nt_amp.html?utm_source=lootura.com) — 2026-08-02T06:09:30.000Z
-- [Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España](https://elpais.com/espana/2026-08-02/los-tres-dias-de-horror-que-acorralaron-a-ceuta.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España](https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [He encontrado el ajuste de Google Maps para que me alerte de TODOS los radares en España](https://hipertextual.com/movilidad/he-encontrado-el-ajuste-de-google-maps-para-que-me-alerte-de-todos-los-radares-en-espana/?utm_source=lootura.com) — 2026-08-02T10:00:00.000Z
-- [Entrada de inmigrantes en Ceuta y Melilla, en directo: última hora de la situación en la frontera de Marruecos con España y medidas del Gobierno hoy](https://okdiario.com/espana/entrada-inmigrantes-ceuta-melilla-directo-ultima-hora-situacion-frontera-marruecos-espana-medidas-del-gobierno-hoy-19112061/amp?utm_source=lootura.com) — 2026-08-02T16:40:52.000Z
+- [Huelga indefinida en Airbus desde el 24 de agosto](https://www.elindependiente.com/economia/2026/08/02/huelga-indefinida-airbus-agosto/?utm_source=lootura.com) — 2026-08-02T14:53:48.000Z
+- [Cuáles son los acuerdos que firmó Sánchez en Argelia antes de la crisis de Ceuta](https://www.elindependiente.com/economia/2026/08/02/acuerdos-firmo-sanchez-argelia-antes-crisis-dceuta/?utm_source=lootura.com) — 2026-08-02T11:28:04.000Z
+- [España, arrinconada ante la reunión de la UE por la crisis migratoria en Ceuta](https://amp.expansion.com/economia/2026/08/02/6a6f9342468aeb6a5a8b459a.html?utm_source=lootura.com) — 2026-08-02T19:07:51.000Z
+- [El CETI de Ceuta, un polvorín a punto de estallar](https://www.lavanguardia.com/politica/20260802/11606354/ceti-ceuta-polvorin-punto-estallar.html?utm_source=lootura.com) — 2026-08-02T18:25:21.000Z
+- [Entrada de inmigrantes en Ceuta y Melilla, en directo: última hora de la situación en la frontera de Marruecos con España y medidas del Gobierno hoy](https://okdiario.com/espana/entrada-inmigrantes-ceuta-melilla-directo-ultima-hora-situacion-frontera-marruecos-espana-medidas-del-gobierno-hoy-19112061/amp?utm_source=lootura.com) — 2026-08-02T20:23:52.000Z
 - [Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»](https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com) — 2026-08-02T16:39:42.000Z
-- [EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes](https://theobjective.com/internacional/2026-08-02/eeuu-nivel-3-advertencia-viaje-ceuta/?utm_source=lootura.com) — 2026-08-02T07:05:20.000Z
+- [Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»](https://okdiario.com/espana/gavira-vox-culpa-sanchez-marruecos-trasladar-crisis-migratoria-ceuta-litoral-andaluz-dejado-indefensa-espana-19113911?utm_source=lootura.com) — 2026-08-02T19:30:04.000Z

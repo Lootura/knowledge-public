@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica](https://www.abc.es/internacional/llamada-telefonica-debia-haber-mesa-dialogo-venezuela-20260802083251-nt.html?utm_source=lootura.com) — 2026-08-02T12:28:44.000Z
+No public source links.

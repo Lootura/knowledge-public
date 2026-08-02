@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El Tesoro de EEUU lleva a cabo una intervención histórica
+
+El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.
+
+Date: 2026-08-02
 
 ### Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años
 
@@ -62,12 +68,6 @@ De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a 
 
 Date: 2026-07-19
 
-### Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei
-
-Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuestionado por Diego Armando Maradona al relevar a Jorge Sampaoli, vivió en Nueva York uno de sus días más tristes al cargo de la albiceleste. Quizás el último. Su futuro queda en el aire tras la derrota en la final. Seguir leyendo...
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años](https://theobjective.com/cultura/2026-08-02/vicente-pastore-actor-los-soprano-fallece-80-anos/?utm_source=lootura.com) — 2026-08-02T11:05:55.000Z
+- [El Tesoro de EEUU lleva a cabo una intervención histórica](https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html?utm_source=lootura.com) — 2026-08-02T19:49:18.000Z

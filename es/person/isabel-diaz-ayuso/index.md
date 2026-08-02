@@ -3,16 +3,10 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
-
-### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
-
-Date: 2026-08-02
 
 ### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
 
@@ -29,6 +23,12 @@ Date: 2026-08-02
 ### Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»
 
 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.
+
+Date: 2026-08-02
+
+### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
 
 Date: 2026-08-02
 
@@ -70,7 +70,6 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"](https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com) — 2026-08-02T12:44:24.000Z
 - [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z
 - [Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte](https://theobjective.com/espana/politica/2026-08-02/ayuso-venta-atico-inmuebles-reconstruir-sierra-norte/?utm_source=lootura.com) — 2026-08-02T13:43:45.000Z
 - [Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»](https://theobjective.com/espana/politica/2026-08-02/ayuso-critica-bomberos-huelga-intoxicado-momentos-dificiles/?utm_source=lootura.com) — 2026-08-02T14:34:34.000Z

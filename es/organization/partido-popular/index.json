@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
+      "summary": "El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
+      "summary": "El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza",
       "summary": "La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.",
@@ -22,11 +37,6 @@
     {
       "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
       "summary": "El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe \"la normalidad de la que habla el Gobierno\" en Ceuta y que \"basta con pisar la calle para comprobarlo\", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. \"Por humanidad,.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
-      "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
       "date": "2026-08-02"
     },
     {
@@ -53,36 +63,26 @@
       "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
       "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
-      "summary": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
-      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
-      "url": "https://www.20minutos.es/ceuta/feijoo-niega-que-exista-normalidad-que-habla-gobierno-ceuta-basta-con-pisar-calle-para-comprobarlo_7021806_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:26:45.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza",
-      "url": "https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T11:11:19.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
     {
       "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
       "url": "https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com",
       "publishedAt": "2026-08-02T16:39:42.000Z",
       "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T19:06:21.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
+      "url": "https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T18:54:19.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 3

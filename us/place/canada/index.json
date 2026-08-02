@@ -8,14 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "Can"
   ],
   "changes": [
     {
       "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "summary": "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
+      "summary": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
       "date": "2026-08-02"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
       "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T08:47:25.000Z",
+      "publishedAt": "2026-08-02T20:32:25.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

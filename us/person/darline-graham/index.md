@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary](https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary?utm_source=lootura.com) — 2026-08-01T22:07:37.000Z
+No public source links.

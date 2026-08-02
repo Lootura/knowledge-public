@@ -8,8 +8,10 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.json",
   "description": "Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
+    "Brennan",
+    "Margaret",
     "Margaret Mary Brennan"
   ],
   "changes": [
@@ -19,13 +21,18 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Transcript: Democratic Sen. Mark Kelly on \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
-      "summary": "The following is the transcript of an interview with Democratic Sen. Mark Kelly of Arizona that aired on \"Face the Nation with Margaret Brennan\" on Aug. 2, 2026.",
+      "title": "Discovered by Atlas",
+      "summary": "Margaret Brennan first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Margaret Brennan first entered the public knowledge record with source-backed evidence.",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Democratic Sen. Mark Kelly and Republican Rep. Mike Turner join Margaret Brennan.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Transcript: Democratic Sen. Mark Kelly on \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "summary": "The following is the transcript of an interview with Democratic Sen. Mark Kelly of Arizona that aired on \"Face the Nation with Margaret Brennan\" on Aug. 2, 2026.",
       "date": "2026-08-02"
     }
   ],
@@ -37,9 +44,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Transcript: Democratic Sen. Mark Kelly on \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
-      "url": "https://www.cbsnews.com/news/sen-mark-kelly-arizona-democrat-face-the-nation-transcript-aug-2-2026/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:51:02.000Z",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-02-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T18:04:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],

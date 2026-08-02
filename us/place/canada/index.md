@@ -3,14 +3,14 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-02T20:52:40.370Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
 ### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
 
-Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
+Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
 
 Date: 2026-08-02
 
@@ -71,4 +71,4 @@ Date: 2026-07-22
 ## Sources
 
 - [Flights canceled as WestJet flight attendants strike over pay dispute](https://www.cbsnews.com/news/canada-westjet-flight-attendants-strike/?utm_source=lootura.com) — 2026-08-02T12:27:28.000Z
-- [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com) — 2026-08-02T08:47:25.000Z
+- [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com) — 2026-08-02T20:32:25.000Z

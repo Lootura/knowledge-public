@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
+      "summary": "The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.",
       "date": "2026-08-02"
     },
     {
-      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
-      "summary": "The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.",
+      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
       "date": "2026-08-02"
     },
     {
@@ -69,7 +69,7 @@
     {
       "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
       "url": "https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:56:07.770Z",
+      "publishedAt": "2026-08-02T20:52:45.683Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -77,13 +77,7 @@
       "url": "https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages?utm_source=lootura.com",
       "publishedAt": "2026-08-02T15:49:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:30:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

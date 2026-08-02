@@ -8,17 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",
-      "summary": "El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.",
+      "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
+      "summary": "El delegado del Gobierno asegura que no supieron del contingente de personas que se dirigía hacia la frontera hasta que lo vieron acceder Leer.",
       "date": "2026-08-02"
     },
     {
-      "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
-      "summary": "El delegado del Gobierno asegura que no supieron del contingente de personas que se dirigía hacia la frontera hasta que lo vieron acceder Leer.",
+      "title": "Marruecos da sus propias cifras de la avalancha y culpa a las \"mafias\" y a \"malentendidos\" con la sentencia del Supremo",
+      "summary": "El Gobierno marroquí reconoce 40.000 entradas de inmigrantes a Ceuta y 11 muertos en su territorio.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
+      "summary": "La morgue provisional instalada en el antiguo hospital militar de Ceuta tras la entrada masiva de inmigrantes del pasado jueves, acondicionada ya para albergar hasta 200 cadáveres, sigue recibiendo los cuerpos de aquellos que perdieron la vida en el paso del espigón fronterizo o bordeándolo a nado. El Gobierno ha eleva.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Rabat achaca la crisis de Ceuta a «mafias, desinformación y malentendidos»",
+      "summary": "Primera respuesta oficial desde Marruecos. El Gobierno del país vecino se refiere a la entrada masiva de inmigrantes en Ceuta el pasado jueves y lo achaca.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",
+      "summary": "El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.",
       "date": "2026-08-02"
     },
     {
@@ -45,21 +60,6 @@
       "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial",
-      "summary": "La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila",
-      "summary": "El Gobierno central ha hecho un llamamiento a la población para protegerse permaneciendo en espacios cerrados y usar mascarilla cuando sea imprescindible salir al exterior allí donde haya humo provocado por los gigantescos incendios que azotan la Sierra Oeste de Madrid y parte de la provincia de Ávila, que han calcinad.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | El Gobierno amplía la emergencia nacional por los incendios a Toledo",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha reconocido desde Navaluenga (Ávila) que este sábado “no ha sido un día positivo” en la lucha contra el fuego debido a las difíciles condiciones meteorológicas, aunque ha subrayado que los incendios “no han ido a más” gracias al trabajo de la UME, los bomberos, las.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -70,23 +70,29 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
+      "title": "Marruecos da sus propias cifras de la avalancha y culpa a las \"mafias\" y a \"malentendidos\" con la sentencia del Supremo",
+      "url": "https://www.eldebate.com/espana/20260802/marruecos-reconoce-40000-entradas-inmigrantes-ceuta-11-muertos-territorio_446198.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T20:33:14.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
       "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
       "url": "https://www.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:18:00.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
-      "url": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T15:16:45.000Z",
+      "title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T19:12:49.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",
-      "url": "https://theobjective.com/espana/2026-08-02/gobierno-eleva-72-inmigrantes-muertos-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T10:27:53.000Z",
+      "title": "Rabat achaca la crisis de Ceuta a «mafias, desinformación y malentendidos»",
+      "url": "https://theobjective.com/internacional/2026-08-02/rabat-crisis-ceuta-mafias-desinformacion-malentendidos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-02T20:25:39.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

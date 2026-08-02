@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-02T20:52:40.370Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -17,12 +17,6 @@ Date: 2026-08-02
 ### What Cyclospora does inside the gut and how it gets there
 
 Cyclospora , the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce. (Image credit: wildpixel).
-
-Date: 2026-08-02
-
-### Trump says he's cancelling Iran strikes, deal pending
-
-Trump said Iran and other Middle Eastern countries had asked the U.S. "to hold off any attack" on Iran because "the perimeters of a deal has been agreed to." (Image credit: Jacquelyn Martin).
 
 Date: 2026-08-02
 
@@ -50,21 +44,27 @@ GOP Rep. Mike Turner of Ohio said critical infrastructure assets "need to be har
 
 Date: 2026-08-02
 
-### Op-ed: The U.S. lead over China in AI is all but gone
+### Fact-checking Trump's claims about how the Iran war is going
 
-AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.
-
-Date: 2026-08-02
-
-### America hits major marijuana milestone as daily weed use surpasses daily drinking
-
-Marijuana is officially leading the pack for the most-used daily drug among Americans. New data from the 2025 National Survey on Drug Use and Health, from the Substance Abuse and Mental Health Services Administration (SAMHSA), reveals that there are 21.4 million daily or near-daily marijuana users in the U.S. This surp.
+Even as a ceasefire was crumbling, leading the U.S. to wage new attacks on Iran, President Donald Trump touted the United States' war as a success.
 
 Date: 2026-08-02
 
-### Iran's war on Americans began decades ago. These families still carry the scars
+### Climate change could dramatically reduce water flowing from the West's headwaters
 
-Nearly two decades before the latest war with Iran, an explosively formed penetrator tore through a U.S. Army vehicle on a Baghdad road, killing Staff Sgt. William Brooks and leaving Sgt. (Ret.) Robert Bartlett with injuries so severe that he says he "died three times." The weapon was part of a broader Iranian campaign.
+The small mountain streams that feed many of the West's rivers may face a much drier future. A new study led by NAU researchers found that groundwater-fed streamflow, known as base flow, has been steadily declining across headwater watersheds in the western United States since 1950 and could decrease by 45% to 65% by t.
+
+Date: 2026-08-02
+
+### Iran Plotted Wider War With Help of Its Proxies
+
+During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.
+
+Date: 2026-08-02
+
+### Trump says he's cancelling Iran strikes, deal pending
+
+Trump said Iran and other Middle Eastern countries had asked the U.S. "to hold off any attack" on Iran because "the perimeters of a deal has been agreed to." (Image credit: Jacquelyn Martin).
 
 Date: 2026-08-02
 
@@ -73,8 +73,9 @@ Date: 2026-08-02
 - [Rep. Turner says infrastructure should be "hardened" as U.S. probes water cyberattack](https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/?utm_source=lootura.com) — 2026-08-02T16:23:10.000Z
 - [Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges](https://www.today.com/video/trump-blasts-jeanine-pirro-s-move-to-drop-reflecting-pool-charges-267642949631?utm_source=lootura.com) — 2026-08-02T12:35:30.000Z
 - [What Cyclospora does inside the gut and how it gets there](https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak?utm_source=lootura.com) — 2026-08-02T09:00:00.000Z
-- [Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia](https://www.npr.org/2026/08/01/nx-s1-5913204/bill-championed-by-late-senator-lindsey-graham-seeks-to-increase-sanctions-on-russia?utm_source=lootura.com) — 2026-08-01T20:54:08.000Z
-- [Trump says he's cancelling Iran strikes, deal pending](https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending?utm_source=lootura.com) — 2026-08-02T07:34:27.000Z
+- [Fact-checking Trump's claims about how the Iran war is going](https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com) — 2026-08-02T17:12:26.000Z
+- [Climate change could dramatically reduce water flowing from the West's headwaters](https://phys.org/news/2026-07-climate-west-headwaters.html?utm_source=lootura.com) — 2026-08-02T18:40:01.000Z
 - [In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath](https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com) — 2026-08-02T00:49:28.000Z
 - [U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme](https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html?utm_source=lootura.com) — 2026-08-02T15:22:14.000Z
 - [Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.](https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html?utm_source=lootura.com) — 2026-08-02T15:10:00.000Z
+- [Iran Plotted Wider War With Help of Its Proxies](https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html?utm_source=lootura.com) — 2026-08-02T18:36:29.000Z

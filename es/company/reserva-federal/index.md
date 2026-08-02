@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Tesoro de EEUU lleva a cabo una intervención histórica
+
+El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.
+
+Date: 2026-08-02
 
 ### Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana
 
@@ -46,4 +52,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana](https://cincodias.elpais.com/mercados-financieros/2026-08-02/las-bolsas-afrontan-el-examen-de-agosto-petroleo-empleo-e-ia-ponen-a-prueba-al-mercado-esta-semana.html?utm_source=lootura.com) — 2026-08-02T09:51:39.000Z
+- [El Tesoro de EEUU lleva a cabo una intervención histórica](https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html?utm_source=lootura.com) — 2026-08-02T19:49:18.000Z

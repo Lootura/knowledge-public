@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
-    "EuropaPress",
     "Agencia Europa Press",
-    "Europapress.es",
-    "Europapress es",
     "Europa Pres",
+    "EuropaPress",
+    "Europapress es",
+    "Europapress.es",
     "europapress.es"
   ],
   "changes": [
@@ -24,13 +24,13 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
-      "summary": "Un hombre de unos aproximadamente 50 años ha sido atropellado este sábado mientras se disponía a cruzar la carretera M-506 , en el kilómetro 7,2 a la altura de Alcorcón , en la Comunidad de Madrid , según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. \"A la llegada de los servicios de emer.",
+      "title": "Discovered by Atlas",
+      "summary": "Europa Press first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Europa Press first entered the public knowledge record with source-backed evidence.",
+      "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
+      "summary": "Un hombre de unos aproximadamente 50 años ha sido atropellado este sábado mientras se disponía a cruzar la carretera M-506 , en el kilómetro 7,2 a la altura de Alcorcón , en la Comunidad de Madrid , según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. \"A la llegada de los servicios de emer.",
       "date": "2026-08-02"
     }
   ],
@@ -40,13 +40,7 @@
       "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T16:41:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-02/atropello-alcorcon-madrid-hospital-1hms-1tna_4399668/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T08:49:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

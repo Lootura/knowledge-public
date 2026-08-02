@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
+
+El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
+
+Date: 2026-08-02
+
+### Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta
+
+El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.
+
+Date: 2026-08-02
+
+### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
+
+El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
+
+Date: 2026-08-02
 
 ### Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza
 
@@ -17,12 +35,6 @@ Date: 2026-08-02
 ### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
 
 El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
-
-Date: 2026-08-02
-
-### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
-
-El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
 
 Date: 2026-08-02
 
@@ -56,20 +68,8 @@ Pese al malestar por el último y turbio episodio de la compra del ático y la p
 
 Date: 2026-08-01
 
-### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
-
-Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.
-
-Date: 2026-08-01
-
-### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"](https://www.20minutos.es/ceuta/feijoo-niega-que-exista-normalidad-que-habla-gobierno-ceuta-basta-con-pisar-calle-para-comprobarlo_7021806_0.html?utm_source=lootura.com) — 2026-08-02T16:26:45.000Z
-- [Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza](https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com) — 2026-08-02T11:11:19.000Z
 - [Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»](https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com) — 2026-08-02T16:39:42.000Z
+- [Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta](https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com) — 2026-08-02T19:06:21.000Z
+- [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z

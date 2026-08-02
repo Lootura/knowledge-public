@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -77,13 +77,7 @@
       "url": "https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com",
       "publishedAt": "2026-08-02T13:09:33.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:14:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

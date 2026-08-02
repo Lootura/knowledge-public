@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T17:06:38.539Z",
+  "generatedAt": "2026-08-02T21:01:38.033Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|50|1785689763104",
+    "signature": "1.18.0|51|1785703960370",
     "version": "1.18.0",
-    "build": 50,
-    "latestEntityUpdatedAt": "2026-08-02T16:56:03.104Z"
+    "build": 51,
+    "latestEntityUpdatedAt": "2026-08-02T20:52:40.370Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-02T16:56:03.104Z",
-      "score": 1711,
-      "sourceCount": 507,
+      "id": "usa-iran",
+      "name": "Iran",
+      "type": "place",
+      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "url": "https://atlas.lootura.com/us/place/iran",
+      "path": "/us/place/iran",
+      "updatedAt": "2026-08-02T20:52:40.370Z",
+      "score": 1705,
+      "sourceCount": 287,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-saudi-arabia",
-        "name": "Saudi Arabia",
-        "type": "place",
-        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
-        "path": "/us/place/saudi-arabia",
-        "updatedAt": "2026-08-02T16:56:03.104Z",
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-02T20:52:40.370Z",
         "score": 1688,
-        "sourceCount": 22,
+        "sourceCount": 509,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +47,22 @@
         "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-02T16:56:03.104Z",
-        "score": 1687,
-        "sourceCount": 514,
+        "updatedAt": "2026-08-02T20:52:40.370Z",
+        "score": 1664,
+        "sourceCount": 516,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-saudi-arabia",
+        "name": "Saudi Arabia",
+        "type": "place",
+        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+        "path": "/us/place/saudi-arabia",
+        "updatedAt": "2026-08-02T20:52:40.370Z",
+        "score": 1652,
+        "sourceCount": 22,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
         "url": "https://atlas.lootura.com/us/person/todd-blanche",
         "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-02T16:56:03.104Z",
-        "score": 1667,
+        "updatedAt": "2026-08-02T20:52:40.370Z",
+        "score": 1643,
         "sourceCount": 35,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Oil companies see soaring profits amid Iran war",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-02T16:56:03.104Z",
-        "score": 1663,
-        "sourceCount": 285,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 94
+    "publicEntityCount": 93
   }
 }

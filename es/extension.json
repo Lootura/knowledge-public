@@ -1,43 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T17:06:41.764Z",
+  "generatedAt": "2026-08-02T21:01:41.192Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|50|1785689744633",
+    "signature": "1.18.0|51|1785703939929",
     "version": "1.18.0",
-    "build": 50,
-    "latestEntityUpdatedAt": "2026-08-02T16:55:44.633Z"
+    "build": 51,
+    "latestEntityUpdatedAt": "2026-08-02T20:52:19.929Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: \"Es una invasión\", \"es un acto de guerra\"... \"¿por qué Sánchez da las gracias?\"",
+      "title": "Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-02T16:55:44.633Z",
-      "score": 11754,
-      "sourceCount": 273,
-      "isBreaking": true,
-      "isPinned": false,
-      "badgeLabel": "Breaking"
+      "updatedAt": "2026-08-02T20:52:19.929Z",
+      "score": 1716,
+      "sourceCount": 264,
+      "isBreaking": false,
+      "isPinned": false
     },
     "cards": [
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Detenido en Guipúzcoa un menor como referente en España de la 'red 764'",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-08-02T20:52:19.929Z",
+        "score": 1680,
+        "sourceCount": 683,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
+        "title": "Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: \"Es una invasión\", \"es un acto de guerra\"... \"¿por qué Sánchez da las gracias?\"",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-08-02T16:55:44.633Z",
-        "score": 1676,
-        "sourceCount": 520,
+        "updatedAt": "2026-08-02T20:52:19.929Z",
+        "score": 1677,
+        "sourceCount": 523,
         "isBreaking": false,
         "isPinned": false
       },
@@ -45,42 +57,29 @@
         "id": "es-isabel-diaz-ayuso",
         "name": "Isabel Díaz Ayuso",
         "type": "person",
-        "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
+        "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
         "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
         "path": "/es/person/isabel-diaz-ayuso",
-        "updatedAt": "2026-08-02T16:55:44.633Z",
-        "score": 1666,
+        "updatedAt": "2026-08-02T20:52:19.929Z",
+        "score": 1654,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-santiago-abascal",
-        "name": "Santiago Abascal",
-        "type": "organization",
-        "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
-        "url": "https://atlas.lootura.com/es/organization/santiago-abascal",
-        "path": "/es/organization/santiago-abascal",
-        "updatedAt": "2026-08-02T16:55:44.633Z",
-        "score": 1665,
-        "sourceCount": 7,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-oriente-proximo",
-        "name": "Oriente Próximo",
+        "id": "es-iran",
+        "name": "Irán",
         "type": "place",
         "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-        "url": "https://atlas.lootura.com/es/place/oriente-proximo",
-        "path": "/es/place/oriente-proximo",
-        "updatedAt": "2026-08-02T16:55:44.633Z",
-        "score": 1656,
-        "sourceCount": 23,
+        "url": "https://atlas.lootura.com/es/place/iran",
+        "path": "/es/place/iran",
+        "updatedAt": "2026-08-02T20:52:19.929Z",
+        "score": 1653,
+        "sourceCount": 126,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 136
+    "publicEntityCount": 134
   }
 }

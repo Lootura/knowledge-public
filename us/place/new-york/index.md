@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-02T20:52:40.370Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Investigating the death of designer Sylvie Cachay
 
 Sylvie Cachay was found dead in an overflowing bathtub at the exclusive Soho House in New York City on Dec. 9, 2010. A water leak at the hotel gave away a timeline that may have revealed her killer.
+
+Date: 2026-08-02
+
+### Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently
+
+New York University researchers have pinpointed the molecular players responsible for plants "feeling full" once they've taken up enough nitrogen—a finding that could help scientists develop plants that absorb more nitrogen from the soil and allow farmers to reduce environmentally and economically costly fertilizer app.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ In a video message, the mayor of New York City said he could not legally arrest 
 
 Date: 2026-07-22
 
-### Mamdani says NYC can't arrest Netanyahu but the federal government should
-
-New York Mayor Zohran Mamdani said late Tuesday that the city would not be able to execute an arrest warrant issued by the world's top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so.
-
-Date: 2026-07-22
-
 ## Sources
 
 - [Investigating the death of designer Sylvie Cachay](https://www.cbsnews.com/pictures/timeline-investigating-the-death-of-designer-sylvie-cachay/?utm_source=lootura.com) — 2026-08-02T01:05:00.000Z
+- [Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently](https://phys.org/news/2026-07-newly-unearthed-mechanism-full-crops.html?utm_source=lootura.com) — 2026-08-02T20:00:01.000Z

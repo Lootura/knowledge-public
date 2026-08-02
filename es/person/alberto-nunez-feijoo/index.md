@@ -3,20 +3,26 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
 
-### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
-
-El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
-
-Date: 2026-08-02
-
 ### Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península
 
 Mientras decenas de miles de personas abandonan Ceuta para regresar a Marruecos tras el fracaso de la entrada masiva, otros aún deambulan por las calles.
+
+Date: 2026-08-02
+
+### Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta
+
+El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.
+
+Date: 2026-08-02
+
+### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
+
+El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado C
 
 Date: 2026-08-01
 
-### Feijóo afirma que lo ocurrido es una "ocupación premeditada" y culpa al Gobierno: "Lo sabían y no actuaron"
-
-El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado Ceuta , apenas unas horas después del momento álgido de la crisis migratoria protagonizada por decenas de miles de inmigrantes, y ha acusado al Gobierno de inacción ante un suceso que califica de premeditado y que evidencia las carencias de la pol.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"](https://www.20minutos.es/ceuta/feijoo-niega-que-exista-normalidad-que-habla-gobierno-ceuta-basta-con-pisar-calle-para-comprobarlo_7021806_0.html?utm_source=lootura.com) — 2026-08-02T16:26:45.000Z
+- [Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta](https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com) — 2026-08-02T19:06:21.000Z
 - [Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península](https://theobjective.com/espana/politica/2026-08-02/feijoo-critica-situacion-calles-ceuta-mientras-mafias-fletan-lanchas-peninsula/?amp=&utm_source=lootura.com) — 2026-08-02T16:30:13.000Z

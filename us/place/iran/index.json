@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,18 +17,8 @@
   ],
   "changes": [
     {
-      "title": "Oil companies see soaring profits amid Iran war",
-      "summary": "As the threat of escalation in the war with Iran drives gas prices higher and hurts economies worldwide, one sector is doing really well, the revenue for Big Oil. Ali Bauman explains.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Trump says deal to end Iran war may be imminent, agrees to \"cancel the attack\"",
       "summary": "On Saturday, Saudi Crown Prince Mohammed bin Salman spoke with Mr. Trump and cautioned him against conducting a fresh round of strikes on Iran, CBS News learned.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
       "date": "2026-08-02"
     },
     {
@@ -42,11 +32,6 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. The US president paused the st.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
       "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
       "date": "2026-08-02"
@@ -57,13 +42,28 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Iran's war on Americans began decades ago. These families still carry the scars",
-      "summary": "Nearly two decades before the latest war with Iran, an explosively formed penetrator tore through a U.S. Army vehicle on a Baghdad road, killing Staff Sgt. William Brooks and leaving Sgt. (Ret.) Robert Bartlett with injuries so severe that he says he \"died three times.\" The weapon was part of a broader Iranian campaign.",
+      "title": "Fact-checking Trump's claims about how the Iran war is going",
+      "summary": "Even as a ceasefire was crumbling, leading the U.S. to wage new attacks on Iran, President Donald Trump touted the United States' war as a success.",
       "date": "2026-08-02"
     },
     {
-      "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
-      "summary": "President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.",
+      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. The US president paused the st.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Iran Plotted Wider War With Help of Its Proxies",
+      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Oil companies see soaring profits amid Iran war",
+      "summary": "As the threat of escalation in the war with Iran drives gas prices higher and hurts economies worldwide, one sector is doing really well, the revenue for Big Oil. Ali Bauman explains.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\" (Image credit: Jacquelyn Martin).",
       "date": "2026-08-02"
     }
   ],
@@ -81,12 +81,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil companies see soaring profits amid Iran war",
-      "url": "https://www.cbsnews.com/video/oil-companies-see-soaring-profits-amid-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T00:54:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Trump Calls for Pause on Military Strikes Against Iran",
       "url": "https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:32:59.000Z",
@@ -99,29 +93,29 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:34:27.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Fact-checking Trump's claims about how the Iran war is going",
+      "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T17:12:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
       "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:06:37.000Z",
+      "publishedAt": "2026-08-02T20:16:50.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:14:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
       "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T15:27:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Iran Plotted Wider War With Help of Its Proxies",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T18:36:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 8
 }

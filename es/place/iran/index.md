@@ -3,22 +3,10 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
-
-### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
-
-El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
-
-Date: 2026-08-02
-
-### Trump anuncia la suspensión de un ataque contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
-
-Date: 2026-08-02
 
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
@@ -29,6 +17,24 @@ Date: 2026-08-02
 ### Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz
 
 Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.
+
+Date: 2026-08-02
+
+### La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo
+
+Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer.
+
+Date: 2026-08-02
+
+### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
+
+El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
+
+Date: 2026-08-02
+
+### Trump anuncia la suspensión de un ataque contra Irán
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
 
 Date: 2026-08-02
 
@@ -62,15 +68,8 @@ La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido un
 
 Date: 2026-07-25
 
-### EEUU ataca otro buque mercante que intentaba sortear el bloqueo a los puertos iraníes
-
-Las embajadas estadounidenses en Oriente Medio advierten a los ciudadanos estadounidenses en la región de que las opciones para salir podrían verse limitadas, mientras que la Guardia Revolucionaria de Irán aconseja a los residentes de países vecinos mantenerse alejados de las bases que albergan tropas estadounidenses E.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-02T18:29:10.000Z
 - [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
 - [Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz](https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com) — 2026-08-02T15:23:51.000Z
-- [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

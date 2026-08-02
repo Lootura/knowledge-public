@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "Gianni",
     "Infantino"
@@ -35,6 +35,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El sueldo de Infantino y el dinero que aspiraba a ganar con los derechos del Mundial",
+      "url": "https://www.larazon.es/deportes/laotraliga/sueldo-infantino-dinero-que-aspiraba-ganar-derechos-mundial_202608026a6fa757a5690f047360c305.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T20:23:51.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

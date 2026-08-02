@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
+      "summary": "El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana",
       "summary": "Después de un julio de sobresaltos, que se despidió con los inversores tratando de descifrar las verdaderas intenciones de la Reserva Federal, los mercados se adentran en agosto, un mes en el que la escasa negociación y un flujo informativo más liviano suelen allanar el terreno para que la volatilidad campe a sus ancha.",
@@ -51,10 +56,10 @@
   ],
   "sources": [
     {
-      "title": "Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-02/las-bolsas-afrontan-el-examen-de-agosto-petroleo-empleo-e-ia-ponen-a-prueba-al-mercado-esta-semana.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:51:39.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
+      "url": "https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T19:49:18.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

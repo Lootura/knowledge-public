@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/vincent-pastore/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/vincent-pastore/index.json",
   "description": "Follow Vincent Pastore, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-02T20:52:40.370Z",
   "aliases": [
     "Pastore",
     "Vincent",
     "Vinny Pastore"
   ],
   "changes": [
-    {
-      "title": "Vincent Pastore, mob enforcer on ‘The Sopranos,’ dies at 80",
-      "summary": "Vincent Pastore, who played Tony Soprano’s best friend turned informant on HBO’s mob drama “The Sopranos,” has died, a representative confirmed Saturday.",
-      "date": "2026-08-01"
-    },
     {
       "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
       "summary": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including \"Goodfellas\" and \"Awakenings,\" both in 1990. (Image credit: Julio Cortez).",
@@ -29,15 +24,14 @@
       "title": "Discovered by Atlas",
       "summary": "Vincent Pastore first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "Vincent Pastore, mob enforcer on ‘The Sopranos,’ dies at 80",
+      "summary": "Vincent Pastore, who played Tony Soprano’s best friend turned informant on HBO’s mob drama “The Sopranos,” has died, a representative confirmed Saturday.",
+      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "Vincent Pastore, mob enforcer on ‘The Sopranos,’ dies at 80",
-      "url": "https://www.nbcnews.com/news/obituaries/vincent-pastore-sopranos-dies-80-rcna590414?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T21:32:59.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
     {
       "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit?utm_source=lootura.com",
@@ -45,5 +39,5 @@
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa](https://www.larazon.es/castilla-la-mancha/localidad-castillala-mancha-donde-guarda-curiosa-reliquia-vinculada-santa-teresa-b30m_202608026a6f3b7ea046ad6ebc96fb3b.html?utm_source=lootura.com) — 2026-08-02T12:43:42.000Z
+No public source links.

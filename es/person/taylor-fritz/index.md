@@ -3,7 +3,7 @@
 > Sigue la actividad de Taylor Fritz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/person/taylor-fritz
 
 ## Cambios recientes
@@ -14,19 +14,25 @@ Rafa Jódar se ha metido este sábado en la final del ATP 500 de Washington tras
 
 Date: 2026-08-02
 
-### A qué hora juegan Rafa Jódar – Fritz: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026
-
-Rafa Jódar disputa este domingo la final del Abierto de Washington contra el americano Taylor Fritz. El tenista español busca levantar el segundo título profesional de su carrera en un torneo que ya le ha asegurado ser el número 15 del mundo, pase lo que pase en la gran final. La última víctima de Rafa Jódar en este to.
-
-Date: 2026-08-02
-
 ### Discovered by Atlas
 
 Taylor Fritz first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-02
 
+### A qué hora juegan Rafa Jódar – Fritz hoy: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026
+
+Rafa Jódar disputa este domingo la final del Abierto de Washington contra el americano Taylor Fritz. El tenista español busca levantar el segundo título profesional de su carrera en un torneo que ya le ha asegurado ser el número 15 del mundo, pase lo que pase en la gran final. La última víctima de Rafa Jódar en este to.
+
+Date: 2026-08-02
+
+### A qué hora juegan Rafa Jódar – Fritz: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026
+
+Rafa Jódar disputa este domingo la final del Abierto de Washington contra el americano Taylor Fritz. El tenista español busca levantar el segundo título profesional de su carrera en un torneo que ya le ha asegurado ser el número 15 del mundo, pase lo que pase en la gran final. La última víctima de Rafa Jódar en este to.
+
+Date: 2026-08-02
+
 ## Fuentes
 
 - [Jódar vence a Tabilo y jugará la final del ATP 500 de Washington ante Fritz](https://www.abc.es/deportes/tenis/jodar-vence-tabilo-jugara-final-atp-500-20260802081037-nt.html?utm_source=lootura.com) — 2026-08-02T14:48:01.000Z
-- [A qué hora juegan Rafa Jódar – Fritz: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026](https://okdiario.com/deportes/rafa-jodar-fritz-horario-como-ver-tv-directo-gratis-final-del-atp-500-washington-2026-19112760?utm_source=lootura.com) — 2026-08-02T15:23:47.000Z
+- [A qué hora juegan Rafa Jódar – Fritz hoy: horario y dónde ver por TV en directo gratis la final del ATP 500 de Washington 2026](https://okdiario.com/deportes/rafa-jodar-fritz-horario-como-ver-tv-directo-gratis-final-del-atp-500-washington-2026-19112760?utm_source=lootura.com) — 2026-08-02T19:50:47.000Z

@@ -58,5 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez](https://www.20minutos.es/ceuta/santiago-abascal-pide-militarizar-permanentemente-frontera-ceuta-invasion-culpa-marruecos-sanchez_7021774_0.html?utm_source=lootura.com) — 2026-08-02T12:59:31.000Z
-- [Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»](https://okdiario.com/espana/abascal-desde-ceuta-sanchez-esta-sometido-marruecos-porque-tienen-pruebas-corrupciones-que-aun-desconocemos-19113195?utm_source=lootura.com) — 2026-08-02T11:50:45.000Z
+No public source links.

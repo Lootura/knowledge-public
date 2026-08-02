@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia](https://www.npr.org/2026/08/01/nx-s1-5913204/bill-championed-by-late-senator-lindsey-graham-seeks-to-increase-sanctions-on-russia?utm_source=lootura.com) — 2026-08-01T20:54:08.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T20:52:19.929Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [El sueldo de Infantino y el dinero que aspiraba a ganar con los derechos del Mundial](https://www.larazon.es/deportes/laotraliga/sueldo-infantino-dinero-que-aspiraba-ganar-derechos-mundial_202608026a6fa757a5690f047360c305.html?utm_source=lootura.com) — 2026-08-02T20:23:51.000Z

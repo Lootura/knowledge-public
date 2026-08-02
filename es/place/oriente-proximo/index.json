@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -17,13 +17,13 @@
   ],
   "changes": [
     {
-      "title": "Trump anuncia la suspensión de un ataque contra Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
+      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
+      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
       "date": "2026-08-02"
     },
     {
-      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
+      "title": "Trump anuncia la suspensión de un ataque contra Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
       "date": "2026-08-02"
     },
     {
@@ -73,13 +73,7 @@
       "url": "https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T16:26:41.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump anuncia la suspensión de un ataque contra Irán",
-      "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:31:29.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,16 @@
   ],
   "changes": [
     {
+      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
+      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
+      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
       "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
       "date": "2026-08-02"
@@ -37,16 +47,6 @@
     {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
       "date": "2026-08-02"
     },
     {
@@ -77,18 +77,6 @@
   ],
   "sources": [
     {
-      "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
-      "url": "https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
-      "url": "https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:09:10.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "url": "https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T16:26:41.000Z",
@@ -99,13 +87,7 @@
       "url": "https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T15:23:51.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Trump anuncia la suspensión de un ataque contra Irán",
-      "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T07:31:29.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

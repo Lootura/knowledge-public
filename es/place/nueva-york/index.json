@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-02T20:52:19.929Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
+      "summary": "El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años",
       "summary": "El actor estadounidense Vincent Pastore , recordado popularmente por su papel de Salvatore ‘Big Pussy’ Bonpensiero en la aclamada serie ‘Los Soprano’ , ha sido hallado sin vida este sábado en su residencia del barrio del Bronx, en Nueva York. Ha sido un vecino quien ha encontrado el cuerpo en su vivienda tras varios dí.",
@@ -85,19 +90,14 @@
       "title": "El gol de Ferran vale una carrera y cambia vidas",
       "summary": "De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei",
-      "summary": "Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuestionado por Diego Armando Maradona al relevar a Jorge Sampaoli, vivió en Nueva York uno de sus días más tristes al cargo de la albiceleste. Quizás el último. Su futuro queda en el aire tras la derrota en la final. Seguir leyendo...",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años",
-      "url": "https://theobjective.com/cultura/2026-08-02/vicente-pastore-actor-los-soprano-fallece-80-anos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T11:05:55.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
+      "url": "https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T19:49:18.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

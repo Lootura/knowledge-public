@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-02T20:52:40.370Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### AI use mirrors student schedules in study of 77,000 online learners
 
 How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis," the research team led by Prof. Dr.-.
+
+Date: 2026-08-02
+
+### Fender’s CEO seems to think your bandmates are just analog AI
+
+Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently , pouring more fuel on an.
 
 Date: 2026-08-02
 
@@ -62,13 +68,8 @@ Date: 2026-08-01
 
 Date: 2026-08-01
 
-### Google pauses AI satellite images, after fears of deepfakes in the sky
-
-Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one. (Image credit: Generated and annotated by NPR).
-
-Date: 2026-07-31
-
 ## Sources
 
-- [Full Interview: Hugging Face Co-Founder and CEO Clem Delangue](https://www.cbsnews.com/video/full-interview-hugging-face-co-founder-and-ceo-clem-delangue/?utm_source=lootura.com) — 2026-08-02T16:19:03.000Z
+- [Hugging Face CEO calls hack by rogue OpenAI model "very weird and unprecedented"](https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/?utm_source=lootura.com) — 2026-08-02T19:08:12.000Z
 - [AI use mirrors student schedules in study of 77,000 online learners](https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html?utm_source=lootura.com) — 2026-08-02T14:20:01.000Z
+- [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music?utm_source=lootura.com) — 2026-08-02T19:36:08.000Z
