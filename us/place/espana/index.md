@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -22,7 +22,7 @@ Date: 2026-08-02
 
 ### Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta
 
-Spain’s leading far-right politician arrived in the territory on Sunday, fueling political tensions there after thousands of migrants entered the exclave last week.
+Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.
 
 Date: 2026-08-02
 
@@ -70,6 +70,6 @@ Date: 2026-07-25
 
 ## Sources
 
-- [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T08:49:09.000Z
-- [Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T12:49:54.000Z
+- [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T16:29:12.000Z
+- [Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T13:50:27.000Z
 - [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:02.000Z

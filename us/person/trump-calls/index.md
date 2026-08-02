@@ -3,7 +3,7 @@
 > Follow Trump Calls, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/person/trump-calls
 
 ## Recent changes

@@ -1,0 +1,47 @@
+{
+  "id": "usa-margaret-brennan",
+  "name": "Margaret Brennan",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/margaret-brennan",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/margaret-brennan",
+  "markdownUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.json",
+  "description": "Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "aliases": [
+    "Margaret Mary Brennan"
+  ],
+  "changes": [
+    {
+      "title": "Joe and Heather Manchin on their push to elect more independents",
+      "summary": "On \"Face the Nation with Margaret Brennan,\" former Sen. Joe Manchin and his daugher, Heather, discussed their initiative to help more independents get elected to office. They also addressed whether they could ever support a self-described socialist candidate.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Transcript: Democratic Sen. Mark Kelly on \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "summary": "The following is the transcript of an interview with Democratic Sen. Mark Kelly of Arizona that aired on \"Face the Nation with Margaret Brennan\" on Aug. 2, 2026.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Margaret Brennan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Joe and Heather Manchin on their push to elect more independents",
+      "url": "https://www.cbsnews.com/video/joe-and-heather-manchin-on-their-push-to-elect-more-independents/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:06:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Transcript: Democratic Sen. Mark Kelly on \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "url": "https://www.cbsnews.com/news/sen-mark-kelly-arizona-democrat-face-the-nation-transcript-aug-2-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:51:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

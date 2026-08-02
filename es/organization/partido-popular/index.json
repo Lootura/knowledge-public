@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza",
+      "summary": "La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
+      "summary": "El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe \"la normalidad de la que habla el Gobierno\" en Ceuta y que \"basta con pisar la calle para comprobarlo\", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. \"Por humanidad,.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
+      "date": "2026-08-02"
+    },
     {
       "title": "El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025",
       "summary": "El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.",
@@ -22,11 +37,6 @@
     {
       "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
       "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza",
-      "summary": "La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.",
       "date": "2026-08-02"
     },
     {
@@ -53,19 +63,15 @@
       "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
       "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
-      "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
-      "summary": "El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
+      "url": "https://www.20minutos.es/ceuta/feijoo-niega-que-exista-normalidad-que-habla-gobierno-ceuta-basta-con-pisar-calle-para-comprobarlo_7021806_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:26:45.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza",
       "url": "https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com",
@@ -73,16 +79,10 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025",
-      "url": "https://www.larazon.es/espana/supera-807000-afiliados-feijoo-sumo-casi-3000-nuevos-carnets-2025_202608026a6f0e3671b42a0b5dd4eae5.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:30:30.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "url": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:33:32.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "url": "https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:39:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 3

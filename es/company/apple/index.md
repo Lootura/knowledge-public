@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos
+
+Si tú también eres un gran fan de las series de abogados , hoy vengo a recomendarte una que probablemente ya hayas visto o esté en tu lista de pendientes, así que si aún no la has empezado, deberías ponerla en lo más alto de tu listado de series para ver cuanto antes . Se trata de una miniserie de Apple TV que ha conse.
+
+Date: 2026-08-02
 
 ### Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple
 
@@ -62,12 +68,6 @@ Apple está preparando uno de los cambios más importantes en la forma de vender
 
 Date: 2026-07-21
 
-### Samsung lanza su primera tarjeta de crédito para competir con la Apple Card
-
-A unas horas de la presentación de sus nuevos plegables, Samsung anunció su primera tarjeta de crédito . Conocida como Samsung Galaxy Card , su principal atractivo son las recompensas en efectivo escalonadas según dónde y cómo gastes tu dinero. Al igual que ocurre con la Apple Card, los usuarios pueden obtener cashback.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos](https://www.larazon.es/tecnologia-consumo/series/este-thriller-abogados-jake-gyllenhaal-te-atrapara-primer-instante-esta-streaming-solo-tiene-8-capitulos_202608026a69e6a7a5690f047357bf07.html?utm_source=lootura.com) — 2026-08-02T16:01:00.000Z

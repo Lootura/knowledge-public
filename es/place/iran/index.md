@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-02
 ### Trump anuncia la suspensión de un ataque contra Irán
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
+
+### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
+
+Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
+
+Date: 2026-08-02
+
+### Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz
+
+Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.
 
 Date: 2026-08-02
 
@@ -56,20 +68,9 @@ Las embajadas estadounidenses en Oriente Medio advierten a los ciudadanos estado
 
 Date: 2026-07-25
 
-### La ofensiva de Trump contra Irán desencadena una escalada regional más allá del golfo Pérsico
-
-Mientras Estados Unidos incrementa el número y la potencia de los ataques contra Irán, la República Islámica busca expandir el conflicto a toda la región para ejercer más presión sobre Washington y la economía global El Congreso de EEUU aprueba 1,15 billones para defensa y 95.000 millones más para la guerra en Irán mie.
-
-Date: 2026-07-24
-
-### El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'
-
-El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un "ataque masivo" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán](https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com) — 2026-08-02T10:47:48.000Z
 - [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
+- [Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz](https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com) — 2026-08-02T15:23:51.000Z
 - [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

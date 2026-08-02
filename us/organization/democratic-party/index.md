@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-02
 ### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
 
 We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.
+
+Date: 2026-08-02
+
+### Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?
+
+Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.
 
 Date: 2026-08-02
 
@@ -62,14 +68,8 @@ Democrats are demanding that the Kentucky Republican resign. Others who were sid
 
 Date: 2026-07-31
 
-### What Worries Democrats as the Midterms Heat Up
-
-There’s a lot going right for the Democrats. Here’s what could go wrong.
-
-Date: 2026-07-31
-
 ## Sources
 
 - [Trump Battles GOP Holdouts Amid Democrats’ Factional Fight](https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com) — 2026-08-02T13:09:33.000Z
 - [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z
-- [Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller](https://www.pbs.org/newshour/politics/democrats-see-a-chance-to-flip-a-seat-as-focus-on-abuse-claims-mounts-against-ohio-rep-max-miller?utm_source=lootura.com) — 2026-08-01T20:14:55.000Z
+- [Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?](https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com) — 2026-08-02T14:03:03.000Z

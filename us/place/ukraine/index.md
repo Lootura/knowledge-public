@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia](https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia?utm_source=lootura.com) — 2026-08-02T05:00:12.000Z
-- [Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More](https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html?utm_source=lootura.com) — 2026-08-01T20:13:38.000Z
+No public source links.

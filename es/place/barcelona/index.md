@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-02
 ### Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo
 
 El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.
+
+Date: 2026-08-02
+
+### El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»
+
+Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital de Bellvitge y dedicado de forma exclusiva al cáncer de próstata desde hace cinco años en el Instituto Valenciano de Oncología, ha creado un canal de divulgación -Prostalia- que le llena especialmente como profesional: las entrevistas a sus.
+
+Date: 2026-08-02
+
+### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
+
+Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
 
 Date: 2026-08-02
 
@@ -56,19 +68,9 @@ El Barcelona no escapa al éxodo de calidad que vive el fútbol femenino españo
 
 Date: 2026-07-25
 
-### Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas
-
-Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.
-
-Date: 2026-07-25
-
-### Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas
-
-Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Las llamas han comenzado sobre las 16.20 horas de este sábado, cuando varios vecinos han alertado al teléfono de Emergencias 112 tras divisar el fuego que afecta a vegetación. En un primer momento, hasta.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [Cervantes y un caluroso verano de 1610 en las playas de Barcelona](https://www.abc.es/cultura/cervantes-bajo-fuego-cruzado-barcelona-1610-20260706143539-nt_amp.html?utm_source=lootura.com) — 2026-08-02T12:35:39.000Z
+- [El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»](https://www.abc.es/espana/comunidad-valenciana/urologo-difunde-entrevistas-pacientes-cancer-psa-salvo-20260802164147-nt.html?utm_source=lootura.com) — 2026-08-02T14:41:47.000Z
+- [Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona](https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com) — 2026-08-02T16:41:00.000Z
 - [Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo](https://okdiario.com/deportes/imprevisto-ultima-hora-pretemporada-del-barcelona-inglaterra-volveran-antes-tiempo-19113336/amp?utm_source=lootura.com) — 2026-08-02T13:10:43.000Z

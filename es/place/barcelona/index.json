@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -29,6 +29,16 @@
     {
       "title": "Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo",
       "summary": "El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»",
+      "summary": "Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital de Bellvitge y dedicado de forma exclusiva al cáncer de próstata desde hace cinco años en el Instituto Valenciano de Oncología, ha creado un canal de divulgación -Prostalia- que le llena especialmente como profesional: las entrevistas a sus.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
+      "summary": "Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.",
       "date": "2026-08-02"
     },
     {
@@ -60,16 +70,6 @@
       "title": "El Barcelona no puede retener a sus estrellas: la salida de Alexia, Salma, Mapi y Ona desmantelan la sección",
       "summary": "El Barcelona no escapa al éxodo de calidad que vive el fútbol femenino español. España vive su mejor momento en cuanto a calidad y potencial de sus futbolistas, como demuestra que sean campeonas del mundo en categoría absoluta y sub-19. Sin embargo, las jugadoras apenas tienen posibilidad de crecer en los clubes de nue.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Hallazgo histórico: las obras de un mercado en Barcelona sacan a la luz un refugio antiaéreo de la Guerra Civil con capacidad para 240 personas",
-      "summary": "Unas obras destinadas a renovar la pavimentación de la calle de Torrijos, en el entorno del Mercado de la Abacería, han permitido sacar a la luz uno de los hallazgos arqueológicos más relevantes de los últimos meses en Barcelona. La intervención ha dejado al descubierto un refugio antiaéreo de la Guerra Civil , concebi.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas",
-      "summary": "Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Las llamas han comenzado sobre las 16.20 horas de este sábado, cuando varios vecinos han alertado al teléfono de Emergencias 112 tras divisar el fuego que afecta a vegetación. En un primer momento, hasta.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -80,11 +80,23 @@
       "sourceId": "lootura-es-abc"
     },
     {
+      "title": "El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/urologo-difunde-entrevistas-pacientes-cancer-psa-salvo-20260802164147-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T14:41:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:41:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo",
       "url": "https://okdiario.com/deportes/imprevisto-ultima-hora-pretemporada-del-barcelona-inglaterra-volveran-antes-tiempo-19113336/amp?utm_source=lootura.com",
       "publishedAt": "2026-08-02T13:10:43.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

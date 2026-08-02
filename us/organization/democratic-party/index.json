@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [
     "Democrats"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
       "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
+      "summary": "Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.",
       "date": "2026-08-02"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Why Mitch McConnell Isn’t Giving Up His Senate Seat",
       "summary": "Democrats are demanding that the Kentucky Republican resign. Others who were sidelined for far longer faced no such calls, but times are changing.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "What Worries Democrats as the Midterms Heat Up",
-      "summary": "There’s a lot going right for the Democrats. Here’s what could go wrong.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
@@ -78,10 +78,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
-      "url": "https://www.pbs.org/newshour/politics/democrats-see-a-chance-to-flip-a-seat-as-focus-on-abuse-claims-mounts-against-ohio-rep-max-miller?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:14:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
+      "url": "https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T14:03:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 3

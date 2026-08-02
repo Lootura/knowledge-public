@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza
+
+La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.
+
+Date: 2026-08-02
+
+### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
+
+El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
+
+Date: 2026-08-02
+
+### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
+
+El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
+
+Date: 2026-08-02
 
 ### El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025
 
@@ -17,12 +35,6 @@ Date: 2026-08-02
 ### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
 
 Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
-
-Date: 2026-08-02
-
-### Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza
-
-La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.
 
 Date: 2026-08-02
 
@@ -56,20 +68,8 @@ El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado
 
 Date: 2026-08-01
 
-### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
-
-El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
-
-Date: 2026-08-01
-
-### Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»
-
-El líder del PP asegura que la ocupación fue «premeditada» y que la respuesta por parte del Ejecutivo ha sido «ridícula».
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"](https://www.20minutos.es/ceuta/feijoo-niega-que-exista-normalidad-que-habla-gobierno-ceuta-basta-con-pisar-calle-para-comprobarlo_7021806_0.html?utm_source=lootura.com) — 2026-08-02T16:26:45.000Z
 - [Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza](https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com) — 2026-08-02T11:11:19.000Z
-- [El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025](https://www.larazon.es/espana/supera-807000-afiliados-feijoo-sumo-casi-3000-nuevos-carnets-2025_202608026a6f0e3671b42a0b5dd4eae5.html?utm_source=lootura.com) — 2026-08-02T09:30:30.000Z
-- [El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”](https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com) — 2026-08-02T09:33:32.000Z
+- [Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»](https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com) — 2026-08-02T16:39:42.000Z

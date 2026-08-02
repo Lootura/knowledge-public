@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -20,13 +20,13 @@
   ],
   "changes": [
     {
-      "title": "Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos",
-      "summary": "EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».",
+      "title": "El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica",
+      "summary": "El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Dinorah Figuera, presidenta de la Asamblea Nacional de 2015 , publicó un comunicado a las diez y media de la noche (cuatro y media de la madrugada, hora peninsular española). El contenido: ella y Jorge Rodríguez habían sostenido una conversaci.",
       "date": "2026-08-02"
     },
     {
-      "title": "El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica",
-      "summary": "El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Dinorah Figuera, presidenta de la Asamblea Nacional de 2015 , publicó un comunicado a las diez y media de la noche (cuatro y media de la madrugada, hora peninsular española). El contenido: ella y Jorge Rodríguez habían sostenido una conversaci.",
+      "title": "Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos",
+      "summary": "EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».",
       "date": "2026-08-02"
     },
     {
@@ -76,13 +76,7 @@
       "url": "https://www.abc.es/internacional/llamada-telefonica-debia-haber-mesa-dialogo-venezuela-20260802083251-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:28:44.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos",
-      "url": "https://theobjective.com/internacional/2026-08-02/venezuela-dialogo-politico-oposicion-terremotos/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-02T06:27:49.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

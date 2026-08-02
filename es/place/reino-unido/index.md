@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo](https://www.larazon.es/animales-mascotas/gata-britanica-31-anos-busca-entrar-guinness-como-mas-longeva-mundo-b50m_202608026a6f0e4ca5690f04735fbfb0.html?utm_source=lootura.com) — 2026-08-02T09:30:52.000Z
+No public source links.

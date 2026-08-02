@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -40,6 +40,16 @@
       "date": "2026-08-02"
     },
     {
+      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
+      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
+      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
       "date": "2026-08-02"
@@ -63,25 +73,9 @@
       "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
       "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
-      "summary": "El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
-      "summary": "La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
-      "url": "https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T10:47:48.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
       "url": "https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html?utm_source=lootura.com",
@@ -95,11 +89,23 @@
       "sourceId": "lootura-es-expansion"
     },
     {
+      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
+      "url": "https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:26:41.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
+      "url": "https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T15:23:51.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
       "title": "Trump anuncia la suspensión de un ataque contra Irán",
       "url": "https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T07:31:29.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

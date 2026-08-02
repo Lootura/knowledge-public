@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Trump anuncia la suspensión de un ataque contra Irán
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
+
+### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
+
+Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ El precio del barril de petróleo Brent, de referencia en Europa, supera la barr
 
 Date: 2026-07-23
 
-### Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares
-
-Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán](https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com) — 2026-08-02T10:47:48.000Z
+- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
 - [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

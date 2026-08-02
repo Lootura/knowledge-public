@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### La OPEP+ elevará de nuevo la producción de petróleo en septiembre
+
+La alianza OPEP+, liderada por Arabia Saudí y Rusia, ha decidido este domingo mantener, por sexto mes consecutivo, su estrategia de elevar la oferta de petróleo, por lo que pondrá desde septiembre próximo 188.000 barriles más en el mercado, un aumento limitado por la actual dificultad de mover el crudo debido a la guer.
+
+Date: 2026-08-02
 
 ### Los hutíes atacan a la mayor empresa petrolera de Arabia Saudí
 
@@ -62,12 +68,6 @@ El pacto podría suponer grandes beneficios para las empresas estadounidenses, p
 
 Date: 2026-07-22
 
-### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
-
-En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [La OPEP+ elevará de nuevo la producción de petróleo en septiembre](https://www.larazon.es/economia/opep-elevara-nuevo-produccion-petroleo-septiembre_202608026a6f6acca046ad6ebc97480f.html?utm_source=lootura.com) — 2026-08-02T16:05:48.000Z

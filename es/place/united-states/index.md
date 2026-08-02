@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### ¿De verdad son los estadounidenses más ricos que los europeos?
-
-¿Es más rico, rico del todo, un estadounidense o un europeo? ¿Está Europa empobreciéndose tanto como hemos oído últimamente? Si torturas bien una estadística, acabará confesando lo que quieras. El debate sobre la brecha de productividad y riqueza que separa a Estados Unidos y Europa ha quedado salpicado en cierta medid.
-
-Date: 2026-08-02
 
 ### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
 
@@ -29,6 +23,24 @@ Date: 2026-08-02
 ### Trump anuncia la suspensión de un ataque contra Irán
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
+
+Date: 2026-08-02
+
+### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
+
+Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
+
+Date: 2026-08-02
+
+### Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz
+
+Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.
+
+Date: 2026-08-02
+
+### ¿De verdad son los estadounidenses más ricos que los europeos?
+
+¿Es más rico, rico del todo, un estadounidense o un europeo? ¿Está Europa empobreciéndose tanto como hemos oído últimamente? Si torturas bien una estadística, acabará confesando lo que quieras. El debate sobre la brecha de productividad y riqueza que separa a Estados Unidos y Europa ha quedado salpicado en cierta medid.
 
 Date: 2026-08-02
 
@@ -56,22 +68,10 @@ Laudelina Romero lleva una silla de plástico, un termo con café frío y una fo
 
 Date: 2026-08-01
 
-### Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país
-
-La Administración de Donald Trump ha pasado de la amenaza a los hechos. Estados Unidos ha comenzado a aplicar este viernes aranceles a los medicamentos patentados y a los principios activos importados al amparo de la Sección 232 de la Ley de Expansión Comercial, una herramienta reservada a sectores considerados estraté.
-
-Date: 2026-08-01
-
-### Así es la vida de Marián Aguilera: de ‘Los Hombres de Paco’ a Estados Unidos
-
-La industria televisiva nos ha presentado, a lo largo de los años, a numerosos talentos interpretativos que han marcado al público de una manera o de otra. Si hablamos de rostros que fueron muy populares en la pequeña pantalla, pero que han desaparecido del foco mediático, nombres como el de Marián Aguilera no pueden f.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán](https://www.abc.es/internacional/trump-afirma-eeuu-israel-suspenderan-ataques-iran-20260802083844-nt.html?utm_source=lootura.com) — 2026-08-02T10:47:48.000Z
-- [¿De verdad son los estadounidenses más ricos que los europeos?](https://elpais.com/economia/2026-08-02/de-verdad-son-los-estadounidenses-mas-ricos-en-mayusculas-que-los-europeos.html?utm_source=lootura.com) — 2026-08-02T03:45:00.000Z
 - [Trump asegura haber alcanzado "las bases de un acuerdo con Irán"](https://amp.expansion.com/economia/2026/08/02/6a6f0676468aeb7c758b4581.html?utm_source=lootura.com) — 2026-08-02T09:09:10.000Z
+- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
+- [Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz](https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com) — 2026-08-02T15:23:51.000Z
 - [EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes](https://theobjective.com/internacional/2026-08-02/eeuu-nivel-3-advertencia-viaje-ceuta/?utm_source=lootura.com) — 2026-08-02T07:05:20.000Z
 - [Trump anuncia la suspensión de un ataque contra Irán](https://theobjective.com/internacional/2026-08-02/trump-anuncia-suspension-ataque-iran/?utm_source=lootura.com) — 2026-08-02T07:31:29.000Z

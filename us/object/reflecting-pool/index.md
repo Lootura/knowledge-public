@@ -3,10 +3,16 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga
+
+President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.
+
+Date: 2026-08-01
 
 ### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
 
@@ -17,12 +23,6 @@ Date: 2026-08-01
 ### Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals
 
 Pirro's office, in a court filing on Friday, moved to drop criminal charges against a former Olympian, David Hearn, who had been accused of deliberately damaging the pool after it went through a renovation.
-
-Date: 2026-08-01
-
-### Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga
-
-President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.
 
 Date: 2026-08-01
 
@@ -52,6 +52,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-01T17:27:00.000Z
-- [Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals](https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com) — 2026-08-01T18:34:10.000Z
 - [Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga](https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com) — 2026-08-01T22:49:51.000Z

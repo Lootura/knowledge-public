@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -23,6 +23,16 @@
     {
       "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha defendido este domingo que el ático de Chamberí que adquirió el Gobierno regional «está en venta» y servirá para «reforzar la reconstrucción» de la Sierra Norte tras el incendio . «Está en venta este inmueble y también hemos puesto otros cuatro que están e.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.",
       "date": "2026-08-02"
     },
     {
@@ -54,16 +64,6 @@
       "title": "Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»",
       "summary": "La presidenta del Gobierno de la Comunidad de Madrid , Isabel Díaz Ayuso , ha evitado de forma explícita hacer comentarios sobre la gestión y las críticas que se han vertido sobre su Gobierno desde el Gobierno de Pedro Sánchez . La presidenta madrileña ha reiterado que sus prioridades son: «salvar vidas, seguir evacuan.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Más de 30 grados, menos del 30% de humedad y viento superior a 30 km/h: el combo del peor incendio de la historia de Madrid",
-      "summary": "Una combinación de fenómenos meteorológicos es uno de los factores que está propiciando el crecimiento del incendio que asola la Comunidad de Madrid. El peor de la historia madrileña, según su presidenta, Isabel Díaz Ayuso. Seguir leyendo...",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
-      "summary": "La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -78,7 +78,19 @@
       "url": "https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:31:35.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte",
+      "url": "https://theobjective.com/espana/politica/2026-08-02/ayuso-venta-atico-inmuebles-reconstruir-sierra-norte/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T13:43:45.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»",
+      "url": "https://theobjective.com/espana/politica/2026-08-02/ayuso-critica-bomberos-huelga-intoxicado-momentos-dificiles/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T14:34:34.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

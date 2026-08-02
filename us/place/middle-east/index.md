@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-23
 ## Sources
 
 - [Trump Calls for Pause on Military Strikes Against Iran](https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com) — 2026-08-02T12:32:59.000Z
-- [Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings](https://www.pbs.org/newshour/world/trump-threatens-more-strikes-on-iran-tensions-from-hormuz-to-kuwait-and-gaza-lead-to-more-warnings?utm_source=lootura.com) — 2026-08-01T18:23:08.000Z

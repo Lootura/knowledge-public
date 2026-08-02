@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,11 @@
     {
       "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
       "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
+      "summary": "The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.",
       "date": "2026-08-02"
     },
     {
@@ -58,19 +63,20 @@
       "title": "Funding milestone detected",
       "summary": "Climate change, land-use change and socioeconomic pressures are turning wildfires from a primarily ecological process into a complex, systemic risk that cuts across ecosystems, infrastructure, public health, water resources, cultural heritage and rural livelihoods. Despite substantial investments in firefighting capaci.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "What to Know About the Wildfires Raging in Western Europe",
-      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
-      "url": "https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:58:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "url": "https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:56:07.770Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
+      "url": "https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T15:49:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",

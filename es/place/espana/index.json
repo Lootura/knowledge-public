@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -32,18 +32,8 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Ceuta y el ataque de la derecha a España",
-      "summary": "'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y recibir cada domingo en tu buzón, hazte socio, hazte socia de elDiario.es ¿Cuántas invasiones han durado 24 horas a lo largo d.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Detenido un menor en Gipuzkoa considerado el líder de la red extremista '764' de España",
       "summary": "Se le atribuye el envío de numerosas amenazas dirigidas contra centros educativos, organismos públicos y privados y diversas personas entre enero y abril de 2026.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Madring dispara su impacto: 467 millones de euros y 8.850 puestos de trabajo",
-      "summary": "Madring ha disparado su impacto económico. El GP de España en la capital supondrá 467 millones de euros y 8.850 puestos de trabajo.",
       "date": "2026-08-02"
     },
     {
@@ -62,8 +52,18 @@
       "date": "2026-08-02"
     },
     {
-      "title": "\"Quédate en España, no vuelvas\": el mensaje de una joven marroquí a su amiga que ha pasado a Ceuta",
-      "summary": "\"Quédate ahí, no vuelvas aquí\". Lina llora cuando le pide a Leila que siga en Ceuta , que no regrese a Marruecos . El sueño compartido de ambas se ha truncado en apenas dos días. Uno de sus amigos ha muerto en el mar, varios están heridos y quienes han cruzado a España se han topado con una realidad que no esperaban. L.",
+      "title": "¿Se podrá ver el eclipse solar del 12 de agosto en España? La alerta de un climatólogo por la lluvia",
+      "summary": "El climatólogo de Meteored España, Samuel Biener, ha señalado que la evolución de las precipitaciones \"sigue siendo incierta\" el próximo 12 de agosto, día del eclipse solar total que cruzará España, mientras que los mapas apuntan a que esa semana estará marcada por temperaturas de 1 a 3 grados por encima de la media pa.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "He encontrado el ajuste de Google Maps para que me alerte de TODOS los radares en España",
+      "summary": "No falla: confías en Google Maps para saber por dónde tienes que ir y el GPS no es capaz de alertarte de los radares que hay en tu ruta . La app sí que los marca con un pequeño icono en la pantalla, pero por defecto no te avisa como hace Waze con una ventana emergente y una alerta sonora. Es necesario ir constantemente.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Entrada de inmigrantes en Ceuta y Melilla, en directo: última hora de la situación en la frontera de Marruecos con España y medidas del Gobierno hoy",
+      "summary": "Sigue en directo la última hora sobre la crisis migratoria en Ceuta por la llegada masiva de inmigrantes a la frontera con Marruecos.",
       "date": "2026-08-02"
     }
   ],
@@ -73,18 +73,6 @@
       "url": "https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:44:24.000Z",
       "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "\"Quédate en España, no vuelvas\": el mensaje de una joven marroquí a su amiga que ha pasado a Ceuta",
-      "url": "https://www.20minutos.es/ceuta/quedate-espana-no-vuelvas-mensaje-una-joven-marroqui-su-amiga-que-ha-conseguido-pasar-ceuta_7021754_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T11:00:48.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Pepe Rodríguez: «Es un error que se monten restaurantes pensando en las estrellas Michelin. Eso no te salva en España»",
-      "url": "https://www.abc.es/recreo/pepe-rodriguez-error-monten-restaurantes-pensando-estrellas-20260802120000-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T10:04:53.000Z",
-      "sourceId": "lootura-es-abc"
     },
     {
       "title": "¿Se podrá ver el eclipse solar del 12 de agosto en España? La alerta de un climatólogo por la lluvia",
@@ -117,17 +105,29 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Ceuta y el ataque de la derecha a España",
-      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/ceuta-ataque-derecha-espana_132_13422483.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T06:17:33.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "He encontrado el ajuste de Google Maps para que me alerte de TODOS los radares en España",
       "url": "https://hipertextual.com/movilidad/he-encontrado-el-ajuste-de-google-maps-para-que-me-alerte-de-todos-los-radares-en-espana/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T10:00:00.000Z",
       "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Entrada de inmigrantes en Ceuta y Melilla, en directo: última hora de la situación en la frontera de Marruecos con España y medidas del Gobierno hoy",
+      "url": "https://okdiario.com/espana/entrada-inmigrantes-ceuta-melilla-directo-ultima-hora-situacion-frontera-marruecos-espana-medidas-del-gobierno-hoy-19112061/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:40:52.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "url": "https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:39:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes",
+      "url": "https://theobjective.com/internacional/2026-08-02/eeuu-nivel-3-advertencia-viaje-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T07:05:20.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 11
 }

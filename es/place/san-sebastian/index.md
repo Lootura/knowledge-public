@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
+
+Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.
+
+Date: 2026-08-02
 
 ### Evenepoel firma un póker legendario en la Clásica San Sebastián
 
@@ -62,12 +68,6 @@ El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grande
 
 Date: 2026-07-23
 
-### La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»
-
-Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Evenepoel firma un póker legendario en la Clásica San Sebastián](https://www.diariovasco.com/clasica-san-sebastian/evenepoel-firma-poker-legendario-clasica-san-sebastian-20260801171919-nt_amp.html?utm_source=lootura.com) — 2026-08-01T15:19:19.000Z
+- [El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián](https://www.larazon.es/pais-vasco/castillo-vasco-que-parece-sacado-cuento-torre-satrustegi-seis-generaciones-patrimonio-riesgo-san-sebastian-b30m_202608026a6f6992a5690f0473605b1a.html?utm_source=lootura.com) — 2026-08-02T16:00:18.000Z

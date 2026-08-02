@@ -34,4 +34,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [All 10 climbers swept away in avalanche in Pakistan are confirmed dead](https://www.pbs.org/newshour/world/all-10-climbers-swept-away-in-avalanche-in-pakistan-are-confirmed-dead?utm_source=lootura.com) — 2026-08-01T18:03:11.000Z
+No public source links.

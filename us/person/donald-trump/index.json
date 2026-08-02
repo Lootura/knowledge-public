@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -40,11 +40,6 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Trump demand puts vulnerable Republicans in impossible spot ahead of midterms",
-      "summary": "Republicans are sounding the alarm that President Donald Trump’s demand to cancel August recess could cost the GOP seats in the midterms. As the upcoming jailbreak from Washington, D.C., fast approaches, Trump’s most-prized legislative push remains stalled. He wants Republicans to stay put until it’s finished, but the.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
       "summary": "President Donald Trump is criticizing his handpicked choice for U.S. attorney in D.C., Jeanine Pirro, for dropping charges against the former Olympian accused of vandalizing the reflecting pool. Meanwhile, the president said he will continue to push for an “anti-weaponization fund” if the senate does not confirm Todd B.",
       "date": "2026-08-02"
@@ -61,7 +56,7 @@
     },
     {
       "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. Continue reading...",
+      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. The US president paused the st.",
       "date": "2026-08-02"
     },
     {
@@ -70,12 +65,23 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
-      "summary": "President claims delay is ‘subject to being able to rapidly make a deal’ as intervention by Saudi crown prince is revealed and Iran warns neighbours Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the.",
+      "title": "Trump admin. touts its transparency. Yet few Iran war details have been shared.",
+      "summary": "The Trump administration is offering the public less information about the Iran war and its direction, even as the costs continue to mount.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Forever chemicals and pesticides under Trump: what to know",
+      "summary": "Since returning to power, President Donald Trump's administration has approved five pesticides considered by many to be PFAS \"forever chemicals,\" a class of toxic substances facing bans and increasing restrictions around the world.",
       "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "Trump admin. touts its transparency. Yet few Iran war details have been shared.",
+      "url": "https://www.cbsnews.com/news/trump-administration-iran-war-details-transparency/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:15:39.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump says deal to end Iran war may be imminent, agrees to \"cancel the attack\"",
       "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/?utm_source=lootura.com",
@@ -83,21 +89,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump demand puts vulnerable Republicans in impossible spot ahead of midterms",
-      "url": "https://www.foxnews.com/politics/trump-demand-puts-vulnerable-republicans-impossible-spot-ahead-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T12:00:39.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Questions grow about Gaza’s future after Trump announces deal to disarm Hamas",
       "url": "https://www.nbcnews.com/nightly-news/video/questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas-267631173776?utm_source=lootura.com",
       "publishedAt": "2026-08-01T22:51:38.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says",
-      "url": "https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T20:37:54.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -131,11 +125,17 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
-      "url": "https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:34:10.000Z",
+      "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-01T22:07:37.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Forever chemicals and pesticides under Trump: what to know",
+      "url": "https://phys.org/news/2026-07-chemicals-pesticides.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T14:00:03.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 15
 }

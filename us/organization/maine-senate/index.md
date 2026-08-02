@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’
+
+In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.
+
+Date: 2026-08-02
 
 ### Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race
 
@@ -62,12 +68,6 @@ Troy Jackson, a progressive, solidified his clear edge in the contest to replace
 
 Date: 2026-07-20
 
-### Troy Jackson has effectively secured the Maine Senate Democratic nomination
-
-SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.
-
-Date: 2026-07-19
-
 ## Sources
 
-No public source links.
+- [Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’](https://www.nbcnews.com/meet-the-press/video/bernie-sanders-on-if-he-regrets-platner-endorsement-easier-to-be-a-monday-morning-quarterback-267645509727?utm_source=lootura.com) — 2026-08-02T13:58:22.000Z

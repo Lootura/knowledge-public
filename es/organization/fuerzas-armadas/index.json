@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T09:56:12.868Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev",
       "summary": "Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas cuatro niños , en un ataque lanzado durante la madrugada de este sábado por las Fuerzas Armadas de Rusia sobre Kiev , la capital ucraniana.«Lamentablemente, nueve vecinos de Kiev han fallecido» , ha informado el gobierno regional, en un me.",
@@ -55,6 +60,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "url": "https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:39:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

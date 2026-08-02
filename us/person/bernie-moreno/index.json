@@ -1,0 +1,43 @@
+{
+  "id": "usa-bernie-moreno",
+  "name": "Bernie Moreno",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/bernie-moreno",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/bernie-moreno",
+  "markdownUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.json",
+  "description": "Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "aliases": [
+    "Bernardo Moreno",
+    "Bernardo \"Bernie\" Moreno"
+  ],
+  "changes": [
+    {
+      "title": "Republican Sen. Bernie Moreno Says Max Miller is Unfit to Hold Office",
+      "summary": "Shortly after Congressman Max Miller (R-Ohio) went live on X to defend himself against recent reporting by Mother Jones documenting allegations of domestic violence against his ex-wife, Sen. Bernie Moreno (R-Ohio) posted his first in-depth public comment on the matter, saying Miller is unfit to hold office. “As he has.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Bernie Moreno first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sen Bernie Moreno calls for ex-son-in-law to resign from House, get 'serious psychological help'",
+      "url": "https://www.foxnews.com/politics/sen-bernie-moreno-calls-ex-son-in-law-resign-house-serious-psychological-help?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:46:51.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Republican Sen. Bernie Moreno Says Max Miller is Unfit to Hold Office",
+      "url": "https://www.motherjones.com/politics/2026/08/republican-sen-bernie-moreno-says-max-miller-is-unfit-to-hold-office/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:23:03.000Z",
+      "sourceId": "lootura-us-mother-jones"
+    }
+  ],
+  "evidenceCount": 2
+}

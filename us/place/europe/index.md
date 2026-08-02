@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
 
 Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
+
+Date: 2026-08-02
+
+### 2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages
+
+The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.
 
 Date: 2026-08-02
 
@@ -62,13 +68,8 @@ Climate change, land-use change and socioeconomic pressures are turning wildfire
 
 Date: 2026-07-31
 
-### What to Know About the Wildfires Raging in Western Europe
-
-Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Wildfire danger in Europe shifts to Greece as evacuation orders remain in France](https://www.cbsnews.com/news/greece-wildfires-europe-evacuation-orders-france/?utm_source=lootura.com) — 2026-08-01T18:58:23.000Z
+- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-02T16:56:07.770Z
+- [2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages](https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages?utm_source=lootura.com) — 2026-08-02T15:49:26.000Z
 - [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html?utm_source=lootura.com) — 2026-08-02T07:30:02.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego](https://www.larazon.es/andalucia/malaga/usar-biomasa-forestal-climatizar-edificios-escudo-preventivo-fuego_202608026a6f0ff9a046ad6ebc96ae3c.html?outputType=amp&utm_source=lootura.com) — 2026-08-02T09:38:01.000Z
+No public source links.

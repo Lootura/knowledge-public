@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Full Interview: Hugging Face Co-Founder and CEO Clem Delangue](https://www.cbsnews.com/video/full-interview-hugging-face-co-founder-and-ceo-clem-delangue/?utm_source=lootura.com) — 2026-08-02T16:19:03.000Z

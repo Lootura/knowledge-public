@@ -28,4 +28,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Vicente Vallés, sobre la vida de sus padres en Vallecas: «Vivían en una infravivienda; su día a día era de gran dureza, trabajando de sol a sol»](https://theobjective.com/gente/2026-08-02/vicente-valles-padres-vallecas-infravivienda-trabajando/?amp=&utm_source=lootura.com) — 2026-08-02T05:30:00.000Z
+No public source links.

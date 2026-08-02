@@ -3,7 +3,7 @@
 > Sigue la actividad de Miguel Ángel Pérez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-angel-perez
 
 ## Cambios recientes
@@ -28,5 +28,5 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Última hora de la entrada de inmigrantes a Ceuta, en directo | Las autoridades ceutíes cifran en 88 los fallecidos que están en la morgue](https://elpais.com/espana/2026-08-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html?utm_source=lootura.com) — 2026-08-02T11:52:17.000Z
+- [Última hora de la entrada de inmigrantes a Ceuta, en directo | Las autoridades ceutíes cifran en 88 los fallecidos que están en la morgue](https://elpais.com/espana/2026-08-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html?utm_source=lootura.com) — 2026-08-02T15:59:48.000Z
 - [El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta](https://theobjective.com/espana/2026-08-02/gobierno-eleva-72-inmigrantes-muertos-ceuta/?utm_source=lootura.com) — 2026-08-02T10:27:53.000Z

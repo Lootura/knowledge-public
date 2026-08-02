@@ -32,19 +32,6 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [
-    {
-      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
-      "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T17:27:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
-      "url": "https://www.pbs.org/newshour/politics/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T18:34:10.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

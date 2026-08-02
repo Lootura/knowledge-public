@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’
+
+In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.
+
+Date: 2026-08-02
 
 ### Maine Democrats pick Troy Jackson to replace Platner on Senate ballot
 
@@ -62,12 +68,6 @@ Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner
 
 Date: 2026-07-20
 
-### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
-
-The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’](https://www.nbcnews.com/meet-the-press/video/bernie-sanders-on-if-he-regrets-platner-endorsement-easier-to-be-a-monday-morning-quarterback-267645509727?utm_source=lootura.com) — 2026-08-02T13:58:22.000Z

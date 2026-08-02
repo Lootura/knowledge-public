@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,11 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "AI use mirrors student schedules in study of 77,000 online learners",
+      "summary": "How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study \"Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis,\" the research team led by Prof. Dr.-.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Op-ed: The U.S. lead over China in AI is all but gone",
       "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
@@ -71,26 +76,21 @@
       "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
       "summary": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one. (Image credit: Generated and annotated by NPR).",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Op-ed: The U.S. lead over China in AI is all but gone",
-      "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T12:30:01.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "Full Interview: Hugging Face Co-Founder and CEO Clem Delangue",
+      "url": "https://www.cbsnews.com/video/full-interview-hugging-face-co-founder-and-ceo-clem-delangue/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:19:03.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "There May Be 170 Million Black Holes Lurking in The Milky Way's Graveyard",
-      "url": "https://www.sciencealert.com/there-may-be-170-million-black-holes-lurking-in-the-milky-ways-graveyard?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T13:00:00.000Z",
-      "sourceId": "lootura-us-sciencealert"
+      "title": "AI use mirrors student schedules in study of 77,000 online learners",
+      "url": "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T14:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

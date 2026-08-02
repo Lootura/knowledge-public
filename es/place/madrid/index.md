@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
 
 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
-
-Date: 2026-08-02
-
-### El refugio gallego donde veranea Javier Gutiérrez: el paraíso del surf y un enclave militar muy importante
-
-Nacido en Asturias, Javier Gutiérrez (1971) se tuvo que mudar a Madrid cuando alcanzó la mayoría de edad para comenzar su carrera en el mundo de la interpretación. Más tarde recogió sus frutos con dos premios Goya en los años 2015 y 2018.En los últimos tiempos, el actor ya ha manifestado estar desencantado con la vida.
 
 Date: 2026-08-02
 
@@ -56,25 +50,33 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este 
 
 Date: 2026-08-02
 
-### Metro de Madrid corta la L7 entre Gregorio Marañón y Pitis desde este domingo
+### 50 años de la muerte de Cecilia, el gran misterio del pop español
 
-Cambios de calado en la movilidad en la Comunidad de Madrid. Metro de Madrid amplía este fin de semana las alteraciones de servicio por las obras previstas durante el verano con la interrupción a partir del domingo de la Línea 7 entre Gregorio Marañón y Pitis, después de que el sábado cerrara la estación de Moncloa de.
+El 2 de agosto de 1976, Cecilia y su banda viajaban en un Seat 124 hacia Madrid después de dar un concierto en Vigo cuando, a la altura de Colina de Transmonte, el vehículo se estrelló brutalmente contra un carro agrícola. La cantante murió en el acto, igual que uno de sus músicos, Carlos Manuel de la Iglesia, poniéndo.
 
 Date: 2026-08-02
 
-### Uno de los mejores planes para un agosto en Madrid: la hipnótica cripta de la Almudena
+### Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte
 
-Más de 1.500 personas reposan en este espacio de la catedral madrileña que conserva también la imagen románica de la Virgen de la Flor de Lis.
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha defendido este domingo que el ático de Chamberí que adquirió el Gobierno regional «está en venta» y servirá para «reforzar la reconstrucción» de la Sierra Norte tras el incendio . «Está en venta este inmueble y también hemos puesto otros cuatro que están e.
+
+Date: 2026-08-02
+
+### Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.
 
 Date: 2026-08-02
 
 ## Fuentes
 
 - [Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"](https://www.20minutos.es/madrid/ayuso-dice-ocurrido-ceuta-prueba-marruecos-siguiente-podemos-permitir-invadan_7021772_0.html?utm_source=lootura.com) — 2026-08-02T12:44:24.000Z
-- [El refugio gallego donde veranea Javier Gutiérrez: el paraíso del surf y un enclave militar muy importante](https://www.abc.es/gente/refugio-galicia-veranea-javier-gutierrez-paraiso-surf-enclave-militar-20260802230045-nt.html?utm_source=lootura.com) — 2026-08-02T10:30:00.000Z
+- [50 años de la muerte de Cecilia, el gran misterio del pop español](https://www.abc.es/cultura/musica/anos-muerte-cecilia-20260802112340-nt.html?utm_source=lootura.com) — 2026-08-02T12:39:59.000Z
 - [Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-08-02/atropello-alcorcon-madrid-hospital-1hms-1tna_4399668/?utm_source=lootura.com) — 2026-08-02T08:49:00.000Z
-- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T12:20:21.000Z
+- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T16:03:19.000Z
 - [Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza](https://www.eldiario.es/politica/imagenes-interior-atico-comprado-gobierno-ayuso-cinco-habitaciones-terraza_1_13423635.html?utm_source=lootura.com) — 2026-08-02T11:11:19.000Z
 - [Madridoku: un juego que convierte el metro de Madrid en un pasatiempo diario muy entretenido](http://www.microsiervos.com/archivo/juegos-y-diversion/madridoku-madrid-metro-pasatiempo.html?utm_source=lootura.com) — 2026-08-02T10:58:18.000Z
 - [La afición del Rayo Vallecano estalla contra la decisión de jugar en Burgos como plan b](https://okdiario.com/deportes/aficion-del-rayo-vallecano-estalla-contra-decision-jugar-burgos-como-plan-b-19113303?utm_source=lootura.com) — 2026-08-02T13:05:08.000Z
 - [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z
+- [Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte](https://theobjective.com/espana/politica/2026-08-02/ayuso-venta-atico-inmuebles-reconstruir-sierra-norte/?utm_source=lootura.com) — 2026-08-02T13:43:45.000Z
+- [Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»](https://theobjective.com/espana/politica/2026-08-02/ayuso-critica-bomberos-huelga-intoxicado-momentos-dificiles/?utm_source=lootura.com) — 2026-08-02T14:34:34.000Z

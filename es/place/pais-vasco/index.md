@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
+
+Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.
+
+Date: 2026-08-02
 
 ### El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»
 
@@ -62,12 +68,6 @@ La reunión, destinada a abordar el balance del proceso de regularización extra
 
 Date: 2026-07-23
 
-### Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano
-
-El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián](https://www.larazon.es/pais-vasco/castillo-vasco-que-parece-sacado-cuento-torre-satrustegi-seis-generaciones-patrimonio-riesgo-san-sebastian-b30m_202608026a6f6992a5690f0473605b1a.html?utm_source=lootura.com) — 2026-08-02T16:00:18.000Z

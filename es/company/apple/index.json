@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T16:56:38.429Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos",
+      "summary": "Si tú también eres un gran fan de las series de abogados , hoy vengo a recomendarte una que probablemente ya hayas visto o esté en tu lista de pendientes, así que si aún no la has empezado, deberías ponerla en lo más alto de tu listado de series para ver cuanto antes . Se trata de una miniserie de Apple TV que ha conse.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple",
       "summary": "iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta Siri con IA, pero algunas son especialmente útiles y dignas de mención, como esta de la que casi nadie se ha dado cuenta . Se trata de una característica que muchos llevan pidiendo y que te va a ahorrar muchísimo tiempo. Además, te va a permit.",
@@ -58,13 +63,15 @@
       "title": "Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa",
       "summary": "Apple está preparando uno de los cambios más importantes en la forma de vender el iPhone y otros dispositivos. La compañía anunciará Apple Upgrade, un programa de arrendamiento que promete pagos más accesibles frente a los planes de financiamiento actuales. El programa se lanzaría a finales de este mes y ayudaría a sor.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Samsung lanza su primera tarjeta de crédito para competir con la Apple Card",
-      "summary": "A unas horas de la presentación de sus nuevos plegables, Samsung anunció su primera tarjeta de crédito . Conocida como Samsung Galaxy Card , su principal atractivo son las recompensas en efectivo escalonadas según dónde y cómo gastes tu dinero. Al igual que ocurre con la Apple Card, los usuarios pueden obtener cashback.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos",
+      "url": "https://www.larazon.es/tecnologia-consumo/series/este-thriller-abogados-jake-gyllenhaal-te-atrapara-primer-instante-esta-streaming-solo-tiene-8-capitulos_202608026a69e6a7a5690f047357bf07.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:01:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante](https://www.larazon.es/comunidad-valenciana/alicante/terremoto-murcia-41-grados-sentido-tambien-alicante_202608026a6f3ecea046ad6ebc97014c.html?outputType=amp&utm_source=lootura.com) — 2026-08-02T12:57:50.000Z
+No public source links.

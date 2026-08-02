@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos](https://www.elconfidencial.com/espana/2026-08-02/detenido-en-laredo-por-agresion-sexual-a-una-mujer-1tna_4399653/?utm_source=lootura.com) — 2026-08-02T06:50:00.000Z
 - [Mohamed VI y sus proyectiles humanos](https://elpais.com/opinion/2026-08-02/mohamed-vi-y-sus-proyectiles-humanos.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
-- [El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”](https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com) — 2026-08-02T09:33:32.000Z

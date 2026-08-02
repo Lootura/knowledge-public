@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI use mirrors student schedules in study of 77,000 online learners
+
+How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis," the research team led by Prof. Dr.-.
+
+Date: 2026-08-02
 
 ### Op-ed: The U.S. lead over China in AI is all but gone
 
@@ -62,13 +68,7 @@ Journalists, human rights advocates and open source analysts recoiled in horror 
 
 Date: 2026-07-31
 
-### Funding milestone detected
-
-Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Op-ed: The U.S. lead over China in AI is all but gone](https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html?utm_source=lootura.com) — 2026-08-02T12:30:01.000Z
-- [There May Be 170 Million Black Holes Lurking in The Milky Way's Graveyard](https://www.sciencealert.com/there-may-be-170-million-black-holes-lurking-in-the-milky-ways-graveyard?utm_source=lootura.com) — 2026-08-02T13:00:00.000Z
+- [Full Interview: Hugging Face Co-Founder and CEO Clem Delangue](https://www.cbsnews.com/video/full-interview-hugging-face-co-founder-and-ceo-clem-delangue/?utm_source=lootura.com) — 2026-08-02T16:19:03.000Z
+- [AI use mirrors student schedules in study of 77,000 online learners](https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html?utm_source=lootura.com) — 2026-08-02T14:20:01.000Z

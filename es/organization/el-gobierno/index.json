@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",
+      "summary": "El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
+      "summary": "El delegado del Gobierno asegura que no supieron del contingente de personas que se dirigía hacia la frontera hasta que lo vieron acceder Leer.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
+      "summary": "El Gobierno de Marruecos sigue guardando silencio sobre la irrupción de decenas de miles de jóvenes migrantes irregulares en Ceuta tres días después del estallido del mayor conflicto bilateral desde la crisis del islote Perejil en 2002. Ni la jefatura del Gobierno de Rabat, ni el Ministerio de Exteriores, ni el Departa.",
+      "date": "2026-08-02"
+    },
     {
       "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
       "summary": "El Ejecutivo no supo del aluvión de personas que el jueves entró a Ceuta irregularmente hasta que lo vio cruzar la frontera. Así lo ha asegurado este domingo el delegado del...",
@@ -19,11 +34,6 @@
     {
       "title": "Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal",
       "summary": "El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",
-      "summary": "El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.",
       "date": "2026-08-02"
     },
     {
@@ -37,18 +47,8 @@
       "date": "2026-08-01"
     },
     {
-      "title": "El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'",
-      "summary": "La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas Leer.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial",
       "summary": "La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
-      "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
       "date": "2026-08-01"
     },
     {
@@ -71,15 +71,15 @@
     },
     {
       "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
-      "url": "https://amp.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T10:17:12.000Z",
+      "url": "https://www.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T12:18:00.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal",
-      "url": "https://www.lavanguardia.com/politica/20260802/11606225/ascienden-72-cadaveres-recuperados-mar-ceuta-intentos-entrar-espigon-tarajal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:33:01.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
+      "url": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T15:16:45.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta",

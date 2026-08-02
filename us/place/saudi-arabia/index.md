@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T12:29:07.000Z
+- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T15:27:49.000Z

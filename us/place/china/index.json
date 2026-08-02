@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -22,7 +22,7 @@
   "changes": [
     {
       "title": "Daily fragment: 2014 Kunshan explosion",
-      "summary": "At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.",
+      "summary": "At least 146 people are killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.",
       "date": "2026-08-02"
     },
     {
@@ -73,23 +73,11 @@
   ],
   "sources": [
     {
-      "title": "Op-ed: The U.S. lead over China in AI is all but gone",
-      "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T12:30:01.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
       "title": "Daily fragment: 2014 Kunshan explosion",
       "url": "https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com",
       "publishedAt": "2026-08-02T04:00:00.000Z",
       "sourceId": "lootura-us-lootura-daily"
-    },
-    {
-      "title": "How China Keeps Tabs on Foreigners",
-      "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:03:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -72,7 +72,7 @@ Date: 2026-08-02
 
 - [Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez](https://www.20minutos.es/ceuta/santiago-abascal-pide-militarizar-permanentemente-frontera-ceuta-invasion-culpa-marruecos-sanchez_7021774_0.html?utm_source=lootura.com) — 2026-08-02T12:59:31.000Z
 - [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
-- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T12:20:21.000Z
+- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T16:03:19.000Z
 - [La crisis de Ceuta alinea a la derecha europea contra Sánchez](https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html?utm_source=lootura.com) — 2026-08-02T03:30:01.000Z
 - [Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»](https://okdiario.com/espana/abascal-desde-ceuta-sanchez-esta-sometido-marruecos-porque-tienen-pruebas-corrupciones-que-aun-desconocemos-19113195?utm_source=lootura.com) — 2026-08-02T11:50:45.000Z
 - [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z

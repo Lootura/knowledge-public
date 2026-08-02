@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
 
-### Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos
-
-EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».
-
-Date: 2026-08-02
-
 ### El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica
 
 El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Dinorah Figuera, presidenta de la Asamblea Nacional de 2015 , publicó un comunicado a las diez y media de la noche (cuatro y media de la madrugada, hora peninsular española). El contenido: ella y Jorge Rodríguez habían sostenido una conversaci.
+
+Date: 2026-08-02
+
+### Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos
+
+EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».
 
 Date: 2026-08-02
 
@@ -71,4 +71,3 @@ Date: 2026-07-23
 ## Fuentes
 
 - [El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica](https://www.abc.es/internacional/llamada-telefonica-debia-haber-mesa-dialogo-venezuela-20260802083251-nt.html?utm_source=lootura.com) — 2026-08-02T12:28:44.000Z
-- [Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos](https://theobjective.com/internacional/2026-08-02/venezuela-dialogo-politico-oposicion-terremotos/?amp=&utm_source=lootura.com) — 2026-08-02T06:27:49.000Z

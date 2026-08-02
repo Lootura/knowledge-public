@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-02T16:55:44.633Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
+      "title": "Discovered by Atlas",
+      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
+      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
       "date": "2026-08-02"
     },
     {
@@ -29,10 +34,10 @@
   ],
   "sources": [
     {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "url": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:33:32.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
+      "url": "https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T16:39:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

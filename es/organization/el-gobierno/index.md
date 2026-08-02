@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-02T16:55:44.633Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta
+
+El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.
+
+Date: 2026-08-02
+
+### El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta
+
+El delegado del Gobierno asegura que no supieron del contingente de personas que se dirigía hacia la frontera hasta que lo vieron acceder Leer.
+
+Date: 2026-08-02
+
+### Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera
+
+El Gobierno de Marruecos sigue guardando silencio sobre la irrupción de decenas de miles de jóvenes migrantes irregulares en Ceuta tres días después del estallido del mayor conflicto bilateral desde la crisis del islote Perejil en 2002. Ni la jefatura del Gobierno de Rabat, ni el Ministerio de Exteriores, ni el Departa.
+
+Date: 2026-08-02
 
 ### El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta
 
@@ -17,12 +35,6 @@ Date: 2026-08-02
 ### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
 
 El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.
-
-Date: 2026-08-02
-
-### El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta
-
-El delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano, ha cifrado en 72 los inmigrantes fallecidos que trataron de cruzar a Ceuta desde Marruecos durante la entrada masiva del jueves que produjo la llegada de 50.000 personas a la ciudad. En una comparecencia ante los medios de comunicación este domingo, el dele.
 
 Date: 2026-08-02
 
@@ -38,21 +50,9 @@ Las fuerzas de seguridad españolas han desplegado una barrera neumática de uno
 
 Date: 2026-08-01
 
-### El Gobierno empieza a instalar barreras de contención en el espigón de Ceuta casi dos años después de la sentencia clave del 'efecto llamada'
-
-La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas Leer.
-
-Date: 2026-08-01
-
 ### El Gobierno reabre la frontera de Melilla dos días después y refuerza el dispositivo policial
 
 La delegada del Gobierno en Melilla, Sabrina Moh, ha subrayado que la reapertura progresiva de la frontera en ambos sentidos con Marruecos, adoptada este.
-
-Date: 2026-08-01
-
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
-
-Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
 
 Date: 2026-08-01
 
@@ -71,6 +71,6 @@ Date: 2026-07-25
 ## Fuentes
 
 - [El Gobierno de Merz pone a los alemanes a trabajar](https://www.elcorreo.com/economia/trabajo/gobierno-merz-pone-alemanes-trabajar-20260802000557-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T22:05:57.000Z
-- [El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta](https://amp.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com) — 2026-08-02T10:17:12.000Z
-- [Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal](https://www.lavanguardia.com/politica/20260802/11606225/ascienden-72-cadaveres-recuperados-mar-ceuta-intentos-entrar-espigon-tarajal.html?utm_source=lootura.com) — 2026-08-02T09:33:01.000Z
+- [El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta](https://www.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com) — 2026-08-02T12:18:00.000Z
+- [Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera](https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html?utm_source=lootura.com) — 2026-08-02T15:16:45.000Z
 - [El Gobierno eleva a 72 el número de inmigrantes muertos en Ceuta](https://theobjective.com/espana/2026-08-02/gobierno-eleva-72-inmigrantes-muertos-ceuta/?utm_source=lootura.com) — 2026-08-02T10:27:53.000Z

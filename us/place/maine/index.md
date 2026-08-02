@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-02T16:56:03.104Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’
+
+In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.
+
+Date: 2026-08-02
 
 ### After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine
 
@@ -62,12 +68,6 @@ Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal 
 
 Date: 2026-07-23
 
-### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
-
-Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’](https://www.nbcnews.com/meet-the-press/video/bernie-sanders-on-if-he-regrets-platner-endorsement-easier-to-be-a-monday-morning-quarterback-267645509727?utm_source=lootura.com) — 2026-08-02T13:58:22.000Z

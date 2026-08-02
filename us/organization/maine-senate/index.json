@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T02:32:52.484Z",
+  "updatedAt": "2026-08-02T16:56:03.104Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’",
+      "summary": "In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
       "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.",
@@ -55,13 +60,15 @@
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "summary": "SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/bernie-sanders-on-if-he-regrets-platner-endorsement-easier-to-be-a-monday-morning-quarterback-267645509727?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T13:58:22.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }
