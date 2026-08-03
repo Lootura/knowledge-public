@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "El CGPJ avala la reforma de la ley de protección de la infancia frente a la violencia",
-      "url": "https://theobjective.com/espana/tribunales/2026-08-03/cgpj-reforma-ley-proteccion-infancia-violencia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:57:38.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Europa obligará a marcar todo el contenido creado por inteligencia artificial",
+      "url": "https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-transparencia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:36:22.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona
+
+Julián Álvarez está muy cerca de regresar a un Atlético que no le espera con los brazos abiertos. El delantero argentino mantiene su silencio a una semana de volver a la capital española para volver a entrenar y la mente del club rojiblanco pasa porque el futbolista dé explicaciones de por qué anunció públicamente su d.
+
+Date: 2026-08-03
 
 ### Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock
 
@@ -62,12 +68,6 @@ Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital 
 
 Date: 2026-08-02
 
-### Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”
-
-Cajal tiene el taller en el barrio de Gràcia, en Barcelona. Desde la calle se puede ver a un grupo de chicas jóvenes manosear con soltura pinzas y sopletes. Moldean unas varitas de vidrio de colores; las giran, soplan, recortan, las dejan enfriar. Julieta Cajal (Salta, Argentina, 33) es la fundadora y directora creativ.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona](https://okdiario.com/deportes/sospechosa-actitud-julian-alvarez-que-mantiene-vilo-atletico-barcelona-19119995?utm_source=lootura.com) — 2026-08-03T18:54:40.000Z

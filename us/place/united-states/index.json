@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -65,23 +65,23 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-      "summary": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news comes as The Odyssey.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record",
       "summary": "\"Spider-Man: Brand New Day\" broke the \"Avengers: Endgame\" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.",
       "date": "2026-08-03"
     },
     {
-      "title": "HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead",
-      "summary": "If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third of existing homes.",
+      "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+      "summary": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
       "date": "2026-08-03"
     },
     {
-      "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-      "summary": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "summary": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump says new talks are 'last chance' for Iran to forge a deal",
+      "summary": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
       "date": "2026-08-03"
     }
   ],
@@ -90,6 +90,12 @@
       "title": "How U.S. officials could confirm if Iran was behind the water systems cyberattack",
       "url": "https://www.cbsnews.com/video/how-us-officials-could-confirm-irans-role-in-water-systems/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T14:15:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:20:09.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -105,16 +111,28 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "WATCH: Trump says new talks are 'last chance' for Iran to forge a deal",
+      "url": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:51:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
       "url": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com",
       "publishedAt": "2026-08-03T13:32:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead",
-      "url": "https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:20:05.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Top U.S. admiral says no nation will dominate Indo-Pacific",
+      "url": "https://www.pbs.org/newshour/world/top-u-s-admiral-says-no-nation-will-dominate-indo-pacific?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:25:00.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Prosecutor in D.C. Moves to Dismiss More Reflecting Pool Cases",
+      "url": "https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:54:55.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
@@ -127,25 +145,7 @@
       "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T12:55:01.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
-      "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T05:50:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:11:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T14:26:47.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 12
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,43 +25,8 @@
   ],
   "changes": [
     {
-      "title": "NATO spending pressure returned",
-      "summary": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
-      "summary": "Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-      "summary": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence. (Image credit: Sarah Silbiger/Getty Images).",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Trump and Senate GOP deadlocked on key issues as congressional recess approaches",
-      "summary": "With a long congressional recess set to begin at the end of the week, Senate Republicans have a lot they want to accomplish. But they're deadlocked with President Trump on several key GOP priorities.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Political strategist weighs in on the tension between Trump and Senate Republicans",
-      "summary": "NPR's A Martinez speaks with political strategist Alex Conant about the tensions between the Senate and President Trump ahead of the long congressional recess that starts later this week.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Michigan’s GOP governor primary is getting weird",
-      "summary": "Michigan Republicans haven’t had a better shot to win the governorship in over a decade. Deciding who should take it is turning into an ugly, hyper-online brawl. With widespread name recognition and an endorsement from President Donald Trump, Rep. John James appears poised to be the GOP nominee ahead of Michigan’s prim.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "New Limits on Trump’s I.R.S. Deal, and Prosecutors Say Reflecting Pool Work Was ‘Botched’",
       "summary": "Plus, why college jerseys suddenly have corporate logos.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Park Service Finds Trump’s Arch Could Detract From Dozens of Historic Places",
-      "summary": "The 250-foot-tall edifice would alter views across Washington and Arlington Cemetery.",
       "date": "2026-08-03"
     },
     {
@@ -73,13 +38,48 @@
       "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
       "summary": "U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.",
       "date": "2026-08-03"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
+      "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+      "summary": "In the past week alone, President Trump’s interference has imperiled one criminal case, set the stage for sanctions in a second and hindered the confirmation chances of his pick for attorney general.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump administration weighs proposal to gut Head Start preschool standards, leaving states to set the rules",
+      "summary": "Two people familiar with the deliberations tell The Associated Press the Republican administration's proposed changes could significantly reduce the preschool program's quality standards.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "After Colleges Reject ‘Compact,’ Trump Officials Try a Letter",
+      "summary": "The open letter from Education Secretary Linda McMahon fell far short of the attempt at a compact last year that dangled research money in return for embracing the Trump administration’s agenda.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Documents Undercut Trump’s Claims About Bears Ears National Monument",
+      "summary": "President Trump said recreation in Bears Ears National Monument was virtually impossible. Documents reviewed by The New York Times show officials knew otherwise.",
+      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "RFK Jr., Oz blame ACA enrollment drop on fraud, but experts cite rising costs",
-      "url": "https://www.cbsnews.com/news/rfk-jr-oz-aca-fraud-rising-costs/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:00:18.000Z",
+      "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
+      "url": "https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:17:25.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -89,28 +89,16 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
-      "url": "https://www.nbcnews.com/news/us-news/todd-blanche-deal-gop-holdouts-fires-lebanon-ebola-morning-rundown-rcna590424?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:01:57.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Cubans sleep on Havana's seaside boulevard to seek relief from crippling blackouts and summer heat",
+      "url": "https://www.pbs.org/newshour/world/cubans-seek-relief-from-crippling-blackouts-and-summer-heat?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:58:13.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump and Senate GOP deadlocked on key issues as congressional recess approaches",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5914644/trump-and-senate-gop-deadlocked-on-key-issues-as-congressional-recess-approaches?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T08:44:39.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Political strategist weighs in on the tension between Trump and Senate Republicans",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5914815/political-strategist-weighs-in-on-the-tension-between-trump-and-senate-republicans?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T08:44:32.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "WATCH: Trump says new talks are 'last chance' for Iran to forge a deal",
+      "url": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:51:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
@@ -131,11 +119,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Michigan’s GOP governor primary is getting weird",
-      "url": "https://www.politico.com/news/2026/08/03/michigans-gop-governor-primary-john-james-01020176?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T08:45:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
+      "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T12:55:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+      "url": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:56:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:17:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 18
 }

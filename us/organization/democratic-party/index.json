@@ -8,19 +8,39 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
-      "title": "Activist David Hogg talks about the future of the Democratic Party",
-      "summary": "NPR's Michel Martin speaks with gun violence prevention activist David Hogg about the future of the Democratic Party and calls for him to lead the Democratic National Committee.",
+      "title": "We’re about to find out how powerful progressives really are",
+      "summary": "Michigan is ground zero for the Democratic Party’s ideological war. Its marquee Senate race and two of its House primaries on Tuesday — in Michigan’s 7th and 13th Congressional Districts — will provide another crucial test of whether progressives can not only keep up their winning streak in safe-blue seats but also bre.",
       "date": "2026-08-03"
     },
     {
-      "title": "We’re about to find out how powerful progressives really are",
-      "summary": "Michigan is ground zero for the Democratic Party’s ideological war. Its marquee Senate race and two of its House primaries on Tuesday — in Michigan’s 7th and 13th Congressional Districts — will provide another crucial test of whether progressives can not only keep up their winning streak in safe-blue seats but also bre.",
+      "title": "Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat",
+      "summary": "The divide between establishment and anti-establishment Democrats is on full display in Kansas ahead of Tuesday’s primary for governor. Kansas state Sen. Cindy Holscher (D) joins Meet the Press NOW to discuss her path to victory and the key issues facing Kansans.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
+      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "California Democrats Support Billionaire Tax, but Debate Lingers",
+      "summary": "Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "How a Centrist Split Boosted Progressive Hopes in a Democratic House Primary",
+      "summary": "Unable to unite behind a single candidate in Michigan’s Seventh District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Activist David Hogg talks about the future of the Democratic Party",
+      "summary": "NPR's Michel Martin speaks with gun violence prevention activist David Hogg about the future of the Democratic Party and calls for him to lead the Democratic National Committee.",
       "date": "2026-08-03"
     },
     {
@@ -42,40 +62,20 @@
       "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
       "summary": "Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
-      "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
-      "summary": "Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
-      "summary": "Allegations against Rep. Max Miller have been public for years but have recently drawn increased media scrutiny amid an escalating legal back-and-forth with his former spouse, who is the daughter of Sen. Bernie Moreno.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
-      "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T08:45:14.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party",
+      "url": "https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:37:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Activist David Hogg talks about the future of the Democratic Party",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T08:45:14.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat",
+      "url": "https://www.nbcnews.com/meet-the-press/video/democratic-candidate-in-kansas-touts-mainstream-views-as-gop-look-to-flip-open-governor-seat-267696197559?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:36:01.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "We’re about to find out how powerful progressives really are",
@@ -87,8 +87,20 @@
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T15:16:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "California Democrats Support Billionaire Tax, but Debate Lingers",
+      "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:58:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "How a Centrist Split Boosted Progressive Hopes in a Democratic House Primary",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:26:07.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

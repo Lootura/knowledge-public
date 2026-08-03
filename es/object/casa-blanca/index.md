@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump dice que Ormuz podría abrirse "mañana mismo"
+
+El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
+
+Date: 2026-08-03
 
 ### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
 
@@ -62,12 +68,6 @@ De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para 
 
 Date: 2026-07-22
 
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Trump dice que Ormuz podría abrirse "mañana mismo"](https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com) — 2026-08-03T20:03:18.000Z

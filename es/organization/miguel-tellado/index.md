@@ -58,4 +58,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z
+No public source links.

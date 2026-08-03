@@ -3,22 +3,10 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
-
-### NATO spending pressure returned
-
-Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.
-
-Date: 2026-08-03
-
-### Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown
-
-Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.
-
-Date: 2026-08-03
 
 ### NATO spending pressure returned
 
@@ -29,6 +17,36 @@ Date: 2026-08-03
 ### Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund
 
 The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.
+
+Date: 2026-08-03
+
+### Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund
+
+GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.
+
+Date: 2026-08-03
+
+### Todd Blanche's nomination back on track after GOP deal
+
+Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.
+
+Date: 2026-08-03
+
+### Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal
+
+Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.
+
+Date: 2026-08-03
+
+### NATO spending pressure returned
+
+Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.
+
+Date: 2026-08-03
+
+### Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown
+
+Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.
 
 Date: 2026-08-03
 
@@ -50,29 +68,10 @@ Acting Attorney General Todd Blanche’s nomination appears to be back on track 
 
 Date: 2026-08-03
 
-### Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran
-
-Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal. (Image credit: Win McNamee).
-
-Date: 2026-08-03
-
-### Trump Battles GOP Holdouts Amid Democrats’ Factional Fight
-
-Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.
-
-Date: 2026-08-02
-
-### Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight
-
-The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.
-
-Date: 2026-08-01
-
 ## Sources
 
+- [Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund](https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-03T19:39:59.000Z
 - [Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund](https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com) — 2026-08-03T17:40:34.000Z
-- [Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown](https://www.nbcnews.com/news/us-news/todd-blanche-deal-gop-holdouts-fires-lebanon-ebola-morning-rundown-rcna590424?utm_source=lootura.com) — 2026-08-03T11:01:57.000Z
+- [Todd Blanche's nomination back on track after GOP deal](https://www.npr.org/2026/08/03/nx-s1-5918071/todd-blanches-nomination-back-on-track-after-gop-deal?utm_source=lootura.com) — 2026-08-03T20:31:02.000Z
 - [Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid](https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid?utm_source=lootura.com) — 2026-08-03T13:42:30.000Z
-- [Republican holdouts say they will back Todd Blanche for attorney general](https://www.theguardian.com/us-news/2026/aug/03/todd-blanche-attorney-general-nomination?utm_source=lootura.com) — 2026-08-03T15:51:55.000Z
-- [Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal](https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com) — 2026-08-03T15:35:28.000Z
-- [Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’](https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/?utm_source=lootura.com) — 2026-08-03T15:59:34.000Z
+- [Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal](https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com) — 2026-08-03T20:17:53.000Z

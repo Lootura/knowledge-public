@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [],
   "changes": [
     {
@@ -27,6 +27,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party",
+      "url": "https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:37:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

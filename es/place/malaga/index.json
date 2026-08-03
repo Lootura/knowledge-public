@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [],
   "changes": [
     {
       "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
       "summary": "El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga",
+      "summary": "La Policía ha detenido a 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga (Málaga) -que en ediciones anteriores se ha celebrado en Almería- por su presunta implicación en delitos contra la salud pública, alteración del orden público y reclamación judicial. El festival, que reunió a miles de a.",
       "date": "2026-08-03"
     },
     {
@@ -55,14 +60,15 @@
       "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
       "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista",
-      "summary": "El Ejecutivo desestima, «de momento», la violencia de género tras tomar declaración a la hija.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-03/detenidas-23-personas-festival-dreambeach-malaga/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:15:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
     {
       "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
       "url": "https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com",
@@ -70,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

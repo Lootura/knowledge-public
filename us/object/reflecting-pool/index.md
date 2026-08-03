@@ -3,10 +3,22 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office
+
+President Trump took reporter questions on the Iran war, the renovation of the reflecting pool in Washington, D.C., and more on Monday. CBS News' Lindsey Reiser and Natalie Brand share their biggest takeaways.
+
+Date: 2026-08-03
+
+### Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped
+
+Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a "botched installation" rather than vandalism. That has implications for other people who were charged. (Image credit: Finn Gomez).
+
+Date: 2026-08-03
 
 ### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
 
@@ -46,4 +58,5 @@ Date: 2026-07-31
 
 ## Sources
 
-No public source links.
+- [Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office](https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com) — 2026-08-03T19:17:25.000Z
+- [Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped](https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped?utm_source=lootura.com) — 2026-08-03T19:33:05.000Z

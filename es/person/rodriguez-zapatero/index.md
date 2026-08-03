@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas](https://www.20minutos.es/nacional/zapatero-pide-juez-que-ponga-limites-udef-hora-investigar-sus-cuentas_7022172_0.html?utm_source=lootura.com) — 2026-08-03T15:58:33.000Z
-- [La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero](https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com) — 2026-08-03T13:32:54.000Z
+No public source links.

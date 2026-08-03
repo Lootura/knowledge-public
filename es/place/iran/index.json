@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,13 +19,23 @@
   ],
   "changes": [
     {
-      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
-      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
+      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
       "date": "2026-08-03"
     },
     {
-      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
-      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
+      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
+      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
       "date": "2026-08-03"
     },
     {
@@ -57,31 +67,27 @@
       "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
       "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
-      "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
-      "url": "https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:32:34.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
+      "url": "https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:55:19.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T15:40:47.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "url": "https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:03:18.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

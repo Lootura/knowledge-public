@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -23,11 +23,6 @@
       "date": "2026-08-03"
     },
     {
-      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
-      "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
       "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
       "date": "2026-08-03"
@@ -38,13 +33,23 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo",
-      "summary": "La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.",
+      "title": "Milei acusa a Sánchez de \"tiranía\" y de \"usar\" a los inmigrantes para que voten a su favor",
+      "summary": "Atribuye la entrada masiva en Ceuta al \"multiculturalismo\" europeo y sostiene que Sánchez quiere \"perpetuar su tiranía\" Leer.",
       "date": "2026-08-03"
     },
     {
-      "title": "Milei acusa a Sánchez de \"tiranía\" y de \"usar\" a los inmigrantes para que voten a su favor",
-      "summary": "Atribuye la entrada masiva en Ceuta al \"multiculturalismo\" europeo y sostiene que Sánchez quiere \"perpetuar su tiranía\" Leer.",
+      "title": "Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»",
+      "summary": "Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
+      "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo",
+      "summary": "La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.",
       "date": "2026-08-03"
     },
     {
@@ -61,18 +66,13 @@
       "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
       "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe \"hacer más\" en sus fronteras exteriores, para lo cual aboga por una \"rigurosa vi.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
-      "summary": "La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo",
-      "url": "https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:54:08.000Z",
+      "title": "Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»",
+      "url": "https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:53:27.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -88,12 +88,6 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
-      "url": "https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:55:27.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
       "url": "https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T13:59:13.000Z",
@@ -106,5 +100,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
 
 La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
-
-Date: 2026-08-03
-
-### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
-
-El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
 
 Date: 2026-08-03
 
@@ -32,15 +26,27 @@ Las largas jornadas en piscinas y playas forman parte de las vacaciones de veran
 
 Date: 2026-08-03
 
-### Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo
-
-La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.
-
-Date: 2026-08-03
-
 ### Milei acusa a Sánchez de "tiranía" y de "usar" a los inmigrantes para que voten a su favor
 
 Atribuye la entrada masiva en Ceuta al "multiculturalismo" europeo y sostiene que Sánchez quiere "perpetuar su tiranía" Leer.
+
+Date: 2026-08-03
+
+### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
+
+Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.
+
+Date: 2026-08-03
+
+### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
+
+El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
+
+Date: 2026-08-03
+
+### Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo
+
+La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.
 
 Date: 2026-08-03
 
@@ -62,17 +68,10 @@ La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este 
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»
-
-La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo](https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com) — 2026-08-03T16:54:08.000Z
+- [Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»](https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com) — 2026-08-03T18:53:27.000Z
 - [Milei acusa a Sánchez de "tiranía" y de "usar" a los inmigrantes para que voten a su favor](https://www.elmundo.es/espana/2026/08/03/6a70c611e9cf4af7448b4586.html?utm_source=lootura.com) — 2026-08-03T16:48:23.000Z
 - [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
-- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z
 - [El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez](https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com) — 2026-08-03T13:59:13.000Z
 - [Piscina, playa y dolor de oído: cuándo hay que consultar al pediatra](https://theobjective.com/sanidad/2026-08-03/piscina-playa-oido-consultar-pediatra/?utm_source=lootura.com) — 2026-08-03T13:43:31.000Z

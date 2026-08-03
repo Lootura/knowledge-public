@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,13 +25,28 @@
   ],
   "changes": [
     {
-      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
-      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
+      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
       "date": "2026-08-03"
     },
     {
-      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
-      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
+      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
+      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
+      "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
       "date": "2026-08-03"
     },
     {
@@ -58,36 +73,33 @@
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
       "date": "2026-08-02"
-    },
-    {
-      "title": "La eterna indecisión de Trump en Irán",
-      "summary": "“¿Esta noche nos despertaremos con las sirenas antiaéreas?”, pregunta un jerosolimitano a su amigo en una cafetería del centro de Jerusalén. “Yo ya he hecho planes. Si llega la guerra, que llegue; intento no preocuparme en exceso”, responde el otro, sin levantar la vista del café. La escena resume el estado de ánimo de.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
-      "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
-      "url": "https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:32:34.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
+      "url": "https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:55:19.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T15:40:47.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "url": "https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:03:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
+      "url": "https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:40:11.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "AI",
     "AI science",
@@ -82,7 +82,7 @@
     {
       "title": "Want to get more from AI? Treat every prompt like an experiment",
       "url": "https://www.nature.com/articles/d41586-026-02083-6?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:49:11.030Z",
+      "publishedAt": "2026-08-03T21:00:21.856Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -90,19 +90,7 @@
       "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate?utm_source=lootura.com",
       "publishedAt": "2026-08-03T09:42:28.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "You can love an AI but can it love you back? Philosophy has the answer",
-      "url": "https://phys.org/news/2026-08-ai-philosophy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:00:09.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:38:45.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

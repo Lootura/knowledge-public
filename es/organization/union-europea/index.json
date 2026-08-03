@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»",
+      "summary": "Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»",
       "summary": "Junts per Catalunya se ha incorporado oficialmente al Partido Demócrata Europeo (PDE) con el objetivo de reforzar su « proyección internacional y su capacidad de incidencia en los debates que marcarán el futuro de la Unión Europea ». Así lo han anunciado este lunes en un comunicado, en el que el partido independentista.",
@@ -58,19 +63,14 @@
       "title": "Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta",
       "summary": "Los ministros de Interior de la Unión Europea se reunirán el próximo martes por videoconferencia para abordar la evolución de la crisis migratoria en Ceuta, después de que tanto el presidente del Gobierno, Pedro Sánchez , como los líderes de otros 22 Estados miembro solicitaran la convocatoria urgente de un encuentro e.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos",
-      "summary": "El presidente de España, Pedro Sánchez, ha enviado una carta a la Unión Europea para solicitar una videoconferencia extraordinaria de los ministros del Interior europeos “con carácter de urgencia” a raíz de la crisis migratoria de esta semana en Ceuta. Seguir leyendo...",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»",
-      "url": "https://theobjective.com/espana/politica/2026-08-03/junts-partido-democrata-europeo-proyeccion-internacional/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:38:14.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»",
+      "url": "https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:53:27.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
+      "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
+      "date": "2026-08-03"
+    },
     {
       "title": "The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián",
       "summary": "La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.",
@@ -64,14 +69,15 @@
       "title": "Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40",
       "summary": "El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vida al hospital, donde falleció a causa de las graves lesiones sufridas.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana",
-      "summary": "La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriola, aunque no se requirió traslado de ningún afectado. Las falsas medusas son cada vez más pequeñas.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
+      "url": "https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:02:29.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse",
       "url": "https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

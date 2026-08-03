@@ -3,20 +3,26 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
 
-### La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España
+### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
 
-Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.
+Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
 Sahara Occidental first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-02
+
+### La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España
+
+Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.
 
 Date: 2026-08-02
 
@@ -28,4 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z

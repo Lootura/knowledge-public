@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,5 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Want to get more from AI? Treat every prompt like an experiment](https://www.nature.com/articles/d41586-026-02083-6?utm_source=lootura.com) — 2026-08-03T17:49:11.030Z
+- [Want to get more from AI? Treat every prompt like an experiment](https://www.nature.com/articles/d41586-026-02083-6?utm_source=lootura.com) — 2026-08-03T21:00:21.856Z
 - [For those with criminal records, AI is breaking down barriers to employment](https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate?utm_source=lootura.com) — 2026-08-03T09:42:28.000Z
-- [You can love an AI but can it love you back? Philosophy has the answer](https://phys.org/news/2026-08-ai-philosophy.html?utm_source=lootura.com) — 2026-08-03T17:00:09.000Z
-- [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes?utm_source=lootura.com) — 2026-08-03T17:38:45.000Z

@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -38,6 +38,18 @@ President Trump cited progress in the negotiations when canceling a threatened a
 
 Date: 2026-08-03
 
+### Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office
+
+President Trump took reporter questions on the Iran war, the renovation of the reflecting pool in Washington, D.C., and more on Monday. CBS News' Lindsey Reiser and Natalie Brand share their biggest takeaways.
+
+Date: 2026-08-03
+
+### Trump says new talks are 'last chance' for Iran to forge a deal
+
+Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.
+
+Date: 2026-08-03
+
 ### Tehran’s New Weapon Is Not a Bomb. It Is an Invoice.
 
 An oil tanker in the Strait of Hormuz accessing Iran's premier maritime gateway of Bandar Abbas Port, Iran, 1988. —Barry Iverson-Getty Images Iran is expanding the theater of war with an eye on the Strait of Hormuz. Last week, according to U.S. Central Command, more than 30 Iranian-directed drones attacked American for.
@@ -56,23 +68,12 @@ By expanding the arena of fighting in the region, experts say, Tehran sent a war
 
 Date: 2026-08-03
 
-### Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran
-
-Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal. (Image credit: Win McNamee).
-
-Date: 2026-08-03
-
-### Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [Investigators probe whether Iran was behind cyberattack on water systems in 7 states](https://www.cbsnews.com/video/investigators-probe-whether-iran-was-behind-cyberattack-on-water-systems-in-7-states/?utm_source=lootura.com) — 2026-08-03T14:13:43.000Z
 - [How U.S. officials could confirm if Iran was behind the water systems cyberattack](https://www.cbsnews.com/video/how-us-officials-could-confirm-irans-role-in-water-systems/?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
+- [Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office](https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com) — 2026-08-03T19:17:25.000Z
+- [WATCH: Trump says new talks are 'last chance' for Iran to forge a deal](https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com) — 2026-08-03T19:51:58.000Z
 - [Trump claims Iran talks will start Monday, and 4 other developments in the Middle East](https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com) — 2026-08-03T13:32:18.000Z
 - [Oil Prices Plummet as Investors Digest Pause in Iran War Fighting](https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com) — 2026-08-03T12:55:01.000Z
-- [Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz](https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com) — 2026-08-03T16:11:52.000Z
-- [Tehran’s New Weapon Is Not a Bomb. It Is an Invoice.](https://time.com/article/2026/08/03/tehran-trump-strait-of-hormuz-toll-oman-/?utm_source=lootura.com) — 2026-08-03T15:30:00.000Z
+- [Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz](https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com) — 2026-08-03T20:06:28.000Z

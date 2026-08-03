@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
@@ -22,6 +22,11 @@
     {
       "title": "Discovered by Atlas",
       "summary": "José Manuel Albares first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»",
+      "summary": "El ministro de Asuntos Exteriores de Italia , Antonio Tajani, ha respondido este lunes al ministro español, José Manuel Albares , a través de un mensaje en la red social X, en el que ha defendido con datos la política migratoria de su Gobierno y ha respaldado la decisión de suspender temporalmente el régimen de libre c.",
       "date": "2026-08-03"
     },
     {
@@ -43,9 +48,9 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Vox pide la comparecencia de Albares y de la directora del CNI por la crisis en Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-08-03/vox-comparecencia-albares-directora-cni/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:08:20.000Z",
+      "title": "El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»",
+      "url": "https://theobjective.com/internacional/2026-08-03/ministro-exteriores-italiano-suspender-schengen/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:52:45.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

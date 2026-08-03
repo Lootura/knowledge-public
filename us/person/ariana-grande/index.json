@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ariana-grande/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ariana-grande/index.json",
   "description": "Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Ariana",
     "Grande"
   ],
   "changes": [
-    {
-      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
-      "summary": "Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.",
-      "date": "2026-08-03"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Ariana Grande first entered the public knowledge record with source-backed evidence.",
@@ -30,6 +25,11 @@
       "date": "2026-08-03"
     },
     {
+      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
+      "summary": "Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "Ariana Grande to step back from public life following ‘scrutiny’",
       "summary": "The singer and actor, who is on tour, will no longer star in the London revival of “Sunday in the Park With George,” which is set to open in summer 2027.",
       "date": "2026-08-03"
@@ -37,17 +37,11 @@
   ],
   "sources": [
     {
-      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
-      "url": "https://www.nbcnews.com/news/us-news/todd-blanche-deal-gop-holdouts-fires-lebanon-ebola-morning-rundown-rcna590424?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:01:57.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Ariana Grande withdraws from London musical and 'will be taking a step back' from the public eye",
       "url": "https://www.pbs.org/newshour/arts/ariana-grande-withdraws-from-london-musical-and-will-be-taking-a-step-back-from-the-public-eye?utm_source=lootura.com",
       "publishedAt": "2026-08-03T14:09:27.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

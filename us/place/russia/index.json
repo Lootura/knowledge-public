@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
@@ -17,6 +17,11 @@
     {
       "title": "A Putin critic leaves Russia after he is barred from running for parliament",
       "summary": "\"Good news: I'm alive and free. Unfortunately, not in Russia for the time being,\" opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
       "date": "2026-08-03"
     },
     {
@@ -58,14 +63,15 @@
       "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
       "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Ukraine targets Russian online retailer Wildberries",
-      "summary": "Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "url": "https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:02:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "A Putin critic leaves Russia after he is barred from running for parliament",
       "url": "https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

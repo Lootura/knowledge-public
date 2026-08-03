@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretar
 
 Date: 2026-08-03
 
-### El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste
-
-Las tardes de verano en Madrid tienen una costumbre casi ritual: reunirse en un parque, sentarse sobre el césped y contemplar cómo el Sol desaparece tras el perfil de los rascacielos. Sin embargo, el próximo miércoles 12 de agosto de 2026 ese momento cotidiano adquirirá un significado completamente distinto. Ese día se.
-
-Date: 2026-08-03
-
 ### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
 
 El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
+
+Date: 2026-08-03
+
+### Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA
+
+El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.
+
+Date: 2026-08-03
+
+### El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste
+
+Las tardes de verano en Madrid tienen una costumbre casi ritual: reunirse en un parque, sentarse sobre el césped y contemplar cómo el Sol desaparece tras el perfil de los rascacielos. Sin embargo, el próximo miércoles 12 de agosto de 2026 ese momento cotidiano adquirirá un significado completamente distinto. Ese día se.
 
 Date: 2026-08-03
 
@@ -62,14 +68,8 @@ La reunión entre la Comunidad de Madrid y el Rayo Vallecano dejó este lunes el
 
 Date: 2026-08-03
 
-### Mil personas se concentran ante la Embajada de Marruecos en Madrid por la crisis en Ceuta
-
-Unas 1.200 de personas, según datos de la Delegación de Gobierno , se han concentrado este domingo ante la Embajada de Marruecos en Madrid para protestar contra la entrada masiva de migrantes en Ceuta ante la «pasividad de los Gobierno de Marruecos y de España». Bajo el lema «Defendamos España», la manifestación ha sid.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
-- [El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste](https://www.larazon.es/madrid/mejor-rincon-madrid-ver-historico-eclipse-solar-12-agosto-gracias-sus-vistas-oeste_202608036a70a5ca71b42a0b5dd7af07.html?utm_source=lootura.com) — 2026-08-03T14:29:30.000Z
 - [El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez](https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com) — 2026-08-03T13:59:13.000Z
+- [Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA](https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com) — 2026-08-03T20:57:00.000Z

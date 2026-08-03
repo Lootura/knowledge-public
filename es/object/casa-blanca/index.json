@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
       "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
@@ -64,13 +69,15 @@
       "title": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
       "summary": "De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
+      "url": "https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:03:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

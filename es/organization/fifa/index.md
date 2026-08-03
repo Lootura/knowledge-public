@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA
+
+El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.
+
+Date: 2026-08-03
 
 ### Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"
 
@@ -58,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA](https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com) — 2026-08-03T20:57:00.000Z

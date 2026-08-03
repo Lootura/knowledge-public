@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Total solar eclipse will sweep over Spain, Iceland and Greenland in August
 
 For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
+
+Date: 2026-08-03
+
+### Spain to put containment fence around Ceuta after deadly border rush from Morocco
+
+Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-03
+
+### Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest
+
+A new study provides quantitative data on cranial vault thickness in Homo antecessor, based on the analysis of three parietal fragments recovered from the Gran Dolina site in the Sierra de Atapuerca, Burgos, Spain.
 
 Date: 2026-08-03
 
@@ -56,19 +68,8 @@ Spain’s leading far-right politician arrived in the territory on Sunday, fueli
 
 Date: 2026-08-02
 
-### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
-
-Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
-
-Date: 2026-08-02
-
-### Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67
-
-The death toll climbed to 67, including some who drowned and others who were killed in a stampede to cross a breakwater barrier, the Spanish government said Saturday.
-
-Date: 2026-08-01
-
 ## Sources
 
-- [Spanish Soccer Star Ferran Torres Talks World Cup Win](https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734?utm_source=lootura.com) — 2026-08-03T13:25:26.000Z
+- [Spain to put containment fence around Ceuta after deadly border rush from Morocco](https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com) — 2026-08-03T19:39:31.000Z
 - [Total solar eclipse will sweep over Spain, Iceland and Greenland in August](https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com) — 2026-08-03T17:40:47.000Z
+- [Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest](https://phys.org/news/2026-08-homo-antecessor-skull-layers-resemble.html?utm_source=lootura.com) — 2026-08-03T20:00:03.000Z

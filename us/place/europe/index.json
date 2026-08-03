@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "EU",
     "European Union"
@@ -71,13 +71,7 @@
       "url": "https://www.pbs.org/newshour/world/europes-hot-dry-summer-takes-its-toll-with-fires-in-france-and-greece-and-drought-in-the-uk?utm_source=lootura.com",
       "publishedAt": "2026-08-03T15:40:49.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:38:45.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

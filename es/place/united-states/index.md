@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla
+
+El congresista republicano Mario Díaz-Balart , autor de un informe aprobado en abril por la Comisión de Asignaciones de la Cámara de Representantes de Estados Unidos que afirma que Ceuta y Melilla están «ubicadas en territorio marroquí» y que «siguen siendo objeto de la histórica reivindicación de Marruecos», rechaza q.
+
+Date: 2026-08-03
+
+### Trump dice que Ormuz podría abrirse "mañana mismo"
+
+El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
+
+Date: 2026-08-03
+
+### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
+
+Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
+
+Date: 2026-08-03
 
 ### Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen
 
@@ -50,26 +68,8 @@ Responsables políticos y militares iraníes han salido en las últimas horas a 
 
 Date: 2026-08-02
 
-### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
-
-El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
-
-Date: 2026-08-02
-
-### EEUU eleva a nivel 3 su advertencia de viaje para Ceuta tras la llagada masiva de inmigrantes
-
-El Departamento de Estado de Estados Unidos ha actualizado su recomendación de viaje para España y ha elevado al nivel 3 («Reconsiderar el viaje») la advertencia específica para Ceuta , mientras mantiene el nivel 2 para el conjunto del país, debido a los disturbios derivados de la llegada masiva de migrantes al enclave.
-
-Date: 2026-08-02
-
-### Trump anuncia la suspensión de un ataque contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»](https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com) — 2026-08-03T16:32:34.000Z
-- [Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen](https://cincodias.elpais.com/mercados-financieros/2026-08-03/japon-abre-la-puerta-a-seguir-interviniendo-en-el-mercado-junto-a-ee-uu-para-frenar-la-caida-del-yen.html?utm_source=lootura.com) — 2026-08-03T11:42:29.000Z
-- [El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos](https://www.lavanguardia.com/vida/verificacion/20260803/11607088/congreso-estados-unidos-aprobado-traspaso-ceuta-melilla-marruecos.html?utm_source=lootura.com) — 2026-08-03T16:06:37.000Z
+- [El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla](https://www.abc.es/espana/congresista-diazbalart-desmiente-eeuu-reconociera-soberania-marroqui-20260803204151-nt.html?utm_source=lootura.com) — 2026-08-03T19:48:26.000Z
+- [Trump dice que Ormuz podría abrirse "mañana mismo"](https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com) — 2026-08-03T20:03:18.000Z
+- [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z

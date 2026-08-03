@@ -3,10 +3,16 @@
 > Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/company/taylor-farms
 
 ## Recent changes
+
+### What to know about Taylor Farms amid the cyclospora outbreak
+
+The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.
+
+Date: 2026-08-03
 
 ### Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak
 
@@ -20,27 +26,9 @@ The nation's largest recent cyclospora outbreak has put one of America's biggest
 
 Date: 2026-07-22
 
-### FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test
-
-The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.
-
-Date: 2026-07-21
-
-### What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak
-
-The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.
-
-Date: 2026-07-20
-
 ### Test results create more confusion around cyclosporiasis outbreak
 
 Federal officials are still trying to determine the source of a multistate outbreak linked to lettuce. There may be more than 7,000 cases of cyclosporiasis nationwide. The FDA said that a lettuce sample from Taylor Farms that was initially reported as positive for cyclospora was actually a false positive. William Brang.
-
-Date: 2026-07-20
-
-### FDA says it’s still investigating Taylor Farms in cyclosporiasis outbreak
-
-Taylor Farms continues to be the subject of a Food and Drug Administration investigation into the growing cyclosporiasis outbreak, despite a false positive test result, the agency said Monday.
 
 Date: 2026-07-20
 
@@ -68,6 +56,18 @@ Products with the potential to be contaminated with the diarrhea-causing parasit
 
 Date: 2026-07-18
 
+### Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak
+
+Taylor Farms said none of its branded salads or kits contain the iceberg lettuce associated with the outbreak.
+
+Date: 2026-07-18
+
+### Discovered by Atlas
+
+Taylor Farms first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-17
+
 ## Sources
 
-No public source links.
+- [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-08-03T19:20:09.000Z

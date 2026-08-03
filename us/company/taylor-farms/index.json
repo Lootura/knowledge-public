@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.json",
   "description": "Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Taylor Fresh Foods"
   ],
   "changes": [
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "summary": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
       "summary": "Taylor Farms said none of its branded salads or kits contain the iceberg lettuce associated with the outbreak.",
@@ -24,23 +29,8 @@
       "date": "2026-07-22"
     },
     {
-      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-      "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
-      "summary": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "Test results create more confusion around cyclosporiasis outbreak",
       "summary": "Federal officials are still trying to determine the source of a multistate outbreak linked to lettuce. There may be more than 7,000 cases of cyclosporiasis nationwide. The FDA said that a lettuce sample from Taylor Farms that was initially reported as positive for cyclospora was actually a false positive. William Brang.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "FDA says it’s still investigating Taylor Farms in cyclosporiasis outbreak",
-      "summary": "Taylor Farms continues to be the subject of a Food and Drug Administration investigation into the growing cyclosporiasis outbreak, despite a false positive test result, the agency said Monday.",
       "date": "2026-07-20"
     },
     {
@@ -62,8 +52,25 @@
       "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
       "summary": "Products with the potential to be contaminated with the diarrhea-causing parasite were shipped to 27 states including Texas, Florida, Pennsylvania, Illinois and New Jersey.",
       "date": "2026-07-18"
+    },
+    {
+      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
+      "summary": "Taylor Farms said none of its branded salads or kits contain the iceberg lettuce associated with the outbreak.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Taylor Farms first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:20:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

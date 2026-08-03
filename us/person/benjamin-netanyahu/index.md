@@ -3,10 +3,16 @@
 > Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/person/benjamin-netanyahu
 
 ## Recent changes
+
+### Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes
+
+JERUSALEM, Israel (AP) — The Board of Peace official overseeing Gaza's postwar transition met Monday with Israeli Prime Minister Benjamin Netanyahu, according to a statement, in part to discuss a new disarmament deal the board reached with Hamas. Nikolay Mladenov, the high representative for Gaza, held "constructive an.
+
+Date: 2026-08-03
 
 ### Mamdani says he won't try to arrest Israel's Netanyahu
 
@@ -40,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes](https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes?utm_source=lootura.com) — 2026-08-03T20:03:23.000Z

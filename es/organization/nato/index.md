@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España
 
 El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.
+
+Date: 2026-08-03
+
+### Pánico en una playa del sur de Rusia con siete muertos por el derribo de un dron ucraniano
+
+Moscú acusa a Ucrania de terrorismo y a la OTAN de patrocinarlo Leer.
 
 Date: 2026-08-03
 
@@ -62,13 +68,7 @@ Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva c
 
 Date: 2026-07-13
 
-### La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica
-
-Mijansk786/Shutterstock La reciente Cumbre de Ankara de la OTAN (7 y 8 de julio) se ha ajustado al guión establecido si atendemos en el documento suscrito por los jefes de Estado y de Gobierno de los Estados miembros. Más allá de la performance del atrabiliario presidente estadounidense, Donald Trump, impresentable des.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Pánico en una playa del sur de Rusia con seis muertos por el derribo de un dron ucraniano](https://www.elmundo.es/internacional/2026/08/03/6a70b209e85ecee2368b4587.html?utm_source=lootura.com) — 2026-08-03T15:28:53.000Z
+- [Pánico en una playa del sur de Rusia con siete muertos por el derribo de un dron ucraniano](https://www.elmundo.es/internacional/2026/08/03/6a70b209e85ecee2368b4587.html?utm_source=lootura.com) — 2026-08-03T18:40:54.000Z
 - [IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España](https://theobjective.com/actualidad/2026-08-03/iu-retirar-tropas-espanolas-europa-apoyo-espana/?utm_source=lootura.com) — 2026-08-03T13:54:16.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.json",
   "description": "Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Ben Nitai",
     "Ben Nitay",
@@ -21,6 +21,11 @@
     "Netanyahu"
   ],
   "changes": [
+    {
+      "title": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes",
+      "summary": "JERUSALEM, Israel (AP) — The Board of Peace official overseeing Gaza's postwar transition met Monday with Israeli Prime Minister Benjamin Netanyahu, according to a statement, in part to discuss a new disarmament deal the board reached with Hamas. Nikolay Mladenov, the high representative for Gaza, held \"constructive an.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
       "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
@@ -47,6 +52,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes",
+      "url": "https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:03:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

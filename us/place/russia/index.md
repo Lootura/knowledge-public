@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### A Putin critic leaves Russia after he is barred from running for parliament
 
 "Good news: I'm alive and free. Unfortunately, not in Russia for the time being," opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.
+
+Date: 2026-08-03
+
+### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
+
+Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
 
 Date: 2026-08-03
 
@@ -62,12 +68,7 @@ Kyiv is escalating its air war by striking commercial warehouses, trying to brin
 
 Date: 2026-07-23
 
-### Ukraine targets Russian online retailer Wildberries
-
-Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.
-
-Date: 2026-07-22
-
 ## Sources
 
+- [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z
 - [A Putin critic leaves Russia after he is barred from running for parliament](https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com) — 2026-08-03T15:06:06.000Z

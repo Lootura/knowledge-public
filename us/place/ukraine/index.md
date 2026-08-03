@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
+
+Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
+
+Date: 2026-08-03
 
 ### 'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion
 
@@ -62,12 +68,6 @@ It was the second deadly barrage to hit the Ukrainian capital in two days, as Mo
 
 Date: 2026-08-01
 
-### News Wrap: Death toll from Japan earthquake rises to 34
-
-In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to let Ukraine build Patriot missiles to a.
-
-Date: 2026-07-31
-
 ## Sources
 
-No public source links.
+- [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z

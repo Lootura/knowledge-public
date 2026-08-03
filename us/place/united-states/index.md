@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -44,21 +44,9 @@ President Trump cited progress in the negotiations when canceling a threatened a
 
 Date: 2026-08-03
 
-### Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend
-
-Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news comes as The Odyssey.
-
-Date: 2026-08-03
-
 ### 'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record
 
 "Spider-Man: Brand New Day" broke the "Avengers: Endgame" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.
-
-Date: 2026-08-03
-
-### HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead
-
-If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third of existing homes.
 
 Date: 2026-08-03
 
@@ -68,15 +56,27 @@ The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the 
 
 Date: 2026-08-03
 
+### What to know about Taylor Farms amid the cyclospora outbreak
+
+The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.
+
+Date: 2026-08-03
+
+### Trump says new talks are 'last chance' for Iran to forge a deal
+
+Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.
+
+Date: 2026-08-03
+
 ## Sources
 
 - [How U.S. officials could confirm if Iran was behind the water systems cyberattack](https://www.cbsnews.com/video/how-us-officials-could-confirm-irans-role-in-water-systems/?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
+- [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-08-03T19:20:09.000Z
 - [Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes](https://www.nbcnews.com/world/israel/israel-concerns-hamas-disarmament-deal-trump-gaza-strikes-rcna590539?utm_source=lootura.com) — 2026-08-03T11:57:25.000Z
 - ['Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record](https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million?utm_source=lootura.com) — 2026-08-03T14:55:32.000Z
+- [WATCH: Trump says new talks are 'last chance' for Iran to forge a deal](https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com) — 2026-08-03T19:51:58.000Z
 - [Trump claims Iran talks will start Monday, and 4 other developments in the Middle East](https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com) — 2026-08-03T13:32:18.000Z
-- [HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead](https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html?utm_source=lootura.com) — 2026-08-03T17:20:05.000Z
+- [Top U.S. admiral says no nation will dominate Indo-Pacific](https://www.pbs.org/newshour/world/top-u-s-admiral-says-no-nation-will-dominate-indo-pacific?utm_source=lootura.com) — 2026-08-03T18:25:00.000Z
+- [Prosecutor in D.C. Moves to Dismiss More Reflecting Pool Cases](https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html?utm_source=lootura.com) — 2026-08-03T18:54:55.000Z
 - [Here’s Why the US Is Helping Prop Up the Japanese Yen](https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html?utm_source=lootura.com) — 2026-08-03T15:42:08.000Z
 - [Oil Prices Plummet as Investors Digest Pause in Iran War Fighting](https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com) — 2026-08-03T12:55:01.000Z
-- [U.S. and Japan Coordinated to Help Stabilize the Yen](https://www.nytimes.com/2026/08/02/business/us-japan-yen.html?utm_source=lootura.com) — 2026-08-03T05:50:38.000Z
-- [Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz](https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com) — 2026-08-03T16:11:52.000Z
-- [Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend](https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax?utm_source=lootura.com) — 2026-08-03T14:26:47.000Z

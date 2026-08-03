@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.json",
   "description": "Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T14:33:52.036Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Bernardo \"Bernie\" Moreno",
     "Bernardo Moreno",
@@ -27,6 +27,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Ohio Republicans face a deadline as Rep. Max Miller rejects calls to step aside",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918361/ohio-republicans-face-a-deadline-as-rep-max-miller-rejects-calls-to-step-aside?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:31:05.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
   "evidenceCount": 0
 }

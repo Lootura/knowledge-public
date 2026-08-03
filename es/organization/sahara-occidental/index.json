@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.json",
   "description": "Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Southern Provinces",
     "Spanish Sahara",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
-      "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
-      "date": "2026-08-02"
+      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
+      "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
+      "date": "2026-08-03"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Sahara Occidental first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
+      "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
       "date": "2026-08-02"
     },
     {
@@ -31,6 +36,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
+      "url": "https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:40:11.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

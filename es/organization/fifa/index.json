@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA",
+      "summary": "El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Tebas, a la carga contra Infantino: \"No debe continuar al frente de la FIFA\"",
       "summary": "El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino \"no debe continuar al frente de la FIFA\" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo \"la punta del iceberg\" y no resuelve \"el problema de gobernanza\". \"Infantino no debe continuar. Que la FIFA haya retirado su propue.",
@@ -60,6 +65,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA",
+      "url": "https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:57:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

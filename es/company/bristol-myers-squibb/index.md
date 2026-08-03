@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [AstraZeneca negocia con Bristol Myers Squibb una megafusión farmacéutica de 350.000 millones](https://cincodias.elpais.com/companias/2026-08-03/astrazeneca-negocia-con-bristol-myers-squibb-una-megafusion-farmaceutica-de-350000-millones-segun-el-diario-ft.html?utm_source=lootura.com) — 2026-08-03T12:38:04.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
+
+La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.
+
+Date: 2026-08-03
 
 ### The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián
 
@@ -62,12 +68,7 @@ El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vid
 
 Date: 2026-07-25
 
-### Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana
-
-La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriola, aunque no se requirió traslado de ningún afectado. Las falsas medusas son cada vez más pequeñas.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»](https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com) — 2026-08-03T19:02:29.000Z
 - [La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse](https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:51:57.000Z

@@ -34,4 +34,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/?utm_source=lootura.com) — 2026-08-03T15:05:20.000Z
+No public source links.

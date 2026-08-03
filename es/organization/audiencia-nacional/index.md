@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos
+
+Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y alaba su labor; El Gobierno devolverá «hasta el último» ilegal marroquí de Ceuta y ataca la posición de Italia; Cientos de marroquíes siguen en Ceuta : el Gobierno tardará meses en devolverlos; y la Audiencia Nacional pide a la Policía que.
+
+Date: 2026-08-03
 
 ### Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI
 
@@ -62,13 +68,6 @@ La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Lu
 
 Date: 2026-07-24
 
-### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
-
-El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI](https://www.eldiario.es/politica/robles-defiende-cni-desmarca-gobierno-exigencia-marruecos-investigue-entrada-ceuta_1_13425309.html?utm_source=lootura.com) — 2026-08-03T12:10:26.000Z
-- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z
+- [En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos](https://theobjective.com/espana/2026-08-03/sumario-tarde-inmigrantes-ceuta-reproches-marruecos/?utm_source=lootura.com) — 2026-08-03T17:58:10.000Z

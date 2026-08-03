@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona",
+      "summary": "Julián Álvarez está muy cerca de regresar a un Atlético que no le espera con los brazos abiertos. El delantero argentino mantiene su silencio a una semana de volver a la capital española para volver a entrenar y la mente del club rojiblanco pasa porque el futbolista dé explicaciones de por qué anunció públicamente su d.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock",
       "summary": "El 3 de julio de 1965, los Beatles actuaban en la plaza de toros de La Monumental de Barcelona, un día después de su gran concierto en Madrid. Parecía que el rock por fin entraba por la puerta grande en España. Sin embargo, aquello fue como una anécdota sin gran repercusión posterior. Las giras de los grandes grupos de.",
@@ -65,13 +70,15 @@
       "title": "El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»",
       "summary": "Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital de Bellvitge y dedicado de forma exclusiva al cáncer de próstata desde hace cinco años en el Instituto Valenciano de Oncología, ha creado un canal de divulgación -Prostalia- que le llena especialmente como profesional: las entrevistas a sus.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Cajal, la marca de joyas que convierte el vidrio en pequeñas obras de arte: “Tiempo y dedicación, ese es el verdadero lujo”",
-      "summary": "Cajal tiene el taller en el barrio de Gràcia, en Barcelona. Desde la calle se puede ver a un grupo de chicas jóvenes manosear con soltura pinzas y sopletes. Moldean unas varitas de vidrio de colores; las giran, soplan, recortan, las dejan enfriar. Julieta Cajal (Salta, Argentina, 33) es la fundadora y directora creativ.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona",
+      "url": "https://okdiario.com/deportes/sospechosa-actitud-julian-alvarez-que-mantiene-vilo-atletico-barcelona-19119995?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:54:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

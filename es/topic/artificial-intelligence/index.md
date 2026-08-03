@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El CGPJ avala la reforma de la ley de protección de la infancia frente a la violencia](https://theobjective.com/espana/tribunales/2026-08-03/cgpj-reforma-ley-proteccion-infancia-violencia/?utm_source=lootura.com) — 2026-08-03T16:57:38.000Z
+- [Europa obligará a marcar todo el contenido creado por inteligencia artificial](https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-transparencia/?utm_source=lootura.com) — 2026-08-03T19:36:22.000Z

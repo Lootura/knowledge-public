@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios](https://cincodias.elpais.com/companias/2026-08-03/sacyr-y-acs-arrancan-en-el-plan-de-nuevos-hospitales-de-inglaterra-con-proyectos-milmillonarios.html?utm_source=lootura.com) — 2026-08-03T11:18:42.000Z
+No public source links.

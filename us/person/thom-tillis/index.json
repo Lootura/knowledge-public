@@ -1,0 +1,51 @@
+{
+  "id": "usa-thom-tillis",
+  "name": "Thom Tillis",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/thom-tillis",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/thom-tillis",
+  "markdownUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.json",
+  "description": "Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "aliases": [
+    "Thom Roland Tillis",
+    "Thomas Roland Tillis",
+    "Thom R. Tillis",
+    "Thomas R. Tillis",
+    "Thomas Tillis"
+  ],
+  "changes": [
+    {
+      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
+      "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "summary": "Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Thom Tillis first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
+      "url": "https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:39:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:17:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

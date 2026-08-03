@@ -3,7 +3,7 @@
 > Follow Acting Attorney General, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/person/acting-attorney-general
 
 ## Recent changes

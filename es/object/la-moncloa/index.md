@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta
+
+La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.
+
+Date: 2026-08-03
 
 ### El Gobierno despliega una barrera flotante en la frontera de Ceuta
 
@@ -64,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-No public source links.
+- [Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta](https://elpais.com/espana/2026-08-03/cese-fulminante-de-un-cargo-de-seguridad-nacional-por-informar-de-la-entrada-de-49000-inmigrantes-en-ceuta.html?utm_source=lootura.com) — 2026-08-03T17:41:41.000Z

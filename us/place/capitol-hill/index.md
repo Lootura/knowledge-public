@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’](https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/?utm_source=lootura.com) — 2026-08-03T15:59:34.000Z
+No public source links.

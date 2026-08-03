@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Top U.S. admiral says no nation will dominate Indo-Pacific
+
+The U.S. Pacific Command chief, Admiral Samuel Paparo, is warning that coercive actions by China and others are challenging regional stability in the Indo-Pacific.
+
+Date: 2026-08-03
 
 ### Daily fragment: 2014 Kunshan explosion
 
@@ -62,12 +68,6 @@ Secretary of State Marco Rubio spent much of a meeting with China’s foreign mi
 
 Date: 2026-07-22
 
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Top U.S. admiral says no nation will dominate Indo-Pacific](https://www.pbs.org/newshour/world/top-u-s-admiral-says-no-nation-will-dominate-indo-pacific?utm_source=lootura.com) — 2026-08-03T18:25:00.000Z

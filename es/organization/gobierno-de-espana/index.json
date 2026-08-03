@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
@@ -77,13 +77,7 @@
       "url": "https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T12:13:54.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios",
-      "url": "https://www.expansion.com/economia/2026/08/03/6a70827ee5fdea152c8b457a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T12:04:27.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

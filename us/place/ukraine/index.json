@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
+      "date": "2026-08-03"
+    },
     {
       "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
       "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
@@ -61,13 +66,15 @@
       "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
       "summary": "It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "News Wrap: Death toll from Japan earthquake rises to 34",
-      "summary": "In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to let Ukraine build Patriot missiles to a.",
-      "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "url": "https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T18:02:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

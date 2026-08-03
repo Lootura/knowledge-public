@@ -3,7 +3,7 @@
 > Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T21:00:18.472Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-moreno
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [Ohio Republicans face a deadline as Rep. Max Miller rejects calls to step aside](https://www.npr.org/2026/08/03/nx-s1-5918361/ohio-republicans-face-a-deadline-as-rep-max-miller-rejects-calls-to-step-aside?utm_source=lootura.com) — 2026-08-03T20:31:05.000Z

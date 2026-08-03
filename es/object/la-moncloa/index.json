@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta",
+      "summary": "La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.",
+      "date": "2026-08-03"
+    },
     {
       "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "summary": "Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.",
@@ -60,6 +65,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-03/cese-fulminante-de-un-cargo-de-seguridad-nacional-por-informar-de-la-entrada-de-49000-inmigrantes-en-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:41:41.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

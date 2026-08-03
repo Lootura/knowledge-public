@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "España",
     "Estado español",
@@ -18,6 +18,16 @@
     {
       "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
       "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
+      "summary": "Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest",
+      "summary": "A new study provides quantitative data on cranial vault thickness in Homo antecessor, based on the analysis of three parietal fragments recovered from the Gran Dolina site in the Sierra de Atapuerca, Burgos, Spain.",
       "date": "2026-08-03"
     },
     {
@@ -54,31 +64,27 @@
       "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
       "summary": "Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "summary": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
-      "summary": "The death toll climbed to 67, including some who drowned and others who were killed in a stampede to cross a breakwater barrier, the Spanish government said Saturday.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Spanish Soccer Star Ferran Torres Talks World Cup Win",
-      "url": "https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:25:26.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
+      "url": "https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:39:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
       "url": "https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com",
       "publishedAt": "2026-08-03T17:40:47.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest",
+      "url": "https://phys.org/news/2026-08-homo-antecessor-skull-layers-resemble.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:00:03.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

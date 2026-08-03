@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-03T20:59:54.319Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
+
+Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.
+
+Date: 2026-08-03
 
 ### Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»
 
@@ -62,12 +68,6 @@ Los ministros de Interior de la Unión Europea se reunirán el próximo martes p
 
 Date: 2026-08-01
 
-### Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos
-
-El presidente de España, Pedro Sánchez, ha enviado una carta a la Unión Europea para solicitar una videoconferencia extraordinaria de los ministros del Interior europeos “con carácter de urgencia” a raíz de la crisis migratoria de esta semana en Ceuta. Seguir leyendo...
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»](https://theobjective.com/espana/politica/2026-08-03/junts-partido-democrata-europeo-proyeccion-internacional/?utm_source=lootura.com) — 2026-08-03T13:38:14.000Z
+- [Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»](https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com) — 2026-08-03T18:53:27.000Z

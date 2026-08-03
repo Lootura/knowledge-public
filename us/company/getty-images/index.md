@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [For Republicans planning post-Trump future, one race in Washington is worth watching](https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump?utm_source=lootura.com) — 2026-08-03T09:00:00.000Z
+No public source links.

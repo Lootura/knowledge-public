@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-03T20:59:54.319Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-08-03"
     },
     {
-      "title": "El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste",
-      "summary": "Las tardes de verano en Madrid tienen una costumbre casi ritual: reunirse en un parque, sentarse sobre el césped y contemplar cómo el Sol desaparece tras el perfil de los rascacielos. Sin embargo, el próximo miércoles 12 de agosto de 2026 ese momento cotidiano adquirirá un significado completamente distinto. Ese día se.",
+      "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
+      "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
       "date": "2026-08-03"
     },
     {
-      "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
-      "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
+      "title": "Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA",
+      "summary": "El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste",
+      "summary": "Las tardes de verano en Madrid tienen una costumbre casi ritual: reunirse en un parque, sentarse sobre el césped y contemplar cómo el Sol desaparece tras el perfil de los rascacielos. Sin embargo, el próximo miércoles 12 de agosto de 2026 ese momento cotidiano adquirirá un significado completamente distinto. Ese día se.",
       "date": "2026-08-03"
     },
     {
@@ -55,11 +60,6 @@
       "title": "El Rayo cede y abrirá Vallecas a la Comunidad de Madrid, que ve difícil un regreso inmediato",
       "summary": "La reunión entre la Comunidad de Madrid y el Rayo Vallecano dejó este lunes el primer acercamiento entre ambas partes desde que estalló el conflicto por el estadio de Vallecas. El presidente del club, Raúl Martín Presa, acudió a la citación del consejero de Cultura, Turismo y Deporte, Mariano de Paco. Diez minutos desp.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Mil personas se concentran ante la Embajada de Marruecos en Madrid por la crisis en Ceuta",
-      "summary": "Unas 1.200 de personas, según datos de la Delegación de Gobierno , se han concentrado este domingo ante la Embajada de Marruecos en Madrid para protestar contra la entrada masiva de migrantes en Ceuta ante la «pasividad de los Gobierno de Marruecos y de España». Bajo el lema «Defendamos España», la manifestación ha sid.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -70,15 +70,15 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste",
-      "url": "https://www.larazon.es/madrid/mejor-rincon-madrid-ver-historico-eclipse-solar-12-agosto-gracias-sus-vistas-oeste_202608036a70a5ca71b42a0b5dd7af07.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T14:29:30.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
       "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
       "url": "https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T13:59:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA",
+      "url": "https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:57:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

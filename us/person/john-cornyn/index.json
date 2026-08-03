@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/john-cornyn/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/john-cornyn/index.json",
   "description": "Follow John Cornyn, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-03T21:00:18.472Z",
   "aliases": [
     "Cornyn"
   ],
@@ -24,6 +24,11 @@
       "date": "2026-08-03"
     },
     {
+      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
+      "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "Acting attorney general issues order rescinding \"anti-weaponization fund\"",
       "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
       "date": "2026-08-03"
@@ -36,11 +41,17 @@
   ],
   "sources": [
     {
+      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
+      "url": "https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:39:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
       "url": "https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T17:40:34.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

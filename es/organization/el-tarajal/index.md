@@ -58,4 +58,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [La crisis de Ceuta divide a la opinión pública europea](https://www.lavanguardia.com/politica/20260803/11607112/crisis-ceuta-malogra-imagen-sanchez-espana-asi-ve-prensa-internacional.html?utm_source=lootura.com) — 2026-08-03T16:39:10.000Z
+No public source links.
