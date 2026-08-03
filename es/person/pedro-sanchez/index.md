@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-08-02
 ### Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"
 
 La presidenta de la Comunidad de Madrid y el líder de Vox confluyen en dureza frente a la crisis de Ceuta Leer.
+
+Date: 2026-08-02
+
+### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
+
+El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
+
+Date: 2026-08-02
+
+### La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos
+
+El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...
+
+Date: 2026-08-02
+
+### Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»
+
+La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.
 
 Date: 2026-08-02
 
@@ -38,12 +56,6 @@ Las llegadas de inmigrantes a playas del Campo de Gibraltar en motos de agua y l
 
 Date: 2026-08-02
 
-### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
-
-El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
-
-Date: 2026-08-02
-
 ### 43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio
 
 Los recientes indultos a la expresidenta del Parlamento de Cataluña, Laura Borràs, y al exalcalde de Linares, Juan Fernández , han resucitado la polémica sobre la medida de gracia y su incidencia política en el Gobierno de Pedro Sánchez . La realidad, no obstante, es que esta figura jurídica tiene una fuerte presencia.
@@ -56,23 +68,10 @@ Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobr
 
 Date: 2026-08-02
 
-### Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»
-
-El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.
-
-Date: 2026-08-02
-
-### Veintidós países europeos señalan a España y reprochan la regularización
-
-El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
-
-Date: 2026-08-02
-
 ## Fuentes
 
 - [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
-- [Cuáles son los acuerdos que firmó Sánchez en Argelia antes de la crisis de Ceuta](https://www.elindependiente.com/economia/2026/08/02/acuerdos-firmo-sanchez-argelia-antes-crisis-dceuta/?utm_source=lootura.com) — 2026-08-02T11:28:04.000Z
 - [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T16:03:19.000Z
-- [Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»](https://okdiario.com/espana/gavira-vox-culpa-sanchez-marruecos-trasladar-crisis-migratoria-ceuta-litoral-andaluz-dejado-indefensa-espana-19113911?utm_source=lootura.com) — 2026-08-02T19:30:04.000Z
-- [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z
+- [La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos](https://amp.elmundo.es/espana/2026/08/02/6a6f9b55fc6c83e4178b458a.html?utm_source=lootura.com) — 2026-08-02T20:49:32.000Z
+- [Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»](https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844?utm_source=lootura.com) — 2026-08-02T22:53:45.000Z
 - [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z

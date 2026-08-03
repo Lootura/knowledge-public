@@ -3,7 +3,7 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes

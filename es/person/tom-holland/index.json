@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/tom-holland/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/tom-holland/index.json",
   "description": "Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [
     "Holland"
   ],
   "changes": [
-    {
-      "title": "¿Cuándo aparecerá Miles Morales en el Universo Marvel? Tom Holland confirma el plan de futuro de Spider-Man",
-      "summary": "Con el estreno de Spider-Man: Brand New Day , Tom Holland ha protagonizado su cuarta película propia como el superhéroe a la espera de la ansiada llegada de Miles Morales . El actor lleva años asegurando que le encantaría poder hacer de mentor de alguien más joven que encarne por primera vez a esa otra versión del arác.",
-      "date": "2026-08-02"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Tom Holland first entered the public knowledge record with source-backed evidence.",
@@ -26,6 +21,11 @@
     {
       "title": "‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la historia",
       "summary": "El estreno en cines de Spider-Man: Brand New Day no ha defraudado en absoluto. La nueva película protagonizada por Tom Holland llegaba a las salas cinco años después del éxito colosal que fue No Way Home . La misión era muy difícil: igualar semejante gesta. Pero no es solo que la nueva película haya gustado tanto como.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "¿Cuándo aparecerá Miles Morales en el Universo Marvel? Tom Holland confirma el plan de futuro de Spider-Man",
+      "summary": "Con el estreno de Spider-Man: Brand New Day , Tom Holland ha protagonizado su cuarta película propia como el superhéroe a la espera de la ansiada llegada de Miles Morales . El actor lleva años asegurando que le encantaría poder hacer de mentor de alguien más joven que encarne por primera vez a esa otra versión del arác.",
       "date": "2026-08-02"
     },
     {
@@ -40,13 +40,7 @@
       "url": "https://hipertextual.com/cine-television/spider-man-brand-new-day-arrasa-en-taquilla-segundo-mejor-estreno-de-la-historia/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T18:27:01.000Z",
       "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "¿Cuándo aparecerá Miles Morales en el Universo Marvel? Tom Holland confirma el plan de futuro de Spider-Man",
-      "url": "https://hipertextual.com/cine-television/cuando-aparecera-miles-morales-en-el-universo-marvel-tom-holland-confirma-el-plan-de-futuro-de-spider-man/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T13:00:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

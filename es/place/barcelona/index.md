@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
 
 Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
+
+Date: 2026-08-02
+
+### Guerra por el contrato del siglo del agua en Barcelona
+
+Guerra por el contrato del agua del siglo en Barcelona. Ahora Aqualia y Global Omnium, dos de las empresas referentes en la gestión de servicios hídricos en España, acusan al grupo francés Veolia -a priori la mejor oferta presentada al concurso según el Área Metropolitana de Barcelona (AMB)- de presentar una oferta a l.
 
 Date: 2026-08-02
 
@@ -62,12 +68,7 @@ El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 hora
 
 Date: 2026-07-25
 
-### El Barcelona no puede retener a sus estrellas: la salida de Alexia, Salma, Mapi y Ona desmantelan la sección
-
-El Barcelona no escapa al éxodo de calidad que vive el fútbol femenino español. España vive su mejor momento en cuanto a calidad y potencial de sus futbolistas, como demuestra que sean campeonas del mundo en categoría absoluta y sub-19. Sin embargo, las jugadoras apenas tienen posibilidad de crecer en los clubes de nue.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [Guerra por el contrato del siglo del agua en Barcelona](https://www.abc.es/economia/guerra-contrato-siglo-agua-barcelona-20260803011401-nt.html?utm_source=lootura.com) — 2026-08-02T23:26:21.000Z
 - [Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona](https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com) — 2026-08-02T16:41:00.000Z

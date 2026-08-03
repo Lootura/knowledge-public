@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -70,7 +70,6 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El Gobierno de Merz pone a los alemanes a trabajar](https://www.elcorreo.com/economia/trabajo/gobierno-merz-pone-alemanes-trabajar-20260802000557-ntrc_amp.html?utm_source=lootura.com) — 2026-08-01T22:05:57.000Z
 - [Marruecos da sus propias cifras de la avalancha y culpa a las "mafias" y a "malentendidos" con la sentencia del Supremo](https://www.eldebate.com/espana/20260802/marruecos-reconoce-40000-entradas-inmigrantes-ceuta-11-muertos-territorio_446198.html?utm_source=lootura.com) — 2026-08-02T20:33:14.000Z
 - [El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta](https://www.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com) — 2026-08-02T12:18:00.000Z
 - [Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta](https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html?utm_source=lootura.com) — 2026-08-02T19:12:49.000Z

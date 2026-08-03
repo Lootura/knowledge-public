@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones
+
+Las telecos europeas, entre las que figuran empresas como Telefónica, Orange, Vodafone, Deutsche Telekom o la suiza-italiana Fastweb han publicado un informe, -a través de la patronal GSMA - en el que denuncian el coste milmillonario de sustituir todos los equipos de tecnología china -principalmente de los fabricantes.
+
+Date: 2026-08-02
 
 ### Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa
 
@@ -62,12 +68,6 @@ Washington carga contra la empresa Ford por su alianza con la china Geely y aler
 
 Date: 2026-07-23
 
-### Ford da entrada al grupo chino Geely en Almussafes con un 34%
-
-Acuerdo histórico para la planta de Ford en Almussafes. Cincuenta años después de arrancar motores, la multinacional americana ha anunciado la creación de una empresa conjunta con la china Geely para impulsar la planta de Valencia. Seguir leyendo.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones](https://www.expansion.com/empresas/tecnologia/2026/08/03/6a6ce764e5fdea3b0a8b45a0.html?utm_source=lootura.com) — 2026-08-02T22:00:54.000Z

@@ -70,6 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z
-- [Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte](https://theobjective.com/espana/politica/2026-08-02/ayuso-venta-atico-inmuebles-reconstruir-sierra-norte/?utm_source=lootura.com) — 2026-08-02T13:43:45.000Z
-- [Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»](https://theobjective.com/espana/politica/2026-08-02/ayuso-critica-bomberos-huelga-intoxicado-momentos-dificiles/?utm_source=lootura.com) — 2026-08-02T14:34:34.000Z
+No public source links.

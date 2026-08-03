@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»
+
+La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.
+
+Date: 2026-08-02
 
 ### El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante
 
@@ -62,12 +68,6 @@ Comunidad Valenciana first entered the public knowledge record with source-backe
 
 Date: 2026-07-14
 
-### Incendios forestales en España hoy, en directo: última hora de la evolución de los fuegos activos
-
-El calor extremo mantiene en alerta a los servicios de emergencia ante la evolución de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, Andalucía y la Comunidad Valenciana concentran algunos de los principales operativos en una jornada marcada por nuevos focos y las altas te.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»](https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844?utm_source=lootura.com) — 2026-08-02T22:53:45.000Z

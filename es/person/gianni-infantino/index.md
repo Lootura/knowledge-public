@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El sueldo de Infantino y el dinero que aspiraba a ganar con los derechos del Mundial](https://www.larazon.es/deportes/laotraliga/sueldo-infantino-dinero-que-aspiraba-ganar-derechos-mundial_202608026a6fa757a5690f047360c305.html?utm_source=lootura.com) — 2026-08-02T20:23:51.000Z
+- [La caída en picado de Infantino, el hombre que quiso vender el Mundial](https://www.abc.es/deportes/futbol/caida-picado-infantino-hombre-quiso-vender-mundial-20260803011153-nt.html?utm_source=lootura.com) — 2026-08-02T23:28:07.000Z

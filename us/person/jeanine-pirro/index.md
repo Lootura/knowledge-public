@@ -34,5 +34,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges](https://www.today.com/video/trump-blasts-jeanine-pirro-s-move-to-drop-reflecting-pool-charges-267642949631?utm_source=lootura.com) — 2026-08-02T12:35:30.000Z
-- [In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath](https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com) — 2026-08-02T00:49:28.000Z
+No public source links.

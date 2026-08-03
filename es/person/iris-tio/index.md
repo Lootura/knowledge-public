@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Iris Tio y Lilou Lluis, subcampeonas de Europa en dúo libre](https://www.abc.es/deportes/iris-tio-lilou-lluis-subcampeonas-europa-duo-20260801181237-nt.html?utm_source=lootura.com) — 2026-08-02T16:07:52.000Z
+No public source links.

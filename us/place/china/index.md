@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Daily fragment: 2014 Kunshan explosion](https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+No public source links.

@@ -35,19 +35,6 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
-      "url": "https://www.today.com/video/trump-blasts-jeanine-pirro-s-move-to-drop-reflecting-pool-charges-267642949631?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T12:35:30.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T00:49:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

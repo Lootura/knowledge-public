@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes](https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html?utm_source=lootura.com) — 2026-08-02T11:05:56.000Z
+No public source links.

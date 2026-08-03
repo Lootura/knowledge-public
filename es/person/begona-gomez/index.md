@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La contable de Red.es denuncia ante la Policía la "orden directa" de su superior para borrar información del empresario amigo de Begoña Gómez
+
+L Acudió a la Policía, el 16 de julio, ante la sospecha de que su superior le exigió un cambio «irregular» L El alto cargo pidió eliminar información contable de un expediente judicializado del amigo de Begoña Gómez Leer.
+
+Date: 2026-08-02
 
 ### Pedro Sánchez ya está en Lanzarote para descansar hasta el 24
 
@@ -62,12 +68,6 @@ Begoña Gómez será juzgada por un jurado popular después de que la Audiencia 
 
 Date: 2026-07-18
 
-### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
-
-La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [La contable de Red.es denuncia ante la Policía la "orden directa" de su superior para borrar información del empresario amigo de Begoña Gómez](https://www.elmundo.es/espana/2026/08/03/6a6f928121efa0af3e8b4578.html?utm_source=lootura.com) — 2026-08-02T23:32:51.000Z

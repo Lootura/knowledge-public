@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-31
 ## Sources
 
 - [GOP Sen. John Kennedy: ‘I wouldn’t bet my house on’ Blanche’s confirmation as attorney general](https://www.nbcnews.com/meet-the-press/video/gop-sen-john-kennedy-i-wouldn-t-bet-my-house-on-blanche-s-confirmation-as-attorney-general-267645509641?utm_source=lootura.com) — 2026-08-02T13:45:29.000Z
-- [Trump Battles GOP Holdouts Amid Democrats’ Factional Fight](https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com) — 2026-08-02T13:09:33.000Z

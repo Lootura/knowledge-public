@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’](https://www.nbcnews.com/meet-the-press/video/bernie-sanders-on-if-he-regrets-platner-endorsement-easier-to-be-a-monday-morning-quarterback-267645509727?utm_source=lootura.com) — 2026-08-02T13:58:22.000Z
+No public source links.

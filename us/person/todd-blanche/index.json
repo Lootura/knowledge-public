@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-03T02:34:45.722Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -71,13 +71,7 @@
       "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-john-kennedy-i-wouldn-t-bet-my-house-on-blanche-s-confirmation-as-attorney-general-267645509641?utm_source=lootura.com",
       "publishedAt": "2026-08-02T13:45:29.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
-      "url": "https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T13:09:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

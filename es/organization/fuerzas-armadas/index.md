@@ -64,4 +64,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»](https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com) — 2026-08-02T16:39:42.000Z
+No public source links.

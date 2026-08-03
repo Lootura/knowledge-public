@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T21:01:38.033Z",
+  "generatedAt": "2026-08-03T02:45:54.295Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|51|1785703960370",
+    "signature": "1.18.0|52|1785724485722",
     "version": "1.18.0",
-    "build": 51,
-    "latestEntityUpdatedAt": "2026-08-02T20:52:40.370Z"
+    "build": 52,
+    "latestEntityUpdatedAt": "2026-08-03T02:34:45.722Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-iran",
       "name": "Iran",
       "type": "place",
-      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-08-02T20:52:40.370Z",
-      "score": 1705,
-      "sourceCount": 287,
+      "updatedAt": "2026-08-03T02:34:45.722Z",
+      "score": 1740,
+      "sourceCount": 284,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,12 +31,12 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
+        "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-02T20:52:40.370Z",
-        "score": 1688,
-        "sourceCount": 509,
+        "updatedAt": "2026-08-03T02:34:45.722Z",
+        "score": 1662,
+        "sourceCount": 502,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,42 +44,42 @@
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
+        "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-02T20:52:40.370Z",
-        "score": 1664,
-        "sourceCount": 516,
+        "updatedAt": "2026-08-03T02:34:45.722Z",
+        "score": 1651,
+        "sourceCount": 525,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-saudi-arabia",
-        "name": "Saudi Arabia",
+        "id": "usa-reflecting-pool",
+        "name": "Reflecting pool",
+        "type": "object",
+        "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+        "url": "https://atlas.lootura.com/us/object/reflecting-pool",
+        "path": "/us/object/reflecting-pool",
+        "updatedAt": "2026-08-03T02:34:45.722Z",
+        "score": 1635,
+        "sourceCount": 7,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-espana",
+        "name": "Spain",
         "type": "place",
-        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
-        "path": "/us/place/saudi-arabia",
-        "updatedAt": "2026-08-02T20:52:40.370Z",
-        "score": 1652,
-        "sourceCount": 22,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
-        "type": "person",
-        "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-02T20:52:40.370Z",
-        "score": 1643,
-        "sourceCount": 35,
+        "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+        "url": "https://atlas.lootura.com/us/place/espana",
+        "path": "/us/place/espana",
+        "updatedAt": "2026-08-03T02:34:45.722Z",
+        "score": 1629,
+        "sourceCount": 21,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 93
+    "publicEntityCount": 92
   }
 }

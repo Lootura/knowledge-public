@@ -3,7 +3,7 @@
 > Follow Twin Falls, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/twin-falls
 
 ## Recent changes
@@ -20,15 +20,21 @@ The suspect, identified as 24-year-old Chad Williams, died from a self-inflicted
 
 Date: 2026-08-02
 
-### Police identify suspect in deadly Idaho In-N-Out shooting, say he died of self-inflicted gunshot wound
-
-Police identified the man accused of opening fire Saturday at a recently opened In-N-Out Burger location in Twin Falls, Idaho, as Chad Williams, 24, saying he died from a self-inflicted gunshot wound after fatally shooting an employee and a customer. Investigators believe Williams acted alone in the Saturday attack, Tw.
-
-Date: 2026-08-02
-
 ### Shooting at In-N-Out in Idaho Leaves at Least 3 Dead and 5 Wounded
 
 The shooting occurred at a busy shopping center in Twin Falls, as people were getting food, shopping and going to the movies on a Saturday afternoon. The police said the shooter was dead.
+
+Date: 2026-08-02
+
+### New video shows moment hero fires at shooter at Idaho In-and-Out
+
+Police in Idaho are hailing an armed citizen a hero for distracting a gunman who opened fire outside an In-and-Out in Twin Falls, helping save lives. Officials say three people were killed and seven others were injured in the shooting. NBC News’ Dana Griffin reports from the scene.
+
+Date: 2026-08-02
+
+### Police identify suspect in deadly Idaho In-N-Out shooting, say he died of self-inflicted gunshot wound
+
+Police identified the man accused of opening fire Saturday at a recently opened In-N-Out Burger location in Twin Falls, Idaho, as Chad Williams, 24, saying he died from a self-inflicted gunshot wound after fatally shooting an employee and a customer. Investigators believe Williams acted alone in the Saturday attack, Tw.
 
 Date: 2026-08-02
 
@@ -62,15 +68,9 @@ Three people were killed in what police described as an “active shooter incide
 
 Date: 2026-08-01
 
-### At least 3 killed in Idaho In-N-Out Burger shooting; suspect dead
-
-Three people are dead in a shooting around an In-N-Out Burger in Twin Falls, Idaho, on Saturday, authorities said.
-
-Date: 2026-08-01
-
 ## Sources
 
 - [Idaho In-N-Out gunman died by gunshot wound after killing 3, wounding 7, Twin Falls police say](https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/?utm_source=lootura.com) — 2026-08-02T20:43:05.000Z
-- [Police identify suspect in deadly Idaho In-N-Out shooting, say he died of self-inflicted gunshot wound](https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound?utm_source=lootura.com) — 2026-08-02T20:34:34.000Z
+- [New video shows moment hero fires at shooter at Idaho In-and-Out](https://www.nbcnews.com/nightly-news/video/new-video-shows-moment-hero-fires-at-shooter-at-idaho-in-and-out-267650629521?utm_source=lootura.com) — 2026-08-02T23:04:15.000Z
 - [Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says](https://www.pbs.org/newshour/nation/idaho-fast-food-restaurant-shooting-leaves-3-dead-and-7-injured-city-spokesman-says?utm_source=lootura.com) — 2026-08-02T15:23:09.000Z
 - [Shooting at In-N-Out in Idaho Leaves at Least 3 Dead and 5 Wounded](https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html?utm_source=lootura.com) — 2026-08-02T13:25:33.000Z

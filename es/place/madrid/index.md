@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -70,10 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Los planes de Vinicius, a examen de Mourinho](https://www.abc.es/deportes/real-madrid/planes-vinicius-examen-mourinho-20260802172226-nt.html?utm_source=lootura.com) — 2026-08-02T17:42:37.000Z
-- [Cincuenta años de la muerte de Cecilia, el gran misterio del pop español](https://www.abc.es/cultura/musica/anos-muerte-cecilia-20260802112340-nt.html?utm_source=lootura.com) — 2026-08-02T18:40:16.000Z
 - [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T16:03:19.000Z
-- [El radar de Madrid que más multa está en la M-40 muy cerca de Mercamadrid](https://okdiario.com/motor/radar-madrid-que-mas-multa-esta-m-40-muy-cerca-mercamadrid-19113986?utm_source=lootura.com) — 2026-08-02T19:00:55.000Z
-- [Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»](https://theobjective.com/espana/politica/2026-08-02/ayuso-sanchez-invasion-ceuta-dar-gracias/?amp=&utm_source=lootura.com) — 2026-08-02T12:31:35.000Z
-- [Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte](https://theobjective.com/espana/politica/2026-08-02/ayuso-venta-atico-inmuebles-reconstruir-sierra-norte/?utm_source=lootura.com) — 2026-08-02T13:43:45.000Z
-- [Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»](https://theobjective.com/espana/politica/2026-08-02/ayuso-critica-bomberos-huelga-intoxicado-momentos-dificiles/?utm_source=lootura.com) — 2026-08-02T14:34:34.000Z

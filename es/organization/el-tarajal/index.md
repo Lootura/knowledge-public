@@ -52,4 +52,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta](https://theobjective.com/espana/2026-08-02/interior-asegura-barreras-contencion-operativas-ceuta/?utm_source=lootura.com) — 2026-08-02T12:05:49.000Z
+No public source links.

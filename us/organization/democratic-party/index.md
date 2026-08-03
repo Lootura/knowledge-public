@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Trump Battles GOP Holdouts Amid Democrats’ Factional Fight
-
-Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.
-
-Date: 2026-08-02
 
 ### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
 
@@ -23,6 +17,12 @@ Date: 2026-08-02
 ### Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?
 
 Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.
+
+Date: 2026-08-02
+
+### Trump Battles GOP Holdouts Amid Democrats’ Factional Fight
+
+Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.
 
 Date: 2026-08-02
 
@@ -70,6 +70,5 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Trump Battles GOP Holdouts Amid Democrats’ Factional Fight](https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com) — 2026-08-02T13:09:33.000Z
 - [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z
 - [Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?](https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com) — 2026-08-02T14:03:03.000Z

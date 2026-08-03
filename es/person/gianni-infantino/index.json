@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [
     "Gianni",
     "Infantino"
@@ -37,11 +37,11 @@
   ],
   "sources": [
     {
-      "title": "El sueldo de Infantino y el dinero que aspiraba a ganar con los derechos del Mundial",
-      "url": "https://www.larazon.es/deportes/laotraliga/sueldo-infantino-dinero-que-aspiraba-ganar-derechos-mundial_202608026a6fa757a5690f047360c305.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T20:23:51.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "La caída en picado de Infantino, el hombre que quiso vender el Mundial",
+      "url": "https://www.abc.es/deportes/futbol/caida-picado-infantino-hombre-quiso-vender-mundial-20260803011153-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T23:28:07.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

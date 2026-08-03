@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
 Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
+
+Date: 2026-08-02
+
+### Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final
+
+El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio lideraz
 
 Date: 2026-08-01
 
-### El chavismo y la oposición negocian sin María Corina y con 379 presos políticos aún entre rejas
-
-Laudelina Romero lleva una silla de plástico, un termo con café frío y una foto de su hijo Gabriel Barros pegada con cinta al pecho. Gabriel es uno de los 379 presos políticos que registra Foro Penal en su último informe. Laudelina lleva más de 50 días apostada frente a la embajada de Estados Unidos en Caracas. Nadie d.
-
-Date: 2026-08-01
-
 ## Fuentes
 
 - [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
-- [Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz](https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com) — 2026-08-02T15:23:51.000Z
+- [Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final](https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/?utm_source=lootura.com) — 2026-08-02T21:50:17.000Z

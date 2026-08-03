@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- ['Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80](https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit?utm_source=lootura.com) — 2026-08-01T22:32:44.000Z
+No public source links.

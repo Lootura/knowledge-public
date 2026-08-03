@@ -3,22 +3,28 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Trump says deal to end Iran war may be imminent, agrees to "cancel the attack"
+### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
 
-On Saturday, Saudi Crown Prince Mohammed bin Salman spoke with Mr. Trump and cautioned him against conducting a fresh round of strikes on Iran, CBS News learned.
+Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### Trump Calls for Pause on Military Strikes Against Iran
+### Trump says Iran talks to resume Monday after calling off planned strikes
 
-President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.
+The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### Trump says Iran talks set for Monday as Tehran and Oman discuss strait of Hormuz deal
+
+The US president did not provide details of where Monday meeting would take place or who would be involved Donald Trump said talks with Iran will happen on Monday but declined to set a deadline for an agreement after earlier saying he had called ⁠off an imminent attack in the hope ⁠of quickly reaching a deal to ​reopen.
+
+Date: 2026-08-03
 
 ### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
 
@@ -56,25 +62,21 @@ During a fleeting truce, Iranians covertly devised a plan to raise the war’s c
 
 Date: 2026-08-02
 
-### Oil companies see soaring profits amid Iran war
+### Here’s the biggest news you missed this weekend
 
-As the threat of escalation in the war with Iran drives gas prices higher and hurts economies worldwide, one sector is doing really well, the revenue for Big Oil. Ali Bauman explains.
-
-Date: 2026-08-02
-
-### Trump says he's cancelling Iran strikes, deal pending
-
-Trump said Iran and other Middle Eastern countries had asked the U.S. "to hold off any attack" on Iran because "the perimeters of a deal has been agreed to." (Image credit: Jacquelyn Martin).
+President Donald Trump agreed to pause attacks on Iran on Saturday, citing “perimeters of a deal” that would end Tehran’s “nuclear threat” and reopen the Strait of Hormuz.
 
 Date: 2026-08-02
 
 ## Sources
 
 - [Trump admin. touts its transparency. Yet few Iran war details have been shared.](https://www.cbsnews.com/news/trump-administration-iran-war-details-transparency/?utm_source=lootura.com) — 2026-08-02T16:15:39.000Z
-- [Trump says deal to end Iran war may be imminent, agrees to "cancel the attack"](https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/?utm_source=lootura.com) — 2026-08-02T03:25:16.000Z
-- [Trump Calls for Pause on Military Strikes Against Iran](https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com) — 2026-08-02T12:32:59.000Z
+- [Oil drops over 4% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T02:33:19.000Z
+- [Trump says Iran talks to resume Monday after calling off planned strikes](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html?utm_source=lootura.com) — 2026-08-03T02:23:21.000Z
+- [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-2-rcna590313?utm_source=lootura.com) — 2026-08-02T22:14:37.000Z
+- [Fragile ceasefire between U.S. and Iran](https://www.nbcnews.com/nightly-news/video/fragile-ceasefire-between-u-s-and-iran-267650117537?utm_source=lootura.com) — 2026-08-02T22:51:08.000Z
 - [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z
+- [Trump frequently announces he's halting strikes in Iran. But they keep happening](https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening?utm_source=lootura.com) — 2026-08-02T21:29:47.000Z
 - [Fact-checking Trump's claims about how the Iran war is going](https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com) — 2026-08-02T17:12:26.000Z
 - [Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal](https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran?utm_source=lootura.com) — 2026-08-02T20:16:50.000Z
-- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T15:27:49.000Z
-- [Iran Plotted Wider War With Help of Its Proxies](https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html?utm_source=lootura.com) — 2026-08-02T18:36:29.000Z
+- [Trump says Iran talks set for Monday as Tehran and Oman discuss strait of Hormuz deal](https://www.theguardian.com/world/2026/aug/03/trump-us-iran-talks-strait-of-hormuz-nuclear-programme?utm_source=lootura.com) — 2026-08-03T01:31:53.000Z

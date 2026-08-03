@@ -58,4 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Fragmento del día: Irak](https://es.wikipedia.org/wiki/Irak?utm_source=lootura.com) — 2026-08-02T04:00:00.000Z
+No public source links.

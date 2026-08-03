@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-03T02:34:45.722Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+      "summary": "Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by \"botched installation and not vandalism.\".",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
+      "summary": "The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
       "summary": "President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.",
@@ -49,11 +59,17 @@
   ],
   "sources": [
     {
-      "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
-      "url": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-01T22:49:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+      "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T00:56:29.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
+      "url": "https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T00:55:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

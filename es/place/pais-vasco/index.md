@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### «Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»
+
+Euskadi recibe a un grupo de chicas afganas que buscan labrarse un futuro lejos de los talibanes, que llevan al frente de su país desde 2021.
+
+Date: 2026-08-02
+
+### La ofensiva empresarial de País Vasco desata operaciones por 6.000 millones
+
+La estrategia del Gobierno de País Vasco para, acompañado de empresarios y financieros, arraigar en Euskadi a las empresas tractoras de la región ha desatado una oleada de operaciones corporativas por valor (enterprise value) superior a 6.000 millones de euros en los últimos cinco años. Seguir leyendo.
+
+Date: 2026-08-02
 
 ### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
 
@@ -56,18 +68,7 @@ El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depó
 
 Date: 2026-07-23
 
-### Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano
-
-Mientras algunos vascos aprovechan el verano para viajar al extranjero, otros prefieren quedarse cerca y explorar lugares que conservan la esencia de Euskadi. Entre ellos destaca Hondarribia , una localidad que mezcla mar, historia y gastronomía en un entorno que parece detenido en el tiempo. Según Hondarribia Turismo.
-
-Date: 2026-07-23
-
-### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
-
-La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián](https://www.larazon.es/pais-vasco/castillo-vasco-que-parece-sacado-cuento-torre-satrustegi-seis-generaciones-patrimonio-riesgo-san-sebastian-b30m_202608026a6f6992a5690f0473605b1a.html?utm_source=lootura.com) — 2026-08-02T16:00:18.000Z
+- [«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»](https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:49:49.000Z
+- [La ofensiva empresarial de País Vasco desata operaciones por 6.000 millones](https://www.expansion.com/empresas/2026/08/03/6a6f8d43468aebc6798b45bd.html?utm_source=lootura.com) — 2026-08-02T22:00:28.000Z

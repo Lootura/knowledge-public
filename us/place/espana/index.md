@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
 
 Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
+
+Date: 2026-08-02
+
+### In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants
+
+Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ Spain is rushing troops and resources to one of its territories in North Africa,
 
 Date: 2026-07-31
 
-### Wildfire Smoke Chokes Skies in Spain and France
-
-Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T16:29:12.000Z
-- [Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T13:50:27.000Z
+- [In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T21:49:48.000Z

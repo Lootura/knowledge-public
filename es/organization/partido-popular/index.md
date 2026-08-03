@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
-
-El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
-
-Date: 2026-08-02
 
 ### Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta
 
@@ -23,6 +17,12 @@ Date: 2026-08-02
 ### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
 
 El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
+
+Date: 2026-08-02
+
+### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
+
+El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
 
 Date: 2026-08-02
 
@@ -70,6 +70,5 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»](https://okdiario.com/baleares/tellado-denuncia-que-fronteras-baleares-no-estan-ni-defendidas-ni-vigiladas-ni-adecuadamente-atendidas-19113498?utm_source=lootura.com) — 2026-08-02T16:39:42.000Z
 - [Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta](https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com) — 2026-08-02T19:06:21.000Z
 - [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z

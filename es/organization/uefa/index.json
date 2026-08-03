@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
   "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [
     "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
@@ -18,16 +18,23 @@
   ],
   "changes": [
     {
-      "title": "European criticism of FIFA ruling grew",
-      "summary": "La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.",
-      "date": "2026-08-01"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "UEFA first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
+    },
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.",
+      "date": "2026-08-01"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Desvelan cinco posibles candidatos a sustituir a Infantino como presidente de la FIFA",
+      "url": "https://okdiario.com/deportes/desvelan-cinco-posibles-candidatos-sustituir-infantino-como-presidente-fifa-19114158?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T21:42:22.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

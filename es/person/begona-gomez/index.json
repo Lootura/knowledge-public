@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La contable de Red.es denuncia ante la Policía la \"orden directa\" de su superior para borrar información del empresario amigo de Begoña Gómez",
+      "summary": "L Acudió a la Policía, el 16 de julio, ante la sospecha de que su superior le exigió un cambio «irregular» L El alto cargo pidió eliminar información contable de un expediente judicializado del amigo de Begoña Gómez Leer.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Pedro Sánchez ya está en Lanzarote para descansar hasta el 24",
       "summary": "Pedro Sánchez ya se encuentra en Lanzarote para disfrutar de sus vacaciones de verano. El presidente del Gobierno y su esposa, Begoña Gómez, aterrizaron este sábado, poco después de las 13:00 horas, en el Aeropuerto César Manrique-Lanzarote a bordo de un avión Falcon del Ejército del Aire, desde donde se desplazaron a.",
@@ -55,13 +60,15 @@
       "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
       "summary": "Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
-      "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La contable de Red.es denuncia ante la Policía la \"orden directa\" de su superior para borrar información del empresario amigo de Begoña Gómez",
+      "url": "https://www.elmundo.es/espana/2026/08/03/6a6f928121efa0af3e8b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T23:32:51.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

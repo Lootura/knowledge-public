@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-03T02:34:45.722Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
-      "summary": "Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.",
-      "date": "2026-08-02"
-    },
     {
       "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
       "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
@@ -26,6 +21,11 @@
     {
       "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
       "summary": "Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
+      "summary": "Meet the Press moderator Kristen Welker joins NBC’s Hallie Jackson on Sunday TODAY to discuss President Donald Trump’s conflict with fellow Republicans over Todd Blanche’s nomination as Democrats face an ideological battle in Tuesday’s Congressional Primary in Michigan.",
       "date": "2026-08-02"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Trump Battles GOP Holdouts Amid Democrats’ Factional Fight",
-      "url": "https://www.today.com/video/trump-battles-gop-holdouts-amid-democrats-factional-fight-267642949694?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T13:09:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
       "url": "https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com",
       "publishedAt": "2026-08-02T12:08:02.000Z",
@@ -84,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

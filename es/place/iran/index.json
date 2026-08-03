@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -24,13 +24,23 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
+      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
+      "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer.",
       "date": "2026-08-02"
     },
     {
-      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
-      "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer.",
+      "title": "La eterna indecisión de Trump en Irán",
+      "summary": "“¿Esta noche nos despertaremos con las sirenas antiaéreas?”, pregunta un jerosolimitano a su amigo en una cafetería del centro de Jerusalén. “Yo ya he hecho planes. Si llega la guerra, que llegue; intento no preocuparme en exceso”, responde el otro, sin levantar la vista del café. La escena resume el estado de ánimo de.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
+      "summary": "El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
+      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
       "date": "2026-08-02"
     },
     {
@@ -57,16 +67,6 @@
       "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
       "summary": "Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de en una escalada global Leer.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Irán amenaza con asesinar a Melania Trump con un gas venenoso",
-      "summary": "La agencia estatal de noticias iraní Tasnim ha difundido una grabación en su canal de Telegram, titulado «Dónde matar a Melania», que presentaba instrucciones operativas para asesinar a la primera dama estadounidense Melania Trump. Afirman basarse en información de redes de seguridad anónimas e imágenes satelitales, el.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Irán asegura que ha destruido unos 150 objetivos de EEUU en las últimas dos semanas",
-      "summary": "La Guardia Revolucionaria de Irán ha asegurado que sus fuerzas han destruido unos 150 objetivos militares de Estados Unidos en la región del golfo Pérsico durante las últimas dos semanas de repunte de hostilidades, entre ellos centros de mando, aviones y helicópteros de combate, sistemas de defensa antiaérea Patriot, r.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -83,11 +83,17 @@
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "url": "https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T15:23:51.000Z",
+      "title": "La eterna indecisión de Trump en Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
+      "url": "https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T21:50:17.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
 Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
+
+Date: 2026-08-02
+
+### La eterna indecisión de Trump en Irán
+
+“¿Esta noche nos despertaremos con las sirenas antiaéreas?”, pregunta un jerosolimitano a su amigo en una cafetería del centro de Jerusalén. “Yo ya he hecho planes. Si llega la guerra, que llegue; intento no preocuparme en exceso”, responde el otro, sin levantar la vista del café. La escena resume el estado de ánimo de.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ El presidente de Estados, Donald Trump , compartió este sábado en un mensaje d
 
 Date: 2026-08-01
 
-### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
-
-Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.
-
-Date: 2026-08-01
-
 ## Fuentes
 
 - [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
-- [Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz](https://theobjective.com/internacional/2026-08-02/iran-trump-asegura-ningun-acuerdo-ormuz/?utm_source=lootura.com) — 2026-08-02T15:23:51.000Z
+- [La eterna indecisión de Trump en Irán](https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html?utm_source=lootura.com) — 2026-08-02T22:05:00.000Z

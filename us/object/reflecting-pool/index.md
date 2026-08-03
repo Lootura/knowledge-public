@@ -3,10 +3,22 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
+
+Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
+
+Date: 2026-08-03
+
+### D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage
+
+The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.
+
+Date: 2026-08-03
 
 ### Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga
 
@@ -52,4 +64,5 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga](https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html?utm_source=lootura.com) — 2026-08-01T22:49:51.000Z
+- [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-03T00:56:29.000Z
+- [D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage](https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com) — 2026-08-03T00:55:09.000Z

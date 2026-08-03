@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos](https://www.larazon.es/tecnologia-consumo/series/este-thriller-abogados-jake-gyllenhaal-te-atrapara-primer-instante-esta-streaming-solo-tiene-8-capitulos_202608026a69e6a7a5690f047357bf07.html?utm_source=lootura.com) — 2026-08-02T16:01:00.000Z
+No public source links.

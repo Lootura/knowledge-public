@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+
+Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
+
+Date: 2026-08-03
 
 ### Trump Calls for Pause on Military Strikes Against Iran
 
@@ -62,12 +68,6 @@ Video footage and satellite images reveal new details about Iranian strikes on U
 
 Date: 2026-07-23
 
-### Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’
-
-NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Trump Calls for Pause on Military Strikes Against Iran](https://www.today.com/video/trump-calls-for-pause-on-military-strikes-against-iran-267641413983?utm_source=lootura.com) — 2026-08-02T12:32:59.000Z
+- [Oil drops over 4% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T02:33:19.000Z

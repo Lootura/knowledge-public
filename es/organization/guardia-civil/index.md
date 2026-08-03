@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo
+
+Las estructuras, ya plenamente operativas y custodiadas por la Guardia Civil, permiten rechazar de inmediato a quienes las franquean para entrar por mar Leer.
+
+Date: 2026-08-02
 
 ### Las barreras de contención en aguas de Ceuta ya están operativas: la Guardia Civil muestra al detalle la valla neumática de 500 metros
 
@@ -62,13 +68,6 @@ Un equipo de vídeo de EL PAÍS entrevista a la portavoz de la Guardia Civil en 
 
 Date: 2026-07-24
 
-### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
-
-El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Las barreras de contención en aguas de Ceuta ya están operativas: la Guardia Civil muestra al detalle la valla neumática de 500 metros](https://www.20minutos.es/ceuta/las-barreras-contencion-aguas-ceuta-ya-estan-operativas-guardia-civil-muestra-detalle-valla-neumatica-500-metros_7021768_0.html?utm_source=lootura.com) — 2026-08-02T16:48:07.000Z
-- [Los inmigrantes ilegales tardan apenas horas en cruzar a Ceuta a nado burlando las boyas que puso el Gobierno](https://okdiario.com/espana/okdiario-testigo-como-inmigrantes-siguen-cruzando-frontera-ceuta-pese-que-gobierno-asegura-que-hay-normalidad-19113741?utm_source=lootura.com) — 2026-08-02T19:00:13.000Z
+- [Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo](https://www.elmundo.es/espana/2026/08/03/6a6f9abffc6c83b24f8b4580.html?utm_source=lootura.com) — 2026-08-02T23:44:08.000Z

@@ -3,16 +3,40 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath
+### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
 
-Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.
+Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage
+
+The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.
+
+Date: 2026-08-03
+
+### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+
+Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
+
+Date: 2026-08-03
+
+### Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'
+
+Former Rep. Kay Granger, R-Texas, died on Sunday at the age of 83, with her ex-colleagues remembering her as a trailblazer who broke barriers for women. Granger was the first woman elected mayor of Fort Worth, Texas, as well as the first Republican woman from the Lone Star State elected to the U.S. House of Representat.
+
+Date: 2026-08-03
+
+### U.S. and Japan Coordinated to Help Stabilize the Yen
+
+U.S. and Japanese officials confirmed on Sunday that the Treasury Department had moved last week to help the currency.
+
+Date: 2026-08-03
 
 ### What Cyclospora does inside the gut and how it gets there
 
@@ -23,18 +47,6 @@ Date: 2026-08-02
 ### U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme
 
 The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.
-
-Date: 2026-08-02
-
-### Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.
-
-At a national summit of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.
-
-Date: 2026-08-02
-
-### Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges
-
-President Donald Trump is criticizing his handpicked choice for U.S. attorney in D.C., Jeanine Pirro, for dropping charges against the former Olympian accused of vandalizing the reflecting pool. Meanwhile, the president said he will continue to push for an “anti-weaponization fund” if the senate does not confirm Todd B.
 
 Date: 2026-08-02
 
@@ -56,26 +68,15 @@ The small mountain streams that feed many of the West's rivers may face a much d
 
 Date: 2026-08-02
 
-### Iran Plotted Wider War With Help of Its Proxies
-
-During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.
-
-Date: 2026-08-02
-
-### Trump says he's cancelling Iran strikes, deal pending
-
-Trump said Iran and other Middle Eastern countries had asked the U.S. "to hold off any attack" on Iran because "the perimeters of a deal has been agreed to." (Image credit: Jacquelyn Martin).
-
-Date: 2026-08-02
-
 ## Sources
 
+- [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-03T00:56:29.000Z
+- [D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage](https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com) — 2026-08-03T00:55:09.000Z
 - [Rep. Turner says infrastructure should be "hardened" as U.S. probes water cyberattack](https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/?utm_source=lootura.com) — 2026-08-02T16:23:10.000Z
-- [Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges](https://www.today.com/video/trump-blasts-jeanine-pirro-s-move-to-drop-reflecting-pool-charges-267642949631?utm_source=lootura.com) — 2026-08-02T12:35:30.000Z
+- [Oil drops over 4% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T02:33:19.000Z
+- [Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'](https://www.foxnews.com/politics/trailblazing-former-republican-rep-kay-granger-dies-83-broke-barriers?utm_source=lootura.com) — 2026-08-03T02:01:52.000Z
+- [Fragile ceasefire between U.S. and Iran](https://www.nbcnews.com/nightly-news/video/fragile-ceasefire-between-u-s-and-iran-267650117537?utm_source=lootura.com) — 2026-08-02T22:51:08.000Z
 - [What Cyclospora does inside the gut and how it gets there](https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak?utm_source=lootura.com) — 2026-08-02T09:00:00.000Z
 - [Fact-checking Trump's claims about how the Iran war is going](https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com) — 2026-08-02T17:12:26.000Z
+- [Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes](https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes?utm_source=lootura.com) — 2026-08-02T20:58:10.000Z
 - [Climate change could dramatically reduce water flowing from the West's headwaters](https://phys.org/news/2026-07-climate-west-headwaters.html?utm_source=lootura.com) — 2026-08-02T18:40:01.000Z
-- [In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath](https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html?utm_source=lootura.com) — 2026-08-02T00:49:28.000Z
-- [U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme](https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html?utm_source=lootura.com) — 2026-08-02T15:22:14.000Z
-- [Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.](https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html?utm_source=lootura.com) — 2026-08-02T15:10:00.000Z
-- [Iran Plotted Wider War With Help of Its Proxies](https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html?utm_source=lootura.com) — 2026-08-02T18:36:29.000Z

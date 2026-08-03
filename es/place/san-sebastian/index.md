@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T02:34:26.087Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse
+
+Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas esconden un relato sobre arte, poder y la transformación urbanística de San Sebastián.
+
+Date: 2026-08-02
 
 ### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
 
@@ -62,12 +68,6 @@ El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grande
 
 Date: 2026-07-23
 
-### El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao
-
-El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián](https://www.larazon.es/pais-vasco/castillo-vasco-que-parece-sacado-cuento-torre-satrustegi-seis-generaciones-patrimonio-riesgo-san-sebastian-b30m_202608026a6f6992a5690f0473605b1a.html?utm_source=lootura.com) — 2026-08-02T16:00:18.000Z
+- [La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse](https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:51:57.000Z

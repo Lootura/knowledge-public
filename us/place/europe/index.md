@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T02:34:45.722Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-07-31
 
 ## Sources
 
-- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-02T20:52:45.683Z
+- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-03T02:34:52.141Z
 - [2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages](https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages?utm_source=lootura.com) — 2026-08-02T15:49:26.000Z

@@ -71,13 +71,6 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [
-    {
-      "title": "Daily fragment: 2014 Kunshan explosion",
-      "url": "https://en.wikipedia.org/wiki/2014_Kunshan_explosion?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T04:00:00.000Z",
-      "sourceId": "lootura-us-lootura-daily"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

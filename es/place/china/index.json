@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-03T02:34:26.087Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones",
+      "summary": "Las telecos europeas, entre las que figuran empresas como Telefónica, Orange, Vodafone, Deutsche Telekom o la suiza-italiana Fastweb han publicado un informe, -a través de la patronal GSMA - en el que denuncian el coste milmillonario de sustituir todos los equipos de tecnología china -principalmente de los fabricantes.",
+      "date": "2026-08-02"
+    },
     {
       "title": "Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa",
       "summary": "La nueva máquina de helados de Xiaomi llega para solucionar los dos problemas más repetidos de su competencia. La marca china se ha sacado de la manga un sistema bastante ingenioso para que puedas comerte un helado casero con los ingredientes que quieras sin tener que pasar por dos aros que todas las máquinas del merca.",
@@ -55,13 +60,15 @@
       "title": "La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China",
       "summary": "Washington carga contra la empresa Ford por su alianza con la china Geely y alerta de que el acuerdo puede reforzar la expansión industrial de Pekín en Europa.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Ford da entrada al grupo chino Geely en Almussafes con un 34%",
-      "summary": "Acuerdo histórico para la planta de Ford en Almussafes. Cincuenta años después de arrancar motores, la multinacional americana ha anunciado la creación de una empresa conjunta con la china Geely para impulsar la planta de Valencia. Seguir leyendo.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/08/03/6a6ce764e5fdea3b0a8b45a0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T22:00:54.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }
