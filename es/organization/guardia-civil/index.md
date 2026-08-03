@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España](https://www.elconfidencial.com/espana/2026-08-03/lider-red-764-en-espana-detencion-terror-digital_4399988/?utm_source=lootura.com) — 2026-08-03T09:07:00.000Z
-- [Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo](https://www.elmundo.es/espana/2026/08/03/6a6f9abffc6c83b24f8b4580.html?utm_source=lootura.com) — 2026-08-02T23:44:08.000Z
+No public source links.

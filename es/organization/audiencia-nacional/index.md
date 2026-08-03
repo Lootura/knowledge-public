@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
+
+La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
+
+Date: 2026-08-03
+
+### Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI
+
+Desde el Ejecutivo han evitado señalar a este país y el propio ministro de Exteriores dijo esta mañana que ofrecieron "su colaboración desde el primer momento" La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada” La ministra de Defensa, Margarita Rob.
+
+Date: 2026-08-03
+
+### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
+
+El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
+
+Date: 2026-08-03
 
 ### La Audiencia Nacional abre diligencias previas para ver si la entrada de inmigrantes a Ceuta fue la acción de un "grupo criminal"
 
@@ -17,12 +35,6 @@ Date: 2026-08-03
 ### La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue "una acción concertada"
 
 La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de "una acción dirigida por alguna organización o grupo criminal" antes de resolver si es competente para investigar los hechos tras recibir una denuncia La falta de horizonte que empuja el éxodo de los jóvenes en Marrueco.
-
-Date: 2026-08-03
-
-### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
-
-La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
 
 Date: 2026-08-03
 
@@ -56,20 +68,8 @@ El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el i
 
 Date: 2026-07-24
 
-### Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.
-
-Date: 2026-07-24
-
-### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [La Audiencia Nacional abre diligencias previas para ver si la entrada de inmigrantes a Ceuta fue la acción de un "grupo criminal"](https://www.20minutos.es/ceuta/audiencia-nacional-abre-diligencias-previas-para-ver-si-entrada-migrantes-ceuta-fue-accion-un-grupo-criminal_7021991_0.html?utm_source=lootura.com) — 2026-08-03T10:00:38.000Z
-- [La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue "una acción concertada"](https://www.eldiario.es/politica/audiencia-nacional-pide-informe-policial-aclare-si-entrada-miles-personas-ceuta-accion-concertada_1_13424412.html?utm_source=lootura.com) — 2026-08-03T08:24:30.000Z
+- [Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI](https://www.eldiario.es/politica/robles-defiende-cni-desmarca-gobierno-exigencia-marruecos-investigue-entrada-ceuta_1_13425309.html?utm_source=lootura.com) — 2026-08-03T12:10:26.000Z
 - [Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas](https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html?utm_source=lootura.com) — 2026-08-03T10:38:39.000Z
+- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z

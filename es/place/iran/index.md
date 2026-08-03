@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional
+
+La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.
+
+Date: 2026-08-03
+
+### El Ibex acaricia récords con el petróleo desinflado
+
+El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
+
+Date: 2026-08-03
 
 ### El Ibex busca récords con el petróleo desinflado
 
@@ -17,12 +29,6 @@ Date: 2026-08-03
 ### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
 
 Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
-
-Date: 2026-08-03
-
-### La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional
-
-La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.
 
 Date: 2026-08-03
 
@@ -62,14 +68,7 @@ El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo qu
 
 Date: 2026-08-02
 
-### Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz
-
-Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.
-
-Date: 2026-08-02
-
 ## Fuentes
 
 - [La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional](https://cincodias.elpais.com/economia/2026-08-03/la-actividad-industrial-de-la-zona-euro-logra-repunta-en-julio-pese-a-las-dudas-a-corto-plazo-por-el-entorno-internacional.html?utm_source=lootura.com) — 2026-08-03T11:11:20.000Z
-- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T11:08:42.000Z
-- [Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes](https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T06:55:38.000Z
+- [El Ibex acaricia récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T13:48:54.000Z

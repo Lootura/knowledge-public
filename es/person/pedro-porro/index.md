@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Pedro Porro, artífice del fichaje top del Tottenham: "Fui yo quien le dijo al entrenador que te trajera"](https://www.20minutos.es/deportes/futbol/pedro-porro-campeon-mundo-artifice-encubierto-fichaje-top-tottenham-fui-yo-quien-le-dijo-entrenador-que-te-trajera_7021988_0.html?utm_source=lootura.com) — 2026-08-03T10:19:21.000Z
+No public source links.

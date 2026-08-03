@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN",
+      "summary": "El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones",
       "summary": "Las telecos europeas, entre las que figuran empresas como Telefónica, Orange, Vodafone, Deutsche Telekom o la suiza-italiana Fastweb han publicado un informe, -a través de la patronal GSMA - en el que denuncian el coste milmillonario de sustituir todos los equipos de tecnología china -principalmente de los fabricantes.",
@@ -55,13 +60,15 @@
       "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China",
-      "summary": "Washington carga contra la empresa Ford por su alianza con la china Geely y alerta de que el acuerdo puede reforzar la expansión industrial de Pekín en Europa.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN",
+      "url": "https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:15:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

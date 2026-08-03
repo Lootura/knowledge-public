@@ -3,10 +3,22 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
+
+El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
+
+Date: 2026-08-03
+
+### IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España
+
+El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.
+
+Date: 2026-08-03
 
 ### Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN
 
@@ -56,18 +68,7 @@ Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado co
 
 Date: 2026-07-13
 
-### ¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?
-
-Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.
-
-Date: 2026-07-12
-
-### Las claves: el mercado deja de comprar defensa europea en bloque
-
-La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, Mark Rutte, anunció durante la cumbre de Ankara “decenas de miles de millones” en nuevos contratos para la industria de defensa . Sin embargo, el mercado ha dejado de comprar el sector en bloque. Si durante 2024 y buena parte de 2025 bastaba.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN](https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
+- [IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España](https://theobjective.com/actualidad/2026-08-03/iu-retirar-tropas-espanolas-europa-apoyo-espana/?utm_source=lootura.com) — 2026-08-03T13:54:16.000Z

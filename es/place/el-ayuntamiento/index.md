@@ -3,7 +3,7 @@
 > Sigue la actividad de El Ayuntamiento en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/place/el-ayuntamiento
 
 ## Cambios recientes

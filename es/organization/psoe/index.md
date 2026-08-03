@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
 
 El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta.
+
+Date: 2026-08-03
+
+### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
+
+La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
 
 Date: 2026-08-03
 
@@ -62,12 +68,7 @@ Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nu
 
 Date: 2026-07-24
 
-### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
-
-El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.
-
-Date: 2026-07-24
-
 ## Fuentes
 
 - [El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta](https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com) — 2026-08-03T11:16:42.000Z
+- [La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero](https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com) — 2026-08-03T13:32:54.000Z

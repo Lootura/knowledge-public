@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -50,16 +50,6 @@
       "date": "2026-08-03"
     },
     {
-      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets. (Image credit: Eugene Hoshiko).",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Iran denies Trump claim that new talks will start Monday after he called off attacks",
       "summary": "The United States and Iran will hold new talks Monday afternoon, President Donald Trump said, after announcing he called off intense new strikes to allow for a deal on the Strait of Hormuz and Tehran’s nuclear program.",
       "date": "2026-08-03"
@@ -70,18 +60,28 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
-      "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Clinical Trials Aren’t the Only Way to Know if Flu Shots Work",
       "summary": "—Hector Roqueta Rivero—Getty Images Earlier this year, the U.S. Department of Health and Human Services (HHS) stopped recommending that all children get an annual influenza vaccine. Instead, it made the shot a matter of “shared clinical decision-making” —something for parents and a doctor to weigh case by case—citing,.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "How U.S. officials could confirm if Iran was behind the water systems cyberattack",
+      "summary": "Lauryn Williams, the deputy director and senior fellow of the Strategic Technologies Program at the Center for Strategic and International Studies, joins to discuss the U.S. probe into Iran possibly targeting water systems in Michigan and Minnesota.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes",
+      "summary": "Israel says it has shared concerns with the United States about the proposed disarmament deal with Hamas, raising new doubts about the agreement touted by President Donald Trump.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
+      "summary": "U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Rising seas are inundating US coastal wetlands, putting many on track to become open water",
+      "summary": "Along the three coasts of the contiguous United States, a silent race unfolds. Fueled by climate change, sea levels rise faster than at any time in recent geologic history. Meanwhile, coastal wetlands cling to a slim lead, lifted on newly accumulated sediments or moving inland as encroaching tides nip at their heels.",
       "date": "2026-08-03"
     }
   ],
@@ -93,21 +93,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "How U.S. officials could confirm if Iran was behind the water systems cyberattack",
+      "url": "https://www.cbsnews.com/video/how-us-officials-could-confirm-irans-role-in-water-systems/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:15:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
       "url": "https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T00:55:09.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
-      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:15:49.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "Fragile ceasefire between U.S. and Iran",
-      "url": "https://www.nbcnews.com/nightly-news/video/fragile-ceasefire-between-u-s-and-iran-267650117537?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T22:51:08.000Z",
+      "title": "Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes",
+      "url": "https://www.nbcnews.com/world/israel/israel-concerns-hamas-disarmament-deal-trump-gaza-strikes-rcna590539?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:57:25.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -117,35 +117,35 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T05:41:31.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "U.S. steps in to help shore up Japanese yen",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen?utm_source=lootura.com",
       "publishedAt": "2026-08-03T08:44:24.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Fact-checking Trump's claims about how the Iran war is going",
-      "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T17:12:26.000Z",
+      "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
+      "url": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:32:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
-      "url": "https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T20:58:10.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Rising seas are inundating US coastal wetlands, putting many on track to become open water",
+      "url": "https://phys.org/news/2026-07-seas-inundating-coastal-wetlands-track.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:00:06.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T10:41:47.000Z",
+      "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
+      "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T12:55:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+      "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:50:38.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 14
 }

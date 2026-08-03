@@ -70,5 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock](https://www.abc.es/cultura/rolling-stones-anos-desastre-economico-abrio-espana-20260723112418-nt.html?utm_source=lootura.com) — 2026-08-03T10:32:12.000Z
-- [Restablecido el servicio en las 6 líneas de Rodalies entre Barcelona y Tarragona cortadas por un atropello](https://www.elconfidencial.com/espana/cataluna/2026-08-03/rodalies-tarragona-atropello-ferrocat-1tna-1tps_4399912/?utm_source=lootura.com) — 2026-08-03T06:45:00.000Z
+No public source links.

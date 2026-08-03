@@ -3,7 +3,7 @@
 > Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-moreno
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [Sen. Moreno Says Ex-Son-in-Law Max Miller Unfit for Congress](https://www.today.com/video/ohio-rep-max-miller-denies-domestic-abuse-accusations-from-ex-267662917750?utm_source=lootura.com) — 2026-08-03T11:40:20.000Z

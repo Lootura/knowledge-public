@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -71,5 +71,3 @@ Date: 2026-07-24
 ## Fuentes
 
 - [Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre](https://hipertextual.com/apple/hay-que-hablar-sobre-el-iphone-18-porque-todo-apunta-a-que-apple-no-lo-va-a-lanzar-en-septiembre/?utm_source=lootura.com) — 2026-08-03T10:52:55.000Z
-- [Bombazo en Android. Tu móvil le va a copiar al iPhone la mejor función de AirDrop](https://hipertextual.com/mobile/bombazo-en-android-tu-movil-le-va-a-copiar-al-iphone-la-mejor-funcion-de-airdrop/?utm_source=lootura.com) — 2026-08-03T09:19:12.000Z
-- [Ya conocemos otra función estrella de las gafas inteligentes de Apple. Y sí, es otra cosa que llegaría tarde a Europa (o nunca)](https://hipertextual.com/apple/ya-conocemos-otra-funcion-estrella-de-las-gafas-inteligentes-de-apple-y-si-es-otra-cosa-que-llegaria-tarde-a-europa-o-nunca/?utm_source=lootura.com) — 2026-08-03T07:58:30.000Z

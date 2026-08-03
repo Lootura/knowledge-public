@@ -3,7 +3,7 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes

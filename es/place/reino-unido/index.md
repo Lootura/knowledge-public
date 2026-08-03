@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios
+
+La experiencia en obra hospitalaria acumulada por Sacyr y ACS les ha valido para entrar de lleno en la primera fase del programa de nuevos hospitales en Inglaterra (Reino Unido), haciéndose con el desarrollo de un centro cada una de ellas de los 11 proyectados. El plan en su totalidad contempla obras por 37.000 millone.
+
+Date: 2026-08-03
 
 ### Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden
 
 Date: 2026-07-23
 
-### El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas
-
-El nuevo primer ministro de Reino Unido , Andy Burnham, ha anunciado este jueves una rebaja de impuestos a pubs, discotecas y locales de conciertos en el país , en una nueva medida para reactivar la economía y proteger una seña cultural británica. «Voy a aplicar una reducción del 20% en el impuesto sobre actividades ec.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario](https://amp.expansion.com/empresas/inmobiliario/2026/08/03/6a706061468aeb24038b457f.html?utm_source=lootura.com) — 2026-08-03T09:39:24.000Z
+- [Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios](https://cincodias.elpais.com/companias/2026-08-03/sacyr-y-acs-arrancan-en-el-plan-de-nuevos-hospitales-de-inglaterra-con-proyectos-milmillonarios.html?utm_source=lootura.com) — 2026-08-03T11:18:42.000Z

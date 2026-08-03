@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -14,15 +14,15 @@ Four days after tens of thousands of migrants crossed from Morocco into the smal
 
 Date: 2026-08-03
 
-### August's total solar eclipse will sweep over Spain, Iceland and Greenland
-
-For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
-
-Date: 2026-08-03
-
 ### Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People
 
 Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
+
+Date: 2026-08-03
+
+### August's total solar eclipse will sweep over Spain, Iceland and Greenland
+
+For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
 
 Date: 2026-08-03
 
@@ -70,6 +70,6 @@ Date: 2026-08-01
 
 ## Sources
 
+- [Spanish Soccer Star Ferran Torres Talks World Cup Win](https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734?utm_source=lootura.com) — 2026-08-03T13:25:26.000Z
 - [Morocco denies responsibility for events at its border with Spain, as deaths near 100](https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100?utm_source=lootura.com) — 2026-08-03T08:44:09.000Z
-- [August's total solar eclipse will sweep over Spain, Iceland and Greenland](https://phys.org/news/2026-08-august-total-solar-eclipse-spain.html?utm_source=lootura.com) — 2026-08-03T07:12:40.000Z
 - [Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People](https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com) — 2026-08-03T09:05:12.000Z

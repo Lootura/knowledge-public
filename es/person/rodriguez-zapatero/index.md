@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
+
+La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
+
+Date: 2026-08-03
 
 ### Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero
 
@@ -62,12 +68,6 @@ José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de
 
 Date: 2026-07-24
 
-### Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje
-
-La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero](https://www.abc.es/espana/correos-electronicos-gertru-revelan-ocho-reuniones-zapatero-20260803012038-nt.html?utm_source=lootura.com) — 2026-08-03T10:28:05.000Z
+- [La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero](https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com) — 2026-08-03T13:32:54.000Z

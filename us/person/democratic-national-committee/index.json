@@ -8,9 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.json",
   "description": "Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
-    "DNC"
+    "Committee",
+    "DNC",
+    "National"
   ],
   "changes": [
     {
@@ -42,17 +44,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
-      "url": "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T22:11:04.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T11:17:23.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

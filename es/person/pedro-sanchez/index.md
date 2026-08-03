@@ -3,28 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
-
-Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».
-
-Date: 2026-08-03
-
-### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
-
-Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
-
-Date: 2026-08-03
-
-### El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria
-
-El Grupo Parlamentario Popular ha lanzado este lunes una ofensiva parlamentaria desde el Congreso de los Diputados y el Senado a través de una batería de iniciativas dirigidas a fiscalizar la actuación del Gobierno en la actual crisis migratoria . Los populares han exigido medidas urgentes para que no se repitan los he.
-
-Date: 2026-08-03
 
 ### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
 
@@ -32,46 +14,68 @@ El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "cens
 
 Date: 2026-08-03
 
-### Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera
+### Francia expresa su solidaridad con España por la crisis de Ceuta y respalda la cooperación con Marruecos
 
-El líder de Vox asegura que Marruecos permite la invasión de la cuidad autónoma porque sabe que no va a tener represalias porque tiene información a de mafias y corrosión de Sánchez.
+Francia , que se ha desmarcado de las críticas de varios países europeos al Gobierno de Pedro Sánchez por la crisis del aluvión de migrantes que entraron en Ceuta la semana pasada desde Marruecos, ha querido marcar su solidaridad con España y apoyar una salida que pase por la cooperación con Rabat. Fuentes diplomáticas.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos
+### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
 
-El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"
+### Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»
 
-La presidenta de la Comunidad de Madrid y el líder de Vox confluyen en dureza frente a la crisis de Ceuta Leer.
+La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
+### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
 
-El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
+La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»
+### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
-La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.
+El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
-### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
+### Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta
 
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.
+Con los ojos de España entera pendientes de la invasión de Ceuta por parte de miles y miles de ilegales procedentes de Marruecos, el Gobierno de España prepara en la Comunidad Valenciana un dispositivo especial de seguridad para el eclipse del 12 de agosto, el día del eclipse , que estará integrado por 2.500 efectivos.
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
+
+El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
+
+Date: 2026-08-03
+
+### Piscina, playa y dolor de oído: cuándo hay que consultar al pediatra
+
+Las largas jornadas en piscinas y playas forman parte de las vacaciones de verano de muchos niños. Sin embargo, cuando tras el baño aparece dolor de oído, picor o sensación de taponamiento, puede tratarse de una otitis del nadador, una afección frecuente durante esta época del año. La doctora Adelaida Sánchez, jefa de.
+
+Date: 2026-08-03
+
+### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
+
+Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».
+
+Date: 2026-08-03
 
 ## Fuentes
 
-- [Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta](https://www.abc.es/espana/feijoo-sanchez-paria-europa-pone-duda-cni-20260803125306-nt.html?utm_source=lootura.com) — 2026-08-03T10:53:38.000Z
-- [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
-- [Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta](https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html?utm_source=lootura.com) — 2026-08-03T09:15:47.000Z
-- [El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria](https://okdiario.com/espana/pp-lanza-ofensiva-cortes-gestion-sanchez-invasion-migratoria-19117100?utm_source=lootura.com) — 2026-08-03T11:08:23.000Z
+- [Francia expresa su solidaridad con España por la crisis de Ceuta y respalda la cooperación con Marruecos](https://www.20minutos.es/internacional/francia-expresa-su-solidaridad-con-espana-por-crisis-ceuta-respalda-cooperacion-con-marruecos_7022087_0.html?utm_source=lootura.com) — 2026-08-03T13:13:51.000Z
+- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
+- [Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»](https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com) — 2026-08-03T13:14:21.000Z
+- [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
+- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z
+- [Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta](https://okdiario.com/comunidad-valenciana/sanchez-desplegara-2-500-agentes-comunidad-valenciana-eclipse-mientras-desprotege-ceuta-19117874?utm_source=lootura.com) — 2026-08-03T14:01:10.000Z
 - [El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta](https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com) — 2026-08-03T11:16:42.000Z
+- [El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez](https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com) — 2026-08-03T13:59:13.000Z
+- [Piscina, playa y dolor de oído: cuándo hay que consultar al pediatra](https://theobjective.com/sanidad/2026-08-03/piscina-playa-oido-consultar-pediatra/?utm_source=lootura.com) — 2026-08-03T13:43:31.000Z

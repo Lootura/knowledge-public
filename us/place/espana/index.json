@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
     "España",
     "Estado español",
@@ -21,13 +21,13 @@
       "date": "2026-08-03"
     },
     {
-      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
-      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
       "date": "2026-08-03"
     },
     {
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
+      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
       "date": "2026-08-03"
     },
     {
@@ -68,16 +68,16 @@
   ],
   "sources": [
     {
+      "title": "Spanish Soccer Star Ferran Torres Talks World Cup Win",
+      "url": "https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:25:26.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100?utm_source=lootura.com",
       "publishedAt": "2026-08-03T08:44:09.000Z",
       "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
-      "url": "https://phys.org/news/2026-08-august-total-solar-eclipse-spain.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T07:12:40.000Z",
-      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",

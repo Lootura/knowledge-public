@@ -34,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Detenido un joven de 27 años tras una reyerta en Puertollano que deja un herido por arma blanca](https://www.elconfidencial.com/espana/2026-08-03/agresion-puertollano-joven-hospital-1tna-1tps_4399921/?utm_source=lootura.com) — 2026-08-03T07:59:00.000Z
+No public source links.

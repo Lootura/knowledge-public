@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta",
+      "summary": "Con los ojos de España entera pendientes de la invasión de Ceuta por parte de miles y miles de ilegales procedentes de Marruecos, el Gobierno de España prepara en la Comunidad Valenciana un dispositivo especial de seguridad para el eclipse del 12 de agosto, el día del eclipse , que estará integrado por 2.500 efectivos.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
       "summary": "La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.",
@@ -64,13 +69,15 @@
       "title": "Los médicos y el Consell cierran un acuerdo histórico: jornada de 35 horas y sábado no laborable",
       "summary": "El Sindicato Médico de la Comunidad Valenciana (CESMCV) y la Consellería de Sanidad, que dirige Marciano Gómez, han firmado este viernes un acuerdo histórico, que refleja, entre otras cuestiones, el compromiso de la implantación de la jornada de 35 horas de lunes a viernes , que nada tiene que ver con el que en su día.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Comunidad Valenciana first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta",
+      "url": "https://okdiario.com/comunidad-valenciana/sanchez-desplegara-2-500-agentes-comunidad-valenciana-eclipse-mientras-desprotege-ceuta-19117874?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:01:10.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

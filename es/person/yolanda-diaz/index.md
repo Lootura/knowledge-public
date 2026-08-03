@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores](https://www.larazon.es/economia/inspeccion-trabajo-avala-jubilacion-anticipada-transportistas-conductores-coeficientes-reductores-p7m_202608036a7052cfa046ad6ebc98ab3a.html?utm_source=lootura.com) — 2026-08-03T11:03:32.000Z
+No public source links.

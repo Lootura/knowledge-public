@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026](https://www.larazon.es/television/series/actores-serrano-reencontraran-octubre-san-diego-comiccon-malaga-2026_202608036a707610a046ad6ebc98f800.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T11:10:13.000Z
+No public source links.

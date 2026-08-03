@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»
+
+Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.
+
+Date: 2026-08-03
 
 ### Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»
 
@@ -62,12 +68,6 @@ Ferran Torres first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-19
 
-### Gloria para Ferran, el gol en el 106 que vale una estrella: "El destino estaba escrito. Lo han marcado 47 millones de españoles"
-
-«El destino estaba escrito». A Ferran Torres nada le doblega. Jamás se da por vencido. El Tiburón siempre aguarda su momento. Asume su papel en esta selección, como...
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»](https://www.abc.es/gente/lamine-yamal-altas-exigencias-desayunar-hotel-lujo-20260803140000-nt.html?utm_source=lootura.com) — 2026-08-03T13:19:23.000Z

@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Nurse-led initiative reduces unplanned extubations](https://medicalxpress.com/news/2026-08-nurse-unplanned-extubations.html?utm_source=lootura.com) — 2026-08-03T11:20:01.000Z
+No public source links.

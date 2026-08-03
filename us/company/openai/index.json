@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -37,10 +37,10 @@
   ],
   "sources": [
     {
-      "title": "Hugging Face CEO calls hack by rogue OpenAI model \"very weird and unprecedented\"",
-      "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T19:08:12.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:01:11.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 0

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN",
+      "summary": "El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España",
+      "summary": "El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN",
       "summary": "La OTAN continúa reforzando una de sus capacidades aéreas más estratégicas. La Agencia de Apoyo y Adquisiciones de la Alianza (NSPA) ha superado un nuevo hito en el desarrollo del sistema de entrenamiento de la Flota Multinacional de Aviones Cisterna y Transporte (MMF, por sus siglas en inglés) tras completar con éxito.",
@@ -54,18 +64,21 @@
       "title": "El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija",
       "summary": "Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
-      "summary": "Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Las claves: el mercado deja de comprar defensa europea en bloque",
-      "summary": "La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, Mark Rutte, anunció durante la cumbre de Ankara “decenas de miles de millones” en nuevos contratos para la industria de defensa . Sin embargo, el mercado ha dejado de comprar el sector en bloque. Si durante 2024 y buena parte de 2025 bastaba.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN",
+      "url": "https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:15:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España",
+      "url": "https://theobjective.com/actualidad/2026-08-03/iu-retirar-tropas-espanolas-europa-apoyo-espana/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:54:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

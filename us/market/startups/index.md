@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Senate leaders reach funding deal to avoid shutdown during campaign season](https://www.pbs.org/newshour/politics/senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season?utm_source=lootura.com) — 2026-08-02T22:49:31.000Z
+No public source links.

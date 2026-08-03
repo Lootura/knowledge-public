@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Hugging Face CEO calls hack by rogue OpenAI model "very weird and unprecedented"](https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/?utm_source=lootura.com) — 2026-08-02T19:08:12.000Z
+- [China’s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai?utm_source=lootura.com) — 2026-08-03T11:01:11.000Z

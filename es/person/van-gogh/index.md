@@ -34,4 +34,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [Amaia Montero, sobre su regreso a La Oreja de Van Gogh: «Había gente esperando mi caída»](https://okdiario.com/happyfm/amaia-montero-sobre-regreso-oreja-van-gogh-habia-gente-esperando-caida-19116753?utm_source=lootura.com) — 2026-08-03T11:03:46.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [How smallpox reached the Americas: first genomic evidence points to Europeans](https://www.nature.com/articles/d41586-026-02366-y?utm_source=lootura.com) — 2026-08-03T06:57:23.124Z
+No public source links.

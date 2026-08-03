@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
+
+Date: 2026-08-03
+
+### Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»
+
+Junts per Catalunya se ha incorporado oficialmente al Partido Demócrata Europeo (PDE) con el objetivo de reforzar su « proyección internacional y su capacidad de incidencia en los debates que marcarán el futuro de la Unión Europea ». Así lo han anunciado este lunes en un comunicado, en el que el partido independentista.
+
+Date: 2026-08-03
 
 ### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
 
@@ -56,18 +68,7 @@ El presidente de España, Pedro Sánchez, ha enviado una carta a la Unión Europ
 
 Date: 2026-08-01
 
-### El precio de la vivienda sigue disparado en España mientras se modera en Europa
-
-El mercado inmobiliario español sigue marcando la diferencia respecto al europeo. España se mantuvo en el primer trimestre de 2026 entre los países de la Unión Europea con...
-
-Date: 2026-07-25
-
-### Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados
-
-Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
+- [Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»](https://theobjective.com/espana/politica/2026-08-03/junts-partido-democrata-europeo-proyeccion-internacional/?utm_source=lootura.com) — 2026-08-03T13:38:14.000Z

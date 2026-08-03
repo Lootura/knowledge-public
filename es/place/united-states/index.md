@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen
+
+El Gobierno de Japón ha confirmado este lunes una intervención histórica junto a Estados Unidos para atajar la fuerte depreciación del yen, en mínimos de cuatro décadas frente al dólar estadounidense. Una operación que podría volver a repetirse si fuera necesario, según ha dejado claro el gobierno nipón. “Esta acción c.
+
+Date: 2026-08-03
 
 ### Por qué EEUU interviene en favor del yen japonés
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataq
 
 Date: 2026-08-02
 
-### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
-
-Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Por qué EEUU interviene en favor del yen japonés](https://amp.expansion.com/mercados/2026/08/03/6a705106468aebbb6c8b4593.html?utm_source=lootura.com) — 2026-08-03T08:40:26.000Z
+- [Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen](https://cincodias.elpais.com/mercados-financieros/2026-08-03/japon-abre-la-puerta-a-seguir-interviniendo-en-el-mercado-junto-a-ee-uu-para-frenar-la-caida-del-yen.html?utm_source=lootura.com) — 2026-08-03T11:42:29.000Z

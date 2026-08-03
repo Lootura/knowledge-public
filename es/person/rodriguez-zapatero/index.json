@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
+      "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero",
       "summary": "La docena de correos electrónicos a la que ha tenido acceso en exclusiva ABC recoge una interlocución hasta ahora desconocida entre el expresidente del Gobierno José Luis Rodríguez Zapatero y la exministra de Hacienda María Jesús Montero, responsable orgánica del ente público que canalizó el rescate a la aerolínea Plus.",
@@ -60,19 +65,14 @@
       "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
       "summary": "José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
-      "summary": "La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero",
-      "url": "https://www.abc.es/espana/correos-electronicos-gertru-revelan-ocho-reuniones-zapatero-20260803012038-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T10:28:05.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
+      "url": "https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:32:54.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

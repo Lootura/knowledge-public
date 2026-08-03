@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,13 +24,13 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Kansas Democrats Are Split on How to Keep the Governor’s Office",
-      "summary": "In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.",
+      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
+      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
       "date": "2026-08-03"
     },
     {
-      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+      "title": "Kansas Democrats Are Split on How to Keep the Governor’s Office",
+      "summary": "In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.",
       "date": "2026-08-03"
     },
     {
@@ -78,23 +78,11 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Kansas Democrats Are Split on How to Keep the Governor’s Office",
-      "url": "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:00:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
-      "url": "https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T14:03:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T11:17:23.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

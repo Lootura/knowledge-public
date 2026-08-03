@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T06:15:37.989Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»
+
+Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.
+
+Date: 2026-08-03
 
 ### El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €
 
@@ -62,12 +68,6 @@ Un enorme collar dorado colgaba del cuello de Lamine Yamal cuando apareció en l
 
 Date: 2026-07-14
 
-### Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)
-
-nació el 13 de julio de 2007 en Esplugues de Llobregat, hijo de Mounir Nasraoui y de Sheila Ebana. Sus padres se separaron cuando era niño, aunque ambos permanecieron muy presentes en su crianza, que transcurrió entre Mataró y Granollers. El barrio de Rocafonda, donde creció, sigue siendo una referencia ce.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»](https://www.abc.es/gente/lamine-yamal-altas-exigencias-desayunar-hotel-lujo-20260803140000-nt.html?utm_source=lootura.com) — 2026-08-03T13:19:23.000Z

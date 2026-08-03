@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T06:15:37.989Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -17,6 +17,11 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
+      "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»",
       "summary": "«La música ha sido una cura para mí. Me ha costado caro tener esta visibilidad en la televisión», asegura.",
@@ -61,13 +66,15 @@
       "title": "Discovered by Atlas",
       "summary": "Ferran Torres first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Gloria para Ferran, el gol en el 106 que vale una estrella: \"El destino estaba escrito. Lo han marcado 47 millones de españoles\"",
-      "summary": "«El destino estaba escrito». A Ferran Torres nada le doblega. Jamás se da por vencido. El Tiburón siempre aguarda su momento. Asume su papel en esta selección, como...",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
+      "url": "https://www.abc.es/gente/lamine-yamal-altas-exigencias-desayunar-hotel-lujo-20260803140000-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:19:23.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

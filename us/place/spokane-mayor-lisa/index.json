@@ -1,0 +1,45 @@
+{
+  "id": "usa-spokane-mayor-lisa",
+  "name": "Spokane Mayor Lisa",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/spokane-mayor-lisa",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/spokane-mayor-lisa",
+  "markdownUrl": "https://atlas.lootura.com/us/place/spokane-mayor-lisa/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/spokane-mayor-lisa/index.json",
+  "description": "Follow Spokane Mayor Lisa, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Fast-moving wildfires in Spokane, Washington, destroy hundreds of homes: \"Worst natural disaster our region has faced\"",
+      "summary": "Spokane Mayor Lisa Brown called the wildfires burning through the area the \"worst natural disaster our region has faced.\".",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "summary": "Spokane Mayor Lisa Brown says nearly half of the city's neighborhoods have either been evacuated or are at risk as the fires remain uncontained. (Image credit: Young Kwak).",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Spokane Mayor Lisa first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fast-moving wildfires in Spokane, Washington, destroy hundreds of homes: \"Worst natural disaster our region has faced\"",
+      "url": "https://www.cbsnews.com/news/spokane-washington-wildfire-evacuations-old-trails-fire/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:19:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:28:44.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 2
+}

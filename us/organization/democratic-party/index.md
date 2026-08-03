@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,15 +20,15 @@ Michigan is ground zero for the Democratic Party’s ideological war. Its marque
 
 Date: 2026-08-03
 
-### Kansas Democrats Are Split on How to Keep the Governor’s Office
-
-In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
-
-Date: 2026-08-03
-
 ### Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter
 
 A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
+
+Date: 2026-08-03
+
+### Kansas Democrats Are Split on How to Keep the Governor’s Office
+
+In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
 
 Date: 2026-08-03
 
@@ -72,6 +72,4 @@ Date: 2026-08-01
 
 - [Activist David Hogg talks about the future of the Democratic Party](https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party?utm_source=lootura.com) — 2026-08-03T08:45:14.000Z
 - [We’re about to find out how powerful progressives really are](https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095?utm_source=lootura.com) — 2026-08-03T09:45:00.000Z
-- [Kansas Democrats Are Split on How to Keep the Governor’s Office](https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html?utm_source=lootura.com) — 2026-08-03T09:00:23.000Z
-- [Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?](https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com) — 2026-08-02T14:03:03.000Z
 - [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T11:17:23.000Z

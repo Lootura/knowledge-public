@@ -1,0 +1,47 @@
+{
+  "id": "es-nico-williams",
+  "name": "Nico Williams",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/nico-williams",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/nico-williams",
+  "markdownUrl": "https://atlas.lootura.com/es/person/nico-williams/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/nico-williams/index.json",
+  "description": "Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "aliases": [
+    "Nicholas Williams Arthuer"
+  ],
+  "changes": [
+    {
+      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
+      "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "La nueva vida de solteros de Nico Williams y Ainhi García tras su ruptura: «El mar todo lo cura»",
+      "summary": "El futbolista y la joven han comenzado a compartir en redes pinceladas de su nueva etapa por separado.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nico Williams first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
+      "url": "https://www.abc.es/gente/lamine-yamal-altas-exigencias-desayunar-hotel-lujo-20260803140000-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:19:23.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La nueva vida de solteros de Nico Williams y Ainhi García tras su ruptura: «El mar todo lo cura»",
+      "url": "https://www.elcorreo.com/gente-estilo/nueva-vida-solteros-nico-williams-ainhi-garcia-20260803083121-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T06:31:21.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 2
+}

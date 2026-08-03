@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.json",
   "description": "Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T14:33:52.036Z",
   "aliases": [
     "Bernardo \"Bernie\" Moreno",
     "Bernardo Moreno",
@@ -27,6 +27,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Sen. Moreno Says Ex-Son-in-Law Max Miller Unfit for Congress",
+      "url": "https://www.today.com/video/ohio-rep-max-miller-denies-domestic-abuse-accusations-from-ex-267662917750?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:40:20.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-03
 ### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
 
 Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.
+
+Date: 2026-08-03
+
+### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
+
+Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
+
+Date: 2026-08-03
+
+### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
+
+El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
 
 Date: 2026-08-03
 
@@ -56,22 +68,9 @@ El secretario general del PP , Miguel Tellado , ha señalado este domingo que «
 
 Date: 2026-08-02
 
-### Las imágenes del interior del ático comprado por el Gobierno de Ayuso: cinco habitaciones y terraza
-
-La Sexta ha dado detalles del anuncio publicado en el portal de una inmobiliaria e imágenes de la vivienda La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas” El ático comprado en Chamberí por la Comunidad de Madrid y que, según la explicación ofi.
-
-Date: 2026-08-02
-
-### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
-
-El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería](https://www.abc.es/espana/pp-dificil-lograr-pacto-gobierno-reformar-urgencia-20260803142916-nt.html?utm_source=lootura.com) — 2026-08-03T13:45:50.000Z
 - [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
 - [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z
-- [Miguel Tellado ofrece una rueda de prensa](https://www.larazon.es/espana/miguel-tellado-ofrece-rueda-prensa_202608036a7072e6a046ad6ebc98ee84.html?utm_source=lootura.com) — 2026-08-03T11:00:24.000Z
-- [Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta](https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html?utm_source=lootura.com) — 2026-08-03T09:15:47.000Z
-- [El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria](https://okdiario.com/espana/pp-lanza-ofensiva-cortes-gestion-sanchez-invasion-migratoria-19117100?utm_source=lootura.com) — 2026-08-03T11:08:23.000Z
+- [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z

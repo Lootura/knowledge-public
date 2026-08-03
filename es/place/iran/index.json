@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,16 @@
   ],
   "changes": [
     {
+      "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
+      "summary": "La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Ibex acaricia récords con el petróleo desinflado",
+      "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "El Ibex busca récords con el petróleo desinflado",
       "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
       "date": "2026-08-03"
@@ -26,11 +36,6 @@
     {
       "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
       "summary": "Tras cancelar un \"ataque masivo\" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
-      "summary": "La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.",
       "date": "2026-08-03"
     },
     {
@@ -62,11 +67,6 @@
       "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
       "summary": "El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
@@ -77,17 +77,11 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "El Ibex busca récords con el petróleo desinflado",
+      "title": "El Ibex acaricia récords con el petróleo desinflado",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:08:42.000Z",
+      "publishedAt": "2026-08-03T13:48:54.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
-      "url": "https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:55:38.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

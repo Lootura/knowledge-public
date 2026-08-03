@@ -3,10 +3,40 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
+
+Date: 2026-08-03
+
+### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
+
+Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.
+
+Date: 2026-08-03
+
+### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
+
+La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
+
+Date: 2026-08-03
+
+### Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios
+
+Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.
+
+Date: 2026-08-03
+
+### Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta
+
+Con los ojos de España entera pendientes de la invasión de Ceuta por parte de miles y miles de ilegales procedentes de Marruecos, el Gobierno de España prepara en la Comunidad Valenciana un dispositivo especial de seguridad para el eclipse del 12 de agosto, el día del eclipse , que estará integrado por 2.500 efectivos.
+
+Date: 2026-08-03
 
 ### Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»
 
@@ -38,36 +68,10 @@ El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobie
 
 Date: 2026-08-01
 
-### Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»
-
-La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.
-
-Date: 2026-08-01
-
-### Pedro Sánchez inicia sus vacaciones en la residencia oficial de La Mareta
-
-El presidente del Gobierno de España, Pedro Sánchez , ha aterrizado a mediodía de este sábado en el aeropuerto César Manrique-Lanzarote para comenzar sus vacaciones en la residencia oficial de La Mareta, en Costa Teguise. Sánchez y su familia, según han avanzado los periódicos regionales de La Provincia y Canarias7, ha.
-
-Date: 2026-08-01
-
-### Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior
-
-El presidente ha defendido la actuación del Gobierno español ante la entrada de 50.000 personas migrantes en Ceuta: "Se ha conseguido en estrecha coordinación con las autoridades marroquíes y con muy escaso apoyo de otros Estados europeos" Documento - Lee aquí la carta completa de Pedro Sánchez a la Unión Europea Direc.
-
-Date: 2026-08-01
-
-### Europa se revuelve contra Sánchez por poner en riesgo sus fronteras
-
-Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta Leer.
-
-Date: 2026-08-01
-
-### Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE
-
-El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»](https://www.abc.es/recreo/carlos-herrera-cni-supo-momento-ceuta-iba-20260803110747-nt.html?utm_source=lootura.com) — 2026-08-03T10:43:50.000Z
+- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
+- [El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun](https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com) — 2026-08-03T09:52:25.000Z
+- [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
+- [Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios](https://www.expansion.com/economia/2026/08/03/6a70827ee5fdea152c8b457a.html?utm_source=lootura.com) — 2026-08-03T12:04:27.000Z
+- [Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta](https://okdiario.com/comunidad-valenciana/sanchez-desplegara-2-500-agentes-comunidad-valenciana-eclipse-mientras-desprotege-ceuta-19117874?utm_source=lootura.com) — 2026-08-03T14:01:10.000Z

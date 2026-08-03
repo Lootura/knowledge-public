@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
+
+El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
+
+Date: 2026-08-03
 
 ### Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden
 
 Date: 2026-07-23
 
-### La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China
-
-Washington carga contra la empresa Ford por su alianza con la china Geely y alerta de que el acuerdo puede reforzar la expansión industrial de Pekín en Europa.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN](https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z

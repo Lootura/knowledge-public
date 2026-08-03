@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### How a community rallied around a little girl and her love for roosters
+
+CBS News contributor David Begnaud shows how the small town of Ogunquit, Maine, rallied around a 6-year-old girl when local code enforcement officials told the girl's family to take a flock of tin roosters off their property.
+
+Date: 2026-08-03
 
 ### Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’
 
@@ -62,12 +68,6 @@ Maine Democrats are gathering Saturday to select a Senate nominee to replace Gra
 
 Date: 2026-07-25
 
-### The Debate Moment That Captures Democrats’ Worries About Troy Jackson
-
-Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [How a community rallied around a little girl and her love for roosters](https://www.cbsnews.com/video/how-a-community-rallied-around-a-little-girl-and-her-love-for-roosters/?utm_source=lootura.com) — 2026-08-03T14:11:04.000Z

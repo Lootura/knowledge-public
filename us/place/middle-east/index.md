@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T14:33:52.036Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Trump claims Iran talks will start Monday, and 4 other developments in the Middle East
+
+U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.
+
+Date: 2026-08-03
 
 ### Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts
 
@@ -62,12 +68,6 @@ Some Trump administration officials are concerned about the rapid use of interce
 
 Date: 2026-07-24
 
-### Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface
-
-Already feeling pinched since the start of the Iran war, consumers are likely to feel more pain ahead as oil prices pushed past $100 a barrel Thursday amid renewed fighting and military strikes that have left global oil supplies stranded in the Middle East.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T11:15:49.000Z
+- [Trump claims Iran talks will start Monday, and 4 other developments in the Middle East](https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com) — 2026-08-03T13:32:18.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Brand New Day en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T14:33:29.026Z
 - Canonical: https://atlas.lootura.com/es/person/brand-new-day
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz
 
 Hay un actor que tiene un papel relevante tanto en La Odisea como en Spider-Man: Brand New Day y no es Tom Holland. Tampoco es Zendaya . La pareja de intérpretes ha protagonizado el verano cinematográfico paseándose de photocall en photocall para promocionar estos dos esperadísimos estrenos, pero hay una tercera person.
+
+Date: 2026-08-03
+
+### Movistar Plus apuesta por el mejor cine de estreno para comenzar agosto: las 5 películas que tienes que ver sí o sí esta semana
+
+Después de un julio cargado de estrenos tan imponentes como La Odisea o Spider-Man: Brand New Day , la cartelera estival de agosto llega al patio de butacas con novedades secundarias a nivel de reclamo, pero estimulantes para toda una comunidad cinéfila cansada de blockbusters . Lejos de las salas, pasa un poco igual.
 
 Date: 2026-08-03
 
@@ -65,3 +71,4 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz](https://elpais.com/gente/2026-08-03/por-que-jon-bernthal-es-el-perfecto-tipo-duro-de-hollywood-una-formacion-rusa-dos-hermanos-demasiado-modelicos-y-15-roturas-de-nariz.html?utm_source=lootura.com) — 2026-08-03T03:30:00.000Z
+- [Movistar Plus apuesta por el mejor cine de estreno para comenzar agosto: las 5 películas que tienes que ver sí o sí esta semana](https://okdiario.com/cool/television/movistar-plus-apuesta-mejor-cine-estreno-comenzar-agosto-5-peliculas-que-tienes-que-ver-si-o-si-esta-semana-19117479?utm_source=lootura.com) — 2026-08-03T14:13:16.000Z

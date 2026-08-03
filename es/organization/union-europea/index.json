@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T14:33:29.026Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
+      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe \"hacer más\" en sus fronteras exteriores, para lo cual aboga por una \"rigurosa vi.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»",
+      "summary": "Junts per Catalunya se ha incorporado oficialmente al Partido Demócrata Europeo (PDE) con el objetivo de reforzar su « proyección internacional y su capacidad de incidencia en los debates que marcarán el futuro de la Unión Europea ». Así lo han anunciado este lunes en un comunicado, en el que el partido independentista.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
       "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
@@ -53,18 +63,21 @@
       "title": "Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos",
       "summary": "El presidente de España, Pedro Sánchez, ha enviado una carta a la Unión Europea para solicitar una videoconferencia extraordinaria de los ministros del Interior europeos “con carácter de urgencia” a raíz de la crisis migratoria de esta semana en Ceuta. Seguir leyendo...",
       "date": "2026-08-01"
-    },
-    {
-      "title": "El precio de la vivienda sigue disparado en España mientras se modera en Europa",
-      "summary": "El mercado inmobiliario español sigue marcando la diferencia respecto al europeo. España se mantuvo en el primer trimestre de 2026 entre los países de la Unión Europea con...",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
-      "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
+      "url": "https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T12:48:31.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»",
+      "url": "https://theobjective.com/espana/politica/2026-08-03/junts-partido-democrata-europeo-proyeccion-internacional/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T13:38:14.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }
