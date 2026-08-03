@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El sueldo de Infantino y el dinero que aspiraba a ganar con los derechos del Mundial](https://www.larazon.es/deportes/laotraliga/sueldo-infantino-dinero-que-aspiraba-ganar-derechos-mundial_202608026a6fa757a5690f047360c305.html?utm_source=lootura.com) — 2026-08-02T20:23:51.000Z
+No public source links.

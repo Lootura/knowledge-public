@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
+      "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
+      "date": "2026-08-03"
+    },
     {
       "title": "El amnistiado que reniega del perdón: \"Sólo sirvió para que Sánchez esté en la Moncloa\"",
       "summary": "Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.",
@@ -58,13 +63,15 @@
       "title": "Calma en la UE con los nuevos aranceles de Trump por parecerse a los ya pactados",
       "summary": "Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada de aranceles que ha decretado el presidente de Estados Unidos, Donald Trump, porque encajan en el acuerdo arancelario firmado el verano pasado. El portavoz de la Comisión encargado de asuntos de comercio, Olof Gill, ha admitido que Bruselas.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
+      "url": "https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T06:21:30.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

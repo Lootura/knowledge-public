@@ -52,4 +52,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El Tesoro de EEUU lleva a cabo una intervención histórica](https://www.expansion.com/mercados/2026/08/02/6a6f9e47e5fdead5028b4580.html?utm_source=lootura.com) — 2026-08-02T19:49:18.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T02:34:45.722Z",
+  "updatedAt": "2026-08-03T06:57:18.675Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-      "date": "2026-08-03"
-    },
     {
       "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
@@ -32,13 +27,18 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
-      "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
-      "date": "2026-08-02"
+      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "date": "2026-08-03"
     },
     {
-      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
+      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "summary": "We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.",
       "date": "2026-08-02"
     },
     {
@@ -75,15 +75,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
       "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T02:33:19.000Z",
+      "publishedAt": "2026-08-03T06:32:10.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T02:23:21.000Z",
+      "publishedAt": "2026-08-03T04:44:30.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
@@ -129,5 +129,5 @@
       "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 12
 }

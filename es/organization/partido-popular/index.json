@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
+      "summary": "Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
       "summary": "El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.",
@@ -58,26 +63,15 @@
       "title": "Guerra fría PSOE-PP ante la crisis climática",
       "summary": "La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
-      "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T19:06:21.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
-      "url": "https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T18:54:19.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
+      "url": "https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

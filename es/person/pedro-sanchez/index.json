@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -23,6 +23,11 @@
       "date": "2026-08-02"
     },
     {
+      "title": "La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos",
+      "summary": "El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: \"Es una invasión\", \"es un acto de guerra\"... \"¿por qué Sánchez da las gracias?\"",
       "summary": "La presidenta de la Comunidad de Madrid y el líder de Vox confluyen en dureza frente a la crisis de Ceuta Leer.",
       "date": "2026-08-02"
@@ -30,11 +35,6 @@
     {
       "title": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
       "summary": "El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos",
-      "summary": "El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...",
       "date": "2026-08-02"
     },
     {
@@ -76,29 +76,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: \"Es una invasión\", \"es un acto de guerra\"... \"¿por qué Sánchez da las gracias?\"",
-      "url": "https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:03:19.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos",
       "url": "https://amp.elmundo.es/espana/2026/08/02/6a6f9b55fc6c83e4178b458a.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T20:49:32.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
-      "url": "https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T22:53:45.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad",
-      "url": "https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T18:54:19.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

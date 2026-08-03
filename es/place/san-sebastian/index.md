@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián
+
+La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.
+
+Date: 2026-08-03
 
 ### La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse
 
@@ -62,12 +68,7 @@ La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriol
 
 Date: 2026-07-24
 
-### El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián
-
-El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse](https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:51:57.000Z
+- [The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián](https://www.diariovasco.com/culturas/musica/the-national-venta-entradas-concierto-san-sebastian-20260803082840-nt_amp.html?utm_source=lootura.com) — 2026-08-03T06:29:08.000Z

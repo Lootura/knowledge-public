@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T13:15:32.753Z",
+  "updatedAt": "2026-08-03T06:57:18.675Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+      "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
       "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
@@ -61,13 +66,15 @@
       "title": "News Wrap: Death toll from Japan earthquake rises to 34",
       "summary": "In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to let Ukraine build Patriot missiles to a.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
-      "summary": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+      "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:00:01.000Z",
+      "sourceId": "lootura-us-cnbc"
+    }
+  ],
+  "evidenceCount": 1
 }

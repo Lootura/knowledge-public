@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
-- [Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final](https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/?utm_source=lootura.com) — 2026-08-02T21:50:17.000Z
+No public source links.

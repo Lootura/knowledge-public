@@ -93,19 +93,6 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-      "url": "https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:26:41.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
-      "url": "https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T21:50:17.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

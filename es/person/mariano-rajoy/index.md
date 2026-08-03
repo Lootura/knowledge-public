@@ -3,10 +3,16 @@
 > Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/person/mariano-rajoy
 
 ## Cambios recientes
+
+### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
+
+Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
+
+Date: 2026-08-03
 
 ### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
 
@@ -62,12 +68,6 @@ Convendremos todos en que Francia ya era un rival temible antes de la última co
 
 Date: 2026-07-13
 
-### Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba
-
-Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z

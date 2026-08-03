@@ -3,10 +3,22 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana
+
+En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza como un gigante inútil en el que aún duermen demasiados fantasmas. El que no hace tanto tiempo era el gran foco del menudeo en la zona consiguió, al menos, dejar atrás su actividad como hipermercado del estupefaciente hace ya ocho años. Pero e.
+
+Date: 2026-08-03
+
+### Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados
+
+La Agencia Estatal de Meteorología (Aemet) ha activado para este lunes, 3 de agosto, el aviso naranja por altas temperaturas en varias zonas de la provincia de Málaga , donde se esperan máximas de entre 39 y 41 grados. Almería y otras comarcas malagueñas permanecerán, por su parte, bajo aviso amarillo. La comarca de So.
+
+Date: 2026-08-03
 
 ### Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego
 
@@ -56,18 +68,7 @@ Los maridos de las dos primeras han sido detenidos Leer.
 
 Date: 2026-07-21
 
-### Asesinadas en apenas unas horas tres mujeres en sus domicilios de Toledo, Alicante y Málaga
-
-Los maridos de las dos primeras víctimas han sido detenidos.
-
-Date: 2026-07-21
-
-### La mitad de las provincias de Andalucía, en aviso naranja por temperaturas superiores a 40 grados
-
-La Agencia Estatal de Meteorología (Aemet) ha activado para este martes aviso naranja por calor en Almería, Córdoba, Granada y Jaén por temperaturas máximas que podrían alcanzar los 41 grados. Asimismo, las provincias de Cádiz, Málaga y Sevilla se encontrarán bajo nivel amarillo en la citada jornada. Según consta en la.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana](https://www.elconfidencial.com/espana/andalucia/2026-08-03/enganches-ilegales-palmilla-malaga-endesa_4397373/?utm_source=lootura.com) — 2026-08-03T03:00:00.000Z
+- [Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados](https://www.larazon.es/andalucia/malaga-afronta-jornada-calor-extremo-otra-noche-tropical-temperaturas-superiores-30-grados_202608036a702a0171b42a0b5dd6a219.html?utm_source=lootura.com) — 2026-08-03T06:10:14.000Z

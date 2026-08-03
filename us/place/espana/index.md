@@ -3,20 +3,26 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T02:34:45.722Z
+- Updated: 2026-08-03T06:57:18.675Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
 
-### After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
+### ‘Do You Think if I Had a Job I Would Have Gone?’
 
-Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
+Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
 
-Date: 2026-08-02
+Date: 2026-08-03
 
 ### In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants
 
 Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.
+
+Date: 2026-08-02
+
+### After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
+
+Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
 
 Date: 2026-08-02
 
@@ -62,13 +68,7 @@ According to the president of Ceuta, 60,000 migrants have flooded the small Span
 
 Date: 2026-07-31
 
-### Tens of thousands of migrants enter Spanish territory, then return to Morocco
-
-Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports.
-
-Date: 2026-07-31
-
 ## Sources
 
-- [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com) — 2026-08-02T16:29:12.000Z
+- [‘Do You Think if I Had a Job I Would Have Gone?’](https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com) — 2026-08-03T04:01:07.000Z
 - [In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T21:49:48.000Z

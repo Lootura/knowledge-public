@@ -3,10 +3,16 @@
 > Sigue la actividad de Nirmal Purja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/nirmal-purja
 
 ## Cambios recientes
+
+### Conmoción por la muerte de Nirmal Purja: "Su pérdida en las montañas que amaba es un golpe devastador"
+
+La trágica muerte del montañista nepalí Nirmal Purja , víctima de una avalancha en el Broad Peak en la que han fallecido también los otros nueve integrantes de su expedición, ha conmocionado al mundo . Por eso, los mensajes de despedida a la leyenda del alpinismo no han tardado en llegar desde este sábado. " Me ha entr.
+
+Date: 2026-08-03
 
 ### Qué se sabe de la trágica muerte de Nirmal Purja y los nueve miembros de su expedición tras la avalancha
 
@@ -34,4 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Conmoción por la muerte de Nirmal Purja: "Su pérdida en las montañas que amaba es un golpe devastador"](https://www.20minutos.es/deportes/conmocion-por-muerte-nirmal-purja-su-perdida-las-mismas-montanas-que-tanto-amaba-es-un-golpe-devastador_7021786_0.html?utm_source=lootura.com) — 2026-08-03T06:12:10.000Z

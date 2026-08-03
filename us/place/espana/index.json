@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T02:34:45.722Z",
+  "updatedAt": "2026-08-03T06:57:18.675Z",
   "aliases": [
     "España",
     "Estado español",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-      "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
-      "date": "2026-08-02"
+      "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
+      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "date": "2026-08-03"
     },
     {
       "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
       "summary": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
       "date": "2026-08-02"
     },
     {
@@ -59,19 +64,14 @@
       "title": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
       "summary": "According to the president of Ceuta, 60,000 migrants have flooded the small Spanish territory from Morocco since Thursday. Most voluntarily left the territory amid shortages of food, water and shelter, but thousands remained. Spain's prime minister called it an attack. Aiden Stretch reports from Ceuta, Spain.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
-      "summary": "Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
     {
-      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:29:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T04:01:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",

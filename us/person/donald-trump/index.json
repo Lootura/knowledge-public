@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T02:34:45.722Z",
+  "updatedAt": "2026-08-03T06:57:18.675Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,23 +30,8 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Donald Trump's granddaughter Kai Trump reveals her unexpected song of the year pick",
-      "summary": "Kai Trump surprised fans when she revealed her choice for her \"song of the year.\" In a video that she shared on her YouTube channel and TikTok, the 19-year-old granddaughter of President Donald Trump admitted that she was caught off guard when she was recently asked to pick a song that \"would define your past year.\" \"A.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "The AI ‘news’ accounts hyping a blue-state dystopia",
-      "summary": "The Scoop In January, President Donald Trump posted two clips from a popular YouTube account sharing some dramatic news: Walmart was closing hundreds of California stores . It wasn’t true . But as California Gov. Gavin Newsom’s communications team pushed back against the posts on X, what alarmed them more than the fals.",
       "date": "2026-08-03"
     },
     {
@@ -55,24 +40,39 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
-      "date": "2026-08-02"
+      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "date": "2026-08-03"
     },
     {
-      "title": "Trump admin. touts its transparency. Yet few Iran war details have been shared.",
-      "summary": "The Trump administration is offering the public less information about the Iran war and its direction, even as the costs continue to mount.",
-      "date": "2026-08-02"
+      "title": "Todd Blanche moves closer to confirmation after rescinding $1.8B fund",
+      "summary": "Acting Attorney General Todd Blanche moved closer to Senate confirmation Sunday after formally rescinding a controversial $1.8 billion \"anti-weaponization fund\" and narrowing tax protections included in President Donald Trump’s IRS settlement. A spokeswoman for Sen. John Cornyn, R-Texas, confirmed an agreement had been.",
+      "date": "2026-08-03"
     },
     {
-      "title": "Fact-checking Trump's claims about how the Iran war is going",
-      "summary": "Even as a ceasefire was crumbling, leading the U.S. to wage new attacks on Iran, President Donald Trump touted the United States' war as a success.",
-      "date": "2026-08-02"
+      "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+      "summary": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies. (Image credit: Mark Schiefelbein).",
+      "date": "2026-08-03"
     },
     {
-      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "summary": "US president claims delay is also in response to requests from Iran and other countries in the region Donald Trump has said he cancelled planned military strikes against Iran on the basis of “rapidly” reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz. The US president paused the st.",
-      "date": "2026-08-02"
+      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+      "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets. (Image credit: Eugene Hoshiko).",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Donald Trump's granddaughter Kai Trump reveals her unexpected song of the year pick",
+      "summary": "Kai Trump surprised fans when she revealed her choice for her \"song of the year.\" In a video that she shared on her YouTube channel and TikTok, the 19-year-old granddaughter of President Donald Trump admitted that she was caught off guard when she was recently asked to pick a song that \"would define your past year.\" \"A.",
+      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -89,21 +89,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
       "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T02:33:19.000Z",
+      "publishedAt": "2026-08-03T06:32:10.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T02:23:21.000Z",
+      "publishedAt": "2026-08-03T04:44:30.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
-      "title": "Donald Trump's granddaughter Kai Trump reveals her unexpected song of the year pick",
-      "url": "https://www.foxnews.com/entertainment/donald-trump-granddaughter-kai-trump-reveals-unexpected-song-year-pick?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T01:46:19.000Z",
+      "title": "Todd Blanche moves closer to confirmation after rescinding $1.8B fund",
+      "url": "https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T04:06:53.000Z",
       "sourceId": "lootura-us-fox-news"
     },
     {
@@ -119,23 +119,23 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:04:19.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:41:31.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
       "url": "https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening?utm_source=lootura.com",
       "publishedAt": "2026-08-02T21:29:47.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Fact-checking Trump's claims about how the Iran war is going",
-      "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T17:12:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "The AI ‘news’ accounts hyping a blue-state dystopia",
-      "url": "https://www.semafor.com/article/08/02/2026/the-ai-news-accounts-hyping-a-blue-state-dystopia?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T01:29:19.000Z",
-      "sourceId": "lootura-us-semafor"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 16
 }

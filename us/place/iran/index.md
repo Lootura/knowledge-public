@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T02:34:45.722Z
+- Updated: 2026-08-03T06:57:18.675Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
 
 ### Trump says Iran talks to resume Monday after calling off planned strikes
 
@@ -26,15 +20,21 @@ The US president did not provide details of where Monday meeting would take plac
 
 Date: 2026-08-03
 
+### Oil drops over 5% as Middle East tensions ebb on diplomatic efforts
+
+Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
+
+Date: 2026-08-03
+
+### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+
+Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
+
+Date: 2026-08-03
+
 ### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
 
 We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.
-
-Date: 2026-08-02
-
-### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
-
-President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.
 
 Date: 2026-08-02
 
@@ -71,8 +71,8 @@ Date: 2026-08-02
 ## Sources
 
 - [Trump admin. touts its transparency. Yet few Iran war details have been shared.](https://www.cbsnews.com/news/trump-administration-iran-war-details-transparency/?utm_source=lootura.com) — 2026-08-02T16:15:39.000Z
-- [Oil drops over 4% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T02:33:19.000Z
-- [Trump says Iran talks to resume Monday after calling off planned strikes](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html?utm_source=lootura.com) — 2026-08-03T02:23:21.000Z
+- [Oil drops over 5% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T06:32:10.000Z
+- [Trump says Iran talks to resume Monday after calling off planned strikes](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html?utm_source=lootura.com) — 2026-08-03T04:44:30.000Z
 - [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-2-rcna590313?utm_source=lootura.com) — 2026-08-02T22:14:37.000Z
 - [Fragile ceasefire between U.S. and Iran](https://www.nbcnews.com/nightly-news/video/fragile-ceasefire-between-u-s-and-iran-267650117537?utm_source=lootura.com) — 2026-08-02T22:51:08.000Z
 - [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z

@@ -3,20 +3,44 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
+### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
 
-Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
+Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
+
+Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
+
+Date: 2026-08-03
+
+### El Ibex busca récords con el petróleo desinflado
+
+El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
+
+Date: 2026-08-03
+
+### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
+
+Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
+
+Date: 2026-08-03
 
 ### La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo
 
 Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de una escalada global Leer.
+
+Date: 2026-08-02
+
+### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
+
+Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
 
 Date: 2026-08-02
 
@@ -44,33 +68,10 @@ El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospu
 
 Date: 2026-08-02
 
-### Trump anuncia la suspensión de un ataque contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
-
-Date: 2026-08-02
-
-### Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.
-
-Date: 2026-08-02
-
-### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
-
-Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
-
-Date: 2026-08-02
-
-### La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo
-
-Los ayatolás arman a Putin, Moscú guía los misiles iraníes y Ucrania ataca barcos de Teherán en el Caspio. Cada vez hay más riesgos de en una escalada global Leer.
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí](https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com) — 2026-08-03T03:25:00.000Z
+- [El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-03T04:47:05.000Z
 - [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-02T18:29:10.000Z
-- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
-- [La eterna indecisión de Trump en Irán](https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html?utm_source=lootura.com) — 2026-08-02T22:05:00.000Z
-- [Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final](https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/?utm_source=lootura.com) — 2026-08-02T21:50:17.000Z
+- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T06:25:44.000Z
+- [Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes](https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T06:55:38.000Z

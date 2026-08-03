@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
+
+Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.
+
+Date: 2026-08-03
 
 ### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
 
@@ -62,12 +68,6 @@ Por primera vez, la Unión Europea ha recibido con normalidad la nueva andanada 
 
 Date: 2026-07-25
 
-### Discovered by Atlas
-
-Unión Europea first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá](https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com) — 2026-08-03T06:21:30.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
+No public source links.

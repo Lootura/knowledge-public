@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
+
+Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.
+
+Date: 2026-08-03
 
 ### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
 
@@ -62,12 +68,7 @@ El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde 
 
 Date: 2026-07-25
 
-### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
-
-La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Juan Cruz Cigudosa, secretario de Estado de Ciencia: “El eclipse va a ser como la final del Mundial”](https://theconversation.com/juan-cruz-cigudosa-secretario-de-estado-de-ciencia-el-eclipse-va-a-ser-como-la-final-del-mundial-288555?utm_source=lootura.com) — 2026-08-03T05:46:56.000Z
+- [La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá](https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com) — 2026-08-03T06:21:30.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales
+
+En la explanada de Loma Margarita de Ceuta, en las inmediaciones de la que será la base única militar en la ciudad autónoma, una veintena de legionarios rodeaban ayer a mediodía a medio centenar de inmigrantes, que previamente habían sido pastoreados, en grupos, hasta allí. Sentados, a la sombra, con el mismo bañador c.
+
+Date: 2026-08-03
+
+### Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta
+
+La morgue provisional instalada en el antiguo hospital militar de Ceuta tras la entrada masiva de inmigrantes del pasado jueves, acondicionada ya para albergar hasta 200 cadáveres, sigue recibiendo los cuerpos de aquellos que perdieron la vida en el paso del espigón fronterizo o bordeándolo a nado. El Gobierno ha eleva.
+
+Date: 2026-08-02
 
 ### El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta
 
@@ -17,12 +29,6 @@ Date: 2026-08-02
 ### Marruecos da sus propias cifras de la avalancha y culpa a las "mafias" y a "malentendidos" con la sentencia del Supremo
 
 El Gobierno marroquí reconoce 40.000 entradas de inmigrantes a Ceuta y 11 muertos en su territorio.
-
-Date: 2026-08-02
-
-### Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta
-
-La morgue provisional instalada en el antiguo hospital militar de Ceuta tras la entrada masiva de inmigrantes del pasado jueves, acondicionada ya para albergar hasta 200 cadáveres, sigue recibiendo los cuerpos de aquellos que perdieron la vida en el paso del espigón fronterizo o bordeándolo a nado. El Gobierno ha eleva.
 
 Date: 2026-08-02
 
@@ -62,15 +68,7 @@ Pretende elevar las jornadas laborales, endurecer las bajas y retrasar la jubila
 
 Date: 2026-08-01
 
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta
-
-Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Marruecos da sus propias cifras de la avalancha y culpa a las "mafias" y a "malentendidos" con la sentencia del Supremo](https://www.eldebate.com/espana/20260802/marruecos-reconoce-40000-entradas-inmigrantes-ceuta-11-muertos-territorio_446198.html?utm_source=lootura.com) — 2026-08-02T20:33:14.000Z
-- [El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta](https://www.elmundo.es/espana/2026/08/02/6a6f15e6fdddfff0508b458e.html?utm_source=lootura.com) — 2026-08-02T12:18:00.000Z
 - [Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta](https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html?utm_source=lootura.com) — 2026-08-02T19:12:49.000Z
-- [Rabat achaca la crisis de Ceuta a «mafias, desinformación y malentendidos»](https://theobjective.com/internacional/2026-08-02/rabat-crisis-ceuta-mafias-desinformacion-malentendidos/?amp=&utm_source=lootura.com) — 2026-08-02T20:25:39.000Z
+- [El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales](https://www.lavanguardia.com/politica/20260803/11606346/ceuta-acelera-retorno-migrantes-sospechas-expulsiones-ilegales.html?utm_source=lootura.com) — 2026-08-03T04:00:00.000Z

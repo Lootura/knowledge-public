@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
+
+Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
+
+Date: 2026-08-03
+
+### El Ibex busca récords con el petróleo desinflado
+
+El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
+
+Date: 2026-08-03
+
+### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
+
+Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
+
+Date: 2026-08-03
 
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
@@ -50,25 +68,8 @@ El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataq
 
 Date: 2026-08-02
 
-### Claves para proteger la cartera de inversiones en vacaciones
-
-Primer día de agosto y, para muchos, el inicio de las vacaciones. Toca poner en pausa la rutina diaria y dar paso al descanso y el ocio. Es hora para la desconexión, también en el ámbito financiero, algo que, aunque parezca imposible, no lo es. La incertidumbre va a seguir dominando los mercados. Donald Trump continúa.
-
-Date: 2026-08-02
-
-### Trump cancela su ataque a gran escala contra Irán en previsión de un "acuerdo rápido"
-
-Después de varios días de amenazar con un ataque a gran escala contra Irán y la vuelta a la guerra total contra la República Islámica, el presidente estadounidense, Donald Trump, ha anunciado durante la madrugada de este lunes la cancelación de sus bombardeos ante la perspectiva de conseguir un "acuerdo rápido".
-
-Date: 2026-08-02
-
-### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
-
-El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo](https://amp.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html?utm_source=lootura.com) — 2026-08-02T16:26:41.000Z
-- [La eterna indecisión de Trump en Irán](https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html?utm_source=lootura.com) — 2026-08-02T22:05:00.000Z
+- [El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-03T04:47:05.000Z
+- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T06:25:44.000Z
+- [Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes](https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T06:55:38.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La contable de Red.es denuncia ante la Policía la "orden directa" de su superior para borrar información del empresario amigo de Begoña Gómez](https://www.elmundo.es/espana/2026/08/03/6a6f928121efa0af3e8b4578.html?utm_source=lootura.com) — 2026-08-02T23:32:51.000Z
+No public source links.

@@ -40,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z
+No public source links.

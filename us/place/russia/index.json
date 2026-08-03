@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-03T06:57:18.675Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+      "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia",
       "summary": "A bipartisan bill to impose tough new sanctions on Russia is making progress in the U.S. Senate. But concerns over how the bill grants President Trump new tariff authorities is complicating the path.",
@@ -58,13 +63,15 @@
       "title": "Firing of Ukraine’s Top General Signals the End of an Era",
       "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
-      "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+      "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:00:01.000Z",
+      "sourceId": "lootura-us-cnbc"
+    }
+  ],
+  "evidenceCount": 1
 }

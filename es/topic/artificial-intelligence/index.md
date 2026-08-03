@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [1929 | Terminadas las obras de la Pescadería](https://www.diariovasco.com/gipuzkoa/memoria/terminadas-obras-pescaderia-20260802175716-nt_amp.html?utm_source=lootura.com) — 2026-08-02T06:00:36.000Z
+- [Europa jubila el modelo migratorio de Pedro Sánchez](https://amp.elmundo.es/internacional/2026/08/02/6a6f82a2fc6c83246b8b4582.html?utm_source=lootura.com) — 2026-08-02T20:38:18.000Z

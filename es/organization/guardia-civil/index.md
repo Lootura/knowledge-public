@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés
+
+La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Policía que un superior le dio la «orden directa» de eliminar información contable de una adjudicación al empresario Juan Carlos Barrabés , según ha publicado El Mundo. Actualmente, la Unidad Central Operativa ( UCO ) de la Guardia Civil y la Fis.
+
+Date: 2026-08-03
 
 ### Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo
 
@@ -62,12 +68,7 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-25
 
-### Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”
-
-Un equipo de vídeo de EL PAÍS entrevista a la portavoz de la Guardia Civil en Cenicientos, que insta a los habitantes a no volver a sus casas hasta nuevo aviso.
-
-Date: 2026-07-24
-
 ## Fuentes
 
 - [Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo](https://www.elmundo.es/espana/2026/08/03/6a6f9abffc6c83b24f8b4580.html?utm_source=lootura.com) — 2026-08-02T23:44:08.000Z
+- [Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés](https://theobjective.com/espana/tribunales/2026-08-03/contable-redes-orden-borrar-informacion-barrabes/?utm_source=lootura.com) — 2026-08-03T06:08:46.000Z

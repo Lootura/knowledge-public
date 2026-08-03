@@ -34,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La caída en picado de Infantino, el hombre que quiso vender el Mundial](https://www.abc.es/deportes/futbol/caida-picado-infantino-hombre-quiso-vender-mundial-20260803011153-nt.html?utm_source=lootura.com) — 2026-08-02T23:28:07.000Z
+No public source links.

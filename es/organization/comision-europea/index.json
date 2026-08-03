@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”",
+      "summary": "El sector tabaquero atraviesa un momento de agitación. A la espera de que la Comisión Europea ponga en marcha la revisión de la directiva comunitaria sobre los productos del tabaco, ahora en fase de consulta pública, los distintos países que componen el mercado común adaptan sus marcos normativos ante la aparición de l.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
       "summary": "A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.",
@@ -59,13 +64,15 @@
       "title": "La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'",
       "summary": "El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Comisión Europea first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”",
+      "url": "https://cincodias.elpais.com/companias/2026-08-03/christos-harpantidis-philip-morris-cuando-la-regulacion-equipara-al-cigarrillo-con-sus-alternativas-se-elimina-el-incentivo-para-innovar.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

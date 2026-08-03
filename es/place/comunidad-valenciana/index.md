@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»](https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844?utm_source=lootura.com) — 2026-08-02T22:53:45.000Z
+No public source links.

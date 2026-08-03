@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta](https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com) — 2026-08-02T19:06:21.000Z
-- [Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península](https://theobjective.com/espana/politica/2026-08-02/feijoo-critica-situacion-calles-ceuta-mientras-mafias-fletan-lanchas-peninsula/?amp=&utm_source=lootura.com) — 2026-08-02T16:30:13.000Z
+No public source links.

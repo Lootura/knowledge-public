@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T05:09:29.489Z",
+  "generatedAt": "2026-08-03T07:35:23.491Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|53|1785724485722",
+    "signature": "1.18.0|54|1785740238675",
     "version": "1.18.0",
-    "build": 53,
-    "latestEntityUpdatedAt": "2026-08-03T02:34:45.722Z"
+    "build": 54,
+    "latestEntityUpdatedAt": "2026-08-03T06:57:18.675Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-iran",
-      "name": "Iran",
-      "type": "place",
-      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-      "url": "https://atlas.lootura.com/us/place/iran",
-      "path": "/us/place/iran",
-      "updatedAt": "2026-08-03T02:34:45.722Z",
-      "score": 1727,
-      "sourceCount": 284,
+      "id": "usa-todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "title": "NATO spending pressure returned",
+      "url": "https://atlas.lootura.com/us/person/todd-blanche",
+      "path": "/us/person/todd-blanche",
+      "updatedAt": "2026-08-03T06:57:18.675Z",
+      "score": 1756,
+      "sourceCount": 39,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-03T06:57:18.675Z",
+        "score": 1726,
+        "sourceCount": 285,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
@@ -34,9 +47,9 @@
         "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-03T02:34:45.722Z",
-        "score": 1649,
-        "sourceCount": 502,
+        "updatedAt": "2026-08-03T06:57:18.675Z",
+        "score": 1678,
+        "sourceCount": 507,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +60,26 @@
         "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-03T02:34:45.722Z",
+        "updatedAt": "2026-08-03T06:57:18.675Z",
+        "score": 1662,
+        "sourceCount": 529,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-john-cornyn",
+        "name": "John Cornyn",
+        "type": "person",
+        "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization fund\"",
+        "url": "https://atlas.lootura.com/us/person/john-cornyn",
+        "path": "/us/person/john-cornyn",
+        "updatedAt": "2026-08-03T06:57:18.675Z",
         "score": 1639,
-        "sourceCount": 525,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-reflecting-pool",
-        "name": "Reflecting pool",
-        "type": "object",
-        "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
-        "url": "https://atlas.lootura.com/us/object/reflecting-pool",
-        "path": "/us/object/reflecting-pool",
-        "updatedAt": "2026-08-03T02:34:45.722Z",
-        "score": 1621,
-        "sourceCount": 7,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-espana",
-        "name": "Spain",
-        "type": "place",
-        "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-08-03T02:34:45.722Z",
-        "score": 1616,
-        "sourceCount": 21,
+        "sourceCount": 2,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 92
+    "publicEntityCount": 94
   }
 }

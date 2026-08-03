@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T13:15:32.753Z
+- Updated: 2026-08-03T06:57:18.675Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### 'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion
+
+Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.
+
+Date: 2026-08-03
 
 ### Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
 
@@ -62,12 +68,6 @@ In our news wrap Friday, this week's powerful earthquake in Japan has claimed at
 
 Date: 2026-07-31
 
-### Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers
-
-Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- ['Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion](https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html?utm_source=lootura.com) — 2026-08-03T05:00:01.000Z

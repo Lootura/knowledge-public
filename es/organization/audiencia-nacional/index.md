@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo
+
+La Audiencia Nacional ha recibido ya la fianza de más del millón de euros que el Juzgado Central de Instrucción número 6, dirigido por el magistrado Antonio Piña, ha impuesto a los 16 acusados por los espionajes que realizó el comisario jubilado José Manuel Villarejo para BBVA. El banco ha consignado, por un lado, 754.
+
+Date: 2026-08-03
 
 ### El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas
 
@@ -62,12 +68,6 @@ El expresidente se remite a próximas diligencias en el juzgado para aclarar los
 
 Date: 2026-07-23
 
-### Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este jueves una entrevista en el programa Mañaneros 360 de TVE, la primera desde que trascendiera su investigación judicial en relación con el rescate de la aerolínea Plus Ultra y su posterior declaración ante el juez de la Audiencia Nacional, José.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo](https://cincodias.elpais.com/companias/2026-08-03/bbva-consigna-la-fianza-integra-de-117-millones-de-euros-impuesta-por-el-caso-villarejo.html?utm_source=lootura.com) — 2026-08-03T03:15:00.000Z

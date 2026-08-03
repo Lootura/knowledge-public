@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.json",
   "description": "Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "M.Rajoy",
     "Mariano",
@@ -17,6 +17,11 @@
     "Rajoy"
   ],
   "changes": [
+    {
+      "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
+      "summary": "Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro",
       "summary": "Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.",
@@ -61,13 +66,15 @@
       "title": "La patria del balón",
       "summary": "Convendremos todos en que Francia ya era un rival temible antes de la última columna de Mariano Rajoy , esa en la que aseguraba que la selección gala juega sin futbolistas franceses, es decir: sin futbolistas blancos ataviados con una boina, una camiseta de rayas marineras y una baguette debajo del brazo, que es como d.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
-      "summary": "Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
+      "url": "https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

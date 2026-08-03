@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
+      "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal",
       "summary": "El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.",
@@ -58,13 +63,21 @@
       "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
       "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
-      "summary": "La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Juan Cruz Cigudosa, secretario de Estado de Ciencia: “El eclipse va a ser como la final del Mundial”",
+      "url": "https://theconversation.com/juan-cruz-cigudosa-secretario-de-estado-de-ciencia-el-eclipse-va-a-ser-como-la-final-del-mundial-288555?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T05:46:56.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    },
+    {
+      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
+      "url": "https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T06:21:30.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/person/tom-holland
 
 ## Cambios recientes
+
+### Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz
+
+Hay un actor que tiene un papel relevante tanto en La Odisea como en Spider-Man: Brand New Day y no es Tom Holland. Tampoco es Zendaya . La pareja de intérpretes ha protagonizado el verano cinematográfico paseándose de photocall en photocall para promocionar estos dos esperadísimos estrenos, pero hay una tercera person.
+
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la historia](https://hipertextual.com/cine-television/spider-man-brand-new-day-arrasa-en-taquilla-segundo-mejor-estreno-de-la-historia/?utm_source=lootura.com) — 2026-08-02T18:27:01.000Z
+- [Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz](https://elpais.com/gente/2026-08-03/por-que-jon-bernthal-es-el-perfecto-tipo-duro-de-hollywood-una-formacion-rusa-dos-hermanos-demasiado-modelicos-y-15-roturas-de-nariz.html?utm_source=lootura.com) — 2026-08-03T03:30:00.000Z

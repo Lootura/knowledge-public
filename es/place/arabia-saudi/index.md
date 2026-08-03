@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
+
+Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
+
+Date: 2026-08-03
 
 ### La OPEP+ elevará de nuevo la producción de petróleo en septiembre
 
@@ -62,12 +68,6 @@ De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para 
 
 Date: 2026-07-22
 
-### Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino
-
-El pacto podría suponer grandes beneficios para las empresas estadounidenses, pero también es probable que suscite inquietud sobre la proliferación nuclear en Oriente Próximo Leer.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí](https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com) — 2026-08-03T03:25:00.000Z

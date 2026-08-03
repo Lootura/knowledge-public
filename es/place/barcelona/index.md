@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona
+
+El atropello de una persona por un tren ha interrumpido esta mañana la circulación entre Cunit y Sant Vicenç de Calders, en la provincia de Tarragona, lo que afecta a los trenes de la línea R2 Sud de Rodalies y a las líneas R13, R14, R15, R16 y R17 , por los que circulan también trenes de media distancia entre Barcelon.
+
+Date: 2026-08-03
+
+### Los correfocs son la tradición más ruidosa de Barcelona, y los ‘diablos de fuego’ sacrifican su audición para poder participar
+
+El _correfoc_ es una fiesta muy importante, tanto en Barcelona como en toda Cataluña. Calvesklein/Wikimedia Commons , CC BY-SA Cada año, el 15 de agosto, el barrio de Gràcia, en Barcelona, se despierta con una procesión pirotécnica de “ diables ”, o “diablos de fuego”, que recorren sus estrechas calles, seguidos poco d.
+
+Date: 2026-08-03
 
 ### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
 
@@ -56,19 +68,7 @@ Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcald�
 
 Date: 2026-08-01
 
-### Jesse Bisiwu no se ve en el filial del Barcelona y aspira a jugar con Hansi Flick: «Estaré preparado»
-
-Jesse Bisiwu acaba de llegar al Fc Barcelona como una de las joyas más prometedoras del equipo, aunque es probable que no tenga hueco en la primera plantilla . Sin embargo, en unas declaraciones para los medios en St. George’s Park, el belga deja claro que su objetivo es jugar con los mayores: « He hablado con Hansi y.
-
-Date: 2026-08-01
-
-### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
-
-El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Guerra por el contrato del siglo del agua en Barcelona](https://www.abc.es/economia/guerra-contrato-siglo-agua-barcelona-20260803011401-nt.html?utm_source=lootura.com) — 2026-08-02T23:26:21.000Z
-- [Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona](https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com) — 2026-08-02T16:41:00.000Z
+- [Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona](https://www.elconfidencial.com/espana/cataluna/2026-08-03/rodalies-tarragona-atropello-ferrocat-1tna-1tps_4399912/?utm_source=lootura.com) — 2026-08-03T06:45:00.000Z
+- [Los correfocs son la tradición más ruidosa de Barcelona, y los ‘diablos de fuego’ sacrifican su audición para poder participar](https://theconversation.com/los-correfocs-son-la-tradicion-mas-ruidosa-de-barcelona-y-los-diablos-de-fuego-sacrifican-su-audicion-para-poder-participar-284610?utm_source=lootura.com) — 2026-08-03T05:50:26.000Z

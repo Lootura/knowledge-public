@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera
 
 El líder de Vox asegura que Marruecos permite la invasión de la cuidad autónoma porque sabe que no va a tener represalias porque tiene información a de mafias y corrosión de Sánchez.
+
+Date: 2026-08-02
+
+### La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos
+
+El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...
 
 Date: 2026-08-02
 
@@ -23,12 +29,6 @@ Date: 2026-08-02
 ### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
 
 El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
-
-Date: 2026-08-02
-
-### La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos
-
-El afán del Gobierno por librar a Marruecos de cualquier responsabilidad en torno al paso masivo de nadadores a Ceuta ha derivado también en un choque entre ministerios. Este...
 
 Date: 2026-08-02
 
@@ -71,7 +71,4 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
-- [Ayuso y Abascal van más lejos y apuntan directamente contra Marruecos: "Es una invasión", "es un acto de guerra"... "¿por qué Sánchez da las gracias?"](https://www.elmundo.es/madrid/2026/08/02/6a6f1920e4d4d8dd788b45ae.html?utm_source=lootura.com) — 2026-08-02T16:03:19.000Z
 - [La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos](https://amp.elmundo.es/espana/2026/08/02/6a6f9b55fc6c83e4178b458a.html?utm_source=lootura.com) — 2026-08-02T20:49:32.000Z
-- [Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»](https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844?utm_source=lootura.com) — 2026-08-02T22:53:45.000Z
-- [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z

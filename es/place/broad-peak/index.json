@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/broad-peak/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/broad-peak/index.json",
   "description": "Sigue la actividad de Broad Peak en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Conmoción por la muerte de Nirmal Purja: \"Su pérdida en las montañas que amaba es un golpe devastador\"",
+      "summary": "La trágica muerte del montañista nepalí Nirmal Purja , víctima de una avalancha en el Broad Peak en la que han fallecido también los otros nueve integrantes de su expedición, ha conmocionado al mundo . Por eso, los mensajes de despedida a la leyenda del alpinismo no han tardado en llegar desde este sábado. \" Me ha entr.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Qué se sabe de la trágica muerte de Nirmal Purja y los nueve miembros de su expedición tras la avalancha",
       "summary": "Oficialmente, Nirmal \"Nimsdai\" Purja y el resto de integrantes del grupo de diez personas sorprendidas por la avalancha del pasado jueves 30 de julio en el Broad Peak (8.051 m) han fallecido, tal y como ha confirmado este sábado Elite Expeditions. El trágico accidente tuvo lugar en el Broad Peak, una de las montañas de.",
@@ -27,6 +32,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Conmoción por la muerte de Nirmal Purja: \"Su pérdida en las montañas que amaba es un golpe devastador\"",
+      "url": "https://www.20minutos.es/deportes/conmocion-por-muerte-nirmal-purja-su-perdida-las-mismas-montanas-que-tanto-amaba-es-un-golpe-devastador_7021786_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T06:12:10.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

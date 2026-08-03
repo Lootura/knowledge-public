@@ -3,7 +3,7 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T02:34:45.722Z
+- Updated: 2026-08-03T06:57:18.675Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes

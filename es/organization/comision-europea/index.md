@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”
+
+El sector tabaquero atraviesa un momento de agitación. A la espera de que la Comisión Europea ponga en marcha la revisión de la directiva comunitaria sobre los productos del tabaco, ahora en fase de consulta pública, los distintos países que componen el mercado común adaptan sus marcos normativos ante la aparición de l.
+
+Date: 2026-08-03
 
 ### Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos
 
@@ -62,12 +68,6 @@ El Informe sobre el Estado de derecho en España, elaborado por la Comisión Eur
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Comisión Europea first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”](https://cincodias.elpais.com/companias/2026-08-03/christos-harpantidis-philip-morris-cuando-la-regulacion-equipara-al-cigarrillo-con-sus-alternativas-se-elimina-el-incentivo-para-innovar.html?utm_source=lootura.com) — 2026-08-03T03:15:00.000Z

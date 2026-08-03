@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-02T15:27:49.000Z
+No public source links.

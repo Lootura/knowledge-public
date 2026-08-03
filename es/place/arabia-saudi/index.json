@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.json",
   "description": "Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "Arabia Saudí",
     "Kingdom of Saudi Arabia",
@@ -17,6 +17,11 @@
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
+      "summary": "Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La OPEP+ elevará de nuevo la producción de petróleo en septiembre",
       "summary": "La alianza OPEP+, liderada por Arabia Saudí y Rusia, ha decidido este domingo mantener, por sexto mes consecutivo, su estrategia de elevar la oferta de petróleo, por lo que pondrá desde septiembre próximo 188.000 barriles más en el mercado, un aumento limitado por la actual dificultad de mover el crudo debido a la guer.",
@@ -61,13 +66,15 @@
       "title": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
       "summary": "De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino",
-      "summary": "El pacto podría suponer grandes beneficios para las empresas estadounidenses, pero también es probable que suscite inquietud sobre la proliferación nuclear en Oriente Próximo Leer.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

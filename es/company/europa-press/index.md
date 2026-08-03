@@ -28,4 +28,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona](https://www.elconfidencial.com/espana/cataluna/2026-08-02/proyectiles-antiaereos-barcelona-mossos_4399784/?utm_source=lootura.com) — 2026-08-02T16:41:00.000Z
+No public source links.

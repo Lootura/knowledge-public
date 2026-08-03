@@ -22,4 +22,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Desvelan cinco posibles candidatos a sustituir a Infantino como presidente de la FIFA](https://okdiario.com/deportes/desvelan-cinco-posibles-candidatos-sustituir-infantino-como-presidente-fifa-19114158?utm_source=lootura.com) — 2026-08-02T21:42:22.000Z
+No public source links.

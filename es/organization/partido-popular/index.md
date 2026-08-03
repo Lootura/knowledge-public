@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
+
+Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
+
+Date: 2026-08-03
 
 ### Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta
 
@@ -62,13 +68,6 @@ La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánch
 
 Date: 2026-08-02
 
-### La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”
-
-Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta](https://theobjective.com/espana/politica/2026-08-02/feijoo-niega-que-exista-la-normalidad-de-la-que-habla-el-gobierno-en-ceuta/?utm_source=lootura.com) — 2026-08-02T19:06:21.000Z
-- [Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad](https://theobjective.com/espana/politica/2026-08-02/tellado-sanchez-ceuta-desprotegida-niega-vuelta-normalidad/?utm_source=lootura.com) — 2026-08-02T18:54:19.000Z
+- [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z

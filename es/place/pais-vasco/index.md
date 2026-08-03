@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T06:56:59.842Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra
+
+Los grupos del Ibex baten su récord de adquisiciones internacionales de los últimos 20 años.
+
+Date: 2026-08-03
 
 ### «Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»
 
@@ -62,13 +68,7 @@ Euskadi afrontó este viernes el último episodio de calor sofocante , con tempe
 
 Date: 2026-07-24
 
-### Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición
-
-El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»](https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:49:49.000Z
-- [La ofensiva empresarial de País Vasco desata operaciones por 6.000 millones](https://www.expansion.com/empresas/2026/08/03/6a6f8d43468aebc6798b45bd.html?utm_source=lootura.com) — 2026-08-02T22:00:28.000Z
+- [La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/03/6a701dd4468aeb0f4c8b4596.html?utm_source=lootura.com) — 2026-08-03T05:14:55.000Z

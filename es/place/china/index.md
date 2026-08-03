@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones](https://www.expansion.com/empresas/tecnologia/2026/08/03/6a6ce764e5fdea3b0a8b45a0.html?utm_source=lootura.com) — 2026-08-02T22:00:54.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-03T06:57:18.675Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### 'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion
+
+Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.
+
+Date: 2026-08-03
 
 ### Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia
 
@@ -62,12 +68,6 @@ Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of d
 
 Date: 2026-07-22
 
-### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
-
-The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- ['Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion](https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html?utm_source=lootura.com) — 2026-08-03T05:00:01.000Z

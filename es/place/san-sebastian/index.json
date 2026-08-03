@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T06:56:59.842Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián",
+      "summary": "La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse",
       "summary": "Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas esconden un relato sobre arte, poder y la transformación urbanística de San Sebastián.",
@@ -64,11 +69,6 @@
       "title": "Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana",
       "summary": "La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriola, aunque no se requirió traslado de ningún afectado. Las falsas medusas son cada vez más pequeñas.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián",
-      "summary": "El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -77,7 +77,13 @@
       "url": "https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T21:51:57.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián",
+      "url": "https://www.diariovasco.com/culturas/musica/the-national-venta-entradas-concierto-san-sebastian-20260803082840-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T06:29:08.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }
