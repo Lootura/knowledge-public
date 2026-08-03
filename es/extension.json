@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T14:44:53.570Z",
+  "generatedAt": "2026-08-03T16:10:44.441Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|56|1785767609026",
+    "signature": "1.18.0|57|1785767609026",
     "version": "1.18.0",
-    "build": 56,
+    "build": 57,
     "latestEntityUpdatedAt": "2026-08-03T14:33:29.026Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/organization/comision-europea",
       "path": "/es/organization/comision-europea",
       "updatedAt": "2026-08-03T14:33:29.026Z",
-      "score": 1718,
+      "score": 1710,
       "sourceCount": 17,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-08-03T14:33:29.026Z",
-        "score": 1683,
+        "score": 1677,
         "sourceCount": 729,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-08-03T14:33:29.026Z",
-        "score": 1682,
+        "score": 1674,
         "sourceCount": 278,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-08-03T14:33:29.026Z",
-        "score": 1669,
+        "score": 1663,
         "sourceCount": 54,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/margarita-robles",
         "path": "/es/person/margarita-robles",
         "updatedAt": "2026-08-03T14:33:29.026Z",
-        "score": 1665,
+        "score": 1659,
         "sourceCount": 3,
         "isBreaking": false,
         "isPinned": false
