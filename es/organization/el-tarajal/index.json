@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La crisis de Ceuta divide a la opinión pública europea",
+      "summary": "La avalancha de inmigrantes que entraron la semana pasada a Ceuta no acaparó únicamente la atención por la emergencia humanitaria, sino también por sus derivadas geopolíticas e implicaciones diplomáticas. Los medios internacionales abrieron portadas e informativos con las imágenes llegadas desde El Tarajal, pero han ma.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta",
       "summary": "El Ministerio del Interior ha informado este domingo de que las barreras de contención instaladas este sábado, 1 de agosto, en la zona de El Tarajal, en Ceuta , se encuentran ya «plenamente operativas» . En un mensaje difundido a través de sus canales oficiales, el departamento que dirige Fernando Grande-Marlaska ha se.",
@@ -47,6 +52,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La crisis de Ceuta divide a la opinión pública europea",
+      "url": "https://www.lavanguardia.com/politica/20260803/11607112/crisis-ceuta-malogra-imagen-sanchez-espana-asi-ve-prensa-internacional.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T16:39:10.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

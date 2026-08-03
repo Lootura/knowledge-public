@@ -37,25 +37,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Robles defiende al CNI y pide a Marruecos que investigue \"hasta el final\" quiénes están detrás de la tragedia ceutí",
-      "url": "https://www.20minutos.es/nacional/robles-defiende-cni-pide-marruecos-que-investigue-hasta-final-quienes-estan-detras-esta-tragedia_7022082_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T12:49:31.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Robles se niega a aclarar si los servicios secretos alertaron o no del riesgo de invasión",
-      "url": "https://www.eldebate.com/espana/20260803/robles-niega-aclarar-servicios-secretos-alertaron-no-riesgo-invasion_446360.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:24:32.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "Robles exige a Marruecos que investigue la crisis de Ceuta y defiende a los servicios de inteligencia",
-      "url": "https://www.lavanguardia.com/politica/20260803/11606933/robles-exige-marruecos-investigue-crisis-ceuta-defiende-servicios-inteligencia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T12:11:41.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

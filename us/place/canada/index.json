@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record",
+      "summary": "\"Spider-Man: Brand New Day\" broke the \"Avengers: Endgame\" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
       "summary": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
@@ -57,13 +62,15 @@
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
       "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
-      "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record",
+      "url": "https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:55:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -25,6 +25,11 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso",
+      "summary": "Leo Messi ha sido salvado por la justicia. Después de meses siendo acusado junto a la AFA de haber estafado siete millones de euros , finalmente los tribunales han decidido desestimar la demanda que tenía por el simple hecho de no haber jugado un amistoso que se había comprometido a jugar tras un acuerdo con una promot.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Casemiro se va con Messi: ficha por Inter Miami hasta 2027",
       "summary": "Casemiro ya tiene nuevo equipo tras abanadonar el Manchester United. Ha firmado por un año, con opción a dos más, con el Inter Miami de Messi.",
@@ -69,13 +74,15 @@
       "title": "Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'",
       "summary": "\"Lo que han hecho será casi imposible de imitar, tal vez lo veamos, pero no creo que suceda . Es único\", dijo hace cinco años Pep Guardiola sobre la rivalidad y los éxitos que habían conseguido Cristiano Ronaldo y Leo Messi en sus carreras deportivas. El considerado por muchos como el mejor entrenador de la historia no.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La fotografía que anticipó una final: \"Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar\"",
-      "summary": "Para el ser humano es difícil creer en el destino, aceptar que todo está escrito de antemano y que nada depende de lo que uno haga, pero hay situaciones que escapan completamente a la lógica. Una de ellas es la foto que unió en 2007 a dos estrellas actuales del fútbol, cuando uno, Leo Messi , estaba empezando su carrer.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso",
+      "url": "https://okdiario.com/deportes/jueza-eeuu-desestima-demanda-messi-estafar-siete-millones-euros-no-jugar-amistoso-19119580?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:30:03.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

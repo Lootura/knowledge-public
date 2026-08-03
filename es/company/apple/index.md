@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre](https://hipertextual.com/apple/hay-que-hablar-sobre-el-iphone-18-porque-todo-apunta-a-que-apple-no-lo-va-a-lanzar-en-septiembre/?utm_source=lootura.com) — 2026-08-03T10:52:55.000Z
+No public source links.

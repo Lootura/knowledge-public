@@ -3,10 +3,22 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
+
+La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
+
+Date: 2026-08-03
+
+### Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo
+
+La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.
+
+Date: 2026-08-03
 
 ### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
 
@@ -29,12 +41,6 @@ Date: 2026-08-03
 ### Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»
 
 La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.
-
-Date: 2026-08-03
-
-### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
-
-La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
 
 Date: 2026-08-03
 
@@ -62,16 +68,7 @@ Mientras la Comisión Europea ha propuesto medidas para reforzar el bienestar de
 
 Date: 2026-08-02
 
-### Von der Leyen celebra el retorno a Marruecos de la mayoría de quienes cruzaron a Ceuta
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha destacado este sábado que la «gran mayoría» de las cerca de 70.000 personas que estos últimos días han cruzado de manera irregular a Ceuta han regresado a territorio marroquí y que ninguna de ellas ha llegado a la península ni al resto de la UE. Von der Le.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
-- [Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»](https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com) — 2026-08-03T13:14:21.000Z
+- [Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo](https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com) — 2026-08-03T16:54:08.000Z
 - [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
-- [Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas](https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html?utm_source=lootura.com) — 2026-08-03T10:38:39.000Z
-- [Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta](https://theobjective.com/internacional/2026-08-03/von-der-leyen-espana-marruecos-inmigrantes-ceuta/?amp=&utm_source=lootura.com) — 2026-08-03T10:53:28.000Z

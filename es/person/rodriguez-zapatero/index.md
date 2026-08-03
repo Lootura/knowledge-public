@@ -3,7 +3,7 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
 
 La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
+
+Date: 2026-08-03
+
+### Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas
+
+El expresidente José Luis Rodríguez Zapatero ha pedido al juez que ponga "límites" a la Policía a la hora de recabar información de varias cuentas bancarias, al advertir de que acceder al "universo" de todas sus operaciones económicas puede derivar en una investigación prospectiva con vulneración de derechos . Por ello.
 
 Date: 2026-08-03
 
@@ -62,12 +68,7 @@ El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicame
 
 Date: 2026-07-24
 
-### Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra
-
-José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas](https://www.20minutos.es/nacional/zapatero-pide-juez-que-ponga-limites-udef-hora-investigar-sus-cuentas_7022172_0.html?utm_source=lootura.com) — 2026-08-03T15:58:33.000Z
 - [La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero](https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com) — 2026-08-03T13:32:54.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
 
-### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
-
-El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
-
-Date: 2026-08-03
-
 ### IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España
 
 El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.
+
+Date: 2026-08-03
+
+### Pánico en una playa del sur de Rusia con seis muertos por el derribo de un dron ucraniano
+
+Moscú acusa a Ucrania de terrorismo y a la OTAN de patrocinarlo Leer.
+
+Date: 2026-08-03
+
+### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
+
+El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
 
 Date: 2026-08-03
 
@@ -62,13 +68,7 @@ Mijansk786/Shutterstock La reciente Cumbre de Ankara de la OTAN (7 y 8 de julio)
 
 Date: 2026-07-13
 
-### El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija
-
-Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN](https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
+- [Pánico en una playa del sur de Rusia con seis muertos por el derribo de un dron ucraniano](https://www.elmundo.es/internacional/2026/08/03/6a70b209e85ecee2368b4587.html?utm_source=lootura.com) — 2026-08-03T15:28:53.000Z
 - [IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España](https://theobjective.com/actualidad/2026-08-03/iu-retirar-tropas-espanolas-europa-apoyo-espana/?utm_source=lootura.com) — 2026-08-03T13:54:16.000Z

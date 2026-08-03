@@ -3,16 +3,10 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
-
-### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
-
-La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
-
-Date: 2026-08-03
 
 ### Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI
 
@@ -23,6 +17,12 @@ Date: 2026-08-03
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
 El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
+
+Date: 2026-08-03
+
+### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
+
+La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
 
 Date: 2026-08-03
 
@@ -71,5 +71,4 @@ Date: 2026-07-24
 ## Fuentes
 
 - [Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI](https://www.eldiario.es/politica/robles-defiende-cni-desmarca-gobierno-exigencia-marruecos-investigue-entrada-ceuta_1_13425309.html?utm_source=lootura.com) — 2026-08-03T12:10:26.000Z
-- [Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas](https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html?utm_source=lootura.com) — 2026-08-03T10:38:39.000Z
 - [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z

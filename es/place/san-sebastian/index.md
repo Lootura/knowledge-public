@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-24
 ## Fuentes
 
 - [La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse](https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:51:57.000Z
-- [The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián](https://www.diariovasco.com/culturas/musica/the-national-venta-entradas-concierto-san-sebastian-20260803082840-nt_amp.html?utm_source=lootura.com) — 2026-08-03T06:29:08.000Z

@@ -3,16 +3,10 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
-
-### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
-
-Date: 2026-08-03
 
 ### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
 
@@ -29,6 +23,12 @@ Date: 2026-08-03
 ### Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios
 
 Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.
+
+Date: 2026-08-03
+
+### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
 
 Date: 2026-08-03
 
@@ -70,8 +70,6 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
 - [El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun](https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com) — 2026-08-03T09:52:25.000Z
 - [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
 - [Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios](https://www.expansion.com/economia/2026/08/03/6a70827ee5fdea152c8b457a.html?utm_source=lootura.com) — 2026-08-03T12:04:27.000Z
-- [Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta](https://okdiario.com/comunidad-valenciana/sanchez-desplegara-2-500-agentes-comunidad-valenciana-eclipse-mientras-desprotege-ceuta-19117874?utm_source=lootura.com) — 2026-08-03T14:01:10.000Z

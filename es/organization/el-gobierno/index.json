@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [],
   "changes": [
     {
@@ -19,11 +19,6 @@
     {
       "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
       "summary": "El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno, forzado a pactar la reforma de la ley de extranjería tras la crisis en Ceuta",
-      "summary": "La avalancha de 60.000 personas que cruzó la frontera de Marruecos a Ceuta el jueves pasado, sumergiendo a la ciudad autónoma en un caos absoluto y que ha dejado un balance de muertes en el mar demoledor —al menos 88 fallecidos— ha aflorado también distintas derivadas políticas de gran dimensión. La europea, con 22 soc.",
       "date": "2026-08-03"
     },
     {
@@ -42,6 +37,21 @@
       "date": "2026-08-03"
     },
     {
+      "title": "El Gobierno tendrá que reubicar a centenares de menores que han llegado a Ceuta en la península en 15 días",
+      "summary": "La ciudad autónoma, que tiene una capacidad ordinaria de 29 plazas, tiene en la actualidad una «sobreocupación del 2.872%» con más de 860 menores censados bajo la tutela autonómica.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Gobierno evita culpar a Rabat y dirige las críticas a la oposición y otros países de la UE",
+      "summary": "El Gobierno ha evitado en estos últimos días culpar a Marruecos de la avalancha migratoria que se vivió en Ceuta la semana pasada. Este lunes ha ido un paso más allá al tener buenas palabras sobre la “colaboración” del país vecino en el retorno de “la inmensa mayoría” de las personas que cruzaron la frontera a través d.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Gobierno, forzado a pactar la reforma de la ley de extranjería tras la crisis en Ceuta",
+      "summary": "La avalancha de 60.000 personas que cruzó la frontera de Marruecos a Ceuta el jueves pasado, sumergiendo a la ciudad autónoma en un caos absoluto y que ha dejado un balance de muertes en el mar demoledor —al menos 88 fallecidos— ha aflorado también distintas derivadas políticas de gran dimensión. La europea, con 22 soc.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
       "summary": "El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, \"a una actividad inusual en las redes sociales,.",
       "date": "2026-08-03"
@@ -50,23 +60,13 @@
       "title": "El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales",
       "summary": "En la explanada de Loma Margarita de Ceuta, en las inmediaciones de la que será la base única militar en la ciudad autónoma, una veintena de legionarios rodeaban ayer a mediodía a medio centenar de inmigrantes, que previamente habían sido pastoreados, en grupos, hasta allí. Sentados, a la sombra, con el mismo bañador c.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
-      "summary": "La morgue provisional instalada en el antiguo hospital militar de Ceuta tras la entrada masiva de inmigrantes del pasado jueves, acondicionada ya para albergar hasta 200 cadáveres, sigue recibiendo los cuerpos de aquellos que perdieron la vida en el paso del espigón fronterizo o bordeándolo a nado. El Gobierno ha eleva.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
-      "summary": "El delegado del Gobierno asegura que no supieron del contingente de personas que se dirigía hacia la frontera hasta que lo vieron acceder Leer.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno, forzado a pactar la reforma de la ley de extranjería tras la crisis en Ceuta",
-      "url": "https://www.abc.es/espana/crisis-ceuta-aboca-gobierno-pp-pactar-reforma-20260802012158-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:18:13.000Z",
+      "title": "El Gobierno tendrá que reubicar a centenares de menores que han llegado a Ceuta en la península en 15 días",
+      "url": "https://www.abc.es/espana/gobierno-reubicar-dias-centenares-menores-llegado-ceuta-20260803164157-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T14:41:57.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -88,9 +88,15 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
+      "title": "El Gobierno evita culpar a Rabat y dirige las críticas a la oposición y otros países de la UE",
+      "url": "https://www.lavanguardia.com/politica/20260803/11607093/gobierno-evita-culpar-rabat-dirige-criticas-oposicion-otros-paises-ue.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T16:15:20.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
       "title": "Entrada masiva de inmigrantes a Ceuta desde Marruecos, en directo: última hora de la frontera y reacciones",
       "url": "https://okdiario.com/espana/entrada-inmigrantes-ceuta-desde-marruecos-directo-ultima-hora-devoluciones-situacion-frontera-hoy-19114286?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T14:24:23.000Z",
+      "publishedAt": "2026-08-03T17:40:23.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
@@ -100,5 +106,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

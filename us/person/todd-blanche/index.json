@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T14:33:52.036Z",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -25,6 +25,26 @@
       "date": "2026-08-03"
     },
     {
+      "title": "NATO spending pressure returned",
+      "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
+      "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Republican holdouts say they will back Todd Blanche for attorney general",
+      "summary": "Move comes after Blanche gives senators written assurance he will drop Trump’s $1.8bn anti-weaponization fund Two Republican senators who threatened to block Todd Blanche’s bid to permanently become attorney general announced they will advance his nomination after he confirmed in writing that a planned $1.8bn slush fun.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
+      "summary": "Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination",
       "summary": "Acting Attorney General Todd Blanche’s nomination appears to be back on track after he announced a key decision to satisfy two Republican holdouts in the Senate who said they could not support his confirmation until the “anti-weaponization” fund was rescinded in writing. Now, Blanche posted an order establishing, “Beyo.",
       "date": "2026-08-03"
@@ -32,11 +52,6 @@
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
       "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal. (Image credit: Win McNamee).",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
       "date": "2026-08-03"
     },
     {
@@ -48,41 +63,20 @@
       "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
       "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed",
-      "summary": "Todd Blanche previously repeatedly told Congress the \"anti-weaponization fund\" was \"dead.\".",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
-      "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-      "summary": "Trump threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over Todd Blanche’s nomination for attorney general.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
+      "url": "https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:40:34.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
       "url": "https://www.nbcnews.com/news/us-news/todd-blanche-deal-gop-holdouts-fires-lebanon-ebola-morning-rundown-rcna590424?utm_source=lootura.com",
       "publishedAt": "2026-08-03T11:01:57.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination",
-      "url": "https://www.today.com/video/trump-ag-pick-scraps-anti-weaponization-fund-ahead-of-vote-267663429895?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:23:25.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:57:06.000Z",
-      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid",
@@ -91,11 +85,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Republican holdouts say they will back Todd Blanche for attorney general",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/todd-blanche-attorney-general-nomination?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:51:55.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T07:05:30.000Z",
+      "publishedAt": "2026-08-03T15:35:28.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
+      "url": "https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:59:34.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

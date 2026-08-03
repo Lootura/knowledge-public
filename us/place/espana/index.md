@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Total solar eclipse will sweep over Spain, Iceland and Greenland in August
+
+For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
+
+Date: 2026-08-03
 
 ### Morocco denies responsibility for events at its border with Spain, as deaths near 100
 
@@ -62,14 +68,7 @@ The death toll climbed to 67, including some who drowned and others who were kil
 
 Date: 2026-08-01
 
-### Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco
-
-The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier. (Image credit: Antonio Sempere).
-
-Date: 2026-08-01
-
 ## Sources
 
 - [Spanish Soccer Star Ferran Torres Talks World Cup Win](https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734?utm_source=lootura.com) — 2026-08-03T13:25:26.000Z
-- [Morocco denies responsibility for events at its border with Spain, as deaths near 100](https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100?utm_source=lootura.com) — 2026-08-03T08:44:09.000Z
-- [Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People](https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com) — 2026-08-03T09:05:12.000Z
+- [Total solar eclipse will sweep over Spain, Iceland and Greenland in August](https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com) — 2026-08-03T17:40:47.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Bristol-Myers Squibb en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/company/bristol-myers-squibb
 
 ## Cambios recientes

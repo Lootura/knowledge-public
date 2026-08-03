@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [China’s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai?utm_source=lootura.com) — 2026-08-03T11:01:11.000Z
+No public source links.

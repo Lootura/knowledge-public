@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,13 +22,13 @@
   ],
   "changes": [
     {
-      "title": "El PSOE crítico con Sánchez alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta",
-      "summary": "El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta.",
+      "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
+      "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
       "date": "2026-08-03"
     },
     {
-      "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
-      "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
+      "title": "El PSOE crítico con Sánchez alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta",
+      "summary": "El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta.",
       "date": "2026-08-03"
     },
     {
@@ -74,17 +74,11 @@
   ],
   "sources": [
     {
-      "title": "El PSOE crítico con Sánchez alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta",
-      "url": "https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:16:42.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
       "url": "https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T13:32:54.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

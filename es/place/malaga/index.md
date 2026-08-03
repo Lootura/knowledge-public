@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
+
+El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
+
+Date: 2026-08-03
 
 ### Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026
 
@@ -62,12 +68,6 @@ El Ejecutivo desestima, «de momento», la violencia de género tras tomar decla
 
 Date: 2026-07-22
 
-### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
-
-Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino](https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com) — 2026-08-03T15:58:39.000Z

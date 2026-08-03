@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,16 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
+      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
+      "date": "2026-08-03"
+    },
     {
       "title": "El Ibex acaricia récords con el petróleo desinflado",
       "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
@@ -63,25 +73,21 @@
       "title": "La doble vara de medir de Trump: de la complacencia con Marruecos a la incomodidad con España",
       "summary": "Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social, Truth, es una publicación fija en la que agradece al rey de Marruecos, Mohamed VI, que le haya puesto su nombre a una autopista kilométrica que conecta el sur del país con el Sáhara Occidental. No es un mensaje más. Lleva una semana encab.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
-      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto \"un ataque\" contra Irán tras \"alcanzar las bases de un acuerdo\" que...",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump anuncia la suspensión de un ataque contra Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El Ibex acaricia récords con el petróleo desinflado",
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "url": "https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T16:32:34.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:48:54.000Z",
+      "publishedAt": "2026-08-03T15:40:47.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

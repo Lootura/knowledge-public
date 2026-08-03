@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»
+
+El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.
+
+Date: 2026-08-03
+
+### El Ibex renueva sus máximos históricos cerca de los 20.000 puntos
+
+La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.
+
+Date: 2026-08-03
 
 ### El Ibex acaricia récords con el petróleo desinflado
 
@@ -56,18 +68,7 @@ Lo primero que se ve cuando se visita la cuenta de Donald Trump en su red social
 
 Date: 2026-08-02
 
-### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
-
-El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
-
-Date: 2026-08-02
-
-### Trump anuncia la suspensión de un ataque contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El Ibex acaricia récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T13:48:54.000Z
+- [Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»](https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com) — 2026-08-03T16:32:34.000Z
+- [El Ibex renueva sus máximos históricos cerca de los 20.000 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T15:40:47.000Z

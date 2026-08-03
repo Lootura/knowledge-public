@@ -28,4 +28,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [South Korea records its highest-ever temperature of 42.5 C](https://phys.org/news/2026-08-south-korea-highest-temperature.html?utm_source=lootura.com) — 2026-08-03T07:13:28.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T09:56:32.156Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’
+
+Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.
+
+Date: 2026-08-03
 
 ### Abortion is on the ballot again in these two states: From the Politics Desk
 
@@ -62,12 +68,6 @@ Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U
 
 Date: 2026-07-13
 
-### Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor
-
-Fmr. Gov. Mark Sanford (R-S.C.) joins Meet the Press NOW to react to the sudden and unexpected death of Sen. Lindsey Graham (R-S.C.). Sanford discusses Senator Graham's legacy on Capitol Hill and his role as a liaison between President Trump and the Senate.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’](https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/?utm_source=lootura.com) — 2026-08-03T15:59:34.000Z

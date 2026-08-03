@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### A Putin critic leaves Russia after he is barred from running for parliament
+
+"Good news: I'm alive and free. Unfortunately, not in Russia for the time being," opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.
+
+Date: 2026-08-03
 
 ### 'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion
 
@@ -62,12 +68,6 @@ Ukrainian long-range drones targeted large warehouses belonging to Wildberries, 
 
 Date: 2026-07-22
 
-### Firing of Ukraine’s Top General Signals the End of an Era
-
-Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [A Putin critic leaves Russia after he is barred from running for parliament](https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com) — 2026-08-03T15:06:06.000Z

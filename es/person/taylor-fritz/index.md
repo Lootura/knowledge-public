@@ -3,10 +3,16 @@
 > Sigue la actividad de Taylor Fritz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/taylor-fritz
 
 ## Cambios recientes
+
+### Rafa Jódar – Fritz, en directo hoy: dónde ver y última hora del partido de la final del ATP 500 de Washington 2026 online gratis
+
+Rafa Jódar busca el segundo título ATP de su corta carrera ante el tenista local Taylor Fritz . La nueva gran promesa, ya convertida en realidad, del tenis tratará de sorprender al estadounidense, que parte como favorito, en la final del ATP 500 de Washington , que se disputa este lunes al acabar la final femenina tras.
+
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Rafa Jódar – Fritz, en directo hoy: dónde ver y última hora del partido de la final del ATP 500 de Washington 2026 online gratis](https://okdiario.com/deportes/rafa-jodar-fritz-directo-hoy-donde-ver-ultima-hora-del-partido-final-del-atp-500-washington-2026-online-gratis-19113151?utm_source=lootura.com) — 2026-08-03T17:39:29.000Z

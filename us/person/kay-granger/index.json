@@ -1,0 +1,48 @@
+{
+  "id": "usa-kay-granger",
+  "name": "Kay Granger",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/kay-granger",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/kay-granger",
+  "markdownUrl": "https://atlas.lootura.com/us/person/kay-granger/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/kay-granger/index.json",
+  "description": "Follow Kay Granger, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "aliases": [
+    "Norvell Kay Granger",
+    "Norvell Kay Mullendore"
+  ],
+  "changes": [
+    {
+      "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83",
+      "summary": "Granger was the first woman elected mayor of Fort Worth, Texas, and the first Republican woman to chair one of the most powerful committees in Congress, the House Appropriations Committee.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+      "summary": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Kay Granger first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83",
+      "url": "https://www.pbs.org/newshour/politics/kay-granger-first-republican-woman-from-texas-to-serve-in-the-house-has-died-at-age-83?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:00:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:23:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

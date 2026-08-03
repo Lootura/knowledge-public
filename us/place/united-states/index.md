@@ -3,44 +3,14 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
-
-Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
-
-Date: 2026-08-03
-
-### D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage
-
-The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.
-
-Date: 2026-08-03
-
 ### U.S. and Japan Coordinated to Help Stabilize the Yen
 
 U.S. and Japanese officials confirmed that the Treasury Department had moved last week to prop up the currency, which had been trading near four-decade lows.
-
-Date: 2026-08-03
-
-### Iran denies Trump claim that new talks will start Monday after he called off attacks
-
-The United States and Iran will hold new talks Monday afternoon, President Donald Trump said, after announcing he called off intense new strikes to allow for a deal on the Strait of Hormuz and Tehran’s nuclear program.
-
-Date: 2026-08-03
-
-### U.S. steps in to help shore up Japanese yen
-
-The U.S. dollar weakened against the Japanese yen Monday after the leaders of both countries confirmed they intervened in the markets to help shore up Japan's currency.
-
-Date: 2026-08-03
-
-### Clinical Trials Aren’t the Only Way to Know if Flu Shots Work
-
-—Hector Roqueta Rivero—Getty Images Earlier this year, the U.S. Department of Health and Human Services (HHS) stopped recommending that all children get an annual influenza vaccine. Instead, it made the shot a matter of “shared clinical decision-making” —something for parents and a doctor to weigh case by case—citing,.
 
 Date: 2026-08-03
 
@@ -62,21 +32,51 @@ U.S. President Donald Trump said new talks to wind down the war in Iran will sta
 
 Date: 2026-08-03
 
-### Rising seas are inundating US coastal wetlands, putting many on track to become open water
+### Oil Prices Plummet as Investors Digest Pause in Iran War Fighting
 
-Along the three coasts of the contiguous United States, a silent race unfolds. Fueled by climate change, sea levels rise faster than at any time in recent geologic history. Meanwhile, coastal wetlands cling to a slim lead, lifted on newly accumulated sediments or moving inland as encroaching tides nip at their heels.
+The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.
+
+Date: 2026-08-03
+
+### Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz
+
+President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.
+
+Date: 2026-08-03
+
+### Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend
+
+Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news comes as The Odyssey.
+
+Date: 2026-08-03
+
+### 'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record
+
+"Spider-Man: Brand New Day" broke the "Avengers: Endgame" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.
+
+Date: 2026-08-03
+
+### HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead
+
+If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third of existing homes.
+
+Date: 2026-08-03
+
+### Here’s Why the US Is Helping Prop Up the Japanese Yen
+
+The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.
 
 Date: 2026-08-03
 
 ## Sources
 
-- [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-03T00:56:29.000Z
 - [How U.S. officials could confirm if Iran was behind the water systems cyberattack](https://www.cbsnews.com/video/how-us-officials-could-confirm-irans-role-in-water-systems/?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
-- [D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage](https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com) — 2026-08-03T00:55:09.000Z
 - [Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes](https://www.nbcnews.com/world/israel/israel-concerns-hamas-disarmament-deal-trump-gaza-strikes-rcna590539?utm_source=lootura.com) — 2026-08-03T11:57:25.000Z
-- [Iran denies Trump claim that new talks will start Monday after he called off attacks](https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535?utm_source=lootura.com) — 2026-08-03T07:05:48.000Z
-- [U.S. steps in to help shore up Japanese yen](https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen?utm_source=lootura.com) — 2026-08-03T08:44:24.000Z
+- ['Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record](https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million?utm_source=lootura.com) — 2026-08-03T14:55:32.000Z
 - [Trump claims Iran talks will start Monday, and 4 other developments in the Middle East](https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com) — 2026-08-03T13:32:18.000Z
-- [Rising seas are inundating US coastal wetlands, putting many on track to become open water](https://phys.org/news/2026-07-seas-inundating-coastal-wetlands-track.html?utm_source=lootura.com) — 2026-08-03T13:00:06.000Z
+- [HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead](https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html?utm_source=lootura.com) — 2026-08-03T17:20:05.000Z
+- [Here’s Why the US Is Helping Prop Up the Japanese Yen](https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html?utm_source=lootura.com) — 2026-08-03T15:42:08.000Z
 - [Oil Prices Plummet as Investors Digest Pause in Iran War Fighting](https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com) — 2026-08-03T12:55:01.000Z
 - [U.S. and Japan Coordinated to Help Stabilize the Yen](https://www.nytimes.com/2026/08/02/business/us-japan-yen.html?utm_source=lootura.com) — 2026-08-03T05:50:38.000Z
+- [Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz](https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com) — 2026-08-03T16:11:52.000Z
+- [Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend](https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax?utm_source=lootura.com) — 2026-08-03T14:26:47.000Z

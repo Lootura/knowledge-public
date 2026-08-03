@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»](https://www.abc.es/gente/lamine-yamal-altas-exigencias-desayunar-hotel-lujo-20260803140000-nt.html?utm_source=lootura.com) — 2026-08-03T13:19:23.000Z
+No public source links.

@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
-    {
-      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
-      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe \"hacer más\" en sus fronteras exteriores, para lo cual aboga por una \"rigurosa vi.",
-      "date": "2026-08-03"
-    },
     {
       "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
       "summary": "Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.",
@@ -32,6 +27,11 @@
     {
       "title": "Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios",
       "summary": "Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
+      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe \"hacer más\" en sus fronteras exteriores, para lo cual aboga por una \"rigurosa vi.",
       "date": "2026-08-03"
     },
     {
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
-      "url": "https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T12:48:31.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
       "url": "https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T09:52:25.000Z",
@@ -89,13 +83,7 @@
       "url": "https://www.expansion.com/economia/2026/08/03/6a70827ee5fdea152c8b457a.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T12:04:27.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta",
-      "url": "https://okdiario.com/comunidad-valenciana/sanchez-desplegara-2-500-agentes-comunidad-valenciana-eclipse-mientras-desprotege-ceuta-19117874?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T14:01:10.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

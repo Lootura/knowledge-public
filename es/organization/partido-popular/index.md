@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
-
-Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
-
-Date: 2026-08-03
 
 ### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
 
@@ -20,15 +14,33 @@ Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretar
 
 Date: 2026-08-03
 
-### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
-
-Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
-
-Date: 2026-08-03
-
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
 El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
+
+Date: 2026-08-03
+
+### Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21
+
+El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.
+
+Date: 2026-08-03
+
+### El Cermi “confía” en que el PP "entre en el acuerdo· de reforma de las leyes de discapacidad y dependencia para “hacerla más perfecta”
+
+El Comité Español de Representantes de Personas con Discapacidad ( Cermi ) "confía" en que el PP "entre en el acuerdo" de reforma de las leyes de discapacidad y dependencia para "hacerla más perfecta". Así lo manifestó su presidente, Luis Cayo Pérez Bueno , durante una entrevista concedida a Servimedia en la que subray.
+
+Date: 2026-08-03
+
+### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
+
+Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
+
+Date: 2026-08-03
+
+### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
+
+Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
 
 Date: 2026-08-03
 
@@ -56,21 +68,9 @@ El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la 
 
 Date: 2026-08-02
 
-### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
-
-El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
-
-Date: 2026-08-02
-
-### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
-
-El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería](https://www.abc.es/espana/pp-dificil-lograr-pacto-gobierno-reformar-urgencia-20260803142916-nt.html?utm_source=lootura.com) — 2026-08-03T13:45:50.000Z
+- [Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21](https://elpais.com/economia/2026-08-03/muere-pablo-vazquez-asesor-de-feijoo-y-presidente-del-think-tank-del-pp-reformismo-21.html?utm_source=lootura.com) — 2026-08-03T15:13:28.000Z
+- [El Cermi “confía” en que el PP "entre en el acuerdo· de reforma de las leyes de discapacidad y dependencia para “hacerla más perfecta”](https://www.elconfidencial.com/espana/2026-08-03/discapacidad-reforma-ley-dependencia-1hms-1svm_4400320/?utm_source=lootura.com) — 2026-08-03T15:19:00.000Z
 - [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
-- [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z
 - [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z

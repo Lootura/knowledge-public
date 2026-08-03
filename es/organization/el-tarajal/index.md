@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### La crisis de Ceuta divide a la opinión pública europea
+
+La avalancha de inmigrantes que entraron la semana pasada a Ceuta no acaparó únicamente la atención por la emergencia humanitaria, sino también por sus derivadas geopolíticas e implicaciones diplomáticas. Los medios internacionales abrieron portadas e informativos con las imágenes llegadas desde El Tarajal, pero han ma.
+
+Date: 2026-08-03
 
 ### Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta
 
@@ -52,4 +58,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-No public source links.
+- [La crisis de Ceuta divide a la opinión pública europea](https://www.lavanguardia.com/politica/20260803/11607112/crisis-ceuta-malogra-imagen-sanchez-espana-asi-ve-prensa-internacional.html?utm_source=lootura.com) — 2026-08-03T16:39:10.000Z

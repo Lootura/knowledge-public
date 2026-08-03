@@ -3,10 +3,16 @@
 > Sigue la actividad de Mikel Oyarzabal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/mikel-oyarzabal
 
 ## Cambios recientes
+
+### Eusebio: «La Real Sociedad no tiene techo, debe seguir queriendo ganarlo todo»
+
+El técnico vallisoletano repasa la actualidad txuri-urdin, recuerda su paso por Zubieta y ensalza la figura de Mikel Oyarzabal.
+
+Date: 2026-08-02
 
 ### Jorge Sainz: Un Balón de oro
 
@@ -28,4 +34,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Eusebio: «La Real Sociedad no tiene techo, debe seguir queriendo ganarlo todo»](https://www.diariovasco.com/real-sociedad/eusebio-real-sociedad-techo-debe-seguir-queriendo-20260803234554-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:45:54.000Z

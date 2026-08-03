@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "A Putin critic leaves Russia after he is barred from running for parliament",
+      "summary": "\"Good news: I'm alive and free. Unfortunately, not in Russia for the time being,\" opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.",
+      "date": "2026-08-03"
+    },
     {
       "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
       "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
@@ -58,13 +63,15 @@
       "title": "Ukraine targets Russian online retailer Wildberries",
       "summary": "Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
-      "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A Putin critic leaves Russia after he is barred from running for parliament",
+      "url": "https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:06:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

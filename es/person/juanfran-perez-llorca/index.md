@@ -3,10 +3,16 @@
 > Sigue la actividad de Juanfran Pérez Llorca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/juanfran-perez-llorca
 
 ## Cambios recientes
+
+### La Generalitat resuelve 102 expedientes y elimina la espera del grado máximo de dependencia de ELA
+
+La Generalitat Valenciana ha resuelto un total de 102 expedientes del grado máximo de dependencia de esclerosis lateral amiotrófica (ELA) hasta el pasado mes de julio. Todo ello, unido a la inversión de 3,2 millones de euros efectuada por el Gobierno valenciano que preside Juanfran Pérez Llorca, evita que en la Comunid.
+
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [La Generalitat resuelve 102 expedientes y elimina la espera del grado máximo de dependencia de ELA](https://okdiario.com/comunidad-valenciana/generalitat-resuelve-102-expedientes-elimina-espera-del-grado-maximo-dependencia-ela-19119219?utm_source=lootura.com) — 2026-08-03T17:38:21.000Z

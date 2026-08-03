@@ -40,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz](https://elpais.com/gente/2026-08-03/por-que-jon-bernthal-es-el-perfecto-tipo-duro-de-hollywood-una-formacion-rusa-dos-hermanos-demasiado-modelicos-y-15-roturas-de-nariz.html?utm_source=lootura.com) — 2026-08-03T03:30:00.000Z
+No public source links.

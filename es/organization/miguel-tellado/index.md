@@ -3,20 +3,20 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
 
-### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
-
-Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
-
-Date: 2026-08-03
-
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
 El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
+
+Date: 2026-08-03
+
+### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
+
+Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
 
 Date: 2026-08-03
 
@@ -58,5 +58,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería](https://www.abc.es/espana/pp-dificil-lograr-pacto-gobierno-reformar-urgencia-20260803142916-nt.html?utm_source=lootura.com) — 2026-08-03T13:45:50.000Z
 - [El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”](https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com) — 2026-08-03T11:55:27.000Z

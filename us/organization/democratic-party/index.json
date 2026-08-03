@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T14:33:52.036Z",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
   "aliases": [
     "Democrats"
   ],
@@ -26,6 +26,11 @@
     {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party",
+      "summary": "David Hogg, a survivor of the Parkland High School shooting who co-founded the progressive youth group Leaders We Deserve, is calling for radical change in the \"geriatric\" Democratic Party. (Image credit: Kimberly White).",
       "date": "2026-08-03"
     },
     {
@@ -57,14 +62,15 @@
       "title": "Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup",
       "summary": "Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney General, and who Michigan Democrats will choose Tuesday to campaign for the U.S. Senate.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
-      "summary": "Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:45:14.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
     {
       "title": "Activist David Hogg talks about the future of the Democratic Party",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party?utm_source=lootura.com",
@@ -80,9 +86,9 @@
     {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:17:23.000Z",
+      "publishedAt": "2026-08-03T15:16:24.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

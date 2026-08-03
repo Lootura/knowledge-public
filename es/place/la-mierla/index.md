@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Controlado el incendio de La Mierla, que ha afectado a 32.000 hectáreas](https://theobjective.com/sociedad/2026-08-03/controlado-incendio-mierla/?utm_source=lootura.com) — 2026-08-03T10:31:36.000Z
+No public source links.

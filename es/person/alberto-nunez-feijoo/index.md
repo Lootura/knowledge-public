@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21
+
+El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.
+
+Date: 2026-08-03
 
 ### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
 
@@ -62,12 +68,6 @@ El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado
 
 Date: 2026-08-01
 
-### Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo
-
-El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21](https://elpais.com/economia/2026-08-03/muere-pablo-vazquez-asesor-de-feijoo-y-presidente-del-think-tank-del-pp-reformismo-21.html?utm_source=lootura.com) — 2026-08-03T15:13:28.000Z

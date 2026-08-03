@@ -3,20 +3,20 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
 
-### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
-
-Date: 2026-08-03
-
 ### Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»
 
 Junts per Catalunya se ha incorporado oficialmente al Partido Demócrata Europeo (PDE) con el objetivo de reforzar su « proyección internacional y su capacidad de incidencia en los debates que marcarán el futuro de la Unión Europea ». Así lo han anunciado este lunes en un comunicado, en el que el partido independentista.
+
+Date: 2026-08-03
+
+### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
 
 Date: 2026-08-03
 
@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
 - [Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»](https://theobjective.com/espana/politica/2026-08-03/junts-partido-democrata-europeo-proyeccion-internacional/?utm_source=lootura.com) — 2026-08-03T13:38:14.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
+
+El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
+
+Date: 2026-08-03
 
 ### 17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España
 
@@ -62,12 +68,6 @@ El número de cadáveres recuperados en la costa de Ceuta tras la entrada masiva
 
 Date: 2026-08-01
 
-### España, en estado de sitio
-
-Más de 50.000 personas entraron en Ceuta el jueves. No por la valla, en su mayoría, sino a nado, bordeando el espigón del Tarajal en oleadas sucesivas que desbordaron a una Guardia Civil que llevaba meses advirtiendo de que el dispositivo era insuficiente . El Ejército terminó desplegado. La Legión, activada. El presid.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino](https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com) — 2026-08-03T15:58:39.000Z

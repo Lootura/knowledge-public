@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z
+No public source links.

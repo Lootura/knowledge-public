@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN](https://www.larazon.es/tecnologia-consumo/china-acelera-desarrollo-su-caza-sexta-generacion-rediseno-pone-jaque-otan_202608036a704c3e71b42a0b5dd6daa6.html?utm_source=lootura.com) — 2026-08-03T14:15:00.000Z
+No public source links.

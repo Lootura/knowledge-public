@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -19,6 +19,11 @@
     {
       "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
       "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas",
+      "summary": "El expresidente José Luis Rodríguez Zapatero ha pedido al juez que ponga \"límites\" a la Policía a la hora de recabar información de varias cuentas bancarias, al advertir de que acceder al \"universo\" de todas sus operaciones económicas puede derivar en una investigación prospectiva con vulneración de derechos . Por ello.",
       "date": "2026-08-03"
     },
     {
@@ -60,14 +65,15 @@
       "title": "Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
-      "summary": "José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas",
+      "url": "https://www.20minutos.es/nacional/zapatero-pide-juez-que-ponga-limites-udef-hora-investigar-sus-cuentas_7022172_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:58:33.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
       "url": "https://theobjective.com/espana/politica/2026-08-03/junta-andalucia-montero-zapatero/?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

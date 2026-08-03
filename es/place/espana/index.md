@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -20,63 +20,63 @@ Compañías como Lockheed Martin y RTX apuestan por socios como Indra, Oesia y S
 
 Date: 2026-08-03
 
-### La zona gris de Marruecos, una estrategia de presiones para doblegar a España
-
-Rabat trata de imponer sus intereses con acciones híbridas que mezclan las campañas de desinformación, el espionaje o la coerción económica y migratoria. Entre sus principales objetivos están las reclamaciones territoriales sobre el Sáhara o Ceuta y Melilla.
-
-Date: 2026-08-03
-
 ### Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni
 
 El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
+### El mapa definitivo del eclipse del 12 de agosto: consulta aquí la duración y la previsión en cada municipio y capital de provincia de España
 
-La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
-
-Date: 2026-08-03
-
-### Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta
-
-La presidenta de la Comisión Europea, Ursula von der Leyen, ha elogiado este lunes la gestión «eficiente y eficaz» de la última crisis migratoria en Ceuta.
+El eclipse solar del 12 de agosto de 2026 podrá consultarse capital por capital mediante un mapa interactivo que reúne horarios, duración de la totalidad y porcentaje de oscurecimiento. La herramienta permite anticipar cómo evolucionará el fenómeno en cada punto de España, aunque existe un detalle decisivo que puede co.
 
 Date: 2026-08-03
 
-### El mapa de los tres grandes eclipses solares de España en los próximos tres años: así se verán en tu municipio
+### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
 
-España está a las puertas de una secuencia astronómica histórica . Entre 2026 y 2028, el país será escenario de tres eclipses solares excepcionales (dos totales y uno anular) que convertirán a la península en uno de los mejores lugares del mundo para los amantes de la astronomía. Ahora, 20minutos , a partir de datos pr.
-
-Date: 2026-08-03
-
-### Francia expresa su solidaridad con España por la crisis de Ceuta y respalda la cooperación con Marruecos
-
-Francia , que se ha desmarcado de las críticas de varios países europeos al Gobierno de Pedro Sánchez por la crisis del aluvión de migrantes que entraron en Ceuta la semana pasada desde Marruecos, ha querido marcar su solidaridad con España y apoyar una salida que pase por la cooperación con Rabat. Fuentes diplomáticas.
+Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.
 
 Date: 2026-08-03
 
-### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
+### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
 
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
+La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»
+### Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios
 
-La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.
+Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.
+
+Date: 2026-08-03
+
+### Las ventas de coches crecen y los electrificados se consolidan en España
+
+El mercado español del automóvil parece dejar atrás la incertidumbre de los últimos años y empieza a mostrar síntomas de una recuperación con atisbos de poder alcanzar los niveles previos a la pandemia. El pasado mes de julio volvió a cerrar por encima de las 100.000 matriculaciones, una barrera que hace no tanto parec.
+
+Date: 2026-08-03
+
+### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
+
+El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
+
+Date: 2026-08-03
+
+### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
+
+La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
 
 Date: 2026-08-03
 
 ## Fuentes
 
-- [El mapa de los tres grandes eclipses solares de España en los próximos tres años: así se verán en tu municipio](https://www.20minutos.es/ciencia/mapa-eclipses-solares-espana-trio-iberico-consulta-como-veran-2026-2027-2028-peninsula_7007837_0.html?utm_source=lootura.com) — 2026-08-03T12:03:17.000Z
-- [Francia expresa su solidaridad con España por la crisis de Ceuta y respalda la cooperación con Marruecos](https://www.20minutos.es/internacional/francia-expresa-su-solidaridad-con-espana-por-crisis-ceuta-respalda-cooperacion-con-marruecos_7022087_0.html?utm_source=lootura.com) — 2026-08-03T13:13:51.000Z
-- [Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"](https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html?utm_source=lootura.com) — 2026-08-03T12:48:31.000Z
-- [Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»](https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html?utm_source=lootura.com) — 2026-08-03T13:14:21.000Z
-- [El precio de la vivienda sube un 16,2% en el último año y marca un nuevo récord](https://www.abc.es/economia/precio-vivienda-sube-162-ultimo-ano-registra-20260803155531-nt_amp.html?utm_source=lootura.com) — 2026-08-03T13:55:31.000Z
+- [Borja Iglesias denuncia graves insultos: "Por lo que sea no vas a hablar de lo de Ceuta, tenían que matarte"](https://www.20minutos.es/deportes/futbol/borja-iglesias-denuncia-graves-insultos-amenazas-no-vas-hablar-ceuta-desgraciado-tenian-que-matarte_7022113_0.html?utm_source=lootura.com) — 2026-08-03T14:45:57.000Z
+- [Pollen Street crea un gigante inmobiliario en España al comprar Servihabitat y sumarlo a Hipoges y Finsolutia](https://cincodias.elpais.com/companias/2026-08-03/pollen-street-crea-un-gigante-inmobiliario-en-espana-al-comprar-servihabitat-y-sumarlo-a-hipoges-y-finsolutia.html?utm_source=lootura.com) — 2026-08-03T14:52:43.000Z
 - [El mapa definitivo del eclipse del 12 de agosto: consulta aquí la duración y la previsión en cada municipio y capital de provincia de España](https://www.elconfidencial.com/espana/2026-08-03/mapa-12-agosto-duracion-capital-provincia-1qrt_4400057/?utm_source=lootura.com) — 2026-08-03T12:21:00.000Z
 - [Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España](https://www.diariovasco.com/politica/ceuta-alcanza-centenar-muertos-mayor-tragedia-migratoria-20260803072343-nt_amp.html?utm_source=lootura.com) — 2026-08-03T05:23:43.000Z
 - [El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun](https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com) — 2026-08-03T09:52:25.000Z
 - [Los gigantes de Defensa estadounidenses buscan fábricas en España para afianzarse en Europa](https://www.elmundo.es/economia/empresas/2026/08/02/6a6b86a5e85ecea65e8b4590.html?utm_source=lootura.com) — 2026-08-03T06:20:19.000Z
-- [La zona gris de Marruecos, una estrategia de presiones para doblegar a España](https://elordenmundial.com/zona-gris-marruecos-presiones-espana/?utm_source=lootura.com) — 2026-08-03T10:53:31.000Z
+- [¿Dónde ver el eclipse total del 12 de agosto en España? Mapa con la hora y la visibilidad en cada punto del país](https://elpais.com/ciencia/2026-08-03/donde-ver-el-eclipse-total-del-12-de-agosto-en-espana-mapa-con-la-hora-y-la-visibilidad-en-cada-punto-del-pais.html?utm_source=lootura.com) — 2026-08-03T12:20:50.000Z
+- [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
+- [Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni](https://elpais.com/espana/2026-08-03/albares-exige-la-solidaridad-de-los-socios-europeos-con-ceuta-y-carga-contra-meloni.html?utm_source=lootura.com) — 2026-08-03T12:42:13.000Z
+- [Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios](https://www.expansion.com/economia/2026/08/03/6a70827ee5fdea152c8b457a.html?utm_source=lootura.com) — 2026-08-03T12:04:27.000Z

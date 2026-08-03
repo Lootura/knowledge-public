@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-03
 ### Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter
 
 A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
+
+Date: 2026-08-03
+
+### Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party
+
+David Hogg, a survivor of the Parkland High School shooting who co-founded the progressive youth group Leaders We Deserve, is calling for radical change in the "geriatric" Democratic Party. (Image credit: Kimberly White).
 
 Date: 2026-08-03
 
@@ -62,14 +68,9 @@ Two nominations to watch: President Trump's of Todd Blanche to be U.S. Attorney 
 
 Date: 2026-08-01
 
-### Dems are increasingly desperate to get their Senate candidates to drop out in these races
-
-Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.
-
-Date: 2026-08-01
-
 ## Sources
 
+- [Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party](https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats?utm_source=lootura.com) — 2026-08-03T08:45:14.000Z
 - [Activist David Hogg talks about the future of the Democratic Party](https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party?utm_source=lootura.com) — 2026-08-03T08:45:14.000Z
 - [We’re about to find out how powerful progressives really are](https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095?utm_source=lootura.com) — 2026-08-03T09:45:00.000Z
-- [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T11:17:23.000Z
+- [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T15:16:24.000Z

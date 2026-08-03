@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21",
+      "summary": "El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta",
       "summary": "Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».",
@@ -66,13 +71,15 @@
       "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE",
       "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Feijóo acusa al Gobierno de conocer la crisis migratoria y no hacer «nada» para impedirlo",
-      "summary": "El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno tenía información de que se podía producir la crisis migratoria que este jueves llevó a 50.000 personas —según datos del Ejecutivo— a cruzar ilegalmente a la ciudad autónoma desde Marruecos , y ha criticado que no hiciese «nada» para impedirlo.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21",
+      "url": "https://elpais.com/economia/2026-08-03/muere-pablo-vazquez-asesor-de-feijoo-y-presidente-del-think-tank-del-pp-reformismo-21.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:13:28.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

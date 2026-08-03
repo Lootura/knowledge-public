@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/taylor-fritz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/taylor-fritz/index.json",
   "description": "Sigue la actividad de Taylor Fritz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "Fritz",
     "Taylor",
     "Taylor Harry Fritz"
   ],
   "changes": [
+    {
+      "title": "Rafa Jódar – Fritz, en directo hoy: dónde ver y última hora del partido de la final del ATP 500 de Washington 2026 online gratis",
+      "summary": "Rafa Jódar busca el segundo título ATP de su corta carrera ante el tenista local Taylor Fritz . La nueva gran promesa, ya convertida en realidad, del tenis tratará de sorprender al estadounidense, que parte como favorito, en la final del ATP 500 de Washington , que se disputa este lunes al acabar la final femenina tras.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Taylor Fritz first entered the public knowledge record with source-backed evidence.",
@@ -36,6 +41,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rafa Jódar – Fritz, en directo hoy: dónde ver y última hora del partido de la final del ATP 500 de Washington 2026 online gratis",
+      "url": "https://okdiario.com/deportes/rafa-jodar-fritz-directo-hoy-donde-ver-ultima-hora-del-partido-final-del-atp-500-washington-2026-online-gratis-19113151?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T17:39:29.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

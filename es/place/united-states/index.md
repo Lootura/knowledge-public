@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen
 
 El Gobierno de Japón ha confirmado este lunes una intervención histórica junto a Estados Unidos para atajar la fuerte depreciación del yen, en mínimos de cuatro décadas frente al dólar estadounidense. Una operación que podría volver a repetirse si fuera necesario, según ha dejado claro el gobierno nipón. “Esta acción c.
+
+Date: 2026-08-03
+
+### Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»
+
+El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.
+
+Date: 2026-08-03
+
+### El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos
+
+Tras la crisis humanitaria vivida en Ceuta, se ha viralizado en las redes sociales que el Congreso de los Estados Unidos aprobó recientemente “transferir Ceuta y Melilla a Marruecos”, una medida que habría facilitado los hechos del pasado jueves. Uno de los mensajes más virales lo publicó el diputado Thomas Massie, del.
 
 Date: 2026-08-03
 
@@ -56,18 +68,8 @@ El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha 
 
 Date: 2026-08-02
 
-### ¿De verdad son los estadounidenses más ricos que los europeos?
-
-¿Es más rico, rico del todo, un estadounidense o un europeo? ¿Está Europa empobreciéndose tanto como hemos oído últimamente? Si torturas bien una estadística, acabará confesando lo que quieras. El debate sobre la brecha de productividad y riqueza que separa a Estados Unidos y Europa ha quedado salpicado en cierta medid.
-
-Date: 2026-08-02
-
-### Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»](https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com) — 2026-08-03T16:32:34.000Z
 - [Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen](https://cincodias.elpais.com/mercados-financieros/2026-08-03/japon-abre-la-puerta-a-seguir-interviniendo-en-el-mercado-junto-a-ee-uu-para-frenar-la-caida-del-yen.html?utm_source=lootura.com) — 2026-08-03T11:42:29.000Z
+- [El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos](https://www.lavanguardia.com/vida/verificacion/20260803/11607088/congreso-estados-unidos-aprobado-traspaso-ceuta-melilla-marruecos.html?utm_source=lootura.com) — 2026-08-03T16:06:37.000Z

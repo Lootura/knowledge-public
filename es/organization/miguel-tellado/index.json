@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería",
-      "summary": "Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.",
+      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
+      "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
       "date": "2026-08-03"
     },
     {
-      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
-      "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
+      "title": "El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería",
+      "summary": "Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.",
       "date": "2026-08-03"
     },
     {
@@ -54,17 +54,11 @@
   ],
   "sources": [
     {
-      "title": "El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería",
-      "url": "https://www.abc.es/espana/pp-dificil-lograr-pacto-gobierno-reformar-urgencia-20260803142916-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:45:50.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
       "url": "https://www.eldiario.es/politica/pp-evita-senalar-marruecos-gran-invasion-ceuta-limita-culpar-sanchez-responsable-principal_1_13425273.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T11:55:27.000Z",
       "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

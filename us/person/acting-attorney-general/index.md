@@ -3,10 +3,22 @@
 > Follow Acting Attorney General, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/person/acting-attorney-general
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion "anti-weaponization fund" to compensate his political allies.
+
+Date: 2026-08-03
+
+### Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund
+
+The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.
+
+Date: 2026-08-03
 
 ### Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination
 
@@ -17,12 +29,6 @@ Date: 2026-08-03
 ### Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran
 
 Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal. (Image credit: Win McNamee).
-
-Date: 2026-08-03
-
-### NATO spending pressure returned
-
-Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion "anti-weaponization fund" to compensate his political allies.
 
 Date: 2026-08-03
 
@@ -62,14 +68,7 @@ Todd Blanche will be on Capitol Hill Wednesday for his high-stakes confirmation 
 
 Date: 2026-07-15
 
-### Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops
-
-Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings. (Image credit: Ken Cedeno).
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination](https://www.today.com/video/trump-ag-pick-scraps-anti-weaponization-fund-ahead-of-vote-267663429895?utm_source=lootura.com) — 2026-08-03T11:23:25.000Z
-- [Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran](https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy?utm_source=lootura.com) — 2026-08-03T11:57:06.000Z
+- [Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund](https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com) — 2026-08-03T17:40:34.000Z
 - [Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid](https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid?utm_source=lootura.com) — 2026-08-03T13:42:30.000Z

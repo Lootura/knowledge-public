@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-03T17:48:48.280Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso
+
+Leo Messi ha sido salvado por la justicia. Después de meses siendo acusado junto a la AFA de haber estafado siete millones de euros , finalmente los tribunales han decidido desestimar la demanda que tenía por el simple hecho de no haber jugado un amistoso que se había comprometido a jugar tras un acuerdo con una promot.
+
+Date: 2026-08-03
 
 ### Casemiro se va con Messi: ficha por Inter Miami hasta 2027
 
@@ -62,12 +68,6 @@ Date: 2026-07-18
 
 Date: 2026-07-17
 
-### La fotografía que anticipó una final: "Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar"
-
-Para el ser humano es difícil creer en el destino, aceptar que todo está escrito de antemano y que nada depende de lo que uno haga, pero hay situaciones que escapan completamente a la lógica. Una de ellas es la foto que unió en 2007 a dos estrellas actuales del fútbol, cuando uno, Leo Messi , estaba empezando su carrer.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso](https://okdiario.com/deportes/jueza-eeuu-desestima-demanda-messi-estafar-siete-millones-euros-no-jugar-amistoso-19119580?utm_source=lootura.com) — 2026-08-03T17:30:03.000Z

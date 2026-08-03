@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-03T17:48:48.280Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
+      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
       "summary": "La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.",
@@ -57,29 +67,19 @@
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
       "date": "2026-08-02"
-    },
-    {
-      "title": "La eterna indecisión de Trump en Irán",
-      "summary": "“¿Esta noche nos despertaremos con las sirenas antiaéreas?”, pregunta un jerosolimitano a su amigo en una cafetería del centro de Jerusalén. “Yo ya he hecho planes. Si llega la guerra, que llegue; intento no preocuparme en exceso”, responde el otro, sin levantar la vista del café. La escena resume el estado de ánimo de.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
-      "summary": "El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
-      "url": "https://cincodias.elpais.com/economia/2026-08-03/la-actividad-industrial-de-la-zona-euro-logra-repunta-en-julio-pese-a-las-dudas-a-corto-plazo-por-el-entorno-internacional.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:11:20.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
+      "url": "https://www.abc.es/internacional/trump-advierte-iran-tras-retomar-negociaciones-acuerdo-20260803180328-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T16:32:34.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El Ibex acaricia récords con el petróleo desinflado",
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:48:54.000Z",
+      "publishedAt": "2026-08-03T15:40:47.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],

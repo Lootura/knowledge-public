@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### 'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record
+
+"Spider-Man: Brand New Day" broke the "Avengers: Endgame" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.
+
+Date: 2026-08-03
 
 ### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
 
@@ -62,12 +68,6 @@ After a delay ordered by President Trump and new tariffs against Canada, the bri
 
 Date: 2026-07-24
 
-### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
-
-The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- ['Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record](https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million?utm_source=lootura.com) — 2026-08-03T14:55:32.000Z

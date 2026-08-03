@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-03T17:49:07.612Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK
+
+Wildfires west of Athens jumped containment lines, a day after a midair collision between two helicopters killed two crew members.
+
+Date: 2026-08-03
+
+### Europe’s AI labeling and transparency rules are now in effect
+
+The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's lan.
+
+Date: 2026-08-03
 
 ### 2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages
 
@@ -56,18 +68,7 @@ Hungary's sole nuclear power plant will be shut down next week because of low wa
 
 Date: 2026-08-01
 
-### Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’
-
-A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.
-
-Date: 2026-08-01
-
-### Funding milestone detected
-
-Climate change, land-use change and socioeconomic pressures are turning wildfires from a primarily ecological process into a complex, systemic risk that cuts across ecosystems, infrastructure, public health, water resources, cultural heritage and rural livelihoods. Despite substantial investments in firefighting capaci.
-
-Date: 2026-07-31
-
 ## Sources
 
-No public source links.
+- [Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK](https://www.pbs.org/newshour/world/europes-hot-dry-summer-takes-its-toll-with-fires-in-france-and-greece-and-drought-in-the-uk?utm_source=lootura.com) — 2026-08-03T15:40:49.000Z
+- [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes?utm_source=lootura.com) — 2026-08-03T17:38:45.000Z

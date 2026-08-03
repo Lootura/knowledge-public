@@ -46,5 +46,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-03T00:56:29.000Z
-- [D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage](https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com) — 2026-08-03T00:55:09.000Z
+No public source links.

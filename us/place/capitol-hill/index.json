@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T09:56:32.156Z",
+  "updatedAt": "2026-08-03T17:49:07.612Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
+      "summary": "Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -58,13 +63,15 @@
       "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
       "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor",
-      "summary": "Fmr. Gov. Mark Sanford (R-S.C.) joins Meet the Press NOW to react to the sudden and unexpected death of Sen. Lindsey Graham (R-S.C.). Sanford discusses Senator Graham's legacy on Capitol Hill and his role as a liaison between President Trump and the Senate.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
+      "url": "https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T15:59:34.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

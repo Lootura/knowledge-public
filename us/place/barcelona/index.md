@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Life speaks one universal language to activate genes: It speaks many more to silence them](https://phys.org/news/2026-07-life-universal-language-genes-silence.html?utm_source=lootura.com) — 2026-08-03T09:00:01.000Z
+No public source links.

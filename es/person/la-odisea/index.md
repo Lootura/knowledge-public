@@ -46,5 +46,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz](https://elpais.com/gente/2026-08-03/por-que-jon-bernthal-es-el-perfecto-tipo-duro-de-hollywood-una-formacion-rusa-dos-hermanos-demasiado-modelicos-y-15-roturas-de-nariz.html?utm_source=lootura.com) — 2026-08-03T03:30:00.000Z
-- [Movistar Plus apuesta por el mejor cine de estreno para comenzar agosto: las 5 películas que tienes que ver sí o sí esta semana](https://okdiario.com/cool/television/movistar-plus-apuesta-mejor-cine-estreno-comenzar-agosto-5-peliculas-que-tienes-que-ver-si-o-si-esta-semana-19117479?utm_source=lootura.com) — 2026-08-03T14:13:16.000Z
+No public source links.
