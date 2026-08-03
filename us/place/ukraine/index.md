@@ -70,4 +70,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- ['Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion](https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html?utm_source=lootura.com) — 2026-08-03T05:00:01.000Z
+No public source links.

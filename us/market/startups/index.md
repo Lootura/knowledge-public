@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [What's behind the $4B cut in federal funding for California's high-speed rail?](https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/?utm_source=lootura.com) — 2026-08-02T11:00:12.000Z
+- [Senate leaders reach funding deal to avoid shutdown during campaign season](https://www.pbs.org/newshour/politics/senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season?utm_source=lootura.com) — 2026-08-02T22:49:31.000Z

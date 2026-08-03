@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
+
+Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».
+
+Date: 2026-08-03
+
+### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
+
+Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
+
+Date: 2026-08-03
 
 ### Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península
 
@@ -56,18 +68,7 @@ El presidente del PP , Alberto Núñez Feijóo , da por hecho que el Gobierno te
 
 Date: 2026-08-01
 
-### Feijóo tacha la crisis de Ceuta de "ocupación premeditada" frente a un Marlaska que presume de haber alcanzado la "normalidad"
-
-La visita de Alberto Núñez Feijóo a la ciudad autónoma, acompañado por su presidente, Juan Jesús Vivas , ha servido para enmendar la totalidad del relato oficial construido por La Moncloa. Mientras el ministro del Interior, Fernando Grande-Marlaska , aseguraba que la situación había dado un vuelco en 48 horas y presumí.
-
-Date: 2026-08-01
-
-### Feijóo afirma que lo ocurrido es una "ocupación premeditada" y culpa al Gobierno: "Lo sabían"
-
-El líder de la oposición, Alberto Núñez Feijóo , ha visitado este sábado Ceuta , apenas unas horas después del momento álgido de la crisis migratoria protagonizada por decenas de miles de inmigrantes, y ha acusado al Gobierno de inacción ante un suceso que califica de premeditado y que evidencia las carencias de la pol.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta](https://www.abc.es/espana/feijoo-sanchez-paria-europa-pone-duda-cni-20260803125306-nt.html?utm_source=lootura.com) — 2026-08-03T10:53:38.000Z
+- [Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta](https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html?utm_source=lootura.com) — 2026-08-03T09:15:47.000Z

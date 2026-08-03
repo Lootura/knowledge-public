@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T09:54:10.257Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "summary": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence. (Image credit: Sarah Silbiger/Getty Images).",
+      "date": "2026-08-03"
+    },
     {
       "title": "Opinion: Remembering Margo Howard",
       "summary": "Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86. (Image credit: Michael L Abramson/Getty Images).",
@@ -59,13 +64,15 @@
       "title": "How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy",
       "summary": "—Photo-Illustration by TIME (Cavan Images/Getty Images; Yuliya Taba—Getty Images) Content warning: This story contains descriptions of child sexual abuse, child sexual exploitation, and trafficking that some readers may find distressing. Teresita was never a girly girl. Growing up in the choked urban sprawl north of Ma.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "We’re Taking Hobbies Too Far",
-      "summary": "—Mitch Diamond—Getty Images A few weeks ago, a clip from Dominican Sisters Open Mic , a podcast featuring Catholic nuns, went viral. “Do you have a hobby, sister?” one nun asks the other. “I do not have a hobby,” the nun replied, noting that a “hobby, to me, feels like just something else to do.” That must be freeing.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

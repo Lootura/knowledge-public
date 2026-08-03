@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Euskadi reforzará la prevención de la soledad no deseada a través de betiON
+
+El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.
+
+Date: 2026-08-03
 
 ### La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra
 
@@ -62,13 +68,7 @@ La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 f
 
 Date: 2026-07-24
 
-### Último día de calor extremo en Euskadi: el fin de semana traerá un desplome de temperaturas y lluvias intensas
-
-Euskadi afrontó este viernes el último episodio de calor sofocante , con temperaturas que alcanzaron los 40 ºC en la mitad sur y valores cercanos a los 30 ºC en la costa. El Gobierno Vasco mantuvo el aviso amarillo por temperaturas extremas en la zona de transición y el eje del Ebro, mientras que Euskalmet fijó una jor.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Euskadi reforzará la prevención de la soledad no deseada a través de betiON](https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com) — 2026-08-03T10:56:47.000Z
 - [«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»](https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:49:49.000Z
-- [La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/03/6a701dd4468aeb0f4c8b4596.html?utm_source=lootura.com) — 2026-08-03T05:14:55.000Z

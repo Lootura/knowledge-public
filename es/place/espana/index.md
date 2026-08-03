@@ -3,16 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### La Aemet avisa del tiempo que llega a España tras la ola de calor: fuertes tormentas y granizo en estas zonas
-
-El mes de agosto trae las primeras tormentas de verano de la temporada y un descenso térmico generalizado.
-
-Date: 2026-08-03
 
 ### Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España
 
@@ -26,39 +20,9 @@ Compañías como Lockheed Martin y RTX apuestan por socios como Indra, Oesia y S
 
 Date: 2026-08-03
 
-### La cámara acorazada del Banco de España en Madrid: oro y secretos
-
-No es una leyenda. Tampoco es un bulo. Es una realidad en pleno centro de Madrid . Allí está, donde muchos celebran las victorias de su equipo, a dos pasos de la diosa Cibeles. La cámara acorazada del Banco de España se encuentra a unas siete plantas por debajo del edificio emblemático de la riqueza de nuestro país . E.
-
-Date: 2026-08-03
-
-### Italia teme que España responda con reciprocidad a la suspensión de Schengen
-
-La crisis de Ceuta se ha convertido para Giorgia Meloni en una oportunidad para intentar imponer su agenda migratoria en Europa. En la derecha italiana se celebra el “éxito de la iniciativa diplomática” por haber situado el refuerzo de las fronteras en el centro del debate europeo. Pero, al mismo tiempo, en Palazzo Chi.
-
-Date: 2026-08-03
-
-### La cueva subacuática más larga del mundo está en Burgos: mide 13 km y la llaman ‘el Everest del espeleobuceo’
-
-En el pequeño pueblo burgalés de Covanera se esconde uno de los mayores tesoros naturales de España. Bajo las aguas cristalinas del río Rudrón se encuentra el Pozo Azul , una surgencia kárstica que alberga la cueva subacuática explorada más larga del mundo. Este enclave se ha convertido en un referente internacional pa.
-
-Date: 2026-08-03
-
-### Ya es obligatoria la paridad de género en los consejos de administración de las cotizadas españolas
-
-Desde principios del verano, las 35 sociedades cotizadas de mayor capitalización bursátil de España –las que integran el IBEX 35– están obligadas a que el sexo menos representado, el femenino, ocupe, como mínimo, el 40 % de los puestos de sus consejos de administración. Ya no es una recomendación de buen gobierno ni un.
-
-Date: 2026-08-03
-
 ### Mil personas se concentran ante la Embajada de Marruecos en Madrid por la crisis en Ceuta
 
 Unas 1.200 de personas, según datos de la Delegación de Gobierno , se han concentrado este domingo ante la Embajada de Marruecos en Madrid para protestar contra la entrada masiva de migrantes en Ceuta ante la «pasividad de los Gobierno de Marruecos y de España». Bajo el lema «Defendamos España», la manifestación ha sid.
-
-Date: 2026-08-03
-
-### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
-
-Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.
 
 Date: 2026-08-03
 
@@ -68,15 +32,51 @@ Mediaset España ha nombrado a Raúl López Palomar nuevo director de Antena. El
 
 Date: 2026-08-03
 
+### La NASA capta desde el espacio el impacto de los incendios en España: así se ve la huella del fuego
+
+Los incendios forestales registrados este verano en España han sido de los más devastadores de las últimas décadas . A lo largo de julio, varios incendios declarados en las provincias de Ávila, Almería, Castellón, Toledo y Madrid obligaron a evacuar a miles de personas y movilizaron a numerosos equipos de emergencia, q.
+
+Date: 2026-08-03
+
+### Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock
+
+El 3 de julio de 1965, los Beatles actuaban en la plaza de toros de La Monumental de Barcelona, un día después de su gran concierto en Madrid. Parecía que el rock por fin entraba por la puerta grande en España. Sin embargo, aquello fue como una anécdota sin gran repercusión posterior. Las giras de los grandes grupos de.
+
+Date: 2026-08-03
+
+### Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»
+
+Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española en Ceuta entre el pasado jueves y viernes, desatando la que muchos definen como una de las mayores crisis migratorias en nuestro país. Otros, por su parte, señalan que esta avalancha de inmigrantes es una estrategia de presión de Marruecos h.
+
+Date: 2026-08-03
+
+### La llegada de turistas a España sigue marcando récords pero frena el crecimiento en junio
+
+Los récords de turismo en España conviven con algunas señales de posible agotamiento en el ritmo de crecimiento de la llegada de turistas, que desde la salida de la pandemia había marcado un ritmo vigoroso. El país recibió en junio 9,74 millones de turistas internacionales, la cifra más alta registrada nunca para ese m.
+
+Date: 2026-08-03
+
+### 17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España
+
+Nadie esperaba que el centro de operaciones de una de las organizaciones cibernéticas más peligrosas del mundo se encontrase en la habitación de un adolescente. Una operación conjunta y milimétrica entre la Ertzaintza, los Mossos d'Esquadra y la Guardia Civil ha culminado con la detención en Gipuzkoa de un menor de ape.
+
+Date: 2026-08-03
+
+### La caza del 'rayo verde' que amenaza con colapsar Baleares durante el eclipse solar del 12 de agosto
+
+Disfrutar de unas vacaciones en agosto en las Islas Baleares ya es, de por sí, un ejercicio diario de supervivencia . Si a esa ecuación de playas a rebosar y carreteras saturadas se le suma el primer eclipse solar total que cruza España desde 1912 , el resultado roza el estado de sitio. Tanto como para que el Govern de.
+
+Date: 2026-08-03
+
 ## Fuentes
 
-- [La Aemet avisa del tiempo que llega a España tras la ola de calor: fuertes tormentas y granizo en estas zonas](https://www.abc.es/sociedad/aemet-avisa-tiempo-llega-espana-tras-ola-20260803084406-nt_amp.html?utm_source=lootura.com) — 2026-08-03T06:44:06.000Z
-- [Detenido un menor en Gipuzkoa considerado el líder de la red extremista '764' de España](https://www.diariovasco.com/gipuzkoa/detenido-gipuzkoa-menor-llider-espana-red-764-20260802102143-nt_amp.html?utm_source=lootura.com) — 2026-08-02T08:22:45.000Z
+- [La NASA capta desde el espacio el impacto de los incendios en España: así se ve la huella del fuego](https://www.20minutos.es/tecnologia/actualidad/nasa-capta-desde-espacio-impacto-incendios-espana-asi-se-ve-huella-fuego_7021888_0.html?utm_source=lootura.com) — 2026-08-03T07:26:57.000Z
+- [Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock](https://www.abc.es/cultura/rolling-stones-anos-desastre-economico-abrio-espana-20260723112418-nt.html?utm_source=lootura.com) — 2026-08-03T10:32:12.000Z
+- [Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»](https://www.abc.es/recreo/carlos-herrera-cni-supo-momento-ceuta-iba-20260803110747-nt.html?utm_source=lootura.com) — 2026-08-03T10:43:50.000Z
+- [La llegada de turistas a España sigue marcando récords pero frena el crecimiento en junio](https://elpais.com/economia/2026-08-03/la-llegada-de-turistas-a-espana-sigue-marcando-records-pero-frena-el-crecimiento-en-junio.html?utm_source=lootura.com) — 2026-08-03T09:58:46.000Z
+- [17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España](https://www.elconfidencial.com/espana/2026-08-03/lider-red-764-en-espana-detencion-terror-digital_4399988/?utm_source=lootura.com) — 2026-08-03T09:07:00.000Z
+- [La caza del 'rayo verde' que amenaza con colapsar Baleares durante el eclipse solar del 12 de agosto](https://www.elconfidencial.com/espana/2026-08-03/eclipse-solar-12-de-agosto-baleares-rayo-verde_4399951/?utm_source=lootura.com) — 2026-08-03T08:13:00.000Z
 - [Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España](https://www.diariovasco.com/politica/ceuta-alcanza-centenar-muertos-mayor-tragedia-migratoria-20260803072343-nt_amp.html?utm_source=lootura.com) — 2026-08-03T05:23:43.000Z
 - [Rusia no va a venir por los Pirineos, pero Marruecos sí viene por Ceuta](https://www.elmundo.es/espana/2026/08/03/6a6f8281e9cf4a070e8b456d.html?utm_source=lootura.com) — 2026-08-02T23:44:02.000Z
 - [España iguala el récord de la década en mortalidad por calor: más de 3.000 fallecidos en tres meses](https://www.elmundo.es/salud/2026/08/03/6a6cb1fb21efa0fa538b459c.html?utm_source=lootura.com) — 2026-08-02T23:32:53.000Z
 - [Los gigantes de Defensa estadounidenses buscan fábricas en España para afianzarse en Europa](https://www.elmundo.es/economia/empresas/2026/08/02/6a6b86a5e85ecea65e8b4590.html?utm_source=lootura.com) — 2026-08-03T06:20:19.000Z
-- [La cámara acorazada del Banco de España en Madrid: oro y secretos](https://www.larazon.es/madrid/camara-acorazada-banco-espana-madrid-oro-secretos_202608036a70365e71b42a0b5dd6b63f.html?utm_source=lootura.com) — 2026-08-03T06:34:06.000Z
-- [Italia teme que España responda con reciprocidad a la suspensión de Schengen](https://www.lavanguardia.com/politica/20260803/11606319/meloni-aprovecha-crisis-ceuta-impulsar-agenda-migratoria.html?utm_source=lootura.com) — 2026-08-03T04:00:00.000Z
-- [La cueva subacuática más larga del mundo está en Burgos: mide 13 km y la llaman ‘el Everest del espeleobuceo’](https://okdiario.com/viajes/cueva-subacuatica-mas-larga-del-mundo-esta-burgos-mide-13-km-llaman-everest-del-espeleobuceo-18901763?utm_source=lootura.com) — 2026-08-03T06:30:09.000Z
-- [Ya es obligatoria la paridad de género en los consejos de administración de las cotizadas españolas](https://theconversation.com/ya-es-obligatoria-la-paridad-de-genero-en-los-consejos-de-administracion-de-las-cotizadas-espanolas-286693?utm_source=lootura.com) — 2026-08-03T05:49:16.000Z

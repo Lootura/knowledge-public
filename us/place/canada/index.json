@@ -64,19 +64,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Flights canceled as WestJet flight attendants strike over pay dispute",
-      "url": "https://www.cbsnews.com/news/canada-westjet-flight-attendants-strike/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T12:27:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T20:32:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

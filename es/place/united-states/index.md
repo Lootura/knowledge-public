@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Por qué EEUU interviene en favor del yen japonés
+
+El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado de divisas registró una histórica intervención conjunta de Japón y Estados Unidos. La acción...
+
+Date: 2026-08-03
 
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
@@ -62,12 +68,6 @@ Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidenta
 
 Date: 2026-08-01
 
-### Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»
-
-El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Por qué EEUU interviene en favor del yen japonés](https://amp.expansion.com/mercados/2026/08/03/6a705106468aebbb6c8b4593.html?utm_source=lootura.com) — 2026-08-03T08:40:26.000Z

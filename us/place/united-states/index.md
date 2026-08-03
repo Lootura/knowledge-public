@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -26,57 +26,57 @@ U.S. and Japanese officials confirmed that the Treasury Department had moved las
 
 Date: 2026-08-03
 
-### Oil drops over 5% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
-
-### Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake
-
-Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.
-
-Date: 2026-08-03
-
-### U.S., Japan confirm coordinated yen intervention, signal readiness for more
-
-Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.
-
-Date: 2026-08-03
-
 ### U.S. dollar weakens sharply against the Japanese yen after market interventions
 
 The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets. (Image credit: Eugene Hoshiko).
 
 Date: 2026-08-03
 
-### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+### Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts
 
 Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
 
 Date: 2026-08-03
 
-### Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'
+### Iran denies Trump claim that new talks will start Monday after he called off attacks
 
-Former Rep. Kay Granger, R-Texas, died on Sunday at the age of 83, with her ex-colleagues remembering her as a trailblazer who broke barriers for women. Granger was the first woman elected mayor of Fort Worth, Texas, as well as the first Republican woman from the Lone Star State elected to the U.S. House of Representat.
+The United States and Iran will hold new talks Monday afternoon, President Donald Trump said, after announcing he called off intense new strikes to allow for a deal on the Strait of Hormuz and Tehran’s nuclear program.
 
 Date: 2026-08-03
 
-### What Cyclospora does inside the gut and how it gets there
+### U.S. steps in to help shore up Japanese yen
 
-Cyclospora , the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce. (Image credit: wildpixel).
+The U.S. dollar weakened against the Japanese yen Monday after the leaders of both countries confirmed they intervened in the markets to help shore up Japan's currency.
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz
+
+President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.
+
+Date: 2026-08-03
+
+### Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War
+
+The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.
+
+Date: 2026-08-03
+
+### Clinical Trials Aren’t the Only Way to Know if Flu Shots Work
+
+—Hector Roqueta Rivero—Getty Images Earlier this year, the U.S. Department of Health and Human Services (HHS) stopped recommending that all children get an annual influenza vaccine. Instead, it made the shot a matter of “shared clinical decision-making” —something for parents and a doctor to weigh case by case—citing,.
+
+Date: 2026-08-03
 
 ## Sources
 
 - [DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"](https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/?utm_source=lootura.com) — 2026-08-03T00:56:29.000Z
 - [D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage](https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/?utm_source=lootura.com) — 2026-08-03T00:55:09.000Z
-- [Rep. Turner says infrastructure should be "hardened" as U.S. probes water cyberattack](https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/?utm_source=lootura.com) — 2026-08-02T16:23:10.000Z
-- [Oil drops over 5% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T06:32:10.000Z
-- [Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake](https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html?utm_source=lootura.com) — 2026-08-03T04:36:53.000Z
-- [U.S., Japan confirm coordinated yen intervention, signal readiness for more](https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html?utm_source=lootura.com) — 2026-08-03T04:03:08.000Z
+- [Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-03T11:15:49.000Z
 - [Fragile ceasefire between U.S. and Iran](https://www.nbcnews.com/nightly-news/video/fragile-ceasefire-between-u-s-and-iran-267650117537?utm_source=lootura.com) — 2026-08-02T22:51:08.000Z
-- [What Cyclospora does inside the gut and how it gets there](https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak?utm_source=lootura.com) — 2026-08-02T09:00:00.000Z
+- [Iran denies Trump claim that new talks will start Monday after he called off attacks](https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535?utm_source=lootura.com) — 2026-08-03T07:05:48.000Z
 - [U.S. dollar weakens sharply against the Japanese yen after market interventions](https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions?utm_source=lootura.com) — 2026-08-03T05:41:31.000Z
+- [U.S. steps in to help shore up Japanese yen](https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen?utm_source=lootura.com) — 2026-08-03T08:44:24.000Z
 - [Fact-checking Trump's claims about how the Iran war is going](https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com) — 2026-08-02T17:12:26.000Z
+- [Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes](https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes?utm_source=lootura.com) — 2026-08-02T20:58:10.000Z
+- [Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz](https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com) — 2026-08-03T10:41:47.000Z

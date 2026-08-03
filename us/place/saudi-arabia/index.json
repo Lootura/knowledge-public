@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T02:34:45.722Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
       "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
@@ -58,13 +63,15 @@
       "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
       "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T07:03:22.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

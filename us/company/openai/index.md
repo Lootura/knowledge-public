@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes

@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026
+
+El festival celebrado en la ciudad de Málaga del 1 a 4 de octubre ha revelado con siete actores de 'Los Serrano' participarán durante la convención.
+
+Date: 2026-08-03
 
 ### Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana
 
@@ -62,13 +68,6 @@ Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones a
 
 Date: 2026-07-21
 
-### Tres mujeres asesinadas en apenas unas horas en sus domicilios de Toledo, Alicante y Málaga
-
-Los maridos de las dos primeras han sido detenidos Leer.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana](https://www.elconfidencial.com/espana/andalucia/2026-08-03/enganches-ilegales-palmilla-malaga-endesa_4397373/?utm_source=lootura.com) — 2026-08-03T03:00:00.000Z
-- [Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados](https://www.larazon.es/andalucia/malaga-afronta-jornada-calor-extremo-otra-noche-tropical-temperaturas-superiores-30-grados_202608036a702a0171b42a0b5dd6a219.html?utm_source=lootura.com) — 2026-08-03T06:10:14.000Z
+- [Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026](https://www.larazon.es/television/series/actores-serrano-reencontraran-octubre-san-diego-comiccon-malaga-2026_202608036a707610a046ad6ebc98f800.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T11:10:13.000Z

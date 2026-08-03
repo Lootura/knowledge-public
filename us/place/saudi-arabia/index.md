@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T02:34:45.722Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
+
+President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.
+
+Date: 2026-08-03
 
 ### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
 
@@ -62,12 +68,6 @@ The company, which filed for bankruptcy protection in 2017, stands to benefit fr
 
 Date: 2026-07-23
 
-### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
-
-During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html?utm_source=lootura.com) — 2026-08-03T07:03:22.000Z

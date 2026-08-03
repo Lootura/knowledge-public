@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
+      "summary": "El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, \"a una actividad inusual en las redes sociales,.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta",
+      "summary": "«La respuesta debe ser inmediata, coordinada y respetuosa con los derechos humanos», dice la consejera Melgosa, que también reclama «planificación, financiación y las responsabilidades claras».",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
+      "summary": "El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.",
+      "date": "2026-08-03"
+    },
     {
       "title": "El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales",
       "summary": "En la explanada de Loma Margarita de Ceuta, en las inmediaciones de la que será la base única militar en la ciudad autónoma, una veintena de legionarios rodeaban ayer a mediodía a medio centenar de inmigrantes, que previamente habían sido pastoreados, en grupos, hasta allí. Sentados, a la sombra, con el mismo bañador c.",
@@ -45,36 +60,27 @@
       "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
       "summary": "El Gobierno de Marruecos sigue guardando silencio sobre la irrupción de decenas de miles de jóvenes migrantes irregulares en Ceuta tres días después del estallido del mayor conflicto bilateral desde la crisis del islote Perejil en 2002. Ni la jefatura del Gobierno de Rabat, ni el Ministerio de Exteriores, ni el Departa.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El Gobierno apunta ahora a que no tuvo \"ningún tipo de información\" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta",
-      "summary": "El Ejecutivo no supo del aluvión de personas que el jueves entró a Ceuta irregularmente hasta que lo vio cruzar la frontera. Así lo ha asegurado este domingo el delegado del...",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal",
-      "summary": "El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "El Gobierno de Merz pone a los alemanes a trabajar",
-      "summary": "Pretende elevar las jornadas laborales, endurecer las bajas y retrasar la jubilación para recuperar competitividad.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
-      "url": "https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T19:12:49.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
+      "url": "https://www.20minutos.es/ceuta/gobierno-insiste-colaboracion-marruecos-desde-primer-minuto-achaca-crisis-ceuta-las-redes-sociales_7021921_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:30:52.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales",
-      "url": "https://www.lavanguardia.com/politica/20260803/11606346/ceuta-acelera-retorno-migrantes-sospechas-expulsiones-ilegales.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta",
+      "url": "https://www.elcorreo.com/politica/gobierno-vasco-exige-informado-escuchado-ante-reparto-20260803131055-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:10:56.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
+      "url": "https://elpais.com/espana/2026-08-03/el-gobierno-de-ceuta-acondiciona-dos-grandes-instalaciones-para-reubicar-a-los-862-menores-migrantes-que-atiende-tras-la-crisis.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:20:15.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

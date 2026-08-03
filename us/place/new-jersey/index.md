@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-01T20:48:47.958Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### Nurse-led initiative reduces unplanned extubations
+
+A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).
+
+Date: 2026-08-03
 
 ### Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says
 
@@ -58,4 +64,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Nurse-led initiative reduces unplanned extubations](https://medicalxpress.com/news/2026-08-nurse-unplanned-extubations.html?utm_source=lootura.com) — 2026-08-03T11:20:01.000Z

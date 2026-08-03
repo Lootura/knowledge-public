@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno insiste en la colaboración de Marruecos "desde el primer minuto" y achaca la crisis en Ceuta a las redes sociales
+
+El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, "a una actividad inusual en las redes sociales,.
+
+Date: 2026-08-03
+
+### El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta
+
+«La respuesta debe ser inmediata, coordinada y respetuosa con los derechos humanos», dice la consejera Melgosa, que también reclama «planificación, financiación y las responsabilidades claras».
+
+Date: 2026-08-03
+
+### Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones
+
+El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.
+
+Date: 2026-08-03
 
 ### El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales
 
@@ -50,25 +68,8 @@ El Gobierno de Marruecos sigue guardando silencio sobre la irrupción de decenas
 
 Date: 2026-08-02
 
-### El Gobierno apunta ahora a que no tuvo "ningún tipo de información" de sus servicios de seguridad sobre la avalancha de 60.000 personas a Ceuta
-
-El Ejecutivo no supo del aluvión de personas que el jueves entró a Ceuta irregularmente hasta que lo vio cruzar la frontera. Así lo ha asegurado este domingo el delegado del...
-
-Date: 2026-08-02
-
-### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
-
-El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.
-
-Date: 2026-08-02
-
-### El Gobierno de Merz pone a los alemanes a trabajar
-
-Pretende elevar las jornadas laborales, endurecer las bajas y retrasar la jubilación para recuperar competitividad.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta](https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html?utm_source=lootura.com) — 2026-08-02T19:12:49.000Z
-- [El Gobierno acelera el retorno de los migrantes con sospechas de expulsiones ilegales](https://www.lavanguardia.com/politica/20260803/11606346/ceuta-acelera-retorno-migrantes-sospechas-expulsiones-ilegales.html?utm_source=lootura.com) — 2026-08-03T04:00:00.000Z
+- [El Gobierno insiste en la colaboración de Marruecos "desde el primer minuto" y achaca la crisis en Ceuta a las redes sociales](https://www.20minutos.es/ceuta/gobierno-insiste-colaboracion-marruecos-desde-primer-minuto-achaca-crisis-ceuta-las-redes-sociales_7021921_0.html?utm_source=lootura.com) — 2026-08-03T08:30:52.000Z
+- [El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta](https://www.elcorreo.com/politica/gobierno-vasco-exige-informado-escuchado-ante-reparto-20260803131055-nt_amp.html?utm_source=lootura.com) — 2026-08-03T11:10:56.000Z
+- [Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones](https://elpais.com/espana/2026-08-03/el-gobierno-de-ceuta-acondiciona-dos-grandes-instalaciones-para-reubicar-a-los-862-menores-migrantes-que-atiende-tras-la-crisis.html?utm_source=lootura.com) — 2026-08-03T10:20:15.000Z

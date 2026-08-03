@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Controlado el incendio de La Mierla, que ha afectado a 32.000 hectáreas](https://theobjective.com/sociedad/2026-08-03/controlado-incendio-mierla/?utm_source=lootura.com) — 2026-08-03T10:31:36.000Z

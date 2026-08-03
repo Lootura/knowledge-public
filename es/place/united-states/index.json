@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Por qué EEUU interviene en favor del yen japonés",
+      "summary": "El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado de divisas registró una histórica intervención conjunta de Japón y Estados Unidos. La acción...",
+      "date": "2026-08-03"
+    },
     {
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
@@ -86,13 +91,15 @@
       "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
       "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump celebra el «sabio liderazgo» de Mohamed VI y su «compromiso por la paz»",
-      "summary": "El presidente de Estados Unidos , Donald Trump , ha celebrado «el sabio liderazgo» del rey de Marruecos , Mohamed VI . Lo hace solo dos días después de la invasión a Ceuta por parte de una marea humana a través de la frontera de su país y, también, en el aniversario de su ascensión al trono. Con este mensaje, el inquil.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Por qué EEUU interviene en favor del yen japonés",
+      "url": "https://amp.expansion.com/mercados/2026/08/03/6a705106468aebbb6c8b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:40:26.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

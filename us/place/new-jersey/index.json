@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T20:48:47.958Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Nurse-led initiative reduces unplanned extubations",
+      "summary": "A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).",
+      "date": "2026-08-03"
+    },
     {
       "title": "Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says",
       "summary": "The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.",
@@ -64,6 +69,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nurse-led initiative reduces unplanned extubations",
+      "url": "https://medicalxpress.com/news/2026-08-nurse-unplanned-extubations.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:20:01.000Z",
+      "sourceId": "lootura-us-medical-xpress"
+    }
+  ],
+  "evidenceCount": 1
 }

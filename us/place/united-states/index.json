@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -50,39 +50,39 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-      "summary": "Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
-      "summary": "Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
       "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets. (Image credit: Eugene Hoshiko).",
       "date": "2026-08-03"
     },
     {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
       "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
       "date": "2026-08-03"
     },
     {
-      "title": "Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'",
-      "summary": "Former Rep. Kay Granger, R-Texas, died on Sunday at the age of 83, with her ex-colleagues remembering her as a trailblazer who broke barriers for women. Granger was the first woman elected mayor of Fort Worth, Texas, as well as the first Republican woman from the Lone Star State elected to the U.S. House of Representat.",
+      "title": "Iran denies Trump claim that new talks will start Monday after he called off attacks",
+      "summary": "The United States and Iran will hold new talks Monday afternoon, President Donald Trump said, after announcing he called off intense new strikes to allow for a deal on the Strait of Hormuz and Tehran’s nuclear program.",
       "date": "2026-08-03"
     },
     {
-      "title": "What Cyclospora does inside the gut and how it gets there",
-      "summary": "Cyclospora , the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce. (Image credit: wildpixel).",
-      "date": "2026-08-02"
+      "title": "U.S. steps in to help shore up Japanese yen",
+      "summary": "The U.S. dollar weakened against the Japanese yen Monday after the leaders of both countries confirmed they intervened in the markets to help shore up Japan's currency.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+      "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Clinical Trials Aren’t the Only Way to Know if Flu Shots Work",
+      "summary": "—Hector Roqueta Rivero—Getty Images Earlier this year, the U.S. Department of Health and Human Services (HHS) stopped recommending that all children get an annual influenza vaccine. Instead, it made the shot a matter of “shared clinical decision-making” —something for parents and a doctor to weigh case by case—citing,.",
+      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -99,27 +99,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Rep. Turner says infrastructure should be \"hardened\" as U.S. probes water cyberattack",
-      "url": "https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T16:23:10.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
       "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:32:10.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-      "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:36:53.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
-      "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:03:08.000Z",
+      "publishedAt": "2026-08-03T11:15:49.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
@@ -129,10 +111,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "What Cyclospora does inside the gut and how it gets there",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Iran denies Trump claim that new talks will start Monday after he called off attacks",
+      "url": "https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T07:05:48.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
@@ -141,11 +123,29 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
+      "title": "U.S. steps in to help shore up Japanese yen",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:44:24.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Fact-checking Trump's claims about how the Iran war is going",
       "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going?utm_source=lootura.com",
       "publishedAt": "2026-08-02T17:12:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
+      "url": "https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes?utm_source=lootura.com",
+      "publishedAt": "2026-08-02T20:58:10.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:41:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 16
 }

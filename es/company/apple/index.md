@@ -3,10 +3,28 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre
+
+Apple está preparando el mayor cambio en el lanzamiento del iPhone desde 2011. Llevamos varias semanas escuchando rumores y viendo filtraciones de cada vez más expertos de la industria, y todo apunta a que podría ser una previsión bastante precisa. Tal y como lees en el título: la compañía de Cupertino no lanzaría el i.
+
+Date: 2026-08-03
+
+### Bombazo en Android. Tu móvil le va a copiar al iPhone la mejor función de AirDrop
+
+La última versión de Google Play Services acaba de filtrar una de las mejoras en las que Google está trabajando para que compartir archivos en tu móvil sea mucho más rápido. Y sí: la idea inicial es copiarle al AirDrop de Apple una de sus funciones estrella. Esta vez no tiene nada que ver con enviar archivos de iPhone.
+
+Date: 2026-08-03
+
+### Ya conocemos otra función estrella de las gafas inteligentes de Apple. Y sí, es otra cosa que llegaría tarde a Europa (o nunca)
+
+Parece que Apple tiene un plan para hacer aún más atractivas sus próximas gafas inteligentes. Todo apunta a que no se presentarán oficialmente hasta el 2027, pero todas las miradas ya están puestas sobre la compañía y la división encargada de sacarlas adelante. Tanto foco está haciendo que algunos detalles salgan a la.
+
+Date: 2026-08-03
 
 ### Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos
 
@@ -50,24 +68,8 @@ Normalmente no recomendaríamos la compra de un Apple Watch o un iPhone a menos 
 
 Date: 2026-07-24
 
-### Nepobabies: Apple Martin, el relevo «cool» de Hollywood
-
-Hija de dos celebridades, ocupa ya un espacio propio en la élite de la moda y la cultura pop.
-
-Date: 2026-07-24
-
-### Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?
-
-Samsung ha renovado su gama de relojes inteligentes con el lanzamiento de los Galaxy Watch Ultra 2 y Galaxy Watch 9 . Ambos relojes llegan con hardware actualizado y nuevas funciones que sacan el provecho a los sensores para medir cuestiones como la actividad física, sueño y más. De los dos, el Galaxy Watch Ultra 2 es.
-
-Date: 2026-07-22
-
-### Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa
-
-Apple está preparando uno de los cambios más importantes en la forma de vender el iPhone y otros dispositivos. La compañía anunciará Apple Upgrade, un programa de arrendamiento que promete pagos más accesibles frente a los planes de financiamiento actuales. El programa se lanzaría a finales de este mes y ayudaría a sor.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre](https://hipertextual.com/apple/hay-que-hablar-sobre-el-iphone-18-porque-todo-apunta-a-que-apple-no-lo-va-a-lanzar-en-septiembre/?utm_source=lootura.com) — 2026-08-03T10:52:55.000Z
+- [Bombazo en Android. Tu móvil le va a copiar al iPhone la mejor función de AirDrop](https://hipertextual.com/mobile/bombazo-en-android-tu-movil-le-va-a-copiar-al-iphone-la-mejor-funcion-de-airdrop/?utm_source=lootura.com) — 2026-08-03T09:19:12.000Z
+- [Ya conocemos otra función estrella de las gafas inteligentes de Apple. Y sí, es otra cosa que llegaría tarde a Europa (o nunca)](https://hipertextual.com/apple/ya-conocemos-otra-funcion-estrella-de-las-gafas-inteligentes-de-apple-y-si-es-otra-cosa-que-llegaria-tarde-a-europa-o-nunca/?utm_source=lootura.com) — 2026-08-03T07:58:30.000Z

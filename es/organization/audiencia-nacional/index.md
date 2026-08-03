@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La Audiencia Nacional abre diligencias previas para ver si la entrada de inmigrantes a Ceuta fue la acción de un "grupo criminal"
+
+La jueza de la Audiencia Nacional María Tardón ha solicitado a la Policía Nacional un informe sobre "la entrada irregular masiva" de migrantes en Ceuta en los últimos días para comprobar "si nos encontramos ante una acción concertada o dirigida" por algún "grupo criminal". La magistrada hace esta petición a la Comisarí.
+
+Date: 2026-08-03
+
+### La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue "una acción concertada"
+
+La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de "una acción dirigida por alguna organización o grupo criminal" antes de resolver si es competente para investigar los hechos tras recibir una denuncia La falta de horizonte que empuja el éxodo de los jóvenes en Marrueco.
+
+Date: 2026-08-03
+
+### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
+
+La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
+
+Date: 2026-08-03
 
 ### BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo
 
@@ -50,24 +68,8 @@ El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves 
 
 Date: 2026-07-23
 
-### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
-
-El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
-
-Date: 2026-07-23
-
-### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
-
-La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico a pesar de la enorme expectación generada desde el ámbito político, sobre todo, por.
-
-Date: 2026-07-23
-
-### Caso Zapatero: explicaciones insuficientes contra una decepción
-
-El expresidente se remite a próximas diligencias en el juzgado para aclarar los aspectos más controvertidos que pesan contra él en la causa penal abierta en la Audiencia Nacional Zapatero niega influencias en el rescate de Plus Ultra en su reaparición: “No hablé con nadie, ni de la SEPI ni del Gobierno” El expresidente.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo](https://cincodias.elpais.com/companias/2026-08-03/bbva-consigna-la-fianza-integra-de-117-millones-de-euros-impuesta-por-el-caso-villarejo.html?utm_source=lootura.com) — 2026-08-03T03:15:00.000Z
+- [La Audiencia Nacional abre diligencias previas para ver si la entrada de inmigrantes a Ceuta fue la acción de un "grupo criminal"](https://www.20minutos.es/ceuta/audiencia-nacional-abre-diligencias-previas-para-ver-si-entrada-migrantes-ceuta-fue-accion-un-grupo-criminal_7021991_0.html?utm_source=lootura.com) — 2026-08-03T10:00:38.000Z
+- [La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue "una acción concertada"](https://www.eldiario.es/politica/audiencia-nacional-pide-informe-policial-aclare-si-entrada-miles-personas-ceuta-accion-concertada_1_13424412.html?utm_source=lootura.com) — 2026-08-03T08:24:30.000Z
+- [Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas](https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html?utm_source=lootura.com) — 2026-08-03T10:38:39.000Z

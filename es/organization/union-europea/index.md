@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá](https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com) — 2026-08-03T06:21:30.000Z
+No public source links.

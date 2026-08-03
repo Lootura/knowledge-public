@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España",
+      "summary": "Nadie esperaba que el centro de operaciones de una de las organizaciones cibernéticas más peligrosas del mundo se encontrase en la habitación de un adolescente. Una operación conjunta y milimétrica entre la Ertzaintza, los Mossos d'Esquadra y la Guardia Civil ha culminado con la detención en Gipuzkoa de un menor de ape.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés",
       "summary": "La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Policía que un superior le dio la «orden directa» de eliminar información contable de una adjudicación al empresario Juan Carlos Barrabés , según ha publicado El Mundo. Actualmente, la Unidad Central Operativa ( UCO ) de la Guardia Civil y la Fis.",
@@ -55,25 +60,20 @@
       "title": "España, en estado de sitio",
       "summary": "Más de 50.000 personas entraron en Ceuta el jueves. No por la valla, en su mayoría, sino a nado, bordeando el espigón del Tarajal en oleadas sucesivas que desbordaron a una Guardia Civil que llevaba meses advirtiendo de que el dispositivo era insuficiente . El Ejército terminó desplegado. La Legión, activada. El presid.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España",
+      "url": "https://www.elconfidencial.com/espana/2026-08-03/lider-red-764-en-espana-detencion-terror-digital_4399988/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T09:07:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo",
       "url": "https://www.elmundo.es/espana/2026/08/03/6a6f9abffc6c83b24f8b4580.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T23:44:08.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés",
-      "url": "https://theobjective.com/espana/tribunales/2026-08-03/contable-redes-orden-borrar-informacion-barrabes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:08:46.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

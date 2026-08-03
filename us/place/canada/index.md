@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Flights canceled as WestJet flight attendants strike over pay dispute](https://www.cbsnews.com/news/canada-westjet-flight-attendants-strike/?utm_source=lootura.com) — 2026-08-02T12:27:28.000Z
-- [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html?utm_source=lootura.com) — 2026-08-02T20:32:25.000Z
+No public source links.

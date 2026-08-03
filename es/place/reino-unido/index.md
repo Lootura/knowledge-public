@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario
+
+Sacyr trabajará con Frimley Health NHS Foundation Trust para desarrollar el nuevo Hospital Frimley Park, que es uno de los 11 proyectos incluidos en la primera fase del New...
+
+Date: 2026-08-03
 
 ### Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo
 
@@ -62,12 +68,6 @@ El nuevo primer ministro de Reino Unido , Andy Burnham, ha anunciado este jueves
 
 Date: 2026-07-23
 
-### Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo
-
-El mundo de la aviación comercial podría estar a las puertas de su cambio más radical en décadas. Durante el reciente Salón Aeronáutico de Farnborough, en el Reino Unido, la startup estadounidense JetZero presentó oficialmente el Z4 , un avión que promete ser un punto de inflexión . Su gran baza es un diseño de ala int.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario](https://amp.expansion.com/empresas/inmobiliario/2026/08/03/6a706061468aeb24038b457f.html?utm_source=lootura.com) — 2026-08-03T09:39:24.000Z

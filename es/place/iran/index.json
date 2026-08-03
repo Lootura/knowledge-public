@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,16 +19,6 @@
   ],
   "changes": [
     {
-      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
-      "summary": "Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
-      "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "El Ibex busca récords con el petróleo desinflado",
       "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
       "date": "2026-08-03"
@@ -36,6 +26,21 @@
     {
       "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
       "summary": "Tras cancelar un \"ataque masivo\" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
+      "summary": "La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
+      "summary": "Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
+      "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
       "date": "2026-08-03"
     },
     {
@@ -62,36 +67,19 @@
       "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
       "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Trump asegura haber alcanzado \"las bases de un acuerdo con Irán\"",
-      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto \"un ataque\" contra Irán tras \"alcanzar las bases de un acuerdo\" que...",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T03:25:00.000Z",
+      "title": "La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional",
+      "url": "https://cincodias.elpais.com/economia/2026-08-03/la-actividad-industrial-de-la-zona-euro-logra-repunta-en-julio-pese-a-las-dudas-a-corto-plazo-por-el-entorno-internacional.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:11:20.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:47:05.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
-      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T18:29:10.000Z",
-      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Ibex busca récords con el petróleo desinflado",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:25:44.000Z",
+      "publishedAt": "2026-08-03T11:08:42.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
@@ -101,5 +89,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

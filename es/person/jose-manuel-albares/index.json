@@ -1,0 +1,47 @@
+{
+  "id": "es-jose-manuel-albares",
+  "name": "José Manuel Albares",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/jose-manuel-albares",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares",
+  "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
+  "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "aliases": [
+    "José Manuel Albares Bueno"
+  ],
+  "changes": [
+    {
+      "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
+      "summary": "El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, \"a una actividad inusual en las redes sociales,.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
+      "summary": "El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "José Manuel Albares first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
+      "url": "https://www.20minutos.es/ceuta/gobierno-insiste-colaboracion-marruecos-desde-primer-minuto-achaca-crisis-ceuta-las-redes-sociales_7021921_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:30:52.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
+      "url": "https://elpais.com/espana/2026-08-03/albares-exige-la-solidaridad-de-los-socios-europeos-con-ceuta-y-carga-contra-meloni.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T09:45:41.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

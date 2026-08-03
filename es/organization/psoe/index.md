@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
+
+El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta.
+
+Date: 2026-08-03
 
 ### Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"
 
@@ -62,12 +68,6 @@ El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsable
 
 Date: 2026-07-24
 
-### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
-
-Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta](https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com) — 2026-08-03T11:16:42.000Z

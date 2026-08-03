@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»",
+      "summary": "Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española en Ceuta entre el pasado jueves y viernes, desatando la que muchos definen como una de las mayores crisis migratorias en nuestro país. Otros, por su parte, señalan que esta avalancha de inmigrantes es una estrategia de presión de Marruecos h.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
       "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
@@ -58,25 +63,14 @@
       "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE",
       "summary": "El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Sánchez confía en la \"ventana de oportunidad\" para frenar el fuego y reclama un \"pacto de Estado\" ante la emergencia climática",
-      "summary": "El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Juan Cruz Cigudosa, secretario de Estado de Ciencia: “El eclipse va a ser como la final del Mundial”",
-      "url": "https://theconversation.com/juan-cruz-cigudosa-secretario-de-estado-de-ciencia-el-eclipse-va-a-ser-como-la-final-del-mundial-288555?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T05:46:56.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
-    },
-    {
-      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
-      "url": "https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:21:30.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»",
+      "url": "https://www.abc.es/recreo/carlos-herrera-cni-supo-momento-ceuta-iba-20260803110747-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:43:50.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

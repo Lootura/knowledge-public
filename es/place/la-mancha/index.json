@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
@@ -65,6 +65,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Controlado el incendio de La Mierla, que ha afectado a 32.000 hectáreas",
+      "url": "https://theobjective.com/sociedad/2026-08-03/controlado-incendio-mierla/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:31:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

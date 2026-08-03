@@ -3,10 +3,22 @@
 > Follow John Cornyn, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/person/john-cornyn
 
 ## Recent changes
+
+### Discovered by Atlas
+
+John Cornyn first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-03
+
+### Acting attorney general issues order rescinding "anti-weaponization fund"
+
+The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.
+
+Date: 2026-08-03
 
 ### Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization fund"
 
@@ -20,13 +32,6 @@ Acting Attorney General Todd Blanche moved closer to Senate confirmation Sunday 
 
 Date: 2026-08-03
 
-### Discovered by Atlas
-
-John Cornyn first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization fund"](https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com) — 2026-08-03T04:25:41.000Z
-- [Todd Blanche moves closer to confirmation after rescinding $1.8B fund](https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund?utm_source=lootura.com) — 2026-08-03T04:06:53.000Z
+- [Acting attorney general issues order rescinding "anti-weaponization fund"](https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com) — 2026-08-03T04:25:00.000Z

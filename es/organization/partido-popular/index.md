@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
 
 Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
+
+Date: 2026-08-03
+
+### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
+
+Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.
+
+Date: 2026-08-03
+
+### Miguel Tellado ofrece una rueda de prensa
+
+El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.
+
+Date: 2026-08-03
+
+### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
+
+Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
+
+Date: 2026-08-03
+
+### El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria
+
+El Grupo Parlamentario Popular ha lanzado este lunes una ofensiva parlamentaria desde el Congreso de los Diputados y el Senado a través de una batería de iniciativas dirigidas a fiscalizar la actuación del Gobierno en la actual crisis migratoria . Los populares han exigido medidas urgentes para que no se repitan los he.
 
 Date: 2026-08-03
 
@@ -44,30 +68,10 @@ El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la 
 
 Date: 2026-08-02
 
-### El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025
-
-El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.
-
-Date: 2026-08-02
-
-### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
-
-Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
-
-Date: 2026-08-02
-
-### Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»
-
-El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.
-
-Date: 2026-08-02
-
-### Guerra fría PSOE-PP ante la crisis climática
-
-La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
 - [Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”](https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html?utm_source=lootura.com) — 2026-08-03T03:30:01.000Z
+- [Miguel Tellado ofrece una rueda de prensa](https://www.larazon.es/espana/miguel-tellado-ofrece-rueda-prensa_202608036a7072e6a046ad6ebc98ee84.html?utm_source=lootura.com) — 2026-08-03T11:00:24.000Z
+- [Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta](https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html?utm_source=lootura.com) — 2026-08-03T09:15:47.000Z
+- [El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria](https://okdiario.com/espana/pp-lanza-ofensiva-cortes-gestion-sanchez-invasion-migratoria-19117100?utm_source=lootura.com) — 2026-08-03T11:08:23.000Z

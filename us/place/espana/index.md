@@ -3,10 +3,28 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Morocco denies responsibility for events at its border with Spain, as deaths near 100
+
+Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.
+
+Date: 2026-08-03
+
+### August's total solar eclipse will sweep over Spain, Iceland and Greenland
+
+For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
+
+Date: 2026-08-03
+
+### Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People
+
+Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
+
+Date: 2026-08-03
 
 ### ‘Do You Think if I Had a Job I Would Have Gone?’
 
@@ -50,25 +68,8 @@ The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. Th
 
 Date: 2026-08-01
 
-### Spain to put containment fence around Ceuta after migrants rush border
-
-Most migrants who entered the tiny Spanish territory of Ceuta have been returned to Morocco, Spain's authorities said Saturday.
-
-Date: 2026-08-01
-
-### Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead
-
-Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.
-
-Date: 2026-08-01
-
-### 60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left
-
-According to the president of Ceuta, 60,000 migrants have flooded the small Spanish territory from Morocco since Thursday. Most voluntarily left the territory amid shortages of food, water and shelter, but thousands remained. Spain's prime minister called it an attack. Aiden Stretch reports from Ceuta, Spain.
-
-Date: 2026-07-31
-
 ## Sources
 
-- [‘Do You Think if I Had a Job I Would Have Gone?’](https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com) — 2026-08-03T04:01:07.000Z
-- [In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com) — 2026-08-02T21:49:48.000Z
+- [Morocco denies responsibility for events at its border with Spain, as deaths near 100](https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100?utm_source=lootura.com) — 2026-08-03T08:44:09.000Z
+- [August's total solar eclipse will sweep over Spain, Iceland and Greenland](https://phys.org/news/2026-08-august-total-solar-eclipse-spain.html?utm_source=lootura.com) — 2026-08-03T07:12:40.000Z
+- [Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People](https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com) — 2026-08-03T09:05:12.000Z

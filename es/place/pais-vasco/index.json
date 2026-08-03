@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Euskadi reforzará la prevención de la soledad no deseada a través de betiON",
+      "summary": "El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra",
       "summary": "Los grupos del Ibex baten su récord de adquisiciones internacionales de los últimos 20 años.",
@@ -67,25 +72,20 @@
       "title": "Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada",
       "summary": "La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Último día de calor extremo en Euskadi: el fin de semana traerá un desplome de temperaturas y lluvias intensas",
-      "summary": "Euskadi afrontó este viernes el último episodio de calor sofocante , con temperaturas que alcanzaron los 40 ºC en la mitad sur y valores cercanos a los 30 ºC en la costa. El Gobierno Vasco mantuvo el aviso amarillo por temperaturas extremas en la zona de transición y el eje del Ebro, mientras que Euskalmet fijó una jor.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Euskadi reforzará la prevención de la soledad no deseada a través de betiON",
+      "url": "https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:56:47.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»",
       "url": "https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-02T21:49:49.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra",
-      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/03/6a701dd4468aeb0f4c8b4596.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T05:14:55.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 2

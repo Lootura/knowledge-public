@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
@@ -20,27 +20,9 @@ The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repair
 
 Date: 2026-08-03
 
-### Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga
-
-President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.
-
-Date: 2026-08-01
-
 ### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
 
 Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
-
-Date: 2026-08-01
-
-### Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals
-
-Pirro's office, in a court filing on Friday, moved to drop criminal charges against a former Olympian, David Hearn, who had been accused of deliberately damaging the pool after it went through a renovation.
-
-Date: 2026-08-01
-
-### Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case
-
-President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.
 
 Date: 2026-08-01
 

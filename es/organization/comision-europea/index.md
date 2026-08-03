@@ -3,10 +3,22 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
+
+La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
+
+Date: 2026-08-03
+
+### Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta
+
+La presidenta de la Comisión Europea, Ursula von der Leyen, ha elogiado este lunes la gestión «eficiente y eficaz» de la última crisis migratoria en Ceuta.
+
+Date: 2026-08-03
 
 ### Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”
 
@@ -56,18 +68,7 @@ Un total de 22 líderes europeos han firmado una carta remitida este sábado a U
 
 Date: 2026-08-01
 
-### Sánchez expresa su preocupación a Von der Leyen por la reacción de socios como Meloni y pide una reunión de ministros de Interior
-
-El presidente del Gobierno, Pedro Sánchez , ha enviado una carta a la presidenta de la Comisión Europea, Úrsula Von der Leyen , para trasladarle su "seria preocupación" sobre la "reciente reacción" de "algunos gobiernos europeos" tras la crisis migratoria originada en Ceuta. En el escrito, el líder del Ejecutivo ha cal.
-
-Date: 2026-08-01
-
-### La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'
-
-El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”](https://cincodias.elpais.com/companias/2026-08-03/christos-harpantidis-philip-morris-cuando-la-regulacion-equipara-al-cigarrillo-con-sus-alternativas-se-elimina-el-incentivo-para-innovar.html?utm_source=lootura.com) — 2026-08-03T03:15:00.000Z
+- [Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas](https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html?utm_source=lootura.com) — 2026-08-03T10:38:39.000Z
+- [Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta](https://theobjective.com/internacional/2026-08-03/von-der-leyen-espana-marruecos-inmigrantes-ceuta/?amp=&utm_source=lootura.com) — 2026-08-03T10:53:28.000Z

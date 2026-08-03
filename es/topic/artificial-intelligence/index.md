@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Europa jubila el modelo migratorio de Pedro Sánchez](https://amp.elmundo.es/internacional/2026/08/02/6a6f82a2fc6c83246b8b4582.html?utm_source=lootura.com) — 2026-08-02T20:38:18.000Z
+No public source links.

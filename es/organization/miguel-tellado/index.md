@@ -3,10 +3,16 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### Miguel Tellado ofrece una rueda de prensa
+
+El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.
+
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Miguel Tellado ofrece una rueda de prensa](https://www.larazon.es/espana/miguel-tellado-ofrece-rueda-prensa_202608036a7072e6a046ad6ebc98ee84.html?utm_source=lootura.com) — 2026-08-03T11:00:24.000Z

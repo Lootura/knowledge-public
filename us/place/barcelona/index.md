@@ -3,10 +3,16 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+The signals that cells use to switch genes on have remained almost unchanged across 2 billion years of evolution, but the ones used to switch genes off vary dramatically from one branch of life to another, according to a new study from the Center for Genomic Regulation (CRG) in Barcelona.
+
+Date: 2026-08-03
 
 ### New web tool maps fossil locations across ancient continents in seconds
 
@@ -28,4 +34,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Life speaks one universal language to activate genes: It speaks many more to silence them](https://phys.org/news/2026-07-life-universal-language-genes-silence.html?utm_source=lootura.com) — 2026-08-03T09:00:01.000Z

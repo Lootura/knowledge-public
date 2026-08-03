@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/van-gogh/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/van-gogh/index.json",
   "description": "Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-01T20:48:29.218Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Van Gogh",
     "Vincent Willem van Gogh",
     "van Gogh"
   ],
   "changes": [
+    {
+      "title": "Amaia Montero, sobre su regreso a La Oreja de Van Gogh: «Había gente esperando mi caída»",
+      "summary": "No es ningún secreto que una de las noticias más impactantes de los últimos años fue el regreso de Amaia Montero a La Oreja de Van Gogh . No solamente lo hicieron con el lanzamiento de un nuevo single , sino también con la confirmación de una gira por los principales escenarios de nuestro país. Como no podía ser de otr.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Vincent van Gogh first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-31"
+    },
     {
       "title": "'Dulce locura' de La Oreja de Van Gogh en San Sebastián",
       "summary": "Convirtió Illunbe en la fiesta que prometía con sus fans y amigos más cercanos coreando cada canción.",
@@ -24,13 +34,15 @@
       "title": "La canción sorpresa de la noche: Amaia Montero se atreve con 'Ilargia'",
       "summary": "Con un Illunbe entregado, la Oreja de Van Gogh hizo un repaso de sus mejores éxitos… incluido uno de los temas más icónicos de Ken Zazpi.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Vincent van Gogh first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Amaia Montero, sobre su regreso a La Oreja de Van Gogh: «Había gente esperando mi caída»",
+      "url": "https://okdiario.com/happyfm/amaia-montero-sobre-regreso-oreja-van-gogh-habia-gente-esperando-caida-19116753?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:03:46.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

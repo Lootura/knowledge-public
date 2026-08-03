@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
+
+### Ladrones georgianos de turismo en Madrid: cazados cuando asaltaban pisos
+
+El aviso de una vecina en Ciudad Lineal y la presencia de una patrulla policial en Moncloa revientan los robos en viviendas de las bandas más especializadas.
+
+Date: 2026-08-03
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Ladrones georgianos de turismo en Madrid: cazados cuando asaltaban pisos](https://www.abc.es/espana/madrid/ladrones-georgianos-turismo-madrid-cazados-asaltaban-pisos-20260803125904-nt.html?utm_source=lootura.com) — 2026-08-03T10:59:04.000Z

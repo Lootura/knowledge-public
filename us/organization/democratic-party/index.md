@@ -3,20 +3,44 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
+### Activist David Hogg talks about the future of the Democratic Party
 
-We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.
+NPR's Michel Martin speaks with gun violence prevention activist David Hogg about the future of the Democratic Party and calls for him to lead the Democratic National Committee.
 
-Date: 2026-08-02
+Date: 2026-08-03
+
+### We’re about to find out how powerful progressives really are
+
+Michigan is ground zero for the Democratic Party’s ideological war. Its marquee Senate race and two of its House primaries on Tuesday — in Michigan’s 7th and 13th Congressional Districts — will provide another crucial test of whether progressives can not only keep up their winning streak in safe-blue seats but also bre.
+
+Date: 2026-08-03
+
+### Kansas Democrats Are Split on How to Keep the Governor’s Office
+
+In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
+
+Date: 2026-08-03
+
+### Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter
+
+A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
+
+Date: 2026-08-03
 
 ### Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?
 
 Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.
+
+Date: 2026-08-02
+
+### Politics chat: Will Democrats use the war and high prices for their midterm strategy?
+
+We look at how the Democratic party is approaching the midterms, and if they are using issues like the war in Iran and affordability, to their advantage.
 
 Date: 2026-08-02
 
@@ -44,31 +68,10 @@ Democrats vying for a pair of deep-red Senate seats are facing increasingly desp
 
 Date: 2026-08-01
 
-### Democrats’ ‘climate hushing’ prompts activists to turn up the volume
-
-Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Resea.
-
-Date: 2026-08-01
-
-### It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents
-
-Democrats vying for a pair of deep-red Senate seats are facing increasingly desperate calls from within their party to step aside for more promising independent candidates. But they say they won’t drop out — unless there’s divine intervention. Democrats Alani Bankhead of Montana and Julian Beaudion of South Dakota both.
-
-Date: 2026-08-01
-
-### The Democrats have one last chance to halt the erosion of US democracy – and it’s less than 100 days away | Timothy Garton Ash
-
-American democrats need a Hungarian-style landslide to overwhelm Trump’s attempts to rig November’s midterm elections In these days of extreme weather events, it seems odd to say that the US needs a big landslide. But a landslide defeat for President Donald Trump in November’s midterm elections is exactly what is requi.
-
-Date: 2026-08-01
-
-### Why Mitch McConnell Isn’t Giving Up His Senate Seat
-
-Democrats are demanding that the Kentucky Republican resign. Others who were sidelined for far longer faced no such calls, but times are changing.
-
-Date: 2026-07-31
-
 ## Sources
 
-- [Politics chat: Will Democrats use the war and high prices for their midterm strategy?](https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy?utm_source=lootura.com) — 2026-08-02T12:08:02.000Z
+- [Activist David Hogg talks about the future of the Democratic Party](https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party?utm_source=lootura.com) — 2026-08-03T08:45:14.000Z
+- [We’re about to find out how powerful progressives really are](https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095?utm_source=lootura.com) — 2026-08-03T09:45:00.000Z
+- [Kansas Democrats Are Split on How to Keep the Governor’s Office](https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html?utm_source=lootura.com) — 2026-08-03T09:00:23.000Z
 - [Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?](https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html?utm_source=lootura.com) — 2026-08-02T14:03:03.000Z
+- [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T11:17:23.000Z

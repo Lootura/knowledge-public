@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways](https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html?utm_source=lootura.com) — 2026-08-02T09:01:05.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -71,6 +71,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:01:11.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
   "evidenceCount": 0
 }

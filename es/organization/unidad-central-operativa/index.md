@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés](https://theobjective.com/espana/tribunales/2026-08-03/contable-redes-orden-borrar-informacion-barrabes/?utm_source=lootura.com) — 2026-08-03T06:08:46.000Z
+No public source links.

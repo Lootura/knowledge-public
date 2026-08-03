@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí](https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com) — 2026-08-03T03:25:00.000Z
+No public source links.

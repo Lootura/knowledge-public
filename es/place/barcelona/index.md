@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock
+
+El 3 de julio de 1965, los Beatles actuaban en la plaza de toros de La Monumental de Barcelona, un día después de su gran concierto en Madrid. Parecía que el rock por fin entraba por la puerta grande en España. Sin embargo, aquello fue como una anécdota sin gran repercusión posterior. Las giras de los grandes grupos de.
+
+Date: 2026-08-03
+
+### Restablecido el servicio en las 6 líneas de Rodalies entre Barcelona y Tarragona cortadas por un atropello
+
+Rodalies ha restablecido el servicio en las líneas R2 Sud, R13, R14, R15, R16 y R17 cortadas entre Sant Vicenç de Calders y Cunit (Tarragona) por el atropello de una persona este lunes a las 8:50 tras cerca de dos horas de corte. Se ha reanudado la circulación por vía única para trenes de media distancia y se ha establ.
+
+Date: 2026-08-03
 
 ### Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona
 
@@ -56,19 +68,7 @@ Cajal tiene el taller en el barrio de Gràcia, en Barcelona. Desde la calle se p
 
 Date: 2026-08-02
 
-### Shabat de terror de siete judíos franceses en la Barcelona antisemita: "Gritad 'Fuck Israel', asesinos de niños, asquerosos sionistas"
-
-Una mujer con una kufiya palestina abordó en Barcelona a siete turistas judíos; reclutó a renglón seguido a una turba y aterrorizó a los parisinos durante treinta interminables minutos. Lo sucedido evoca el pogromo del Kurfürstendamm, cuando los nazis persiguieron a los fieles de una sinagoga berlinesa al grito de «Mue.
-
-Date: 2026-08-01
-
-### Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»
-
-Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el alcalde aplica en la ciudad, que equipara, en cierta medida,.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona](https://www.elconfidencial.com/espana/cataluna/2026-08-03/rodalies-tarragona-atropello-ferrocat-1tna-1tps_4399912/?utm_source=lootura.com) — 2026-08-03T06:45:00.000Z
-- [Los correfocs son la tradición más ruidosa de Barcelona, y los ‘diablos de fuego’ sacrifican su audición para poder participar](https://theconversation.com/los-correfocs-son-la-tradicion-mas-ruidosa-de-barcelona-y-los-diablos-de-fuego-sacrifican-su-audicion-para-poder-participar-284610?utm_source=lootura.com) — 2026-08-03T05:50:26.000Z
+- [Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock](https://www.abc.es/cultura/rolling-stones-anos-desastre-economico-abrio-espana-20260723112418-nt.html?utm_source=lootura.com) — 2026-08-03T10:32:12.000Z
+- [Restablecido el servicio en las 6 líneas de Rodalies entre Barcelona y Tarragona cortadas por un atropello](https://www.elconfidencial.com/espana/cataluna/2026-08-03/rodalies-tarragona-atropello-ferrocat-1tna-1tps_4399912/?utm_source=lootura.com) — 2026-08-03T06:45:00.000Z

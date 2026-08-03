@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### For Republicans planning post-Trump future, one race in Washington is worth watching
+
+The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence. (Image credit: Sarah Silbiger/Getty Images).
+
+Date: 2026-08-03
 
 ### Opinion: Remembering Margo Howard
 
@@ -62,12 +68,6 @@ Date: 2026-07-22
 
 Date: 2026-07-20
 
-### We’re Taking Hobbies Too Far
-
-—Mitch Diamond—Getty Images A few weeks ago, a clip from Dominican Sisters Open Mic , a podcast featuring Catholic nuns, went viral. “Do you have a hobby, sister?” one nun asks the other. “I do not have a hobby,” the nun replied, noting that a “hobby, to me, feels like just something else to do.” That must be freeing.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [For Republicans planning post-Trump future, one race in Washington is worth watching](https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump?utm_source=lootura.com) — 2026-08-03T09:00:00.000Z

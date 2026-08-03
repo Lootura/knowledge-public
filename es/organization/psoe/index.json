@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El PSOE crítico con Sánchez alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta",
+      "summary": "El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Elena Valenciano: \"¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?\"",
       "summary": "Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muestra un rostro más relajado y tranquilo que en los turbulentos años en los que dirigió el PSOE (2012-2014), a pesar de que \"teníamos la mitad de lo que pasa ahora\". Declara \"absolutamente cerrada\" su etapa en política, de la que salió no por v.",
@@ -65,13 +70,15 @@
       "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
       "summary": "El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSOE crítico con Sánchez alerta de \"censura y presiones\" contra quienes denuncian la invasión de Ceuta",
+      "url": "https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:16:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

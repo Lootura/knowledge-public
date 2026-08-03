@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
       "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
@@ -58,18 +63,13 @@
       "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface",
       "summary": "Already feeling pinched since the start of the Iran war, consumers are likely to feel more pain ahead as oil prices pushed past $100 a barrel Thursday amid renewed fighting and military strikes that have left global oil supplies stranded in the Middle East.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
       "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:32:10.000Z",
+      "publishedAt": "2026-08-03T11:15:49.000Z",
       "sourceId": "lootura-us-cnbc"
     }
   ],

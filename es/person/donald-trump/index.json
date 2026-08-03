@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
-      "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "El Ibex busca récords con el petróleo desinflado",
       "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
       "date": "2026-08-03"
@@ -37,6 +32,11 @@
     {
       "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
       "summary": "Tras cancelar un \"ataque masivo\" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
+      "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
       "date": "2026-08-03"
     },
     {
@@ -77,15 +77,9 @@
   ],
   "sources": [
     {
-      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:47:05.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "El Ibex busca récords con el petróleo desinflado",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:25:44.000Z",
+      "publishedAt": "2026-08-03T11:08:42.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
@@ -95,5 +89,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

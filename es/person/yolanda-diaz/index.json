@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores",
+      "summary": "La Inspección de Trabajo se ha consolidado como uno de los principales organismos encargados de velar por el cumplimiento de la normativa laboral y de Seguridad Social en España. Según los datos facilitados en marzo por la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, durante 2025 se llevaron a cabo alred.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo",
       "summary": "La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha recordado este sábado en su cuenta personal de la red social Bluesky, que aquellas personas que no puedan acceder o desplazarse hasta su puesto de trabajo por culpa de incendios como los de Ávila y Madrid tienen derecho a cuatro días de permiso retribuid.",
@@ -61,13 +66,15 @@
       "title": "El rechazo de las patronales complica su llegada a la dirección del organismo",
       "summary": "Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El rechazo de las patronales complica la llegada de la ministra a la dirección de la OIT",
-      "summary": "Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores",
+      "url": "https://www.larazon.es/economia/inspeccion-trabajo-avala-jubilacion-anticipada-transportistas-conductores-coeficientes-reductores-p7m_202608036a7052cfa046ad6ebc98ab3a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:03:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
+
+Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».
+
+Date: 2026-08-03
+
+### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
+
+Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
+
+Date: 2026-08-03
+
+### El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria
+
+El Grupo Parlamentario Popular ha lanzado este lunes una ofensiva parlamentaria desde el Congreso de los Diputados y el Senado a través de una batería de iniciativas dirigidas a fiscalizar la actuación del Gobierno en la actual crisis migratoria . Los populares han exigido medidas urgentes para que no se repitan los he.
+
+Date: 2026-08-03
+
+### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
+
+El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta.
+
+Date: 2026-08-03
 
 ### Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera
 
@@ -44,31 +68,10 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este 
 
 Date: 2026-08-02
 
-### Cuáles son los acuerdos que firmó Sánchez en Argelia antes de la crisis de Ceuta
-
-La relación entre España y Argelia ha sido, durante décadas, una de las más sensibles de la política exterior española. No solo por la energía, sino por el peso del Magreb en la seguridad, la inmigración, el comercio y el tablero diplomático del sur de Europa. Por eso, cuando Pedro Sánchez intensificó el acercamiento a.
-
-Date: 2026-08-02
-
-### Gavira (Vox) culpa a Sánchez y a Marruecos de trasladar la crisis migratoria de Ceuta al litoral andaluz: «Ha dejado indefensa a España»
-
-Las llegadas de inmigrantes a playas del Campo de Gibraltar en motos de agua y lanchas rápidas durante las últimas horas han llevado al vicepresidente segundo de la Junta de Andalucía y consejero de Turismo, Justicia, Desregulación y Administración Local, Manuel Gavira , a responsabilizar al Gobierno de Pedro Sánchez y.
-
-Date: 2026-08-02
-
-### 43 años de indultos en España: 16.371 desde Felipe González y 3.585 por delitos contra el patrimonio
-
-Los recientes indultos a la expresidenta del Parlamento de Cataluña, Laura Borràs, y al exalcalde de Linares, Juan Fernández , han resucitado la polémica sobre la medida de gracia y su incidencia política en el Gobierno de Pedro Sánchez . La realidad, no obstante, es que esta figura jurídica tiene una fuerte presencia.
-
-Date: 2026-08-02
-
-### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
-
-Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta](https://www.abc.es/espana/feijoo-sanchez-paria-europa-pone-duda-cni-20260803125306-nt.html?utm_source=lootura.com) — 2026-08-03T10:53:38.000Z
 - [Abascal tilda la crisis en Ceuta de un «acto de guerra» y llama a militarizar la frontera](https://www.elcorreo.com/politica/abascal-pide-militarizar-frontera-marruecos-reclama-suspension-20260802132350-ntrc_amp.html?utm_source=lootura.com) — 2026-08-02T11:23:50.000Z
-- [La avalancha de Ceuta abre una brecha entre Interior y Defensa mientras Sánchez y Marlaska tapan a Marruecos](https://amp.elmundo.es/espana/2026/08/02/6a6f9b55fc6c83e4178b458a.html?utm_source=lootura.com) — 2026-08-02T20:49:32.000Z
+- [Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta](https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html?utm_source=lootura.com) — 2026-08-03T09:15:47.000Z
+- [El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria](https://okdiario.com/espana/pp-lanza-ofensiva-cortes-gestion-sanchez-invasion-migratoria-19117100?utm_source=lootura.com) — 2026-08-03T11:08:23.000Z
+- [El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta](https://okdiario.com/espana/psoe-critico-sanchez-alerta-censura-presiones-contra-quienes-denuncian-invasion-ceuta-19116805/amp?utm_source=lootura.com) — 2026-08-03T11:16:42.000Z

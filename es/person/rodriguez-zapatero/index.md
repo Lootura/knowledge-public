@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero
+
+La docena de correos electrónicos a la que ha tenido acceso en exclusiva ABC recoge una interlocución hasta ahora desconocida entre el expresidente del Gobierno José Luis Rodríguez Zapatero y la exministra de Hacienda María Jesús Montero, responsable orgánica del ente público que canalizó el rescate a la aerolínea Plus.
+
+Date: 2026-08-03
 
 ### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
 
@@ -62,12 +68,6 @@ La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las
 
 Date: 2026-07-23
 
-### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
-
-Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero](https://www.abc.es/espana/correos-electronicos-gertru-revelan-ocho-reuniones-zapatero-20260803012038-nt.html?utm_source=lootura.com) — 2026-08-03T10:28:05.000Z

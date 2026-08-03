@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### 17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España
+
+Nadie esperaba que el centro de operaciones de una de las organizaciones cibernéticas más peligrosas del mundo se encontrase en la habitación de un adolescente. Una operación conjunta y milimétrica entre la Ertzaintza, los Mossos d'Esquadra y la Guardia Civil ha culminado con la detención en Gipuzkoa de un menor de ape.
+
+Date: 2026-08-03
 
 ### Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés
 
@@ -62,13 +68,7 @@ Más de 50.000 personas entraron en Ceuta el jueves. No por la valla, en su mayo
 
 Date: 2026-08-01
 
-### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
-
-Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España](https://www.elconfidencial.com/espana/2026-08-03/lider-red-764-en-espana-detencion-terror-digital_4399988/?utm_source=lootura.com) — 2026-08-03T09:07:00.000Z
 - [Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo](https://www.elmundo.es/espana/2026/08/03/6a6f9abffc6c83b24f8b4580.html?utm_source=lootura.com) — 2026-08-02T23:44:08.000Z
-- [Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés](https://theobjective.com/espana/tribunales/2026-08-03/contable-redes-orden-borrar-informacion-barrabes/?utm_source=lootura.com) — 2026-08-03T06:08:46.000Z

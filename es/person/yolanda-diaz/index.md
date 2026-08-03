@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores
+
+La Inspección de Trabajo se ha consolidado como uno de los principales organismos encargados de velar por el cumplimiento de la normativa laboral y de Seguridad Social en España. Según los datos facilitados en marzo por la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, durante 2025 se llevaron a cabo alred.
+
+Date: 2026-08-03
 
 ### Los afectados por los incendios cuentan con cuatro días de permiso retribuido en el trabajo
 
@@ -62,12 +68,6 @@ Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en p
 
 Date: 2026-07-23
 
-### El rechazo de las patronales complica la llegada de la ministra a la dirección de la OIT
-
-Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores](https://www.larazon.es/economia/inspeccion-trabajo-avala-jubilacion-anticipada-transportistas-conductores-coeficientes-reductores-p7m_202608036a7052cfa046ad6ebc98ab3a.html?utm_source=lootura.com) — 2026-08-03T11:03:32.000Z

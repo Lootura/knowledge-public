@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "AI",
     "AI science",
@@ -84,19 +84,7 @@
       "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/?utm_source=lootura.com",
       "publishedAt": "2026-08-02T19:08:12.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Dark Matter May Be Transforming Into Weird Particles That Fill The Universe With Gravity",
-      "url": "https://www.sciencealert.com/dark-matter-may-be-transforming-into-weird-particles-that-fill-the-universe-with-gravity?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T05:15:00.000Z",
-      "sourceId": "lootura-us-sciencealert"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T19:36:08.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

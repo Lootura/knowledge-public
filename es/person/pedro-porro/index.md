@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-porro
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Pedro Porro, artífice del fichaje top del Tottenham: "Fui yo quien le dijo al entrenador que te trajera"](https://www.20minutos.es/deportes/futbol/pedro-porro-campeon-mundo-artifice-encubierto-fichaje-top-tottenham-fui-yo-quien-le-dijo-entrenador-que-te-trajera_7021988_0.html?utm_source=lootura.com) — 2026-08-03T10:19:21.000Z

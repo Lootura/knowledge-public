@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»
+
+Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española en Ceuta entre el pasado jueves y viernes, desatando la que muchos definen como una de las mayores crisis migratorias en nuestro país. Otros, por su parte, señalan que esta avalancha de inmigrantes es una estrategia de presión de Marruecos h.
+
+Date: 2026-08-03
 
 ### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
 
@@ -62,13 +68,6 @@ El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobie
 
 Date: 2026-08-01
 
-### Sánchez confía en la "ventana de oportunidad" para frenar el fuego y reclama un "pacto de Estado" ante la emergencia climática
-
-El Gobierno de España ha tomado las riendas de la catástrofe forestal . Desde el Puesto de Mando Avanzado de Cenicientos (Madrid) y acompañado por el ministro del Interior, Fernando Grande-Marlaska, el presidente Pedro Sánchez ha confirmado la activación de la Situación Operativa 3 a petición de las comunidades autónom.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Juan Cruz Cigudosa, secretario de Estado de Ciencia: “El eclipse va a ser como la final del Mundial”](https://theconversation.com/juan-cruz-cigudosa-secretario-de-estado-de-ciencia-el-eclipse-va-a-ser-como-la-final-del-mundial-288555?utm_source=lootura.com) — 2026-08-03T05:46:56.000Z
-- [La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá](https://theobjective.com/economia/2026-08-03/ue-sobre-ketchup-gobierno-envase/?utm_source=lootura.com) — 2026-08-03T06:21:30.000Z
+- [Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»](https://www.abc.es/recreo/carlos-herrera-cni-supo-momento-ceuta-iba-20260803110747-nt.html?utm_source=lootura.com) — 2026-08-03T10:43:50.000Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-03T11:20:09.799Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,3 @@ Date: 2026-08-02
 ## Sources
 
 - [Hugging Face CEO calls hack by rogue OpenAI model "very weird and unprecedented"](https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/?utm_source=lootura.com) — 2026-08-02T19:08:12.000Z
-- [Dark Matter May Be Transforming Into Weird Particles That Fill The Universe With Gravity](https://www.sciencealert.com/dark-matter-may-be-transforming-into-weird-particles-that-fill-the-universe-with-gravity?utm_source=lootura.com) — 2026-08-03T05:15:00.000Z
-- [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music?utm_source=lootura.com) — 2026-08-02T19:36:08.000Z

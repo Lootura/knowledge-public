@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero",
+      "summary": "La docena de correos electrónicos a la que ha tenido acceso en exclusiva ABC recoge una interlocución hasta ahora desconocida entre el expresidente del Gobierno José Luis Rodríguez Zapatero y la exministra de Hacienda María Jesús Montero, responsable orgánica del ente público que canalizó el rescate a la aerolínea Plus.",
+      "date": "2026-08-03"
+    },
     {
       "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
       "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
@@ -60,13 +65,15 @@
       "title": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
       "summary": "La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE",
-      "summary": "Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero",
+      "url": "https://www.abc.es/espana/correos-electronicos-gertru-revelan-ocho-reuniones-zapatero-20260803012038-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T10:28:05.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

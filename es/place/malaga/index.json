@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-08-03T11:19:50.232Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026",
+      "summary": "El festival celebrado en la ciudad de Málaga del 1 a 4 de octubre ha revelado con siete actores de 'Los Serrano' participarán durante la convención.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana",
       "summary": "En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza como un gigante inútil en el que aún duermen demasiados fantasmas. El que no hace tanto tiempo era el gran foco del menudeo en la zona consiguió, al menos, dejar atrás su actividad como hipermercado del estupefaciente hace ya ocho años. Pero e.",
@@ -55,26 +60,15 @@
       "title": "Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»",
       "summary": "Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Tres mujeres asesinadas en apenas unas horas en sus domicilios de Toledo, Alicante y Málaga",
-      "summary": "Los maridos de las dos primeras han sido detenidos Leer.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-03/enganches-ilegales-palmilla-malaga-endesa_4397373/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados",
-      "url": "https://www.larazon.es/andalucia/malaga-afronta-jornada-calor-extremo-otra-noche-tropical-temperaturas-superiores-30-grados_202608036a702a0171b42a0b5dd6a219.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T06:10:14.000Z",
+      "title": "Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026",
+      "url": "https://www.larazon.es/television/series/actores-serrano-reencontraran-octubre-san-diego-comiccon-malaga-2026_202608036a707610a046ad6ebc98f800.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-03T11:10:13.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,16 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
-
-Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
-
-Date: 2026-08-03
 
 ### El Ibex busca récords con el petróleo desinflado
 
@@ -23,6 +17,12 @@ Date: 2026-08-03
 ### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
 
 Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
+
+Date: 2026-08-03
+
+### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
+
+Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
 
 Date: 2026-08-03
 
@@ -70,6 +70,5 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-03T04:47:05.000Z
-- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T06:25:44.000Z
+- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T11:08:42.000Z
 - [Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes](https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T06:55:38.000Z

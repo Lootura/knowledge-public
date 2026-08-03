@@ -40,4 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Conmoción por la muerte de Nirmal Purja: "Su pérdida en las montañas que amaba es un golpe devastador"](https://www.20minutos.es/deportes/conmocion-por-muerte-nirmal-purja-su-perdida-las-mismas-montanas-que-tanto-amaba-es-un-golpe-devastador_7021786_0.html?utm_source=lootura.com) — 2026-08-03T06:12:10.000Z
+No public source links.

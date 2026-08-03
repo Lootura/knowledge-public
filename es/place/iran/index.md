@@ -3,22 +3,10 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-03T11:19:50.232Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
-
-### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
-
-Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
-
-Date: 2026-08-03
-
-### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
-
-Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
-
-Date: 2026-08-03
 
 ### El Ibex busca récords con el petróleo desinflado
 
@@ -29,6 +17,24 @@ Date: 2026-08-03
 ### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
 
 Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
+
+Date: 2026-08-03
+
+### La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional
+
+La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.
+
+Date: 2026-08-03
+
+### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
+
+Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
+
+Date: 2026-08-03
+
+### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
+
+Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
 
 Date: 2026-08-03
 
@@ -62,16 +68,8 @@ Responsables políticos y militares iraníes han salido en las últimas horas a 
 
 Date: 2026-08-02
 
-### Trump asegura haber alcanzado "las bases de un acuerdo con Irán"
-
-El presidente de Estados Unidos, Donald Trump, aseguró este sábado haber pospuesto "un ataque" contra Irán tras "alcanzar las bases de un acuerdo" que...
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí](https://cincodias.elpais.com/mercados-financieros/2026-08-03/las-aseguradoras-restringen-la-cobertura-de-riesgo-en-el-mar-rojo-y-agravan-la-venta-del-petroleo-saudi.html?utm_source=lootura.com) — 2026-08-03T03:25:00.000Z
-- [El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-03T04:47:05.000Z
-- [La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo](https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html?utm_source=lootura.com) — 2026-08-02T18:29:10.000Z
-- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T06:25:44.000Z
+- [La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional](https://cincodias.elpais.com/economia/2026-08-03/la-actividad-industrial-de-la-zona-euro-logra-repunta-en-julio-pese-a-las-dudas-a-corto-plazo-por-el-entorno-internacional.html?utm_source=lootura.com) — 2026-08-03T11:11:20.000Z
+- [El Ibex busca récords con el petróleo desinflado](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T11:08:42.000Z
 - [Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes](https://www.larazon.es/internacional/trump-vuelve-cambiar-version-anuncia-que-negociaciones-iran-reanudaran-este-lunes_202608036a703b6aa046ad6ebc987dea.html?outputType=amp&utm_source=lootura.com) — 2026-08-03T06:55:38.000Z

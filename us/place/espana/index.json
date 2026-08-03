@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-03T11:20:09.799Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
+      "summary": "Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
+      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "date": "2026-08-03"
+    },
     {
       "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
       "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
@@ -49,36 +64,27 @@
       "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
       "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier. (Image credit: Antonio Sempere).",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Spain to put containment fence around Ceuta after migrants rush border",
-      "summary": "Most migrants who entered the tiny Spanish territory of Ceuta have been returned to Morocco, Spain's authorities said Saturday.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead",
-      "summary": "Spain's Ministry of the Interior said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
-      "summary": "According to the president of Ceuta, 60,000 migrants have flooded the small Spanish territory from Morocco since Thursday. Most voluntarily left the territory amid shortages of food, water and shelter, but thousands remained. Spain's prime minister called it an attack. Aiden Stretch reports from Ceuta, Spain.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
     {
-      "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T04:01:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T08:44:09.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T21:49:48.000Z",
+      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
+      "url": "https://phys.org/news/2026-08-august-total-solar-eclipse-spain.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T07:12:40.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T09:05:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

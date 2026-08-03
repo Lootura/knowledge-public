@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently](https://phys.org/news/2026-07-newly-unearthed-mechanism-full-crops.html?utm_source=lootura.com) — 2026-08-02T20:00:01.000Z
+No public source links.

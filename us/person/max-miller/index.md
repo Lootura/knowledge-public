@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Sen. Bernie Moreno says former son-in-law Max Miller shouldn’t serve in Congress following abuse allegations](https://www.nbcnews.com/politics/congress/bernie-moreno-former-son-law-max-miller-shouldnt-serve-congress-abuse-rcna590459?utm_source=lootura.com) — 2026-08-02T20:46:46.000Z
+No public source links.

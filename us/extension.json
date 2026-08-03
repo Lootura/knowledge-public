@@ -1,58 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T07:35:23.491Z",
+  "generatedAt": "2026-08-03T11:31:55.435Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|54|1785740238675",
+    "signature": "1.18.0|55|1785756009799",
     "version": "1.18.0",
-    "build": 54,
-    "latestEntityUpdatedAt": "2026-08-03T06:57:18.675Z"
+    "build": 55,
+    "latestEntityUpdatedAt": "2026-08-03T11:20:09.799Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-todd-blanche",
-      "name": "Todd Blanche",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "NATO spending pressure returned",
-      "url": "https://atlas.lootura.com/us/person/todd-blanche",
-      "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-08-03T06:57:18.675Z",
-      "score": 1756,
-      "sourceCount": 39,
+      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-08-03T11:20:09.799Z",
+      "score": 1761,
+      "sourceCount": 514,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-03T06:57:18.675Z",
-        "score": 1726,
-        "sourceCount": 285,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-03T06:57:18.675Z",
-        "score": 1678,
-        "sourceCount": 507,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-united-states",
         "name": "United States",
@@ -60,26 +34,52 @@
         "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-03T06:57:18.675Z",
-        "score": 1662,
-        "sourceCount": 529,
+        "updatedAt": "2026-08-03T11:20:09.799Z",
+        "score": 1761,
+        "sourceCount": 532,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-john-cornyn",
-        "name": "John Cornyn",
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-03T11:20:09.799Z",
+        "score": 1707,
+        "sourceCount": 289,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
         "type": "person",
-        "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization fund\"",
-        "url": "https://atlas.lootura.com/us/person/john-cornyn",
-        "path": "/us/person/john-cornyn",
-        "updatedAt": "2026-08-03T06:57:18.675Z",
-        "score": 1639,
-        "sourceCount": 2,
+        "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-08-03T11:20:09.799Z",
+        "score": 1700,
+        "sourceCount": 27,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-reflecting-pool",
+        "name": "Reflecting pool",
+        "type": "object",
+        "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+        "url": "https://atlas.lootura.com/us/object/reflecting-pool",
+        "path": "/us/object/reflecting-pool",
+        "updatedAt": "2026-08-03T11:20:09.799Z",
+        "score": 1656,
+        "sourceCount": 4,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 94
+    "publicEntityCount": 95
   }
 }
