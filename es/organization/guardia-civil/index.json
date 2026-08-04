@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»",
+      "summary": "«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
       "summary": "El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.",
@@ -55,19 +60,14 @@
       "title": "Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos",
       "summary": "Un hombre, de 29 años , ha sido detenido en Laredo (Cantabria) por supuestamente agredir sexualmente esta madrugada a una mujer, después de que la víctima denunciara los hechos ante la Guardia Civil , según han informado a EFE fuentes de la investigación. La detención se ha producido pasadas las 14:00 horas en la estac.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta",
-      "summary": "El número de cadáveres recuperados en la costa de Ceuta tras la entrada masiva de 50.000 personas desde Marruecos en los últimos días ya asciende a 67 , según los datos facilitados por fuentes de la Delegación del Gobierno en la ciudad autónoma.Mientras tanto, la Guardia Civil mantiene un rastreo constante para localiz.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
-      "url": "https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T15:58:39.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»",
+      "url": "https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T23:57:25.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

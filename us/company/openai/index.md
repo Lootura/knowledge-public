@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.
+
+Date: 2026-08-04
 
 ### Ten advances in mathematics and theoretical computer science
 
@@ -34,4 +40,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [How do AI developers move forward after OpenAI hacking incident?](https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com) — 2026-08-04T01:34:05.000Z

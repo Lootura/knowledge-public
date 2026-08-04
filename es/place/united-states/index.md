@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
+
+Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
+
+Date: 2026-08-03
 
 ### El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla
 
@@ -17,12 +23,6 @@ Date: 2026-08-03
 ### Trump dice que Ormuz podría abrirse "mañana mismo"
 
 El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
-
-Date: 2026-08-03
-
-### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
-
-Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
 
 Date: 2026-08-03
 
@@ -70,6 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla](https://www.abc.es/espana/congresista-diazbalart-desmiente-eeuu-reconociera-soberania-marroqui-20260803204151-nt.html?utm_source=lootura.com) — 2026-08-03T19:48:26.000Z
-- [Trump dice que Ormuz podría abrirse "mañana mismo"](https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com) — 2026-08-03T20:03:18.000Z
 - [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z

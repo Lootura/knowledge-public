@@ -1,0 +1,40 @@
+{
+  "id": "usa-in-michigan",
+  "name": "In Michigan",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/in-michigan",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/in-michigan",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/in-michigan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/in-michigan/index.json",
+  "description": "Follow In Michigan, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+      "summary": "Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "In Michigan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Contentious Michigan Senate primary divides Democrats over direction of party",
+      "url": "https://www.pbs.org/newshour/show/contentious-michigan-senate-primary-divides-democrats-over-direction-of-party?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:25:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:11:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

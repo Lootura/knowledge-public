@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes
+
+A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.
+
+Date: 2026-08-04
 
 ### Aid worker describes crisis in Venezuela, one month after devastating earthquakes
 
@@ -62,12 +68,6 @@ Venezuela first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-08
 
-### A spirit of resilience helps Venezuelans face healthcare challenges after the quakes
-
-The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress. (Image credit: Family photo).
-
-Date: 2026-07-08
-
 ## Sources
 
-No public source links.
+- [U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes](https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html?utm_source=lootura.com) — 2026-08-04T00:55:34.000Z

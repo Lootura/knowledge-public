@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Fragmento del día: Caracas
+
+en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en conmemoración de los 81 años de la Guardia Nacional Bolivariana se produce un atentado con drones contra el presidente Nicolás Maduro.
+
+Date: 2026-08-04
 
 ### El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica
 
@@ -62,12 +68,6 @@ El presunto testaferro de Nicolás Maduro afronta varios cargos tras ser deporta
 
 Date: 2026-07-24
 
-### Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda
-
-El consejero delegado de Repsol , Josu Jon Imaz, ha reafirmado el compromiso de la compañía con su actividad en Venezuela y ha asegurado que el debate sobre la deuda histórica con la energética no se encuentra actualmente «sobre la mesa», siendo así actualmente la prioridad elevar la producción de hidrocarburos en el p.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Fragmento del día: Caracas](https://es.wikipedia.org/wiki/Caracas?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z

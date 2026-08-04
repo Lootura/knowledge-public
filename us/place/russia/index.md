@@ -3,20 +3,26 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### A Putin critic leaves Russia after he is barred from running for parliament
-
-"Good news: I'm alive and free. Unfortunately, not in Russia for the time being," opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.
-
-Date: 2026-08-03
-
 ### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
 
 Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
+
+Date: 2026-08-03
+
+### News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak
+
+In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.
+
+Date: 2026-08-03
+
+### A Putin critic leaves Russia after he is barred from running for parliament
+
+"Good news: I'm alive and free. Unfortunately, not in Russia for the time being," opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.
 
 Date: 2026-08-03
 
@@ -62,13 +68,8 @@ Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian 
 
 Date: 2026-07-24
 
-### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
-
-Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.
-
-Date: 2026-07-23
-
 ## Sources
 
+- [Feds charge ‘frustrated’ FBI agent they say stole nearly $1 million in crypto from Russia](https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674?utm_source=lootura.com) — 2026-08-03T22:06:11.000Z
 - [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z
-- [A Putin critic leaves Russia after he is barred from running for parliament](https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com) — 2026-08-03T15:06:06.000Z
+- [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z

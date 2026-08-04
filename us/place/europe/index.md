@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK](https://www.pbs.org/newshour/world/europes-hot-dry-summer-takes-its-toll-with-fires-in-france-and-greece-and-drought-in-the-uk?utm_source=lootura.com) — 2026-08-03T15:40:49.000Z
+No public source links.

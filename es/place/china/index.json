@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude",
+      "url": "https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:11:25.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,34 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter
+
+A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
+
+Date: 2026-08-03
+
+### Tamara Keith and Amy Walter on Democratic primary voters not playing it safe
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.
+
+Date: 2026-08-03
+
+### California Democrats Want to Tax Billionaires. They Can’t Agree on How.
+
+Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.
+
+Date: 2026-08-03
+
+### In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes
+
+Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.
+
+Date: 2026-08-03
 
 ### We’re about to find out how powerful progressives really are
 
@@ -17,12 +41,6 @@ Date: 2026-08-03
 ### Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat
 
 The divide between establishment and anti-establishment Democrats is on full display in Kansas ahead of Tuesday’s primary for governor. Kansas state Sen. Cindy Holscher (D) joins Meet the Press NOW to discuss her path to victory and the key issues facing Kansans.
-
-Date: 2026-08-03
-
-### Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter
-
-A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.
 
 Date: 2026-08-03
 
@@ -50,29 +68,10 @@ A dispute over the chapter between the author and the Democratic National Commit
 
 Date: 2026-08-03
 
-### Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party
-
-David Hogg, a survivor of the Parkland High School shooting who co-founded the progressive youth group Leaders We Deserve, is calling for radical change in the "geriatric" Democratic Party. (Image credit: Kimberly White).
-
-Date: 2026-08-03
-
-### Kansas Democrats Are Split on How to Keep the Governor’s Office
-
-In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.
-
-Date: 2026-08-03
-
-### Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?
-
-Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party](https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/?utm_source=lootura.com) — 2026-08-03T19:37:07.000Z
-- [Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat](https://www.nbcnews.com/meet-the-press/video/democratic-candidate-in-kansas-touts-mainstream-views-as-gop-look-to-flip-open-governor-seat-267696197559?utm_source=lootura.com) — 2026-08-03T20:36:01.000Z
-- [We’re about to find out how powerful progressives really are](https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095?utm_source=lootura.com) — 2026-08-03T09:45:00.000Z
+- [Rep. Haley Stevens on Israel, the Democratic Party and PAC money](https://www.cbsnews.com/video/rep-haley-stevens-on-israel-the-democratic-party-and-pac-money/?utm_source=lootura.com) — 2026-08-04T01:33:05.000Z
+- [Tamara Keith and Amy Walter on Democratic primary voters not playing it safe](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com) — 2026-08-03T22:20:42.000Z
 - [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T15:16:24.000Z
-- [California Democrats Support Billionaire Tax, but Debate Lingers](https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com) — 2026-08-03T20:58:39.000Z
-- [How a Centrist Split Boosted Progressive Hopes in a Democratic House Primary](https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com) — 2026-08-03T20:26:07.000Z
+- [California Democrats Want to Tax Billionaires. They Can’t Agree on How.](https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com) — 2026-08-03T22:31:51.000Z
+- [In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes](https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com) — 2026-08-03T22:11:33.000Z

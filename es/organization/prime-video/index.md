@@ -3,20 +3,20 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
 
-### No solo Kratos: la serie de ‘God of War’ planea reemplazar a más protagonistas
-
-La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente salida de Ryan Hurst del rol de Kratos debido a una seria lesión durante el rodaje.
-
-Date: 2026-08-03
-
 ### Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’
 
 Amazon MGM Studios y Henry Cavill siguen firmes con su intención de adaptar el universo Wharhammer 40k al mundo del cine y las series. Según reporta Variety, el estudio y el actor se encuentran a la cabeza de un nuevo proyecto de animación basado en la franquicia para Prime Video. Pese a que todavía no se han brindado.
+
+Date: 2026-08-03
+
+### No solo Kratos: la serie de ‘God of War’ planea reemplazar a más protagonistas
+
+La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente salida de Ryan Hurst del rol de Kratos debido a una seria lesión durante el rodaje.
 
 Date: 2026-08-03
 
@@ -46,5 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [No solo Kratos: la serie de ‘God of War’ planea reemplazar a más protagonistas](https://hipertextual.com/cine-television/serie-god-of-war-planea-reemplazar-mas-protagonistas/?utm_source=lootura.com) — 2026-08-03T13:57:21.000Z
 - [Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’](https://hipertextual.com/cine-television/amazon-henry-cavill-serie-animada-warhammer-40k/?utm_source=lootura.com) — 2026-08-03T17:01:29.000Z

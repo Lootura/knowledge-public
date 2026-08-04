@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
     {
-      "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
-      "summary": "Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.",
-      "date": "2026-08-03"
+      "title": "¡Al fin! Es la hora de la verdad",
+      "summary": "Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emergencia la dirige el Ministro del Interior y el General Jefe de la UME toma el mando operativo. Esto significa que el Gobierno de España entra de cabeza para tratar de resolver una emergencia grave que afecta a varias comunidades o es de extr.",
+      "date": "2026-08-04"
     },
     {
       "title": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras",
       "summary": "La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
+      "summary": "Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.",
       "date": "2026-08-03"
     },
     {
@@ -58,25 +63,20 @@
       "title": "Ceuta, la avalancha consentida",
       "summary": "La entrada de decenas de miles de marroquíes en Ceuta no ha respondido al patrón habitual de las mafias que trafican con personas, por mucho que Rabat se refugie en esa explicación y el Gobierno español no lo haya cuestionado. Esta vez el detonante ha sido otro . La rápida difusión de mensajes en las redes sociales ale.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta",
-      "summary": "El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
-    {
-      "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
-      "url": "https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:52:25.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
     {
       "title": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras",
       "url": "https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T12:13:54.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "¡Al fin! Es la hora de la verdad",
+      "url": "https://okdiario.com/baleares/fin-hora-verdad-19116280?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:00:30.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 2

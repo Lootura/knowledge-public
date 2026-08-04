@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,6 +43,11 @@
   ],
   "changes": [
     {
+      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
+      "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla",
       "summary": "El congresista republicano Mario Díaz-Balart , autor de un informe aprobado en abril por la Comisión de Asignaciones de la Cámara de Representantes de Estados Unidos que afirma que Ceuta y Melilla están «ubicadas en territorio marroquí» y que «siguen siendo objeto de la histórica reivindicación de Marruecos», rechaza q.",
       "date": "2026-08-03"
@@ -50,11 +55,6 @@
     {
       "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
-      "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
       "date": "2026-08-03"
     },
     {
@@ -95,23 +95,11 @@
   ],
   "sources": [
     {
-      "title": "El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla",
-      "url": "https://www.abc.es/espana/congresista-diazbalart-desmiente-eeuu-reconociera-soberania-marroqui-20260803204151-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:48:26.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
-      "url": "https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:03:18.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
       "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
       "url": "https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T18:40:11.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

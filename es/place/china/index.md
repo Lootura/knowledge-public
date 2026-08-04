@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude](https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com) — 2026-08-04T00:11:25.000Z

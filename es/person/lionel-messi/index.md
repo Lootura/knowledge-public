@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso](https://okdiario.com/deportes/jueza-eeuu-desestima-demanda-messi-estafar-siete-millones-euros-no-jugar-amistoso-19119580?utm_source=lootura.com) — 2026-08-03T17:30:03.000Z
+No public source links.

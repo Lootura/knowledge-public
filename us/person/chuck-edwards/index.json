@@ -1,0 +1,42 @@
+{
+  "id": "usa-chuck-edwards",
+  "name": "Chuck Edwards",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/chuck-edwards",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/chuck-edwards",
+  "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
+  "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "aliases": [
+    "Charles Marion Edwards"
+  ],
+  "changes": [
+    {
+      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+      "summary": "After a months-long investigation, the ethics committee recommended censure for Edwards because of \"persistent unprofessional and inappropriate conduct towards two young female staffers.\" (Image credit: Graeme Sloan).",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Chuck Edwards first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
+      "url": "https://www.cbsnews.com/news/chuck-edwards-house-ethics-committee-sexual-harassment-probe/?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:14:12.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T21:17:49.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

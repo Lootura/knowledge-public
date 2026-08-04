@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party](https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/?utm_source=lootura.com) — 2026-08-03T19:37:07.000Z
+- [Rep. Haley Stevens on Israel, the Democratic Party and PAC money](https://www.cbsnews.com/video/rep-haley-stevens-on-israel-the-democratic-party-and-pac-money/?utm_source=lootura.com) — 2026-08-04T01:33:05.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/human-services/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/human-services/index.json",
   "description": "Follow Human services, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Michigan reports two deaths linked to cyclosporiasis outbreak",
-      "summary": "Michigan's Department of Health and Human Services has reported that two people have died in connection to the outbreak of cyclosporiasis. NBC News medical contributor Dr. Natalie Azar has details on the disease and symptoms to watch for.",
+      "title": "Discovered by Atlas",
+      "summary": "Human services first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-03"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Human Services first entered the public knowledge record with source-backed evidence.",
+      "title": "Michigan reports two deaths linked to cyclosporiasis outbreak",
+      "summary": "Michigan's Department of Health and Human Services has reported that two people have died in connection to the outbreak of cyclosporiasis. NBC News medical contributor Dr. Natalie Azar has details on the disease and symptoms to watch for.",
       "date": "2026-08-03"
     }
   ],
@@ -33,13 +33,7 @@
       "url": "https://www.cbsnews.com/detroit/news/cyclosporiasis-cases-michigan-two-deaths/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T20:41:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Michigan reports two deaths linked to cyclosporiasis outbreak",
-      "url": "https://www.nbcnews.com/video/michigan-reports-two-deaths-linked-to-cyclosporiasis-outbreak-267679301828?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T16:02:54.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [Controversial White House plan to overhaul US science funding faces Senate opposition](https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com) — 2026-08-04T02:14:13.348Z

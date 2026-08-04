@@ -3,22 +3,10 @@
 > Sigue la actividad de Seguridad Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/seguridad-nacional
 
 ## Cambios recientes
-
-### Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma
-
-El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.
-
-Date: 2026-08-03
-
-### Moncloa destituye a la funcionaria que difundió la alerta sobre Ceuta del Departamento de Seguridad Nacional
-
-El Ejecutivo ha destituido con efecto inmediato a la funcionaria responsable de la difusión de las alertas informativas del Departamento de Seguridad Nacional (DSN) de la Presidencia del Gobierno, después de que el pasado viernes 31 de julio distribuyera una comunicación oficial en la que muy tempranamente se reconocía.
-
-Date: 2026-08-03
 
 ### Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos
 
@@ -50,11 +38,28 @@ Seguridad Nacional first entered the public knowledge record with source-backed 
 
 Date: 2026-08-03
 
+### El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta
+
+El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Seguir leyendo...
+
+Date: 2026-08-03
+
+### Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma
+
+El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.
+
+Date: 2026-08-03
+
+### Moncloa destituye a la funcionaria que difundió la alerta sobre Ceuta del Departamento de Seguridad Nacional
+
+El Ejecutivo ha destituido con efecto inmediato a la funcionaria responsable de la difusión de las alertas informativas del Departamento de Seguridad Nacional (DSN) de la Presidencia del Gobierno, después de que el pasado viernes 31 de julio distribuyera una comunicación oficial en la que muy tempranamente se reconocía.
+
+Date: 2026-08-03
+
 ## Fuentes
 
-- [Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma](https://www.20minutos.es/nacional/moncloa-cesa-una-funcionaria-seguridad-nacional-por-informar-entrada-49-000-migrantes-ceuta_7022249_0.html?utm_source=lootura.com) — 2026-08-03T20:09:24.000Z
-- [Moncloa destituye a la funcionaria que difundió la alerta sobre Ceuta del Departamento de Seguridad Nacional](https://www.abc.es/espana/moncloa-destituye-funcionaria-difundio-alerta-departamento-seguridad-20260803185021-nt.html?utm_source=lootura.com) — 2026-08-03T18:53:37.000Z
 - [Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos](https://amp.elmundo.es/espana/2026/08/03/6a70f7fdfc6c83246b8b45a7.html?utm_source=lootura.com) — 2026-08-03T20:20:16.000Z
 - [Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta](https://elpais.com/espana/2026-08-03/cese-fulminante-de-un-cargo-de-seguridad-nacional-por-informar-de-la-entrada-de-49000-inmigrantes-en-ceuta.html?utm_source=lootura.com) — 2026-08-03T17:41:41.000Z
+- [El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta](https://www.lavanguardia.com/politica/20260803/11607183/gobierno-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta.html?utm_source=lootura.com) — 2026-08-03T21:07:19.000Z
 - [Moncloa destituye a la jefa de prensa de Seguridad Nacional por alertar en la web sobre la invasión de Ceuta](https://okdiario.com/espana/moncloa-destituye-jefa-prensa-seguridad-nacional-informar-web-sobre-invasion-ceuta-19119921?utm_source=lootura.com) — 2026-08-03T20:30:41.000Z
 - [Moncloa fulmina a la funcionaria de Seguridad Nacional que dio el dato de las llegadas a Ceuta](https://theobjective.com/espana/politica/2026-08-03/moncloa-seguridad-nacional-ceuta/?utm_source=lootura.com) — 2026-08-03T20:05:53.000Z

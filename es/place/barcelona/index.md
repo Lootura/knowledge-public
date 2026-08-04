@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona](https://okdiario.com/deportes/sospechosa-actitud-julian-alvarez-que-mantiene-vilo-atletico-barcelona-19119995?utm_source=lootura.com) — 2026-08-03T18:54:40.000Z
+No public source links.

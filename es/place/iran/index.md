@@ -3,20 +3,20 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### El Ibex renueva sus máximos históricos cerca de los 20.000 puntos
-
-La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.
-
-Date: 2026-08-03
-
 ### Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo
 
 El presidente estadounidense arremete contra el régimen iraní después de que afirmara que "no está negociando" actualmente con Washington Leer.
+
+Date: 2026-08-03
+
+### El Ibex renueva sus máximos históricos cerca de los 20.000 puntos
+
+La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.
 
 Date: 2026-08-03
 
@@ -71,5 +71,3 @@ Date: 2026-08-03
 ## Fuentes
 
 - [Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo](https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com) — 2026-08-03T18:55:19.000Z
-- [El Ibex renueva sus máximos históricos cerca de los 20.000 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com) — 2026-08-03T15:40:47.000Z
-- [Trump dice que Ormuz podría abrirse "mañana mismo"](https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com) — 2026-08-03T20:03:18.000Z

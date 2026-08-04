@@ -3,7 +3,7 @@
 > Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/company/taylor-farms
 
 ## Recent changes

@@ -8,11 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
+      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
+      "summary": "Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+      "summary": "Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
+      "date": "2026-08-03"
+    },
     {
       "title": "We’re about to find out how powerful progressives really are",
       "summary": "Michigan is ground zero for the Democratic Party’s ideological war. Its marquee Senate race and two of its House primaries on Tuesday — in Michigan’s 7th and 13th Congressional Districts — will provide another crucial test of whether progressives can not only keep up their winning streak in safe-blue seats but also bre.",
@@ -21,11 +41,6 @@
     {
       "title": "Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat",
       "summary": "The divide between establishment and anti-establishment Democrats is on full display in Kansas ahead of Tuesday’s primary for governor. Kansas state Sen. Cindy Holscher (D) joins Meet the Press NOW to discuss her path to victory and the key issues facing Kansans.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
       "date": "2026-08-03"
     },
     {
@@ -47,41 +62,20 @@
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party",
-      "summary": "David Hogg, a survivor of the Parkland High School shooting who co-founded the progressive youth group Leaders We Deserve, is calling for radical change in the \"geriatric\" Democratic Party. (Image credit: Kimberly White).",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Kansas Democrats Are Split on How to Keep the Governor’s Office",
-      "summary": "In a conservative state with a history of electing Democratic governors, the debate over which brand of Democrat can win sounds different.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
-      "summary": "Several prominent Democrats already are running for mayor of Chicago. Mayor Brandon Johnson has not said whether he will seek a second term next year.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party",
-      "url": "https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:37:07.000Z",
+      "title": "Rep. Haley Stevens on Israel, the Democratic Party and PAC money",
+      "url": "https://www.cbsnews.com/video/rep-haley-stevens-on-israel-the-democratic-party-and-pac-money/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T01:33:05.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat",
-      "url": "https://www.nbcnews.com/meet-the-press/video/democratic-candidate-in-kansas-touts-mainstream-views-as-gop-look-to-flip-open-governor-seat-267696197559?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:36:01.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "We’re about to find out how powerful progressives really are",
-      "url": "https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:45:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:20:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
@@ -90,15 +84,15 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "California Democrats Support Billionaire Tax, but Debate Lingers",
+      "title": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
       "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:58:39.000Z",
+      "publishedAt": "2026-08-03T22:31:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "How a Centrist Split Boosted Progressive Hopes in a Democratic House Primary",
+      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:26:07.000Z",
+      "publishedAt": "2026-08-03T22:11:33.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

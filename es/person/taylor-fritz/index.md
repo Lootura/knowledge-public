@@ -3,7 +3,7 @@
 > Sigue la actividad de Taylor Fritz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/person/taylor-fritz
 
 ## Cambios recientes
@@ -65,6 +65,3 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Jódar choca con un gran Fritz en la final de Washington](https://www.abc.es/deportes/tenis/jodar-choca-gran-fritz-final-washington-20260803214751-nt.html?utm_source=lootura.com) — 2026-08-03T20:09:50.000Z
-- [Así queda el palmarés del ATP 500 de Washington y cuánto dinero ha ganado Rafa Jódar](https://okdiario.com/deportes/asi-queda-palmares-del-atp-500-washington-cuanto-dinero-ganado-rafa-jodar-19113494?utm_source=lootura.com) — 2026-08-03T19:45:55.000Z
-- [Rafa Jódar – Fritz desde Washington en directo: resultado final del ATP 500](https://okdiario.com/deportes/rafa-jodar-fritz-directo-hoy-donde-ver-ultima-hora-del-partido-final-del-atp-500-washington-2026-online-gratis-19113151?utm_source=lootura.com) — 2026-08-03T19:42:29.000Z
-- [Jódar sucumbe ante Fritz y se queda a las puertas de ganar su segundo título profesional](https://okdiario.com/deportes/jodar-sucumbe-fritz-queda-puertas-ganar-segundo-titulo-profesional-19120349?utm_source=lootura.com) — 2026-08-03T19:44:01.000Z

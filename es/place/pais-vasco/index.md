@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-24
 ## Fuentes
 
 - [Euskadi reforzará la prevención de la soledad no deseada a través de betiON](https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com) — 2026-08-03T10:56:47.000Z
-- [«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»](https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:49:49.000Z

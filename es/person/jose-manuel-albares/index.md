@@ -3,7 +3,7 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes

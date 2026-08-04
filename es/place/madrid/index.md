@@ -3,10 +3,16 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El Rayo cede y abrirá Vallecas a la Comunidad de Madrid, que ve difícil un regreso inmediato
+
+La reunión entre la Comunidad de Madrid y el Rayo Vallecano dejó este lunes el primer acercamiento entre ambas partes desde que estalló el conflicto por el estadio de Vallecas. El presidente del club, Raúl Martín Presa, acudió a la citación del consejero de Cultura, Turismo y Deporte, Mariano de Paco. Diez minutos desp.
+
+Date: 2026-08-04
 
 ### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
 
@@ -14,15 +20,15 @@ Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretar
 
 Date: 2026-08-03
 
-### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
-
-El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
-
-Date: 2026-08-03
-
 ### Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA
 
 El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.
+
+Date: 2026-08-03
+
+### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
+
+El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
 
 Date: 2026-08-03
 
@@ -62,14 +68,9 @@ El cocinero catalán desvela en el pódcast 'B3TTER' algunos episodios desconoci
 
 Date: 2026-08-03
 
-### El Rayo cede y abrirá Vallecas a la Comunidad de Madrid, que ve difícil un regreso inmediato
-
-La reunión entre la Comunidad de Madrid y el Rayo Vallecano dejó este lunes el primer acercamiento entre ambas partes desde que estalló el conflicto por el estadio de Vallecas. El presidente del club, Raúl Martín Presa, acudió a la citación del consejero de Cultura, Turismo y Deporte, Mariano de Paco. Diez minutos desp.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [Yasmin, la madrileña que lidera la selección de Marruecos](https://www.abc.es/deportes/futbol/yasmin-madrilena-lidera-seleccion-marruecos-20260804013506-nt.html?utm_source=lootura.com) — 2026-08-04T00:05:15.000Z
+- [El Rayo cede y abrirá Vallecas a la Comunidad de Madrid, que ve difícil un regreso inmediato](https://www.abc.es/deportes/futbol/rayo-cede-abrira-vallecas-comunidad-madrid-20260803153029-nt.html?utm_source=lootura.com) — 2026-08-04T00:10:25.000Z
 - [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
-- [El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez](https://theobjective.com/espana/2026-08-03/ayuso-marruecos-maniatado-sanchez/?utm_source=lootura.com) — 2026-08-03T13:59:13.000Z
 - [Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA](https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com) — 2026-08-03T20:57:00.000Z

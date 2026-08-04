@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T17:49:07.612Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
@@ -35,6 +40,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How do AI developers move forward after OpenAI hacking incident?",
+      "url": "https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T01:34:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

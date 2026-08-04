@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Trump claims Iran talks will start Monday, and 4 other developments in the Middle East](https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east?utm_source=lootura.com) — 2026-08-03T13:32:18.000Z
+No public source links.

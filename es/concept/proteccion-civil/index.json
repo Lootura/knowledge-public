@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T02:32:28.527Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "\"De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va\": el 'Perejil', señalado desde el chat del incendio de Ávila",
+      "summary": "Los bomberos y voluntarios de Protección Civil se llevaron las manos a la cabeza al comprobar el origen del fuego provocado en Burgohondo. Admitieron que se sabía que los ganaderos habían encargado esos trabajos ilegales Leer.",
+      "date": "2026-08-03"
+    },
     {
       "title": "Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno",
       "summary": "Poco a poco, la normalidad se está instalando nuevamente en Castilla y León en la lucha contra el fuego. A esta hora la situación está mejorando en general, sobre todo en Burgohondo (Ávila), aunque Protección Civil enviaba una nueva alerta ES-Alert para evacuar la urbanización La Picota, en La Adrada. El mensaje recibi.",
@@ -59,13 +64,15 @@
       "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
       "summary": "La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Bruselas manda cuatro aviones para combatir los incendios forestales en España",
-      "summary": "La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones para apoyar la lucha contra los incendios forestales en España, después de que el Gobierno solicitara la activación del Mecanismo de Protección Civil de la Unión Europea ante la gravedad de los fuegos que afectan especialmente a la Comunidad.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "\"De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va\": el 'Perejil', señalado desde el chat del incendio de Ávila",
+      "url": "https://www.elmundo.es/espana/2026/08/03/6a70b578e4d4d8c1468b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:40:38.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

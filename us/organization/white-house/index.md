@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Funding milestone detected
+
+Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.
+
+Date: 2026-08-04
+
+### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
+
+President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
+
+Date: 2026-08-04
 
 ### Funding milestone detected
 
@@ -56,18 +68,7 @@ Watch President Donald Trump’s full speech at the White House Correspondents�
 
 Date: 2026-07-25
 
-### Trump says 'a lot was learned' from White House Correspondents' Dinner shooting
-
-President Donald Trump thanks reporters and recalls the events of the night of the first White House Correspondents' Dinner earlier this year, where a gunman attempted to storm the room at the Washington Hilton.
-
-Date: 2026-07-25
-
-### Trump speaks at White House Correspondents' Dinner, in redo after April attack
-
-President Trump is attending the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Controversial White House plan to overhaul US science funding faces Senate opposition](https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com) — 2026-08-04T02:14:13.348Z
+- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T00:23:06.000Z

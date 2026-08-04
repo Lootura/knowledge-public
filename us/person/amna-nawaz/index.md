@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-01T13:14:47.199Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Tamara Keith and Amy Walter on Democratic primary voters not playing it safe
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.
+
+Date: 2026-08-03
 
 ### How Iranians are living through months of war and government crackdowns
 
@@ -52,4 +58,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Tamara Keith and Amy Walter on Democratic primary voters not playing it safe](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com) — 2026-08-03T22:20:42.000Z

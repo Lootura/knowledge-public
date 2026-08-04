@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-02T02:32:28.527Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### "De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va": el 'Perejil', señalado desde el chat del incendio de Ávila
+
+Los bomberos y voluntarios de Protección Civil se llevaron las manos a la cabeza al comprobar el origen del fuego provocado en Burgohondo. Admitieron que se sabía que los ganaderos habían encargado esos trabajos ilegales Leer.
+
+Date: 2026-08-03
 
 ### Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno
 
@@ -62,12 +68,6 @@ La Comisión Europea ha explicado este viernes que recibió el jueves por la noc
 
 Date: 2026-07-24
 
-### Bruselas manda cuatro aviones para combatir los incendios forestales en España
-
-La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones para apoyar la lucha contra los incendios forestales en España, después de que el Gobierno solicitara la activación del Mecanismo de Protección Civil de la Unión Europea ante la gravedad de los fuegos que afectan especialmente a la Comunidad.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- ["De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va": el 'Perejil', señalado desde el chat del incendio de Ávila](https://www.elmundo.es/espana/2026/08/03/6a70b578e4d4d8c1468b459b.html?utm_source=lootura.com) — 2026-08-03T20:40:38.000Z

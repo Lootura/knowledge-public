@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "startup funding"
   ],
@@ -34,6 +34,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Controversial White House plan to overhaul US science funding faces Senate opposition",
+      "url": "https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:14:13.348Z",
+      "sourceId": "lootura-us-nature"
+    }
+  ],
   "evidenceCount": 0
 }

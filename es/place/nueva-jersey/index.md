@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles
+
+La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.
+
+Date: 2026-08-03
 
 ### La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición
 
@@ -46,4 +52,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles](https://www.expansion.com/economia/2026/08/04/6a712345468aeb940c8b45a2.html?utm_source=lootura.com) — 2026-08-03T23:28:59.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
+
+«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
+
+Date: 2026-08-03
 
 ### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
 
@@ -62,12 +68,6 @@ Un hombre, de 29 años , ha sido detenido en Laredo (Cantabria) por supuestament
 
 Date: 2026-08-02
 
-### Ascienden a 67 los inmigrantes muertos recuperados en la costa de Ceuta
-
-El número de cadáveres recuperados en la costa de Ceuta tras la entrada masiva de 50.000 personas desde Marruecos en los últimos días ya asciende a 67 , según los datos facilitados por fuentes de la Delegación del Gobierno en la ciudad autónoma.Mientras tanto, la Guardia Civil mantiene un rastreo constante para localiz.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino](https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com) — 2026-08-03T15:58:39.000Z
+- [Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»](https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com) — 2026-08-03T23:57:25.000Z

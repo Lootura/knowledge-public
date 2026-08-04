@@ -1,59 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T21:10:54.163Z",
+  "generatedAt": "2026-08-04T02:25:49.638Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|59|1785790794319",
+    "signature": "1.18.0|60|1785809626428",
     "version": "1.18.0",
-    "build": 59,
-    "latestEntityUpdatedAt": "2026-08-03T20:59:54.319Z"
+    "build": 60,
+    "latestEntityUpdatedAt": "2026-08-04T02:13:46.428Z"
   },
   "atlas": {
     "hero": {
       "id": "es-seguridad-nacional",
       "name": "Seguridad Nacional",
       "type": "organization",
-      "title": "Moncloa destituye a la jefa de prensa de Seguridad Nacional por alertar en la web sobre la invasión de Ceuta",
+      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
       "url": "https://atlas.lootura.com/es/organization/seguridad-nacional",
       "path": "/es/organization/seguridad-nacional",
-      "updatedAt": "2026-08-03T20:59:54.319Z",
-      "score": 11604,
-      "sourceCount": 6,
+      "updatedAt": "2026-08-04T02:13:46.428Z",
+      "score": 11603,
+      "sourceCount": 7,
       "isBreaking": true,
       "isPinned": false,
       "badgeLabel": "Breaking"
     },
     "cards": [
-      {
-        "id": "es-comision-europea",
-        "name": "Comisión Europea",
-        "type": "organization",
-        "title": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
-        "url": "https://atlas.lootura.com/es/organization/comision-europea",
-        "path": "/es/organization/comision-europea",
-        "updatedAt": "2026-08-03T20:59:54.319Z",
-        "score": 1687,
-        "sourceCount": 18,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-taylor-fritz",
-        "name": "Taylor Fritz",
-        "type": "person",
-        "title": "World Cup context updated",
-        "url": "https://atlas.lootura.com/es/person/taylor-fritz",
-        "path": "/es/person/taylor-fritz",
-        "updatedAt": "2026-08-03T20:59:54.319Z",
-        "score": 1685,
-        "sourceCount": 8,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-espana",
         "name": "España",
@@ -61,9 +35,9 @@
         "title": "Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-03T20:59:54.319Z",
-        "score": 1661,
-        "sourceCount": 736,
+        "updatedAt": "2026-08-04T02:13:46.428Z",
+        "score": 1644,
+        "sourceCount": 745,
         "isBreaking": false,
         "isPinned": false
       },
@@ -74,9 +48,35 @@
         "title": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-03T20:59:54.319Z",
-        "score": 1645,
-        "sourceCount": 281,
+        "updatedAt": "2026-08-04T02:13:46.428Z",
+        "score": 1638,
+        "sourceCount": 282,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-taylor-fritz",
+        "name": "Taylor Fritz",
+        "type": "person",
+        "title": "World Cup context updated",
+        "url": "https://atlas.lootura.com/es/person/taylor-fritz",
+        "path": "/es/person/taylor-fritz",
+        "updatedAt": "2026-08-04T02:13:46.428Z",
+        "score": 1638,
+        "sourceCount": 8,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-comision-europea",
+        "name": "Comisión Europea",
+        "type": "organization",
+        "title": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
+        "url": "https://atlas.lootura.com/es/organization/comision-europea",
+        "path": "/es/organization/comision-europea",
+        "updatedAt": "2026-08-04T02:13:46.428Z",
+        "score": 1632,
+        "sourceCount": 18,
         "isBreaking": false,
         "isPinned": false
       }

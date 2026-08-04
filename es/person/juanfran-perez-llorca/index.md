@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Generalitat resuelve 102 expedientes y elimina la espera del grado máximo de dependencia de ELA](https://okdiario.com/comunidad-valenciana/generalitat-resuelve-102-expedientes-elimina-espera-del-grado-maximo-dependencia-ela-19119219?utm_source=lootura.com) — 2026-08-03T17:38:21.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,11 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.",
+      "date": "2026-08-04"
+    },
     {
       "title": "For those with criminal records, AI is breaking down barriers to employment",
       "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before. (Image credit: Meredith Rizzo for NPR).",
@@ -71,19 +76,14 @@
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
       "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently , pouring more fuel on an.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "AI use mirrors student schedules in study of 77,000 online learners",
-      "summary": "How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study \"Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis,\" the research team led by Prof. Dr.-.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Want to get more from AI? Treat every prompt like an experiment",
-      "url": "https://www.nature.com/articles/d41586-026-02083-6?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T21:00:21.856Z",
-      "sourceId": "lootura-us-nature"
+      "title": "How do AI developers move forward after OpenAI hacking incident?",
+      "url": "https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T01:34:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "For those with criminal records, AI is breaking down barriers to employment",

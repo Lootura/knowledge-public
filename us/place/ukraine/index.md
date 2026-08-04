@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
 
 Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
+
+Date: 2026-08-03
+
+### News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak
+
+In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.
 
 Date: 2026-08-03
 
@@ -62,12 +68,7 @@ Kyiv said the strikes had killed four people, and the city's mayor reported 15 p
 
 Date: 2026-08-01
 
-### Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge
-
-It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.
-
-Date: 2026-08-01
-
 ## Sources
 
 - [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z
+- [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z

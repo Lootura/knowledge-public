@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-08-02
 
 - [Spain to put containment fence around Ceuta after deadly border rush from Morocco](https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com) — 2026-08-03T19:39:31.000Z
 - [Total solar eclipse will sweep over Spain, Iceland and Greenland in August](https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com) — 2026-08-03T17:40:47.000Z
-- [Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest](https://phys.org/news/2026-08-homo-antecessor-skull-layers-resemble.html?utm_source=lootura.com) — 2026-08-03T20:00:03.000Z

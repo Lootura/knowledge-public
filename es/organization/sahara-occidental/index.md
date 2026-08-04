@@ -3,7 +3,7 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes

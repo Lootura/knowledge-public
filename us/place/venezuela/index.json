@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+      "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
       "summary": "Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.",
@@ -59,13 +64,15 @@
       "title": "Discovered by Atlas",
       "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-08"
-    },
-    {
-      "title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
-      "summary": "The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress. (Image credit: Family photo).",
-      "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+      "url": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:55:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

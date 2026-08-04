@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Ariana Grande withdraws from London musical and 'will be taking a step back' from the public eye](https://www.pbs.org/newshour/arts/ariana-grande-withdraws-from-london-musical-and-will-be-taking-a-step-back-from-the-public-eye?utm_source=lootura.com) — 2026-08-03T14:09:27.000Z
+No public source links.

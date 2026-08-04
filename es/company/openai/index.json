@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude",
+      "url": "https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:11:25.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

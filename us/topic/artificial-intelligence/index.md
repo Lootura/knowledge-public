@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.
+
+Date: 2026-08-04
 
 ### For those with criminal records, AI is breaking down barriers to employment
 
@@ -62,13 +68,7 @@ Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fende
 
 Date: 2026-08-02
 
-### AI use mirrors student schedules in study of 77,000 online learners
-
-How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis," the research team led by Prof. Dr.-.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Want to get more from AI? Treat every prompt like an experiment](https://www.nature.com/articles/d41586-026-02083-6?utm_source=lootura.com) — 2026-08-03T21:00:21.856Z
+- [How do AI developers move forward after OpenAI hacking incident?](https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com) — 2026-08-04T01:34:05.000Z
 - [For those with criminal records, AI is breaking down barriers to employment](https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate?utm_source=lootura.com) — 2026-08-03T09:42:28.000Z

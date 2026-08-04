@@ -34,4 +34,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Eusebio: «La Real Sociedad no tiene techo, debe seguir queriendo ganarlo todo»](https://www.diariovasco.com/real-sociedad/eusebio-real-sociedad-techo-debe-seguir-queriendo-20260803234554-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:45:54.000Z
+No public source links.

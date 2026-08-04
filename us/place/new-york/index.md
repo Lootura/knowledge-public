@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T06:57:18.675Z
+- Updated: 2026-08-04T02:14:09.197Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [N.Y. Law Barring ICE Agents From Wearing Masks Is Blocked by Judge](https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html?utm_source=lootura.com) — 2026-08-03T22:17:01.000Z

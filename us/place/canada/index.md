@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- ['Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record](https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million?utm_source=lootura.com) — 2026-08-03T14:55:32.000Z
+No public source links.

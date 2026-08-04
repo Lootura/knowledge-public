@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»](https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com) — 2026-08-03T18:53:27.000Z
+No public source links.

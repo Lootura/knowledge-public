@@ -12,29 +12,29 @@
 
 ## Latest entities — US
 
-- [Acting Attorney General](https://atlas.lootura.com/us/person/acting-attorney-general): Follow Acting Attorney General, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Ariana Grande](https://atlas.lootura.com/us/person/ariana-grande): Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Amna Nawaz](https://atlas.lootura.com/us/person/amna-nawaz): Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Benjamin Netanyahu](https://atlas.lootura.com/us/person/benjamin-netanyahu): Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Bernie Moreno](https://atlas.lootura.com/us/person/bernie-moreno): Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Chuck Edwards](https://atlas.lootura.com/us/person/chuck-edwards): Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic National Committee](https://atlas.lootura.com/us/person/democratic-national-committee): Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Senate](https://atlas.lootura.com/us/organization/democratic-senate): Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
-- [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Asuntos Exteriores](https://atlas.lootura.com/es/person/asuntos-exteriores): Sigue la actividad de Asuntos Exteriores en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [mansión exclusiva](https://atlas.lootura.com/es/object/casa-blanca): Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Comisión Europea](https://atlas.lootura.com/es/organization/comision-europea): Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [España](https://atlas.lootura.com/es/place/espana): Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Federación Internacional de Fútbol Asociación](https://atlas.lootura.com/es/organization/fifa): Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Gobierno de España](https://atlas.lootura.com/es/organization/gobierno-de-espana): Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -16,6 +16,21 @@
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Pogacar se apunta a La Vuelta para completar su estratosférico palmarés",
+      "summary": "El verano español ya tiene su regalo. El UAE Team Emirates-XRG confirmó este lunes por la mañana que Tadej Pogacar , de 27 años, disputará la Vuelta a España 2026, encadenándola con el quinto Tour de Francia que acaba de conquistar, y regresará así a la ronda española por primera vez desde 2019, hasta ahora su única pa.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "¡Al fin! Es la hora de la verdad",
+      "summary": "Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emergencia la dirige el Ministro del Interior y el General Jefe de la UME toma el mando operativo. Esto significa que el Gobierno de España entra de cabeza para tratar de resolver una emergencia grave que afecta a varias comunidades o es de extr.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Los animales que nos comemos se alimentan con soja, pero hay alternativas más sostenibles",
+      "summary": "El pienso para gallinas actual está fabricado con un alto porcentaje de soja. Arisa Chattasa / Unsplash , CC BY-SA España es el primer productor de piensos de Europa : 27 millones de toneladas anuales, con Cataluña como la principal región productora (16 % de la producción estatal). ¿Pero de dónde salen los ingrediente.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España",
       "summary": "3.000 militares y policías blindan la ciudad, donde cientos de migrantes aún se ocultan y buscan a sus allegados.",
@@ -27,28 +42,8 @@
       "date": "2026-08-03"
     },
     {
-      "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
-      "summary": "Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras",
       "summary": "La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
-      "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España",
-      "summary": "El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Pollen Street crea un gigante inmobiliario en España al comprar Servihabitat y sumarlo a Hipoges y Finsolutia",
-      "summary": "El sector de la gestión inmobiliaria para bancos y fondos de inversión continúa en su carrera por la concentración en unas pocas manos. El fondo británico Pollen Street acaba de llegar a un acuerdo con Lone Star para comprar Servihabitat, la histórica inmobiliaria de CaixaBank creada en los 90, por lo que se convertirá.",
       "date": "2026-08-03"
     },
     {
@@ -62,8 +57,13 @@
       "date": "2026-08-03"
     },
     {
-      "title": "El monte ceutí, escondite de los inmigrantes que no quieren volver",
-      "summary": "Hace días que el monte de Ceuta es también refugio de vida humana . Las calles todavía no están vacías después de la llegada masiva de inmigrantes y muchos han retornado a la frontera, pero otros tantos se esconden y tratan de burlar las redadas del Ejército para quedarse en España. Se han alejado del centro, de las zo.",
+      "title": "España se cuelga la plata por equipos en la rutina libre de los Europeos de natación artística",
+      "summary": "El combinado nacional consigue la quinta medalla del campeonato. Esta mañana sumaba los bronces de Jordi Cáceres e Iris Tió Leer.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Ramón García habla sobre su futuro y confiesa su asignatura pendiente en televisión: \"Me hubiese gustado hacerlo en la tele\"",
+      "summary": "Ramón García es uno de los presentadores más completos de la televisión en España, además de ser uno de los más queridos. El vasco ha demostrado a lo largo de los años que no hay formato que se le resista : desde la adrenalina estival de 'El Grand Prix' hasta las emociones a flor de piel en 'En compañía', pasando por l.",
       "date": "2026-08-03"
     }
   ],
@@ -75,16 +75,10 @@
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El monte ceutí, escondite de los inmigrantes que no quieren volver",
-      "url": "https://www.abc.es/espana/monte-ceuti-escondite-inmigrantes-quieren-volver-gente-20260802012133-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T18:51:32.000Z",
+      "title": "Pogacar se apunta a La Vuelta para completar su estratosférico palmarés",
+      "url": "https://www.abc.es/deportes/ciclismo/pogacar-correra-vuelta-unico-grande-falta-palmares-20260803110014-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:10:43.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Pollen Street crea un gigante inmobiliario en España al comprar Servihabitat y sumarlo a Hipoges y Finsolutia",
-      "url": "https://cincodias.elpais.com/companias/2026-08-03/pollen-street-crea-un-gigante-inmobiliario-en-espana-al-comprar-servihabitat-y-sumarlo-a-hipoges-y-finsolutia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T14:52:43.000Z",
-      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "Ceuta alcanza un centenar de muertos y es ya la mayor tragedia migratoria en España",
@@ -93,15 +87,21 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
-      "url": "https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:52:25.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
+      "title": "La creación de hogares desborda la construcción de vivienda nueva por sexto año consecutivo y el déficit supera ya las 800.000 casas",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/08/03/6a706eb4e9cf4a641c8b458c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:40:26.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "España se cuelga la plata por equipos en la rutina libre de los Europeos de natación artística",
       "url": "https://www.elmundo.es/deportes/mas-deporte/2026/08/03/6a707690fdddffcd128b456d.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T11:32:23.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "120 horas sin explicación al mayor \"ataque a la integridad de España\": división en el Gobierno, silencio sobre Marruecos y una inocente destituida",
+      "url": "https://amp.elmundo.es/espana/2026/08/03/6a70ed2ee9cf4a1b358b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:41:05.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -123,11 +123,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Ramón García habla sobre su futuro y confiesa su asignatura pendiente en televisión: \"Me hubiese gustado hacerlo en la tele\"",
-      "url": "https://www.larazon.es/television/programas/ramon-garcia-futuro-asignatura-pendiente-television_202608036a70fcada046ad6ebc9a2673.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:40:13.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Marruecos niega “presiones y chantajes” en la crisis de Ceuta y culpa a la sentencia del Supremo",
+      "url": "https://elpais.com/espana/2026-08-03/marruecos-niega-presiones-y-chantajes-en-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T21:10:38.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 16
 }

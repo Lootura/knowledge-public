@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
 
 La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.
+
+Date: 2026-08-03
+
+### Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia
+
+El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.
 
 Date: 2026-08-03
 
@@ -62,13 +68,7 @@ Nueva jornada de la liga Eusko Label de remo.
 
 Date: 2026-07-25
 
-### Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40
-
-El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vida al hospital, donde falleció a causa de las graves lesiones sufridas.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia](https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:08:37.000Z
 - [El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»](https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com) — 2026-08-03T19:02:29.000Z
-- [La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse](https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com) — 2026-08-02T21:51:57.000Z

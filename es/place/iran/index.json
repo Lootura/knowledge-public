@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,13 +19,13 @@
   ],
   "changes": [
     {
-      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
-      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
+      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
+      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
       "date": "2026-08-03"
     },
     {
-      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
-      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
+      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
+      "summary": "La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.",
       "date": "2026-08-03"
     },
     {
@@ -75,19 +75,7 @@
       "url": "https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T18:55:19.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Ibex renueva sus máximos históricos cerca de los 20.000 puntos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T15:40:47.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
-      "url": "https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:03:18.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -26,6 +26,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
+      "summary": "La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.",
+      "date": "2026-08-03"
+    },
     {
       "title": "La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición",
       "summary": "El pasado domingo, Carlos Alcaraz irrumpió en el MetLife Stadium de Nueva Jersey envuelto en un traje de color marfil y portando un cofrecillo en cuyo interior se ocultaba la Copa del Mundo de fútbol. También, con una sonrisa de oreja a oreja. Magnífica señal en un deportista especial y diferente, que vive, sueña y com.",
@@ -57,6 +62,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
+      "url": "https://www.expansion.com/economia/2026/08/04/6a712345468aeb940c8b45a2.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T23:28:59.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

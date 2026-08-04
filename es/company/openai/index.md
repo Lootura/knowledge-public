@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude](https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com) — 2026-08-04T00:11:25.000Z

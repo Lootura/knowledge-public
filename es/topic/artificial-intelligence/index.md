@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Europa obligará a marcar todo el contenido creado por inteligencia artificial](https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-transparencia/?utm_source=lootura.com) — 2026-08-03T19:36:22.000Z
+- [Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude](https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com) — 2026-08-04T00:11:25.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -23,6 +23,11 @@
     {
       "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
       "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia",
+      "summary": "El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.",
       "date": "2026-08-03"
     },
     {
@@ -64,24 +69,19 @@
       "title": "En directo, la bandera Fabrika en San Sebastián",
       "summary": "Nueva jornada de la liga Eusko Label de remo.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Fallece una joven de 16 años en Donostia tras sufrir un accidente de moto en la GI-40",
-      "summary": "El siniestro se produjo el jueves por la tarde y la joven fue trasladada con vida al hospital, donde falleció a causa de las graves lesiones sufridas.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
-      "url": "https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:02:29.000Z",
+      "title": "Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia",
+      "url": "https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:08:37.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse",
-      "url": "https://www.diariovasco.com/gipuzkoa/historia/historia-oculta-tres-bailarinas-miles-donostiarras-ven-20260803235157-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T21:51:57.000Z",
+      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
+      "url": "https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T19:02:29.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],

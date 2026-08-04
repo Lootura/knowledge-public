@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T20:59:54.319Z",
+  "updatedAt": "2026-08-04T02:13:46.428Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -80,13 +80,7 @@
       "url": "https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T10:56:47.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "«Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»",
-      "url": "https://www.diariovasco.com/sociedad/mujeres-afganistan-derecho-vivir-huir-20260803234949-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-02T21:49:49.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

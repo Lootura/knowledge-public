@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21](https://elpais.com/economia/2026-08-03/muere-pablo-vazquez-asesor-de-feijoo-y-presidente-del-think-tank-del-pp-reformismo-21.html?utm_source=lootura.com) — 2026-08-03T15:13:28.000Z
+No public source links.

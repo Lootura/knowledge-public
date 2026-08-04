@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T06:57:18.675Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,16 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
+      "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
@@ -57,18 +67,21 @@
       "title": "Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner",
       "summary": "Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump says 'a lot was learned' from White House Correspondents' Dinner shooting",
-      "summary": "President Donald Trump thanks reporters and recalls the events of the night of the first White House Correspondents' Dinner earlier this year, where a gunman attempted to storm the room at the Washington Hilton.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Trump speaks at White House Correspondents' Dinner, in redo after April attack",
-      "summary": "President Trump is attending the redo of the White House Correspondents' Dinner on Friday night, after an armed assailant upended April's dinner.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Controversial White House plan to overhaul US science funding faces Senate opposition",
+      "url": "https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:14:13.348Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:23:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

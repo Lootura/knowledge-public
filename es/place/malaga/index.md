@@ -3,20 +3,20 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
 
-### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
-
-El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
-
-Date: 2026-08-03
-
 ### Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga
 
 La Policía ha detenido a 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga (Málaga) -que en ediciones anteriores se ha celebrado en Almería- por su presunta implicación en delitos contra la salud pública, alteración del orden público y reclamación judicial. El festival, que reunió a miles de a.
+
+Date: 2026-08-03
+
+### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
+
+El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
 
 Date: 2026-08-03
 
@@ -71,4 +71,3 @@ Date: 2026-07-23
 ## Fuentes
 
 - [Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga](https://theobjective.com/sociedad/suceso/2026-08-03/detenidas-23-personas-festival-dreambeach-malaga/?utm_source=lootura.com) — 2026-08-03T19:15:38.000Z
-- [Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino](https://theobjective.com/sociedad/suceso/2026-08-03/detenido-muerte-vecino-coin-malaga-2020-descuartizo/?utm_source=lootura.com) — 2026-08-03T15:58:39.000Z

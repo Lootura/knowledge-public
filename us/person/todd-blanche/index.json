@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
-      "date": "2026-08-03"
-    },
     {
       "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
       "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
@@ -40,6 +35,21 @@
       "date": "2026-08-03"
     },
     {
+      "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
+      "summary": "Acting Attorney General Todd Blanche cleared a major hurdle in his push to permanently lead the Department of Justice. He reached a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is scrapping a $1.8 billion \"anti-weaponization\" fund that could have provide.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+      "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "NATO spending pressure returned",
       "summary": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
       "date": "2026-08-03"
@@ -52,16 +62,6 @@
     {
       "title": "Republican holdouts say they will back Todd Blanche for attorney general",
       "summary": "Move comes after Blanche gives senators written assurance he will drop Trump’s $1.8bn anti-weaponization fund Two Republican senators who threatened to block Todd Blanche’s bid to permanently become attorney general announced they will advance his nomination after he confirmed in writing that a planned $1.8bn slush fun.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
-      "summary": "Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination",
-      "summary": "Acting Attorney General Todd Blanche’s nomination appears to be back on track after he announced a key decision to satisfy two Republican holdouts in the Senate who said they could not support his confirmation until the “anti-weaponization” fund was rescinded in writing. Now, Blanche posted an order establishing, “Beyo.",
       "date": "2026-08-03"
     }
   ],
@@ -85,10 +85,16 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid",
-      "url": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T13:42:30.000Z",
+      "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
+      "url": "https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:55:51.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+      "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T23:02:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
@@ -97,5 +103,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

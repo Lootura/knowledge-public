@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [How a community rallied around a little girl and her love for roosters](https://www.cbsnews.com/video/how-a-community-rallied-around-a-little-girl-and-her-love-for-roosters/?utm_source=lootura.com) — 2026-08-03T14:11:04.000Z
+No public source links.

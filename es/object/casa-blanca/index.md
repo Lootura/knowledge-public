@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Trump dice que Ormuz podría abrirse "mañana mismo"](https://www.larazon.es/internacional/trump-dice-que-ormuz-podria-abrirse-manana-mismo_202608036a70f406a046ad6ebc9a15a2.html?utm_source=lootura.com) — 2026-08-03T20:03:18.000Z
+No public source links.

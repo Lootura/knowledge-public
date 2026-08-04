@@ -1,0 +1,75 @@
+# Tribunal Supremo
+
+> Sigue la actividad de Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+
+- Type: organization
+- Actualizado: 2026-08-04T02:13:46.428Z
+- Canonical: https://atlas.lootura.com/es/organization/tribunal-supremo
+
+## Cambios recientes
+
+### 120 horas sin explicación al mayor "ataque a la integridad de España": división en el Gobierno, silencio sobre Marruecos y una inocente destituida
+
+Que las mafias hicieron una lectura «interesada» de la sentencia del Tribunal Supremo que prohíbe devolver en caliente a quienes entran irregularmente a nado. Más de...
+
+Date: 2026-08-03
+
+### Marruecos asegura que avisó a España días antes de la crisis de que el fallo del Supremo ponía en riesgo la cooperación migratoria
+
+Marruecos asegura que avisó a España días antes de la crisis migratoria registrada en Ceuta de que la reciente sentencia del Tribunal Supremo sobre las devoluciones de inmigrantes debilitaba un elemento «crucial» de la cooperación migratoria entre ambos países. Así lo afirma una fuente del Ministerio de Exteriores marr.
+
+Date: 2026-08-03
+
+### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
+
+Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
+
+Date: 2026-08-02
+
+### Los líderes de 22 países europeos vinculan la crisis con el efecto llamada por la regularización
+
+Los líderes de 22 países europeos han advertido de que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» y han vinculado la crisis en Ceuta con la reciente sentencia del Tribunal Supremo que confirmó que la legislación española de extranjería no permit.
+
+Date: 2026-08-01
+
+### Carlos Sobera presentará el concurso del rosco de Telecinco
+
+Comienza la cuenta atrás para ver el rosco de nuevo en Telecinco, que se desvinculó forzosamente del 'Pasapalabra' de Antena 3 tras una sentencia del Tribunal Supremo a finales de mayo al considerar que vulneraba los derechos de propiedad intelectual de la productora MC&F, la compañía holandesa a la que pertenece la ru.
+
+Date: 2026-07-25
+
+### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
+
+Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
+
+Date: 2026-07-24
+
+### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
+
+Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
+
+Date: 2026-07-23
+
+### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
+
+La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
+
+Date: 2026-07-23
+
+### Discovered by Atlas
+
+Tribunal Supremo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### La Sala de lo Militar contradice al fiscal y archiva la denuncia del general Mora
+
+La Sala de lo Militar del Tribunal Supremo ha decidido archivar la denuncia que interpuso el general de División de la Guardia Civil Fernando Mora —desvelada por ABC— contra el teniente general Mando de Operaciones (MOPS), Luis del Castillo Ruano, por la orden que recibió de no acudir al acto del Día de la Comunidad de.
+
+Date: 2026-07-22
+
+## Fuentes
+
+- [Marruecos dice que avisó a España de que la decisión del Supremo podía afectar al control de la inmigración](https://www.20minutos.es/internacional/marruecos-dice-que-aviso-espana-que-decision-supremo-sobre-las-devoluciones-podia-afectar-control-migratorio_7022256_0.html?utm_source=lootura.com) — 2026-08-03T20:33:10.000Z
+- [120 horas sin explicación al mayor "ataque a la integridad de España": división en el Gobierno, silencio sobre Marruecos y una inocente destituida](https://amp.elmundo.es/espana/2026/08/03/6a70ed2ee9cf4a1b358b4588.html?utm_source=lootura.com) — 2026-08-03T20:41:05.000Z
+- [Marruecos asegura que avisó a España días antes de la crisis de que el fallo del Supremo ponía en riesgo la cooperación migratoria](https://okdiario.com/espana/marruecos-asegura-que-aviso-espana-dias-antes-crisis-que-fallo-del-supremo-ponia-riesgo-cooperacion-migratoria-19120714?utm_source=lootura.com) — 2026-08-03T21:18:44.000Z

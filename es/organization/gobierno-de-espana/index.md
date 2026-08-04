@@ -3,20 +3,26 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
 
-### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
+### ¡Al fin! Es la hora de la verdad
 
-Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.
+Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emergencia la dirige el Ministro del Interior y el General Jefe de la UME toma el mando operativo. Esto significa que el Gobierno de España entra de cabeza para tratar de resolver una emergencia grave que afecta a varias comunidades o es de extr.
 
-Date: 2026-08-03
+Date: 2026-08-04
 
 ### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
 
 La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
+
+Date: 2026-08-03
+
+### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
+
+Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.
 
 Date: 2026-08-03
 
@@ -62,13 +68,7 @@ La entrada de decenas de miles de marroquíes en Ceuta no ha respondido al patr�
 
 Date: 2026-08-02
 
-### Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta
-
-El presidente del Gobierno de España, Pedro Sánchez, ha acusado a varios gobiernos europeos de actuar en la crisis de Ceuta movidos por el “prejuicio, las noticias falsas, la ignorancia o el interés político” y calificó su respuesta a la situación migratoria en la ciudad autónoma española de “egoísta, polarizadora e il.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun](https://www.diariovasco.com/politica/gobierno-vasco-crisis-ceuta-irun-20260803115153-nt_amp.html?utm_source=lootura.com) — 2026-08-03T09:52:25.000Z
 - [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
+- [¡Al fin! Es la hora de la verdad](https://okdiario.com/baleares/fin-hora-verdad-19116280?utm_source=lootura.com) — 2026-08-04T02:00:30.000Z

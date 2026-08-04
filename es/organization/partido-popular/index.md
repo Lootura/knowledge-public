@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T02:13:46.428Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,7 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»](https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html?utm_source=lootura.com) — 2026-08-03T18:53:27.000Z
-- [Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21](https://elpais.com/economia/2026-08-03/muere-pablo-vazquez-asesor-de-feijoo-y-presidente-del-think-tank-del-pp-reformismo-21.html?utm_source=lootura.com) — 2026-08-03T15:13:28.000Z
-- [El Cermi “confía” en que el PP "entre en el acuerdo· de reforma de las leyes de discapacidad y dependencia para “hacerla más perfecta”](https://www.elconfidencial.com/espana/2026-08-03/discapacidad-reforma-ley-dependencia-1hms-1svm_4400320/?utm_source=lootura.com) — 2026-08-03T15:19:00.000Z
 - [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z

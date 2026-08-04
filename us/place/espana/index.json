@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "España",
     "Estado español",
@@ -78,13 +78,7 @@
       "url": "https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com",
       "publishedAt": "2026-08-03T17:40:47.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest",
-      "url": "https://phys.org/news/2026-08-homo-antecessor-skull-layers-resemble.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

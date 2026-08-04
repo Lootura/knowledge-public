@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-04T02:14:09.197Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
     {
-      "title": "A Putin critic leaves Russia after he is barred from running for parliament",
-      "summary": "\"Good news: I'm alive and free. Unfortunately, not in Russia for the time being,\" opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.",
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
       "date": "2026-08-03"
     },
     {
-      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
-      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
+      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
+      "summary": "In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "A Putin critic leaves Russia after he is barred from running for parliament",
+      "summary": "\"Good news: I'm alive and free. Unfortunately, not in Russia for the time being,\" opposition politician Boris Nadezhdin said in a video on social media, showing him standing in front of the Eiffel Tower in Paris.",
       "date": "2026-08-03"
     },
     {
@@ -58,14 +63,15 @@
       "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
       "summary": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Feds charge ‘frustrated’ FBI agent they say stole nearly $1 million in crypto from Russia",
+      "url": "https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:06:11.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
     {
       "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
       "url": "https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com",
@@ -73,9 +79,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "A Putin critic leaves Russia after he is barred from running for parliament",
-      "url": "https://www.pbs.org/newshour/world/a-putin-critic-leaves-russia-after-he-is-barred-him-from-running-for-parliament?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T15:06:06.000Z",
+      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T22:45:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
