@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.json",
   "description": "Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "Epstein",
     "Jeffrey"
   ],
   "changes": [
+    {
+      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+      "summary": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019. (Image credit: Martin Bureau).",
+      "date": "2026-08-04"
+    },
     {
       "title": "Who is Jes Staley? Former JPMorgan executive interviewed about Epstein ties",
       "summary": "American banker James \"Jes\" Staley sits for a closed-door interview Thursday after years of mounting questions about his links to the late convicted sex offender Jeffrey Epstein.",
@@ -30,6 +35,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:43:06.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

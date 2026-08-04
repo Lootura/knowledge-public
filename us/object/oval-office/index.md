@@ -52,4 +52,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [These 25 U.S. States Are Suing the Trump Administration. Here's Why](https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/?utm_source=lootura.com) — 2026-08-04T13:15:02.000Z
+No public source links.

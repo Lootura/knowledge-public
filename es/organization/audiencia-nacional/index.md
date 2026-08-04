@@ -3,20 +3,20 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra
-
-El juez de la Audiencia Nacional José Luis Calama ha pedido a la Unidad de Delincuencia Económica y Financiera (UDEF) un informe «exhaustivo» sobre la.
-
-Date: 2026-08-04
-
 ### Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica
 
 La Audiencia Nacional investiga actualmente el trato de favor de la expareja de Ábalos en Ineco y Tragsatec.
+
+Date: 2026-08-04
+
+### El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra
+
+El juez de la Audiencia Nacional José Luis Calama ha pedido a la Unidad de Delincuencia Económica y Financiera (UDEF) un informe «exhaustivo» sobre la.
 
 Date: 2026-08-04
 
@@ -70,5 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra](https://theobjective.com/espana/tribunales/2026-08-04/juez-udef-informe-exhaustivo-plus-ultra/?amp=&utm_source=lootura.com) — 2026-08-04T14:03:27.000Z
+- [Vox denuncia al delegado del Gobierno en Ceuta por la crisis migratoria](https://theobjective.com/espana/2026-08-04/vox-delegado-gobierno-ceuta-crisis-migratoria/?utm_source=lootura.com) — 2026-08-04T16:44:47.000Z
 - [Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica](https://theobjective.com/espana/tribunales/2026-08-04/moncloa-abogacia-estado-ineco-jesica/?amp=&utm_source=lootura.com) — 2026-08-04T13:57:41.000Z

@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress](https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/?utm_source=lootura.com) — 2026-08-04T03:09:22.000Z
+No public source links.

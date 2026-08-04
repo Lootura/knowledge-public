@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -26,6 +26,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE",
+      "summary": "Un inmigrante salvadoreño, identificado como Edwin López Cornejo, de 41 años, murió el 1 de agosto en el denostado centro federal de Delaney Hall, en Newark (Nueva Jersey). López se convierte así en la persona número 22 que fallece bajo custodia del ICE (agentes fronterizos) en lo que va del 2026, según los datos de la.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
       "summary": "La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.",
@@ -62,6 +67,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE",
+      "url": "https://www.lavanguardia.com/internacional/20260804/11607825/muerto-centro-detencion-federal-son-22-fallecidos-custodia-ice.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T15:47:10.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

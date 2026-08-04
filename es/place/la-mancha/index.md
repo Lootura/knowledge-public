@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)](https://www.elconfidencial.com/espana/2026-08-04/accidente-laboral-torija-guadalajara-1tna-1tps_4400748/?utm_source=lootura.com) — 2026-08-04T11:02:00.000Z
+No public source links.

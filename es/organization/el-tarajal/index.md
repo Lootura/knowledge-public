@@ -64,4 +64,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”](https://www.larazon.es/espana/echenique-acusa-gobierno-convertir-mar-ceuta-frontera-mortal-barreras-serviran-que-muera-mas-gente_202608046a71bf36a046ad6ebc9bb64e.html?utm_source=lootura.com) — 2026-08-04T10:30:14.000Z
+No public source links.

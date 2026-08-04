@@ -3,20 +3,20 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
 
-### Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado
+### “Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta
 
-El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.
+La estrategia fallida en Ceuta se ha unido estos días a lo que ya compartían el eurodiputado Alvise Pérez, el agitador Vito Quiles, el líder de Vox, Santiago Abascal, y el grupo neonazi Núcleo Nacional. Desde que el pasado jueves se produjera el acceso masivo de migrantes a la ciudad , las distintas facciones de la ult.
 
 Date: 2026-08-04
 
-### “Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta
+### Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado
 
-A lo que comparten el eurodiputado Alvise Pérez, el agitador Vito Quiles, el líder de Vox, Santiago Abascal, y el grupo neonazi Núcleo Nacional, estos días se ha unido algo que les ha hermanado aún más: su estrategia fallida en Ceuta. Desde que el pasado jueves se produjera el acceso masivo de migrantes a la ciudad , l.
+El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.
 
 Date: 2026-08-04
 
@@ -71,4 +71,3 @@ Date: 2026-07-21
 ## Fuentes
 
 - [“Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta](https://elpais.com/espana/2026-08-04/esto-no-es-torre-pacheco-la-estrategia-fallida-de-la-ultraderecha-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:19:42.000Z
-- [Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado](https://theobjective.com/espana/politica/2026-08-04/abascal-gobierno-delito-traicion-seguridad-estado/?utm_source=lootura.com) — 2026-08-04T10:14:44.000Z

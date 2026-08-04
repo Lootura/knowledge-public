@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
+
+### Victoria iraní: peaje en Ormuz
+
+Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.
+
+Date: 2026-08-04
 
 ### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
 
@@ -56,18 +68,7 @@ El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que 
 
 Date: 2026-08-03
 
-### El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos
-
-Tras la crisis humanitaria vivida en Ceuta, se ha viralizado en las redes sociales que el Congreso de los Estados Unidos aprobó recientemente “transferir Ceuta y Melilla a Marruecos”, una medida que habría facilitado los hechos del pasado jueves. Uno de los mensajes más virales lo publicó el diputado Thomas Massie, del.
-
-Date: 2026-08-03
-
-### Por qué EEUU interviene en favor del yen japonés
-
-El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado de divisas registró una histórica intervención conjunta de Japón y Estados Unidos. La acción...
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z

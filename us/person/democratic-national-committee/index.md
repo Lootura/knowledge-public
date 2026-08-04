@@ -3,7 +3,7 @@
 > Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-04T17:46:37.529Z
 - Canonical: https://atlas.lootura.com/us/person/democratic-national-committee
 
 ## Recent changes
@@ -47,4 +47,3 @@ Date: 2026-08-02
 ## Sources
 
 - [DNC report on 2024 election outcome missing key chapter, report says](https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says?utm_source=lootura.com) — 2026-08-04T08:40:31.000Z
-- [Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter](https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com) — 2026-08-03T15:16:24.000Z

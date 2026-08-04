@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,28 +25,8 @@
   ],
   "changes": [
     {
-      "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
-      "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "8/3: The Takeout with Major Garrett",
-      "summary": "Trump says he's giving Iran a \"last chance\" at diplomacy; Blanche one step closer to confirmation as attorney general.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Trump raises concerns in call with Rep. Max Miller amid abuse allegations",
       "summary": "Ohio Rep. Max Miller's reelection campaign has been upended by allegations Miller assaulted his ex-wife, Emily Moreno, and their 2-year-old daughter.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
-      "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.",
       "date": "2026-08-04"
     },
     {
@@ -65,21 +45,47 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
-      "summary": "There are mounting questions about whether one of President Donald Trump’s long-time allies, Jeanine Pirro, will keep her job after he lashed out on her decision to drop charges against a former Olympic canoeist indicted for vandalizing the Lincoln Memorial Reflecting Pool. NBC’s Gabe Gutierrez reports for TODAY.",
+      "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
+      "summary": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country. (Image credit: Claire Harbage/NPR).",
       "date": "2026-08-04"
     },
     {
-      "title": "Trump claims Iran talks are underway as Tehran denies it",
-      "summary": "President Donald Trump accused Iran of duplicity and insisted the two sides were discussing reopening the Strait of Hormuz as early as Tuesday, even as Tehran denied talks were even taking place.",
+      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
+      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+      "summary": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
+      "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "8/3: The Takeout with Major Garrett",
+      "summary": "Trump says he's giving Iran a \"last chance\" at diplomacy; Blanche one step closer to confirmation as attorney general.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "8/3: The Takeout with Major Garrett",
-      "url": "https://www.cbsnews.com/video/83-the-takeout-with-major-garrett/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:35:03.000Z",
+      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
+      "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:37:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T16:46:04.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -87,24 +93,6 @@
       "url": "https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:19:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:04:16.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
-      "url": "https://www.today.com/video/jeanine-pirro-s-future-in-question-after-trump-says-she-choked-267728453733?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T11:25:06.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump claims Iran talks are underway as Tehran denies it",
-      "url": "https://www.nbcnews.com/world/iran/trump-iran-clash-hormuz-talks-cargo-ship-attacked-rcna590727?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T11:11:15.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
@@ -135,7 +123,19 @@
       "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:39:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+      "url": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:56:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:17:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 12
 }

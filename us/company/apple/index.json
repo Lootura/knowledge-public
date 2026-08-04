@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "Apple (company)",
     "Apple"
   ],
   "changes": [
+    {
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors . The move comes in response to an interoperability request from Microsoft that asks Apple to open up its Universal Clipboard feat.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
       "summary": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg 's Mark Gurman , Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abuse material,\" adding that it restored.",
@@ -27,15 +32,9 @@
   ],
   "sources": [
     {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T11:27:55.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-      "url": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:57:43.000Z",
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "url": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T14:42:31.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],

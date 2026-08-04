@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios
+
+Abrir un espacio de diálogo para elaborar una estrategia conjunta contra los incendios forestales. Esta es la invitación que le ha hecho el secretario regional del PSOE, Carlos Martínez , al presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, para hacer frente a lo que considera una "emergencia autonó.
+
+Date: 2026-08-04
 
 ### La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales
 
@@ -62,12 +68,6 @@ Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, represent
 
 Date: 2026-07-25
 
-### Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos
-
-El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios](https://www.larazon.es/castilla-y-leon/martinez-invita-manueco-dialogar-plantear-unidad-accion-incendios_202608046a721e21a046ad6ebc9c94da.html?utm_source=lootura.com) — 2026-08-04T17:15:13.000Z

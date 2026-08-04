@@ -3,7 +3,7 @@
 > Sigue la actividad de Fiscalía Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/person/fiscalia-europea
 
 ## Cambios recientes

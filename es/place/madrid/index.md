@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»
-
-Joan Manuel Serrat se convirtió en bisabuelo hace unas semanas. Su nieta, Luna, y el exjugador del Real Madrid, Dani Ceballos, fueron padres por partida doble de dos niñas gemelas. La joven, que se dedica a compartir los aspectos más destacados de su vida en Internet fue narrando cómo estaba llevando este embarazo múlt.
-
-Date: 2026-08-04
 
 ### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
 
@@ -20,15 +14,21 @@ La aportación del futbolista argentino se destinará a la recuperación de los 
 
 Date: 2026-08-04
 
-### Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios
-
-La presidenta madrileña quiere agradecer personalmente al argentino este gesto: "Esperamos recibirle pronto para darle el aplauso que se merece" Leer.
-
-Date: 2026-08-04
-
 ### Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato
 
 El juez del caso Begoña Gómez , Juan Carlos Peinado, ha acordado remitir a la Fiscalía Europea la pieza separada sobre supuestas irregularidades en un contrato sufragado con fondos europeos contra el empresario Juan Carlos Barrabés, después de que la Audiencia Provincial de Madrid le apartara del juicio con jurado popu.
+
+Date: 2026-08-04
+
+### El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»
+
+Joan Manuel Serrat se convirtió en bisabuelo hace unas semanas. Su nieta, Luna, y el exjugador del Real Madrid, Dani Ceballos, fueron padres por partida doble de dos niñas gemelas. La joven, que se dedica a compartir los aspectos más destacados de su vida en Internet fue narrando cómo estaba llevando este embarazo múlt.
+
+Date: 2026-08-04
+
+### Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios
+
+La presidenta madrileña quiere agradecer personalmente al argentino este gesto: "Esperamos recibirle pronto para darle el aplauso que se merece" Leer.
 
 Date: 2026-08-04
 
@@ -70,8 +70,7 @@ Date: 2026-08-04
 
 ## Fuentes
 
+- [Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio](https://www.abc.es/espana/madrid/messi-dona-80000-euros-reconstruccion-sierra-oeste-20260804134753-nt.html?utm_source=lootura.com) — 2026-08-04T16:20:08.000Z
 - [De cazar conciertos a buscar 'Luciérnagas'](https://www.elcorreo.com/culturas/arte/fotografo-jose-madrid-regala-luciernagas-iluminan-arte-20260617183749-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:19:38.000Z
 - [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
-- [Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios](https://www.elmundo.es/madrid/2026/08/04/6a71e81021efa0986c8b45ad.html?utm_source=lootura.com) — 2026-08-04T13:43:13.000Z
-- [El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»](https://theobjective.com/gente/2026-08-04/detalle-clave-bisnietas-serrat-desvelado-protegerlas/?utm_source=lootura.com) — 2026-08-04T10:00:00.000Z
 - [Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato](https://theobjective.com/espana/tribunales/2026-08-04/peinado-fiscalia-europea-causa-barrabes/?utm_source=lootura.com) — 2026-08-04T13:42:10.000Z

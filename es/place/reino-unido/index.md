@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes

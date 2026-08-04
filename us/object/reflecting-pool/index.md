@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office](https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-charges-dropped-pirro/?utm_source=lootura.com) — 2026-08-04T01:21:00.000Z
-- [Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
+No public source links.

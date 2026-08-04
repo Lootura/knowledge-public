@@ -1,0 +1,40 @@
+{
+  "id": "usa-edwin-lopez",
+  "name": "Edwin Lopez",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/edwin-lopez",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/edwin-lopez",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/edwin-lopez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/edwin-lopez/index.json",
+  "description": "Follow Edwin Lopez, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Immigrant Held at Delaney Detention Center Has Died, Officials Say",
+      "summary": "The mayor of Newark identified the dead man as Edwin Lopez-Cornejo. The New Jersey center has been the focus of intense scrutiny for its treatment of detainees.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Edwin Lopez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Salvador man dies in Delaney Hall immigration facility in New Jersey",
+      "url": "https://www.pbs.org/newshour/nation/el-salvador-man-dies-in-delaney-hall-immigration-facility-in-new-jersey?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:32:56.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Immigrant Held at Delaney Detention Center Has Died, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T00:05:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

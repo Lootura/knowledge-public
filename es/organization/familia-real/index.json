@@ -1,0 +1,49 @@
+{
+  "id": "es-familia-real",
+  "name": "Familia real",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/familia-real",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/familia-real",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
+  "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "aliases": [
+    "Familias reales",
+    "familia imperial",
+    "royalty"
+  ],
+  "changes": [
+    {
+      "title": "La obsesión de la Reina Sofía en Marivent: quería una casa donde poder caminar siempre descalza",
+      "summary": "Cada verano, el Palacio de Marivent vuelve a convertirse en el epicentro de la actualidad de la Familia Real. Aunque la atención suele centrarse en la agenda de los Reyes o en las tradicionales imágenes de sus vacaciones en Mallorca, el complejo guarda infinidad de historias y curiosidades que hablan de cómo se ha vivi.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
+      "summary": "Marivent vuelve a convertirse en uno de los grandes escenarios del verano de la Familia Real . Este martes 4 de agosto, los Reyes Felipe VI y Letizia abren las puertas del palacio mallorquín para recibir a cerca de 600 invitados en una de las citas más esperadas de su estancia en la isla. Políticos, empresarios, cientí.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Familia Real first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La obsesión de la Reina Sofía en Marivent: quería una casa donde poder caminar siempre descalza",
+      "url": "https://okdiario.com/cool/casa-real/obsesion-reina-sofia-marivent-queria-casa-donde-poder-caminar-siempre-descalza-19014271?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:11:57.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
+      "url": "https://okdiario.com/cool/casa-real/ponte-prueba-cuanto-sabes-visita-reyes-marivent-19123161?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:30:58.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

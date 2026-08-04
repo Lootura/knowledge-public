@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE
+
+Un inmigrante salvadoreño, identificado como Edwin López Cornejo, de 41 años, murió el 1 de agosto en el denostado centro federal de Delaney Hall, en Newark (Nueva Jersey). López se convierte así en la persona número 22 que fallece bajo custodia del ICE (agentes fronterizos) en lo que va del 2026, según los datos de la.
+
+Date: 2026-08-04
 
 ### Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles
 
@@ -52,4 +58,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE](https://www.lavanguardia.com/internacional/20260804/11607825/muerto-centro-detencion-federal-son-22-fallecidos-custodia-ice.html?utm_source=lootura.com) — 2026-08-04T15:47:10.000Z

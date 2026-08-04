@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T16:54:15.759Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -73,6 +73,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El Salvador man dies in Delaney Hall immigration facility in New Jersey",
+      "url": "https://www.pbs.org/newshour/nation/el-salvador-man-dies-in-delaney-hall-immigration-facility-in-new-jersey?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:32:56.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

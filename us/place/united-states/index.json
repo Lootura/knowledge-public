@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,23 +35,8 @@
   ],
   "changes": [
     {
-      "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
-      "summary": "Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
-      "summary": "\"Spider-Man: Brand New Day\" leapt straight to the top of the box office this weekend. Its $360 million opening weekend debut is the biggest in U.S. history. Marlow Stern, chief correspondent at Variety, joins CBS News to discuss all the latest movie news.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
       "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
       "date": "2026-08-04"
     },
     {
@@ -70,38 +55,41 @@
       "date": "2026-08-04"
     },
     {
-      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
-      "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
+      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
+      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
       "date": "2026-08-04"
     },
     {
-      "title": "The New Rush to Mine America",
-      "summary": "More expansive than the island of Manhattan, Thacker Pass in northern Nevada is the biggest U.S. lithium-mining project developed in decades. And it’s been one of the country’s most visible flash points in the race to build new critical-mineral mines. While at first spurred by the clean-energy transition, the demand fo.",
+      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
+      "summary": "Qatar said that draft language of a deal was being circulated, while the U.S. Treasury secretary suggested an agreement may be imminent.",
       "date": "2026-08-04"
     },
     {
-      "title": "US Northwest battles wildfires after Spokane neighborhoods scorched",
-      "summary": "Wildfires supercharged by drought and intense heat tore through the northwestern U.S. city of Spokane, forcing the evacuation of 65,000 people and reducing hundreds of buildings to cinders as firefighters raced Monday to contain the flames.",
+      "title": "How Well Is the Progressive Left Actually Doing?",
+      "summary": "Its wins have been largely confined to highly educated and heavily Democratic parts of urban America. But two races could change that.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
+      "summary": "Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
+      "summary": "\"Spider-Man: Brand New Day\" leapt straight to the top of the box office this weekend. Its $360 million opening weekend debut is the biggest in U.S. history. Marlow Stern, chief correspondent at Variety, joins CBS News to discuss all the latest movie news.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
-      "url": "https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-charges-dropped-pirro/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T01:21:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:04:16.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
-      "url": "https://www.cbsnews.com/video/spider-man-brand-new-day-continues-hollywoods-hot-streak-at-the-box-office/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T01:55:50.000Z",
+      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
+      "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:37:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -117,12 +105,6 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-      "url": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T15:42:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
       "url": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T00:55:34.000Z",
@@ -135,10 +117,22 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
+      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T16:27:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
       "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T04:00:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "How Well Is the Progressive Left Actually Doing?",
+      "url": "https://www.nytimes.com/2026/08/04/upshot/progressive-left-michigan-wisconsin.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T16:47:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Inside the Democratic Socialists of America Summit",
@@ -147,5 +141,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 9
 }

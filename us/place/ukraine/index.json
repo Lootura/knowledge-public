@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -23,13 +23,23 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+      "summary": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+      "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Video shows moment drone burst into fireball on Russian beach",
       "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
       "date": "2026-08-04"
     },
     {
-      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
-      "summary": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
       "date": "2026-08-04"
     },
     {
@@ -56,19 +66,15 @@
       "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
       "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
-      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
-      "summary": "Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+      "url": "https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:09:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
       "url": "https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com",
@@ -76,7 +82,7 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "title": "Video shows moment drone burst into fireball on Russian beach",
       "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com",
       "publishedAt": "2026-08-04T11:58:05.000Z",
       "sourceId": "lootura-us-nbc-news"
@@ -84,9 +90,9 @@
     {
       "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
       "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:55:54.000Z",
+      "publishedAt": "2026-08-04T14:33:18.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

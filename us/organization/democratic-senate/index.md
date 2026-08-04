@@ -28,4 +28,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Rep. Haley Stevens on Israel, the Democratic Party and PAC money](https://www.cbsnews.com/video/rep-haley-stevens-on-israel-the-democratic-party-and-pac-money/?utm_source=lootura.com) — 2026-08-04T01:33:05.000Z
+No public source links.

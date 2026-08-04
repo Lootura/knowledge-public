@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/seguridad-social/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/seguridad-social/index.json",
   "description": "Sigue la actividad de Seguridad Social en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
-      "summary": "La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.",
-      "date": "2026-08-04"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Seguridad Social first entered the public knowledge record with source-backed evidence.",
@@ -24,6 +19,16 @@
     {
       "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
       "summary": "El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Los inmigrantes buscan respuestas: «Qué van a hacer con nosotros»",
+      "summary": "A la playa El Trampolín llegan dos camiones de comida de la Cruz Roja organizados por el Ministerio de Inclusión, Seguridad Social y Migraciones, el Gobierno de Ceuta y otras asociaciones, como Sur Acoge. Allí acampan desde hace días centenares de subsaharianos a la espera de que el Centro de Acogida Temporal de Inmigr.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
+      "summary": "La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.",
       "date": "2026-08-04"
     },
     {
@@ -44,16 +49,16 @@
   ],
   "sources": [
     {
+      "title": "Los inmigrantes buscan respuestas: «Qué van a hacer con nosotros»",
+      "url": "https://www.abc.es/espana/inmigrantes-ceuta-buscan-respuestas-sumidos-apagon-informativo-20260804133027-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:00:48.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
       "url": "https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T11:22:18.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/gobierno-25-millones-ceuta-menas/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:31:02.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

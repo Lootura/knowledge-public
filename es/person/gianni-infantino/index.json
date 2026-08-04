@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
+      "summary": "El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Tebas, a la carga contra Infantino: \"No debe continuar al frente de la FIFA\"",
       "summary": "El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino \"no debe continuar al frente de la FIFA\" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo \"la punta del iceberg\" y no resuelve \"el problema de gobernanza\". \"Infantino no debe continuar. Que la FIFA haya retirado su propue.",
@@ -35,6 +40,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
+      "url": "https://okdiario.com/deportes/principe-jordania-desvela-artes-oscuras-infantino-ganar-apoyos-fifa-chantaje-19125864?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:08:57.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.](https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html?utm_source=lootura.com) — 2026-08-04T03:41:43.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios",
+      "summary": "Abrir un espacio de diálogo para elaborar una estrategia conjunta contra los incendios forestales. Esta es la invitación que le ha hecho el secretario regional del PSOE, Carlos Martínez , al presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, para hacer frente a lo que considera una \"emergencia autonó.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales",
       "summary": "Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.",
@@ -65,13 +70,15 @@
       "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
       "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
-      "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios",
+      "url": "https://www.larazon.es/castilla-y-leon/martinez-invita-manueco-dialogar-plantear-unidad-accion-incendios_202608046a721e21a046ad6ebc9c94da.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:15:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

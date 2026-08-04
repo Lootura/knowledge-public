@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/black-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/black-sea/index.json",
   "description": "Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "Euxine",
     "Rucenum mare"
@@ -20,17 +20,33 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "title": "Discovered by Atlas",
+      "summary": "Black Sea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+      "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Video shows moment drone burst into fireball on Russian beach",
       "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
       "date": "2026-08-04"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Black Sea first entered the public knowledge record with source-backed evidence.",
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
+    {
+      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+      "url": "https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:09:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Drone hits crowded Russian beach, killing 7 people",
       "url": "https://www.cbsnews.com/video/drone-hits-crowded-russian-beach-killing-7-people/?utm_source=lootura.com",
@@ -38,11 +54,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "title": "Video shows moment drone burst into fireball on Russian beach",
       "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com",
       "publishedAt": "2026-08-04T11:58:05.000Z",
       "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

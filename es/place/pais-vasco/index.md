@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa](https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com) — 2026-08-04T09:38:00.000Z
-- [El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi](https://www.elcorreo.com/sociedad/menor-lideraba-red-extremista-764-amenazo-tiroteos-20260803165820-nt_amp.html?utm_source=lootura.com) — 2026-08-03T14:58:20.000Z
+No public source links.

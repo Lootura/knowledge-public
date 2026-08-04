@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,16 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
+      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Victoria iraní: peaje en Ormuz",
+      "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
+      "date": "2026-08-04"
+    },
     {
       "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
       "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
@@ -81,25 +91,21 @@
       "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
       "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos",
-      "summary": "Tras la crisis humanitaria vivida en Ceuta, se ha viralizado en las redes sociales que el Congreso de los Estados Unidos aprobó recientemente “transferir Ceuta y Melilla a Marruecos”, una medida que habría facilitado los hechos del pasado jueves. Uno de los mensajes más virales lo publicó el diputado Thomas Massie, del.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Por qué EEUU interviene en favor del yen japonés",
-      "summary": "El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado de divisas registró una histórica intervención conjunta de Japón y Estados Unidos. La acción...",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
       "url": "https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:24:59.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Victoria iraní: peaje en Ormuz",
+      "url": "https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:32:53.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

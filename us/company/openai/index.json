@@ -45,19 +45,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "How do AI developers move forward after OpenAI hacking incident?",
-      "url": "https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T01:34:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks",
-      "url": "https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:39:18.000Z",
-      "sourceId": "lootura-us-time"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

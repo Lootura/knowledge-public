@@ -1,16 +1,26 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
+      "summary": "El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto",
+      "summary": "El portavoz del Gobierno de Ceuta , Alejandro Ramírez, ha reconocido este martes que a su equipo le «preocupa» el llamamiento difundido en cuentas marroquíes en redes sociales para una nueva entrada masiva de cara al 15 de agost o. «Obviamente, después de lo que ha pasado, preocupa que haya esa rumorología en redes» ,.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El Gobierno italiano reprocha a España no consultar la regularización con la UE",
       "summary": "El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.",
@@ -27,11 +37,6 @@
       "date": "2026-08-04"
     },
     {
-      "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
-      "summary": "El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: \"No tiene nada que ver con situaciones anteriores\"",
       "summary": "Tellado se escuda en que la situación en Ceuta es \"una crisis de seguridad nacional\" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: \"El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido\" El Gobierno anuncia una partida extraordinari.",
       "date": "2026-08-04"
@@ -39,11 +44,6 @@
     {
       "title": "Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha",
       "summary": "Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto",
-      "summary": "El portavoz del Gobierno de Ceuta , Alejandro Ramírez, ha reconocido este martes que a su equipo le «preocupa» el llamamiento difundido en cuentas marroquíes en redes sociales para una nueva entrada masiva de cara al 15 de agost o. «Obviamente, después de lo que ha pasado, preocupa que haya esa rumorología en redes» ,.",
       "date": "2026-08-04"
     },
     {
@@ -64,47 +64,17 @@
   ],
   "sources": [
     {
-      "title": "Melilla se prepara para colocar nuevas barreras de contención migratoria en el mar como ha hecho Ceuta para adaptarse al TS",
-      "url": "https://www.20minutos.es/melilla/gobierno-trabaja-para-colocar-melilla-nuevas-barreras-contencion-migratoria-mar-como-ha-hecho-ceuta_7022437_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:49:29.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
       "url": "https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T11:22:18.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: \"No tiene nada que ver con situaciones anteriores\"",
-      "url": "https://www.eldiario.es/politica/pp-anticipa-rechazo-acoger-menores-ceuta-comunidades-no-ver-situaciones-anteriores_1_13427303.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T11:06:38.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha",
-      "url": "https://theconversation.com/como-el-incidente-en-el-paso-fronterizo-de-ceuta-ha-beneficiado-a-la-extrema-derecha-288965?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:23:12.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
-    },
-    {
-      "title": "El Gobierno italiano reprocha a España no consultar la regularización con la UE",
-      "url": "https://theobjective.com/internacional/2026-08-04/ministro-exteriores-italiano-espana-regularizacion-ue/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:43:27.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
       "title": "El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto",
       "url": "https://theobjective.com/espana/2026-08-04/gobierno-ceuta-preocupado-llamamiento-entrada-agosto/?utm_source=lootura.com",
       "publishedAt": "2026-08-04T12:07:32.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/gobierno-25-millones-ceuta-menas/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:31:02.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 2
 }

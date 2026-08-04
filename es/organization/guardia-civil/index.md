@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de 
 
 Date: 2026-08-04
 
-### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
-
-El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
-
-Date: 2026-08-04
-
 ### La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera
 
 La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.
+
+Date: 2026-08-04
+
+### Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca
+
+La tarde del pasado lunes será una de las fechas de las que los habitantes de Sograndio (Asturias) no se olvidarán. Mientras los habitantes del pueblo vivían una jornada de lo más normal, en el centro de internamiento juvenil de la localidad se produjo un violento motín . La revuelta se inició con una gran trifulca ent.
+
+Date: 2026-08-04
+
+### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
+
+El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
 
 Date: 2026-08-04
 
@@ -62,14 +68,8 @@ La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Polic
 
 Date: 2026-08-03
 
-### Nueva frontera física (y judicial) para blindar Ceuta ante los 'nadadores': banda neumática de 500 metros y antibuceo
-
-Las estructuras, ya plenamente operativas y custodiadas por la Guardia Civil, permiten rechazar de inmediato a quienes las franquean para entrar por mar Leer.
-
-Date: 2026-08-02
-
 ## Fuentes
 
 - [La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera](https://www.elconfidencial.com/espana/2026-08-04/cadaveres-migrantes-ceuta-guardia-civil-1tps_4400821/?utm_source=lootura.com) — 2026-08-04T12:27:00.000Z
+- [Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca](https://www.elconfidencial.com/espana/2026-08-04/motin-en-el-centro-de-menores-de-sograndio-5-fugados-1tna_4400944/?utm_source=lootura.com) — 2026-08-04T15:00:00.000Z
 - [Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla](https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com) — 2026-08-04T10:24:59.000Z
-- [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z

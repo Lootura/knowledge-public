@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [China reescribe 3.000 millones de años de historia de bombardeos lunares](https://www.larazon.es/tecnologia-consumo/ciencia/china-reescribe-3000-millones-anos-historia-bombardeos-lunares_202608046a71b58971b42a0b5dd9ccd9.html?utm_source=lootura.com) — 2026-08-04T10:30:00.000Z
+- [Europa busca competir en IA apoyándose en modelos especializados y datos de calidad](https://theobjective.com/tecnologia/2026-08-04/europa-ia-modelos-especializados/?utm_source=lootura.com) — 2026-08-04T14:53:57.000Z

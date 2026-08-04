@@ -3,7 +3,7 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-04T17:46:37.529Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [El Salvador man dies in Delaney Hall immigration facility in New Jersey](https://www.pbs.org/newshour/nation/el-salvador-man-dies-in-delaney-hall-immigration-facility-in-new-jersey?utm_source=lootura.com) — 2026-08-04T17:32:56.000Z

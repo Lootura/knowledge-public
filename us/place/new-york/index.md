@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-04T17:46:37.529Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-04
 ### Bernie Sanders’ circle is pretty clear on who his successor will be
 
 The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
+
+Date: 2026-08-04
+
+### We’re giving away a back-to-school bag filled with over $800 of free tech
+
+The Nomatic Messenger Bag can fit quite a bit, but it’s no match for the boxes we stuffed inside. It’s time for yet another giveaway. We raided The Verge ’s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It’s overstuffed, to say the least, and if you’re chosen as the winner.
 
 Date: 2026-08-04
 
@@ -62,13 +68,8 @@ Terrifying moments in New York City this afternoon when two people were stabbed 
 
 Date: 2026-07-23
 
-### New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers
-
-Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z
 - [Bernie Sanders’ circle is pretty clear on who his successor will be](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z
+- [We’re giving away a back-to-school bag filled with over $800 of free tech](https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes?utm_source=lootura.com) — 2026-08-04T14:00:00.000Z

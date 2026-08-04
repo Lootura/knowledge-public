@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»](https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com) — 2026-08-04T13:18:13.000Z
+No public source links.

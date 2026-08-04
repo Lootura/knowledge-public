@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,16 @@
     {
       "title": "Funding milestone detected",
       "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02389-5 Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Europe heat wave fuels drought, fires and energy fears",
+      "summary": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires. (Image credit: Darko Vojinovic).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors . The move comes in response to an interoperability request from Microsoft that asks Apple to open up its Universal Clipboard feat.",
       "date": "2026-08-04"
     },
     {
@@ -53,16 +63,6 @@
       "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
       "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Wildfire danger in Europe shifts to Greece as evacuation orders remain in France",
-      "summary": "For Greece, the danger carried grim resonance: a 2018 wildfire​ at the seaside community of Mati​, near Athens, killed 104 people.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Europe continues to celebrate Pride after attack on Berlin parade",
-      "summary": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -71,7 +71,19 @@
       "url": "https://www.nature.com/articles/d41586-026-02389-5?utm_source=lootura.com",
       "publishedAt": "2026-08-04T14:05:17.736Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Europe heat wave fuels drought, fires and energy fears",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T16:37:38.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "url": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T14:42:31.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

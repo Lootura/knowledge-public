@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -22,13 +22,13 @@
   ],
   "changes": [
     {
-      "title": "El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra",
-      "summary": "El juez de la Audiencia Nacional José Luis Calama ha pedido a la Unidad de Delincuencia Económica y Financiera (UDEF) un informe «exhaustivo» sobre la.",
+      "title": "Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica",
+      "summary": "La Audiencia Nacional investiga actualmente el trato de favor de la expareja de Ábalos en Ineco y Tragsatec.",
       "date": "2026-08-04"
     },
     {
-      "title": "Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica",
-      "summary": "La Audiencia Nacional investiga actualmente el trato de favor de la expareja de Ábalos en Ineco y Tragsatec.",
+      "title": "El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra",
+      "summary": "El juez de la Audiencia Nacional José Luis Calama ha pedido a la Unidad de Delincuencia Económica y Financiera (UDEF) un informe «exhaustivo» sobre la.",
       "date": "2026-08-04"
     },
     {
@@ -74,9 +74,9 @@
   ],
   "sources": [
     {
-      "title": "El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra",
-      "url": "https://theobjective.com/espana/tribunales/2026-08-04/juez-udef-informe-exhaustivo-plus-ultra/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:03:27.000Z",
+      "title": "Vox denuncia al delegado del Gobierno en Ceuta por la crisis migratoria",
+      "url": "https://theobjective.com/espana/2026-08-04/vox-delegado-gobierno-ceuta-crisis-migratoria/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T16:44:47.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {

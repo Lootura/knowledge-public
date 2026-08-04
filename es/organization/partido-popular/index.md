@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
 El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
+
+### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
+
+El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.
 
 Date: 2026-08-04
 
@@ -44,12 +50,6 @@ Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad naci
 
 Date: 2026-08-04
 
-### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
-
-El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.
-
-Date: 2026-08-04
-
 ### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
 
 El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
@@ -70,10 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles](https://www.20minutos.es/nacional/tellado-sostiene-que-crisis-ceuta-no-es-migratoria-sino-seguridad-nacional-pide-cese-marlaska-robles_7022435_0.html?utm_source=lootura.com) — 2026-08-04T11:30:29.000Z
-- [Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»](https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com) — 2026-08-04T13:18:13.000Z
 - [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z
-- [El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"](https://www.eldiario.es/politica/pp-anticipa-rechazo-acoger-menores-ceuta-comunidades-no-ver-situaciones-anteriores_1_13427303.html?utm_source=lootura.com) — 2026-08-04T11:06:38.000Z
-- [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z
 - [El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa](https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com) — 2026-08-04T13:12:07.000Z
-- [El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta](https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com) — 2026-08-04T09:54:30.000Z

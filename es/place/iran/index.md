@@ -3,10 +3,28 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex conquista los 20.000 puntos animado por la caída del petróleo
+
+El selectivo español repunta un 0,21%, hasta los 20.023,6 puntos, favorecido por los avances en el terreno geopolítico. EEUU espera alcanzar "entre hoy y mañana" un acuerdo con Irán para reabrir Ormuz, lo que lleva al barril de Brent a caer más de un 4% y perder los 80 dólares.
+
+Date: 2026-08-04
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
+
+### Victoria iraní: peaje en Ormuz
+
+Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.
+
+Date: 2026-08-04
 
 ### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
 
@@ -50,24 +68,8 @@ El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que 
 
 Date: 2026-08-03
 
-### La actividad industrial de la zona euro logra repunta en julio pese a las dudas a corto plazo por el entorno internacional
-
-La actividad de la industria europea crece a pesar de la incertidumbre en torno a la guerra en Irán. El índice PMI manufacturero, que mide el dinamismo de las fábricas de la zona euro, se situó en 51,9 puntos, su mejor registro desde abril y cinco décimas más que en junio. Esta cifra también muestra que el sector se ma.
-
-Date: 2026-08-03
-
-### El Ibex acaricia récords con el petróleo desinflado
-
-El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
-
-Date: 2026-08-03
-
-### El Ibex busca récords con el petróleo desinflado
-
-El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [El Ibex conquista los 20.000 puntos animado por la caída del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/08/04/6a717c40468aeb14038b45a5.html?utm_source=lootura.com) — 2026-08-04T15:38:14.000Z
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z

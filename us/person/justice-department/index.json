@@ -1,0 +1,80 @@
+{
+  "id": "usa-justice-department",
+  "name": "Justice Department",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/justice-department",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/justice-department",
+  "markdownUrl": "https://atlas.lootura.com/us/person/justice-department/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/justice-department/index.json",
+  "description": "Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "summary": "Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Todd Blanche's nomination back on track after GOP deal",
+      "summary": "Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+      "summary": "The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "DOJ admits legal errors, drops subpoenas of New York Times journalists",
+      "summary": "A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "summary": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media. (Image credit: Saul Loeb).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "DOJ to withdraw subpoenas for New York Times reporters over Air Force One story",
+      "summary": "The New York Times moved to block subpoenas issued by the Justice Department for grand jury testimony and phone records from its reporters.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Rep. Jim Jordan formally asks DOJ to prosecute Jack Smith",
+      "summary": "House Judiciary Committee Chairman Jim Jordan, R-Ohio,sent a letter to the Justice Department requesting a criminal investigation of former special counsel Jack Smith, alleging he made false statements during a congressional deposition last year. NBC News' Gary Grumbach reports on Jordan's referral.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Justice Department activates untested court for 'alien terrorist' deportations",
+      "summary": "The Alien Terrorist Removal Court was established in 1996 but had never received a petition until this past Wednesday.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Blanche holds meeting with Epstein accusers after Tillis' request",
+      "summary": "Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage",
+      "summary": "The New York Times on Wednesday filed a motion to quash subpoenas that the Justice Department served on journalists who reported on security concerns involving the new, Qatari-gifted Air Force One, teeing up a significant court fight pitting press freedom against the the government's ability to force reporters to ident.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Justice Department moves to dismiss Jan. 6 rioters' class action lawsuit",
+      "url": "https://www.cbsnews.com/video/justice-department-moves-to-dismiss-jan-6-rioters-class-action-lawsuit/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:17:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-03T20:17:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

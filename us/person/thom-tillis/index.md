@@ -3,7 +3,7 @@
 > Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-04T17:46:37.529Z
 - Canonical: https://atlas.lootura.com/us/person/thom-tillis
 
 ## Recent changes
@@ -34,5 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped](https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com) — 2026-08-04T09:00:41.000Z
 - [Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal](https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com) — 2026-08-03T20:17:53.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -26,13 +26,13 @@
       "date": "2026-08-04"
     },
     {
-      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
-      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
+      "title": "Discovered by Atlas",
+      "summary": "Parlamento Europeo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-04"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Parlamento Europeo first entered the public knowledge record with source-backed evidence.",
+      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
+      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
       "date": "2026-08-04"
     }
   ],
@@ -42,13 +42,7 @@
       "url": "https://www.elmundo.es/cataluna/2026/08/04/6a71c5d0e4d4d810078b4576.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:23:55.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:54:30.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

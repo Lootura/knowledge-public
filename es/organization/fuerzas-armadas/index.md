@@ -3,7 +3,7 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Vox denuncia al delegado del Gobierno en Ceuta por la crisis migratoria](https://theobjective.com/espana/2026-08-04/vox-delegado-gobierno-ceuta-crisis-migratoria/?utm_source=lootura.com) — 2026-08-04T16:44:47.000Z

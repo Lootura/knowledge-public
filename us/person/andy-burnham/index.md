@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises](https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html?utm_source=lootura.com) — 2026-08-04T12:06:43.000Z
+No public source links.

@@ -46,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped](https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com) — 2026-08-04T09:00:41.000Z
+No public source links.

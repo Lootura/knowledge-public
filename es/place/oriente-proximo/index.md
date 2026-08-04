@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
 
 ### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
 
@@ -62,12 +68,7 @@ El alza del precio del petróleo por las tensiones en Oriente Próximo, los aran
 
 Date: 2026-07-24
 
-### La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares
-
-Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [El Ibex conquista por primera vez los 20.000 puntos con unas Bolsas en nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-04T16:06:39.000Z
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z

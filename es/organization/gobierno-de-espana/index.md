@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-04T17:46:13.990Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### La UE no ve relación entre la regularización y la crisis pero avisa de que la medida "no es una buena señal"
+
+El comisario europeo de Interior y Migraciones, Magnus Brunner, ha negado este martes que haya una relación entre la regularización extraordinaria de migrantes aprobada por el Gobierno español y la crisis migratoria en Ceuta . No obstante, ha reconocido que este tipo de medidas envían una "mala señal" al resto de la Un.
+
+Date: 2026-08-04
 
 ### Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha
 
@@ -62,12 +68,6 @@ Con los ojos de España entera pendientes de la invasión de Ceuta por parte de 
 
 Date: 2026-08-03
 
-### Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»
-
-Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española en Ceuta entre el pasado jueves y viernes, desatando la que muchos definen como una de las mayores crisis migratorias en nuestro país. Otros, por su parte, señalan que esta avalancha de inmigrantes es una estrategia de presión de Marruecos h.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha](https://theconversation.com/como-el-incidente-en-el-paso-fronterizo-de-ceuta-ha-beneficiado-a-la-extrema-derecha-288965?utm_source=lootura.com) — 2026-08-04T10:23:12.000Z
+- [La UE no ve relación entre la regularización y la crisis pero avisa de que la medida "no es una buena señal"](https://www.20minutos.es/nacional/comisario-europeo-interior-desvincula-regularizacion-migrantes-con-crisis-ceuta-aunque-ve-una-mala-senal_7022528_0.html?utm_source=lootura.com) — 2026-08-04T14:10:19.000Z

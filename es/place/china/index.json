@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-04T17:46:13.990Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "China reescribe 3.000 millones de años de historia de bombardeos lunares",
-      "url": "https://www.larazon.es/tecnologia-consumo/ciencia/china-reescribe-3000-millones-anos-historia-bombardeos-lunares_202608046a71b58971b42a0b5dd9ccd9.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:30:00.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Europa busca competir en IA apoyándose en modelos especializados y datos de calidad",
+      "url": "https://theobjective.com/tecnologia/2026-08-04/europa-ia-modelos-especializados/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T14:53:57.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

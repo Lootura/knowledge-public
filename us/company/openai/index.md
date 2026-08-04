@@ -46,5 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [How do AI developers move forward after OpenAI hacking incident?](https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com) — 2026-08-04T01:34:05.000Z
-- [What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks](https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/?utm_source=lootura.com) — 2026-08-04T13:39:18.000Z
+No public source links.
