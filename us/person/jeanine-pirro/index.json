@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
   "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Jeanine",
     "Pirro"
@@ -22,6 +22,11 @@
     {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
+      "summary": "There are mounting questions about whether one of President Donald Trump’s long-time allies, Jeanine Pirro, will keep her job after he lashed out on her decision to drop charges against a former Olympic canoeist indicted for vandalizing the Lincoln Memorial Reflecting Pool. NBC’s Gabe Gutierrez reports for TODAY.",
       "date": "2026-08-04"
     },
     {
@@ -63,11 +68,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
+      "url": "https://www.today.com/video/jeanine-pirro-s-future-in-question-after-trump-says-she-choked-267728453733?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:25:06.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T00:23:06.000Z",
+      "publishedAt": "2026-08-04T13:39:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

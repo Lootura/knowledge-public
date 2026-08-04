@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [DJI se supera con el nuevo Mic Mini 2S, que estrena hasta 28 horas de grabación interna](https://hipertextual.com/tecnologia/nuevo-dji-mic-mini-2s-caracteristicas-precio-y-disponibilidad/?utm_source=lootura.com) — 2026-08-04T13:17:54.000Z

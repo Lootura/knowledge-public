@@ -8,34 +8,39 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.json",
   "description": "Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
+      "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
+      "date": "2026-08-04"
+    },
     {
       "title": "The war to succeed Bernie Sanders is already underway",
       "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
       "date": "2026-08-04"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
+      "title": "Discovered by Atlas",
+      "summary": "Michigan Senate first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-03"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Michigan Senate first entered the public knowledge record with source-backed evidence.",
+      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
       "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:20:42.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "How two versions of the Democratic Party are on display in Michigan's Senate primary",
+      "url": "https://www.cbsnews.com/video/democratic-divisions-on-display-in-michigan-senate-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:17:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "The war to succeed Bernie Sanders is already underway",
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
       "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
       "publishedAt": "2026-08-04T09:55:00.000Z",
       "sourceId": "lootura-us-politico"

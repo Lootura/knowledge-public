@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Tellado sostiene que la crisis de Ceuta no es migratoria sino \"de seguridad nacional\" y pide el cese de Marlaska y de Robles",
+      "summary": "El secretario general del PP , Miguel Tellado , ha afirmado este martes que la crisis desencadenada en Ceuta por la entrada masiva de inmigrantes desde Marruecos la semana pasada \"no es una crisis migratoria\" sino \"de seguridad nacional\" y ha exigido el cese del ministro del Interior, Fernando Grande-Marlaska , y de la.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»",
+      "summary": "El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
       "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
@@ -52,6 +62,19 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tellado sostiene que la crisis de Ceuta no es migratoria sino \"de seguridad nacional\" y pide el cese de Marlaska y de Robles",
+      "url": "https://www.20minutos.es/nacional/tellado-sostiene-que-crisis-ceuta-no-es-migratoria-sino-seguridad-nacional-pide-cese-marlaska-robles_7022435_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:30:29.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»",
+      "url": "https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:18:13.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 2
 }

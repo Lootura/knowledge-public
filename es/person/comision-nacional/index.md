@@ -58,5 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Florentino Pérez sube su participación en ACS y roza ya el 15% del capital](https://www.expansion.com/inmobiliario/2026/08/04/6a710a6d468aebae4c8b4585.html?utm_source=lootura.com) — 2026-08-04T06:38:56.000Z
-- [BlackRock compra una participación del 3% de Indra por un valor de 315 millones de euros](https://theobjective.com/economia/2026-08-04/blackrock-indra-participacion/?utm_source=lootura.com) — 2026-08-04T09:37:18.000Z
+No public source links.

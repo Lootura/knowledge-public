@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes](https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes?utm_source=lootura.com) — 2026-08-03T20:03:23.000Z
+No public source links.

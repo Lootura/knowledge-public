@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»
+
+Joan Manuel Serrat se convirtió en bisabuelo hace unas semanas. Su nieta, Luna, y el exjugador del Real Madrid, Dani Ceballos, fueron padres por partida doble de dos niñas gemelas. La joven, que se dedica a compartir los aspectos más destacados de su vida en Internet fue narrando cómo estaba llevando este embarazo múlt.
+
+Date: 2026-08-04
+
+### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
+
+La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.
+
+Date: 2026-08-04
+
+### Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios
+
+La presidenta madrileña quiere agradecer personalmente al argentino este gesto: "Esperamos recibirle pronto para darle el aplauso que se merece" Leer.
+
+Date: 2026-08-04
+
+### Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato
+
+El juez del caso Begoña Gómez , Juan Carlos Peinado, ha acordado remitir a la Fiscalía Europea la pieza separada sobre supuestas irregularidades en un contrato sufragado con fondos europeos contra el empresario Juan Carlos Barrabés, después de que la Audiencia Provincial de Madrid le apartara del juicio con jurado popu.
+
+Date: 2026-08-04
 
 ### Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes
 
@@ -17,12 +41,6 @@ Date: 2026-08-04
 ### El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos
 
 El eclipse solar total del 12 de agosto de 2026 convertirá a Somosierra en uno de los puntos privilegiados de la Comunidad de Madrid . Mientras la capital verá el fenómeno de forma parcial, este municipio quedará dentro de la franja de totalidad durante 1 minuto y 29 segundos. La diferencia entre ambas zonas será notab.
-
-Date: 2026-08-04
-
-### El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»
-
-Joan Manuel Serrat se convirtió en bisabuelo hace unas semanas. Su nieta, Luna, y el exjugador del Real Madrid, Dani Ceballos, fueron padres por partida doble de dos niñas gemelas. La joven, que se dedica a compartir los aspectos más destacados de su vida en Internet fue narrando cómo estaba llevando este embarazo múlt.
 
 Date: 2026-08-04
 
@@ -50,27 +68,10 @@ Arrancamos el martes, siendo además el primero de este mes de agosto, y la sema
 
 Date: 2026-08-04
 
-### El Rayo cede y abrirá Vallecas a la Comunidad de Madrid, que ve difícil un regreso inmediato
-
-La reunión entre la Comunidad de Madrid y el Rayo Vallecano dejó este lunes el primer acercamiento entre ambas partes desde que estalló el conflicto por el estadio de Vallecas. El presidente del club, Raúl Martín Presa, acudió a la citación del consejero de Cultura, Turismo y Deporte, Mariano de Paco. Diez minutos desp.
-
-Date: 2026-08-04
-
-### De cazar conciertos a buscar 'Luciérnagas'
-
-José Madrid aparca de momento sus fotos de música en directo para retratar a 65 luminosos protagonistas de la cultura, en una muestra en el Museo de Reproducciones de Bilbao.
-
-Date: 2026-08-03
-
-### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
-
-Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes](https://www.abc.es/espana/madrid/record-ayudas-cine-madrileno-tres-millones-euros-20260804112536-nt.html?utm_source=lootura.com) — 2026-08-04T09:34:09.000Z
-- [El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos](https://www.elconfidencial.com/espana/2026-08-04/pueblo-sierra-madrid-donde-mejor-ver-eclipse-solar-1qrt_4400329/?utm_source=lootura.com) — 2026-08-04T07:50:00.000Z
 - [De cazar conciertos a buscar 'Luciérnagas'](https://www.elcorreo.com/culturas/arte/fotografo-jose-madrid-regala-luciernagas-iluminan-arte-20260617183749-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:19:38.000Z
+- [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
+- [Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios](https://www.elmundo.es/madrid/2026/08/04/6a71e81021efa0986c8b45ad.html?utm_source=lootura.com) — 2026-08-04T13:43:13.000Z
 - [El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»](https://theobjective.com/gente/2026-08-04/detalle-clave-bisnietas-serrat-desvelado-protegerlas/?utm_source=lootura.com) — 2026-08-04T10:00:00.000Z
+- [Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato](https://theobjective.com/espana/tribunales/2026-08-04/peinado-fiscalia-europea-causa-barrabes/?utm_source=lootura.com) — 2026-08-04T13:42:10.000Z

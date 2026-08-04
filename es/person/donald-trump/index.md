@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Palantir dispara sus resultados y carga contra sus competidores bajo la renovada euforia bursátil](https://cincodias.elpais.com/companias/2026-08-04/palantir-dispara-sus-resultados-y-carga-contra-sus-competidores-bajo-la-renovada-euforia-bursatil.html?utm_source=lootura.com) — 2026-08-04T09:00:42.000Z
+- [Palantir dispara sus resultados y carga contra sus competidores bajo la renovada euforia bursátil](https://cincodias.elpais.com/companias/2026-08-04/palantir-dispara-sus-resultados-y-carga-contra-sus-competidores-bajo-la-renovada-euforia-bursatil.html?utm_source=lootura.com) — 2026-08-04T13:39:02.000Z

@@ -28,4 +28,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Michigan health officials report 2 deaths among cyclosporiasis cases; patients had underlying conditions](https://www.cbsnews.com/detroit/news/cyclosporiasis-cases-michigan-two-deaths/?utm_source=lootura.com) — 2026-08-03T20:41:00.000Z
+No public source links.

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/oval-office/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/oval-office/index.json",
   "description": "Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
+      "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Trump says new talks are 'last chance' for Iran to forge a deal",
       "summary": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
@@ -44,10 +49,10 @@
   ],
   "sources": [
     {
-      "title": "WATCH: Trump says new talks are 'last chance' for Iran to forge a deal",
-      "url": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:51:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
+      "url": "https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:15:02.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 1

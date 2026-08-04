@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,11 @@
     {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
+      "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
       "date": "2026-08-04"
     },
     {
@@ -62,26 +67,27 @@
       "title": "White House Correspondents' Association scholarship recipients relive terrifying dinner",
       "summary": "Kaitlin Bender-Thomas and Madison Maynard, two White House Correspondents' Association scholarship recipients, join \"The Daily Report\" to reflect on April's terrifying shooting ahead of the rescheduled dinner.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
-      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
       "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
       "url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:04:23.000Z",
+      "publishedAt": "2026-08-04T12:39:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T00:23:06.000Z",
+      "publishedAt": "2026-08-04T13:39:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
+      "url": "https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:15:02.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

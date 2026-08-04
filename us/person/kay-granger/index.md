@@ -28,4 +28,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83](https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html?utm_source=lootura.com) — 2026-08-03T17:23:09.000Z
+No public source links.

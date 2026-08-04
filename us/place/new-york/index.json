@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,11 @@
     {
       "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
       "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
+      "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
       "date": "2026-08-04"
     },
     {
@@ -77,11 +82,6 @@
       "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
       "summary": "Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
-      "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -92,7 +92,7 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "The war to succeed Bernie Sanders is already underway",
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
       "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
       "publishedAt": "2026-08-04T09:55:00.000Z",
       "sourceId": "lootura-us-politico"

@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says
 
 Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.
+
+Date: 2026-08-04
+
+### Drone hits crowded Russian beach, killing 7 people
+
+A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. Russian officials say seven people were killed and dozens were injured. Holly Williams reports.
+
+Date: 2026-08-04
+
+### Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach
+
+Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.
+
+Date: 2026-08-04
+
+### Russia says a Ukrainian drone struck a busy beach, killing at least 7 people
+
+Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.
 
 Date: 2026-08-04
 
@@ -50,26 +68,9 @@ Russian forces have ramped up the number of missile strikes on Ukrainian cities,
 
 Date: 2026-08-03
 
-### Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia
-
-A bipartisan bill to impose tough new sanctions on Russia is making progress in the U.S. Senate. But concerns over how the bill grants President Trump new tariff authorities is complicating the path.
-
-Date: 2026-08-01
-
-### The U.S. Deported Him to Jail in Russia. Then He Escaped.
-
-Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.
-
-Date: 2026-08-01
-
-### Zelenskyy accuses Russia of helping Iran target U.S. bases with satellite images
-
-Ukrainian President Volodymyr Zelenskyy's accusations of Russia helping Iran target U.S. troops are not the first.
-
-Date: 2026-07-25
-
 ## Sources
 
+- [Drone hits crowded Russian beach, killing 7 people](https://www.cbsnews.com/video/drone-hits-crowded-russian-beach-killing-7-people/?utm_source=lootura.com) — 2026-08-04T14:01:40.000Z
 - [Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says](https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com) — 2026-08-04T10:17:23.000Z
-- [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z
-- [Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets](https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com) — 2026-08-04T09:42:12.000Z
+- [Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach](https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com) — 2026-08-04T11:58:05.000Z
+- [Russia says a Ukrainian drone struck a busy beach, killing at least 7 people](https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725?utm_source=lootura.com) — 2026-08-04T07:33:24.000Z

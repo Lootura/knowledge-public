@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T10:47:05.757Z",
+  "generatedAt": "2026-08-04T14:17:07.851Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|63|1785839748254",
+    "signature": "1.18.0|64|1785852281484",
     "version": "1.18.0",
-    "build": 63,
-    "latestEntityUpdatedAt": "2026-08-04T10:35:48.254Z"
+    "build": 64,
+    "latestEntityUpdatedAt": "2026-08-04T14:04:41.484Z"
   },
   "atlas": {
     "hero": {
@@ -20,36 +20,23 @@
       "title": "España reprochará en Bruselas la reacción europea a la crisis de Ceuta",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-08-04T10:35:48.254Z",
-      "score": 1652,
-      "sourceCount": 764,
+      "updatedAt": "2026-08-04T14:04:41.484Z",
+      "score": 1683,
+      "sourceCount": 771,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-04T10:35:48.254Z",
-        "score": 1642,
-        "sourceCount": 293,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-08-04T10:35:48.254Z",
-        "score": 1636,
-        "sourceCount": 549,
+        "id": "es-union-europea",
+        "name": "Unión Europea",
+        "type": "organization",
+        "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
+        "url": "https://atlas.lootura.com/es/organization/union-europea",
+        "path": "/es/organization/union-europea",
+        "updatedAt": "2026-08-04T14:04:41.484Z",
+        "score": 1676,
+        "sourceCount": 26,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +47,39 @@
         "title": "El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva",
         "url": "https://atlas.lootura.com/es/organization/partido-popular",
         "path": "/es/organization/partido-popular",
-        "updatedAt": "2026-08-04T10:35:48.254Z",
-        "score": 1624,
-        "sourceCount": 213,
+        "updatedAt": "2026-08-04T14:04:41.484Z",
+        "score": 1668,
+        "sourceCount": 217,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-guardia-civil",
-        "name": "Guardia Civil",
-        "type": "organization",
-        "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
-        "url": "https://atlas.lootura.com/es/organization/guardia-civil",
-        "path": "/es/organization/guardia-civil",
-        "updatedAt": "2026-08-04T10:35:48.254Z",
-        "score": 1620,
-        "sourceCount": 80,
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-04T14:04:41.484Z",
+        "score": 1662,
+        "sourceCount": 297,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-04T14:04:41.484Z",
+        "score": 1654,
+        "sourceCount": 552,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 144
+    "publicEntityCount": 147
   }
 }

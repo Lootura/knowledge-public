@@ -8,11 +8,36 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Democrats Face Big Test in Critical Michigan Primary",
+      "summary": "It is primary day in a handful of states and voters are heading to the polls with key races up for grabs that could signal which direction the parties are headed before the November midterms. One of the most closely watched contests is taking place in Michigan, which has become the Democrat’s most expensive Senate prim.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans. (Image credit: Finn Gomez).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "summary": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire. (Image credit: Scott Olson).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
+      "summary": "Cori Bush’s 2024 primary loss to Wesley Bell was heralded as a major defeat for the insurgent progressive movement. Now, their rematch for Missouri’s 1st District two years later comes at a time when Bush and her allies seem to be winning the battle for the future of the Democratic Party. The dueling factions in St. Lo.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
+      "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
+      "date": "2026-08-04"
+    },
     {
       "title": "The war to succeed Bernie Sanders is already underway",
       "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
@@ -29,64 +54,51 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
       "summary": "Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.",
       "date": "2026-08-03"
     },
     {
-      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
-      "summary": "Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "We’re about to find out how powerful progressives really are",
-      "summary": "Michigan is ground zero for the Democratic Party’s ideological war. Its marquee Senate race and two of its House primaries on Tuesday — in Michigan’s 7th and 13th Congressional Districts — will provide another crucial test of whether progressives can not only keep up their winning streak in safe-blue seats but also bre.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Democratic candidate in Kansas touts ‘mainstream’ views as GOP look to flip open governor seat",
-      "summary": "The divide between establishment and anti-establishment Democrats is on full display in Kansas ahead of Tuesday’s primary for governor. Kansas state Sen. Cindy Holscher (D) joins Meet the Press NOW to discuss her path to victory and the key issues facing Kansans.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "California Democrats Support Billionaire Tax, but Debate Lingers",
-      "summary": "Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "How a Centrist Split Boosted Progressive Hopes in a Democratic House Primary",
-      "summary": "Unable to unite behind a single candidate in Michigan’s Seventh District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
+      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
       "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Rep. Haley Stevens on Israel, the Democratic Party and PAC money",
-      "url": "https://www.cbsnews.com/video/rep-haley-stevens-on-israel-the-democratic-party-and-pac-money/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T01:33:05.000Z",
+      "title": "How two versions of the Democratic Party are on display in Michigan's Senate primary",
+      "url": "https://www.cbsnews.com/video/democratic-divisions-on-display-in-michigan-senate-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:17:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:20:42.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Democrats Face Big Test in Critical Michigan Primary",
+      "url": "https://www.today.com/video/primaries-underway-in-5-states-here-are-key-contests-to-watch-267728453730?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:20:11.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "The war to succeed Bernie Sanders is already underway",
-      "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:55:00.000Z",
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:29:23.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
+      "url": "https://www.politico.com/news/2026/08/04/cori-bush-wesley-bell-aipac-primary-01022866?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T08:45:00.000Z",
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "AIPAC front and center in Bell-Bush rematch",
-      "url": "https://www.politico.com/news/2026/08/04/cori-bush-wesley-bell-aipac-primary-01022866?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T08:45:00.000Z",
+      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
+      "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
     },
     {
@@ -100,13 +112,7 @@
       "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T22:31:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:11:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 8
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -17,6 +17,30 @@ Date: 2026-08-04
 ### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
 
 La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
+
+Date: 2026-08-04
+
+### El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea
+
+El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del "caso Begoña Gómez" asumir la indagación en las supuestas irregularidades me.
+
+Date: 2026-08-04
+
+### Marlaska confirma que 70.000 de los 72.000 migrantes que entraron en Ceuta han vuelto a Marruecos
+
+El ministro del Interior, Fernando Grande-Marlaska, ha asegurado que la reunión con sus homólogos de la Unión Europea que habían pedido ponerle coto al espacio Schengen por la crisis migratoria en Ceuta se ha desarrollado de un modo “satisfactorio” para España , una vez explicado en la cita que la ciudad autónoma cuent.
+
+Date: 2026-08-04
+
+### La UE pide reforzar la prevención y muestra solidaridad con España tras la crisis en Ceuta
+
+Los ministros de Interior de la Unión Europea (UE) han mostrado este martes su “firme solidaridad” con España tras la crisis migratoria en Ceuta y han destacado la necesidad de “seguir luchando sin descanso” contra las redes de tráfico de migrantes, así como mejorar la capacidad de prevención ante este tipo de situacio.
+
+Date: 2026-08-04
+
+### Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración
+
+Los ministros de Interior de la Unión Europea y de los países asociados al espacio Schengen han coincidido en reforzar las fronteras exteriores, los retornos, la cooperación con terceros países y la capacidad de anticipación ante futuros episodios como la crisis migratoria de Ceuta, al tiempo que han expresado su «firm.
 
 Date: 2026-08-04
 
@@ -44,31 +68,11 @@ La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este 
 
 Date: 2026-08-03
 
-### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
-
-Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.
-
-Date: 2026-08-03
-
-### El amnistiado que reniega del perdón: "Sólo sirvió para que Sánchez esté en la Moncloa"
-
-Gracias a la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía, el Tribunal Supremo está empezando a aplicar la amnistía a pesos pesados del procés. Uno de ellos es Josep Costa , vicepresidente del Parlament entre 2018 y 2020, durante el mandato de Quim Torra . Costa no sólo no se a.
-
-Date: 2026-08-02
-
-### Guardias civiles piden a la UE una política de fronteras "que no dependa" de terceros países tras la crisis de Ceuta
-
-La Asociación Unificada de Guardias Civiles (AUGC) ha solicitado este sábado que la Unión Europea disponga de una política de fronteras propia "que no dependa" de terceros países. En un comunicado, la organización sostiene que "Europa necesita una política de fronteras propia, que no dependa de terceros estados que pue.
-
-Date: 2026-08-02
-
-### Ceuta, asaltada por los desamparados
-
-Solo una posición de firmeza, clara, consistente y creíble, ante Marruecos podrá frenar esta falta de respeto a los acuerdos y a la convivencia entre vecinos. Y en esa posición se debe exigir a la Unión Europea el apoyo absoluto e incondicional. Los que se juegan la vida para alcanzar territorio español son los que men.
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea](https://www.larazon.es/espana/juez-peinado-archiva-investigacion-barrabes-contrato-pasa-fiscalia-europea_202608046a71ee8f71b42a0b5dda54ad.html?utm_source=lootura.com) — 2026-08-04T13:52:32.000Z
+- [Marlaska confirma que 70.000 de los 72.000 migrantes que entraron en Ceuta han vuelto a Marruecos](https://www.lavanguardia.com/politica/20260804/11607699/marlaska-confirma-70-000-72-000-migrantes-entraron-ceuta-han-vuelto-marruecos.html?utm_source=lootura.com) — 2026-08-04T12:27:19.000Z
+- [La UE pide reforzar la prevención y muestra solidaridad con España tras la crisis en Ceuta](https://www.lavanguardia.com/politica/20260804/11607684/ue-muestra-solidaridad-espana-pide-reforzar-prevencion-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:12:20.000Z
 - [El Gobierno italiano reprocha a España no consultar la regularización con la UE](https://theobjective.com/internacional/2026-08-04/ministro-exteriores-italiano-espana-regularizacion-ue/?utm_source=lootura.com) — 2026-08-04T09:43:27.000Z
 - [El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta](https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com) — 2026-08-04T09:54:30.000Z
+- [Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración](https://theobjective.com/internacional/2026-08-04/ministros-interior-ue-inmigracion/?utm_source=lootura.com) — 2026-08-04T12:40:37.000Z

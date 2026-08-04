@@ -34,19 +34,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
-      "url": "https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:39:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/chuck-edwards-harrassment.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:58:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

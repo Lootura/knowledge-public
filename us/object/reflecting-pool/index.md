@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
@@ -72,5 +72,3 @@ Date: 2026-08-01
 
 - [More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office](https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-charges-dropped-pirro/?utm_source=lootura.com) — 2026-08-04T01:21:00.000Z
 - [Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
-- [Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request](https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped?utm_source=lootura.com) — 2026-08-03T19:33:05.000Z
-- [Tamara Keith and Amy Walter on Democratic primary voters not playing it safe](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com) — 2026-08-03T22:20:42.000Z

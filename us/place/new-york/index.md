@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Why Texas is betting 'Y'all Street' can take on Wall Street
 
 Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).
+
+Date: 2026-08-04
+
+### Bernie Sanders’ circle is pretty clear on who his successor will be
+
+The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
 
 Date: 2026-08-04
 
@@ -62,13 +68,7 @@ Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s res
 
 Date: 2026-07-23
 
-### Mamdani says he won't try to arrest Israel's Netanyahu
-
-New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z
-- [The war to succeed Bernie Sanders is already underway](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z
+- [Bernie Sanders’ circle is pretty clear on who his successor will be](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z

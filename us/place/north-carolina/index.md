@@ -28,5 +28,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund](https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-03T19:39:59.000Z
-- [House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules](https://www.nytimes.com/2026/08/03/us/politics/chuck-edwards-harrassment.html?utm_source=lootura.com) — 2026-08-03T20:58:51.000Z
+No public source links.

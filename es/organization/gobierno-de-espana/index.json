@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha",
+      "summary": "Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España",
       "summary": "Una crisis migratoria sin precedentes y que ha traspasado fronteras. Lo vivido en Ceuta el pasado jueves con la entrada de decenas de miles de personas ha supuesto un choque inédito entre el Gobierno de España y varios de sus socios europeos. Finlandia , Dinamarca , Países Bajos , pero sobre todo Italia , han criticado.",
@@ -58,13 +63,15 @@
       "title": "Carlos Herrera: «El CNI supo en su momento que lo de Ceuta iba a pasar y avisó al Gobierno de España»",
       "summary": "Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española en Ceuta entre el pasado jueves y viernes, desatando la que muchos definen como una de las mayores crisis migratorias en nuestro país. Otros, por su parte, señalan que esta avalancha de inmigrantes es una estrategia de presión de Marruecos h.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
-      "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha",
+      "url": "https://theconversation.com/como-el-incidente-en-el-paso-fronterizo-de-ceuta-ha-beneficiado-a-la-extrema-derecha-288965?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:23:12.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

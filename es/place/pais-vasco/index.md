@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación
 
 Date: 2026-08-04
 
-### Euskadi reforzará la prevención de la soledad no deseada a través de betiON
-
-El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.
-
-Date: 2026-08-03
-
 ### El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi
 
 La Ertzaintza «se tomó muy en serio» los mensajes intimidatorios y desplegó «operativos preventivos» en los centros escolares.
+
+Date: 2026-08-03
+
+### Euskadi reforzará la prevención de la soledad no deseada a través de betiON
+
+El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.
 
 Date: 2026-08-03
 
@@ -72,4 +72,3 @@ Date: 2026-07-24
 
 - [Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa](https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com) — 2026-08-04T09:38:00.000Z
 - [El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi](https://www.elcorreo.com/sociedad/menor-lideraba-red-extremista-764-amenazo-tiroteos-20260803165820-nt_amp.html?utm_source=lootura.com) — 2026-08-03T14:58:20.000Z
-- [Euskadi reforzará la prevención de la soledad no deseada a través de betiON](https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com) — 2026-08-03T10:56:47.000Z

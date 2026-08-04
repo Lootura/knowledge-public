@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha
+
+Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.
+
+Date: 2026-08-04
 
 ### Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España
 
@@ -62,12 +68,6 @@ Unas 60.000 personas procedentes de Marruecos traspasaron la frontera española 
 
 Date: 2026-08-03
 
-### La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá
-
-Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha](https://theconversation.com/como-el-incidente-en-el-paso-fronterizo-de-ceuta-ha-beneficiado-a-la-extrema-derecha-288965?utm_source=lootura.com) — 2026-08-04T10:23:12.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.json",
   "description": "Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Thom R. Tillis",
     "Thom Roland Tillis",
@@ -24,11 +24,6 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
-      "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
       "summary": "Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.",
       "date": "2026-08-03"
@@ -37,19 +32,18 @@
       "title": "Discovered by Atlas",
       "summary": "Thom Tillis first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-03"
+    },
+    {
+      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
+      "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
+      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
-      "url": "https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:39:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped",
       "url": "https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "publishedAt": "2026-08-04T09:00:41.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -59,5 +53,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

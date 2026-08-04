@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -20,6 +20,16 @@
     {
       "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
       "summary": "Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+      "summary": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
       "date": "2026-08-04"
     },
     {
@@ -56,16 +66,6 @@
       "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
       "summary": "Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems. (Image credit: Dan Bashakov).",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -76,15 +76,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:45:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:58:05.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
       "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:42:12.000Z",
+      "publishedAt": "2026-08-04T13:55:54.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

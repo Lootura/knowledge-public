@@ -52,4 +52,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia](https://theobjective.com/gente/2026-08-04/raices-maternas-amancio-ortega-pueblo-campina-pisuerga/?amp=&utm_source=lootura.com) — 2026-08-04T06:00:00.000Z
+No public source links.

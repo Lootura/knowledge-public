@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### These 25 U.S. States Are Suing the Trump Administration. Here's Why
+
+President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.
+
+Date: 2026-08-04
 
 ### For Republicans planning post-Trump future, one race in Washington is worth watching
 
@@ -62,12 +68,6 @@ Date: 2026-07-22
 
 Date: 2026-07-22
 
-### How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy
-
-—Photo-Illustration by TIME (Cavan Images/Getty Images; Yuliya Taba—Getty Images) Content warning: This story contains descriptions of child sexual abuse, child sexual exploitation, and trafficking that some readers may find distressing. Teresita was never a girly girl. Growing up in the choked urban sprawl north of Ma.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [These 25 U.S. States Are Suing the Trump Administration. Here's Why](https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/?utm_source=lootura.com) — 2026-08-04T13:15:02.000Z

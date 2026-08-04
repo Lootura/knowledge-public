@@ -3,10 +3,22 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
+
+La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.
+
+Date: 2026-08-04
+
+### Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios
+
+La presidenta madrileña quiere agradecer personalmente al argentino este gesto: "Esperamos recibirle pronto para darle el aplauso que se merece" Leer.
+
+Date: 2026-08-04
 
 ### Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso
 
@@ -56,18 +68,7 @@ El capitán de la selección de Argentina, Lionel Messi, confesó que es «una l
 
 Date: 2026-07-18
 
-### La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años
-
-Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.
-
-Date: 2026-07-18
-
-### Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'
-
-"Lo que han hecho será casi imposible de imitar, tal vez lo veamos, pero no creo que suceda . Es único", dijo hace cinco años Pep Guardiola sobre la rivalidad y los éxitos que habían conseguido Cristiano Ronaldo y Leo Messi en sus carreras deportivas. El considerado por muchos como el mejor entrenador de la historia no.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
+- [Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios](https://www.elmundo.es/madrid/2026/08/04/6a71e81021efa0986c8b45ad.html?utm_source=lootura.com) — 2026-08-04T13:43:13.000Z

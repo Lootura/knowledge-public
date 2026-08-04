@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
 President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
+
+Date: 2026-08-04
+
+### These 25 U.S. States Are Suing the Trump Administration. Here's Why
+
+President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.
 
 Date: 2026-08-04
 
@@ -62,13 +68,8 @@ Kaitlin Bender-Thomas and Madison Maynard, two White House Correspondents' Assoc
 
 Date: 2026-07-25
 
-### Trump returns to correspondents' dinner 3 months after shooting
-
-President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech. (Image credit: Rod Lamkey).
-
-Date: 2026-07-25
-
 ## Sources
 
-- [White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html?utm_source=lootura.com) — 2026-08-04T09:04:23.000Z
-- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T00:23:06.000Z
+- [White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html?utm_source=lootura.com) — 2026-08-04T12:39:30.000Z
+- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z
+- [These 25 U.S. States Are Suing the Trump Administration. Here's Why](https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/?utm_source=lootura.com) — 2026-08-04T13:15:02.000Z

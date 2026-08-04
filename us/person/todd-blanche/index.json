@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -18,6 +18,26 @@
       "title": "GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped",
       "summary": "Blanche’s nomination had been held up over concerns from GOP Sens. John Cornyn and Thom Tillis, but the parties reached a deal to end the standoff.",
       "date": "2026-08-04"
+    },
+    {
+      "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
+      "summary": "NPR's Steve Inskeep speaks with Sen. Alex Padilla, D-Calif., about the Senate Judiciary Committee's anticipated vote on Todd Blanche's nomination for attorney general.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Senate Judiciary Committee to vote on Todd Blanche's nomination for attorney general",
+      "summary": "The Senate Judiciary Committee is expected to vote Tuesday on Todd Blanche's nomination for attorney general after Blanche assuaged concerns from two Republican senators.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
+      "summary": "Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+      "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+      "date": "2026-08-03"
     },
     {
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
@@ -30,18 +50,8 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
-      "summary": "Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.",
-      "date": "2026-08-03"
-    },
-    {
       "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
       "summary": "Acting Attorney General Todd Blanche cleared a major hurdle in his push to permanently lead the Department of Justice. He reached a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is scrapping a $1.8 billion \"anti-weaponization\" fund that could have provide.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
-      "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
       "date": "2026-08-03"
     },
     {
@@ -53,42 +63,26 @@
       "title": "NATO spending pressure returned",
       "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Todd Blanche reaches deal with GOP holdouts and Ariana Grande steps back: Morning Rundown",
-      "summary": "Trump’s attorney general pick scraps an “anti-weaponization” fund in a deal with holdout senators.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
-      "url": "https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:39:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped",
       "url": "https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "publishedAt": "2026-08-04T09:00:41.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Todd Blanche's nomination back on track after GOP deal",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918071/todd-blanches-nomination-back-on-track-after-gop-deal?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:31:02.000Z",
+      "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:50:25.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
-      "url": "https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:55:51.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Senate Judiciary Committee to vote on Todd Blanche's nomination for attorney general",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918355/senate-judiciary-committee-to-vote-on-todd-blanches-nomination-for-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:50:35.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
@@ -103,5 +97,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

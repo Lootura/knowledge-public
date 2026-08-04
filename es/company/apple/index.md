@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo
 
 Apple acaba de dar un golpe en la mesa contra Telegram. Después de que la semana pasada Rusia firmase una orden de detención contra Pável Dúrov , el dueño de la app, por colaboración terrorista, ahora la compañía de Cupertino vuelve a arremeter contra la integridad del servicio. La empresa de la manzana ha sido contund.
+
+Date: 2026-08-04
+
+### ¿A qué hora se estrena la temporada 4 de ‘Ted Lasso’ en Apple TV?
+
+Ted Lasso por fin está de vuelta con el estreno de su temporada 4. La serie es una de las comedias más aclamadas del siglo XXI, con infinidad de premios, muy buenas valoraciones y un gigantesco séquito de fans. Sin embargo, con el final de su tercera entrega parecía que el título se despedía definitivamente allá por 20.
 
 Date: 2026-08-04
 
@@ -62,12 +68,7 @@ Hay una nueva carrera en el mercado de smartphones y Samsung acaba de dar el pis
 
 Date: 2026-07-24
 
-### Donald Trump amenaza a Europa con más aranceles por multar a Google, Apple y otras empresas
-
-Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciales" por multar a empresas estadounidenses. El presidente ha cargado contra el bloque luego de que Bruselas impusiera sanciones millonarias a Google, Apple, Amazon y Meta por violar la DMA. Donald Trump advirtió que Europa pagará un precio muy.
-
-Date: 2026-07-24
-
 ## Fuentes
 
 - [Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo](https://hipertextual.com/apple/adios-a-telegram-en-el-iphone-la-apple-store-ha-eliminado-la-app-de-un-plumazo/?utm_source=lootura.com) — 2026-08-04T10:27:16.000Z
+- [¿A qué hora se estrena la temporada 4 de ‘Ted Lasso’ en Apple TV?](https://hipertextual.com/cine-television/a-que-hora-se-estrena-la-temporada-4-de-ted-lasso-en-apple-tv/?utm_source=lootura.com) — 2026-08-04T13:00:46.000Z

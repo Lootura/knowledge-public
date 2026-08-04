@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,18 +11,6 @@
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
 El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
-
-Date: 2026-08-04
-
-### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
-
-El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
-
-Date: 2026-08-04
-
-### El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva
-
-En la portada de Bild Zeitung, el periódico más leído de Alemania, el vicepresidente de Baviera y presidente de Partido Popular Europeo culpa este martes a Pedro Sánchez y a su política migratoria de los muertos en Ceuta . «Nadie habría tenido que morir», lamenta Manfred Weber , y atribuye la política errática de Españ.
 
 Date: 2026-08-04
 
@@ -38,40 +26,54 @@ La delegación española del Partido Popular en el Parlamento Europeo ha denunci
 
 Date: 2026-08-04
 
+### Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles
+
+El secretario general del PP , Miguel Tellado , ha afirmado este martes que la crisis desencadenada en Ceuta por la entrada masiva de inmigrantes desde Marruecos la semana pasada "no es una crisis migratoria" sino "de seguridad nacional" y ha exigido el cese del ministro del Interior, Fernando Grande-Marlaska , y de la.
+
+Date: 2026-08-04
+
+### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
+
+El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
+
+Date: 2026-08-04
+
+### El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"
+
+Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad nacional" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: "El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido" El Gobierno anuncia una partida extraordinari.
+
+Date: 2026-08-04
+
+### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
+
+El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.
+
+Date: 2026-08-04
+
+### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
+
+El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
+
+Date: 2026-08-04
+
+### El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva
+
+En la portada de Bild Zeitung, el periódico más leído de Alemania, el vicepresidente de Baviera y presidente de Partido Popular Europeo culpa este martes a Pedro Sánchez y a su política migratoria de los muertos en Ceuta . «Nadie habría tenido que morir», lamenta Manfred Weber , y atribuye la política errática de Españ.
+
+Date: 2026-08-04
+
 ### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
 
 Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.
 
 Date: 2026-08-03
 
-### Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21
-
-El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.
-
-Date: 2026-08-03
-
-### El Cermi “confía” en que el PP "entre en el acuerdo· de reforma de las leyes de discapacidad y dependencia para “hacerla más perfecta”
-
-El Comité Español de Representantes de Personas con Discapacidad ( Cermi ) "confía" en que el PP "entre en el acuerdo" de reforma de las leyes de discapacidad y dependencia para "hacerla más perfecta". Así lo manifestó su presidente, Luis Cayo Pérez Bueno , durante una entrevista concedida a Servimedia en la que subray.
-
-Date: 2026-08-03
-
-### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
-
-Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.
-
-Date: 2026-08-03
-
-### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
-
-El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda](https://www.abc.es/espana/cataluna/consejo-garantias-estatutarias-considera-inconstitucional-ley-illa-20260804114637-nt.html?utm_source=lootura.com) — 2026-08-04T09:46:38.000Z
-- [El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva](https://www.abc.es/espana/presidente-populares-europeos-culpa-politica-pedro-sanchez-20260804112350-nt.html?utm_source=lootura.com) — 2026-08-04T10:01:21.000Z
+- [Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles](https://www.20minutos.es/nacional/tellado-sostiene-que-crisis-ceuta-no-es-migratoria-sino-seguridad-nacional-pide-cese-marlaska-robles_7022435_0.html?utm_source=lootura.com) — 2026-08-04T11:30:29.000Z
+- [Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»](https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com) — 2026-08-04T13:18:13.000Z
 - [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z
+- [El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"](https://www.eldiario.es/politica/pp-anticipa-rechazo-acoger-menores-ceuta-comunidades-no-ver-situaciones-anteriores_1_13427303.html?utm_source=lootura.com) — 2026-08-04T11:06:38.000Z
 - [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z
+- [El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa](https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com) — 2026-08-04T13:12:07.000Z
 - [El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta](https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com) — 2026-08-04T09:54:30.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
+      "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa",
       "summary": "Villarrubia de Santiago , en la provincia de Toledo, conserva una de las historias más curiosas relacionadas con Santa Teresa de Jesús . En el interior de la iglesia de San Bartolomé se guarda un antiguo baúl que, según la tradición, perteneció a la santa y quedó olvidado en la localidad durante uno de sus viajes por C.",
@@ -58,13 +63,15 @@
       "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
       "summary": "Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
-      "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
+      "url": "https://www.elconfidencial.com/espana/2026-08-04/accidente-laboral-torija-guadalajara-1tna-1tps_4400748/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:02:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Spain to put containment fence around Ceuta after deadly border rush from Morocco](https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com) — 2026-08-03T19:39:31.000Z
+No public source links.

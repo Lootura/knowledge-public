@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
+      "date": "2026-08-04"
+    },
     {
       "title": "La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona",
       "summary": "El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.",
@@ -62,13 +67,15 @@
       "title": "El Ibex busca récords con el petróleo desinflado",
       "summary": "El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
-      "summary": "Tras cancelar un \"ataque masivo\" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "url": "https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:24:59.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

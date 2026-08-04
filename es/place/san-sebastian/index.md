@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa
 
 Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.
+
+Date: 2026-08-04
+
+### Consulta los servicios de Lurraldebus para la Semana Grande de Donostia
+
+Además de los servicios habituales y de los refuerzos para la entrada y salida de los fuegos artificiales, se realizarán servicios nocturnos especiales.
 
 Date: 2026-08-04
 
@@ -62,14 +68,9 @@ Evenepoel busca su cuarta txapela en la Clásica y superar a Marino Lejarreta pa
 
 Date: 2026-07-31
 
-### Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián
-
-El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa](https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com) — 2026-08-04T09:38:00.000Z
 - [Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia](https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:08:37.000Z
+- [Consulta los servicios de Lurraldebus para la Semana Grande de Donostia](https://www.diariovasco.com/san-sebastian/semana-grande/servicios-especiales-lurraldebus-20260804152006-nt_amp.html?utm_source=lootura.com) — 2026-08-04T13:20:35.000Z
 - [El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»](https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com) — 2026-08-03T19:02:29.000Z

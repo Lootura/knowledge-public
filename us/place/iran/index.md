@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -38,6 +38,18 @@ As President Trump heads to the West Coast to talk to Americans about the econom
 
 Date: 2026-08-04
 
+### Trump claims Iran talks are underway as Tehran denies it
+
+President Donald Trump accused Iran of duplicity and insisted the two sides were discussing reopening the Strait of Hormuz as early as Tuesday, even as Tehran denied talks were even taking place.
+
+Date: 2026-08-04
+
+### Stocks Open at Record High as Oil Falls on Hopes of Iran Deal
+
+The price of Brent crude oil fell sharply.
+
+Date: 2026-08-04
+
 ### Oil Prices Plummet as Investors Digest Pause in Iran War Fighting
 
 The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.
@@ -56,24 +68,12 @@ President Trump took reporter questions on the Iran war, the renovation of the r
 
 Date: 2026-08-03
 
-### Trump gives Iran ‘last chance’ to make deal before U.S. ‘decapitation’ strikes
-
-President Trump said Iran in falsely claiming it is not negotiating with the U.S. Trump said the Iranian regime is discussing ending its attacks on commercial ships in the Strait of Hormuz. NBC News’ Keir Simmons reports.
-
-Date: 2026-08-03
-
-### Investigators probe whether Iran was behind cyberattack on water systems in 7 states
-
-Investigators are looking into whether Iran was behind cyberattacks on public water systems in at least seven states. Officials in Michigan and Minnesota say their water systems are operating safely after the attacks. CBS News cybersecurity expert and analyst Chris Krebs explains what to know.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [8/3: The Takeout with Major Garrett](https://www.cbsnews.com/video/83-the-takeout-with-major-garrett/?utm_source=lootura.com) — 2026-08-04T02:35:03.000Z
-- [WATCH: Trump says new talks are 'last chance' for Iran to forge a deal](https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com) — 2026-08-03T19:51:58.000Z
-- [Oil Prices Plummet as Investors Digest Pause in Iran War Fighting](https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com) — 2026-08-03T12:55:01.000Z
-- [Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War](https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com) — 2026-08-04T04:01:09.000Z
+- [Trump claims Iran talks are underway as Tehran denies it](https://www.nbcnews.com/world/iran/trump-iran-clash-hormuz-talks-cargo-ship-attacked-rcna590727?utm_source=lootura.com) — 2026-08-04T11:11:15.000Z
+- [Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War](https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com) — 2026-08-04T12:21:57.000Z
 - [Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions](https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html?utm_source=lootura.com) — 2026-08-04T10:18:51.000Z
-- [An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump](https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html?utm_source=lootura.com) — 2026-08-04T01:19:28.000Z
-- [How the War in Iran Is Complicating Trump’s Agenda at Home](https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html?utm_source=lootura.com) — 2026-08-04T09:04:28.000Z
+- [Stocks Open at Record High as Oil Falls on Hopes of Iran Deal](https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html?utm_source=lootura.com) — 2026-08-04T13:50:05.000Z
+- [An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump](https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html?utm_source=lootura.com) — 2026-08-04T01:19:29.000Z
+- [How the War in Iran Is Complicating Trump’s Agenda at Home](https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html?utm_source=lootura.com) — 2026-08-04T09:04:29.000Z

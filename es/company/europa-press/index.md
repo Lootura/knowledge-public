@@ -3,20 +3,26 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
 
-### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
+### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
 
-Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
+Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.
 
-Date: 2026-08-02
+Date: 2026-08-04
 
 ### Discovered by Atlas
 
 Europa Press first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-02
+
+### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
+
+Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
 
 Date: 2026-08-02
 
@@ -28,4 +34,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)](https://www.elconfidencial.com/espana/2026-08-04/accidente-laboral-torija-guadalajara-1tna-1tps_4400748/?utm_source=lootura.com) — 2026-08-04T11:02:00.000Z

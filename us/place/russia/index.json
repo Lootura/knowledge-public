@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-04T14:05:13.908Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
@@ -17,6 +17,21 @@
     {
       "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
       "summary": "Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Drone hits crowded Russian beach, killing 7 people",
+      "summary": "A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. Russian officials say seven people were killed and dozens were injured. Holly Williams reports.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
+      "summary": "Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.",
       "date": "2026-08-04"
     },
     {
@@ -48,24 +63,15 @@
       "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
       "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Bill championed by late Senator Lindsey Graham seeks to increase sanctions on Russia",
-      "summary": "A bipartisan bill to impose tough new sanctions on Russia is making progress in the U.S. Senate. But concerns over how the bill grants President Trump new tariff authorities is complicating the path.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
-      "summary": "Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Zelenskyy accuses Russia of helping Iran target U.S. bases with satellite images",
-      "summary": "Ukrainian President Volodymyr Zelenskyy's accusations of Russia helping Iran target U.S. troops are not the first.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "Drone hits crowded Russian beach, killing 7 people",
+      "url": "https://www.cbsnews.com/video/drone-hits-crowded-russian-beach-killing-7-people/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T14:01:40.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
       "url": "https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com",
@@ -73,17 +79,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:45:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
+      "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:58:05.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
-      "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:42:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
+      "url": "https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T07:33:24.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

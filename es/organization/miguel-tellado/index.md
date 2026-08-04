@@ -3,10 +3,22 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles
+
+El secretario general del PP , Miguel Tellado , ha afirmado este martes que la crisis desencadenada en Ceuta por la entrada masiva de inmigrantes desde Marruecos la semana pasada "no es una crisis migratoria" sino "de seguridad nacional" y ha exigido el cese del ministro del Interior, Fernando Grande-Marlaska , y de la.
+
+Date: 2026-08-04
+
+### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
+
+El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
+
+Date: 2026-08-04
 
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
@@ -58,4 +70,5 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles](https://www.20minutos.es/nacional/tellado-sostiene-que-crisis-ceuta-no-es-migratoria-sino-seguridad-nacional-pide-cese-marlaska-robles_7022435_0.html?utm_source=lootura.com) — 2026-08-04T11:30:29.000Z
+- [Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»](https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com) — 2026-08-04T13:18:13.000Z

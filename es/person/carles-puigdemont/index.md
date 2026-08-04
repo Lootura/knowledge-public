@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont](https://www.elconfidencial.com/espana/cataluna/2026-08-04/jaume-giro-rompe-carne-junts-diferencias-puigdemont_4400582/?utm_source=lootura.com) — 2026-08-04T08:12:00.000Z
+No public source links.

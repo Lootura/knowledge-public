@@ -1,0 +1,45 @@
+{
+  "id": "es-juan-carlos-barrabes",
+  "name": "Juan Carlos Barrabés",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/juan-carlos-barrabes",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/juan-carlos-barrabes",
+  "markdownUrl": "https://atlas.lootura.com/es/person/juan-carlos-barrabes/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/juan-carlos-barrabes/index.json",
+  "description": "Sigue la actividad de Juan Carlos Barrabés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea",
+      "summary": "El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del \"caso Begoña Gómez\" asumir la indagación en las supuestas irregularidades me.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato",
+      "summary": "El juez del caso Begoña Gómez , Juan Carlos Peinado, ha acordado remitir a la Fiscalía Europea la pieza separada sobre supuestas irregularidades en un contrato sufragado con fondos europeos contra el empresario Juan Carlos Barrabés, después de que la Audiencia Provincial de Madrid le apartara del juicio con jurado popu.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Juan Carlos Barrabés first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea",
+      "url": "https://www.larazon.es/espana/juez-peinado-archiva-investigacion-barrabes-contrato-pasa-fiscalia-europea_202608046a71ee8f71b42a0b5dda54ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:52:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato",
+      "url": "https://theobjective.com/espana/tribunales/2026-08-04/peinado-fiscalia-europea-causa-barrabes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:42:10.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

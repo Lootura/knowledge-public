@@ -58,4 +58,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Tamara Keith and Amy Walter on Democratic primary voters not playing it safe](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com) — 2026-08-03T22:20:42.000Z
+No public source links.

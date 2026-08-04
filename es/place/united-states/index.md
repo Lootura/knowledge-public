@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
 
 ### El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo
 
@@ -62,12 +68,6 @@ El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado 
 
 Date: 2026-08-03
 
-### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
-
-Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo](http://www.microsiervos.com/archivo/aerotrastorno/boeing-737-max-7-puede-entrar-servicio-estados-unidos.html?utm_source=lootura.com) — 2026-08-04T08:30:00.000Z
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z

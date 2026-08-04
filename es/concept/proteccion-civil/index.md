@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- ["De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va": el 'Perejil', señalado desde el chat del incendio de Ávila](https://www.elmundo.es/espana/2026/08/03/6a70b578e4d4d8c1468b459b.html?utm_source=lootura.com) — 2026-08-03T20:40:38.000Z
+No public source links.

@@ -3,14 +3,14 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
 
 ### Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises
 
-Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.
+Andy Burnham’s whirlwind of TikToks, podcasts and promises appears to be resonating with some voters. But he faces big decisions about how to pay for it all.
 
 Date: 2026-08-04
 
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises](https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html?utm_source=lootura.com) — 2026-08-04T10:17:39.000Z
+- [Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises](https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html?utm_source=lootura.com) — 2026-08-04T12:06:43.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta](https://www.lavanguardia.com/politica/20260804/11607457/pp-europeo-apunta-todos-eurodiputados-crisis-ceuta-amenaza-soberania-europea.html?utm_source=lootura.com) — 2026-08-04T08:14:56.000Z
+No public source links.

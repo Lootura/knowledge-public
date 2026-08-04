@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says
 
 Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.
+
+Date: 2026-08-04
+
+### Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach
+
+Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.
+
+Date: 2026-08-04
+
+### A New Lethal Front in Ukraine: Its Beloved Gas Stations
+
+Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.
 
 Date: 2026-08-04
 
@@ -56,20 +68,8 @@ Ukraine and its supporters have invested years in trying to undo the skepticism 
 
 Date: 2026-08-01
 
-### Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues
-
-Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems. (Image credit: Dan Bashakov).
-
-Date: 2026-08-01
-
-### Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles
-
-The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.
-
-Date: 2026-08-01
-
 ## Sources
 
 - [Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says](https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com) — 2026-08-04T10:17:23.000Z
-- [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z
-- [Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets](https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com) — 2026-08-04T09:42:12.000Z
+- [Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach](https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com) — 2026-08-04T11:58:05.000Z
+- [A New Lethal Front in Ukraine: Its Beloved Gas Stations](https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com) — 2026-08-04T13:55:54.000Z

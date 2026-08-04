@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-04
 ### Can Reddit fend off a new wave of AI SEO spam?
 
 Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't personally tried [that b.
+
+Date: 2026-08-04
+
+### What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks
+
+—Samuel Boivin/NurPhoto—Getty Images People in AI safety circles often talk about "warning shots:” events that indicate more severe threats are on the horizon. Depending on who you ask, there have already been many—Bing’s misanthropic alter-ego Sydney, research showing AIs would blackmail to preserve themselves, AI’s m.
 
 Date: 2026-08-04
 
@@ -62,13 +68,8 @@ Date: 2026-08-03
 
 Date: 2026-08-03
 
-### The AI ‘news’ accounts hyping a blue-state dystopia
-
-The Scoop In January, President Donald Trump posted two clips from a popular YouTube account sharing some dramatic news: Walmart was closing hundreds of California stores . It wasn’t true . But as California Gov. Gavin Newsom’s communications team pushed back against the posts on X, what alarmed them more than the fals.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [How do AI developers move forward after OpenAI hacking incident?](https://www.cbsnews.com/video/how-do-ai-developers-move-forward-after-openai-hacking-incident/?utm_source=lootura.com) — 2026-08-04T01:34:05.000Z
 - [Can Reddit fend off a new wave of AI SEO spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam?utm_source=lootura.com) — 2026-08-04T10:00:00.000Z
+- [What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks](https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/?utm_source=lootura.com) — 2026-08-04T13:39:18.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T10:35:48.254Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
+      "date": "2026-08-04"
+    },
     {
       "title": "El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo",
       "summary": "Impresión artística de un MAX 7 de Southwest Airlines en vuelo – Boeing La Administración Federal de Aviación (FAA) de los Estados Unidos acaba de aprobar su certificado de tipo, lo que quiere decir que el Boeing 737 MAX 7 ya puede entrar en servicio en los Estados Unidos . Esto sucederá a principios de 2027 con Southw.",
@@ -86,19 +91,14 @@
       "title": "Por qué EEUU interviene en favor del yen japonés",
       "summary": "El fin de semana ha confirmado un secreto a voces. El pasado viernes el mercado de divisas registró una histórica intervención conjunta de Japón y Estados Unidos. La acción...",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-      "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo",
-      "url": "http://www.microsiervos.com/archivo/aerotrastorno/boeing-737-max-7-puede-entrar-servicio-estados-unidos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T08:30:00.000Z",
-      "sourceId": "lootura-es-microsiervos"
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "url": "https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:24:59.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,22 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
+
+El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
+
+Date: 2026-08-04
+
+### Discovered by Atlas
+
+Margarita Robles first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-03
 
 ### Robles defiende al CNI y pide a Marruecos que investigue "hasta el final" quiénes están detrás de la tragedia ceutí
 
@@ -26,12 +38,6 @@ La ministra de Defensa, Margarita Robles, ha reclamado este lunes a Marruecos qu
 
 Date: 2026-08-03
 
-### Discovered by Atlas
-
-Margarita Robles first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»](https://www.abc.es/espana/tellado-denuncia-vivas-alerto-dias-sanchez-puso-20260804151238-nt.html?utm_source=lootura.com) — 2026-08-04T13:18:13.000Z

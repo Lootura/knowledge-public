@@ -34,5 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Iris Tió se impone en los Europeos de París y gana un histórico oro en solo técnico](https://www.20minutos.es/deportes/iris-tio-gana-un-historico-oro-solo-tecnico-los-europeos-paris_7022338_0.html?utm_source=lootura.com) — 2026-08-04T08:25:07.000Z
-- [Una magistral Iris Tio, reina de Europa en el solo técnico](https://www.abc.es/deportes/magistral-iris-tio-reina-europa-solo-tecnico-20260804101233-nt.html?utm_source=lootura.com) — 2026-08-04T09:13:35.000Z
+No public source links.

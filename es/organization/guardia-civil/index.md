@@ -3,16 +3,10 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
-
-### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
-
-«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
-
-Date: 2026-08-04
 
 ### Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla
 
@@ -20,15 +14,27 @@ La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de 
 
 Date: 2026-08-04
 
-### Matar niños por ser hijos de guardias civiles
-
-ETA, a lo largo de su siniestra historia, protagonizó un capítulo tan sanguinario como hipócrita. "Advirtió" que todos aquellos que vivieran en cuarteles de la Guardia Civil, aunque fueran niños o mujeres, se convertían en objetivos de sus acciones criminales. Ellos ya lo habían advertido, como si eso les exculpara y l.
-
-Date: 2026-08-04
-
 ### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
 
 El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
+
+Date: 2026-08-04
+
+### La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera
+
+La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.
+
+Date: 2026-08-04
+
+### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
+
+«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
+
+Date: 2026-08-04
+
+### Matar niños por ser hijos de guardias civiles
+
+ETA, a lo largo de su siniestra historia, protagonizó un capítulo tan sanguinario como hipócrita. "Advirtió" que todos aquellos que vivieran en cuarteles de la Guardia Civil, aunque fueran niños o mujeres, se convertían en objetivos de sus acciones criminales. Ellos ya lo habían advertido, como si eso les exculpara y l.
 
 Date: 2026-08-04
 
@@ -62,15 +68,8 @@ Las estructuras, ya plenamente operativas y custodiadas por la Guardia Civil, pe
 
 Date: 2026-08-02
 
-### Las barreras de contención en aguas de Ceuta ya están operativas: la Guardia Civil muestra al detalle la valla neumática de 500 metros
-
-Las barreras marítimas de contención que se comenzaron a instalar este sábado en Ceuta , en el entorno del espigón fronterizo del Tarajal, están ya plenamente operativas, según ha confirmado el Ministerio del Interior . El departamento que dirige Fernando Grande-Marlaska ha indicado además que la Guardia Civil se ocupa.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»](https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com) — 2026-08-04T09:37:41.000Z
+- [La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera](https://www.elconfidencial.com/espana/2026-08-04/cadaveres-migrantes-ceuta-guardia-civil-1tps_4400821/?utm_source=lootura.com) — 2026-08-04T12:27:00.000Z
 - [Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla](https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com) — 2026-08-04T10:24:59.000Z
-- [Matar niños por ser hijos de guardias civiles](https://www.larazon.es/espana/matar-ninos-ser-hijos-guardias-civiles_202608046a71bf0571b42a0b5dd9e34f.html?utm_source=lootura.com) — 2026-08-04T10:29:25.000Z
 - [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z

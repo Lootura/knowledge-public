@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-04T14:05:13.908Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Funding milestone detected
+
+Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02389-5 Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.
+
+Date: 2026-08-04
 
 ### The Cost of Extreme Heat Is Displacement
 
@@ -62,12 +68,6 @@ Large Pride events in Hamburg and Amsterdam are underway after last week's deadl
 
 Date: 2026-08-01
 
-### Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames
-
-Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the weather is less widely recognized.
-
-Date: 2026-08-01
-
 ## Sources
 
-- [The Cost of Extreme Heat Is Displacement](https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/?utm_source=lootura.com) — 2026-08-04T10:00:03.000Z
+- [Europe can become a bioengineering powerhouse with these three changes](https://www.nature.com/articles/d41586-026-02389-5?utm_source=lootura.com) — 2026-08-04T14:05:17.736Z

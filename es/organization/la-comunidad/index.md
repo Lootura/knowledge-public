@@ -58,4 +58,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes](https://www.abc.es/espana/madrid/record-ayudas-cine-madrileno-tres-millones-euros-20260804112536-nt.html?utm_source=lootura.com) — 2026-08-04T09:34:09.000Z
+No public source links.

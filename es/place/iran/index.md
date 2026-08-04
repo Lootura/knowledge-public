@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
 
 ### La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona
 
@@ -62,12 +68,6 @@ El mes de agosto comienza en los mercados con novedades geopolíticas alentadora
 
 Date: 2026-08-03
 
-### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
-
-Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
+
+Date: 2026-08-04
 
 ### Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo
 
@@ -62,12 +68,6 @@ Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la 
 
 Date: 2026-07-24
 
-### El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses
-
-El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z

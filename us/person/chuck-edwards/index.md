@@ -22,4 +22,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [House Ethics panel recommends censure for Chuck Edwards after harassment allegations](https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report?utm_source=lootura.com) — 2026-08-03T21:17:49.000Z
+No public source links.

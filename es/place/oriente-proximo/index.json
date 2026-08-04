@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-04T14:04:41.484Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
+      "date": "2026-08-04"
+    },
     {
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
@@ -60,13 +65,15 @@
       "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
       "summary": "Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses",
-      "summary": "El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
+      "url": "https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T13:24:59.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

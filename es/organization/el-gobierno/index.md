@@ -3,16 +3,10 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
-
-### El Gobierno anuncia una partida extraordinaria de 25 millones para la atención de los menores de Ceuta
-
-La ministra de Seguridad Social y Migraciones, Elma Saiz, apela a la responsabilidad de las comunidades para dar acompañamiento a los niños y adolescentes que se encuentran solos en la ciudad autónoma El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisis de Ceuta La portavoz del.
-
-Date: 2026-08-04
 
 ### El Gobierno italiano reprocha a España no consultar la regularización con la UE
 
@@ -23,6 +17,36 @@ Date: 2026-08-04
 ### El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores
 
 La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.
+
+Date: 2026-08-04
+
+### Melilla se prepara para colocar nuevas barreras de contención migratoria en el mar como ha hecho Ceuta para adaptarse al TS
+
+El Gobierno ha anunciado en el marco de la crisis migratoria y humanitaria de Ceuta que también está trabajando en la instalación de "elementos de contención" en el mar en Melilla , al igual que ha hecho en Ceuta con la barrera flotante, aunque "adaptados" a las necesidades y la realidad de Melilla. El Ministerio del I.
+
+Date: 2026-08-04
+
+### El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta
+
+El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.
+
+Date: 2026-08-04
+
+### El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"
+
+Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad nacional" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: "El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido" El Gobierno anuncia una partida extraordinari.
+
+Date: 2026-08-04
+
+### Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha
+
+Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.
+
+Date: 2026-08-04
+
+### El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto
+
+El portavoz del Gobierno de Ceuta , Alejandro Ramírez, ha reconocido este martes que a su equipo le «preocupa» el llamamiento difundido en cuentas marroquíes en redes sociales para una nueva entrada masiva de cara al 15 de agost o. «Obviamente, después de lo que ha pasado, preocupa que haya esa rumorología en redes» ,.
 
 Date: 2026-08-04
 
@@ -44,33 +68,12 @@ Date: 2026-08-04
 
 Date: 2026-08-03
 
-### Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos
-
-El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en...
-
-Date: 2026-08-03
-
-### Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones
-
-El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.
-
-Date: 2026-08-03
-
-### Moncloa destituye a la jefa de prensa de Seguridad Nacional por alertar en la web sobre la invasión de Ceuta
-
-El Gobierno ha destituido con efecto inmediato , desde el 1 de agosto, a la funcionaria encargada de difundir las alertas informativas del Departamento de Seguridad Nacional (DSN) de la Presidencia del Gobierno por informar de la invasión migratoria de Ceuta del pasado 30 de julio. Tras la llegada masiva de personas de.
-
-Date: 2026-08-03
-
-### En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos
-
-Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y alaba su labor; El Gobierno devolverá «hasta el último» ilegal marroquí de Ceuta y ataca la posición de Italia; Cientos de marroquíes siguen en Ceuta : el Gobierno tardará meses en devolverlos; y la Audiencia Nacional pide a la Policía que.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta](https://www.elcorreo.com/politica/gobierno-vasco-exige-informado-escuchado-ante-reparto-20260803131055-nt_amp.html?utm_source=lootura.com) — 2026-08-03T11:10:56.000Z
-- [El Gobierno anuncia una partida extraordinaria de 25 millones para la atención de los menores de Ceuta](https://www.eldiario.es/politica/gobierno-anuncia-partida-extraordinaria-25-millones-atencion-menores-ceuta_1_13427232.html?utm_source=lootura.com) — 2026-08-04T10:13:40.000Z
+- [Melilla se prepara para colocar nuevas barreras de contención migratoria en el mar como ha hecho Ceuta para adaptarse al TS](https://www.20minutos.es/melilla/gobierno-trabaja-para-colocar-melilla-nuevas-barreras-contencion-migratoria-mar-como-ha-hecho-ceuta_7022437_0.html?utm_source=lootura.com) — 2026-08-04T10:49:29.000Z
+- [El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta](https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T11:22:18.000Z
+- [El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"](https://www.eldiario.es/politica/pp-anticipa-rechazo-acoger-menores-ceuta-comunidades-no-ver-situaciones-anteriores_1_13427303.html?utm_source=lootura.com) — 2026-08-04T11:06:38.000Z
+- [Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha](https://theconversation.com/como-el-incidente-en-el-paso-fronterizo-de-ceuta-ha-beneficiado-a-la-extrema-derecha-288965?utm_source=lootura.com) — 2026-08-04T10:23:12.000Z
 - [El Gobierno italiano reprocha a España no consultar la regularización con la UE](https://theobjective.com/internacional/2026-08-04/ministro-exteriores-italiano-espana-regularizacion-ue/?utm_source=lootura.com) — 2026-08-04T09:43:27.000Z
+- [El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto](https://theobjective.com/espana/2026-08-04/gobierno-ceuta-preocupado-llamamiento-entrada-agosto/?utm_source=lootura.com) — 2026-08-04T12:07:32.000Z
 - [El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores](https://theobjective.com/espana/politica/2026-08-04/gobierno-25-millones-ceuta-menas/?amp=&utm_source=lootura.com) — 2026-08-04T10:31:02.000Z

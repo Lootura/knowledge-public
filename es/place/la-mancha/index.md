@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
+
+Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.
+
+Date: 2026-08-04
 
 ### La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa
 
@@ -62,12 +68,6 @@ Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta V
 
 Date: 2026-07-24
 
-### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
-
-Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)](https://www.elconfidencial.com/espana/2026-08-04/accidente-laboral-torija-guadalajara-1tna-1tps_4400748/?utm_source=lootura.com) — 2026-08-04T11:02:00.000Z

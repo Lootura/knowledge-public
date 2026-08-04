@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-04T14:04:41.484Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología
+
+La brutal caída de las acciones de semiconductores durante el último mes ha revitalizado el atractivo de los mercados pasados de moda. El FTSE 100 de Reino Unido alcanzó un máximo histórico la semana pasada, gracias en parte a la escasa presencia de empresas tecnológicas en su índice. Pero no es el único: el índice de.
+
+Date: 2026-08-04
 
 ### Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios
 
@@ -62,12 +68,6 @@ Letterpaths es una curiosa colección de herramientas gratuitas para aprender y 
 
 Date: 2026-07-24
 
-### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
-
-El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología](https://www.expansion.com/economia/financial-times/2026/08/04/6a71eac8468aebd0538b4580.html?utm_source=lootura.com) — 2026-08-04T13:36:20.000Z

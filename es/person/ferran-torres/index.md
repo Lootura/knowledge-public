@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Ferran aprovecha el gol de su vida para echar un pulso al Barcelona](https://www.abc.es/deportes/futbol/ferran-aprovecha-gol-vida-echar-pulso-barcelona-20260804093545-nt.html?utm_source=lootura.com) — 2026-08-04T09:42:20.000Z
+No public source links.
