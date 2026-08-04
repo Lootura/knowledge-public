@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T06:30:58.422Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.
+
+The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.
+
+Date: 2026-08-04
 
 ### A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz
 
@@ -62,12 +68,6 @@ Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held
 
 Date: 2026-07-20
 
-### 'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat
-
-The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.](https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html?utm_source=lootura.com) — 2026-08-04T03:41:43.000Z

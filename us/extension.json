@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T04:50:54.653Z",
+  "generatedAt": "2026-08-04T06:36:50.598Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|61|1785809649197",
+    "signature": "1.18.0|62|1785824733626",
     "version": "1.18.0",
-    "build": 61,
-    "latestEntityUpdatedAt": "2026-08-04T02:14:09.197Z"
+    "build": 62,
+    "latestEntityUpdatedAt": "2026-08-04T06:25:33.626Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-04T02:14:09.197Z",
-      "score": 1746,
-      "sourceCount": 543,
+      "updatedAt": "2026-08-04T06:25:33.626Z",
+      "score": 1753,
+      "sourceCount": 547,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,22 +34,9 @@
         "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-04T02:14:09.197Z",
-        "score": 1746,
-        "sourceCount": 557,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
-        "type": "person",
-        "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-04T02:14:09.197Z",
-        "score": 1743,
-        "sourceCount": 37,
+        "updatedAt": "2026-08-04T06:25:33.626Z",
+        "score": 1753,
+        "sourceCount": 559,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,9 @@
         "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-04T02:14:09.197Z",
-        "score": 1740,
-        "sourceCount": 300,
+        "updatedAt": "2026-08-04T06:25:33.626Z",
+        "score": 1747,
+        "sourceCount": 302,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,9 +60,22 @@
         "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
         "url": "https://atlas.lootura.com/us/object/reflecting-pool",
         "path": "/us/object/reflecting-pool",
-        "updatedAt": "2026-08-04T02:14:09.197Z",
-        "score": 1732,
-        "sourceCount": 10,
+        "updatedAt": "2026-08-04T06:25:33.626Z",
+        "score": 1746,
+        "sourceCount": 11,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-08-04T06:25:33.626Z",
+        "score": 1696,
+        "sourceCount": 37,
         "isBreaking": false,
         "isPinned": false
       }

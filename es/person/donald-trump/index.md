@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona
+
+El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.
+
+Date: 2026-08-04
+
+### Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear
+
+La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...
+
+Date: 2026-08-04
+
+### La mitad de estados de EEUU demandan a la Administración por los aranceles globales
+
+La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.
+
+Date: 2026-08-04
 
 ### Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo
 
@@ -50,26 +68,9 @@ El mes de agosto comienza en los mercados con novedades geopolíticas alentadora
 
 Date: 2026-08-03
 
-### El Ibex busca récords con el petróleo desinflado
-
-El mes de agosto comienza en los mercados con novedades geopolíticas alentadoras. La decisión de Trump de cancelar los ataques contra Irán desinfla el precio del petróleo, y allana de paso las compras en Bolsa. La tensión en el mercado de divisas no evita un predominio alcista en índices como el Ibex, a las puertas de.
-
-Date: 2026-08-03
-
-### Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes
-
-Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.
-
-Date: 2026-08-03
-
-### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
-
-Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo](https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com) — 2026-08-03T18:55:19.000Z
-- [Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles](https://www.expansion.com/economia/2026/08/04/6a712345468aeb940c8b45a2.html?utm_source=lootura.com) — 2026-08-03T23:28:59.000Z
-- [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z
+- [La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/04/6a716e54e5fdea522f8b457d.html?utm_source=lootura.com) — 2026-08-04T05:16:47.000Z
+- [Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear](https://www.lavanguardia.com/internacional/20260804/11605502/trump-dilema-pickaxe-montana-iran-oculta-misteriosa-instalacion-nuclear.html?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z
+- [La mitad de estados de EEUU demandan a la Administración por los aranceles globales](https://theobjective.com/internacional/2026-08-04/mitad-estados-eeuu-demanda-administracion-aranceles/?amp=&utm_source=lootura.com) — 2026-08-04T05:50:31.000Z

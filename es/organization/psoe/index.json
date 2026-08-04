@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales",
+      "summary": "Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
       "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
@@ -65,13 +70,15 @@
       "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
       "summary": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% Leer.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos",
-      "summary": "Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-04/la-ola-de-adelante-no-cesa-y-pone-nervioso-al-psoe-andaluz-a-nueve-meses-de-las-municipales_4397746/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

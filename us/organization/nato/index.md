@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
+
+Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
+
+Date: 2026-08-04
 
 ### NATO spending pressure returned
 
@@ -62,12 +68,6 @@ As the strikes traded between the U.S. and Iran escalate, President Trump casts 
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-NPR's Michel Martin speaks with New Hampshire Sen. Jeanne Shaheen about President Trump at the NATO summit and more strikes in the war with Iran.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [With Russia at the door and the US backing away, Europe has to build its own ‘way of war’](https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com) — 2026-08-04T04:00:12.000Z

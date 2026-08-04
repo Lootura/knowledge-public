@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T06:30:58.422Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
+      "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.",
+      "date": "2026-08-04"
+    },
     {
       "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
       "summary": "World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.",
@@ -58,13 +63,15 @@
       "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
       "summary": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat",
-      "summary": "The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:41:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

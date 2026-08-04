@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta
+
+La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisi.
+
+Date: 2026-08-04
+
+### El Gobierno se prepara para reubicar a cientos de menores por la Península
+
+El papel lo aguanta todo. Cuando se reformó, hace año y medio, la Ley de Extranjería para redistribuir a menores inmigrantes sin amparo familiar entre las comunidades autónomas se estableció el término de la “capacidad ordinaria”. Un estándar de las plazas de acogida para extranjeros no acompañados con las que debía co.
+
+Date: 2026-08-04
 
 ### El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta
 
@@ -14,15 +26,15 @@
 
 Date: 2026-08-03
 
-### Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones
-
-El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.
-
-Date: 2026-08-03
-
 ### Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos
 
 El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en...
+
+Date: 2026-08-03
+
+### Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones
+
+El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.
 
 Date: 2026-08-03
 
@@ -56,24 +68,9 @@ El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Mart
 
 Date: 2026-08-03
 
-### Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma
-
-El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.
-
-Date: 2026-08-03
-
-### El Gobierno tendrá que reubicar en la península a centenares de menores que han llegado a Ceuta
-
-La llegada masiva de menores extranjeros no acompañados a Ceuta ha vuelto a poner a prueba la capacidad del sistema de protección de la ciudad autónoma, ya muy tensionada de por sí. Ante una situación de saturación que supera ampliamente los recursos disponibles, el Gobierno está obligado a activar el mecanismo de deri.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta](https://www.elcorreo.com/politica/gobierno-vasco-exige-informado-escuchado-ante-reparto-20260803131055-nt_amp.html?utm_source=lootura.com) — 2026-08-03T11:10:56.000Z
 - [Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos](https://amp.elmundo.es/espana/2026/08/03/6a70f7fdfc6c83246b8b45a7.html?utm_source=lootura.com) — 2026-08-03T20:20:16.000Z
-- [Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones](https://elpais.com/espana/2026-08-03/el-gobierno-de-ceuta-acondiciona-dos-grandes-instalaciones-para-reubicar-a-los-862-menores-migrantes-que-atiende-tras-la-crisis.html?utm_source=lootura.com) — 2026-08-03T11:39:48.000Z
-- [El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta](https://www.lavanguardia.com/politica/20260803/11607183/gobierno-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta.html?utm_source=lootura.com) — 2026-08-03T21:07:19.000Z
-- [Entrada masiva de inmigrantes a Ceuta desde Marruecos, en directo: última hora de la frontera y reacciones](https://okdiario.com/espana/entrada-inmigrantes-ceuta-desde-marruecos-directo-ultima-hora-devoluciones-situacion-frontera-hoy-19114286?utm_source=lootura.com) — 2026-08-03T21:19:23.000Z
-- [Moncloa destituye a la jefa de prensa de Seguridad Nacional por alertar en la web sobre la invasión de Ceuta](https://okdiario.com/espana/moncloa-destituye-jefa-prensa-seguridad-nacional-informar-web-sobre-invasion-ceuta-19119921?utm_source=lootura.com) — 2026-08-03T20:30:41.000Z
-- [En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos](https://theobjective.com/espana/2026-08-03/sumario-tarde-inmigrantes-ceuta-reproches-marruecos/?utm_source=lootura.com) — 2026-08-03T17:58:10.000Z
+- [Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta](https://www.eldiario.es/politica/moncloa-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta_1_13426445.html?utm_source=lootura.com) — 2026-08-04T05:06:14.000Z
+- [El Gobierno se prepara para reubicar a cientos de menores por la Península](https://www.lavanguardia.com/politica/20260804/11607173/gobierno-prepara-reubicar-cientos-menores-peninsula.html?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z

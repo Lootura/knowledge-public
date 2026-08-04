@@ -46,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’](https://hipertextual.com/cine-television/amazon-henry-cavill-serie-animada-warhammer-40k/?utm_source=lootura.com) — 2026-08-03T17:01:29.000Z
+No public source links.

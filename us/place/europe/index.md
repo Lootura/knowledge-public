@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
+
+Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
+
+Date: 2026-08-04
 
 ### Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK
 
@@ -62,12 +68,6 @@ Rising temperatures and more frequent heat waves have changed the feel of the se
 
 Date: 2026-08-01
 
-### Hungary to shut nuclear plant as heatwave hits central Europe
-
-Hungary's sole nuclear power plant will be shut down next week because of low water levels in the Danube, Prime Minister Peter Magyar said Friday as central Europe slogs through the latest in a series of heat waves.
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [With Russia at the door and the US backing away, Europe has to build its own ‘way of war’](https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com) — 2026-08-04T04:00:12.000Z

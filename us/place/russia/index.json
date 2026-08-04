@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
       "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
@@ -58,20 +63,9 @@
       "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
       "summary": "The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "summary": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Feds charge ‘frustrated’ FBI agent they say stole nearly $1 million in crypto from Russia",
-      "url": "https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:06:11.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
     {
       "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
       "url": "https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com",
@@ -83,7 +77,13 @@
       "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
       "publishedAt": "2026-08-03T22:45:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:00:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

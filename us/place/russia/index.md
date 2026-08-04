@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
+
+Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
+
+Date: 2026-08-04
 
 ### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
 
@@ -62,14 +68,8 @@ The Ukrainian attacks on the sprawling Russian warehouses produced stark images,
 
 Date: 2026-07-24
 
-### Russia and Ukraine Trade Deadly Blows With Missiles and Drones
-
-Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Feds charge ‘frustrated’ FBI agent they say stole nearly $1 million in crypto from Russia](https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674?utm_source=lootura.com) — 2026-08-03T22:06:11.000Z
 - [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z
 - [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z
+- [With Russia at the door and the US backing away, Europe has to build its own ‘way of war’](https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com) — 2026-08-04T04:00:12.000Z

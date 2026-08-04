@@ -34,4 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z
+No public source links.

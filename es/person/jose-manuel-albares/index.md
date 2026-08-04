@@ -40,5 +40,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni](https://elpais.com/espana/2026-08-03/albares-exige-la-solidaridad-de-los-socios-europeos-con-ceuta-y-carga-contra-meloni.html?utm_source=lootura.com) — 2026-08-03T12:42:13.000Z
-- [El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»](https://theobjective.com/internacional/2026-08-03/ministro-exteriores-italiano-suspender-schengen/?utm_source=lootura.com) — 2026-08-03T19:52:45.000Z
+No public source links.

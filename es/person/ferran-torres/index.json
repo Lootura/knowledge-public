@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -68,6 +68,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Ferrán Torres habla por primera vez sobre su polémica gorra y no puede ser más claro",
+      "url": "https://www.larazon.es/deportes/futbol/ferran-torres-habla-primera-vez-polemica-gorra-puede-ser-mas-claro_202608046a71785671b42a0b5dd939b8.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:27:52.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles](https://www.expansion.com/economia/2026/08/04/6a712345468aeb940c8b45a2.html?utm_source=lootura.com) — 2026-08-03T23:28:59.000Z
+No public source links.

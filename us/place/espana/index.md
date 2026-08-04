@@ -3,20 +3,20 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
 
-### Total solar eclipse will sweep over Spain, Iceland and Greenland in August
-
-For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
-
-Date: 2026-08-03
-
 ### Spain to put containment fence around Ceuta after deadly border rush from Morocco
 
 Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-03
+
+### Total solar eclipse will sweep over Spain, Iceland and Greenland in August
+
+For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
 
 Date: 2026-08-03
 
@@ -71,4 +71,3 @@ Date: 2026-08-02
 ## Sources
 
 - [Spain to put containment fence around Ceuta after deadly border rush from Morocco](https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com) — 2026-08-03T19:39:31.000Z
-- [Total solar eclipse will sweep over Spain, Iceland and Greenland in August](https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com) — 2026-08-03T17:40:47.000Z

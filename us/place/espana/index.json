@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "España",
     "Estado español",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
-      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
+      "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
+      "summary": "Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.",
       "date": "2026-08-03"
     },
     {
-      "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
-      "summary": "Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.",
+      "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
+      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
       "date": "2026-08-03"
     },
     {
@@ -72,13 +72,7 @@
       "url": "https://www.cbsnews.com/video/spain-to-put-containment-fence-around-ceuta-after-deadly-border-rush-from-morocco/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T19:39:31.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
-      "url": "https://www.pbs.org/newshour/science/total-solar-eclipse-will-sweep-over-spain-iceland-and-greenland-in-august?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:40:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

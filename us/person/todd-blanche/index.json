@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
-    {
-      "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
-      "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
-      "date": "2026-08-03"
-    },
     {
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
       "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
@@ -42,6 +37,11 @@
     {
       "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
       "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
+      "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
       "date": "2026-08-03"
     },
     {
@@ -73,12 +73,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Acting Attorney General Todd Blanche issues order rescinding \"anti-weaponization\" fund",
-      "url": "https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:40:34.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Todd Blanche's nomination back on track after GOP deal",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5918071/todd-blanches-nomination-back-on-track-after-gop-deal?utm_source=lootura.com",
       "publishedAt": "2026-08-03T20:31:02.000Z",
@@ -103,5 +97,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

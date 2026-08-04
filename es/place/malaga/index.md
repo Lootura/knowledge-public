@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga](https://theobjective.com/sociedad/suceso/2026-08-03/detenidas-23-personas-festival-dreambeach-malaga/?utm_source=lootura.com) — 2026-08-03T19:15:38.000Z
+No public source links.

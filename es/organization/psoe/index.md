@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales
+
+Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.
+
+Date: 2026-08-04
 
 ### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
 
@@ -62,12 +68,6 @@ El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izqu
 
 Date: 2026-07-24
 
-### El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos
-
-Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales](https://www.elconfidencial.com/espana/andalucia/2026-08-04/la-ola-de-adelante-no-cesa-y-pone-nervioso-al-psoe-andaluz-a-nueve-meses-de-las-municipales_4397746/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-supremo
 
 ## Cambios recientes
+
+### Atención: “La frontera de Ceuta está abierta”
+
+En el relato de la invasión de Ceuta hay tres coincidencias en las versiones que dan España y Marruecos. Además de la interpretación de una sentencia del Tribunal Supremo, ambos países afirman que detrás de la llegada masiva de migrantes están las mafias y las noticias falsas divulgadas en las redes sociales. Pero no s.
+
+Date: 2026-08-04
 
 ### 120 horas sin explicación al mayor "ataque a la integridad de España": división en el Gobierno, silencio sobre Marruecos y una inocente destituida
 
@@ -62,14 +68,7 @@ Tribunal Supremo first entered the public knowledge record with source-backed ev
 
 Date: 2026-07-22
 
-### La Sala de lo Militar contradice al fiscal y archiva la denuncia del general Mora
-
-La Sala de lo Militar del Tribunal Supremo ha decidido archivar la denuncia que interpuso el general de División de la Guardia Civil Fernando Mora —desvelada por ABC— contra el teniente general Mando de Operaciones (MOPS), Luis del Castillo Ruano, por la orden que recibió de no acudir al acto del Día de la Comunidad de.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Marruecos dice que avisó a España de que la decisión del Supremo podía afectar al control de la inmigración](https://www.20minutos.es/internacional/marruecos-dice-que-aviso-espana-que-decision-supremo-sobre-las-devoluciones-podia-afectar-control-migratorio_7022256_0.html?utm_source=lootura.com) — 2026-08-03T20:33:10.000Z
 - [120 horas sin explicación al mayor "ataque a la integridad de España": división en el Gobierno, silencio sobre Marruecos y una inocente destituida](https://amp.elmundo.es/espana/2026/08/03/6a70ed2ee9cf4a1b358b4588.html?utm_source=lootura.com) — 2026-08-03T20:41:05.000Z
-- [Marruecos asegura que avisó a España días antes de la crisis de que el fallo del Supremo ponía en riesgo la cooperación migratoria](https://okdiario.com/espana/marruecos-asegura-que-aviso-espana-dias-antes-crisis-que-fallo-del-supremo-ponia-riesgo-cooperacion-migratoria-19120714?utm_source=lootura.com) — 2026-08-03T21:18:44.000Z
+- [Atención: “La frontera de Ceuta está abierta”](https://www.lavanguardia.com/opinion/20260804/11607031/atencion-frontera-ceuta-esta-abierta.html?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z

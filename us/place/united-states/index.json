@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,11 +40,6 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
       "summary": "\"Spider-Man: Brand New Day\" leapt straight to the top of the box office this weekend. Its $360 million opening weekend debut is the biggest in U.S. history. Marlow Stern, chief correspondent at Variety, joins CBS News to discuss all the latest movie news.",
       "date": "2026-08-04"
@@ -60,9 +55,19 @@
       "date": "2026-08-04"
     },
     {
-      "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
-      "summary": "U.S. and Japanese officials confirmed that the Treasury Department had moved last week to prop up the currency, which had been trading near four-decade lows.",
-      "date": "2026-08-03"
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+      "summary": "Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
+      "date": "2026-08-04"
     },
     {
       "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
@@ -78,11 +83,6 @@
       "title": "What to know about Taylor Farms amid the cyclospora outbreak",
       "summary": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Trump says new talks are 'last chance' for Iran to forge a deal",
-      "summary": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -93,7 +93,7 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
       "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
       "publishedAt": "2026-08-04T02:04:16.000Z",
       "sourceId": "lootura-us-cbs-news"

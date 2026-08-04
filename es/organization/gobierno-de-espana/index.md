@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España
+
+Una crisis migratoria sin precedentes y que ha traspasado fronteras. Lo vivido en Ceuta el pasado jueves con la entrada de decenas de miles de personas ha supuesto un choque inédito entre el Gobierno de España y varios de sus socios europeos. Finlandia , Dinamarca , Países Bajos , pero sobre todo Italia , han criticado.
+
+Date: 2026-08-04
+
+### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
+
+Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.
+
+Date: 2026-08-04
 
 ### ¡Al fin! Es la hora de la verdad
 
@@ -56,19 +68,7 @@ Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , 
 
 Date: 2026-08-03
 
-### Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal
-
-El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.
-
-Date: 2026-08-02
-
-### Ceuta, la avalancha consentida
-
-La entrada de decenas de miles de marroquíes en Ceuta no ha respondido al patrón habitual de las mafias que trafican con personas, por mucho que Rabat se refugie en esa explicación y el Gobierno español no lo haya cuestionado. Esta vez el detonante ha sido otro . La rápida difusión de mensajes en las redes sociales ale.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
-- [¡Al fin! Es la hora de la verdad](https://okdiario.com/baleares/fin-hora-verdad-19116280?utm_source=lootura.com) — 2026-08-04T02:00:30.000Z
+- [Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España](https://www.20minutos.es/internacional/los-ministros-interior-ue-se-reunen-este-martes-para-tratar-crisis-ceuti-entre-criticas-politica-migratoria-espana_7022054_0.html?utm_source=lootura.com) — 2026-08-04T05:16:10.000Z
+- [Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos](https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z

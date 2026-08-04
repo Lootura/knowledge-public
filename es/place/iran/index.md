@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona
+
+El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.
+
+Date: 2026-08-04
+
+### Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear
+
+La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...
+
+Date: 2026-08-04
 
 ### Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo
 
@@ -56,18 +68,8 @@ Tras cancelar un "ataque masivo" en las últimas horas y asegurar que estaba a p
 
 Date: 2026-08-03
 
-### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
-
-Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
-
-Date: 2026-08-03
-
-### El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos
-
-Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo](https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com) — 2026-08-03T18:55:19.000Z
+- [La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/04/6a716e54e5fdea522f8b457d.html?utm_source=lootura.com) — 2026-08-04T05:16:47.000Z
+- [Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear](https://www.lavanguardia.com/internacional/20260804/11605502/trump-dilema-pickaxe-montana-iran-oculta-misteriosa-instalacion-nuclear.html?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z

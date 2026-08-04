@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
+
+Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.
+
+Date: 2026-08-04
 
 ### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
 
@@ -62,12 +68,7 @@ La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha fi
 
 Date: 2026-08-01
 
-### Los ministros de Interior de la UE se reunirán el martes para abordar la crisis de Ceuta
-
-Los ministros de Interior de la Unión Europea se reunirán el próximo martes por videoconferencia para abordar la evolución de la crisis migratoria en Ceuta, después de que tanto el presidente del Gobierno, Pedro Sánchez , como los líderes de otros 22 Estados miembro solicitaran la convocatoria urgente de un encuentro e.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Alicante se libra del caos en los nuevos controles fronterizos de la UE: “Es un proceso sencillo, pero el concepto es discriminatorio”](https://elpais.com/economia/2026-08-04/alicante-se-libra-del-caos-en-los-nuevos-controles-fronterizos-de-la-ue-es-un-proceso-sencillo-pero-el-concepto-es-discriminatorio.html?utm_source=lootura.com) — 2026-08-04T03:45:01.000Z
+- [Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos](https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z

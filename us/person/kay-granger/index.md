@@ -3,16 +3,10 @@
 > Follow Kay Granger, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/person/kay-granger
 
 ## Recent changes
-
-### Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83
-
-Granger was the first woman elected mayor of Fort Worth, Texas, and the first Republican woman to chair one of the most powerful committees in Congress, the House Appropriations Committee.
-
-Date: 2026-08-03
 
 ### Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83
 
@@ -26,7 +20,12 @@ Kay Granger first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-08-03
 
+### Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83
+
+Granger was the first woman elected mayor of Fort Worth, Texas, and the first Republican woman to chair one of the most powerful committees in Congress, the House Appropriations Committee.
+
+Date: 2026-08-03
+
 ## Sources
 
-- [Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83](https://www.pbs.org/newshour/politics/kay-granger-first-republican-woman-from-texas-to-serve-in-the-house-has-died-at-age-83?utm_source=lootura.com) — 2026-08-03T17:00:26.000Z
 - [Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83](https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html?utm_source=lootura.com) — 2026-08-03T17:23:09.000Z

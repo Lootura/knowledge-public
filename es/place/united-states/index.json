@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "La mitad de estados de EEUU demandan a la Administración por los aranceles globales",
+      "summary": "La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
       "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
@@ -86,18 +91,13 @@
       "title": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
       "summary": "El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz",
-      "summary": "Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
-      "url": "https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T18:40:11.000Z",
+      "title": "La mitad de estados de EEUU demandan a la Administración por los aranceles globales",
+      "url": "https://theobjective.com/internacional/2026-08-04/mitad-estados-eeuu-demanda-administracion-aranceles/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:50:31.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

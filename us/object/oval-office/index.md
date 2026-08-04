@@ -3,7 +3,7 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes

@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office
 
 Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.
+
+Date: 2026-08-04
+
+### Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases
+
+"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
 
 Date: 2026-08-04
 
@@ -62,16 +68,10 @@ Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeis
 
 Date: 2026-08-01
 
-### Discovered by Atlas
-
-Reflecting pool first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-31
-
 ## Sources
 
 - [More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office](https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-charges-dropped-pirro/?utm_source=lootura.com) — 2026-08-04T01:21:00.000Z
-- [Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked"](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
 - [Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office](https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com) — 2026-08-03T19:17:25.000Z
+- [Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
 - [Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request](https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped?utm_source=lootura.com) — 2026-08-03T19:33:05.000Z
 - [Tamara Keith and Amy Walter on Democratic primary voters not playing it safe](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-democratic-primary-voters-not-playing-it-safe?utm_source=lootura.com) — 2026-08-03T22:20:42.000Z

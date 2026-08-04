@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España",
+      "summary": "Una crisis migratoria sin precedentes y que ha traspasado fronteras. Lo vivido en Ceuta el pasado jueves con la entrada de decenas de miles de personas ha supuesto un choque inédito entre el Gobierno de España y varios de sus socios europeos. Finlandia , Dinamarca , Países Bajos , pero sobre todo Italia , han criticado.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos",
+      "summary": "Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.",
+      "date": "2026-08-04"
+    },
     {
       "title": "¡Al fin! Es la hora de la verdad",
       "summary": "Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emergencia la dirige el Ministro del Interior y el General Jefe de la UME toma el mando operativo. Esto significa que el Gobierno de España entra de cabeza para tratar de resolver una emergencia grave que afecta a varias comunidades o es de extr.",
@@ -53,30 +63,20 @@
       "title": "La UE eliminará el sobre de kétchup, pero el Gobierno grava el envase que lo sustituirá",
       "summary": "Los envases de monodosis de plástico, como los sobres de kétchup y mayonesa , se suprimirán definitivamente en 2030 por razones medioambientales exigidas por la Unión Europea ( UE ) y defendidas por el gobierno de España. Una realidad que supondrá un nuevo reto a la restauración española –uno de los principales motores.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Ascienden a 72 los cadáveres recuperados del mar en Ceuta tras los intentos de entrar por el espigón del Tarajal",
-      "summary": "El Gobierno de España sitúa ya en 72 personas la cifra provisional de muertos tras la oleada de migrantes procedentes de Marruecos que esta semana trataron de acceder ilegalmente a la ciudad autónoma de Ceuta a nado, bordeando el espigón del Tarajal. Los números son todavía provisionales y podían continuar creciendo en.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Ceuta, la avalancha consentida",
-      "summary": "La entrada de decenas de miles de marroquíes en Ceuta no ha respondido al patrón habitual de las mafias que trafican con personas, por mucho que Rabat se refugie en esa explicación y el Gobierno español no lo haya cuestionado. Esta vez el detonante ha sido otro . La rápida difusión de mensajes en las redes sociales ale.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras",
-      "url": "https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T12:13:54.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España",
+      "url": "https://www.20minutos.es/internacional/los-ministros-interior-ue-se-reunen-este-martes-para-tratar-crisis-ceuti-entre-criticas-politica-migratoria-espana_7022054_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:16:10.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "¡Al fin! Es la hora de la verdad",
-      "url": "https://okdiario.com/baleares/fin-hora-verdad-19116280?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:00:30.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos",
+      "url": "https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 2

@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
+
+El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
 
 ### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
 
@@ -62,12 +68,6 @@ La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provinc
 
 Date: 2026-07-25
 
-### Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»
-
-La presidenta del Gobierno de la Comunidad de Madrid , Isabel Díaz Ayuso , ha evitado de forma explícita hacer comentarios sobre la gestión y las críticas que se han vertido sobre su Gobierno desde el Gobierno de Pedro Sánchez . La presidenta madrileña ha reiterado que sus prioridades son: «salvar vidas, seguir evacuan.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T03:30:01.000Z

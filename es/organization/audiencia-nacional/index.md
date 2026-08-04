@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: "Administradas por España pero en territorio marroquí"
+
+Han muerto un centenar de personas . Mientras continúa la difícil búsqueda de los desaparecidos al intentar cruzar a Ceuta, la Audiencia Nacional estudia abrir una investigación sobre si hubo "una acción dirigida" por algún "grupo criminal". La ciudad española que se asoma al Estrecho de Gibraltar desde África intenta.
+
+Date: 2026-08-04
+
+### La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas
+
+La justicia ha respaldado a Repsol en una de sus batallas contra Hacienda . La Audiencia Nacional ha dejado en suspenso el desembolso de 152 millones de euros por el gravamen temporal energético de 2023, el impuesto que el Gobierno impuso al sector energético ―y que se extendió a las entidades financieras― para tratar.
+
+Date: 2026-08-04
+
+### El juez del "caso Koldo" valora recabar los datos que quiere Pardo de Vera
+
+El magistrado instructor del «caso Koldo» en la Audiencia Nacional (AN), Ismael Moreno, pregunta a la Fiscalía Anticorrupción sobre la procedencia de acceder a la última diligencia de investigación interesada por Isabel Pardo de Vera para defenderse en la pieza sobre el amaño de obra pública, a cambio del cobro de comi.
+
+Date: 2026-08-04
 
 ### En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos
 
@@ -50,24 +68,8 @@ La Audiencia Nacional ha recibido ya la fianza de más del millón de euros que 
 
 Date: 2026-08-03
 
-### El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas
-
-El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.
-
-Date: 2026-07-24
-
-### Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”
-
-José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delito de tráfico de influencias y ser registrado su despacho el pasado 19 de mayo, que pronto iba a dar explicaciones a los ciudadanos. No lo hizo y cuando, el 17 de junio, acudió a declarar ante el juez José Luis Calama en la Audiencia Nacional,.
-
-Date: 2026-07-24
-
-### Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero
-
-La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos](https://theobjective.com/espana/2026-08-03/sumario-tarde-inmigrantes-ceuta-reproches-marruecos/?utm_source=lootura.com) — 2026-08-03T17:58:10.000Z
+- [Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: "Administradas por España pero en territorio marroquí"](https://www.20minutos.es/internacional/asi-cuestiona-eeuu-soberania-espanola-sobre-ceuta-melilla-administradas-por-espana-pero-territorio-marroqui_7022003_0.html?utm_source=lootura.com) — 2026-08-04T05:13:58.000Z
+- [La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas](https://cincodias.elpais.com/companias/2026-08-04/la-audiencia-nacional-suspende-el-pago-de-152-millones-de-repsol-a-hacienda-por-el-impuesto-a-las-energeticas.html?utm_source=lootura.com) — 2026-08-04T03:15:00.000Z
+- [El juez del "caso Koldo" valora recabar los datos que quiere Pardo de Vera](https://www.larazon.es/espana/juez-caso-koldo-valora-recabar-datos-que-quiere-pardo-vera_202608046a7175d9a046ad6ebc9b028c.html?utm_source=lootura.com) — 2026-08-04T05:17:13.000Z

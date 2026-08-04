@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T20:49:12.134Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
+      "date": "2026-08-04"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
@@ -62,13 +67,15 @@
       "title": "NATO spending pressure returned",
       "summary": "As the strikes traded between the U.S. and Iran escalate, President Trump casts doubt on the possibility of the two countries reaching a deal. NBC News’ Kelly O’Donnell reports on the latest with the conflict as well as the security reasons behind the President switching planes when he departed the NATO summit this wee.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "NPR's Michel Martin speaks with New Hampshire Sen. Jeanne Shaheen about President Trump at the NATO summit and more strikes in the war with Iran.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:00:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

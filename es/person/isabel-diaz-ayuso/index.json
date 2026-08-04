@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T20:52:19.929Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
+      "summary": "El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.",
@@ -59,13 +64,15 @@
       "title": "Ayuso teme \"situaciones mucho peores en las próximas horas\" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas",
       "summary": "La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un \"momento muy crítico\", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Ayuso evita polemizar con el Gobierno de Pedro Sánchez por el fuego: «La prioridad es salvar vidas»",
-      "summary": "La presidenta del Gobierno de la Comunidad de Madrid , Isabel Díaz Ayuso , ha evitado de forma explícita hacer comentarios sobre la gestión y las críticas que se han vertido sobre su Gobierno desde el Gobierno de Pedro Sánchez . La presidenta madrileña ha reiterado que sus prioridades son: «salvar vidas, seguir evacuan.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
+      "url": "https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

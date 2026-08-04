@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Euskadi reforzará la prevención de la soledad no deseada a través de betiON
 
 El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.
+
+Date: 2026-08-03
+
+### El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi
+
+La Ertzaintza «se tomó muy en serio» los mensajes intimidatorios y desplegó «operativos preventivos» en los centros escolares.
 
 Date: 2026-08-03
 
@@ -62,12 +68,7 @@ Los datos del Eustat reflejan un aumento de empleo en la industria y en la const
 
 Date: 2026-07-24
 
-### Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada
-
-La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi](https://www.elcorreo.com/sociedad/menor-lideraba-red-extremista-764-amenazo-tiroteos-20260803165820-nt_amp.html?utm_source=lootura.com) — 2026-08-03T14:58:20.000Z
 - [Euskadi reforzará la prevención de la soledad no deseada a través de betiON](https://www.diariovasco.com/sociedad/euskadi-reforzara-prevencion-soledad-betion-20260803123547-nt_amp.html?utm_source=lootura.com) — 2026-08-03T10:56:47.000Z

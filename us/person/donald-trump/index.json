@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "NATO spending pressure returned",
       "summary": "Two holdout Republican senators said they will support acting Attorney General Todd Blanche after he scrapped potential payouts to Trump allies. NBC News’ Gabe Gutierrez reports.",
       "date": "2026-08-04"
@@ -45,6 +40,31 @@
       "date": "2026-08-04"
     },
     {
+      "title": "8/3: The Takeout with Major Garrett",
+      "summary": "Trump says he's giving Iran a \"last chance\" at diplomacy; Blanche one step closer to confirmation as attorney general.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump raises concerns in call with Rep. Max Miller amid abuse allegations",
+      "summary": "Ohio Rep. Max Miller's reelection campaign has been upended by allegations that Miller assaulted his ex-wife, Emily Moreno, and their 2-year-old daughter.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
+      "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
+      "date": "2026-08-04"
+    },
+    {
       "title": "New Limits on Trump’s I.R.S. Deal, and Prosecutors Say Reflecting Pool Work Was ‘Botched’",
       "summary": "Plus, why college jerseys suddenly have corporate logos.",
       "date": "2026-08-03"
@@ -53,39 +73,31 @@
       "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
       "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
-      "summary": "In the past week alone, President Trump’s interference has imperiled one criminal case, set the stage for sanctions in a second and hindered the confirmation chances of his pick for attorney general.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "After Colleges Reject ‘Compact,’ Trump Officials Try a Letter",
-      "summary": "The open letter from Education Secretary Linda McMahon fell far short of the attempt at a compact last year that dangled research money in return for embracing the Trump administration’s agenda.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Documents Undercut Trump’s Claims About Bears Ears National Monument",
-      "summary": "President Trump said recreation in Bears Ears National Monument was virtually impossible. Documents reviewed by The New York Times show officials knew otherwise.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
-      "summary": "President Trump took reporter questions on the Iran war, the renovation of the reflecting pool in Washington, D.C., and more on Monday. CBS News' Lindsey Reiser and Natalie Brand share their biggest takeaways.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
-      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:04:16.000Z",
+      "title": "8/3: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/83-the-takeout-with-major-garrett/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:35:03.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
       "url": "https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T19:17:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump raises concerns in call with Rep. Max Miller amid abuse allegations",
+      "url": "https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:01:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:04:16.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -123,19 +135,7 @@
       "url": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com",
       "publishedAt": "2026-08-03T19:51:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:45:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
-      "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T23:02:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 22
+  "evidenceCount": 25
 }

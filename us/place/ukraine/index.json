@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
       "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
@@ -61,11 +66,6 @@
       "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
       "summary": "Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Russian strikes on Kyiv kill 9, injure at least 15, officials say",
-      "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com",
       "publishedAt": "2026-08-03T22:45:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:00:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

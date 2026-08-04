@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "Montero se reunió con Zapatero tres días antes del cese de Ábalos",
+      "summary": "La interlocución fluida que mantuvo el expresidente del Gobierno José Luis Rodríguez Zapatero con la ministra de Hacienda, María Jesús Montero, en su despacho del ministerio, y la complicidad mostrada por su secretaria Gertrudis Alcázar con su departamento, tuvo un momento crucial a partir del año 2021, coincidiendo co.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
       "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
@@ -60,13 +65,15 @@
       "title": "Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle",
       "summary": "Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
-      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Montero se reunió con Zapatero tres días antes del cese de Ábalos",
+      "url": "https://www.abc.es/espana/reunion-discreta-zapatero-montero-hacienda-tres-dias-20260804014843-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:39:36.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

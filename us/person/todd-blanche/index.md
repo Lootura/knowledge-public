@@ -3,16 +3,10 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
-
-### Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund
-
-The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.
-
-Date: 2026-08-03
 
 ### Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund
 
@@ -44,6 +38,12 @@ The rebellion against Todd Blanche’s nomination to be attorney general, now se
 
 Date: 2026-08-03
 
+### Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund
+
+The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.
+
+Date: 2026-08-03
+
 ### NATO spending pressure returned
 
 Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion "anti-weaponization fund" to compensate his political allies.
@@ -71,7 +71,6 @@ Date: 2026-08-03
 ## Sources
 
 - [Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund](https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-03T19:39:59.000Z
-- [Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization" fund](https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/?utm_source=lootura.com) — 2026-08-03T17:40:34.000Z
 - [Todd Blanche's nomination back on track after GOP deal](https://www.npr.org/2026/08/03/nx-s1-5918071/todd-blanches-nomination-back-on-track-after-gop-deal?utm_source=lootura.com) — 2026-08-03T20:31:02.000Z
 - [Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'](https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund?utm_source=lootura.com) — 2026-08-03T22:55:51.000Z
 - [Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity](https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html?utm_source=lootura.com) — 2026-08-03T23:02:29.000Z

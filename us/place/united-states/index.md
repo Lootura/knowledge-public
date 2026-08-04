@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office
 
 Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.
-
-Date: 2026-08-04
-
-### Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked"
-
-"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
 
 Date: 2026-08-04
 
@@ -38,11 +32,23 @@ President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “f
 
 Date: 2026-08-04
 
-### U.S. and Japan Coordinated to Help Stabilize the Yen
+### Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases
 
-U.S. and Japanese officials confirmed that the Treasury Department had moved last week to prop up the currency, which had been trading near four-decade lows.
+"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
 
-Date: 2026-08-03
+Date: 2026-08-04
+
+### A Currency Trader at Heart, Bessent Bets on Japan’s Yen
+
+Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings.
+
+Date: 2026-08-04
+
+### Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked"
+
+"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
+
+Date: 2026-08-04
 
 ### Oil Prices Plummet as Investors Digest Pause in Iran War Fighting
 
@@ -62,16 +68,10 @@ The nation's largest recent cyclospora outbreak has put one of America's biggest
 
 Date: 2026-08-03
 
-### Trump says new talks are 'last chance' for Iran to forge a deal
-
-Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office](https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-charges-dropped-pirro/?utm_source=lootura.com) — 2026-08-04T01:21:00.000Z
-- [Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked"](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
+- [Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases](https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com) — 2026-08-04T02:04:16.000Z
 - [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-08-03T19:20:09.000Z
 - ["Spider-Man: Brand New Day" continues Hollywood's hot streak at the box office](https://www.cbsnews.com/video/spider-man-brand-new-day-continues-hollywoods-hot-streak-at-the-box-office/?utm_source=lootura.com) — 2026-08-04T01:55:50.000Z
 - [Trump gives Iran ‘last chance’ to make deal before U.S. ‘decapitation’ strikes](https://www.nbcnews.com/nightly-news/video/trump-gives-iran-last-chance-to-make-deal-before-u-s-decapitation-strikes-267703877841?utm_source=lootura.com) — 2026-08-03T22:50:53.000Z

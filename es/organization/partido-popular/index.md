@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
+
+El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
 
 ### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez p
 
 Date: 2026-08-03
 
-### El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria
-
-El Grupo Parlamentario Popular ha lanzado este lunes una ofensiva parlamentaria desde el Congreso de los Diputados y el Senado a través de una batería de iniciativas dirigidas a fiscalizar la actuación del Gobierno en la actual crisis migratoria . Los populares han exigido medidas urgentes para que no se repitan los he.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21](https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com) — 2026-08-03T10:52:57.000Z
+- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T03:30:01.000Z

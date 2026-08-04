@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Deja su futuro en el aire y lanza una advertencia al Barça: "Tendrán que demostrarme..."](https://www.larazon.es/deportes/futbol/deja-futuro-aire-lanza-advertencia-barca-tendran-que-demostrarme_202608046a717fc071b42a0b5dd946a6.html?utm_source=lootura.com) — 2026-08-04T05:59:29.000Z

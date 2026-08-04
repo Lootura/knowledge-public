@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona",
+      "summary": "El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
+      "summary": "La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...",
+      "date": "2026-08-04"
+    },
     {
       "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
       "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
@@ -57,16 +67,6 @@
       "title": "Trump vuelve a cambiar de versión y anuncia que las negociaciones con Irán se reanudarán este lunes",
       "summary": "Tras cancelar un \"ataque masivo\" en las últimas horas y asegurar que estaba a punto de cerrar un acuerdo con Irán, el mandatario estadounidense ha anunciado que las conversaciones se reiniciarán este lunes.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí",
-      "summary": "Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El ‘brent’ cae con fuerza y los futuros de las Bolsas apuntan al alza para asaltar nuevos máximos",
-      "summary": "Los mercados estrenan mes con optimismo. El petróleo baja con fuerza este lunes y da un nuevo impuso a los futuros de las Bolsas europeas y estadounidenses, que ya se encuentran en zona de máximos. El presidente estadounidense Donald Trump dijo este fin de semana que ha cancelado un ataque planeado contra Irán para dar.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -75,7 +75,19 @@
       "url": "https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T18:55:19.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/04/6a716e54e5fdea522f8b457d.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:16:47.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
+      "url": "https://www.lavanguardia.com/internacional/20260804/11605502/trump-dilema-pickaxe-montana-iran-oculta-misteriosa-instalacion-nuclear.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

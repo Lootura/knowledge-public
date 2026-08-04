@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,21 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: \"Administradas por España pero en territorio marroquí\"",
+      "summary": "Han muerto un centenar de personas . Mientras continúa la difícil búsqueda de los desaparecidos al intentar cruzar a Ceuta, la Audiencia Nacional estudia abrir una investigación sobre si hubo \"una acción dirigida\" por algún \"grupo criminal\". La ciudad española que se asoma al Estrecho de Gibraltar desde África intenta.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas",
+      "summary": "La justicia ha respaldado a Repsol en una de sus batallas contra Hacienda . La Audiencia Nacional ha dejado en suspenso el desembolso de 152 millones de euros por el gravamen temporal energético de 2023, el impuesto que el Gobierno impuso al sector energético ―y que se extendió a las entidades financieras― para tratar.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El juez del \"caso Koldo\" valora recabar los datos que quiere Pardo de Vera",
+      "summary": "El magistrado instructor del «caso Koldo» en la Audiencia Nacional (AN), Ismael Moreno, pregunta a la Fiscalía Anticorrupción sobre la procedencia de acceder a la última diligencia de investigación interesada por Isabel Pardo de Vera para defenderse en la pieza sobre el amaño de obra pública, a cambio del cobro de comi.",
+      "date": "2026-08-04"
+    },
     {
       "title": "En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos",
       "summary": "Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y alaba su labor; El Gobierno devolverá «hasta el último» ilegal marroquí de Ceuta y ataca la posición de Italia; Cientos de marroquíes siguen en Ceuta : el Gobierno tardará meses en devolverlos; y la Audiencia Nacional pide a la Policía que.",
@@ -55,30 +70,27 @@
       "title": "BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo",
       "summary": "La Audiencia Nacional ha recibido ya la fianza de más del millón de euros que el Juzgado Central de Instrucción número 6, dirigido por el magistrado Antonio Piña, ha impuesto a los 16 acusados por los espionajes que realizó el comisario jubilado José Manuel Villarejo para BBVA. El banco ha consignado, por un lado, 754.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas",
-      "summary": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”",
-      "summary": "José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delito de tráfico de influencias y ser registrado su despacho el pasado 19 de mayo, que pronto iba a dar explicaciones a los ciudadanos. No lo hizo y cuando, el 17 de junio, acudió a declarar ante el juez José Luis Calama en la Audiencia Nacional,.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
-      "summary": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos",
-      "url": "https://theobjective.com/espana/2026-08-03/sumario-tarde-inmigrantes-ceuta-reproches-marruecos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:58:10.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: \"Administradas por España pero en territorio marroquí\"",
+      "url": "https://www.20minutos.es/internacional/asi-cuestiona-eeuu-soberania-espanola-sobre-ceuta-melilla-administradas-por-espana-pero-territorio-marroqui_7022003_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:13:58.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas",
+      "url": "https://cincodias.elpais.com/companias/2026-08-04/la-audiencia-nacional-suspende-el-pago-de-152-millones-de-repsol-a-hacienda-por-el-impuesto-a-las-energeticas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El juez del \"caso Koldo\" valora recabar los datos que quiere Pardo de Vera",
+      "url": "https://www.larazon.es/espana/juez-caso-koldo-valora-recabar-datos-que-quiere-pardo-vera_202608046a7175d9a046ad6ebc9b028c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:17:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump
 
 The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.
+
+Date: 2026-08-04
+
+### 8/3: The Takeout with Major Garrett
+
+Trump says he's giving Iran a "last chance" at diplomacy; Blanche one step closer to confirmation as attorney general.
+
+Date: 2026-08-04
+
+### Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War
+
+Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.
 
 Date: 2026-08-04
 
@@ -56,22 +68,12 @@ U.S. President Donald Trump said new talks to wind down the war in Iran will sta
 
 Date: 2026-08-03
 
-### Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz
-
-President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.
-
-Date: 2026-08-03
-
-### Tehran’s New Weapon Is Not a Bomb. It Is an Invoice.
-
-An oil tanker in the Strait of Hormuz accessing Iran's premier maritime gateway of Bandar Abbas Port, Iran, 1988. —Barry Iverson-Getty Images Iran is expanding the theater of war with an eye on the Strait of Hormuz. Last week, according to U.S. Central Command, more than 30 Iranian-directed drones attacked American for.
-
-Date: 2026-08-03
-
 ## Sources
 
+- [8/3: The Takeout with Major Garrett](https://www.cbsnews.com/video/83-the-takeout-with-major-garrett/?utm_source=lootura.com) — 2026-08-04T02:35:03.000Z
 - [Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office](https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com) — 2026-08-03T19:17:25.000Z
 - [Trump gives Iran ‘last chance’ to make deal before U.S. ‘decapitation’ strikes](https://www.nbcnews.com/nightly-news/video/trump-gives-iran-last-chance-to-make-deal-before-u-s-decapitation-strikes-267703877841?utm_source=lootura.com) — 2026-08-03T22:50:53.000Z
 - [WATCH: Trump says new talks are 'last chance' for Iran to forge a deal](https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal?utm_source=lootura.com) — 2026-08-03T19:51:58.000Z
 - [Oil Prices Plummet as Investors Digest Pause in Iran War Fighting](https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html?utm_source=lootura.com) — 2026-08-03T12:55:01.000Z
+- [Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War](https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com) — 2026-08-04T04:01:09.000Z
 - [An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump](https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html?utm_source=lootura.com) — 2026-08-04T01:19:28.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
+      "summary": "El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21",
       "summary": "Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.",
@@ -58,19 +63,14 @@
       "title": "Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta",
       "summary": "Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El PP lanza una ofensiva en las Cortes por la gestión de Sánchez ante la invasión migratoria",
-      "summary": "El Grupo Parlamentario Popular ha lanzado este lunes una ofensiva parlamentaria desde el Congreso de los Diputados y el Senado a través de una batería de iniciativas dirigidas a fiscalizar la actuación del Gobierno en la actual crisis migratoria . Los populares han exigido medidas urgentes para que no se repitan los he.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21",
-      "url": "https://www.elmundo.es/espana/2026/08/03/6a7070b7e9cf4a9e078b459a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T10:52:57.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
+      "url": "https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

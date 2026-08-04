@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
   "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T13:19:24.039Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [
     "Amancio",
     "Amancio Ortega Gaona",
@@ -16,6 +16,11 @@
     "Ortega"
   ],
   "changes": [
+    {
+      "title": "Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia",
+      "summary": "Amancio Ortega está muy unido a una pequeña localidad de Valladolid donde nació su madre y donde tiene sus raíces familiares.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»",
       "summary": "Amancio Ortega creció en la pequeña localidad de Busdongo de Arriba, donde nació porque su padre se encontraba trabajando allí.",
@@ -47,6 +52,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia",
+      "url": "https://theobjective.com/gente/2026-08-04/raices-maternas-amancio-ortega-pueblo-campina-pisuerga/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-04T06:00:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

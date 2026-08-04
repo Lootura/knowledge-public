@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La mitad de estados de EEUU demandan a la Administración por los aranceles globales
+
+La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.
+
+Date: 2026-08-04
 
 ### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
 
@@ -62,12 +68,6 @@ El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo qu
 
 Date: 2026-08-02
 
-### Irán desmiente a Trump una vez más y asegura que no hay ningún acuerdo sobre Ormuz
-
-Responsables políticos y militares iraníes han salido en las últimas horas a desmentir el último mensaje enviado esta madrugada por el presidente de Estados Unidos , Donald Trump , sobre la presunta reapertura del estrecho de Ormuz , al asegurar que no se ha llegado a ningún tipo de acuerdo sobre el estratégico paso. «.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental](https://theobjective.com/internacional/2026-08-03/marruecos-trump-autopista-sahara-occidental/?utm_source=lootura.com) — 2026-08-03T18:40:11.000Z
+- [La mitad de estados de EEUU demandan a la Administración por los aranceles globales](https://theobjective.com/internacional/2026-08-04/mitad-estados-eeuu-demanda-administracion-aranceles/?amp=&utm_source=lootura.com) — 2026-08-04T05:50:31.000Z

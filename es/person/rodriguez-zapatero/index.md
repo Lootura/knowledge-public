@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Montero se reunió con Zapatero tres días antes del cese de Ábalos
+
+La interlocución fluida que mantuvo el expresidente del Gobierno José Luis Rodríguez Zapatero con la ministra de Hacienda, María Jesús Montero, en su despacho del ministerio, y la complicidad mostrada por su secretaria Gertrudis Alcázar con su departamento, tuvo un momento crucial a partir del año 2021, coincidiendo co.
+
+Date: 2026-08-04
 
 ### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
 
@@ -62,12 +68,6 @@ Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero t
 
 Date: 2026-07-24
 
-### Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Montero se reunió con Zapatero tres días antes del cese de Ábalos](https://www.abc.es/espana/reunion-discreta-zapatero-montero-hacienda-tres-dias-20260804014843-nt.html?utm_source=lootura.com) — 2026-08-04T05:39:36.000Z

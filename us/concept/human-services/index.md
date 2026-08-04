@@ -3,7 +3,7 @@
 > Follow Human services, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-04T02:14:09.197Z
+- Updated: 2026-08-04T06:25:33.626Z
 - Canonical: https://atlas.lootura.com/us/concept/human-services
 
 ## Recent changes

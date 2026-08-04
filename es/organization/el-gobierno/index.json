@@ -8,22 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T06:25:11.416Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
+      "summary": "La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisi.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Gobierno se prepara para reubicar a cientos de menores por la Península",
+      "summary": "El papel lo aguanta todo. Cuando se reformó, hace año y medio, la Ley de Extranjería para redistribuir a menores inmigrantes sin amparo familiar entre las comunidades autónomas se estableció el término de la “capacidad ordinaria”. Un estándar de las plazas de acogida para extranjeros no acompañados con las que debía co.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta",
       "summary": "«La respuesta debe ser inmediata, coordinada y respetuosa con los derechos humanos», dice la consejera Melgosa, que también reclama «planificación, financiación y las responsabilidades claras».",
       "date": "2026-08-03"
     },
     {
-      "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
-      "summary": "El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.",
+      "title": "Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos",
+      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en...",
       "date": "2026-08-03"
     },
     {
-      "title": "Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos",
-      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en...",
+      "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
+      "summary": "El Gobierno de Ceuta, desbordado por la entrada masiva del pasado jueves , trata de ampliar su capacidad de acogida mediante la reorganización de sus instalaciones y el acondicionamiento de una construcción industrial y una nave. Con estos espacios busca dar cobijo a los 862 menores migrantes a los que atiende desde la.",
       "date": "2026-08-03"
     },
     {
@@ -50,16 +60,6 @@
       "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
       "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma",
-      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno tendrá que reubicar en la península a centenares de menores que han llegado a Ceuta",
-      "summary": "La llegada masiva de menores extranjeros no acompañados a Ceuta ha vuelto a poner a prueba la capacidad del sistema de protección de la ciudad autónoma, ya muy tensionada de por sí. Ante una situación de saturación que supera ampliamente los recursos disponibles, el Gobierno está obligado a activar el mecanismo de deri.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -76,35 +76,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Ceuta calcula que tendrá que atender a más de mil menores migrantes y prepara dos grandes instalaciones",
-      "url": "https://elpais.com/espana/2026-08-03/el-gobierno-de-ceuta-acondiciona-dos-grandes-instalaciones-para-reubicar-a-los-862-menores-migrantes-que-atiende-tras-la-crisis.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T11:39:48.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
+      "url": "https://www.eldiario.es/politica/moncloa-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta_1_13426445.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T05:06:14.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260803/11607183/gobierno-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T21:07:19.000Z",
+      "title": "El Gobierno se prepara para reubicar a cientos de menores por la Península",
+      "url": "https://www.lavanguardia.com/politica/20260804/11607173/gobierno-prepara-reubicar-cientos-menores-peninsula.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:00:00.000Z",
       "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Entrada masiva de inmigrantes a Ceuta desde Marruecos, en directo: última hora de la frontera y reacciones",
-      "url": "https://okdiario.com/espana/entrada-inmigrantes-ceuta-desde-marruecos-directo-ultima-hora-devoluciones-situacion-frontera-hoy-19114286?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T21:19:23.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Moncloa destituye a la jefa de prensa de Seguridad Nacional por alertar en la web sobre la invasión de Ceuta",
-      "url": "https://okdiario.com/espana/moncloa-destituye-jefa-prensa-seguridad-nacional-informar-web-sobre-invasion-ceuta-19119921?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:30:41.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos",
-      "url": "https://theobjective.com/espana/2026-08-03/sumario-tarde-inmigrantes-ceuta-reproches-marruecos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T17:58:10.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

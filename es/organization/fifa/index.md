@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA](https://theobjective.com/deportes/2026-08-03/tebas-madrid-club-fifa/?amp=&utm_source=lootura.com) — 2026-08-03T20:57:00.000Z
+No public source links.

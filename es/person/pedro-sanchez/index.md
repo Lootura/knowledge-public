@@ -3,10 +3,40 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
+
+Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.
+
+Date: 2026-08-04
+
+### “No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería
+
+Paula Sánchez (Pontevedra, 47 años) se encontraba como todos los días frente a su monitor. Había pasado media vida gestionando cuentas, presupuestos y balances. Sabía leer números y anticipar amenazas. Aquella mañana de noviembre de 2025, cuando se topó con un anuncio de una vacante remota en LinkedIn no vio ningún rie.
+
+Date: 2026-08-04
+
+### Los trucos de Mariló, la nueva maquilladora de Pedro Sánchez: «En televisión, la cámara lo amplifica todo; exige técnica y precisión»
+
+Pedro Sánchez tiene nueva maquilladora . Tal y como han contado en Vanitatis , la elegida ha sido Mariló Herranz , quien, ha trabajado, la mayor parte de su carrera, de la mano de Atresmedia, donde también ha ejercido sus labores como profesora. Fue hace unos meses cuando, como desvelamos en THE OBJECTIVE, el president.
+
+Date: 2026-08-04
+
+### Si necesitan algo, que no lo pidan
+
+El 12 de noviembre del 2024, con ocasión de la catástrofe de Valencia , escribí en este mismo diario digital un artículo titulado Si necesitan algo, que lo pidan . Comenzaba afirmando que una frase y una fotografía perseguirían a Sánchez para siempre. Bien es verdad que, después de todo lo que está pasando, serán otras.
+
+Date: 2026-08-04
+
+### Súbditos de Marruecos
+
+Sánchez ha respondido a la invasión de Ceuta como si España fuera súbdita de Marruecos , dirigiendo halagos al mismo Gobierno africano agresor que propició la avalancha sobre la ciudad española. Mohamed VI tiene cogida la medida a Sánchez, que ha cometido demasiados errores y exhibe una enorme debilidad. No solo no vis.
+
+Date: 2026-08-04
 
 ### ¿Es responsable el Gobierno de la crisis de Ceuta?
 
@@ -38,38 +68,10 @@ Las largas jornadas en piscinas y playas forman parte de las vacaciones de veran
 
 Date: 2026-08-03
 
-### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
-
-Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.
-
-Date: 2026-08-03
-
-### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
-
-El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
-
-Date: 2026-08-03
-
-### Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo
-
-La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.
-
-Date: 2026-08-03
-
-### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
-
-El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta.
-
-Date: 2026-08-03
-
-### Francia expresa su solidaridad con España por la crisis de Ceuta y respalda la cooperación con Marruecos
-
-Francia , que se ha desmarcado de las críticas de varios países europeos al Gobierno de Pedro Sánchez por la crisis del aluvión de migrantes que entraron en Ceuta la semana pasada desde Marruecos, ha querido marcar su solidaridad con España y apoyar una salida que pase por la cooperación con Rabat. Fuentes diplomáticas.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [¿Es responsable el Gobierno de la crisis de Ceuta?](https://amp.elmundo.es/espana/2026/08/04/6a70afcbe9cf4a456a8b45a4.html?utm_source=lootura.com) — 2026-08-04T00:04:22.000Z
-- [Milei acusa a Sánchez de "tiranía" y de "usar" a los inmigrantes para que voten a su favor](https://www.elmundo.es/espana/2026/08/03/6a70c611e9cf4af7448b4586.html?utm_source=lootura.com) — 2026-08-03T16:48:23.000Z
-- [Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras](https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html?utm_source=lootura.com) — 2026-08-03T12:13:54.000Z
+- [Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos](https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z
+- [“No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería](https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de-las-falsas-ofertas-laborales-que-se-difunden-por-whatsapp-y-otras-redes-de-mensajeria.html?utm_source=lootura.com) — 2026-08-04T03:30:01.000Z
+- [Los trucos de Mariló, la nueva maquilladora de Pedro Sánchez: «En televisión, la cámara lo amplifica todo; exige técnica y precisión»](https://theobjective.com/gente/2026-08-04/trucos-marilo-maquilladora-pedro-sanchez-television/?utm_source=lootura.com) — 2026-08-04T05:30:00.000Z
+- [Si necesitan algo, que no lo pidan](https://theobjective.com/elsubjetivo/opinion/2026-08-04/necesitan-no-pidan-articulo-martin-seco/?utm_source=lootura.com) — 2026-08-04T03:25:00.000Z
+- [Súbditos de Marruecos](https://theobjective.com/elsubjetivo/opinion/2026-08-04/subditos-marruecos-articulo-vilches/?utm_source=lootura.com) — 2026-08-04T03:25:00.000Z

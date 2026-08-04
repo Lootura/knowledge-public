@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [],
   "changes": [
     {
       "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
       "summary": "Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
       "date": "2026-08-04"
     },
     {
@@ -55,11 +60,6 @@
       "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
       "summary": "Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by \"botched installation and not vandalism.\".",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Reflecting pool first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
@@ -70,15 +70,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she \"choked\"",
-      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T02:04:16.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
       "url": "https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com",
       "publishedAt": "2026-08-03T19:17:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+      "url": "https://www.cbsnews.com/news/trump-disappointed-jeanine-pirro-dropping-reflecting-pool-vandalism-case/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:04:16.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

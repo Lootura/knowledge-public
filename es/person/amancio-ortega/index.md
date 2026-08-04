@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T13:19:24.039Z
+- Actualizado: 2026-08-04T06:25:11.416Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia
+
+Amancio Ortega está muy unido a una pequeña localidad de Valladolid donde nació su madre y donde tiene sus raíces familiares.
+
+Date: 2026-08-04
 
 ### Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»
 
@@ -46,4 +52,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia](https://theobjective.com/gente/2026-08-04/raices-maternas-amancio-ortega-pueblo-campina-pisuerga/?amp=&utm_source=lootura.com) — 2026-08-04T06:00:00.000Z

@@ -64,4 +64,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Jódar choca con un gran Fritz en la final de Washington](https://www.abc.es/deportes/tenis/jodar-choca-gran-fritz-final-washington-20260803214751-nt.html?utm_source=lootura.com) — 2026-08-03T20:09:50.000Z
+No public source links.

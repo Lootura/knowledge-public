@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»](https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com) — 2026-08-03T23:57:25.000Z
+No public source links.

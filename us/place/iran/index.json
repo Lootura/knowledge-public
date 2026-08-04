@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T02:14:09.197Z",
+  "updatedAt": "2026-08-04T06:25:33.626Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,16 @@
     {
       "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
       "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "8/3: The Takeout with Major Garrett",
+      "summary": "Trump says he's giving Iran a \"last chance\" at diplomacy; Blanche one step closer to confirmation as attorney general.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+      "summary": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.",
       "date": "2026-08-04"
     },
     {
@@ -55,19 +65,15 @@
       "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
       "summary": "U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Tehran’s New Weapon Is Not a Bomb. It Is an Invoice.",
-      "summary": "An oil tanker in the Strait of Hormuz accessing Iran's premier maritime gateway of Bandar Abbas Port, Iran, 1988. —Barry Iverson-Getty Images Iran is expanding the theater of war with an eye on the Strait of Hormuz. Last week, according to U.S. Central Command, more than 30 Iranian-directed drones attacked American for.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
+    {
+      "title": "8/3: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/83-the-takeout-with-major-garrett/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T02:35:03.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
       "url": "https://www.cbsnews.com/video/takeaways-after-trump-takes-questions-on-iran-reflecting-pool-in-oval-office/?utm_source=lootura.com",
@@ -93,11 +99,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
+      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T04:01:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T01:19:28.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 7
 }
