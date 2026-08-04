@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento",
+      "summary": "Una nueva directriz obligará a modificar desde este miércoles el uso de miles de espacios públicos segregados por género en Reino Unido, casi un año y medio después de un fallo histórico del Tribunal Supremo sobre la definición legal de sexo biológico. Con la entrada en vigor mañana de este \"código de buenas prácticas\".",
+      "date": "2026-08-04"
+    },
     {
       "title": "Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología",
       "summary": "La brutal caída de las acciones de semiconductores durante el último mes ha revitalizado el atractivo de los mercados pasados de moda. El FTSE 100 de Reino Unido alcanzó un máximo histórico la semana pasada, gracias en parte a la escasa presencia de empresas tecnológicas en su índice. Pero no es el único: el índice de.",
@@ -67,19 +72,14 @@
       "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
       "summary": "El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Letterpaths: un generador gratuito y de código abierto para aprender (o reaprender) caligrafía",
-      "summary": "Letterpaths es una curiosa colección de herramientas gratuitas para aprender y practicar la caligrafía , pensada originalmente para los niños de primaria del Reino Unido, pero perfectamente utilizable y también adaptable al estilo de otras lenguas que no sean la noble lengua de Shakespeare. No hay que registrarse, no t.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología",
-      "url": "https://www.expansion.com/economia/financial-times/2026/08/04/6a71eac8468aebd0538b4580.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:36:20.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento",
+      "url": "https://www.larazon.es/sociedad/reino-unido-obligara-que-aseos-vestuarios-sean-utilizados-funcion-sexo-nacimiento_202608046a7246ada5690f047365e581.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:08:50.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,16 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-08-04T21:10:19.243Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store
+
+Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. "Apple removed Telegram from the App Store before contacting us," Durov says in a post on X . "This creates a potential systemic ris.
+
+Date: 2026-08-04
 
 ### Apple is working on iPhone-to-Windows copy-paste
 
@@ -28,4 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Apple is working on iPhone-to-Windows copy-paste](https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu?utm_source=lootura.com) — 2026-08-04T14:42:31.000Z
+- [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov?utm_source=lootura.com) — 2026-08-04T19:11:05.000Z

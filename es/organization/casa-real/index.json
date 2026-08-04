@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/casa-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/casa-real/index.json",
   "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "Casa de Su Magestad",
     "Casa de Su Majestad",
@@ -22,6 +22,11 @@
     "ruling dynasty"
   ],
   "changes": [
+    {
+      "title": "Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador",
+      "summary": "La presencia de la princesa Leonor y la infanta Sofía en la recepción de Marivent ha sido una de las grandes incógnitas de esta esperada cita veraniega. Hasta prácticamente el último momento, la Casa Real solo contemplaba oficialmente a los Reyes Felipe VI y Letizia en la agenda del acto, por lo que no estaba confirmad.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Casa real first entered the public knowledge record with source-backed evidence.",
@@ -48,6 +53,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador",
+      "url": "https://okdiario.com/cool/casa-real/leonor-sofia-duelo-estilo-marivent-heredera-rinde-tie-dye-hermana-pisa-acelerador-19123754?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T19:59:54.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

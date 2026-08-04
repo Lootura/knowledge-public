@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -72,11 +72,11 @@
   ],
   "sources": [
     {
-      "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
-      "url": "https://okdiario.com/deportes/principe-jordania-desvela-artes-oscuras-infantino-ganar-apoyos-fifa-chantaje-19125864?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:08:57.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El estudio detrás del «FIFA» de Netflix, el desastroso juego oficial del Mundial, despide a casi todos sus empleados",
+      "url": "https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:05:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

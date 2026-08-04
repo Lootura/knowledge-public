@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -24,13 +24,18 @@
       "date": "2026-08-04"
     },
     {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
-      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
+      "title": "Victoria iraní: peaje en Ormuz",
+      "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
       "date": "2026-08-04"
     },
     {
-      "title": "Victoria iraní: peaje en Ormuz",
-      "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
+      "title": "El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán \"hoy o mañana\"",
+      "summary": "El precio del petróleo intermedio de Texas (WTI) ha abierto este martes con una caída de un 3,37 %, hasta los 77,63 dólares el barril, después de que EEUU anunciara que ve un posible un acuerdo \"hoy o mañana\" para abrir el estrecho de Ormuz. A las 09:00 hora local (13.00 GMT), los contratos de futuros del WTI para el m.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
+      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
       "date": "2026-08-04"
     },
     {
@@ -62,24 +67,19 @@
       "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»",
-      "summary": "El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
+      "title": "El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán \"hoy o mañana\"",
+      "url": "https://www.elindependiente.com/economia/2026/08/04/el-precio-del-petroleo-cae-con-fuerza-tras-anunciar-eeuu-un-acuerdo-con-iran-hoy-o-manana/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T15:08:13.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
+    {
       "title": "El Ibex conquista los 20.000 puntos animado por la caída del petróleo",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/04/6a717c40468aeb14038b45a5.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T15:38:14.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
-      "url": "https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:24:59.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {

@@ -70,6 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Así fue el cese en Seguridad Nacional: la funcionaria estaba de vacaciones... pero se conectó para mandar el mensaje sobre las llegadas](https://www.20minutos.es/nacional/asi-fue-cese-funcionaria-seguridad-nacional-estaba-vacaciones-pero-se-conecto-para-enviar-mensaje-sobre-ceuta_7022414_0.html?utm_source=lootura.com) — 2026-08-04T15:03:07.000Z
-- [El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa](https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com) — 2026-08-04T13:12:07.000Z
-- [Un párroco de Navarra llama a «bombardear Rabat» tras la entrada masiva a Ceuta](https://theobjective.com/espana/politica/2026-08-04/parroco-huarte-bombardear-rabat-ceuta/?utm_source=lootura.com) — 2026-08-04T12:05:08.000Z
+No public source links.

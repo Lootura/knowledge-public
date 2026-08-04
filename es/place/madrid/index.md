@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
 
 La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.
+
+Date: 2026-08-04
+
+### Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años
+
+El músico granadino ha muerto en Madrid tras una enfermedad que lo tenía apartado de los escenarios desde el verano de 2024.
 
 Date: 2026-08-04
 
@@ -62,15 +68,8 @@ El negocio de Getafe que vende bocadillos a 1,5 euros y mantiene precios de hace
 
 Date: 2026-08-04
 
-### Precio de la gasolina hoy 4 de agosto: localiza las gasolineras más baratas de Madrid
-
-Arrancamos el martes, siendo además el primero de este mes de agosto, y la semana en la que muchos madrileños ya disfrutan de sus ansiadas vacaciones de verano . De este modo, puede que la mayoría o un buen porcentaje, ya esté fuera de la Comunidad, pero también hay quien se queda en la ciudad, quien recorre los distin.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio](https://www.abc.es/espana/madrid/messi-dona-80000-euros-reconstruccion-sierra-oeste-20260804134753-nt.html?utm_source=lootura.com) — 2026-08-04T16:20:08.000Z
 - [De cazar conciertos a buscar 'Luciérnagas'](https://www.elcorreo.com/culturas/arte/fotografo-jose-madrid-regala-luciernagas-iluminan-arte-20260617183749-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:19:38.000Z
+- [Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años](https://www.elcorreo.com/culturas/musica/fallece-pepe-habichuela-leyenda-guitarra-flamenca-anos-20260804220714-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T20:07:14.000Z
 - [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
-- [Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato](https://theobjective.com/espana/tribunales/2026-08-04/peinado-fiscalia-europea-causa-barrabes/?utm_source=lootura.com) — 2026-08-04T13:42:10.000Z

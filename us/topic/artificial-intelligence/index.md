@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-08-04T21:10:19.243Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### SpaceX hit by surging AI costs as insiders prepare to sell their shares
+
+For a rocket company, SpaceX is spending a lot of money to build out its AI capacities.
+
+Date: 2026-08-04
+
+### S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
+
+The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
+
+Date: 2026-08-04
 
 ### Why R&D Waste Persists Despite Widespread AI Adoption
 
@@ -56,21 +68,8 @@ Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6 Taking 
 
 Date: 2026-08-03
 
-### You can love an AI but can it love you back? Philosophy has the answer
-
-We often speak of loving things like a cozy sweater or new camera. But this talk is not generally taken literally. It's a kind of emotional shorthand. We use it to express our fondness for precious objects.
-
-Date: 2026-08-03
-
-### Europe’s AI labeling and transparency rules are now in effect
-
-The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's lan.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [Top AI company executives to meet with White House officials, according to reports](https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/?utm_source=lootura.com) — 2026-08-04T17:14:06.000Z
-- [Why R&D Waste Persists Despite Widespread AI Adoption](https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/?utm_source=lootura.com) — 2026-08-04T14:51:55.000Z
-- [Is AI making us dumber? Maybe not. But our skills are at risk](https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk?utm_source=lootura.com) — 2026-08-04T15:00:00.000Z
-- [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy?utm_source=lootura.com) — 2026-08-04T17:33:46.000Z
+- [SpaceX hit by surging AI costs as insiders prepare to sell their shares](https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682?utm_source=lootura.com) — 2026-08-04T20:55:49.000Z
+- [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T20:52:42.000Z

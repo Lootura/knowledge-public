@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -20,13 +20,13 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
-      "summary": "Republicans on the Senate Judiciary Committee voted to advance acting Attorney General Todd Blanche's nomination to serve in the role permanently. NBC News' Scott Wong and Gabe Gutierrez have details on what senators had to say in support or opposition of the nomination and when it will face a full Senate vote.",
+      "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
+      "summary": "Todd Blanche’s nomination now advances to the Senate floor, where he is expected to be confirmed, even though several Republicans have not yet committed to supporting him.",
       "date": "2026-08-04"
     },
     {
-      "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
-      "summary": "Todd Blanche’s nomination now advances to the Senate floor, where he is expected to be confirmed, even though several Republicans have not yet committed to supporting him.",
+      "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
+      "summary": "Republicans on the Senate Judiciary Committee voted to advance acting Attorney General Todd Blanche's nomination to serve in the role permanently. NBC News' Scott Wong and Gabe Gutierrez have details on what senators had to say in support or opposition of the nomination and when it will face a full Senate vote.",
       "date": "2026-08-04"
     },
     {
@@ -67,28 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
-      "url": "https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T15:17:50.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
       "url": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination?utm_source=lootura.com",
       "publishedAt": "2026-08-04T10:50:25.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
-      "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T23:02:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:17:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
@@ -97,5 +79,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

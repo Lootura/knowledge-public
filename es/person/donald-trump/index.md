@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás
+
+El primer ministro de Israel, Benjamin Netanyahu, ha afirmado que rechazó el plan anunciado la semana pasada por el presidente de Estados Unidos, Donald Trump, que incluye el "desarme total" Movimiento de Resistencia Islámica (Hamás) y de otros grupos armados en la Franja de Gaza, después de reunirse este lunes en Jeru.
+
+Date: 2026-08-04
 
 ### Palantir dispara sus resultados y carga contra sus competidores bajo la renovada euforia bursátil
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Or
 
 Date: 2026-08-03
 
-### Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»
-
-El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Palantir dispara sus resultados y carga contra sus competidores bajo la renovada euforia bursátil](https://cincodias.elpais.com/companias/2026-08-04/palantir-dispara-sus-resultados-y-carga-contra-sus-competidores-bajo-la-renovada-euforia-bursatil.html?utm_source=lootura.com) — 2026-08-04T13:39:02.000Z
+- [Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás](https://www.larazon.es/internacional/netanyahu-rechaza-plan-trump-que-incluye-desarme-hamas_202608046a7248f071b42a0b5ddb20f6.html?utm_source=lootura.com) — 2026-08-04T20:17:52.000Z

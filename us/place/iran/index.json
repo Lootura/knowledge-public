@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -37,6 +37,26 @@
       "date": "2026-08-04"
     },
     {
+      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
+      "summary": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
+      "summary": "Qatar said that draft language of a deal was being circulated, while Secretary of State Marco Rubio expressed optimism about the talks but added that nothing was final yet.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+      "summary": "The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
+      "summary": "Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.",
+      "date": "2026-08-04"
+    },
+    {
       "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
       "summary": "Qatar said that draft language of a deal was being circulated, while the U.S. Treasury secretary suggested an agreement may be imminent.",
       "date": "2026-08-04"
@@ -45,39 +65,31 @@
       "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
       "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "8/3: The Takeout with Major Garrett",
-      "summary": "Trump says he's giving Iran a \"last chance\" at diplomacy; Blanche one step closer to confirmation as attorney general.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump claims Iran talks are underway as Tehran denies it",
-      "summary": "President Donald Trump accused Iran of duplicity and insisted the two sides were discussing reopening the Strait of Hormuz as early as Tuesday, even as Tehran denied talks were even taking place.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
-      "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Trump says new talks are 'last chance' for Iran to forge a deal",
-      "summary": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:21:57.000Z",
+      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
+      "url": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:15:27.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
+      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:57:27.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
-      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:27:57.000Z",
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:52:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T12:21:57.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -93,11 +105,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
+      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T19:20:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "How the War in Iran Is Complicating Trump’s Agenda at Home",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T09:04:29.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 9
 }

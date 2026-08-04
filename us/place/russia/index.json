@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
@@ -25,11 +25,6 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
-      "summary": "Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
       "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
       "date": "2026-08-04"
@@ -37,6 +32,11 @@
     {
       "title": "Video shows moment drone burst into fireball on Russian beach",
       "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
+      "summary": "Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.",
       "date": "2026-08-04"
     },
     {
@@ -89,13 +89,7 @@
       "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com",
       "publishedAt": "2026-08-04T11:58:05.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
-      "url": "https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T07:33:24.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

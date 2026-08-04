@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -96,13 +96,7 @@
       "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
       "publishedAt": "2026-08-04T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "We’re giving away a back-to-school bag filled with over $800 of free tech",
-      "url": "https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

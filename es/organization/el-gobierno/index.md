@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Type: person
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta
 
 El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.
+
+Date: 2026-08-04
+
+### Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes
+
+El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como "invasión". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.
+
+Date: 2026-08-04
+
+### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
+
+Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
 
 Date: 2026-08-04
 
@@ -56,19 +68,8 @@ La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida 
 
 Date: 2026-08-04
 
-### El Gobierno se prepara para reubicar a cientos de menores por la Península
-
-El papel lo aguanta todo. Cuando se reformó, hace año y medio, la Ley de Extranjería para redistribuir a menores inmigrantes sin amparo familiar entre las comunidades autónomas se estableció el término de la “capacidad ordinaria”. Un estándar de las plazas de acogida para extranjeros no acompañados con las que debía co.
-
-Date: 2026-08-04
-
-### El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta
-
-«La respuesta debe ser inmediata, coordinada y respetuosa con los derechos humanos», dice la consejera Melgosa, que también reclama «planificación, financiación y las responsabilidades claras».
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes](https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com) — 2026-08-04T14:18:13.000Z
 - [El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta](https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T11:22:18.000Z
-- [El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto](https://theobjective.com/espana/2026-08-04/gobierno-ceuta-preocupado-llamamiento-entrada-agosto/?utm_source=lootura.com) — 2026-08-04T12:07:32.000Z
+- [En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos](https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com) — 2026-08-04T17:55:00.000Z

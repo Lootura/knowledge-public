@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -23,11 +23,6 @@
       "date": "2026-08-04"
     },
     {
-      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
-      "summary": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
       "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
       "date": "2026-08-04"
@@ -35,6 +30,16 @@
     {
       "title": "Video shows moment drone burst into fireball on Russian beach",
       "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ukraine's air defenses are proving to be a weak point",
+      "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+      "summary": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
       "date": "2026-08-04"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
       "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-      "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -88,11 +88,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
-      "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:33:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukraine's air defenses are proving to be a weak point",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:16:33.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

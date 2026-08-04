@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»](https://okdiario.com/deportes/principe-jordania-desvela-artes-oscuras-infantino-ganar-apoyos-fifa-chantaje-19125864?utm_source=lootura.com) — 2026-08-04T17:08:57.000Z
+No public source links.

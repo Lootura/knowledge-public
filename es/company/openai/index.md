@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Apple pide a un tribunal que frene el dispositivo de IA de OpenAI
+
+Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.
+
+Date: 2026-08-04
 
 ### La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI
 
@@ -40,4 +46,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Apple pide a un tribunal que frene el dispositivo de IA de OpenAI](https://hipertextual.com/economia-empresas/apple-acusa-exempleados-secretos-openai/?utm_source=lootura.com) — 2026-08-04T19:02:49.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [],
   "changes": [
     {
       "title": "Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias",
       "summary": "La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años",
+      "summary": "El músico granadino ha muerto en Madrid tras una enfermedad que lo tenía apartado de los escenarios desde el verano de 2024.",
       "date": "2026-08-04"
     },
     {
@@ -55,20 +60,9 @@
       "title": "El negocio de Madrid que conserva los precios de hace 10 años: sus bocadillos de 1,5 euros se han convertido en un fenómeno",
       "summary": "El negocio de Getafe que vende bocadillos a 1,5 euros y mantiene precios de hace 10 años. Un fenómeno en Madrid en plena subida.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Precio de la gasolina hoy 4 de agosto: localiza las gasolineras más baratas de Madrid",
-      "summary": "Arrancamos el martes, siendo además el primero de este mes de agosto, y la semana en la que muchos madrileños ya disfrutan de sus ansiadas vacaciones de verano . De este modo, puede que la mayoría o un buen porcentaje, ya esté fuera de la Comunidad, pero también hay quien se queda en la ciudad, quien recorre los distin.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
-    {
-      "title": "Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio",
-      "url": "https://www.abc.es/espana/madrid/messi-dona-80000-euros-reconstruccion-sierra-oeste-20260804134753-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:20:08.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "De cazar conciertos a buscar 'Luciérnagas'",
       "url": "https://www.elcorreo.com/culturas/arte/fotografo-jose-madrid-regala-luciernagas-iluminan-arte-20260617183749-nt_amp.html?utm_source=lootura.com",
@@ -76,17 +70,17 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
+      "title": "Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años",
+      "url": "https://www.elcorreo.com/culturas/musica/fallece-pepe-habichuela-leyenda-guitarra-flamenca-anos-20260804220714-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:07:14.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
       "title": "Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias",
       "url": "https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:26:50.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato",
-      "url": "https://theobjective.com/espana/tribunales/2026-08-04/peinado-fiscalia-europea-causa-barrabes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:42:10.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
+      "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea",
       "summary": "El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del \"caso Begoña Gómez\" asumir la indagación en las supuestas irregularidades me.",
@@ -22,11 +27,6 @@
     {
       "title": "Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración",
       "summary": "Los ministros de Interior de la Unión Europea y de los países asociados al espacio Schengen han coincidido en reforzar las fronteras exteriores, los retornos, la cooperación con terceros países y la capacidad de anticipación ante futuros episodios como la crisis migratoria de Ceuta, al tiempo que han expresado su «firm.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
-      "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
       "date": "2026-08-04"
     },
     {
@@ -71,19 +71,7 @@
       "url": "https://elpais.com/espana/2026-08-04/marlaska-insiste-en-que-el-cni-no-alerto-de-una-llegada-masiva-de-migrantes-a-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T12:39:56.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea",
-      "url": "https://www.larazon.es/espana/juez-peinado-archiva-investigacion-barrabes-contrato-pasa-fiscalia-europea_202608046a71ee8f71b42a0b5dda54ad.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:52:32.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración",
-      "url": "https://theobjective.com/internacional/2026-08-04/ministros-interior-ue-inmigracion/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:40:37.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

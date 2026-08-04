@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de 
 
 Date: 2026-08-04
 
-### La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera
-
-La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.
-
-Date: 2026-08-04
-
 ### Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca
 
 La tarde del pasado lunes será una de las fechas de las que los habitantes de Sograndio (Asturias) no se olvidarán. Mientras los habitantes del pueblo vivían una jornada de lo más normal, en el centro de internamiento juvenil de la localidad se produjo un violento motín . La revuelta se inició con una gran trifulca ent.
+
+Date: 2026-08-04
+
+### Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera
+
+Nueva tragedia en la ruta migratoria hacia Baleares. Dos migrantes han fallecido y alrededor de una decena permanecen desaparecidos después de que una patera naufragara al sureste de la isla de Cabrera . Salvamento Marítimo y la Guardia Civil han logrado rescatar con vida a 17 personas, seis de las cuales han tenido qu.
+
+Date: 2026-08-04
+
+### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
+
+Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
+
+Date: 2026-08-04
+
+### La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera
+
+La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.
 
 Date: 2026-08-04
 
@@ -56,20 +68,9 @@ El hombre detenido el pasado 28 de julio por su presunta implicación en la muer
 
 Date: 2026-08-03
 
-### 17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España
-
-Nadie esperaba que el centro de operaciones de una de las organizaciones cibernéticas más peligrosas del mundo se encontrase en la habitación de un adolescente. Una operación conjunta y milimétrica entre la Ertzaintza, los Mossos d'Esquadra y la Guardia Civil ha culminado con la detención en Gipuzkoa de un menor de ape.
-
-Date: 2026-08-03
-
-### Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés
-
-La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Policía que un superior le dio la «orden directa» de eliminar información contable de una adjudicación al empresario Juan Carlos Barrabés , según ha publicado El Mundo. Actualmente, la Unidad Central Operativa ( UCO ) de la Guardia Civil y la Fis.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera](https://www.elconfidencial.com/espana/2026-08-04/cadaveres-migrantes-ceuta-guardia-civil-1tps_4400821/?utm_source=lootura.com) — 2026-08-04T12:27:00.000Z
+- [Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera](https://www.abc.es/espana/baleares/dos-muertos-decena-desaparecidos-tras-naufragar-patera-20260804194819-nt.html?utm_source=lootura.com) — 2026-08-04T17:48:19.000Z
 - [Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca](https://www.elconfidencial.com/espana/2026-08-04/motin-en-el-centro-de-menores-de-sograndio-5-fugados-1tna_4400944/?utm_source=lootura.com) — 2026-08-04T15:00:00.000Z
 - [Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla](https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com) — 2026-08-04T10:24:59.000Z
+- [En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos](https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com) — 2026-08-04T17:55:00.000Z

@@ -58,4 +58,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE](https://www.lavanguardia.com/internacional/20260804/11607825/muerto-centro-detencion-federal-son-22-fallecidos-custodia-ice.html?utm_source=lootura.com) — 2026-08-04T15:47:10.000Z
+No public source links.

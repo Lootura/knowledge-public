@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [La UE no ve relación entre la regularización y la crisis pero avisa de que la medida "no es una buena señal"](https://www.20minutos.es/nacional/comisario-europeo-interior-desvincula-regularizacion-migrantes-con-crisis-ceuta-aunque-ve-una-mala-senal_7022528_0.html?utm_source=lootura.com) — 2026-08-04T14:10:19.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio](https://www.abc.es/espana/madrid/messi-dona-80000-euros-reconstruccion-sierra-oeste-20260804134753-nt.html?utm_source=lootura.com) — 2026-08-04T16:20:08.000Z
 - [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z

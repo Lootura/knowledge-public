@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-08-04T21:10:19.243Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -20,12 +20,6 @@ A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. 
 
 Date: 2026-08-04
 
-### Russia says a Ukrainian drone struck a busy beach, killing at least 7 people
-
-Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.
-
-Date: 2026-08-04
-
 ### Ukraine hits Russia with deadly strike near busy beach, officials say
 
 A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.
@@ -35,6 +29,12 @@ Date: 2026-08-04
 ### Video shows moment drone burst into fireball on Russian beach
 
 Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.
+
+Date: 2026-08-04
+
+### Russia says a Ukrainian drone struck a busy beach, killing at least 7 people
+
+Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.
 
 Date: 2026-08-04
 
@@ -74,4 +74,3 @@ Date: 2026-08-03
 - [Drone hits crowded Russian beach, killing 7 people](https://www.cbsnews.com/video/drone-hits-crowded-russian-beach-killing-7-people/?utm_source=lootura.com) — 2026-08-04T14:01:40.000Z
 - [Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says](https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com) — 2026-08-04T10:17:23.000Z
 - [Video shows moment drone burst into fireball on Russian beach](https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723?utm_source=lootura.com) — 2026-08-04T11:58:05.000Z
-- [Russia says a Ukrainian drone struck a busy beach, killing at least 7 people](https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725?utm_source=lootura.com) — 2026-08-04T07:33:24.000Z

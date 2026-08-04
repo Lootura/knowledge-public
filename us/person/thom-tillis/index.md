@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal](https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com) — 2026-08-03T20:17:53.000Z
+No public source links.

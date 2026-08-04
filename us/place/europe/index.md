@@ -70,6 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Europe can become a bioengineering powerhouse with these three changes](https://www.nature.com/articles/d41586-026-02389-5?utm_source=lootura.com) — 2026-08-04T14:05:17.736Z
-- [Europe heat wave fuels drought, fires and energy fears](https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires?utm_source=lootura.com) — 2026-08-04T16:37:38.000Z
-- [Apple is working on iPhone-to-Windows copy-paste](https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu?utm_source=lootura.com) — 2026-08-04T14:42:31.000Z
+No public source links.

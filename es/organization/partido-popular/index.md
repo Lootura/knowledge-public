@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
 El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
+
+### Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes
+
+El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como "invasión". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.
+
+Date: 2026-08-04
+
+### La Junta de Castilla y León se opondrá "por todos los medios" al reparto de menores migrantes de Ceuta
+
+La Junta de Castilla y León, gobernada por el PP y Vox, ha mostrado su "oposición frontal" a la política migratoria del Ejecutivo central y se opondrá por todos los medios a un futuro reparto de menores migrantes llegados de Ceuta. Fuentes de la Vicepresidencia primera de Castilla y León, que recae en Carlos Pollán (Vo.
+
+Date: 2026-08-04
+
+### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
+
+Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
 
 Date: 2026-08-04
 
@@ -50,25 +68,9 @@ Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad naci
 
 Date: 2026-08-04
 
-### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
-
-El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
-
-Date: 2026-08-04
-
-### El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva
-
-En la portada de Bild Zeitung, el periódico más leído de Alemania, el vicepresidente de Baviera y presidente de Partido Popular Europeo culpa este martes a Pedro Sánchez y a su política migratoria de los muertos en Ceuta . «Nadie habría tenido que morir», lamenta Manfred Weber , y atribuye la política errática de Españ.
-
-Date: 2026-08-04
-
-### Muere Pablo Vázquez, presidente de la fundación del PP Reformismo21
-
-Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretario de Sanidad Leer.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes](https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com) — 2026-08-04T14:18:13.000Z
+- [La Junta de Castilla y León se opondrá "por todos los medios" al reparto de menores migrantes de Ceuta](https://www.elindependiente.com/espana/2026/08/04/la-junta-de-castilla-y-leon-se-opondra-por-todos-los-medios-al-reparto-de-menores-migrantes-de-ceuta/?utm_source=lootura.com) — 2026-08-04T16:28:51.000Z
+- [El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”](https://elpais.com/espana/madrid/2026-08-04/el-pp-pide-a-sus-cargos-y-diputados-apoyar-publicamente-a-ayuso-en-plena-crisis-por-la-compra-del-atico-os-pedimos-colaboracion-para-poner-comentarios-positivos.html?utm_source=lootura.com) — 2026-08-04T16:53:24.000Z
 - [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z
-- [El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa](https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com) — 2026-08-04T13:12:07.000Z

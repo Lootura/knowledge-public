@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [],
   "changes": [
     {
@@ -27,6 +27,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Steve Kornacki previews the key counties ahead of Michigan’s high-stakes Democratic Senate primary",
+      "url": "https://www.nbcnews.com/meet-the-press/video/steve-kornacki-previews-the-key-counties-ahead-of-michigan-s-high-stakes-democratic-senate-primary-267758149886?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:25:25.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
   "evidenceCount": 0
 }

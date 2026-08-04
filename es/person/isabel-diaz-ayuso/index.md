@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
 El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
+
+### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
+
+Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
 
 Date: 2026-08-04
 
@@ -62,13 +68,7 @@ El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de M
 
 Date: 2026-07-25
 
-### Ayuso teme "situaciones mucho peores en las próximas horas" al unirse los fuegos de Ávila y Madrid en un frente de 20.000 hectáreas
-
-La lucha contra los incendios que arrasan la Sierra Oeste de Madrid y la provincia de Ávila entra en un "momento muy crítico", según ha advertido la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, instantes antes de desalojar el Puesto de Mando Avanzado de Cenicientos ante el riesgo de que el fuego procedente.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio](https://www.abc.es/espana/madrid/messi-dona-80000-euros-reconstruccion-sierra-oeste-20260804134753-nt.html?utm_source=lootura.com) — 2026-08-04T16:20:08.000Z
+- [El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”](https://elpais.com/espana/madrid/2026-08-04/el-pp-pide-a-sus-cargos-y-diputados-apoyar-publicamente-a-ayuso-en-plena-crisis-por-la-compra-del-atico-os-pedimos-colaboracion-para-poner-comentarios-positivos.html?utm_source=lootura.com) — 2026-08-04T16:53:24.000Z
 - [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z

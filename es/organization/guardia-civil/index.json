@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,23 @@
       "date": "2026-08-04"
     },
     {
-      "title": "La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera",
-      "summary": "La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.",
+      "title": "Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca",
+      "summary": "La tarde del pasado lunes será una de las fechas de las que los habitantes de Sograndio (Asturias) no se olvidarán. Mientras los habitantes del pueblo vivían una jornada de lo más normal, en el centro de internamiento juvenil de la localidad se produjo un violento motín . La revuelta se inició con una gran trifulca ent.",
       "date": "2026-08-04"
     },
     {
-      "title": "Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca",
-      "summary": "La tarde del pasado lunes será una de las fechas de las que los habitantes de Sograndio (Asturias) no se olvidarán. Mientras los habitantes del pueblo vivían una jornada de lo más normal, en el centro de internamiento juvenil de la localidad se produjo un violento motín . La revuelta se inició con una gran trifulca ent.",
+      "title": "Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera",
+      "summary": "Nueva tragedia en la ruta migratoria hacia Baleares. Dos migrantes han fallecido y alrededor de una decena permanecen desaparecidos después de que una patera naufragara al sureste de la isla de Cabrera . Salvamento Marítimo y la Guardia Civil han logrado rescatar con vida a 17 personas, seis de las cuales han tenido qu.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos",
+      "summary": "Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera",
+      "summary": "La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados del mar por la Guardia Civil tras la entrada masiva de migrantes registrada el pasado jueves en Ceuta, un balance que suma tres víctimas más respecto al comunicado difundido este lunes. Los equipos de la Guardia Civil mantienen el dispositivo.",
       "date": "2026-08-04"
     },
     {
@@ -50,24 +60,14 @@
       "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
       "summary": "El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "17 años y desde el 'bunker' de su habitación: así sembraba el terror digital el líder de Red 764 en España",
-      "summary": "Nadie esperaba que el centro de operaciones de una de las organizaciones cibernéticas más peligrosas del mundo se encontrase en la habitación de un adolescente. Una operación conjunta y milimétrica entre la Ertzaintza, los Mossos d'Esquadra y la Guardia Civil ha culminado con la detención en Gipuzkoa de un menor de ape.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés",
-      "summary": "La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Policía que un superior le dio la «orden directa» de eliminar información contable de una adjudicación al empresario Juan Carlos Barrabés , según ha publicado El Mundo. Actualmente, la Unidad Central Operativa ( UCO ) de la Guardia Civil y la Fis.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "La Delegación del Gobierno en Ceuta eleva a 75 los migrantes muertos al intentar cruzar la frontera",
-      "url": "https://www.elconfidencial.com/espana/2026-08-04/cadaveres-migrantes-ceuta-guardia-civil-1tps_4400821/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:27:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera",
+      "url": "https://www.abc.es/espana/baleares/dos-muertos-decena-desaparecidos-tras-naufragar-patera-20260804194819-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:48:19.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca",
@@ -80,7 +80,13 @@
       "url": "https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T10:24:59.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos",
+      "url": "https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:55:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

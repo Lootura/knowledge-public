@@ -3,10 +3,16 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador
+
+La presencia de la princesa Leonor y la infanta Sofía en la recepción de Marivent ha sido una de las grandes incógnitas de esta esperada cita veraniega. Hasta prácticamente el último momento, la Casa Real solo contemplaba oficialmente a los Reyes Felipe VI y Letizia en la agenda del acto, por lo que no estaba confirmad.
+
+Date: 2026-08-04
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador](https://okdiario.com/cool/casa-real/leonor-sofia-duelo-estilo-marivent-heredera-rinde-tie-dye-hermana-pisa-acelerador-19123754?utm_source=lootura.com) — 2026-08-04T19:59:54.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,6 +18,21 @@
   ],
   "changes": [
     {
+      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
+      "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
+      "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ceuta no estaba en la playlist ecléctica",
+      "summary": "Pedro Sánchez comparte la banda sonora de su verano. En el espigón del Tarajal, el mar sigue devolviendo cadáveres. Entre Lanzarote y Ceuta no hay sólo kilómetros: hay una avería moral en la puesta en escena del poder. Después de que 72.000 personas hubieran cruzado hacia Ceuta en apenas un día y con el número de muert.",
+      "date": "2026-08-04"
+    },
+    {
       "title": "Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés",
       "summary": "El magistrado acata la petición del órgano comunitario después de que la Audiencia Provincial excluyera al consultor del juicio con jurado que afrontará la esposa de Pedro Sánchez El juez Peinado abre una nueva investigación en el caso de Begoña Gómez pero solo contra el empresario Barrabés El juez Juan Carlos Peinado,.",
       "date": "2026-08-04"
@@ -25,11 +40,6 @@
     {
       "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
       "summary": "El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
       "date": "2026-08-04"
     },
     {
@@ -56,16 +66,6 @@
       "title": "Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»",
       "summary": "El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Europa muestra su solidaridad con España pero acusa a Sánchez de provocar la crisis de Ceuta",
-      "summary": "El primer ministro belga asegura que «está claro que Europa debe cerrar sus fronteras».",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "“No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería",
-      "summary": "Paula Sánchez (Pontevedra, 47 años) se encontraba como todos los días frente a su monitor. Había pasado media vida gestionando cuentas, presupuestos y balances. Sabía leer números y anticipar amenazas. Aquella mañana de noviembre de 2025, cuando se topó con un anuncio de una vacante remota en LinkedIn no vio ningún rie.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -76,23 +76,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés",
-      "url": "https://www.eldiario.es/politica/peinado-remite-fiscalia-europea-nueva-investigacion-caso-begona-gomez-empresario-barrabes_1_13427673.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:04:59.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
+      "url": "https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:46:52.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "100 muertos en la playa mientras Sánchez escucha su ‘playlist’",
-      "url": "https://okdiario.com/opinion/100-muertos-playa-mientras-sanchez-escucha-playlist-19124198?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:00:42.000Z",
+      "title": "Ceuta no estaba en la playlist ecléctica",
+      "url": "https://okdiario.com/opinion/ceuta-no-estaba-playlist-eclectica-19126485?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T19:56:15.000Z",
       "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:12:07.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

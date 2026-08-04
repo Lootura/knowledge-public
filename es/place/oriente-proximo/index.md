@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Ibex conquista por primera vez los 20.000 puntos con unas Bolsas en nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-04T16:06:39.000Z
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [El Ibex conquista por primera vez los 20.000 puntos con unas Bolsas en nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-04T20:06:05.000Z

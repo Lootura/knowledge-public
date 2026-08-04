@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple pide a un tribunal que frene el dispositivo de IA de OpenAI
+
+Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.
+
+Date: 2026-08-04
 
 ### ¿A qué hora se estrena la temporada 4 de ‘Ted Lasso’ en Apple TV?
 
@@ -62,12 +68,6 @@ Que el MacBook Neo ha sido un rotundo éxito no es ninguna sorpresa. Muchos expe
 
 Date: 2026-07-25
 
-### Samsung busca ventaja ante Apple en la batalla de los plegables
-
-Hay una nueva carrera en el mercado de smartphones y Samsung acaba de dar el pistoletazo de salida. La compañía coreana reunió este miércoles en Londres a expertos en tecnología para presentar la actualización más ambiciosa de su gama de teléfonos plegables hasta la fecha. La empresa ha ampliado por primera vez su fami.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [¿A qué hora se estrena la temporada 4 de ‘Ted Lasso’ en Apple TV?](https://hipertextual.com/cine-television/a-que-hora-se-estrena-la-temporada-4-de-ted-lasso-en-apple-tv/?utm_source=lootura.com) — 2026-08-04T13:00:46.000Z
+- [Apple pide a un tribunal que frene el dispositivo de IA de OpenAI](https://hipertextual.com/economia-empresas/apple-acusa-exempleados-secretos-openai/?utm_source=lootura.com) — 2026-08-04T19:02:49.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Seguridad Social en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/person/seguridad-social
 
 ## Cambios recientes
@@ -52,5 +52,5 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Los inmigrantes buscan respuestas: «Qué van a hacer con nosotros»](https://www.abc.es/espana/inmigrantes-ceuta-buscan-respuestas-sumidos-apagon-informativo-20260804133027-nt.html?utm_source=lootura.com) — 2026-08-04T17:00:48.000Z
+- [Los inmigrantes buscan respuestas: «Qué van a hacer con nosotros»](https://www.abc.es/espana/inmigrantes-ceuta-buscan-respuestas-sumidos-apagon-informativo-20260804133027-nt.html?utm_source=lootura.com) — 2026-08-04T18:05:21.000Z
 - [El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta](https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T11:22:18.000Z

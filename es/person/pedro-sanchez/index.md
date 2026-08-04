@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
+
+The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.
+
+Date: 2026-08-04
+
+### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
+
+Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.
+
+Date: 2026-08-04
+
+### Ceuta no estaba en la playlist ecléctica
+
+Pedro Sánchez comparte la banda sonora de su verano. En el espigón del Tarajal, el mar sigue devolviendo cadáveres. Entre Lanzarote y Ceuta no hay sólo kilómetros: hay una avería moral en la puesta en escena del poder. Después de que 72.000 personas hubieran cruzado hacia Ceuta en apenas un día y con el número de muert.
+
+Date: 2026-08-04
 
 ### Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés
 
@@ -17,12 +35,6 @@ Date: 2026-08-04
 ### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
 
 El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.
-
-Date: 2026-08-04
-
-### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
-
-The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.
 
 Date: 2026-08-04
 
@@ -56,21 +68,8 @@ El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses 
 
 Date: 2026-08-04
 
-### Europa muestra su solidaridad con España pero acusa a Sánchez de provocar la crisis de Ceuta
-
-El primer ministro belga asegura que «está claro que Europa debe cerrar sus fronteras».
-
-Date: 2026-08-04
-
-### “No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería
-
-Paula Sánchez (Pontevedra, 47 años) se encontraba como todos los días frente a su monitor. Había pasado media vida gestionando cuentas, presupuestos y balances. Sabía leer números y anticipar amenazas. Aquella mañana de noviembre de 2025, cuando se topó con un anuncio de una vacante remota en LinkedIn no vio ningún rie.
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"](https://www.elmundo.es/espana/2026/08/04/6a71bbcc21efa0f6278b4597.html?utm_source=lootura.com) — 2026-08-04T10:19:39.000Z
-- [Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés](https://www.eldiario.es/politica/peinado-remite-fiscalia-europea-nueva-investigacion-caso-begona-gomez-empresario-barrabes_1_13427673.html?utm_source=lootura.com) — 2026-08-04T12:04:59.000Z
-- [100 muertos en la playa mientras Sánchez escucha su ‘playlist’](https://okdiario.com/opinion/100-muertos-playa-mientras-sanchez-escucha-playlist-19124198?utm_source=lootura.com) — 2026-08-04T17:00:42.000Z
-- [El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa](https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com) — 2026-08-04T13:12:07.000Z
+- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T20:46:52.000Z
+- [Ceuta no estaba en la playlist ecléctica](https://okdiario.com/opinion/ceuta-no-estaba-playlist-eclectica-19126485?utm_source=lootura.com) — 2026-08-04T19:56:15.000Z

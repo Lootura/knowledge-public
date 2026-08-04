@@ -46,4 +46,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [DNC report on 2024 election outcome missing key chapter, report says](https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says?utm_source=lootura.com) — 2026-08-04T08:40:31.000Z
+No public source links.

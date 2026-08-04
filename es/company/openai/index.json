@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
+      "summary": "Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI",
       "summary": "Santander gano 8.973 millones, un 31% más, por la plusvalía de la venta en Polonia.",
@@ -39,6 +44,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
+      "url": "https://hipertextual.com/economia-empresas/apple-acusa-exempleados-secretos-openai/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T19:02:49.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

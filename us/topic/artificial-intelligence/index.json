@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,16 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
+      "summary": "For a rocket company, SpaceX is spending a lot of money to build out its AI capacities.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+      "summary": "The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
       "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why projects fail late. Alm.",
@@ -66,16 +76,6 @@
       "title": "Want to get more from AI? Treat every prompt like an experiment",
       "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6 Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "You can love an AI but can it love you back? Philosophy has the answer",
-      "summary": "We often speak of loving things like a cozy sweater or new camera. But this talk is not generally taken literally. It's a kind of emotional shorthand. We use it to express our fondness for precious objects.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "summary": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's lan.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -86,23 +86,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
-      "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:51:55.000Z",
-      "sourceId": "lootura-us-ieee-spectrum"
+      "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
+      "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:55:49.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Is AI making us dumber? Maybe not. But our skills are at risk",
-      "url": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T15:00:00.000Z",
-      "sourceId": "lootura-us-science-news"
-    },
-    {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:33:46.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:52:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

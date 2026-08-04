@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -60,28 +60,28 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
-      "summary": "Qatar said that draft language of a deal was being circulated, while the U.S. Treasury secretary suggested an agreement may be imminent.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "How Well Is the Progressive Left Actually Doing?",
       "summary": "Its wins have been largely confined to highly educated and heavily Democratic parts of urban America. But two races could change that.",
       "date": "2026-08-04"
     },
     {
-      "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
-      "summary": "Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.",
+      "title": "What’s missing from the White House plan for the future of US science",
+      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
       "date": "2026-08-04"
     },
     {
-      "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
-      "summary": "\"Spider-Man: Brand New Day\" leapt straight to the top of the box office this weekend. Its $360 million opening weekend debut is the biggest in U.S. history. Marlow Stern, chief correspondent at Variety, joins CBS News to discuss all the latest movie news.",
+      "title": "McDonald’s struggles to attract bargain-hungry customers",
+      "summary": "McDonald’s just reported its slowest U.S. sales growth in over a year as its value push fell flat with customers who continue to struggle with higher prices.",
       "date": "2026-08-04"
     },
     {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
+      "title": "Ukraine's air defenses are proving to be a weak point",
+      "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "A temperature dial for more realistic quantum simulations",
+      "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.",
       "date": "2026-08-04"
     }
   ],
@@ -93,16 +93,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:53:15.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "What’s missing from the White House plan for the future of US science",
+      "url": "https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T21:10:23.353Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Prosecutor in D.C. Moves to Dismiss More Reflecting Pool Cases",
-      "url": "https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T18:54:55.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "McDonald’s struggles to attract bargain-hungry customers",
+      "url": "https://www.nbcnews.com/business/consumer/mcdonalds-sales-struggle-value-meals-rcna590683?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T19:17:52.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Ukraine's air defenses are proving to be a weak point",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:16:33.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "A temperature dial for more realistic quantum simulations",
+      "url": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T21:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Fossils from Wyoming's Smiley Draw deepen understanding of early primate evolution",
+      "url": "https://phys.org/news/2026-08-fossils-wyoming-smiley-deepen-early.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
@@ -117,12 +135,6 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
-      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:27:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
       "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T04:00:14.000Z",
@@ -133,13 +145,7 @@
       "url": "https://www.nytimes.com/2026/08/04/upshot/progressive-left-michigan-wisconsin.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T16:47:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Inside the Democratic Socialists of America Summit",
-      "url": "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:17:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 12
 }

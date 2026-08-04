@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-04T21:10:19.243Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### One Maine community's fight to save a birthing center
+
+In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.
+
+Date: 2026-08-04
 
 ### How a community rallied around a little girl and her love for roosters
 
@@ -62,12 +68,7 @@ Democrats are hoping to move past Platner's scandal-plagued campaign as they loo
 
 Date: 2026-07-25
 
-### Maine Democrats meet to select Senate nominee to replace Graham Platner
-
-Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [FBI not conducting civil rights probe into ICE shooting in Maine, sources say](https://www.cbsnews.com/news/fbi-no-civil-rights-investigation-maine-ice-shooting/?utm_source=lootura.com) — 2026-08-04T19:45:10.000Z
+- [One Maine community's fight to save a birthing center](https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight?utm_source=lootura.com) — 2026-08-04T20:16:26.000Z

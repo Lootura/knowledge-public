@@ -3,20 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ### Victoria iraní: peaje en Ormuz
 
 Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.
+
+Date: 2026-08-04
+
+### Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás
+
+El primer ministro de Israel, Benjamin Netanyahu, ha afirmado que rechazó el plan anunciado la semana pasada por el presidente de Estados Unidos, Donald Trump, que incluye el "desarme total" Movimiento de Resistencia Islámica (Hamás) y de otros grupos armados en la Franja de Gaza, después de reunirse este lunes en Jeru.
+
+Date: 2026-08-04
+
+### Milei afirma que la alianza con EE UU es la "llave" para recuperar las Islas Malvinas
+
+El presidente de Argentina, Javier Milei, afirmó este lunes que la alianza con el Gobierno de Estados Unidos es la "llave" para recuperar las Islas Malvinas y culpó a su vicepresidenta, Victoria Villarruel, de provocar "tensión" con el Gobierno británico por unas declaraciones sobre este asunto. "Estados Unidos ha camb.
+
+Date: 2026-08-04
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
 
 Date: 2026-08-04
 
@@ -56,19 +68,8 @@ El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Or
 
 Date: 2026-08-03
 
-### Japón abre la puerta a seguir interviniendo en el mercado junto a EE UU para frenar la caída del yen
-
-El Gobierno de Japón ha confirmado este lunes una intervención histórica junto a Estados Unidos para atajar la fuerte depreciación del yen, en mínimos de cuatro décadas frente al dólar estadounidense. Una operación que podría volver a repetirse si fuera necesario, según ha dejado claro el gobierno nipón. “Esta acción c.
-
-Date: 2026-08-03
-
-### Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»
-
-El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
+- [Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás](https://www.larazon.es/internacional/netanyahu-rechaza-plan-trump-que-incluye-desarme-hamas_202608046a7248f071b42a0b5ddb20f6.html?utm_source=lootura.com) — 2026-08-04T20:17:52.000Z
+- [Milei afirma que la alianza con EE UU es la "llave" para recuperar las Islas Malvinas](https://www.larazon.es/internacional/milei-afirma-que-alianza-llave-recuperar-islas-malvinas_202608046a724769a046ad6ebc9cf1d0.html?utm_source=lootura.com) — 2026-08-04T20:11:21.000Z
 - [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z

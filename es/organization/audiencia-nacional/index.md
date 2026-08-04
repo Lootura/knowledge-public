@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica
 
 La Audiencia Nacional investiga actualmente el trato de favor de la expareja de Ábalos en Ineco y Tragsatec.
+
+Date: 2026-08-04
+
+### Hazte Oír presenta una querella contra mandos marroquíes y el delegado del Gobierno en Ceuta
+
+Hazte Oír ha presentado una querella ante la Audiencia Nacional contra "agentes de inteligencia marroquíes", mandos de la Gendarmería Real y de las Fuerzas Auxiliares de Marruecos , así como contra el delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano tras la incursión masiva de decenas de miles de personas en.
 
 Date: 2026-08-04
 
@@ -44,12 +50,6 @@ Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y
 
 Date: 2026-08-03
 
-### Robles se desmarca del Gobierno con la exigencia a Marruecos de que investigue la entrada en Ceuta y defiende al CNI
-
-Desde el Ejecutivo han evitado señalar a este país y el propio ministro de Exteriores dijo esta mañana que ofrecieron "su colaboración desde el primer momento" La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada” La ministra de Defensa, Margarita Rob.
-
-Date: 2026-08-03
-
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
 El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
@@ -70,5 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Vox denuncia al delegado del Gobierno en Ceuta por la crisis migratoria](https://theobjective.com/espana/2026-08-04/vox-delegado-gobierno-ceuta-crisis-migratoria/?utm_source=lootura.com) — 2026-08-04T16:44:47.000Z
+- [Hazte Oír presenta una querella contra mandos marroquíes y el delegado del Gobierno en Ceuta](https://www.20minutos.es/nacional/hazte-oir-presenta-una-querella-contra-mandos-marroquies-delegado-gobierno-ceuta_7022613_0.html?utm_source=lootura.com) — 2026-08-04T17:24:32.000Z
 - [Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica](https://theobjective.com/espana/tribunales/2026-08-04/moncloa-abogacia-estado-ineco-jesica/?amp=&utm_source=lootura.com) — 2026-08-04T13:57:41.000Z

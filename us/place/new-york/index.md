@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-08-04T21:10:19.243Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-23
 
 - [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z
 - [Bernie Sanders’ circle is pretty clear on who his successor will be](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z
-- [We’re giving away a back-to-school bag filled with over $800 of free tech](https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes?utm_source=lootura.com) — 2026-08-04T14:00:00.000Z

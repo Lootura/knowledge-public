@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -26,15 +26,15 @@ Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación
 
 Date: 2026-08-04
 
-### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
-
-La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.
-
-Date: 2026-08-03
-
 ### Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia
 
 El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.
+
+Date: 2026-08-03
+
+### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
+
+La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.
 
 Date: 2026-08-03
 
@@ -73,4 +73,3 @@ Date: 2026-07-31
 - [Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián](https://www.diariovasco.com/gipuzkoa/carabelas-portuguesas-ganan-tamano-playas-guipuzcoanas-acotan-20260804170940-nt_amp.html?utm_source=lootura.com) — 2026-08-04T15:09:40.000Z
 - [Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia](https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:08:37.000Z
 - [Consulta los servicios de Lurraldebus para la Semana Grande de Donostia](https://www.diariovasco.com/san-sebastian/semana-grande/servicios-especiales-lurraldebus-20260804152006-nt_amp.html?utm_source=lootura.com) — 2026-08-04T13:20:35.000Z
-- [El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»](https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com) — 2026-08-03T19:02:29.000Z

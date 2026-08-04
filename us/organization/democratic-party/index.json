@@ -8,24 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
-      "title": "5 states have primary elections on Tuesday. These are the races to watch",
-      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans. (Image credit: Finn Gomez).",
-      "date": "2026-08-04"
-    },
-    {
       "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
       "summary": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire. (Image credit: Scott Olson).",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
-      "summary": "Cori Bush’s 2024 primary loss to Wesley Bell was heralded as a major defeat for the insurgent progressive movement. Now, their rematch for Missouri’s 1st District two years later comes at a time when Bush and her allies seem to be winning the battle for the future of the Democratic Party. The dueling factions in St. Lo.",
       "date": "2026-08-04"
     },
     {
@@ -44,23 +34,33 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Pete Buttigieg shares his theory for how Democrats can win over cherry ice cream",
-      "summary": "Pete Buttigieg shares his theory for how Democrats can win over cherry ice cream lead image.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
       "summary": "Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.",
       "date": "2026-08-04"
     },
     {
-      "title": "The war to succeed Bernie Sanders is already underway",
-      "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
+      "title": "Democrats Face Big Test in Critical Michigan Primary",
+      "summary": "It is primary day in a handful of states and voters are heading to the polls with key races up for grabs that could signal which direction the parties are headed before the November midterms. One of the most closely watched contests is taking place in Michigan, which has become the Democrat’s most expensive Senate prim.",
       "date": "2026-08-04"
     },
     {
-      "title": "AIPAC front and center in Bell-Bush rematch",
+      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
+      "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans. (Image credit: Finn Gomez).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
       "summary": "Cori Bush’s 2024 primary loss to Wesley Bell was heralded as a major defeat for the insurgent progressive movement. Now, their rematch for Missouri’s 1st District two years later comes at a time when Bush and her allies seem to be winning the battle for the future of the Democratic Party. The dueling factions in St. Lo.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Pete Buttigieg shares his theory for how Democrats can win over cherry ice cream",
+      "summary": "Pete Buttigieg shares his theory for how Democrats can win over cherry ice cream lead image.",
       "date": "2026-08-04"
     }
   ],
@@ -72,10 +72,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "5 states have primary elections on Tuesday. These are the races to watch",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Democrats Face Big Test in Critical Michigan Primary",
+      "url": "https://www.today.com/video/primaries-underway-in-5-states-here-are-key-contests-to-watch-267728453730?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T11:20:11.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
@@ -90,22 +90,16 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
+      "url": "https://www.pbs.org/newshour/politics/trump-takes-trip-to-west-coast-to-tout-the-economy-something-polls-show-hes-weak-on?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T18:56:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "What to watch in the Aug. 4 primaries in Michigan and beyond",
       "url": "https://www.pbs.org/newshour/politics/what-to-watch-in-the-aug-4-primaries-in-michigan-and-beyond?utm_source=lootura.com",
       "publishedAt": "2026-08-04T14:20:59.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
-      "url": "https://www.politico.com/news/2026/08/04/cori-bush-wesley-bell-aipac-primary-01022866?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T08:45:00.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Pete Buttigieg shares his theory for how Democrats can win over cherry ice cream",
-      "url": "https://www.politico.com/video/2026/08/04/pete-buttigieg-shares-his-theory-for-how-democrats-can-win-over-cherry-ice-cream-2125614?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T08:43:00.000Z",
-      "sourceId": "lootura-us-politico"
     },
     {
       "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
@@ -114,17 +108,11 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
-      "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T22:31:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T14:33:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 8
 }

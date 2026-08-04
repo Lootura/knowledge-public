@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
   "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-04T21:10:19.243Z",
   "aliases": [
     "Jeanine",
     "Pirro"
@@ -20,13 +20,8 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
-      "summary": "\"She folded like an umbrella,\" President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
-      "summary": "There are mounting questions about whether one of President Donald Trump’s long-time allies, Jeanine Pirro, will keep her job after he lashed out on her decision to drop charges against a former Olympic canoeist indicted for vandalizing the Lincoln Memorial Reflecting Pool. NBC’s Gabe Gutierrez reports for TODAY.",
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
       "date": "2026-08-04"
     },
     {
@@ -40,23 +35,8 @@
       "date": "2026-08-04"
     },
     {
-      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
-      "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges",
-      "summary": "President Donald Trump is criticizing his handpicked choice for U.S. attorney in D.C., Jeanine Pirro, for dropping charges against the former Olympian accused of vandalizing the reflecting pool. Meanwhile, the president said he will continue to push for an “anti-weaponization fund” if the senate does not confirm Todd B.",
-      "date": "2026-08-02"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Jeanine Pirro first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-      "summary": "President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool.",
       "date": "2026-08-01"
     }
   ],
@@ -66,7 +46,13 @@
       "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:39:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:55:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

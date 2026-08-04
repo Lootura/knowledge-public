@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ El selectivo español repunta un 0,21%, hasta los 20.023,6 puntos, favorecido po
 
 Date: 2026-08-04
 
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ### Victoria iraní: peaje en Ormuz
 
 Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.
+
+Date: 2026-08-04
+
+### El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán "hoy o mañana"
+
+El precio del petróleo intermedio de Texas (WTI) ha abierto este martes con una caída de un 3,37 %, hasta los 77,63 dólares el barril, después de que EEUU anunciara que ve un posible un acuerdo "hoy o mañana" para abrir el estrecho de Ormuz. A las 09:00 hora local (13.00 GMT), los contratos de futuros del WTI para el m.
+
+Date: 2026-08-04
+
+### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
+
+Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
 
 Date: 2026-08-04
 
@@ -62,14 +68,8 @@ El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Or
 
 Date: 2026-08-03
 
-### Trump advierte a Irán tras retomar las negociaciones: «Acuerdo o rendición total»
-
-El presidente estadounidense, Donald Trump, ha advertido este lunes a Irán que debe escoger entre un «acuerdo» o la «rendición total» , después de que Teherán negara que esté negociando con Estados Unidos .«Nada llega a Irán, a menos que queramos que llegue, y nada llegará, a menos que se logre un acuerdo o una rendici.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán "hoy o mañana"](https://www.elindependiente.com/economia/2026/08/04/el-precio-del-petroleo-cae-con-fuerza-tras-anunciar-eeuu-un-acuerdo-con-iran-hoy-o-manana/?utm_source=lootura.com) — 2026-08-04T15:08:13.000Z
 - [El Ibex conquista los 20.000 puntos animado por la caída del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/08/04/6a717c40468aeb14038b45a5.html?utm_source=lootura.com) — 2026-08-04T15:38:14.000Z
-- [EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares](https://amp.expansion.com/economia/2026/08/04/6a71e829e5fdea522f8b4593.html?utm_source=lootura.com) — 2026-08-04T13:24:59.000Z
 - [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z

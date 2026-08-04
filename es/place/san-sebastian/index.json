@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -36,13 +36,13 @@
       "date": "2026-08-04"
     },
     {
-      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
-      "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
+      "title": "Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia",
+      "summary": "El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.",
       "date": "2026-08-03"
     },
     {
-      "title": "Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia",
-      "summary": "El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.",
+      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
+      "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
       "date": "2026-08-03"
     },
     {
@@ -89,13 +89,7 @@
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/servicios-especiales-lurraldebus-20260804152006-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:20:35.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
-      "url": "https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:02:29.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

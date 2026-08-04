@@ -64,25 +64,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Así fue el cese en Seguridad Nacional: la funcionaria estaba de vacaciones... pero se conectó para mandar el mensaje sobre las llegadas",
-      "url": "https://www.20minutos.es/nacional/asi-fue-cese-funcionaria-seguridad-nacional-estaba-vacaciones-pero-se-conecto-para-enviar-mensaje-sobre-ceuta_7022414_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T15:03:07.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/pp-jefe-gabinete-sanchez-cese-empleada-moncloa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:12:07.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Un párroco de Navarra llama a «bombardear Rabat» tras la entrada masiva a Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-08-04/parroco-huarte-bombardear-rabat-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:05:08.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

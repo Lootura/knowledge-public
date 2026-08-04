@@ -1,19 +1,29 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-04T21:09:57.077Z",
   "aliases": [],
   "changes": [
     {
       "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
       "summary": "El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes",
+      "summary": "El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como \"invasión\". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos",
+      "summary": "Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.",
       "date": "2026-08-04"
     },
     {
@@ -50,19 +60,15 @@
       "title": "Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
       "summary": "La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisi.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El Gobierno se prepara para reubicar a cientos de menores por la Península",
-      "summary": "El papel lo aguanta todo. Cuando se reformó, hace año y medio, la Ley de Extranjería para redistribuir a menores inmigrantes sin amparo familiar entre las comunidades autónomas se estableció el término de la “capacidad ordinaria”. Un estándar de las plazas de acogida para extranjeros no acompañados con las que debía co.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El Gobierno vasco exige ser «informado y escuchado» ante cualquier reparto de los inmigrantes de Ceuta",
-      "summary": "«La respuesta debe ser inmediata, coordinada y respetuosa con los derechos humanos», dice la consejera Melgosa, que también reclama «planificación, financiación y las responsabilidades claras».",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
+    {
+      "title": "Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes",
+      "url": "https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T14:18:13.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
     {
       "title": "El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta",
       "url": "https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com",
@@ -70,11 +76,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto",
-      "url": "https://theobjective.com/espana/2026-08-04/gobierno-ceuta-preocupado-llamamiento-entrada-agosto/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:07:32.000Z",
+      "title": "En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos",
+      "url": "https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T17:55:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

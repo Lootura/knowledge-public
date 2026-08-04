@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»](https://okdiario.com/deportes/principe-jordania-desvela-artes-oscuras-infantino-ganar-apoyos-fifa-chantaje-19125864?utm_source=lootura.com) — 2026-08-04T17:08:57.000Z
+- [El estudio detrás del «FIFA» de Netflix, el desastroso juego oficial del Mundial, despide a casi todos sus empleados](https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/?utm_source=lootura.com) — 2026-08-04T20:05:00.000Z

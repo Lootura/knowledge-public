@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
+
+Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.
+
+Date: 2026-08-04
 
 ### Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios
 
@@ -62,12 +68,6 @@ No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez.
 
 Date: 2026-07-25
 
-### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
-
-Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios](https://www.larazon.es/castilla-y-leon/martinez-invita-manueco-dialogar-plantear-unidad-accion-incendios_202608046a721e21a046ad6ebc9c94da.html?utm_source=lootura.com) — 2026-08-04T17:15:13.000Z
+- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T20:46:52.000Z

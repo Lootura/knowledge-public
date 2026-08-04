@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-04T21:09:57.077Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento
+
+Una nueva directriz obligará a modificar desde este miércoles el uso de miles de espacios públicos segregados por género en Reino Unido, casi un año y medio después de un fallo histórico del Tribunal Supremo sobre la definición legal de sexo biológico. Con la entrada en vigor mañana de este "código de buenas prácticas".
+
+Date: 2026-08-04
 
 ### Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología
 
@@ -62,12 +68,6 @@ El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham
 
 Date: 2026-07-24
 
-### Letterpaths: un generador gratuito y de código abierto para aprender (o reaprender) caligrafía
-
-Letterpaths es una curiosa colección de herramientas gratuitas para aprender y practicar la caligrafía , pensada originalmente para los niños de primaria del Reino Unido, pero perfectamente utilizable y también adaptable al estilo de otras lenguas que no sean la noble lengua de Shakespeare. No hay que registrarse, no t.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología](https://www.expansion.com/economia/financial-times/2026/08/04/6a71eac8468aebd0538b4580.html?utm_source=lootura.com) — 2026-08-04T13:36:20.000Z
+- [Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento](https://www.larazon.es/sociedad/reino-unido-obligara-que-aseos-vestuarios-sean-utilizados-funcion-sexo-nacimiento_202608046a7246ada5690f047365e581.html?utm_source=lootura.com) — 2026-08-04T20:08:50.000Z
