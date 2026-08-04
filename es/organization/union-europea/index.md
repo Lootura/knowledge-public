@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El Gobierno italiano reprocha a España no consultar la regularización con la UE
+
+El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.
+
+Date: 2026-08-04
+
+### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
+
+La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
+
+Date: 2026-08-04
 
 ### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
 
@@ -56,19 +68,7 @@ Solo una posición de firmeza, clara, consistente y creíble, ante Marruecos pod
 
 Date: 2026-08-01
 
-### La ola ultra contra la inmigración provoca la falta de solidaridad de la UE con España por la crisis de Ceuta
-
-Las posiciones contrarias del Gobierno de Pedro Sánchez ante las últimas políticas antiimigración aprobadas en la Unión Europea siguiendo la estela de la extremaderecha más la derechización del espacio político europeo han causado a una falta de fraternidad inédita hacia España ante los peligrosos acontecimientos de Ce.
-
-Date: 2026-08-01
-
-### Meloni justifica la carta a la UE: «La defensa de las fronteras es una responsabilidad común»
-
-La primera ministra de Italia , Giorgia Meloni , ha defendido la carta que ha firmado junto a otros 21 estados miembros de la Unión Europea en la que aboga por una nueva estrategia migratoria común , tras vincular la reciente crisis en Ceuta con las políticas del Gobierno español , al entender que la «defensa de las fr.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Alicante se libra del caos en los nuevos controles fronterizos de la UE: “Es un proceso sencillo, pero el concepto es discriminatorio”](https://elpais.com/economia/2026-08-04/alicante-se-libra-del-caos-en-los-nuevos-controles-fronterizos-de-la-ue-es-un-proceso-sencillo-pero-el-concepto-es-discriminatorio.html?utm_source=lootura.com) — 2026-08-04T03:45:01.000Z
-- [Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos](https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z
+- [El Gobierno italiano reprocha a España no consultar la regularización con la UE](https://theobjective.com/internacional/2026-08-04/ministro-exteriores-italiano-espana-regularizacion-ue/?utm_source=lootura.com) — 2026-08-04T09:43:27.000Z
+- [El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta](https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com) — 2026-08-04T09:54:30.000Z

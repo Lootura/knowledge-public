@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
 El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
+
+Date: 2026-08-04
+
+### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
+
+El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
+
+Date: 2026-08-04
+
+### El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva
+
+En la portada de Bild Zeitung, el periódico más leído de Alemania, el vicepresidente de Baviera y presidente de Partido Popular Europeo culpa este martes a Pedro Sánchez y a su política migratoria de los muertos en Ceuta . «Nadie habría tenido que morir», lamenta Manfred Weber , y atribuye la política errática de Españ.
+
+Date: 2026-08-04
+
+### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
+
+El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
+
+Date: 2026-08-04
+
+### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
+
+La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
 
 Date: 2026-08-04
 
@@ -44,30 +68,10 @@ El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "r
 
 Date: 2026-08-03
 
-### Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”
-
-Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.
-
-Date: 2026-08-03
-
-### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
-
-Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
-
-Date: 2026-08-03
-
-### Miguel Tellado ofrece una rueda de prensa
-
-El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.
-
-Date: 2026-08-03
-
-### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
-
-Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T03:30:01.000Z
+- [El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda](https://www.abc.es/espana/cataluna/consejo-garantias-estatutarias-considera-inconstitucional-ley-illa-20260804114637-nt.html?utm_source=lootura.com) — 2026-08-04T09:46:38.000Z
+- [El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva](https://www.abc.es/espana/presidente-populares-europeos-culpa-politica-pedro-sanchez-20260804112350-nt.html?utm_source=lootura.com) — 2026-08-04T10:01:21.000Z
+- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z
+- [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z
+- [El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta](https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com) — 2026-08-04T09:54:30.000Z

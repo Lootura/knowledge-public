@@ -70,6 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: "Administradas por España pero en territorio marroquí"](https://www.20minutos.es/internacional/asi-cuestiona-eeuu-soberania-espanola-sobre-ceuta-melilla-administradas-por-espana-pero-territorio-marroqui_7022003_0.html?utm_source=lootura.com) — 2026-08-04T05:13:58.000Z
-- [La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas](https://cincodias.elpais.com/companias/2026-08-04/la-audiencia-nacional-suspende-el-pago-de-152-millones-de-repsol-a-hacienda-por-el-impuesto-a-las-energeticas.html?utm_source=lootura.com) — 2026-08-04T03:15:00.000Z
-- [El juez del "caso Koldo" valora recabar los datos que quiere Pardo de Vera](https://www.larazon.es/espana/juez-caso-koldo-valora-recabar-datos-que-quiere-pardo-vera_202608046a7175d9a046ad6ebc9b028c.html?utm_source=lootura.com) — 2026-08-04T05:17:13.000Z
+No public source links.

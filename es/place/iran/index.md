@@ -70,6 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo](https://www.elmundo.es/internacional/2026/08/03/6a706077fc6c83e7628b4583.html?utm_source=lootura.com) — 2026-08-03T18:55:19.000Z
-- [La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/04/6a716e54e5fdea522f8b457d.html?utm_source=lootura.com) — 2026-08-04T05:16:47.000Z
-- [Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear](https://www.lavanguardia.com/internacional/20260804/11605502/trump-dilema-pickaxe-montana-iran-oculta-misteriosa-instalacion-nuclear.html?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z
+No public source links.

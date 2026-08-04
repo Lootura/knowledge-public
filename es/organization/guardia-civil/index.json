@@ -8,9 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»",
+      "summary": "«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla",
+      "summary": "La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de Seguridad, ha impartido órdenes por escrito a la Policía Nacional y a la Guardia Civil para que comiencen a aplicar de manera inmediata las devoluciones en caliente a todos los migrantes que intenten llegar a nado a Ceuta superando la nueva.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Matar niños por ser hijos de guardias civiles",
+      "summary": "ETA, a lo largo de su siniestra historia, protagonizó un capítulo tan sanguinario como hipócrita. \"Advirtió\" que todos aquellos que vivieran en cuarteles de la Guardia Civil, aunque fueran niños o mujeres, se convertían en objetivos de sus acciones criminales. Ellos ya lo habían advertido, como si eso les exculpara y l.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
+      "summary": "El PP de Valladolid ha denunciado este martes lo que considera como un \"abandono\" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»",
       "summary": "«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.",
@@ -40,28 +60,33 @@
       "title": "Las barreras de contención en aguas de Ceuta ya están operativas: la Guardia Civil muestra al detalle la valla neumática de 500 metros",
       "summary": "Las barreras marítimas de contención que se comenzaron a instalar este sábado en Ceuta , en el entorno del espigón fronterizo del Tarajal, están ya plenamente operativas, según ha confirmado el Ministerio del Interior . El departamento que dirige Fernando Grande-Marlaska ha indicado además que la Guardia Civil se ocupa.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Los inmigrantes ilegales tardan apenas horas en cruzar a Ceuta a nado burlando las boyas que puso el Gobierno",
-      "summary": "Un inmigrante trata de llegar a nado a Ceuta. A escasos metros de la orilla se detiene. Una embarcación de la Guardia Civil acude a rescatarlo . Desde la orilla también se acercan otros dos agentes de la Benemérita que le ayudan a salir del agua y tienen que llevarlo en brazos. Acto seguido, lo devuelven a Marruecos. L.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Mohamed VI y sus proyectiles humanos",
-      "summary": "Imaginen la escena. 7 de agosto de 2014. Una patrullera de la Guardia Civil divisa un grupo de embarcaciones —dos yates y tres motos de agua—en actitud sospechosa a dos millas del cabo ceutí de Punta Almina. El brigada que va al mando pide a sus ocupantes que se identifiquen. Uno de ellos se quita las gafas oscuras y l.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos",
-      "summary": "Un hombre, de 29 años , ha sido detenido en Laredo (Cantabria) por supuestamente agredir sexualmente esta madrugada a una mujer, después de que la víctima denunciara los hechos ante la Guardia Civil , según han informado a EFE fuentes de la investigación. La detención se ha producido pasadas las 14:00 horas en la estac.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»",
+      "url": "https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:37:41.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla",
+      "url": "https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:24:59.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Matar niños por ser hijos de guardias civiles",
+      "url": "https://www.larazon.es/espana/matar-ninos-ser-hijos-guardias-civiles_202608046a71bf0571b42a0b5dd9e34f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:29:25.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
+      "url": "https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 4
 }

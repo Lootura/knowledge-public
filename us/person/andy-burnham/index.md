@@ -3,10 +3,16 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
+
+### Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises
+
+Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.
+
+Date: 2026-08-04
 
 ### Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham
 
@@ -62,12 +68,6 @@ Andy Burnham is set to become the next prime minister on Monday. Here’s how ev
 
 Date: 2026-07-20
 
-### Andy Burnham formally appointed U.K. prime minster
-
-Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises](https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html?utm_source=lootura.com) — 2026-08-04T10:17:39.000Z

@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
+
+President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
+
+Date: 2026-08-04
 
 ### Funding milestone detected
 
@@ -62,13 +68,7 @@ President Donald Trump returned to the rescheduled White House Correspondents' A
 
 Date: 2026-07-25
 
-### Special Report: Trump delivers speech at rescheduled White House Correspondents’ Dinner
-
-Watch President Donald Trump’s full speech at the White House Correspondents’ Dinner, which was rescheduled after a shooting at the previous dinner in April. Trump took swipes at some of the journalists in the room and some political rivals while touting his accomplishments.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Controversial White House plan to overhaul US science funding faces Senate opposition](https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com) — 2026-08-04T02:14:13.348Z
+- [White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html?utm_source=lootura.com) — 2026-08-04T09:04:23.000Z
 - [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T00:23:06.000Z

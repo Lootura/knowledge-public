@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.json",
   "description": "Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "Committee",
     "DNC",
     "National"
   ],
   "changes": [
+    {
+      "title": "DNC report on 2024 election outcome missing key chapter, report says",
+      "summary": "NPR's Steve Inskeep speaks with the New York Times' Shane Goldmacher about a missing chapter of the Democratic National Committee's report on Donald Trump's 2024 election win.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Democratic National Committee first entered the public knowledge record with source-backed evidence.",
@@ -43,11 +48,17 @@
   ],
   "sources": [
     {
+      "title": "DNC report on 2024 election outcome missing key chapter, report says",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T08:40:31.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T15:16:24.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

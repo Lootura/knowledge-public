@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T17:48:48.280Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”",
+      "summary": "La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La crisis de Ceuta divide a la opinión pública europea",
       "summary": "La avalancha de inmigrantes que entraron la semana pasada a Ceuta no acaparó únicamente la atención por la emergencia humanitaria, sino también por sus derivadas geopolíticas e implicaciones diplomáticas. Los medios internacionales abrieron portadas e informativos con las imágenes llegadas desde El Tarajal, pero han ma.",
@@ -52,6 +57,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”",
+      "url": "https://www.larazon.es/espana/echenique-acusa-gobierno-convertir-mar-ceuta-frontera-mortal-barreras-serviran-que-muera-mas-gente_202608046a71bf36a046ad6ebc9bb64e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:30:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

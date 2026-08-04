@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
   "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "Charles Marion Edwards",
     "Chuck",
@@ -28,17 +28,11 @@
   ],
   "sources": [
     {
-      "title": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
-      "url": "https://www.cbsnews.com/news/chuck-edwards-house-ethics-committee-sexual-harassment-probe/?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T19:14:12.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report?utm_source=lootura.com",
       "publishedAt": "2026-08-03T21:17:49.000Z",
       "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

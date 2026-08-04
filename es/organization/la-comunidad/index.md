@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes
+
+La Comunidad de Madrid destinará este año tres millones de euros a la convocatoria de ayudas para la producción de largometrajes, la mayor dotación económica desde la creación de este programa de apoyo al sector audiovisual. El presupuesto supone un incremento del 50 por ciento respecto a las convocatorias de 2024 y 20.
+
+Date: 2026-08-04
 
 ### «Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios
 
@@ -52,4 +58,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes](https://www.abc.es/espana/madrid/record-ayudas-cine-madrileno-tres-millones-euros-20260804112536-nt.html?utm_source=lootura.com) — 2026-08-04T09:34:09.000Z

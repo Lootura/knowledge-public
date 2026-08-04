@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "China reescribe 3.000 millones de años de historia de bombardeos lunares",
+      "summary": "Las primeras rocas recogidas en la cara oculta de la Luna están obligando a revisar una parte importante de la historia del sistema solar. Un equipo internacional ha estudiado pequeñas muestras traídas por la misión china Chang’e-6 y reconstruido impactos ocurridos durante un periodo de más de 3.000 millones de años .",
+      "date": "2026-08-04"
+    },
     {
       "title": "China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN",
       "summary": "El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.",
@@ -55,20 +60,15 @@
       "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
       "summary": "Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude",
-      "url": "https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T00:11:25.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "China reescribe 3.000 millones de años de historia de bombardeos lunares",
+      "url": "https://www.larazon.es/tecnologia-consumo/ciencia/china-reescribe-3000-millones-anos-historia-bombardeos-lunares_202608046a71b58971b42a0b5dd9ccd9.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:30:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

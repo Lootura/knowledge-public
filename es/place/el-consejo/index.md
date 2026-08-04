@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T20:52:19.929Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
+
+El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
+
+Date: 2026-08-04
 
 ### Fragmento del día: Irak
 
@@ -58,4 +64,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda](https://www.abc.es/espana/cataluna/consejo-garantias-estatutarias-considera-inconstitucional-ley-illa-20260804114637-nt.html?utm_source=lootura.com) — 2026-08-04T09:46:38.000Z

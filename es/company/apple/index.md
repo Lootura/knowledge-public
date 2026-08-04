@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo
+
+Apple acaba de dar un golpe en la mesa contra Telegram. Después de que la semana pasada Rusia firmase una orden de detención contra Pável Dúrov , el dueño de la app, por colaboración terrorista, ahora la compañía de Cupertino vuelve a arremeter contra la integridad del servicio. La empresa de la manzana ha sido contund.
+
+Date: 2026-08-04
 
 ### Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre
 
@@ -62,12 +68,6 @@ Donald Trump ha amenazado a la Unión Europea con imponer aranceles "sustanciale
 
 Date: 2026-07-24
 
-### Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico
-
-Normalmente no recomendaríamos la compra de un Apple Watch o un iPhone a menos de dos meses del lanzamiento de la nueva generación, pero echando un vistazo a las filtraciones, es posible que el precio que acaba de lanzar Amazon para el reloj de Apple sea una de las mejores oportunidades del año para renovar tu viejo co.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo](https://hipertextual.com/apple/adios-a-telegram-en-el-iphone-la-apple-store-ha-eliminado-la-app-de-un-plumazo/?utm_source=lootura.com) — 2026-08-04T10:27:16.000Z

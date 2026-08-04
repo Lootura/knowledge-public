@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "PP",
     "populares"
@@ -17,6 +17,26 @@
     {
       "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
       "summary": "El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda",
+      "summary": "El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva",
+      "summary": "En la portada de Bild Zeitung, el periódico más leído de Alemania, el vicepresidente de Baviera y presidente de Partido Popular Europeo culpa este martes a Pedro Sánchez y a su política migratoria de los muertos en Ceuta . «Nadie habría tenido que morir», lamenta Manfred Weber , y atribuye la política errática de Españ.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
+      "summary": "El PP de Valladolid ha denunciado este martes lo que considera como un \"abandono\" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
+      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
       "date": "2026-08-04"
     },
     {
@@ -43,35 +63,39 @@
       "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
       "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
-      "summary": "Cayetana Álvarez de Toledo (Madrid, 51 años) es historiadora, periodista y política; española, argentina y francesa; marquesa y diputada del PP. Plantó por carta a Mariano Rajoy , votó a Ciudadanos y ganó un duelo en diferido a Pablo Casado, que la destituyó como portavoz parlamentaria en 2020 . De momento, aún confía.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería",
-      "summary": "Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Miguel Tellado ofrece una rueda de prensa",
-      "summary": "El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta",
-      "summary": "Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
+      "title": "El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda",
+      "url": "https://www.abc.es/espana/cataluna/consejo-garantias-estatutarias-considera-inconstitucional-ley-illa-20260804114637-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:46:38.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El presidente de los populares europeos culpa a la política de Sánchez de las muertes en la entrada masiva",
+      "url": "https://www.abc.es/espana/presidente-populares-europeos-culpa-politica-pedro-sanchez-20260804112350-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:01:21.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
       "url": "https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T03:30:01.000Z",
+      "publishedAt": "2026-08-04T07:51:42.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
+      "url": "https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-04/pp-europa-sanchez-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:54:30.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 5
 }

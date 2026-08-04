@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta
+
+Alberto Núñez Feijóo quiere aprovechar su influencia en Europa para orientar a los países europeos que se reúnen este martes para abordar la crisis de Ceuta para que den una respuesta a la política migratoria y diplomática de Pedro Sánchez. “Pone en peligro la soberanía nacional y europea”, señala una carta enviada por.
+
+Date: 2026-08-04
 
 ### Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21
 
@@ -62,12 +68,6 @@ Tras exigir durante las últimas horas en diversos comunicados que se reforme la
 
 Date: 2026-08-01
 
-### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta](https://www.lavanguardia.com/politica/20260804/11607457/pp-europeo-apunta-todos-eurodiputados-crisis-ceuta-amenaza-soberania-europea.html?utm_source=lootura.com) — 2026-08-04T08:14:56.000Z

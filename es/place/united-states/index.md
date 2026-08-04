@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo
+
+Impresión artística de un MAX 7 de Southwest Airlines en vuelo – Boeing La Administración Federal de Aviación (FAA) de los Estados Unidos acaba de aprobar su certificado de tipo, lo que quiere decir que el Boeing 737 MAX 7 ya puede entrar en servicio en los Estados Unidos . Esto sucederá a principios de 2027 con Southw.
+
+Date: 2026-08-04
 
 ### La mitad de estados de EEUU demandan a la Administración por los aranceles globales
 
@@ -62,12 +68,6 @@ Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán
 
 Date: 2026-08-02
 
-### Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final
-
-El ministro de Exteriores de Irán , Abbas Araqchi, ha anunciado este domingo que las conversaciones con Omán para definir el estatus futuro del estrecho de Ormuz han entrado en su «fase final» y reiterado que Estados Unidos no tiene absolutamente nada que ver en estas negociaciones , que en cualquier caso solo sirven p.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [La mitad de estados de EEUU demandan a la Administración por los aranceles globales](https://theobjective.com/internacional/2026-08-04/mitad-estados-eeuu-demanda-administracion-aranceles/?amp=&utm_source=lootura.com) — 2026-08-04T05:50:31.000Z
+- [El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo](http://www.microsiervos.com/archivo/aerotrastorno/boeing-737-max-7-puede-entrar-servicio-estados-unidos.html?utm_source=lootura.com) — 2026-08-04T08:30:00.000Z

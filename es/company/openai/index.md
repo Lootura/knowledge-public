@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude](https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com) — 2026-08-04T00:11:25.000Z
+No public source links.

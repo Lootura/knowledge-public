@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Pánico en una playa del sur de Rusia con siete muertos por el derribo de un dron ucraniano](https://www.elmundo.es/internacional/2026/08/03/6a70b209e85ecee2368b4587.html?utm_source=lootura.com) — 2026-08-03T18:40:54.000Z
+No public source links.

@@ -28,4 +28,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Was Sylvie Cachay's death at NYC's Soho House an accident or murder?](https://www.cbsnews.com/news/48-hours-was-sylvie-cachays-death-at-soho-house-an-accident-or-murder/?utm_source=lootura.com) — 2026-08-03T17:47:00.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/person/tom-holland
 
 ## Cambios recientes
+
+### Andrew Garfield deja clara su condición para volver como Spider-Man
+
+Con el estreno de Spider-Man: Brand New Day , el superhéroe arácnido está más de moda que nunca. Tom Holland ha protagonizado su cuarta entrega en solitario, convirtiéndose en el actor con más películas en el papel del trepamuros. Pero antes que él vinieron los Spider-Man de Tobey Maguire y Andrew Garfield . Y este últ.
+
+Date: 2026-08-04
+
+### ¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian
+
+La llegada a los cines de Spider-Man: Brand New Day ha supuesto un éxito mayúsculo para Marvel Studios y Sony Pictures. La nueva película del arácnido de Tom Holland se ha convertido en el segundo mayor estreno de todos los tiempos, solo or detrás de Avengers: Endgame . Por eso, los fans y las compañías ya miran al pos.
+
+Date: 2026-08-04
 
 ### Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz
 
@@ -40,4 +52,5 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Andrew Garfield deja clara su condición para volver como Spider-Man](https://hipertextual.com/cine-television/andrew-garfield-deja-clara-su-condicion-para-volver-como-spider-man/?utm_source=lootura.com) — 2026-08-04T07:15:07.000Z
+- [¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian](https://hipertextual.com/cine-television/habra-spider-man-5-con-tom-holland-marvel-y-sony-se-pronuncian/?utm_source=lootura.com) — 2026-08-04T10:11:16.000Z

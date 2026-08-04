@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions
+
+Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.
+
+Date: 2026-08-04
 
 ### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
 
@@ -62,12 +68,6 @@ Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trum
 
 Date: 2026-07-23
 
-### Nuclear Energy Revival Puts Westinghouse in Prime Position
-
-The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions](https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html?utm_source=lootura.com) — 2026-08-04T10:18:51.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta](https://elpais.com/espana/2026-08-03/cese-fulminante-de-un-cargo-de-seguridad-nacional-por-informar-de-la-entrada-de-49000-inmigrantes-en-ceuta.html?utm_source=lootura.com) — 2026-08-03T17:41:41.000Z
+No public source links.

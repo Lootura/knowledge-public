@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa",
+      "summary": "Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
       "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
@@ -64,14 +69,15 @@
       "title": "Herido un motorista tras chocar contra un coche de la Ertzaintza en San Sebastián",
       "summary": "El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 horas de la tarde.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "En directo, la bandera Fabrika en San Sebastián",
-      "summary": "Nueva jornada de la liga Eusko Label de remo.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa",
+      "url": "https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia",
       "url": "https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com",
@@ -85,5 +91,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

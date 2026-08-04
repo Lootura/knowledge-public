@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/tom-holland/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/tom-holland/index.json",
   "description": "Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T14:33:29.026Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Holland"
   ],
   "changes": [
+    {
+      "title": "Andrew Garfield deja clara su condición para volver como Spider-Man",
+      "summary": "Con el estreno de Spider-Man: Brand New Day , el superhéroe arácnido está más de moda que nunca. Tom Holland ha protagonizado su cuarta entrega en solitario, convirtiéndose en el actor con más películas en el papel del trepamuros. Pero antes que él vinieron los Spider-Man de Tobey Maguire y Andrew Garfield . Y este últ.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian",
+      "summary": "La llegada a los cines de Spider-Man: Brand New Day ha supuesto un éxito mayúsculo para Marvel Studios y Sony Pictures. La nueva película del arácnido de Tom Holland se ha convertido en el segundo mayor estreno de todos los tiempos, solo or detrás de Avengers: Endgame . Por eso, los fans y las compañías ya miran al pos.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Por qué Jon Bernthal es el perfecto tipo duro de Hollywood: una formación rusa, dos hermanos demasiado modélicos y 15 roturas de nariz",
       "summary": "Hay un actor que tiene un papel relevante tanto en La Odisea como en Spider-Man: Brand New Day y no es Tom Holland. Tampoco es Zendaya . La pareja de intérpretes ha protagonizado el verano cinematográfico paseándose de photocall en photocall para promocionar estos dos esperadísimos estrenos, pero hay una tercera person.",
@@ -39,6 +49,19 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Andrew Garfield deja clara su condición para volver como Spider-Man",
+      "url": "https://hipertextual.com/cine-television/andrew-garfield-deja-clara-su-condicion-para-volver-como-spider-man/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T07:15:07.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian",
+      "url": "https://hipertextual.com/cine-television/habra-spider-man-5-con-tom-holland-marvel-y-sony-se-pronuncian/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:11:16.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
 }

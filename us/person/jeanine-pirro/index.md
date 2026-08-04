@@ -3,10 +3,16 @@
 > Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/person/jeanine-pirro
 
 ## Recent changes
+
+### Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases
+
+"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
+
+Date: 2026-08-04
 
 ### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
@@ -14,9 +20,9 @@ President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “f
 
 Date: 2026-08-04
 
-### Trump says Jeanine Pirro "choked" in dropping Reflecting Pool cases
+### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
-"She folded like an umbrella," President Trump said of Jeanine Pirro, U.S. Attorney for the District of Columbia.
+President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
 
 Date: 2026-08-04
 

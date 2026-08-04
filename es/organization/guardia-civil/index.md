@@ -3,10 +3,34 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
+
+«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
+
+Date: 2026-08-04
+
+### Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla
+
+La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de Seguridad, ha impartido órdenes por escrito a la Policía Nacional y a la Guardia Civil para que comiencen a aplicar de manera inmediata las devoluciones en caliente a todos los migrantes que intenten llegar a nado a Ceuta superando la nueva.
+
+Date: 2026-08-04
+
+### Matar niños por ser hijos de guardias civiles
+
+ETA, a lo largo de su siniestra historia, protagonizó un capítulo tan sanguinario como hipócrita. "Advirtió" que todos aquellos que vivieran en cuarteles de la Guardia Civil, aunque fueran niños o mujeres, se convertían en objetivos de sus acciones criminales. Ellos ya lo habían advertido, como si eso les exculpara y l.
+
+Date: 2026-08-04
+
+### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
+
+El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
+
+Date: 2026-08-04
 
 ### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
 
@@ -44,30 +68,9 @@ Las barreras marítimas de contención que se comenzaron a instalar este sábado
 
 Date: 2026-08-02
 
-### Los inmigrantes ilegales tardan apenas horas en cruzar a Ceuta a nado burlando las boyas que puso el Gobierno
-
-Un inmigrante trata de llegar a nado a Ceuta. A escasos metros de la orilla se detiene. Una embarcación de la Guardia Civil acude a rescatarlo . Desde la orilla también se acercan otros dos agentes de la Benemérita que le ayudan a salir del agua y tienen que llevarlo en brazos. Acto seguido, lo devuelven a Marruecos. L.
-
-Date: 2026-08-02
-
-### Mohamed VI y sus proyectiles humanos
-
-Imaginen la escena. 7 de agosto de 2014. Una patrullera de la Guardia Civil divisa un grupo de embarcaciones —dos yates y tres motos de agua—en actitud sospechosa a dos millas del cabo ceutí de Punta Almina. El brigada que va al mando pide a sus ocupantes que se identifiquen. Uno de ellos se quita las gafas oscuras y l.
-
-Date: 2026-08-02
-
-### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
-
-Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
-
-Date: 2026-08-02
-
-### Detenido en Laredo (Cantabria) por una agresión sexual a una mujer, que denunció los hechos
-
-Un hombre, de 29 años , ha sido detenido en Laredo (Cantabria) por supuestamente agredir sexualmente esta madrugada a una mujer, después de que la víctima denunciara los hechos ante la Guardia Civil , según han informado a EFE fuentes de la investigación. La detención se ha producido pasadas las 14:00 horas en la estac.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»](https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html?utm_source=lootura.com) — 2026-08-04T09:37:41.000Z
+- [Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla](https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com) — 2026-08-04T10:24:59.000Z
+- [Matar niños por ser hijos de guardias civiles](https://www.larazon.es/espana/matar-ninos-ser-hijos-guardias-civiles_202608046a71bf0571b42a0b5dd9e34f.html?utm_source=lootura.com) — 2026-08-04T10:29:25.000Z
+- [El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural](https://www.larazon.es/castilla-y-leon/denuncia-abandono-cuarteles-guardia-civil-medio-rural_202608046a71bf35a046ad6ebc9bb645.html?utm_source=lootura.com) — 2026-08-04T10:30:13.000Z

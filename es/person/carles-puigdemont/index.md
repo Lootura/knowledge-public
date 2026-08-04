@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont
+
+Quien fuera el gran fichaje económico del independentismo, el exdirector general de la Fundación Bancaria La Caixa, Jaume Giró , se ha dado de baja de Junts a causa de su largo enfrentamiento con Carles Puigdemont y a sus diferencias estratégicas de la senda que ha de seguir el partido. Puigdemont y la actual dirección.
+
+Date: 2026-08-04
 
 ### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
 
@@ -62,12 +68,6 @@ El secretario general de JxCat, Jordi Turull , ha criticado este viernes al mini
 
 Date: 2026-07-17
 
-### Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo
-
-Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal Supremo Pablo Llarena piensa reaccionar al fallo que emitió este jueves el Tribunal de Luxemburgo, ni la defensa de Carles Puigdemont tiene previsto pedirle que levante la orden de detención nacional que permanece vigente sobre el expreside.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont](https://www.elconfidencial.com/espana/cataluna/2026-08-04/jaume-giro-rompe-carne-junts-diferencias-puigdemont_4400582/?utm_source=lootura.com) — 2026-08-04T08:12:00.000Z

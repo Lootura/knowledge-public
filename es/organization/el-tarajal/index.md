@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T17:48:48.280Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”
+
+La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.
+
+Date: 2026-08-04
 
 ### La crisis de Ceuta divide a la opinión pública europea
 
@@ -58,4 +64,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-No public source links.
+- [Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”](https://www.larazon.es/espana/echenique-acusa-gobierno-convertir-mar-ceuta-frontera-mortal-barreras-serviran-que-muera-mas-gente_202608046a71bf36a046ad6ebc9bb64e.html?utm_source=lootura.com) — 2026-08-04T10:30:14.000Z

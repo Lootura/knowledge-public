@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes
+
+La Comunidad de Madrid destinará este año tres millones de euros a la convocatoria de ayudas para la producción de largometrajes, la mayor dotación económica desde la creación de este programa de apoyo al sector audiovisual. El presupuesto supone un incremento del 50 por ciento respecto a las convocatorias de 2024 y 20.
+
+Date: 2026-08-04
+
+### El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos
+
+El eclipse solar total del 12 de agosto de 2026 convertirá a Somosierra en uno de los puntos privilegiados de la Comunidad de Madrid . Mientras la capital verá el fenómeno de forma parcial, este municipio quedará dentro de la franja de totalidad durante 1 minuto y 29 segundos. La diferencia entre ambas zonas será notab.
+
+Date: 2026-08-04
+
+### El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»
+
+Joan Manuel Serrat se convirtió en bisabuelo hace unas semanas. Su nieta, Luna, y el exjugador del Real Madrid, Dani Ceballos, fueron padres por partida doble de dos niñas gemelas. La joven, que se dedica a compartir los aspectos más destacados de su vida en Internet fue narrando cómo estaba llevando este embarazo múlt.
+
+Date: 2026-08-04
 
 ### Un robo de 60 millones en 41 minutos: los ‘hackers’ desvalijan uno de los lugares más seguros para custodiar criptomonedas
 
@@ -50,28 +68,9 @@ Fue presidente de Renfe e Ineco, director gerente de Madrid Futuro y subsecretar
 
 Date: 2026-08-03
 
-### Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA
-
-El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.
-
-Date: 2026-08-03
-
-### El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez
-
-El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.
-
-Date: 2026-08-03
-
-### El mejor rincón de Madrid para ver el histórico eclipse solar del 12 de agosto gracias a sus vistas al oeste
-
-Las tardes de verano en Madrid tienen una costumbre casi ritual: reunirse en un parque, sentarse sobre el césped y contemplar cómo el Sol desaparece tras el perfil de los rascacielos. Sin embargo, el próximo miércoles 12 de agosto de 2026 ese momento cotidiano adquirirá un significado completamente distinto. Ese día se.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Un robo de 60 millones en 41 minutos: los ‘hackers’ desvalijan uno de los lugares más seguros para custodiar criptomonedas](https://cincodias.elpais.com/criptoactivos/2026-08-04/un-robo-de-60-millones-en-41-minutos-los-hackers-desvalijan-uno-de-los-lugares-mas-seguros-para-custodiar-criptomonedas.html?utm_source=lootura.com) — 2026-08-04T03:25:00.000Z
+- [Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes](https://www.abc.es/espana/madrid/record-ayudas-cine-madrileno-tres-millones-euros-20260804112536-nt.html?utm_source=lootura.com) — 2026-08-04T09:34:09.000Z
+- [El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos](https://www.elconfidencial.com/espana/2026-08-04/pueblo-sierra-madrid-donde-mejor-ver-eclipse-solar-1qrt_4400329/?utm_source=lootura.com) — 2026-08-04T07:50:00.000Z
 - [De cazar conciertos a buscar 'Luciérnagas'](https://www.elcorreo.com/culturas/arte/fotografo-jose-madrid-regala-luciernagas-iluminan-arte-20260617183749-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:19:38.000Z
-- [Agosto se estrena en Madrid con cortes en la A-6 por asfaltado](https://www.larazon.es/madrid/agosto-estrena-madrid-cortes-asfaltado_202608046a717b6ba5690f0473640e34.html?utm_source=lootura.com) — 2026-08-04T05:40:59.000Z
-- [El negocio de Madrid que conserva los precios de hace 10 años: sus bocadillos de 1,5 euros se han convertido en un fenómeno](https://okdiario.com/madrid/negocio-madrid-que-conserva-precios-hace-10-anos-sus-bocadillos-15-euros-han-convertido-fenomeno-19118854/amp?utm_source=lootura.com) — 2026-08-04T06:15:41.000Z
-- [Precio de la gasolina hoy 4 de agosto: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-4-agosto-localiza-gasolineras-mas-baratas-madrid-19080008?utm_source=lootura.com) — 2026-08-04T06:15:04.000Z
+- [El detalle clave sobre las bisnietas de Serrat que todavía no ha sido desvelado: «Me da miedo todo; es una sensación difícil de explicar»](https://theobjective.com/gente/2026-08-04/detalle-clave-bisnietas-serrat-desvelado-protegerlas/?utm_source=lootura.com) — 2026-08-04T10:00:00.000Z

@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T17:49:07.612Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau
+
+Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.
+
+Date: 2026-08-04
 
 ### Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’
 
@@ -62,12 +68,6 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-07-13
 
-### Tributes pour in for Lindsey Graham after his death stuns D.C.
-
-Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau](https://www.npr.org/2026/08/04/nx-s1-5910831/tmz-trades-hollywood-gossip-for-capitol-hill-scoops-with-new-d-c-bureau?utm_source=lootura.com) — 2026-08-04T08:41:30.000Z

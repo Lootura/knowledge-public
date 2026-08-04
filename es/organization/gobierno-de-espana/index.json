@@ -65,19 +65,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España",
-      "url": "https://www.20minutos.es/internacional/los-ministros-interior-ue-se-reunen-este-martes-para-tratar-crisis-ceuti-entre-criticas-politica-migratoria-espana_7022054_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T05:16:10.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos",
-      "url": "https://www.elconfidencial.com/espana/2026-08-04/europa-advierte-organismos-corrupcion-sanchez-presupuestos_4400119/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,18 +18,28 @@
   ],
   "changes": [
     {
+      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
+      "summary": "Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+      "summary": "Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.",
+      "date": "2026-08-04"
+    },
+    {
       "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
       "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
       "date": "2026-08-04"
     },
     {
-      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
-      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
+      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
+      "summary": "In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.",
       "date": "2026-08-03"
     },
     {
-      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
-      "summary": "In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.",
+      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
+      "summary": "Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.",
       "date": "2026-08-03"
     },
     {
@@ -56,24 +66,14 @@
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
       "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Russian strikes on Kyiv kill 9, injure at least 27, officials say",
-      "summary": "Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-      "summary": "Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9",
-      "url": "https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T18:02:50.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
+      "url": "https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:17:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
@@ -82,10 +82,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T04:00:12.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+      "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:42:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 3

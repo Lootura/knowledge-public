@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### The Cost of Extreme Heat Is Displacement
+
+—zpagistock—Getty Images This summer, as record-breaking heat sweeps across Europe and the United States , millions of people are searching for a way to cool off. They crowd into public pools, and libraries turned into cooling centers. They run their air conditioners around the clock—if they have them. They flee to the.
+
+Date: 2026-08-04
 
 ### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
 
@@ -62,12 +68,6 @@ Thick smoke from massive wildfires has been spreading in North America and Europ
 
 Date: 2026-08-01
 
-### Extreme Heat Has Transformed What Summer Means Across Generations in Europe
-
-Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
-
-Date: 2026-08-01
-
 ## Sources
 
-- [With Russia at the door and the US backing away, Europe has to build its own ‘way of war’](https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com) — 2026-08-04T04:00:12.000Z
+- [The Cost of Extreme Heat Is Displacement](https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/?utm_source=lootura.com) — 2026-08-04T10:00:03.000Z

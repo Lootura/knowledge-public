@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/thom-tillis/index.json",
   "description": "Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "Thom R. Tillis",
     "Thom Roland Tillis",
@@ -18,6 +18,11 @@
     "Tillis"
   ],
   "changes": [
+    {
+      "title": "GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped",
+      "summary": "Blanche’s nomination had been held up over concerns from GOP Sens. John Cornyn and Thom Tillis, but the parties reached a deal to end the standoff.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
       "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
@@ -42,11 +47,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped",
+      "url": "https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html?utm_source=lootura.com",
       "publishedAt": "2026-08-03T20:17:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

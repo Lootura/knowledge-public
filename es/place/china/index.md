@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China reescribe 3.000 millones de años de historia de bombardeos lunares
+
+Las primeras rocas recogidas en la cara oculta de la Luna están obligando a revisar una parte importante de la historia del sistema solar. Un equipo internacional ha estudiado pequeñas muestras traídas por la misión china Chang’e-6 y reconstruido impactos ocurridos durante un periodo de más de 3.000 millones de años .
+
+Date: 2026-08-04
 
 ### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
 
@@ -62,12 +68,6 @@ Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a
 
 Date: 2026-07-24
 
-### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
-
-El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude](https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/?utm_source=lootura.com) — 2026-08-04T00:11:25.000Z
+- [China reescribe 3.000 millones de años de historia de bombardeos lunares](https://www.larazon.es/tecnologia-consumo/ciencia/china-reescribe-3000-millones-anos-historia-bombardeos-lunares_202608046a71b58971b42a0b5dd9ccd9.html?utm_source=lootura.com) — 2026-08-04T10:30:00.000Z

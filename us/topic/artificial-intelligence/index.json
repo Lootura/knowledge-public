@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,11 @@
     {
       "title": "Developer ecosystem expanded",
       "summary": "Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that b.",
       "date": "2026-08-04"
     },
     {
@@ -71,11 +76,6 @@
       "title": "The AI ‘news’ accounts hyping a blue-state dystopia",
       "summary": "The Scoop In January, President Donald Trump posted two clips from a popular YouTube account sharing some dramatic news: Walmart was closing hundreds of California stores . It wasn’t true . But as California Gov. Gavin Newsom’s communications team pushed back against the posts on X, what alarmed them more than the fals.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently , pouring more fuel on an.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
@@ -86,10 +86,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "For those with criminal records, AI is breaking down barriers to employment",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T09:42:28.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 2

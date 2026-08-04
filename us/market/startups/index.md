@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Controversial White House plan to overhaul US science funding faces Senate opposition](https://www.nature.com/articles/d41586-026-02436-1?utm_source=lootura.com) — 2026-08-04T02:14:13.348Z
+No public source links.

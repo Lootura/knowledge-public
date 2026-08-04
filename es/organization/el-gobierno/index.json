@@ -1,16 +1,31 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno anuncia una partida extraordinaria de 25 millones para la atención de los menores de Ceuta",
+      "summary": "La ministra de Seguridad Social y Migraciones, Elma Saiz, apela a la responsabilidad de las comunidades para dar acompañamiento a los niños y adolescentes que se encuentran solos en la ciudad autónoma El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisis de Ceuta La portavoz del.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Gobierno italiano reprocha a España no consultar la regularización con la UE",
+      "summary": "El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
+      "summary": "La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
       "summary": "La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisi.",
@@ -45,21 +60,6 @@
       "title": "En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos",
       "summary": "Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y alaba su labor; El Gobierno devolverá «hasta el último» ilegal marroquí de Ceuta y ataca la posición de Italia; Cientos de marroquíes siguen en Ceuta : el Gobierno tardará meses en devolverlos; y la Audiencia Nacional pide a la Policía que.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Entrada masiva de inmigrantes a Ceuta desde Marruecos, en directo: última hora de la frontera y reacciones",
-      "summary": "La crisis migratoria en Ceuta continúa dejando un balance dramático. El Gobierno de Marruecos ha reconocido este domingo la muerte de al menos 11 personas en sus costas durante la entrada irregular de decenas de miles de inmigrantes a la ciudad autónoma el pasado jueves. Sin embargo, las cifras de víctimas mortales sig.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
-      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Seguir leyendo...",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno de Ayuso pregunta «qué sabe Marruecos» para tener «maniatado» a Sánchez",
-      "summary": "El portavoz del Ejecutivo de la Comunidad de Madrid , Miguel Ángel García Martín, ha preguntado este lunes «qué sabe el Gobierno de Marruecos » para tener «maniatado» al presidente de España, Pedro Sánchez . Lo ha planteado ante los medios de comunicación durante una visita al Servicio de Orientación Jurídica (SOJ) del.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -70,22 +70,22 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Moncloa destituye a un cargo de Seguridad Nacional tras informar de que habían entrado 49.000 inmigrantes en Ceuta en la avalancha desde Marruecos",
-      "url": "https://amp.elmundo.es/espana/2026/08/03/6a70f7fdfc6c83246b8b45a7.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-03T20:20:16.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
-      "url": "https://www.eldiario.es/politica/moncloa-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta_1_13426445.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T05:06:14.000Z",
+      "title": "El Gobierno anuncia una partida extraordinaria de 25 millones para la atención de los menores de Ceuta",
+      "url": "https://www.eldiario.es/politica/gobierno-anuncia-partida-extraordinaria-25-millones-atencion-menores-ceuta_1_13427232.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:13:40.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "El Gobierno se prepara para reubicar a cientos de menores por la Península",
-      "url": "https://www.lavanguardia.com/politica/20260804/11607173/gobierno-prepara-reubicar-cientos-menores-peninsula.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El Gobierno italiano reprocha a España no consultar la regularización con la UE",
+      "url": "https://theobjective.com/internacional/2026-08-04/ministro-exteriores-italiano-espana-regularizacion-ue/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:43:27.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores",
+      "url": "https://theobjective.com/espana/politica/2026-08-04/gobierno-25-millones-ceuta-menas/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:31:02.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 4

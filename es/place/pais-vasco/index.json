@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa",
+      "summary": "Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Euskadi reforzará la prevención de la soledad no deseada a través de betiON",
       "summary": "El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.",
@@ -67,14 +72,15 @@
       "title": "Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas",
       "summary": "El pasado sábado y el lunes fueron las jornadas más críticas ya que estos organismos causaron 13 lesionados en toda Euskadi.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%",
-      "summary": "Los datos del Eustat reflejan un aumento de empleo en la industria y en la construcción que no cubren la caída del sector servicios.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa",
+      "url": "https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi",
       "url": "https://www.elcorreo.com/sociedad/menor-lideraba-red-extremista-764-amenazo-tiroteos-20260803165820-nt_amp.html?utm_source=lootura.com",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Ferrán Torres habla por primera vez sobre su polémica gorra y no puede ser más claro](https://www.larazon.es/deportes/futbol/ferran-torres-habla-primera-vez-polemica-gorra-puede-ser-mas-claro_202608046a71785671b42a0b5dd939b8.html?utm_source=lootura.com) — 2026-08-04T05:27:52.000Z
+- [Ferran aprovecha el gol de su vida para echar un pulso al Barcelona](https://www.abc.es/deportes/futbol/ferran-aprovecha-gol-vida-echar-pulso-barcelona-20260804093545-nt.html?utm_source=lootura.com) — 2026-08-04T09:42:20.000Z

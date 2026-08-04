@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Why Texas is betting 'Y'all Street' can take on Wall Street
+
+Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).
+
+Date: 2026-08-04
+
+### The war to succeed Bernie Sanders is already underway
+
+The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
+
+Date: 2026-08-04
 
 ### Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently
 
@@ -56,18 +68,7 @@ New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not 
 
 Date: 2026-07-23
 
-### The latest US troops killed in Trump’s Iran war are remembered for lives of service
-
-Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.
-
-Date: 2026-07-23
-
-### Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.
-
-In a video message, the mayor of New York City said he could not legally arrest Israel’s prime minister but reinforced his position as a voice of the international left.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [N.Y. Law Barring ICE Agents From Wearing Masks Is Blocked by Judge](https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html?utm_source=lootura.com) — 2026-08-03T22:17:01.000Z
+- [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z
+- [The war to succeed Bernie Sanders is already underway](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z

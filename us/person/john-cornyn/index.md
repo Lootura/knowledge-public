@@ -3,10 +3,16 @@
 > Follow John Cornyn, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/person/john-cornyn
 
 ## Recent changes
+
+### GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped
+
+Blanche’s nomination had been held up over concerns from GOP Sens. John Cornyn and Thom Tillis, but the parties reached a deal to end the standoff.
+
+Date: 2026-08-04
 
 ### Discovered by Atlas
 
@@ -41,3 +47,4 @@ Date: 2026-08-03
 ## Sources
 
 - [Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund](https://www.cbsnews.com/news/cornyn-tillis-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-03T19:39:59.000Z
+- [GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped](https://www.nbcnews.com/politics/justice-department/senate-republicans-advance-todd-blanche-nomination-anti-weaponization-rcna590555?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T09:43:58.602Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes",
+      "summary": "La Comunidad de Madrid destinará este año tres millones de euros a la convocatoria de ayudas para la producción de largometrajes, la mayor dotación económica desde la creación de este programa de apoyo al sector audiovisual. El presupuesto supone un incremento del 50 por ciento respecto a las convocatorias de 2024 y 20.",
+      "date": "2026-08-04"
+    },
     {
       "title": "«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios",
       "summary": "La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.",
@@ -50,6 +55,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes",
+      "url": "https://www.abc.es/espana/madrid/record-ayudas-cine-madrileno-tres-millones-euros-20260804112536-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T09:34:09.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

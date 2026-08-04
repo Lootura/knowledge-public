@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales](https://www.elconfidencial.com/espana/andalucia/2026-08-04/la-ola-de-adelante-no-cesa-y-pone-nervioso-al-psoe-andaluz-a-nueve-meses-de-las-municipales_4397746/?utm_source=lootura.com) — 2026-08-04T03:00:00.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Top U.S. admiral says no nation will dominate Indo-Pacific](https://www.pbs.org/newshour/world/top-u-s-admiral-says-no-nation-will-dominate-indo-pacific?utm_source=lootura.com) — 2026-08-03T18:25:00.000Z
+No public source links.

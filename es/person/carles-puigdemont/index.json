@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont",
+      "summary": "Quien fuera el gran fichaje económico del independentismo, el exdirector general de la Fundación Bancaria La Caixa, Jaume Giró , se ha dado de baja de Junts a causa de su largo enfrentamiento con Carles Puigdemont y a sus diferencias estratégicas de la senda que ha de seguir el partido. Puigdemont y la actual dirección.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
       "summary": "Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.",
@@ -62,13 +67,15 @@
       "title": "Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: \"Cuánta miseria y frivolidad\"",
       "summary": "El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . \"Cuánta miseria y frivolidad\", ha escrito Tu.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo",
-      "summary": "Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal Supremo Pablo Llarena piensa reaccionar al fallo que emitió este jueves el Tribunal de Luxemburgo, ni la defensa de Carles Puigdemont tiene previsto pedirle que levante la orden de detención nacional que permanece vigente sobre el expreside.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-04/jaume-giro-rompe-carne-junts-diferencias-puigdemont_4400582/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T08:12:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

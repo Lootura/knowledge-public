@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Montero se reunió con Zapatero tres días antes del cese de Ábalos](https://www.abc.es/espana/reunion-discreta-zapatero-montero-hacienda-tres-dias-20260804014843-nt.html?utm_source=lootura.com) — 2026-08-04T05:39:36.000Z
+No public source links.

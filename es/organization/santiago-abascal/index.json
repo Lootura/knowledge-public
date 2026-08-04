@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T16:55:44.633Z",
+  "updatedAt": "2026-08-04T10:35:48.254Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado",
+      "summary": "El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Abascal pide \"militarizar permanentemente la frontera\" de Ceuta ante la \"invasión\" de la que culpa a Marruecos y Sánchez",
       "summary": "El presidente de Vox , Santiago Abascal , ha pedido este domingo \"militarizar permanentemente la frontera\" de Ceuta \"hasta que sea necesario\". El líder de la formación verde ha culpado a Marruecos de promover una \"invasión\" y un \"acto de guerra tolerado y permitido por Pedro Sánchez\". \"¿Por qué Marruecos se ha atrevido.",
@@ -54,6 +59,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado",
+      "url": "https://theobjective.com/espana/politica/2026-08-04/abascal-gobierno-delito-traicion-seguridad-estado/?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:14:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

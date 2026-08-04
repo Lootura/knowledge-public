@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-04T10:36:14.031Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says
+
+Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.
+
+Date: 2026-08-04
+
+### Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets
+
+Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.
+
+Date: 2026-08-04
 
 ### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
 
@@ -14,15 +26,15 @@ Even in a Europe-focused Nato 3.0, Washington would still want to call the shots
 
 Date: 2026-08-04
 
-### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
-
-Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
-
-Date: 2026-08-03
-
 ### News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak
 
 In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.
+
+Date: 2026-08-03
+
+### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
+
+Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
 
 Date: 2026-08-03
 
@@ -56,20 +68,8 @@ The president of Ukraine had warned that the country was running out of Patriot 
 
 Date: 2026-08-01
 
-### Russian strikes on Kyiv kill 9, injure at least 27, officials say
-
-Kyiv said the strikes had killed four people, and the city's mayor reported 15 people, including two boys aged 13 and 17, were wounded and transported to hospital.
-
-Date: 2026-08-01
-
-### Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge
-
-Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.
-
-Date: 2026-08-01
-
 ## Sources
 
-- [Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9](https://www.pbs.org/newshour/world/russia-blasts-zaporizhzhia-with-glide-bombs-while-ukrainian-drones-kill-9?utm_source=lootura.com) — 2026-08-03T18:02:50.000Z
+- [Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says](https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/?utm_source=lootura.com) — 2026-08-04T10:17:23.000Z
 - [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-08-03T22:45:58.000Z
-- [With Russia at the door and the US backing away, Europe has to build its own ‘way of war’](https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war?utm_source=lootura.com) — 2026-08-04T04:00:12.000Z
+- [Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets](https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html?utm_source=lootura.com) — 2026-08-04T09:42:12.000Z

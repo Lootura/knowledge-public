@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa
+
+Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.
+
+Date: 2026-08-04
 
 ### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
 
@@ -62,13 +68,8 @@ El accidente se produjo en la calle Barcelona de Donostia pasadas las 16.20 hora
 
 Date: 2026-07-25
 
-### En directo, la bandera Fabrika en San Sebastián
-
-Nueva jornada de la liga Eusko Label de remo.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa](https://www.elconfidencial.com/espana/2026-08-04/escenario-semana-grande-donostia-2026-1tna-1qrt_4400532/?utm_source=lootura.com) — 2026-08-04T09:38:00.000Z
 - [Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia](https://www.diariovasco.com/remo/liga-femenina/graves-sanciones-pueden-enfrentarse-clubes-decidieron-retirarse-20260804000836-nt_amp.html?utm_source=lootura.com) — 2026-08-03T22:08:37.000Z
 - [El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»](https://www.diariovasco.com/culturas/musica/rompedor-look-guino-donostia-presume-amaia-montero-20260803210228-nt_amp.html?utm_source=lootura.com) — 2026-08-03T19:02:29.000Z

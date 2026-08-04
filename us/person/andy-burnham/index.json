@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
   "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-08-04T10:36:14.031Z",
   "aliases": [
     "Burnham"
   ],
   "changes": [
+    {
+      "title": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+      "summary": "Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham",
       "summary": "Marie-France van Heel alongside her husband Prime Minister Andy Burnham, arriving at Downing Street in London, United Kingdom, on July 20, 2026. —Karwai Tang—Getty Images When the U.K.’s new Prime Minister Andy Burnham arrived at 10 Downing Street earlier this week, his wife of 25 years, Marie-France van Heel, was righ.",
@@ -57,13 +62,15 @@
       "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
       "summary": "Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Andy Burnham formally appointed U.K. prime minster",
-      "summary": "Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+      "url": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T10:17:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

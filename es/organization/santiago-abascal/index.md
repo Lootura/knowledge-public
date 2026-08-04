@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-02T16:55:44.633Z
+- Actualizado: 2026-08-04T10:35:48.254Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado
+
+El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.
+
+Date: 2026-08-04
 
 ### Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez
 
@@ -58,4 +64,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado](https://theobjective.com/espana/politica/2026-08-04/abascal-gobierno-delito-traicion-seguridad-estado/?utm_source=lootura.com) — 2026-08-04T10:14:44.000Z

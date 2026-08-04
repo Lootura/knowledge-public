@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-08-03T19:20:09.000Z
+No public source links.
