@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Pillados mientras mantenían relaciones al volante en la A-7
+
+Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.
+
+Date: 2026-08-05
 
 ### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
 
@@ -62,12 +68,6 @@ El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mens
 
 Date: 2026-07-24
 
-### Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música
-
-Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural con el Museo Picasso, el Centre Pompidou, el Ruso -cuyas obras se retiraron al inicio de la invasión de Ucrania- o el Carmen Thyssen. Ese despliegue, que dio pie a una etiqueta de ciudad de los museos que ya empieza a sonar manida, ha convi.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador](https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com) — 2026-08-05T10:43:00.000Z
+- [Pillados mientras mantenían relaciones al volante en la A-7](https://www.abc.es/espana/andalucia/malaga/multan-pareja-mantenia-relaciones-conducian-marbella-20260805122745-nts.html?utm_source=lootura.com) — 2026-08-05T17:05:42.000Z

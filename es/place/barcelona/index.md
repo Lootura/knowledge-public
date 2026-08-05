@@ -70,5 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto](http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html?utm_source=lootura.com) — 2026-08-05T12:00:00.000Z
-- [El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas](https://theobjective.com/economia/transporte/2026-08-05/segundo-dia-huelga-aeropuerto-prat-18-cancelaciones/?utm_source=lootura.com) — 2026-08-05T11:46:09.000Z
+No public source links.

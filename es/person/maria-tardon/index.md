@@ -3,7 +3,7 @@
 > Sigue la actividad de María Tardón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/person/maria-tardon
 
 ## Cambios recientes

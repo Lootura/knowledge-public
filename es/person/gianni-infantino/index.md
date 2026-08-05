@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Infantino habría ofrecido a Marruecos la final del Mundial 2030 a cambio de su apoyo](https://www.20minutos.es/deportes/futbol/infantino-habria-ofrecido-marruecos-final-mundial-2030-cambio-su-apoyo_7022995_0.html?utm_source=lootura.com) — 2026-08-05T16:46:50.000Z

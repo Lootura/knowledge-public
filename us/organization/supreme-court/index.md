@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices](https://www.nbcnews.com/politics/2026-election/kansas-voters-reject-gop-effort-elect-supreme-court-justices-rcna590026?utm_source=lootura.com) — 2026-08-05T01:10:41.000Z
+No public source links.

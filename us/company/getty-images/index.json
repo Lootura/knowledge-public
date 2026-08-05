@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida",
+      "summary": "A scanning electron micrograph (SEM) of the \"flesh-eating\" bacteria Vibrio vulnificus. —Getty Images/Callista Images A Florida resident has died from an infection of Vibrio vulnificus , a type of “ flesh-eating ” bacteria that thrives in warm coastal waters. It is the first reported death linked to the bacteria this ye.",
+      "date": "2026-08-05"
+    },
     {
       "title": "What to Say to Someone Who Is Dying, According to Hospice Workers",
       "summary": "—Photo-Illustration by TIME (Source Image: Peter Dazeley—Getty Images) Sydney Mishkin’s father had Stage IV sarcoma for seven years. In the weeks before he died, she kept trying to figure out what she still hadn’t told him. She searched through their old texts and listened to his voicemails. At night, she lay awake rev.",
@@ -59,18 +64,13 @@
       "title": "Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome",
       "summary": "An adult female lone star tick (Amblyomma americanum) crawls on a blade of grass. Image courtesy CDC. (Photo by Smith Collection/Gado/Getty Images) Doctors in the U.S. are hearing an odd complaint from their patients more frequently: lifelong meat eaters are suddenly breaking out into hives, getting bad stomach pains ,.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Is Mushroom Coffee Healthy? Here's What to Know",
-      "summary": "—Photo-Illustration by TIME (Source Images: Iryna Veklich, vsviridova—Getty Images) There’s quite a buzz around mushroom coffee these days. Some social-media influencers claim the lightly caffeinated beverage can provide a sense of calm , long-lasting energy , laser-sharp focus , and other benefits. But do these fungi.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "What to Say to Someone Who Is Dying, According to Hospice Workers",
-      "url": "https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:59:33.000Z",
+      "title": "What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida",
+      "url": "https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:02:33.000Z",
       "sourceId": "lootura-us-time"
     }
   ],

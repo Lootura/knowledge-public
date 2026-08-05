@@ -70,5 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado](https://okdiario.com/espana/proetarras-toman-fiestas-virgen-blanca-vitoria-ayuntamiento-del-psoe-mira-otro-lado-19128990?utm_source=lootura.com) — 2026-08-05T12:56:27.000Z
-- [Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE](https://theobjective.com/espana/tribunales/2026-08-05/ex-numero-dos-de-cerdan-psoe/?utm_source=lootura.com) — 2026-08-05T11:32:24.000Z
+No public source links.

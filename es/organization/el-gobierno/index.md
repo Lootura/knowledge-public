@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El Gobierno de la ciudad autónoma sostiene que entraron 80.000 personas, 8.000 
 
 Date: 2026-08-05
 
-### El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta
-
-La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y realizarse con "financiación suficiente y todas las garantías", y recuerda que el sistema vasco de protección "ya trabaja por encima de su capacidad ordinaria" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mien.
-
-Date: 2026-08-05
-
 ### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
 
 La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
+
+Date: 2026-08-05
+
+### El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta
+
+La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y realizarse con "financiación suficiente y todas las garantías", y recuerda que el sistema vasco de protección "ya trabaja por encima de su capacidad ordinaria" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mien.
 
 Date: 2026-08-05
 
@@ -71,5 +71,4 @@ Date: 2026-08-04
 ## Fuentes
 
 - [La Guardia Civil busca a los 6.000 inmigrantes que "deambulan" por Ceuta para devolverlos por la fuerza a Marruecos](https://www.elmundo.es/espana/2026/08/05/6a731459e4d4d85c0a8b45af.html?utm_source=lootura.com) — 2026-08-05T10:51:10.000Z
-- [El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta](https://www.eldiario.es/euskadi/gobierno-vasco-pide-agoten-vias-vuelvan-familias-menores-llegados-ceuta_1_13429705.html?utm_source=lootura.com) — 2026-08-05T11:34:09.000Z
 - [Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"](https://www.eldiario.es/madrid/ayuso-defiende-atico-comprado-comunidad-madrid-no-personal-seria-inteligente_1_13429836.html?utm_source=lootura.com) — 2026-08-05T12:08:04.000Z

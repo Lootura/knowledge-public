@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida
+
+A scanning electron micrograph (SEM) of the "flesh-eating" bacteria Vibrio vulnificus. —Getty Images/Callista Images A Florida resident has died from an infection of Vibrio vulnificus , a type of “ flesh-eating ” bacteria that thrives in warm coastal waters. It is the first reported death linked to the bacteria this ye.
+
+Date: 2026-08-05
 
 ### What to Say to Someone Who Is Dying, According to Hospice Workers
 
@@ -62,12 +68,6 @@ An adult female lone star tick (Amblyomma americanum) crawls on a blade of grass
 
 Date: 2026-07-23
 
-### Is Mushroom Coffee Healthy? Here's What to Know
-
-—Photo-Illustration by TIME (Source Images: Iryna Veklich, vsviridova—Getty Images) There’s quite a buzz around mushroom coffee these days. Some social-media influencers claim the lightly caffeinated beverage can provide a sense of calm , long-lasting energy , laser-sharp focus , and other benefits. But do these fungi.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [What to Say to Someone Who Is Dying, According to Hospice Workers](https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/?utm_source=lootura.com) — 2026-08-05T13:59:33.000Z
+- [What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida](https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/?utm_source=lootura.com) — 2026-08-05T16:02:33.000Z

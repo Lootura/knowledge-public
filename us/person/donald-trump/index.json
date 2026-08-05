@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,18 +25,8 @@
   ],
   "changes": [
     {
-      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
-      "summary": "A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
       "summary": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
-      "summary": "Trump-endorsed Rick Brattin won the GOP primary for Missouri's 5th Congressional District, CBS News projects, setting up a battle against an 11-term Democrat in a district that was made far more GOP-leaning.",
       "date": "2026-08-05"
     },
     {
@@ -50,48 +40,52 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-      "summary": "Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).",
+      "title": "Candidate who dropped out beats Trump’s pick in a battleground GOP House primary",
+      "summary": "Thomas Smith, a political unknown who raised almost no money for his campaign, defeated President Donald Trump’s endorsed candidate in a Republican primary for a Michigan congressional seat the GOP hopes to contest this fall, NBC News projects.",
       "date": "2026-08-05"
     },
     {
-      "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-      "summary": "President Trump announced a proposal aimed at achieving the disarmament of Hamas and an Israeli withdrawal. Israel ramped up attacks on the Palestinian enclave.",
+      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
+      "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
     },
     {
-      "title": "Trump’s AI testing plan is limited and vague",
-      "summary": "The Verge \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100\" /> The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in te.",
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
       "date": "2026-08-05"
     },
     {
-      "title": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-      "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
+      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
+      "summary": "The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.",
       "date": "2026-08-05"
     },
     {
-      "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
-      "summary": "Rep. John James has won Michigan’s Republican nomination for governor, NBC News projects.",
+      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
+      "summary": "The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
+      "summary": "A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+      "summary": "Trump-endorsed Rick Brattin won the GOP primary for Missouri's 5th Congressional District, CBS News projects, setting up a battle against an 11-term Democrat in a district that was made far more GOP-leaning.",
       "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:49:25.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
-      "url": "https://www.cbsnews.com/news/brazil-ambassador-us-visa-revoked/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T00:39:19.000Z",
+      "title": "White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing",
+      "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:34:54.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
       "url": "https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T03:37:00.000Z",
+      "publishedAt": "2026-08-05T16:20:09.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -101,22 +95,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
-      "url": "https://www.cbsnews.com/news/missouri-5-gop-primary-rick-brattin-emanuel-cleaver-redistricting-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T03:57:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Candidate who dropped out beats Trump’s pick in a battleground GOP House primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/candidate-dropped-beats-trumps-pick-battleground-gop-house-primary-rcna590905?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:08:34.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-john-james-wins-michigans-gop-primary-governor-rcna590045?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T02:13:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
       "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com",
       "publishedAt": "2026-08-05T10:08:28.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "url": "https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:20:30.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
+      "url": "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:19:27.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
+      "url": "https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:02:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
@@ -129,13 +135,7 @@
       "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T19:20:37.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T12:05:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 10
 }

@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [El-Sayed campaign says Stevens has called to concede in Michigan Senate primary](https://www.pbs.org/newshour/politics/el-sayed-campaign-says-stevens-has-called-to-concede-in-michigan-senate-primary?utm_source=lootura.com) — 2026-08-05T13:58:47.000Z
+No public source links.

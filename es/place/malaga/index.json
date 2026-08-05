@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-05T17:26:26.730Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Pillados mientras mantenían relaciones al volante en la A-7",
+      "summary": "Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
       "summary": "La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.",
@@ -55,19 +60,14 @@
       "title": "El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen",
       "summary": "El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música",
-      "summary": "Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural con el Museo Picasso, el Centre Pompidou, el Ruso -cuyas obras se retiraron al inicio de la invasión de Ucrania- o el Carmen Thyssen. Ese despliegue, que dio pie a una etiqueta de ciudad de los museos que ya empieza a sonar manida, ha convi.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
-      "url": "https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:43:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Pillados mientras mantenían relaciones al volante en la A-7",
+      "url": "https://www.abc.es/espana/andalucia/malaga/multan-pareja-mantenia-relaciones-conducian-marbella-20260805122745-nts.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:05:42.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

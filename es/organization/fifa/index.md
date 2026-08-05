@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió](https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:59:05.000Z
+- [Infantino habría ofrecido a Marruecos la final del Mundial 2030 a cambio de su apoyo](https://www.20minutos.es/deportes/futbol/infantino-habria-ofrecido-marruecos-final-mundial-2030-cambio-su-apoyo_7022995_0.html?utm_source=lootura.com) — 2026-08-05T16:46:50.000Z

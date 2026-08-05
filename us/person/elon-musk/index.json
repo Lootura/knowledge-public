@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [],
   "changes": [
     {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
+      "title": "Discovered by Atlas",
+      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
+      "title": "SpaceX is barely Space and mostly X",
+      "summary": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI , his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is pr.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
       "date": "2026-08-05"
     },
     {
@@ -29,10 +34,10 @@
   ],
   "sources": [
     {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:41:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:35:56.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 1

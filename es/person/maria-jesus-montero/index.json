@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/maria-jesus-montero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/maria-jesus-montero/index.json",
   "description": "Sigue la actividad de María Jesús Montero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-05T17:26:26.730Z",
   "aliases": [
     "Jesús",
     "Maria Jesus Montero Cuadrado",
@@ -16,6 +16,16 @@
     "Montero"
   ],
   "changes": [
+    {
+      "title": "Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont",
+      "summary": "Los correos electrónicos a los que ha tenido acceso en exclusiva ABC entre Gertrudis Alcázar , secretaria personal del expresidente del Gobierno José Luis Zapatero y el personal del Ministerio de Hacienda, dan este miércoles un salto cualitativo. La interlocución mantenida en esta ocasión entre la ministra María Jesús.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "María Jesús Montero first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Montero se reunió con Zapatero tres días antes del cese de Ábalos",
       "summary": "La interlocución fluida que mantuvo el expresidente del Gobierno José Luis Rodríguez Zapatero con la ministra de Hacienda, María Jesús Montero, en su despacho del ministerio, y la complicidad mostrada por su secretaria Gertrudis Alcázar con su departamento, tuvo un momento crucial a partir del año 2021, coincidiendo co.",
@@ -25,13 +35,15 @@
       "title": "La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales",
       "summary": "Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "María Jesús Montero first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont",
+      "url": "https://www.abc.es/espana/zapatero-reunio-montero-bolanos-serrano-encauzar-interlocucion-20260805015425-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:38:21.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

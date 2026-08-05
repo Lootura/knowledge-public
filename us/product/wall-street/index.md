@@ -28,4 +28,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [SpaceX shows strong growth in its first earnings report since IPO](https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com) — 2026-08-05T01:41:30.000Z
+No public source links.

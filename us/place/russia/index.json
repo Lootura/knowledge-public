@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
+      "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
+      "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
+      "summary": "Smoke rises after Ukrainian strikes on a Wildberries warehouse in St. Petersburg, Russia, on July 24, 2026. —AFP—Getty Images Ukraine hit at least two warehouses belonging to Russia ’s e-commerce giant Wildberries in overnight strikes on Monday, adding to a series of drone attacks that have targeted the online retailer.",
+      "date": "2026-08-05"
+    },
     {
       "title": "How the Ukraine War Became a Fight for the Skies",
       "summary": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
@@ -30,11 +50,6 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
       "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
       "date": "2026-08-04"
@@ -48,36 +63,33 @@
       "title": "Drone hits crowded Russian beach, killing 7 people",
       "summary": "A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. Russian officials say seven people were killed and dozens were injured. Holly Williams reports.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Video shows moment drone burst into fireball on Russian beach",
-      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
-      "summary": "Russia said that seven people, including three children, had been killed and about 40 injured in what it said was a deliberate Ukrainian drone attack on civilians.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
-      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "How the Ukraine War Became a Fight for the Skies",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:10:54.000Z",
+      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
+      "url": "https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:06:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
+      "url": "https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:18:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T14:29:47.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
-      "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:41:55.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
+      "url": "https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:24:20.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

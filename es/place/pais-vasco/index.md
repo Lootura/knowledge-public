@@ -3,20 +3,20 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
 
-### Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas
-
-La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la retahíla de celebraciones populares que tienen lugar en el País Vasco desde hoy hasta el próximo mes de septiembre. Como cada verano, el multitudinario evento en la capital alavesa se convirtió en un escenario donde la izquierda aberzale y o.
-
-Date: 2026-08-05
-
 ### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
 
 La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
+
+Date: 2026-08-05
+
+### Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas
+
+La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la retahíla de celebraciones populares que tienen lugar en el País Vasco desde hoy hasta el próximo mes de septiembre. Como cada verano, el multitudinario evento en la capital alavesa se convirtió en un escenario donde la izquierda aberzale y o.
 
 Date: 2026-08-05
 
@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas](https://www.abc.es/espana/pais-vasco/guerra-pancartas-vuelve-pais-vasco-bildu-colectivos-20260805120119-nt.html?utm_source=lootura.com) — 2026-08-05T12:20:08.000Z
 - [Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»](https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com) — 2026-08-05T11:06:19.000Z

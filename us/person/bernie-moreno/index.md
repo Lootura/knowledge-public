@@ -3,7 +3,7 @@
 > Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-moreno
 
 ## Recent changes

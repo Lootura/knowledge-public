@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”](https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html?utm_source=lootura.com) — 2026-08-05T10:15:42.000Z
+No public source links.

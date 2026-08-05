@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### 'Supergirl' la semana que viene en Prime Video en digital: precio y packs
+
+Todavía tienen mucho que decir , pero por el momento y tras tan solo 2 películas, James Gunn y Peter Safran no ha sido los tan solicitados salvadores del universo cinematográfico de DC que se esperaba, aunque su saldo por ahora es neutro. Y es que si bien la Superman de 2025 llegó a convertirse en la película del Hombr.
+
+Date: 2026-08-05
 
 ### Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’
 
@@ -46,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- ['Supergirl' la semana que viene en Prime Video en digital: precio y packs](https://www.larazon.es/tecnologia-consumo/series/supergirl-semana-viene-prime-video-digital-precio-packs_202608056a736b7071b42a0b5dddab46.html?utm_source=lootura.com) — 2026-08-05T17:03:37.000Z

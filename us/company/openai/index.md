@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Rogue AI agents created fake online identities in another hacking attempt](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking?utm_source=lootura.com) — 2026-08-05T15:14:57.000Z

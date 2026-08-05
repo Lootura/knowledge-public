@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo al
 
 Date: 2026-08-05
 
-### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
-
-La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
-
-Date: 2026-08-05
-
 ### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
 
 La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardia Civil si recibió "alguna información en los días previos que hubiese podido alertar"...
+
+Date: 2026-08-05
+
+### Pillados mientras mantenían relaciones al volante en la A-7
+
+Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.
+
+Date: 2026-08-05
+
+### Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)
+
+Una agente de la Guardia Civil destinada en Llanes ha muerto este miércoles tras ser disparada por su expareja , un compañero del Cuerpo con el que estaba casada pero en proceso de divorcio . La víctima estaba incluida en el sistema VioGen , después de que su agresor , del que estaba separada —aunque sin sentencia de d.
+
+Date: 2026-08-05
+
+### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
+
+La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
 
 Date: 2026-08-05
 
@@ -56,23 +68,9 @@ La jueza también solicita que se le informe del dispositivo desplegado en el te
 
 Date: 2026-08-05
 
-### Recomendaciones de la Guardia Civil para el día del eclipse
-
-En el marco del evento astronómico Trío de Eclipses, en concreto en lo ateniente al que tendrá lugar el próximo 12 de agosto de 2.026 y que afectará de forma total, a varias comunidades autónomas, entre ellas al Principado de Asturias, la Guardia Civil ha iniciado un proceso de planificación y refuerzo de las medidas d.
-
-Date: 2026-08-05
-
-### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
-
-Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
-
-Date: 2026-08-04
-
 ## Fuentes
 
+- [Pillados mientras mantenían relaciones al volante en la A-7](https://www.abc.es/espana/andalucia/malaga/multan-pareja-mantenia-relaciones-conducian-marbella-20260805122745-nts.html?utm_source=lootura.com) — 2026-08-05T17:05:42.000Z
+- [Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)](https://www.abc.es/espana/asturias/muere-agente-guardia-civil-tiroteada-marido-agente-20260805145308-nt.html?utm_source=lootura.com) — 2026-08-05T16:44:41.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta](https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com) — 2026-08-05T09:51:09.000Z
-- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta](https://www.lavanguardia.com/politica/20260805/11608351/jueza-audiencia-nacional-recaba-datos-sobre-causas-79-muertes-ceuta.html?utm_source=lootura.com) — 2026-08-05T11:20:35.000Z
-- [Una guardia civil asesinada a tiros por su ex marido en el cuartel de Llanes (Asturias)](https://okdiario.com/espana/tiroteo-cuartel-guardia-civil-muere-agente-persona-resulta-herida-19130733?utm_source=lootura.com) — 2026-08-05T12:59:47.000Z
-- [La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta](https://theobjective.com/espana/tribunales/2026-08-05/juez-guardia-civil-asalto-ceuta/?utm_source=lootura.com) — 2026-08-05T09:14:47.000Z
-- [Un guardia civil mata a su expareja, también agente, dentro del cuartel de Llanes (Asturias)](https://theobjective.com/sociedad/suceso/2026-08-05/guardia-civil-companera-llanes-asturias/?utm_source=lootura.com) — 2026-08-05T12:53:00.000Z

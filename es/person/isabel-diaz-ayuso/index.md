@@ -3,14 +3,14 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
 
-### Ayuso dice que es la consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
+### Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
 
-Isabel Díaz Ayuso ha dicho este miércoles que la consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.
+Isabel Díaz Ayuso ha dicho este miércoles que la Consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.
 
 Date: 2026-08-05
 
@@ -70,5 +70,5 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Ayuso dice que es la consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
+- [Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
 - [Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid](https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com) — 2026-08-05T13:39:46.000Z

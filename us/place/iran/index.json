@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
       "summary": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
@@ -55,16 +65,6 @@
       "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
       "summary": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "How the War in Iran Is Complicating Trump’s Agenda at Home",
-      "summary": "As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
-      "summary": "Qatar said that draft language of a deal was being circulated, while Secretary of State Marco Rubio expressed optimism about the talks but added that nothing was final yet.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -73,6 +73,12 @@
       "url": "https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T14:00:15.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "url": "https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:20:30.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
@@ -87,11 +93,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:46:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T15:36:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

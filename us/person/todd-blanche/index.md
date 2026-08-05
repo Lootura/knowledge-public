@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Senate Judiciary Committee advances Blanche's nomination for attorney general](https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/?utm_source=lootura.com) — 2026-08-05T03:06:35.000Z
 - [Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General](https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com) — 2026-08-04T23:15:22.000Z

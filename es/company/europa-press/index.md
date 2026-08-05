@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes
+
+El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.
+
+Date: 2026-08-05
 
 ### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes](https://theobjective.com/espana/tribunales/2026-08-05/seis-meses-instruccion-caso-koldo/?utm_source=lootura.com) — 2026-08-05T14:47:13.000Z

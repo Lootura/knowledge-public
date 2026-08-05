@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-05T17:26:26.730Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -23,6 +23,11 @@
     {
       "title": "La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia",
       "summary": "Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
+      "summary": "El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.",
       "date": "2026-08-05"
     },
     {
@@ -64,18 +69,13 @@
       "title": "El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián",
       "summary": "Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Evenepoel firma un póker legendario en la Clásica San Sebastián",
-      "summary": "El belga se impone a Richard Carapaz al sprint en el Boulevard después de recuperarse de un pinchazo a 51 kilómetros de meta que hizo peligrar su carrera.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián",
-      "url": "https://www.diariovasco.com/gipuzkoa/carabelas-portuguesas-ganan-tamano-playas-guipuzcoanas-acotan-20260804170940-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T15:09:40.000Z",
+      "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
+      "url": "https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:52:27.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {

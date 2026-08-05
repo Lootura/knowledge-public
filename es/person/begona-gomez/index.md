@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El CGPJ estudia una queja de Manos Limpias al juez Peinado](https://theobjective.com/espana/tribunales/2026-08-05/cgpj-queja-manos-limpias-juez-peinado/?utm_source=lootura.com) — 2026-08-05T09:51:49.000Z
+No public source links.

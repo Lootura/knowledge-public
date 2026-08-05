@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-05T17:26:26.730Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Apple denuncia a OpenAI por robo de secretos",
+      "summary": "Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de \"descuidada, agresiva y extrañamente personal\". Como parte de esta escalada judici.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
       "summary": "Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.",
@@ -46,10 +51,10 @@
   ],
   "sources": [
     {
-      "title": "Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
-      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:15:42.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Apple denuncia a OpenAI por robo de secretos",
+      "url": "https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:15:07.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

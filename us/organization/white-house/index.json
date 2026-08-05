@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
+      "date": "2026-08-05"
+    },
     {
       "title": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
       "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
@@ -62,20 +67,21 @@
       "title": "Funding milestone detected",
       "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
-      "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:49:25.000Z",
+      "title": "White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing",
+      "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:34:54.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:26:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

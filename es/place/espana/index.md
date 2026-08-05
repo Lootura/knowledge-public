@@ -3,22 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse
-
-Las principales operadoras de telecomunicaciones en España —Telefónica, MasOrange y Vodafone— junto al gestor de infraestructuras Cellnex han desplegado un operativo técnico especial centrado en más de 700 puntos clave para garantizar el tráfico de datos e itinerancia durante el eclipse solar total del próximo 12 de ag.
-
-Date: 2026-08-05
-
-### Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina
-
-La Policía ha desarticulado en Cataluña una célula del Cártel Jalisco dedicada al tráfico internacional de metanfetamina oculta en extracto líquido de vainilla . El operativo se ha saldado con trece detenidos -doce ya en prisión- y la incautación de uno de los mayores alijos de esta sustancia en España y Europa: 2,5 to.
-
-Date: 2026-08-05
 
 ### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
 
@@ -32,50 +20,62 @@ Nokia Spain registró un beneficio neto de 488.000 euros durante el ejercicio fi
 
 Date: 2026-08-05
 
-### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
-
-La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.
-
-Date: 2026-08-05
-
-### Al menos 141 personas han muerto en el intento de entrada a Ceuta, según la ONG Caminando Fronteras
-
-Desde la organización apuntan que las personas fallecidas no solo son de nacionalidad marroquí, sino que también procedentes de Sudán, Eritrea, Guinea y Costa de Marfil España arranca a la UE un respaldo expreso por la crisis de Ceuta y consigue aplacar las críticas de sus socios Al menos 141 personas han muerto en Ceu.
-
-Date: 2026-08-05
-
 ### Así afectaría al Ejército de España un conflicto militar con Marruecos
 
 Los vecinos territoriales no son siempre cómodos y más ante un complicado tablero geopolítico complicado; es el caso de España con Marruecos. La crisis migratoria en Ceuta que sigue dejando titulares ha presentado la posibilidad de un conflicto armado para defender la soberanía nacional. Tal y como apuntó este diario e.
 
 Date: 2026-08-05
 
-### Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto
+### El Sol desvela uno de sus grandes secretos
 
-El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.
-
-Date: 2026-08-05
-
-### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
-
-El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
+Faltan ya solo unos días. El próximo 12 de agosto, media España se sumirá en la oscuridad en lo que será el eclipse total de Sol más espectacular en nuestro país de los últimos 114 años. La expectación es, por supuesto, máxima. Y como aperitivo para este festín astronómico, el Observatorio Solar Nacional de la Fundació.
 
 Date: 2026-08-05
 
-### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo
+### El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual
 
-Agosto comenzó en España en medio de una ola de calor , la cuarta del año, dejando temperaturas por encima de los 40 grados. Sin embargo, al inicio de la semana se dio fin a ese episodio de calor extremo.Los termómetros bajaron unos cuantos grados y la mayoría del país ha podido experimentar un par de días de temperatu.
+El precio de los carburantes crece en España por quinta semana consecutiva. El precio medio de la gasolina en los surtidores desde el 27 de julio hasta el 3 de agosto fue de 1,69 euros, mientras que el del diésel subió a 1,79 euros, según el último boletín petrolero de la UE publicado este miércoles. En porcentaje resp.
+
+Date: 2026-08-05
+
+### El «novenio negro» de Pedro Sánchez
+
+Nadie es responsable de las vidas de sus ancestros, pero es incuestionable que Pedro Sánchez pertenece, por razones familiares, de sangre y políticas, al árbol genealógico de la España negra. Su bisabuelo materno, Juan Bautista Pérez-Castejón Marín , se pasó buena parte de su vida como prófugo de la justicia después de.
+
+Date: 2026-08-05
+
+### Mario Vargas Llosa, Nobel de Literatura en 2010, sobre la capital de España: «En Madrid nadie se siente extranjero»
+
+Hablar de Mario Vargas Llosa y Madrid es recorrer una historia en la que esta ciudad desempeñó un papel decisivo en la vida y la trayectoria del escritor peruano . Mucho más que un lugar de residencia, la capital española se convirtió en el escenario donde confirmó su vocación, desarrolló buena parte de su obra y encon.
+
+Date: 2026-08-05
+
+### El BOE lo confirma: el 15 de agosto será festivo en toda España, pero miles de trabajadores podrán disfrutar de un día extra de descanso
+
+El calendario laboral de 2026 deja una situación poco habitual que afecta a millones de trabajadores. El 15 de agosto , festividad de la Asunción de la Virgen , será festivo nacional en toda España pese a coincidir en sábado, tal y como recoge el calendario oficial publicado en el Boletín Oficial del Estado (BOE). Sin.
+
+Date: 2026-08-05
+
+### Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse
+
+Las principales operadoras de telecomunicaciones en España —Telefónica, MasOrange y Vodafone— junto al gestor de infraestructuras Cellnex han desplegado un operativo técnico especial centrado en más de 700 puntos clave para garantizar el tráfico de datos e itinerancia durante el eclipse solar total del próximo 12 de ag.
+
+Date: 2026-08-05
+
+### Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina
+
+La Policía ha desarticulado en Cataluña una célula del Cártel Jalisco dedicada al tráfico internacional de metanfetamina oculta en extracto líquido de vainilla . El operativo se ha saldado con trece detenidos -doce ya en prisión- y la incautación de uno de los mayores alijos de esta sustancia en España y Europa: 2,5 to.
 
 Date: 2026-08-05
 
 ## Fuentes
 
-- [Los mensajes en redes que ya están convocando una nueva entrada masiva el día 15: "Nos vemos allí todos"](https://www.20minutos.es/ceuta/las-redes-marruecos-vuelven-llenarse-mensajes-sobre-otra-entrada-masiva-ceuta_7022841_0.html?utm_source=lootura.com) — 2026-08-05T10:47:48.000Z
-- [Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse](https://elpais.com/economia/2026-08-05/telefonica-masorange-vodafone-y-cellnex-montan-un-dispositivo-especial-ante-el-eclipse.html?utm_source=lootura.com) — 2026-08-05T09:58:50.000Z
+- [Infantino ofrece a Marruecos la final del Mundial 2030 a cambio de que le apoyen en la FIFA](https://www.abc.es/deportes/futbol/mundial/infantino-ofrece-marruecos-final-mundial-2030-cambio-20260805184311-nt.html?utm_source=lootura.com) — 2026-08-05T17:07:47.000Z
+- [El Sol desvela uno de sus grandes secretos](https://www.abc.es/ciencia/puertas-eclipse-agosto-sol-desvela-grandes-secretos-20260805170009-nt.html?utm_source=lootura.com) — 2026-08-05T16:30:00.000Z
 - [Nokia reduce un 25% su beneficio neto en España en 2025](https://cincodias.elpais.com/companias/2026-08-05/nokia-reduce-un-25-su-beneficio-neto-en-espana-en-2025.html?utm_source=lootura.com) — 2026-08-05T13:53:28.000Z
-- [Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador](https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com) — 2026-08-05T10:43:00.000Z
-- [Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina](https://www.elconfidencial.com/espana/cataluna/2026-08-05/cartel-jalisco-metanfetamina-cataluna-1tna-1tps_4401276/?utm_source=lootura.com) — 2026-08-05T09:20:00.000Z
-- [Al menos 141 personas han muerto en el intento de entrada a Ceuta, según la ONG Caminando Fronteras](https://www.eldiario.es/desalambre/141-personas-han-muerto-entrada-ceuta-ong-caminando-fronteras_1_13429422.html?utm_source=lootura.com) — 2026-08-05T11:01:18.000Z
+- [El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual](https://elpais.com/economia/2026-08-05/el-precio-de-la-gasolina-en-espana-sube-por-quinta-semana-consecutiva-y-se-acerca-a-su-maximo-anual.html?utm_source=lootura.com) — 2026-08-05T14:48:21.000Z
 - [Así afectaría al Ejército de España un conflicto militar con Marruecos](https://www.larazon.es/espana/asi-afectaria-ejercito-espana-conflicto-militar-marruecos_202608056a733d3da046ad6ebc9f1362.html?utm_source=lootura.com) — 2026-08-05T13:45:13.000Z
 - [Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera](https://www.larazon.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-continua-presion-politica-mientras-siguen-labores-gestion-frontera_202608056a72c5b5a5690f047366e205.html?utm_source=lootura.com) — 2026-08-05T13:40:17.000Z
-- [Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto](http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html?utm_source=lootura.com) — 2026-08-05T12:00:00.000Z
+- [El «novenio negro» de Pedro Sánchez](https://okdiario.com/opinion/novenio-negro-pedro-sanchez-19116803?utm_source=lootura.com) — 2026-08-05T17:00:47.000Z
+- [Mario Vargas Llosa, Nobel de Literatura en 2010, sobre la capital de España: «En Madrid nadie se siente extranjero»](https://okdiario.com/curiosidades/mario-vargas-llosa-nobel-literatura-2010-sobre-capital-espana-madrid-nadie-siente-extranjero-19032558?utm_source=lootura.com) — 2026-08-05T16:53:48.000Z
+- [El BOE lo confirma: el 15 de agosto será festivo en toda España, pero miles de trabajadores podrán disfrutar de un día extra de descanso](https://okdiario.com/economia/boe-lo-confirma-15-agosto-sera-festivo-toda-espana-pero-miles-trabajadores-podran-disfrutar-dia-extra-descanso-19131975?utm_source=lootura.com) — 2026-08-05T16:55:15.000Z

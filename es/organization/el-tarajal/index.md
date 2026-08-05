@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Un reportero de TVE tras mostrar las playas de Ceuta llenas de inmigrantes ilegales: «Muchos son licenciados, diplomados y homosexuales»
+
+Ceuta sigue siendo noticia mientras intenta recuperar la normalidad, tras la invasión de los 72.000 inmigrantes que llegaron desde Marruecos , en su mayoría, a nado o bordeando a pie el espigón fronterizo de El Tarajal la pasada semana. TVE sigue ofreciendo conexiones en directo desde la ciudad autónoma, entre las que.
+
+Date: 2026-08-05
 
 ### El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000
 
@@ -62,12 +68,6 @@ La madrugada cae sobre Ceuta envuelta en una espesa niebla que apenas deja disti
 
 Date: 2026-08-01
 
-### Abascal usa la crisis para elevar la presión: “Si el Gobierno no echa a los inmigrantes lo harán los españoles”
-
-Las imágenes de miles de marroquíes entrando ilegalmente en Ceuta a través del paso de El Tarajal, a nado o a pie, han confirmado los más negros augurios de Vox, a juicio de sus dirigentes. La palabra “invasión”, que llevan blandiendo desde hace años como un mantra, no parece tan hiperbólica ante la irrupción en la ciu.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Un reportero de TVE tras mostrar las playas de Ceuta llenas de inmigrantes ilegales: «Muchos son licenciados, diplomados y homosexuales»](https://okdiario.com/cool/television/reportero-tve-mostrar-playas-ceuta-llenas-inmigrantes-ilegales-muchos-son-licenciados-diplomados-homosexuales-19131614?utm_source=lootura.com) — 2026-08-05T16:30:38.000Z

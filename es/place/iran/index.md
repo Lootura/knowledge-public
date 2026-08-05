@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz
+
+"Si ciertos terceros no obstaculizan este proceso, la declaración conjunta entre los dos países, que incluye consideraciones clave y puntos de acuerdo, se encuentra en las etapas finales de revisión y redacción", dice el portavoz de Exteriores Leer.
+
+Date: 2026-08-05
 
 ### El Ibex afianza los 20.000 y explora nuevos récords
 
@@ -62,12 +68,6 @@ Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones ini
 
 Date: 2026-08-04
 
-### La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona
-
-El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El Ibex afianza los 20.000 y explora nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T12:30:27.000Z
+- [Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz](https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com) — 2026-08-05T17:12:26.000Z

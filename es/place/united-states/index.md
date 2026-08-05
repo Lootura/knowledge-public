@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Estados Unidos resucita su gigantesco supercañón para abaratar las pruebas de armas hipersónicas
+
+El Ejército reutiliza el Heavy Artillery Test System para estudiar el impacto de ojivas a gran velocidad sin utilizar misiles completos en cada ensayo.
+
+Date: 2026-08-05
+
+### ¿Por qué algunas personas se enamoran de asesinos? La ciencia empieza a encontrar respuestas
+
+En la película _Extremadamente cruel, malvado y perverso_, el actor Zac Efron (izquierda) encarnaba al asesino en serie Ted Bundy. Netflix En pleno juicio contra Ted Bundy , uno de los asesinos en serie más conocidos de Estados Unidos, muchas mujeres comenzaron a enviarle cartas de contenido romántico. Eran los años 70.
+
+Date: 2026-08-05
 
 ### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
 
@@ -56,18 +68,8 @@ El primer ministro de Israel, Benjamin Netanyahu, ha afirmado que rechazó el pl
 
 Date: 2026-08-04
 
-### Milei afirma que la alianza con EE UU es la "llave" para recuperar las Islas Malvinas
-
-El presidente de Argentina, Javier Milei, afirmó este lunes que la alianza con el Gobierno de Estados Unidos es la "llave" para recuperar las Islas Malvinas y culpó a su vicepresidenta, Victoria Villarruel, de provocar "tensión" con el Gobierno británico por unas declaraciones sobre este asunto. "Estados Unidos ha camb.
-
-Date: 2026-08-04
-
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió](https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:59:05.000Z
+- [Estados Unidos resucita su gigantesco supercañón para abaratar las pruebas de armas hipersónicas](https://www.larazon.es/tecnologia/estados-unidos-resucita-gigantesco-supercanon-abaratar-pruebas-armas-hipersonicas_202608056a736e4971b42a0b5dddb26b.html?outputType=amp&utm_source=lootura.com) — 2026-08-05T17:15:16.000Z
+- [¿Por qué algunas personas se enamoran de asesinos? La ciencia empieza a encontrar respuestas](https://theconversation.com/por-que-algunas-personas-se-enamoran-de-asesinos-la-ciencia-empieza-a-encontrar-respuestas-264654?utm_source=lootura.com) — 2026-08-05T16:40:05.000Z

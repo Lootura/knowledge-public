@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -17,6 +17,24 @@ Date: 2026-08-05
 ### At least 17 people killed after fatal overnight Russian strikes in Ukraine
 
 Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.
+
+Date: 2026-08-05
+
+### Alarming video shows Russian drone chasing Ukrainian man before exploding
+
+Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-05
+
+### Ukraine says missile interceptors may have saved lives in Russian attack
+
+At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-05
+
+### What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?
+
+Smoke rises after Ukrainian strikes on a Wildberries warehouse in St. Petersburg, Russia, on July 24, 2026. —AFP—Getty Images Ukraine hit at least two warehouses belonging to Russia ’s e-commerce giant Wildberries in overnight strikes on Monday, adding to a series of drone attacks that have targeted the online retailer.
 
 Date: 2026-08-05
 
@@ -50,27 +68,10 @@ A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russ
 
 Date: 2026-08-04
 
-### Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says
-
-Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.
-
-Date: 2026-08-04
-
-### Video shows moment drone burst into fireball on Russian beach
-
-Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.
-
-Date: 2026-08-04
-
-### Ukraine's air defenses are proving to be a weak point
-
-Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Video shows drone attacking a street vendor in Ukraine](https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/?utm_source=lootura.com) — 2026-08-05T08:35:00.000Z
+- [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
+- [Ukraine says missile interceptors may have saved lives in Russian attack](https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com) — 2026-08-05T16:18:42.000Z
 - [At least 17 people killed after fatal overnight Russian strikes in Ukraine](https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com) — 2026-08-05T08:09:43.000Z
-- [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com) — 2026-08-05T13:10:54.000Z
-- [Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses](https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com) — 2026-08-05T10:41:55.000Z
+- [What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?](https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com) — 2026-08-05T16:24:20.000Z

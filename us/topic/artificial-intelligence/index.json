@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,26 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday . Hassabis will continue to lead Alphabet's Isomorphic Labs, which a.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-sou.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "How to Talk Like a Human in the AI Era",
+      "summary": "—J Studios—Getty Images As AI becomes more prevalent in our personal and professional lives, the more we’ll need a way to stand out. In fact, skills like empathy, influence, and the ability to read the room—things AI cannot yet do with accuracy and facility—are already becoming more valuable. We are facing an insidious.",
+      "date": "2026-08-05"
+    },
     {
       "title": "SpaceX shows strong growth in its first earnings report since IPO",
       "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
@@ -56,33 +76,13 @@
       "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
       "summary": "Capital expenditures related to its xAI unit, which runs the Grok service, hit $15.8 billion, more than double what they were in the first quarter.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
-      "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why projects fail late. Alm.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Is AI making us dumber? Maybe not. But our skills are at risk",
-      "summary": "Studies suggest AI can weaken learning when it replaces effort, but tools that guide rather than answer may help people keep their skills.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:41:30.000Z",
+      "title": "Why SpaceX stock is falling despite strong revenue growth",
+      "url": "https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:02:50.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,11 +98,29 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump’s AI testing plan is limited and vague",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:29:47.000Z",
+      "title": "How China’s A.I. Is Surging Across Africa",
+      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T14:12:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:47:23.000Z",
       "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:57:25.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "How to Talk Like a Human in the AI Era",
+      "url": "https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:34:22.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

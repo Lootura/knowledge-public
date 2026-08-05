@@ -28,4 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares](https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com) — 2026-08-05T10:18:47.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [El fútbol le ha dado a Europa una rara victoria geopolítica](https://amp.expansion.com/economia/financial-times/2026/08/05/6a72ff28e5fdeac04c8b456f.html?utm_source=lootura.com) — 2026-08-05T09:18:05.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”](https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html?utm_source=lootura.com) — 2026-08-05T10:15:42.000Z
+- [El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-05T15:47:45.000Z

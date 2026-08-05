@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-05T17:26:26.730Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes",
+      "summary": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
       "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
@@ -39,6 +44,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes",
+      "url": "https://theobjective.com/espana/tribunales/2026-08-05/seis-meses-instruccion-caso-koldo/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T14:47:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

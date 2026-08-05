@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -14,27 +14,33 @@ La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo al
 
 Date: 2026-08-05
 
-### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
-
-La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
-
-Date: 2026-08-05
-
 ### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
 
 La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardia Civil si recibió "alguna información en los días previos que hubiese podido alertar"...
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta
-
-La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.
-
-Date: 2026-08-05
-
 ### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
 
 El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
+
+Date: 2026-08-05
+
+### El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes
+
+El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.
+
+Date: 2026-08-05
+
+### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
+
+La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta
+
+La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.
 
 Date: 2026-08-05
 
@@ -62,16 +68,9 @@ El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario e
 
 Date: 2026-08-05
 
-### Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica
-
-La Audiencia Nacional investiga actualmente el trato de favor de la expareja de Ábalos en Ineco y Tragsatec.
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta](https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com) — 2026-08-05T09:51:09.000Z
-- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta](https://www.lavanguardia.com/politica/20260805/11608351/jueza-audiencia-nacional-recaba-datos-sobre-causas-79-muertes-ceuta.html?utm_source=lootura.com) — 2026-08-05T11:20:35.000Z
-- [La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta](https://theobjective.com/espana/tribunales/2026-08-05/juez-guardia-civil-asalto-ceuta/?utm_source=lootura.com) — 2026-08-05T09:14:47.000Z
+- [El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes](https://theobjective.com/espana/tribunales/2026-08-05/seis-meses-instruccion-caso-koldo/?utm_source=lootura.com) — 2026-08-05T14:47:13.000Z
 - [Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes](https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com) — 2026-08-05T12:25:29.000Z

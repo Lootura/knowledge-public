@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
+
+Date: 2026-08-05
 
 ### China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time
 
@@ -62,12 +68,7 @@ Despite threats from President Trump, the overall average weighted tariff on Chi
 
 Date: 2026-07-24
 
-### New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners
-
-U.S. President Donald Trump's latest set of tariffs drew objections Friday from America's trading partners including China and Japan, with Australia's trade minister slamming them as "completely unjustified.".
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Under China's new 'unity' law, Tibetans fight to preserve language and culture](https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture?utm_source=lootura.com) — 2026-08-05T15:26:43.000Z
+- [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z

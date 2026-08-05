@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia
 
 Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.
+
+Date: 2026-08-05
+
+### El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares
+
+El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.
 
 Date: 2026-08-05
 
@@ -62,13 +68,7 @@ Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desd
 
 Date: 2026-08-02
 
-### Evenepoel firma un póker legendario en la Clásica San Sebastián
-
-El belga se impone a Richard Carapaz al sprint en el Boulevard después de recuperarse de un pinchazo a 51 kilómetros de meta que hizo peligrar su carrera.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián](https://www.diariovasco.com/gipuzkoa/carabelas-portuguesas-ganan-tamano-playas-guipuzcoanas-acotan-20260804170940-nt_amp.html?utm_source=lootura.com) — 2026-08-04T15:09:40.000Z
+- [El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares](https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com) — 2026-08-05T16:52:27.000Z
 - [La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia](https://www.diariovasco.com/san-sebastian/llegada-masiva-carabelas-portuguesas-deja-centenar-picaduras-playas-20260805154520-nt_amp.html?utm_source=lootura.com) — 2026-08-05T13:45:51.000Z

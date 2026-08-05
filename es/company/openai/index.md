@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Apple denuncia a OpenAI por robo de secretos
+
+Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
+
+Date: 2026-08-05
 
 ### Apple pide a un tribunal que frene el dispositivo de IA de OpenAI
 
@@ -46,4 +52,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”](https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html?utm_source=lootura.com) — 2026-08-05T10:15:42.000Z
+- [Apple denuncia a OpenAI por robo de secretos](https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com) — 2026-08-05T17:15:07.000Z

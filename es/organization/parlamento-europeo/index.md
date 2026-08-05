@@ -3,10 +3,16 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
+
+La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
+
+Date: 2026-08-05
 
 ### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
 
@@ -34,4 +40,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta](https://theobjective.com/internacional/2026-08-05/eurocamara-debate-extraordinario-crisis-ceuta/?utm_source=lootura.com) — 2026-08-05T15:22:36.000Z

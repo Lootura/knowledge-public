@@ -3,10 +3,58 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
+
+La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
+
+Date: 2026-08-05
+
+### Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este miércoles que la compra del ático de Chamberí fuera una vivienda para ella y ha.
+
+Date: 2026-08-05
+
+### 'Termo de Madrid': el portal ciudadano para reportar las temperaturas «infernales» en el Metro
+
+El calor veraniego aprieta en Madrid al igual que está ocurriendo en la mayor parte del territorio español . Sin embargo, las altas temperaturas no solo se hacen notar al pasear por las calles de la capital, sino que también sofocan la red de Metro que, cada día, usan miles de personas para desplazarse.La alarmante sit.
+
+Date: 2026-08-05
+
+### El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares
+
+El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.
+
+Date: 2026-08-05
+
+### Ayuso contra Ayuso: cómo ha cambiado su discurso sobre el ático de la Comunidad de Madrid en una semana
+
+La líder madrileña justificó la necesidad del inmueble para llevar a cabo "reuniones" durante las obras en la sede de la Puerta del Sol, pero ahora sostiene que "lo mejor desde el primer minuto es venderlo” Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Sería muy poco intelig.
+
+Date: 2026-08-05
+
+### Mario Vargas Llosa, Nobel de Literatura en 2010, sobre la capital de España: «En Madrid nadie se siente extranjero»
+
+Hablar de Mario Vargas Llosa y Madrid es recorrer una historia en la que esta ciudad desempeñó un papel decisivo en la vida y la trayectoria del escritor peruano . Mucho más que un lugar de residencia, la capital española se convirtió en el escenario donde confirmó su vocación, desarrolló buena parte de su obra y encon.
+
+Date: 2026-08-05
+
+### Pitingo, a su bola tras romper con Laura Escuredo: «Yo sólo veo Netflix»
+
+Pitingo ha reaparecido públicamente tras su ruptura con Laura Escuredo y lo ha hecho en un momento especialmente delicado. El cantante ha acudido este miércoles al Tanatorio Crematorio Sur de Madrid para despedir a Pepe Habichuela, uno de los grandes maestros del flamenco, fallecido a los 82 años . Una cita marcada por.
+
+Date: 2026-08-05
+
+### El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo en Madrid
+
+Los 10 conciertos que el artista puertorriqueño Bad Bunny ofreció en junio en el Riyadh Air Metropolitano unidos a la visita del papa León XIV, contribuyeron a un mes récord para Madrid, que recibió cerca de 885.000 visitantes extranjeros y alcanzó un gasto turístico de 1.860 millones de euros, según el INE. La celebra.
+
+Date: 2026-08-05
 
 ### El reparto de menores divide a las comunidades: Madrid pide su devolución, Extremadura se niega a acogerlos y Navarra pide "solidaridad"
 
@@ -20,59 +68,15 @@ Los 10 conciertos que el artista puertorriqueño Bad Bunny ofreció en junio en 
 
 Date: 2026-08-05
 
-### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
-
-La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
-
-Date: 2026-08-05
-
-### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
-
-El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.
-
-Date: 2026-08-05
-
-### Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este miércoles que la compra del ático de Chamberí fuera una vivienda para ella y ha.
-
-Date: 2026-08-05
-
-### Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales
-
-La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscado por las autoridades británicas por graves conductas de agresión sexual cometidas entre 2012 y 2022 y que se encontraba huido de su país, teniendo en vigor una orden internacional de detención. Las investigaciones comenzaron el pasado 2024,.
-
-Date: 2026-08-05
-
-### La ministra Sira Rego anuncia que no irá en las listas a las generales y confía en que la izquierda elija un buen candidato
-
-La ministra de Juventud e Infancia, Sira Rego , ha confirmado que no formará parte de las listas que preparan IU , Movimiento Sumar, Más Madrid y Comuns para las próximas elecciones generales , y ha expresado su deseo de que el espacio acierte en la designación del próximo cabeza de cartel. “No voy a estar en las próxi.
-
-Date: 2026-08-05
-
-### Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales
-
-Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.
-
-Date: 2026-08-05
-
-### «Se va a quemar la sierra»: ecologistas piden suspender los eventos masivos por el eclipse en Madrid
-
-Un verano marcado por las llamas se prepara ahora para recibir a miles de personas en el monte: la observación del eclipse solar del 12 de agosto ha encendido la alarma entre asociaciones ecologistas y vecinos de la Sierra Norte de Madrid. Vecinos de la Sierra Norte de Madrid, agrupados en la plataforma Monte en Pie, s.
-
-Date: 2026-08-05
-
-### La cultura llora la muerte de Pepe Habichuela: «Que repiquen los bordones de toda Granada»
-
-El mundo de la cultura ha despedido al guitarrista José Antonio Carmona, conocido como Pepe Habichuela (Granada, 1944), que ha fallecido este martes a los 82 años de edad en Madrid tras dos años alejado de los escenarios por una enfermedad . Así, una de las primeras artistas en llorar las «manos únicas» del granadino h.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El reparto de menores divide a las comunidades: Madrid pide su devolución, Extremadura se niega a acogerlos y Navarra pide "solidaridad"](https://www.20minutos.es/nacional/extremadura-se-opone-por-tierra-mar-aire-reparto-menores-pais-vasco-pide-priorizar-su-retorno-valencia-concrecion_7022884_0.html?utm_source=lootura.com) — 2026-08-05T12:48:56.000Z
-- [El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo internacional en Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-05/madrid-bad-bunny-turismo-eventos-1hms-1svm_4401491/?utm_source=lootura.com) — 2026-08-05T13:47:00.000Z
+- [Si Vinicius se va...](https://www.abc.es/deportes/real-madrid/vinicius-20260805131920-nt.html?utm_source=lootura.com) — 2026-08-05T17:11:34.000Z
+- ['Termo de Madrid': el portal ciudadano para reportar las temperaturas «infernales» en el Metro](https://www.abc.es/espana/madrid/termo-madrid-portal-ciudadano-reportar-temperaturas-infernales-20260805185249-nt.html?utm_source=lootura.com) — 2026-08-05T16:52:50.000Z
 - [Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años](https://www.elcorreo.com/culturas/musica/fallece-pepe-habichuela-leyenda-guitarra-flamenca-anos-20260804220714-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T20:07:14.000Z
+- [El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares](https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com) — 2026-08-05T16:52:27.000Z
+- [Ayuso contra Ayuso: cómo ha cambiado su discurso sobre el ático de la Comunidad de Madrid en una semana](https://www.eldiario.es/madrid/ayuso-ayuso-cambiado-discurso-atico-comunidad-madrid-semana_1_13430070.html?utm_source=lootura.com) — 2026-08-05T16:30:10.000Z
 - [Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"](https://www.eldiario.es/madrid/ayuso-defiende-atico-comprado-comunidad-madrid-no-personal-seria-inteligente_1_13429836.html?utm_source=lootura.com) — 2026-08-05T12:08:04.000Z
-- [Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE](https://theobjective.com/espana/tribunales/2026-08-05/ex-numero-dos-de-cerdan-psoe/?utm_source=lootura.com) — 2026-08-05T11:32:24.000Z
+- [Mario Vargas Llosa, Nobel de Literatura en 2010, sobre la capital de España: «En Madrid nadie se siente extranjero»](https://okdiario.com/curiosidades/mario-vargas-llosa-nobel-literatura-2010-sobre-capital-espana-madrid-nadie-siente-extranjero-19032558?utm_source=lootura.com) — 2026-08-05T16:53:48.000Z
+- [Pitingo, a su bola tras romper con Laura Escuredo: «Yo sólo veo Netflix»](https://okdiario.com/cool/famosos/pitingo-bola-romper-laura-escuredo-yo-solo-veo-netflix-19130924?utm_source=lootura.com) — 2026-08-05T16:30:39.000Z
 - [Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid](https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com) — 2026-08-05T13:39:46.000Z
+- [El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo en Madrid](https://theobjective.com/espana/madrid/2026-08-05/riyadh-air-metropolitano-turismo-madrid/?utm_source=lootura.com) — 2026-08-05T15:34:09.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T17:26:49.335Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -25,6 +25,21 @@
     {
       "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
       "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
+      "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
+      "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
+      "summary": "Smoke rises after Ukrainian strikes on a Wildberries warehouse in St. Petersburg, Russia, on July 24, 2026. —AFP—Getty Images Ukraine hit at least two warehouses belonging to Russia ’s e-commerce giant Wildberries in overnight strikes on Monday, adding to a series of drone attacks that have targeted the online retailer.",
       "date": "2026-08-05"
     },
     {
@@ -51,21 +66,6 @@
       "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
       "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
-      "summary": "Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Video shows moment drone burst into fireball on Russian beach",
-      "summary": "Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Ukraine's air defenses are proving to be a weak point",
-      "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -76,23 +76,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
+      "url": "https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:06:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
+      "url": "https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:18:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
       "url": "https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com",
       "publishedAt": "2026-08-05T08:09:43.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "How the Ukraine War Became a Fight for the Skies",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:10:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:41:55.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
+      "url": "https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T16:24:20.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

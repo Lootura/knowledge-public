@@ -3,10 +3,22 @@
 > Sigue la actividad de María Jesús Montero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/person/maria-jesus-montero
 
 ## Cambios recientes
+
+### Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont
+
+Los correos electrónicos a los que ha tenido acceso en exclusiva ABC entre Gertrudis Alcázar , secretaria personal del expresidente del Gobierno José Luis Zapatero y el personal del Ministerio de Hacienda, dan este miércoles un salto cualitativo. La interlocución mantenida en esta ocasión entre la ministra María Jesús.
+
+Date: 2026-08-05
+
+### Discovered by Atlas
+
+María Jesús Montero first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-04
 
 ### Montero se reunió con Zapatero tres días antes del cese de Ábalos
 
@@ -20,12 +32,6 @@ Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ign
 
 Date: 2026-08-04
 
-### Discovered by Atlas
-
-María Jesús Montero first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont](https://www.abc.es/espana/zapatero-reunio-montero-bolanos-serrano-encauzar-interlocucion-20260805015425-nt.html?utm_source=lootura.com) — 2026-08-05T16:38:21.000Z

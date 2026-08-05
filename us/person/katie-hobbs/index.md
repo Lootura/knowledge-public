@@ -52,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Arizona’s Democratic Governor Set to Pick a Republican Running Mate](https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html?utm_source=lootura.com) — 2026-08-05T01:39:48.000Z
+No public source links.

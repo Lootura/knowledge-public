@@ -3,20 +3,26 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares
-
-El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.
-
-Date: 2026-08-05
-
 ### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
 
 La secretaria general de los socialistas valencianos y ministra de Ciencia, Innovación y Tecnología en el Gobierno del socialista Pedro Sánchez, Diana Morant, no ha escatimado en elogios hacia este último a pesar del aluvión de críticas en todo el planeta que ha generado su gestión por la invasión de Ceuta. Diana Moran.
+
+Date: 2026-08-05
+
+### El «novenio negro» de Pedro Sánchez
+
+Nadie es responsable de las vidas de sus ancestros, pero es incuestionable que Pedro Sánchez pertenece, por razones familiares, de sangre y políticas, al árbol genealógico de la España negra. Su bisabuelo materno, Juan Bautista Pérez-Castejón Marín , se pasó buena parte de su vida como prófugo de la justicia después de.
+
+Date: 2026-08-05
+
+### El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares
+
+El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.
 
 Date: 2026-08-05
 
@@ -62,13 +68,7 @@ El magistrado acata la petición del órgano comunitario después de que la Audi
 
 Date: 2026-08-04
 
-### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
-
-El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.
-
-Date: 2026-08-04
-
 ## Fuentes
 
+- [El «novenio negro» de Pedro Sánchez](https://okdiario.com/opinion/novenio-negro-pedro-sanchez-19116803?utm_source=lootura.com) — 2026-08-05T17:00:47.000Z
 - [Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»](https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com) — 2026-08-05T13:48:02.000Z
-- [El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares](https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com) — 2026-08-05T10:18:47.000Z

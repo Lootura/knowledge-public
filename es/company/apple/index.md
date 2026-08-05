@@ -3,20 +3,26 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-05T17:26:26.730Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos
-
-Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes de IA. Su nombre e.
-
-Date: 2026-08-05
-
 ### Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»
 
 Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos a la obra para confec.
+
+Date: 2026-08-05
+
+### Apple denuncia a OpenAI por robo de secretos
+
+Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
+
+Date: 2026-08-05
+
+### Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos
+
+Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes de IA. Su nombre e.
 
 Date: 2026-08-05
 
@@ -62,13 +68,7 @@ La última versión de Google Play Services acaba de filtrar una de las mejoras 
 
 Date: 2026-08-03
 
-### Ya conocemos otra función estrella de las gafas inteligentes de Apple. Y sí, es otra cosa que llegaría tarde a Europa (o nunca)
-
-Parece que Apple tiene un plan para hacer aún más atractivas sus próximas gafas inteligentes. Todo apunta a que no se presentarán oficialmente hasta el 2027, pero todas las miradas ya están puestas sobre la compañía y la división encargada de sacarlas adelante. Tanto foco está haciendo que algunos detalles salgan a la.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos](https://hipertextual.com/tecnologia/cloudflare-tiene-un-nuevo-sistema-de-pagos-online-para-bots-de-ia-si-los-que-acaparan-las-compras-de-tus-productos-favoritos/?utm_source=lootura.com) — 2026-08-05T11:21:40.000Z
 - [Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»](https://hipertextual.com/cine-television/jason-sudeikis-ted-lasso-rueda-de-prensa-confiesa-dudas-por-resucitar-la-serie/?utm_source=lootura.com) — 2026-08-05T13:16:58.000Z
+- [Apple denuncia a OpenAI por robo de secretos](https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com) — 2026-08-05T17:15:07.000Z

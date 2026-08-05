@@ -3,22 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Pastor Adam Hamilton Wins Kansas Democratic Senate Primary
-
-The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.
-
-Date: 2026-08-05
-
-### Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP
-
-Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).
-
-Date: 2026-08-05
 
 ### Progressives didn’t get the big election night they wanted
 
@@ -29,6 +17,36 @@ Date: 2026-08-05
 ### Thanedar becomes latest incumbent to fall to a progressive challenger
 
 Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.
+
+Date: 2026-08-05
+
+### Progressives see biggest win yet in Michigan, while Trump flexes power over GOP
+
+Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).
+
+Date: 2026-08-05
+
+### House Democrats just added 12 'safe' Trump districts to their midterm election target list
+
+The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.
+
+Date: 2026-08-05
+
+### Virginia Democrats pick establishment nominees for 2 House seats they hope to flip
+
+In Virginia, Democratic primary voters have a history of rewarding moderate candidates, a trend that continued on Tuesday.
+
+Date: 2026-08-05
+
+### Pastor Adam Hamilton Wins Kansas Democratic Senate Primary
+
+The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.
+
+Date: 2026-08-05
+
+### Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP
+
+Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).
 
 Date: 2026-08-05
 
@@ -50,27 +68,10 @@ Republicans see the marquee race to lead the state as perhaps their best chance 
 
 Date: 2026-08-04
 
-### 5 states hold primaries today. And, Spokane police arrest man connected to wildfire
-
-Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire. (Image credit: Scott Olson).
-
-Date: 2026-08-04
-
-### Bernie Sanders’ circle is pretty clear on who his successor will be
-
-The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
-
-Date: 2026-08-04
-
-### What to watch in the Aug. 4 primaries in Michigan and beyond
-
-Michigan will offer the country its clearest gauge yet on the direction of the Democratic Party.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [Progressives see biggest win yet in Michigan, while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [House Democrats just added 12 'safe' Trump districts to their midterm election target list](https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com) — 2026-08-05T17:02:45.000Z
+- [Virginia Democrats pick establishment nominees for 2 House seats they hope to flip](https://www.pbs.org/newshour/politics/virginia-democrats-pick-establishment-nominees-for-2-house-seats-they-hope-to-flip?utm_source=lootura.com) — 2026-08-05T16:38:08.000Z
 - [Progressives didn’t get the big election night they wanted](https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com) — 2026-08-05T07:41:18.000Z
 - [Thanedar becomes latest incumbent to fall to a progressive challenger](https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com) — 2026-08-05T13:59:50.000Z
-- [Pastor Adam Hamilton Wins Kansas Democratic Senate Primary](https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html?utm_source=lootura.com) — 2026-08-05T01:02:45.000Z

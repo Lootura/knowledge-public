@@ -3,10 +3,34 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
+
+Date: 2026-08-05
+
+### Google just announced a major shakeup of its top AI leadership
+
+Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday . Hassabis will continue to lead Alphabet's Isomorphic Labs, which a.
+
+Date: 2026-08-05
+
+### Sure seems like Fenix Flexin used AI music generator Treblo
+
+And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's "Rubberz" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-sou.
+
+Date: 2026-08-05
+
+### How to Talk Like a Human in the AI Era
+
+—J Studios—Getty Images As AI becomes more prevalent in our personal and professional lives, the more we’ll need a way to stand out. In fact, skills like empathy, influence, and the ability to read the room—things AI cannot yet do with accuracy and facility—are already becoming more valuable. We are facing an insidious.
+
+Date: 2026-08-05
 
 ### SpaceX shows strong growth in its first earnings report since IPO
 
@@ -44,33 +68,12 @@ Capital expenditures related to its xAI unit, which runs the Grok service, hit $
 
 Date: 2026-08-04
 
-### Why R&D Waste Persists Despite Widespread AI Adoption
-
-This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why projects fail late. Alm.
-
-Date: 2026-08-04
-
-### Is AI making us dumber? Maybe not. But our skills are at risk
-
-Studies suggest AI can weaken learning when it replaces effort, but tools that guide rather than answer may help people keep their skills.
-
-Date: 2026-08-04
-
-### ‘Not healthy’ LLM use is more common than you think
-
-Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of.
-
-Date: 2026-08-04
-
-### Developer ecosystem expanded
-
-Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [SpaceX shows strong growth in its first earnings report since IPO](https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com) — 2026-08-05T01:41:30.000Z
+- [Why SpaceX stock is falling despite strong revenue growth](https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/?utm_source=lootura.com) — 2026-08-05T17:02:50.000Z
 - [SpaceX's revenue rises as its once-soaring stock price drifts back to Earth](https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com) — 2026-08-04T22:02:03.000Z
 - [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z
-- [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded?utm_source=lootura.com) — 2026-08-05T10:29:47.000Z
+- [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
+- [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup?utm_source=lootura.com) — 2026-08-05T16:47:23.000Z
+- [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo?utm_source=lootura.com) — 2026-08-05T16:57:25.000Z
+- [How to Talk Like a Human in the AI Era](https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/?utm_source=lootura.com) — 2026-08-05T16:34:22.000Z

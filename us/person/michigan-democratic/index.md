@@ -28,4 +28,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Jocelyn Benson wins Michigan Democratic gubernatorial primary, CBS News projects](https://www.cbsnews.com/detroit/news/jocelyn-benson-chris-swanson-michigan-governor-demoratic-primary/?utm_source=lootura.com) — 2026-08-05T01:55:00.000Z
+No public source links.

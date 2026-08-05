@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
+
+Date: 2026-08-05
 
 ### White House declassifies info on secret FBI probe into Trump's firing of Comey
 
@@ -62,12 +68,7 @@ Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposa
 
 Date: 2026-08-04
 
-### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
-
-President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [White House declassifies info on secret FBI probe into Trump's firing of Comey](https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/?utm_source=lootura.com) — 2026-08-05T13:49:25.000Z
+- [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
+- [Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family](https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com) — 2026-08-05T16:26:49.000Z

@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T17:26:49.335Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday
+
+Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.
+
+Date: 2026-08-05
+
+### Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect
+
+Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.
+
+Date: 2026-08-05
 
 ### Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker
 
@@ -56,21 +68,10 @@ Stocks notched new record highs on Tuesday as oil prices dipped and companies re
 
 Date: 2026-08-04
 
-### How the War in Iran Is Complicating Trump’s Agenda at Home
-
-As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.
-
-Date: 2026-08-04
-
-### Strait of Hormuz Deal With Iran Possible Soon, Bessent Says
-
-Qatar said that draft language of a deal was being circulated, while Secretary of State Marco Rubio expressed optimism about the talks but added that nothing was final yet.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Sen. Tammy Baldwin pushes Pentagon to release probe of Iranian attack that killed 6 U.S. troops in Kuwait](https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com) — 2026-08-05T14:00:15.000Z
+- [Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday](https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com) — 2026-08-05T16:20:30.000Z
 - [An Angry Trump Struggles to Understand Iran’s Defiant Leaders](https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com) — 2026-08-04T19:20:37.000Z
 - [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z
-- [Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com) — 2026-08-05T13:46:19.000Z
+- [Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect](https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com) — 2026-08-05T15:36:07.000Z
