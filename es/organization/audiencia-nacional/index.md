@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros
+
+Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.
+
+Date: 2026-08-05
 
 ### El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump
 
@@ -62,12 +68,6 @@ El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "r
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
-
-La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump](https://okdiario.com/baleares/exjuez-baltasar-garzon-defendera-multimillonario-comunista-pro-hamas-detenido-ibiza-orden-trump-19125416?utm_source=lootura.com) — 2026-08-05T02:00:14.000Z
+- [Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros](https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com) — 2026-08-05T03:45:01.000Z

@@ -46,4 +46,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Apple pide a un tribunal que frene el dispositivo de IA de OpenAI](https://hipertextual.com/economia-empresas/apple-acusa-exempleados-secretos-openai/?utm_source=lootura.com) — 2026-08-04T19:02:49.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Telefónica entra en la seguridad ciudadana rural en España](https://www.expansion.com/empresas/tecnologia/2026/08/05/6a725f2fe5fdea86658b457c.html?utm_source=lootura.com) — 2026-08-04T22:03:10.000Z
+No public source links.

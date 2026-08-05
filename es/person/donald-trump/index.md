@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita
+
+Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.
+
+Date: 2026-08-05
 
 ### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
 
@@ -62,12 +68,7 @@ La querella, en la que participan los fiscales generales de Nueva York, Arizona,
 
 Date: 2026-08-03
 
-### El Ibex renueva sus máximos históricos cerca de los 20.000 puntos
-
-La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z
+- [Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán](https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com) — 2026-08-04T20:42:44.000Z
+- [Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita](https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com) — 2026-08-05T06:00:28.000Z

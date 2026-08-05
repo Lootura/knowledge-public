@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El poder de la Guardia Mora
+
+En 1978, a nuestro regreso de un viaje a China acompañando al rey Juan Carlos , el entonces ministro de Asuntos Exteriores, Marcelino Oreja, me comentó que se estaba trabajando en un proyecto respecto al futuro de Melilla. Me explicó al respecto que existía la posibilidad de llegar a un acuerdo con Marruecos para organ.
+
+Date: 2026-08-05
 
 ### China reescribe 3.000 millones de años de historia de bombardeos lunares
 
@@ -62,12 +68,6 @@ El embajador de China en España, Yao Jing, visitó el 22 de julio en Madrid el 
 
 Date: 2026-07-24
 
-### Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética
-
-Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El poder de la Guardia Mora](https://theobjective.com/elsubjetivo/opinion/2026-08-05/poder-guardia-mora-articulo-juan-luis-cebrian/?utm_source=lootura.com) — 2026-08-05T03:25:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [El Salvador man dies in Delaney Hall immigration facility in New Jersey](https://www.pbs.org/newshour/nation/el-salvador-man-dies-in-delaney-hall-immigration-facility-in-new-jersey?utm_source=lootura.com) — 2026-08-04T17:32:56.000Z
+No public source links.

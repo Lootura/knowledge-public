@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+      "summary": "The Senate Judiciary Committee voted along party lines to advance Todd Blanche's nomination for attorney general.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
       "summary": "Todd Blanche’s nomination now advances to the Senate floor, where it was not immediately clear whether he would be confirmed given that he can afford to lose only two senators on a party-line vote.",
@@ -58,14 +63,15 @@
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
       "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Todd Blanche's nomination back on track after GOP deal",
-      "summary": "Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
+    {
+      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+      "url": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:06:35.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

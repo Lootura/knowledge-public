@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.json",
   "description": "Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
-      "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
-      "date": "2026-08-04"
-    },
     {
       "title": "Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”",
       "summary": "Las contundentes críticas a España por la crisis de Ceuta de los primeros días han cedido. El ministro de Interior español, Fernando Grande-Marlaska , no ha tenido que escuchar los reproches que 22 primeros ministros de la UE —todos menos cinco— lanzaron el pasado sábado en una carta contra la política migratoria españ.",
@@ -24,6 +19,11 @@
     {
       "title": "Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero \"no cerró la puerta\"",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska, lleva desde el pasado viernes tratando de poner el foco sobre los servicios de inteligencia españoles en la búsqueda de...",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
+      "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
       "date": "2026-08-04"
     },
     {
@@ -74,13 +74,7 @@
       "url": "https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T17:44:04.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
-      "url": "https://elpais.com/espana/2026-08-04/marlaska-insiste-en-que-el-cni-no-alerto-de-una-llegada-masiva-de-migrantes-a-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T12:39:56.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,20 +3,26 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T13:15:10.309Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
 
-### Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»
+### Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros
 
-Mientras todas las miradas estaban puestas en Isabel Pantoja por su 70 cumpleaños, Isa Pantoja ha decidido dirigir la atención hacia otro asunto completamente distinto. En una jornada en la que muchos esperaban algún gesto público hacia la tonadillera, la colaboradora ha sorprendido compartiendo un mensaje sobre la cri.
+Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.
 
-Date: 2026-08-02
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
 Isabel Pantoja first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-02
+
+### Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»
+
+Mientras todas las miradas estaban puestas en Isabel Pantoja por su 70 cumpleaños, Isa Pantoja ha decidido dirigir la atención hacia otro asunto completamente distinto. En una jornada en la que muchos esperaban algún gesto público hacia la tonadillera, la colaboradora ha sorprendido compartiendo un mensaje sobre la cri.
 
 Date: 2026-08-02
 
@@ -28,4 +34,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros](https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com) — 2026-08-05T03:45:01.000Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,6 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Top AI company executives to meet with White House officials, according to reports](https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/?utm_source=lootura.com) — 2026-08-04T17:14:06.000Z
 - [SpaceX shows strong growth in its first earnings report since IPO](https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com) — 2026-08-05T01:41:30.000Z
 - [SpaceX hit by surging AI costs as insiders prepare to sell their shares](https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682?utm_source=lootura.com) — 2026-08-04T20:55:49.000Z
 - [SpaceX's revenue rises as its once-soaring stock price drifts back to Earth](https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com) — 2026-08-04T22:02:03.000Z

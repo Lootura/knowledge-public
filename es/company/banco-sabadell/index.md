@@ -46,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z
+No public source links.

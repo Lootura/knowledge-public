@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Ukraine hits Russia with deadly strike near busy beach, officials say](https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/?utm_source=lootura.com) — 2026-08-04T17:09:00.000Z
+- [Russia and Ukraine trade drone attacks with 5 people killed in each country](https://www.pbs.org/newshour/world/russia-and-ukraine-trade-drone-attacks-with-5-people-killed-in-each-country?utm_source=lootura.com) — 2026-08-04T20:39:41.000Z

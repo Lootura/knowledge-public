@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,13 +24,13 @@
       "date": "2026-08-04"
     },
     {
-      "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
-      "summary": "Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.",
+      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
+      "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
       "date": "2026-08-04"
     },
     {
-      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
-      "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
+      "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
+      "summary": "Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.",
       "date": "2026-08-04"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Michigan Democrats choose between Abdul El-Sayed and Haley Stevens, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/primaries-michigan-senate-abdul-el-sayed-haley-stevens-virginia-missouri-washington/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:52:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
       "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com",
       "publishedAt": "2026-08-04T17:43:06.000Z",
@@ -88,13 +82,7 @@
       "url": "https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T01:02:45.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:33:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

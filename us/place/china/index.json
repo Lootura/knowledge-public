@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T06:25:33.626Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "summary": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Top U.S. admiral says no nation will dominate Indo-Pacific",
       "summary": "The U.S. Pacific Command chief, Admiral Samuel Paparo, is warning that coercive actions by China and others are challenging regional stability in the Indo-Pacific.",
@@ -64,13 +69,15 @@
       "title": "In a first, Chinese woman wins the prestigious Fields Medal",
       "summary": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-      "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T04:00:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

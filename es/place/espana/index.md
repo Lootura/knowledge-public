@@ -3,80 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»
+### Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos
 
-El 12 de agosto, alrededor de las ocho y media de la tarde, millones de personas elevarán sus ojos al cielo en una comunión con el universo que, en la península ibérica, no se producía desde hace más de 120 años. Contemplarán un eclipse total de Sol, visible casi exclusivamente desde España, cuya franja de totalidad cr.
-
-Date: 2026-08-05
-
-### España batirá este verano el récord de energía renovable tirada a la basura
-
-El sistema eléctrico español se ha convertido en una peligrosa contradicción. Las energías renovables no paran de crecer –ya van más de 100 GW de capacidad y aumentando–, pero su integración en la red está siendo muy tortuosa, principalmente, porque la demanda no despega al mismo ritmo al que se desarrolla la potencia.
+En abril de 2025, el ministro de Exteriores José Manuel Albares , en una reunión en Madrid con su homólogo marroquí, defendió que las relaciones entre España y Marruecos atravesaban su "mejor momento histórico" . Meses después, una reunión de alto nivel entre ambos países culminaba el deshielo entre Madrid y Rabat, ini.
 
 Date: 2026-08-05
 
-### Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta
+### Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades
 
-Las ciudades autónomas son España. Y ningún congresista estadounidense debería utilizar un documento oficial para dar legitimidad a las pretensiones expansionistas de un tercer país contra un aliado de los Estados Unidos.
-
-Date: 2026-08-05
-
-### El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump
-
-El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario estadounidense James ‘Fergie’ Cox Chambers Jr. , heredero de Cox Enterprises , en el procedimiento de extradición que tramita la Audiencia Nacional tras su detención el pasado mes de julio en Ibiza por una orden internacional emitida por Estado.
+El calor, la lluvia, las tormentas, el viento y las olas pondrán este miércoles en aviso a siete comunidades autónomas , según la predicción de la Agencia Estatal de Meteorología (Aemet). La jornada estará marcada por el tiempo estable en buena parte de España, aunque con riesgo de chubascos y tormentas localmente fuer.
 
 Date: 2026-08-05
 
-### Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta
+### España consigue calmar a Europa tras la crisis de Ceuta pero no limar las asperezas por la regularización de inmigrantes
 
-Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.
+España parece haber logrado convencer a sus socios europeos de que la entrada masiva de 72.000 inmigrantes en Ceuta se ha gestionado con diligencia y que no ha peligrado "en ningún momento" la seguridad comunitaria ni "ha estado comprometido el Espacio Schengen". Si en las horas posteriores al incidente países como Din.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
-### Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”
+### Claves del 'no' del Supremo a las devoluciones 'en caliente' a nado: del papel de los drones a unas boyas que pueden ir a los tribunales
 
-Las contundentes críticas a España por la crisis de Ceuta de los primeros días han cedido. El ministro de Interior español, Fernando Grande-Marlaska , no ha tenido que escuchar los reproches que 22 primeros ministros de la UE —todos menos cinco— lanzaron el pasado sábado en una carta contra la política migratoria españ.
+La entrada masiva en Ceuta de 72.000 inmigrantes irregulares desde Marruecos el jueves pasado ha desencadenado una crisis migratoria. La mayoría de estas personas, que accedieron de forma irregular a España, lo hicieron bordeando a nado el espigón del Tarajal. Tres semanas antes el Tribunal Supremo había dictado una se.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
-### La NASA realizará experimentos desde aviones y globos en España e Islandia durante el eclipse
+### Las olas de calor de julio elevaron un 3,4% el consumo eléctrico, que creció hasta un 6,9%
 
-La NASA llevará a cabo experimentos desde aviones y globos en España e Islandia durante el eclipse solar total del miércoles 12 de agosto para recopilar datos sobre el Sol y la Tierra, según informa EFE. Un equipo científico financiado por la agencia seguirá la sombra de la Luna a bordo de un avión de investigación de.
+La demanda de electricidad en España fue el pasado mes de julio un 6,9% mayor a la registrada en julio del año pasado, según Red Eléctrica , que constata un incremento que atribuye a una mayor electrificación , correspondiente a un alza del 3,5% de ese total, pero también a las olas de calor que se sucedieron durante e.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
-### Anclajes de la acción exterior
+### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo: estas son las zonas más afectadas
 
-España no necesita reinventarse cada legislatura; necesita recordar quién es. Con Marruecos conviene evitar dos errores: demonizarlo y subestimarlo Leer.
+El organismo también indica que las temperatuas van a ascender en varios puntos del país, mientras en otros serán frescas.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
-### La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo
+### Cinco playas de interior para descubrir el otro verano en España
 
-La energética comunicó hace unos días a la plantilla el relevo de José Ignacio Sanz, quien asumió la dirección del negocio de comercialización de electricidad y gas en septiembre de 2025 Leer.
+La geografía española no solo puede presumir de contar con más de 7.000 kilómetros de costa con arenales que son auténticos paraísos, sino que, además, ofrece una alternativa para quienes buscan algo más accesible y menos masificado: las playas de interior. Lagos, ríos y pantanos con zonas acondicionadas y un buen puña.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
-### Telefónica entra en la seguridad ciudadana rural en España
+### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
 
-Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.
+La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores y la coordinación entre España, Marruecos y la Unión Europea. Aunque la presión en la frontera se ha reducido respecto a los primeros días, las autoridades manti.
 
-Date: 2026-08-04
+Date: 2026-08-05
+
+### Tormentas muy fuertes, lluvias intensas y granizadas: el brusco cambio de tiempo que llega a España
+
+La llegada de una vaguada procedente del Atlántico ha puesto fin a la reciente ola de calor en España al favorecer la llegada de una masa de aire más fresca. Este cambio de tiempo no solo ha provocado un descenso de las temperaturas, sino también un aumento de la inestabilidad atmosférica , con lluvias y tormentas en n.
+
+Date: 2026-08-05
+
+### Los desaparecidos de Ceuta
+
+Cinco días, con sus largas noches en vela, sin saber nada de ellos. Las familias que no tienen noticias de sus jóvenes que acudieron a Ceuta, ante la llamada de que la frontera a España estaba abierta, están inundando las redes sociales con fotografías de los desaparecidos. Hay una de Mohamed Afasi, en bañador, con una.
+
+Date: 2026-08-05
 
 ## Fuentes
 
-- [Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»](https://www.abc.es/ciencia/pedro-garcia-lario-astronomo-eclipses-lloran-ponen-20260728022652-nt.html?utm_source=lootura.com) — 2026-08-05T00:09:12.000Z
-- [España batirá este verano el récord de energía renovable tirada a la basura](https://www.abc.es/economia/espana-batira-verano-record-desperdicio-energia-renovable-20260805015326-nt.html?utm_source=lootura.com) — 2026-08-05T00:02:04.000Z
+- [Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos](https://www.20minutos.es/internacional/caso-ghali-crisis-ceuta-cinco-anos-luces-sombras-relacion-entre-espana-marruecos_7022472_0.html?utm_source=lootura.com) — 2026-08-05T05:09:29.000Z
+- [Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades](https://www.20minutos.es/nacional/calor-tormentas-viento-oleaje-ponen-aviso-siete-comunidades-este-miercoles_7022601_0.html?utm_source=lootura.com) — 2026-08-05T05:19:29.000Z
+- [España consigue calmar a Europa tras la crisis de Ceuta pero no limar las asperezas por la regularización de inmigrantes](https://www.20minutos.es/nacional/espana-consigue-calmar-europa-tras-crisis-ceuta-pero-no-limar-las-asperezas-por-regularizacion-inmigrantes_7022550_0.html?utm_source=lootura.com) — 2026-08-05T05:07:47.000Z
+- [Claves del 'no' del Supremo a las devoluciones 'en caliente' a nado: del papel de los drones a unas boyas que pueden ir a los tribunales](https://www.20minutos.es/nacional/claves-no-supremo-las-devoluciones-caliente-nado-papel-los-drones-unas-boyas-que-pueden-volver-los-tribunales_7022517_0.html?utm_source=lootura.com) — 2026-08-05T05:08:54.000Z
+- [Las olas de calor de julio elevaron un 3,4% el consumo eléctrico, que creció hasta un 6,9%](https://www.20minutos.es/nacional/las-olas-calor-julio-elevaron-un-3-4-consumo-electrico-que-crecio-hasta-un-6-9-con-respecto-julio-2025_7022416_0.html?utm_source=lootura.com) — 2026-08-05T05:10:48.000Z
+- [La Aemet avisa a España de la llegada de lluvias y tormentas con granizo: estas son las zonas más afectadas](https://www.abc.es/sociedad/aemet-avisa-espana-llegada-lluvias-tormentas-granizo-20260805075550-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:55:51.000Z
+- [Cinco playas de interior para descubrir el otro verano en España](https://www.abc.es/viajar/playas/cinco-playas-interior-descubrir-cara-verano-espanol-20260804160704-nt.html?utm_source=lootura.com) — 2026-08-05T04:47:58.000Z
 - [Anclajes de la acción exterior](https://www.elmundo.es/internacional/2026/08/04/6a71f1ccfdddff3b048b4596.html?utm_source=lootura.com) — 2026-08-04T20:42:55.000Z
 - [La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo](https://www.elmundo.es/economia/empresas/2026/08/05/6a71bbdbe9cf4a070e8b45a7.html?utm_source=lootura.com) — 2026-08-04T23:09:12.000Z
 - [Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”](https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com) — 2026-08-04T17:44:04.000Z
-- [Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta](https://elpais.com/espana/2026-08-04/marlaska-insiste-en-que-el-cni-no-alerto-de-una-llegada-masiva-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:39:56.000Z
-- [Telefónica entra en la seguridad ciudadana rural en España](https://www.expansion.com/empresas/tecnologia/2026/08/05/6a725f2fe5fdea86658b457c.html?utm_source=lootura.com) — 2026-08-04T22:03:10.000Z
-- [Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta](https://www.larazon.es/espana/prominente-familia-politica-florida-ofensiva-marroqui-ceuta_202608056a72334071b42a0b5ddaed6a.html?outputType=amp&utm_source=lootura.com) — 2026-08-05T01:41:38.000Z
-- [El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump](https://okdiario.com/baleares/exjuez-baltasar-garzon-defendera-multimillonario-comunista-pro-hamas-detenido-ibiza-orden-trump-19125416?utm_source=lootura.com) — 2026-08-05T02:00:14.000Z
-- [La NASA realizará experimentos desde aviones y globos en España e Islandia durante el eclipse](https://theobjective.com/sociedad/ciencia/2026-08-04/nasa-espana-islandia-eclipse-experimento/?utm_source=lootura.com) — 2026-08-04T18:26:18.000Z

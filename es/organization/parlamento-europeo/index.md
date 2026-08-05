@@ -28,4 +28,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Junts acaba con ocho años de aislamiento europeo y se integra en el Partido Demócrata para acceder al grupo liberal de la Eurocámara Renew Europe](https://www.elmundo.es/cataluna/2026/08/04/6a71c5d0e4d4d810078b4576.html?utm_source=lootura.com) — 2026-08-04T13:23:55.000Z
+No public source links.

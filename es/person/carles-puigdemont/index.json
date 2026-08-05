@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T10:35:48.254Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "El sector crítico de Junts queda desarbolado tras la marcha de Giró",
+      "summary": "La oposición a Carles Puigdemont en el seno de Junts siempre ha intentado mostrar más fuerza que la que tenía en la realidad. Pero la marcha de Jaume Giró ha puesto en evidencia la situación: los sectores contrarios a Puigdemont pueden vender soluciones teóricas, pero en la práctica están desarbolados, desarticulados y.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont",
       "summary": "Quien fuera el gran fichaje económico del independentismo, el exdirector general de la Fundación Bancaria La Caixa, Jaume Giró , se ha dado de baja de Junts a causa de su largo enfrentamiento con Carles Puigdemont y a sus diferencias estratégicas de la senda que ha de seguir el partido. Puigdemont y la actual dirección.",
@@ -62,13 +67,15 @@
       "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
       "summary": "El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: \"Cuánta miseria y frivolidad\"",
-      "summary": "El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . \"Cuánta miseria y frivolidad\", ha escrito Tu.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El sector crítico de Junts queda desarbolado tras la marcha de Giró",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-05/marcha-giro-junts-oposicion-puigdemont-desarbolada_4401040/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

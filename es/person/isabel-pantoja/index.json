@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.json",
   "description": "Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [
     "Isabel Pantoja Martín",
     "La Pantoja",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»",
-      "summary": "Mientras todas las miradas estaban puestas en Isabel Pantoja por su 70 cumpleaños, Isa Pantoja ha decidido dirigir la atención hacia otro asunto completamente distinto. En una jornada en la que muchos esperaban algún gesto público hacia la tonadillera, la colaboradora ha sorprendido compartiendo un mensaje sobre la cri.",
-      "date": "2026-08-02"
+      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "summary": "Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.",
+      "date": "2026-08-05"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Isabel Pantoja first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Isa Pantoja omite el cumpleaños de su madre y se graba un vídeo sobre Ceuta: «Me da mucha pena»",
+      "summary": "Mientras todas las miradas estaban puestas en Isabel Pantoja por su 70 cumpleaños, Isa Pantoja ha decidido dirigir la atención hacia otro asunto completamente distinto. En una jornada en la que muchos esperaban algún gesto público hacia la tonadillera, la colaboradora ha sorprendido compartiendo un mensaje sobre la cri.",
       "date": "2026-08-02"
     },
     {
@@ -32,6 +37,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:45:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

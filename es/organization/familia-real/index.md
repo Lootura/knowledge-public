@@ -58,6 +58,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Letizia no defrauda en la tradicional recepción en Marivent con su estilo ‘made in Palma’: brilla con un vestido de rayas semitransparente](https://theobjective.com/gente/2026-08-04/letizia-tradicional-recepcion-marivent-estilo-made-in-palma/?utm_source=lootura.com) — 2026-08-04T19:33:05.000Z
-- [Leonor y Sofía hacen ‘match’ en estilo en la recepción de Marivent: deslumbran con dos conjuntos ‘tie-dye’ con cambio de look incluido](https://theobjective.com/gente/2026-08-04/leonor-deslumbra-recepcion-sofia-estilo-boho/?utm_source=lootura.com) — 2026-08-04T19:23:06.000Z
-- [La reina Sofía cumple con su amor por Marivent y se une a la Familia Real en el saludo a las autoridades del brazo de sus dos nietas](https://theobjective.com/gente/2026-08-04/reina-sofia-amor-marivent-familia-real-saludo-autoridades/?utm_source=lootura.com) — 2026-08-04T19:35:50.000Z
+No public source links.

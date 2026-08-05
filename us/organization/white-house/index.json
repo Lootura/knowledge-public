@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -71,21 +71,9 @@
   ],
   "sources": [
     {
-      "title": "Top AI company executives to meet with White House officials, according to reports",
-      "url": "https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:14:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:37:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "What’s missing from the White House plan for the future of US science",
       "url": "https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T02:13:27.392Z",
+      "publishedAt": "2026-08-05T06:25:58.378Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -95,5 +83,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Senate Judiciary Committee advances Blanche's nomination for attorney general
+
+The Senate Judiciary Committee voted along party lines to advance Todd Blanche's nomination for attorney general.
+
+Date: 2026-08-05
 
 ### Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General
 
@@ -62,12 +68,7 @@ GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announ
 
 Date: 2026-08-03
 
-### Todd Blanche's nomination back on track after GOP deal
-
-Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.
-
-Date: 2026-08-03
-
 ## Sources
 
+- [Senate Judiciary Committee advances Blanche's nomination for attorney general](https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/?utm_source=lootura.com) — 2026-08-05T03:06:35.000Z
 - [Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General](https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com) — 2026-08-04T23:15:22.000Z

@@ -3,16 +3,10 @@
 > Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-grande
 
 ## Cambios recientes
-
-### Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta
-
-Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.
-
-Date: 2026-08-04
 
 ### Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”
 
@@ -23,6 +17,12 @@ Date: 2026-08-04
 ### Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero "no cerró la puerta"
 
 El ministro del Interior, Fernando Grande-Marlaska, lleva desde el pasado viernes tratando de poner el foco sobre los servicios de inteligencia españoles en la búsqueda de...
+
+Date: 2026-08-04
+
+### Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta
+
+Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.
 
 Date: 2026-08-04
 
@@ -72,4 +72,3 @@ Date: 2026-08-04
 
 - [Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero "no cerró la puerta"](https://amp.elmundo.es/espana/2026/08/04/6a7244affc6c83397d8b4585.html?utm_source=lootura.com) — 2026-08-04T20:43:37.000Z
 - [Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”](https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com) — 2026-08-04T17:44:04.000Z
-- [Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta](https://elpais.com/espana/2026-08-04/marlaska-insiste-en-que-el-cni-no-alerto-de-una-llegada-masiva-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:39:56.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open
+
+El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en "proceso de recuperación" por la lesión que.
+
+Date: 2026-08-05
+
+### Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»
+
+Nacho Aragón ha conseguido gestionar varios negocios. El hijo pequeño del empresario Emilio Aragón no solamente tiene su propia marca de ropa sino que, también, abrió un bar y una casa de comidas que cuentan con una gran reputación en la capital. Y no solamente. Hace unos años, junto a un grupo de socios, decidieron ab.
+
+Date: 2026-08-05
+
+### Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita
+
+Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.
+
+Date: 2026-08-05
 
 ### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
 
@@ -50,25 +68,8 @@ Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones ini
 
 Date: 2026-08-04
 
-### El Boeing 737 MAX 7 «ya» puede entrar en servicio en los Estados Unidos diez años después de que volara su primer prototipo
-
-Impresión artística de un MAX 7 de Southwest Airlines en vuelo – Boeing La Administración Federal de Aviación (FAA) de los Estados Unidos acaba de aprobar su certificado de tipo, lo que quiere decir que el Boeing 737 MAX 7 ya puede entrar en servicio en los Estados Unidos . Esto sucederá a principios de 2027 con Southw.
-
-Date: 2026-08-04
-
-### La mitad de estados de EEUU demandan a la Administración por los aranceles globales
-
-La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.
-
-Date: 2026-08-04
-
-### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
-
-Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z
-- [Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta](https://www.larazon.es/espana/prominente-familia-politica-florida-ofensiva-marroqui-ceuta_202608056a72334071b42a0b5ddaed6a.html?outputType=amp&utm_source=lootura.com) — 2026-08-05T01:41:38.000Z
+- [Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open](https://www.20minutos.es/deportes/carlos-alcaraz-tampoco-jugara-masters-1000-cincinnati-debido-su-lesion_7022677_0.html?utm_source=lootura.com) — 2026-08-05T05:37:50.000Z
+- [Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»](https://theobjective.com/gente/2026-08-05/estudios-nacho-hijo-emilio-aragon-estados-unidos-decision/?utm_source=lootura.com) — 2026-08-05T05:30:00.000Z
+- [Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita](https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com) — 2026-08-05T06:00:28.000Z

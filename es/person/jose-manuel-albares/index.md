@@ -3,20 +3,26 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
 
-### Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni
+### Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos
 
-El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.
+En abril de 2025, el ministro de Exteriores José Manuel Albares , en una reunión en Madrid con su homólogo marroquí, defendió que las relaciones entre España y Marruecos atravesaban su "mejor momento histórico" . Meses después, una reunión de alto nivel entre ambos países culminaba el deshielo entre Madrid y Rabat, ini.
 
-Date: 2026-08-03
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
 José Manuel Albares first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-03
+
+### Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni
+
+El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.
 
 Date: 2026-08-03
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos](https://www.20minutos.es/internacional/caso-ghali-crisis-ceuta-cinco-anos-luces-sombras-relacion-entre-espana-marruecos_7022472_0.html?utm_source=lootura.com) — 2026-08-05T05:09:29.000Z

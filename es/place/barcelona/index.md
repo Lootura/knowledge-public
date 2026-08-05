@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Ofensiva contra el aumento de la venta y consumo de droga en Barcelona](https://www.lavanguardia.com/local/barcelona/20260805/11607911/ofensiva-aumento-venta-consumo-droga-barcelona.html?utm_source=lootura.com) — 2026-08-04T22:05:00.000Z
+No public source links.

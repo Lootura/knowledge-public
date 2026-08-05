@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Ceuta asaltada y Sánchez no hace nada
+
+Hemos visto cómo más de 60.000 personas, en su inmensa mayoría marroquíes varones en edad militar, saltaron por mar la frontera de Ceuta . La foto ha sido portada de muchos medios internacionales, entre ellos de Le Figaro . Como dice el general Dávila, esto es una operación militar perfectamente organizada. «No creo qu.
+
+Date: 2026-08-05
+
+### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
+
+Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.
+
+Date: 2026-08-04
 
 ### Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez
 
@@ -23,12 +35,6 @@ Date: 2026-08-04
 ### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
 
 The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.
-
-Date: 2026-08-04
-
-### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
-
-Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.
 
 Date: 2026-08-04
 
@@ -62,13 +68,7 @@ La grave crisis migratoria que sufre España está siendo seguida muy de cerca p
 
 Date: 2026-08-04
 
-### Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”
-
-La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez](https://www.abc.es/espana/jupol-asegura-primeros-antidisturbios-llegados-ceuta-escoltar-20260804015910-nt.html?utm_source=lootura.com) — 2026-08-04T23:59:10.000Z
-- [DJ Pedro Sánchez](https://www.lavanguardia.com/opinion/20260805/11607616/dj-pedro-sanchez.html?utm_source=lootura.com) — 2026-08-04T22:30:00.000Z
+- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T22:31:25.000Z
+- [Ceuta asaltada y Sánchez no hace nada](https://theobjective.com/elsubjetivo/opinion/2026-08-05/ceuta-asaltada-sanchez-nada-articulo-esperanza-aguirre/?utm_source=lootura.com) — 2026-08-05T03:25:00.000Z

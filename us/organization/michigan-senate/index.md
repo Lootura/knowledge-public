@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [El-Sayed holds narrow lead in Michigan Senate primary but race too close to call](https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election?utm_source=lootura.com) — 2026-08-05T05:06:45.000Z

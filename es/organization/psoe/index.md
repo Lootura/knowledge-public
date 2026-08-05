@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -16,7 +16,7 @@ Date: 2026-08-05
 
 ### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
 
-Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.
+Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.
 
 Date: 2026-08-04
 
@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»](https://okdiario.com/baleares/ridiculo-del-lider-del-psoe-palma-cambio-climatico-puede-freir-huevo-tobogan-19124093?utm_source=lootura.com) — 2026-08-05T02:00:12.000Z
+- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T22:31:25.000Z

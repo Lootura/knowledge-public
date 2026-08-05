@@ -70,6 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta](https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T11:22:18.000Z
-- [El Gobierno de Ayuso compró el ático de Chamberí por 6,3 millones de euros](https://www.eldiario.es/madrid/gobierno-ayuso-compro-atico-chamberi-6-3-millones-euros_1_13428752.html?utm_source=lootura.com) — 2026-08-04T21:32:08.000Z
-- [En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos](https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com) — 2026-08-04T17:55:00.000Z
+No public source links.

@@ -40,4 +40,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Ukraine hits Russia with deadly strike near busy beach, officials say](https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/?utm_source=lootura.com) — 2026-08-04T17:09:00.000Z
+No public source links.

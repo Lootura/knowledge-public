@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El poder de la Guardia Mora",
+      "summary": "En 1978, a nuestro regreso de un viaje a China acompañando al rey Juan Carlos , el entonces ministro de Asuntos Exteriores, Marcelino Oreja, me comentó que se estaba trabajando en un proyecto respecto al futuro de Melilla. Me explicó al respecto que existía la posibilidad de llegar a un acuerdo con Marruecos para organ.",
+      "date": "2026-08-05"
+    },
     {
       "title": "China reescribe 3.000 millones de años de historia de bombardeos lunares",
       "summary": "Las primeras rocas recogidas en la cara oculta de la Luna están obligando a revisar una parte importante de la historia del sistema solar. Un equipo internacional ha estudiado pequeñas muestras traídas por la misión china Chang’e-6 y reconstruido impactos ocurridos durante un periodo de más de 3.000 millones de años .",
@@ -55,13 +60,15 @@
       "title": "El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos",
       "summary": "El embajador de China en España, Yao Jing, visitó el 22 de julio en Madrid el taller de los pintores chinos Rao Jinzhong y Du Miao para conocer la actualidad del intercambio en el sector de arte pictórico entre los dos países. El embajador elogió la contribución de los dos artistas residentes en España al intercambio c.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
-      "summary": "Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El poder de la Guardia Mora",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-05/poder-guardia-mora-articulo-juan-luis-cebrian/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

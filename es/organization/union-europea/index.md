@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
+
+La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores y la coordinación entre España, Marruecos y la Unión Europea. Aunque la presión en la frontera se ha reducido respecto a los primeros días, las autoridades manti.
+
+Date: 2026-08-05
 
 ### Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta
 
@@ -62,12 +68,6 @@ Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la
 
 Date: 2026-08-03
 
-### Junts se une al Partido Demócrata Europeo para reforzar su «proyección internacional»
-
-Junts per Catalunya se ha incorporado oficialmente al Partido Demócrata Europeo (PDE) con el objetivo de reforzar su « proyección internacional y su capacidad de incidencia en los debates que marcarán el futuro de la Unión Europea ». Así lo han anunciado este lunes en un comunicado, en el que el partido independentista.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta](https://elpais.com/espana/2026-08-04/marlaska-insiste-en-que-el-cni-no-alerto-de-una-llegada-masiva-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:39:56.000Z
+- [Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera](https://www.larazon.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-continua-presion-politica-mientras-siguen-labores-gestion-frontera_202608056a72c5b5a5690f047366e205.html?utm_source=lootura.com) — 2026-08-05T06:13:16.000Z

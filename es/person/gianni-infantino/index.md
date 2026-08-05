@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [¿Hay alternativas a Gianni Infantino para la presidencia de la FIFA?](https://www.larazon.es/deportes/hay-alternativas-gianni-infantino-presidencia-fifa_202608056a729402a046ad6ebc9d91ab.html?utm_source=lootura.com) — 2026-08-05T01:38:10.000Z
+No public source links.

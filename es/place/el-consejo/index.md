@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos](https://www.lavanguardia.com/politica/20260805/11607889/ue-rebaja-tension-italia-propone-bruselas-lidere-relacion-marruecos.html?utm_source=lootura.com) — 2026-08-04T22:05:00.000Z
+No public source links.

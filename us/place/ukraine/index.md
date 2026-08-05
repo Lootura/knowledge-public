@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities
+
+Air raid alerts last for more than an hour as Moscow inflicts another heavy bombardment on Ukraine’s capital Russian strikes in and around Kyiv killed at least 14 people, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15. Air raid alerts lasted for more than a.
+
+Date: 2026-08-05
 
 ### Ukraine hits Russia with deadly strike near busy beach, officials say
 
@@ -62,12 +68,7 @@ In our news wrap Monday, health officials in Michigan reported the first deaths 
 
 Date: 2026-08-03
 
-### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
-
-Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Ukraine hits Russia with deadly strike near busy beach, officials say](https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/?utm_source=lootura.com) — 2026-08-04T17:09:00.000Z
+- [Russia and Ukraine trade drone attacks with 5 people killed in each country](https://www.pbs.org/newshour/world/russia-and-ukraine-trade-drone-attacks-with-5-people-killed-in-each-country?utm_source=lootura.com) — 2026-08-04T20:39:41.000Z
+- [Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities](https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities?utm_source=lootura.com) — 2026-08-05T05:53:38.000Z

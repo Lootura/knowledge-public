@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [“Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta](https://elpais.com/espana/2026-08-04/esto-no-es-torre-pacheco-la-estrategia-fallida-de-la-ultraderecha-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T12:19:42.000Z
+No public source links.

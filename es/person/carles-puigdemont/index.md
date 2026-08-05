@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### El sector crítico de Junts queda desarbolado tras la marcha de Giró
+
+La oposición a Carles Puigdemont en el seno de Junts siempre ha intentado mostrar más fuerza que la que tenía en la realidad. Pero la marcha de Jaume Giró ha puesto en evidencia la situación: los sectores contrarios a Puigdemont pueden vender soluciones teóricas, pero en la práctica están desarbolados, desarticulados y.
+
+Date: 2026-08-05
 
 ### Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont
 
@@ -62,12 +68,6 @@ El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerr
 
 Date: 2026-07-19
 
-### Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"
-
-El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . "Cuánta miseria y frivolidad", ha escrito Tu.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [El sector crítico de Junts queda desarbolado tras la marcha de Giró](https://www.elconfidencial.com/espana/cataluna/2026-08-05/marcha-giro-junts-oposicion-puigdemont-desarbolada_4401040/?utm_source=lootura.com) — 2026-08-05T03:00:00.000Z

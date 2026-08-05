@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Ceuta asaltada y Sánchez no hace nada",
+      "summary": "Hemos visto cómo más de 60.000 personas, en su inmensa mayoría marroquíes varones en edad militar, saltaron por mar la frontera de Ceuta . La foto ha sido portada de muchos medios internacionales, entre ellos de Le Figaro . Como dice el general Dávila, esto es una operación militar perfectamente organizada. «No creo qu.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
+      "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
       "summary": "«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no fueron a colaborar en el operativo montado en plena crisis m.",
@@ -30,11 +40,6 @@
     {
       "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
       "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
-      "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.",
       "date": "2026-08-04"
     },
     {
@@ -61,25 +66,20 @@
       "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
       "summary": "La grave crisis migratoria que sufre España está siendo seguida muy de cerca por los principales medios europeos por la gravedad de los hechos y, por supuesto, porque es una...",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”",
-      "summary": "La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
-      "url": "https://www.abc.es/espana/jupol-asegura-primeros-antidisturbios-llegados-ceuta-escoltar-20260804015910-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T23:59:10.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
+      "url": "https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:31:25.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "DJ Pedro Sánchez",
-      "url": "https://www.lavanguardia.com/opinion/20260805/11607616/dj-pedro-sanchez.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T22:30:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Ceuta asaltada y Sánchez no hace nada",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-05/ceuta-asaltada-sanchez-nada-articulo-esperanza-aguirre/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

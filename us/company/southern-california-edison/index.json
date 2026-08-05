@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/southern-california-edison/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/southern-california-edison/index.json",
   "description": "Follow Southern California Edison, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "SCE",
     "SCE Corp",
     "Southern California Edison Company"
   ],
   "changes": [
+    {
+      "title": "Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds",
+      "summary": "The department said an 18-month investigation concluded that electrical arcing on an out-of-service Southern California Edison tower was responsible.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Officials Say They’ve Found the Cause of a Fire That Devastated L.A.",
       "summary": "The 2025 Eaton fire, which killed 19 people and destroyed the Altadena community, began at an inactive tower belonging to Southern California Edison, officials said.",
@@ -28,10 +33,10 @@
   ],
   "sources": [
     {
-      "title": "Southern California Edison equipment blamed for 2025 Eaton fire in Los Angeles",
-      "url": "https://www.pbs.org/newshour/nation/southern-california-edison-equipment-blamed-for-2025-eaton-fire-in-los-angeles?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T18:24:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds",
+      "url": "https://www.cbsnews.com/news/california-eaton-fire-report-socal-edison-electric-tower/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T02:16:35.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Officials Say They’ve Found the Cause of a Fire That Devastated L.A.",

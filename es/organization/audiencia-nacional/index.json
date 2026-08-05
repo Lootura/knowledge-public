@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T06:25:29.823Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "summary": "Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump",
       "summary": "El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario estadounidense James ‘Fergie’ Cox Chambers Jr. , heredero de Cox Enterprises , en el procedimiento de extradición que tramita la Audiencia Nacional tras su detención el pasado mes de julio en Ibiza por una orden internacional emitida por Estado.",
@@ -65,19 +70,14 @@
       "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
       "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas",
-      "summary": "La presidenta de la Comisión Europea califica de gestión \"eficiente\" que ambos países \"impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa\" e insiste en dar una \"respuesta común\" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump",
-      "url": "https://okdiario.com/baleares/exjuez-baltasar-garzon-defendera-multimillonario-comunista-pro-hamas-detenido-ibiza-orden-trump-19125416?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T02:00:14.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:45:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 1

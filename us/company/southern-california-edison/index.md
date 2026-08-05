@@ -3,10 +3,16 @@
 > Follow Southern California Edison, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/company/southern-california-edison
 
 ## Recent changes
+
+### Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds
+
+The department said an 18-month investigation concluded that electrical arcing on an out-of-service Southern California Edison tower was responsible.
+
+Date: 2026-08-05
 
 ### Officials Say They’ve Found the Cause of a Fire That Devastated L.A.
 
@@ -22,5 +28,5 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Southern California Edison equipment blamed for 2025 Eaton fire in Los Angeles](https://www.pbs.org/newshour/nation/southern-california-edison-equipment-blamed-for-2025-eaton-fire-in-los-angeles?utm_source=lootura.com) — 2026-08-04T18:24:14.000Z
+- [Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds](https://www.cbsnews.com/news/california-eaton-fire-report-socal-edison-electric-tower/?utm_source=lootura.com) — 2026-08-05T02:16:35.000Z
 - [Officials Say They’ve Found the Cause of a Fire That Devastated L.A.](https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html?utm_source=lootura.com) — 2026-08-04T23:07:39.000Z

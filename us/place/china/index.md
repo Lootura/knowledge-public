@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time
+
+Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.
+
+Date: 2026-08-05
 
 ### Top U.S. admiral says no nation will dominate Indo-Pacific
 
@@ -62,12 +68,6 @@ Despite criticisms of a brain drain from China to the U.S., the awards come at a
 
 Date: 2026-07-23
 
-### Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit
-
-Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time](https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html?utm_source=lootura.com) — 2026-08-05T04:00:04.000Z

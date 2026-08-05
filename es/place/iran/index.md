@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex busca apuntalar los 20.000 puntos
+
+Los mercados no desentonan, pese al correctivo que sufre SpaceX tras publicar resultados. Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, también en un Ibex que trata de afianzar los 20.000 puntos conquistados ayer por primera vez.
+
+Date: 2026-08-05
+
+### Ofensiva legislativa en EE.UU. para que el Frente Polisario sea designado organización terrorista
+
+El Congreso estadounidense recibe una propuesta de ley bipartidista en la que se insta a investigar el supuesto vínculo del grupo saharaui con Irán.
+
+Date: 2026-08-05
 
 ### El Ibex conquista los 20.000 puntos animado por la caída del petróleo
 
@@ -56,18 +68,8 @@ El presidente estadounidense arremete contra el régimen iraní después de que 
 
 Date: 2026-08-03
 
-### El Ibex renueva sus máximos históricos cerca de los 20.000 puntos
-
-La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo y ha acelerado las compras en Bolsa. La tensión en el mercado de divisas no ha evitado un predominio alcista en índices como el Ibex, que ha cerrado en los 19.982 puntos tras subir un 1,01%.
-
-Date: 2026-08-03
-
-### Trump dice que Ormuz podría abrirse "mañana mismo"
-
-El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán](https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com) — 2026-08-04T20:42:44.000Z
+- [El Ibex busca apuntalar los 20.000 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T06:11:55.000Z
+- [Ofensiva legislativa en EE.UU. para que el Frente Polisario sea designado organización terrorista](https://www.lavanguardia.com/internacional/20260805/11607830/ofensiva-legislativa-ee-uu-frente-polisario-sea-designado-organizacion-terrorista.html?utm_source=lootura.com) — 2026-08-05T04:00:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Ibex conquista por primera vez los 20.000 puntos con unas Bolsas en nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-04T20:06:05.000Z
+No public source links.

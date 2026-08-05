@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-05T06:25:54.118Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,15 +20,15 @@ A report from Senate Democrats accuses big banks of failing to report suspicious
 
 Date: 2026-08-04
 
-### What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?
-
-Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.
-
-Date: 2026-08-04
-
 ### Trump takes trip to West Coast to tout the economy, something polls show he's weak on
 
 President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.
+
+Date: 2026-08-04
+
+### What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?
+
+Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.
 
 Date: 2026-08-04
 
@@ -70,8 +70,6 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Michigan Democrats choose between Abdul El-Sayed and Haley Stevens, and more races to watch today](https://www.cbsnews.com/news/primaries-michigan-senate-abdul-el-sayed-haley-stevens-virginia-missouri-washington/?utm_source=lootura.com) — 2026-08-05T01:52:00.000Z
 - [Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com) — 2026-08-04T17:43:06.000Z
 - [Trump takes trip to West Coast to tout the economy, something polls show he's weak on](https://www.pbs.org/newshour/politics/trump-takes-trip-to-west-coast-to-tout-the-economy-something-polls-show-hes-weak-on?utm_source=lootura.com) — 2026-08-04T18:56:36.000Z
 - [Pastor Adam Hamilton Wins Kansas Democratic Senate Primary](https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html?utm_source=lootura.com) — 2026-08-05T01:02:45.000Z
-- [What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?](https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html?utm_source=lootura.com) — 2026-08-04T14:33:14.000Z

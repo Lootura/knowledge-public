@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T06:25:29.823Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»
+
+Abre la palma de su mano y deja al descubierto sus cinco dedos. Son los años que tiene uno de los pequeños que pasa el rato jugando al fútbol en el polígono de El Tarajal . Cruzó la frontera a nado junto a su madre y, desde entonces, permanecen refugiados en el lugar en ausencia de respuestas u otra posibilidad mejor.
+
+Date: 2026-08-05
 
 ### Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»
 
@@ -62,12 +68,6 @@ El Tarajal first entered the public knowledge record with source-backed evidence
 
 Date: 2026-07-31
 
-### "A Marruecos se le fue de las manos": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat
-
-El paso a nado por el cruce de El Tarajal era un goteo constante de personas desde que comenzó el verano. Ocho, nueve o 10 individuos llegaban a diario a la costa ceutí, algo a...
-
-Date: 2026-07-31
-
 ## Fuentes
 
-- [Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»](https://www.abc.es/espana/menores-condiciones-insalubres-raso-poligono-tarajal-morimos-20260805015828-nt.html?utm_source=lootura.com) — 2026-08-04T23:59:19.000Z
+- [Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»](https://www.abc.es/espana/menores-condiciones-insalubres-raso-poligono-tarajal-morimos-20260805015828-nt.html?utm_source=lootura.com) — 2026-08-05T05:56:02.000Z

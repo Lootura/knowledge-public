@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -50,13 +50,18 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
-      "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
-      "date": "2026-08-04"
+      "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+      "summary": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
+      "date": "2026-08-05"
     },
     {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
+      "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
       "date": "2026-08-04"
     },
     {
@@ -75,13 +80,8 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
-      "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
+      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
+      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
       "date": "2026-08-04"
     }
   ],
@@ -93,15 +93,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:37:42.000Z",
+      "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+      "url": "https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:37:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "What’s missing from the White House plan for the future of US science",
       "url": "https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T02:13:27.392Z",
+      "publishedAt": "2026-08-05T06:25:58.378Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -125,7 +125,7 @@
     {
       "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T22:36:44.000Z",
+      "publishedAt": "2026-08-05T05:03:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-05T06:25:54.118Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,6 +35,31 @@
       "date": "2026-08-05"
     },
     {
+      "title": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington's 3rd District primary",
+      "summary": "Democratic Rep. Marie Gluesenkamp Perez and Republican state Sen. John Braun will advance to a general election in Washington's 3rd District, one of the most hotly contested House contests of this year, CBS News projects.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+      "summary": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+      "summary": "Trump-endorsed Rick Brattin won the GOP primary for Missouri's 5th Congressional District, CBS News projects, setting up a battle against an 11-term Democrat in a district that was made far more GOP-leaning.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
+      "summary": "Rep. John James has won Michigan’s Republican nomination for governor, NBC News projects.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
       "summary": "NBC News projects that Masterson, the state Senate president, emerged from the primary in a contest that represents a top pickup opportunity for the GOP this fall.",
       "date": "2026-08-05"
@@ -48,34 +73,15 @@
       "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
       "summary": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country. (Image credit: Claire Harbage/NPR).",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
-      "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump's arch could disrupt the significance of many of Washington's historical sites, National Park Service says",
-      "summary": "The report says the arch would break alignment between the Lincoln Memorial, Memorial Bridge and Arlington House, formerly Confederate Gen. Robert E. Lee's home.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
-      "summary": "The funds have been frozen since early in President Trump’s second term.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio",
-      "summary": "Republicans hoped a shove from President Trump would persuade the embattled congressman to drop his re-election bid in the face of abuse allegations.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
+    {
+      "title": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington's 3rd District primary",
+      "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T05:02:45.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
       "url": "https://www.cbsnews.com/news/brazil-ambassador-us-visa-revoked/?utm_source=lootura.com",
@@ -83,9 +89,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:37:42.000Z",
+      "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+      "url": "https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:37:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+      "url": "https://www.cbsnews.com/news/missouri-5-gop-primary-rick-brattin-emanuel-cleaver-redistricting-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T03:57:09.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -95,15 +107,15 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
-      "url": "https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:38:00.000Z",
+      "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-john-james-wins-michigans-gop-primary-governor-rcna590045?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T02:13:09.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
-      "url": "https://www.nbcnews.com/politics/2026-election/kansas-governor-masterson-trump-holscher-corson-republican-democrat-rcna590030?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:00:31.000Z",
+      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+      "url": "https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:38:00.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -123,19 +135,7 @@
       "url": "https://www.pbs.org/newshour/nation/trumps-arch-could-disrupt-the-significance-of-many-of-washingtons-historical-sites-national-park-service-says?utm_source=lootura.com",
       "publishedAt": "2026-08-04T20:50:38.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T22:36:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:20:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 17
 }
