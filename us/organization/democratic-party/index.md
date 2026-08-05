@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-05
 ### Progressives didn’t get the big election night they wanted
 
 Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.
+
+Date: 2026-08-05
+
+### Thanedar becomes latest incumbent to fall to a progressive challenger
+
+Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.
 
 Date: 2026-08-05
 
@@ -62,15 +68,9 @@ Michigan will offer the country its clearest gauge yet on the direction of the D
 
 Date: 2026-08-04
 
-### Democrats Face Big Test in Critical Michigan Primary
-
-It is primary day in a handful of states and voters are heading to the polls with key races up for grabs that could signal which direction the parties are headed before the November midterms. One of the most closely watched contests is taking place in Michigan, which has become the Democrat’s most expensive Senate prim.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com) — 2026-08-04T17:43:06.000Z
 - [Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
 - [Progressives didn’t get the big election night they wanted](https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com) — 2026-08-05T07:41:18.000Z
+- [Thanedar becomes latest incumbent to fall to a progressive challenger](https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com) — 2026-08-05T13:59:50.000Z
 - [Pastor Adam Hamilton Wins Kansas Democratic Senate Primary](https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html?utm_source=lootura.com) — 2026-08-05T01:02:45.000Z

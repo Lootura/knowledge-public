@@ -3,20 +3,26 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### Consulta los servicios de Lurraldebus para la Semana Grande de Donostia
+### La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia
 
-Además de los servicios habituales y de los refuerzos para la entrada y salida de los fuegos artificiales, se realizarán servicios nocturnos especiales.
+Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.
 
-Date: 2026-08-04
+Date: 2026-08-05
 
 ### Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián
 
 La zona del espigón, a la altura del Kursaal, es la única en la que se permite el baño en Donostia, mientras que en arenales como los de Getaria y Zarautz se mantienen los avisos por la llegada de ejemplares de mayor dimensión.
+
+Date: 2026-08-04
+
+### Consulta los servicios de Lurraldebus para la Semana Grande de Donostia
+
+Además de los servicios habituales y de los refuerzos para la entrada y salida de los fuegos artificiales, se realizarán servicios nocturnos especiales.
 
 Date: 2026-08-04
 
@@ -62,13 +68,7 @@ El belga se impone a Richard Carapaz al sprint en el Boulevard después de recup
 
 Date: 2026-08-01
 
-### 'Dulce locura' de La Oreja de Van Gogh en San Sebastián
-
-Convirtió Illunbe en la fiesta que prometía con sus fans y amigos más cercanos coreando cada canción.
-
-Date: 2026-07-31
-
 ## Fuentes
 
 - [Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián](https://www.diariovasco.com/gipuzkoa/carabelas-portuguesas-ganan-tamano-playas-guipuzcoanas-acotan-20260804170940-nt_amp.html?utm_source=lootura.com) — 2026-08-04T15:09:40.000Z
-- [Consulta los servicios de Lurraldebus para la Semana Grande de Donostia](https://www.diariovasco.com/san-sebastian/semana-grande/servicios-especiales-lurraldebus-20260804152006-nt_amp.html?utm_source=lootura.com) — 2026-08-04T13:20:35.000Z
+- [La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia](https://www.diariovasco.com/san-sebastian/llegada-masiva-carabelas-portuguesas-deja-centenar-picaduras-playas-20260805154520-nt_amp.html?utm_source=lootura.com) — 2026-08-05T13:45:51.000Z

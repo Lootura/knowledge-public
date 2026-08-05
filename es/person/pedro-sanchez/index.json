@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,11 @@
     {
       "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»",
+      "summary": "La secretaria general de los socialistas valencianos y ministra de Ciencia, Innovación y Tecnología en el Gobierno del socialista Pedro Sánchez, Diana Morant, no ha escatimado en elogios hacia este último a pesar del aluvión de críticas en todo el planeta que ha generado su gestión por la invasión de Ceuta. Diana Moran.",
       "date": "2026-08-05"
     },
     {
@@ -61,19 +66,14 @@
       "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
       "summary": "El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "100 muertos en la playa mientras Sánchez escucha su ‘playlist’",
-      "summary": "Un niño sirio de apenas 3 años yace inmóvil sobre la arena húmeda de una playa turca, con la cara parcialmente hundida en la tierra y el oleaje rozando suavemente su cuerpo. Viste una camiseta roja de manga corta, pantalón azul y zapatillas deportivas. Murió ahogado junto a su madre y su hermano de 5 años cuando intent.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
-      "url": "https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T22:31:25.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»",
+      "url": "https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:48:02.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",

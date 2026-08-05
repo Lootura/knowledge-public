@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -20,12 +20,6 @@ Russian missile and drone strikes on Kyiv and the surrounding region killed at l
 
 Date: 2026-08-05
 
-### Russian missile and drone barrage in Ukrainian capital region kills 17
-
-Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. (Image credit: Dan Bashakov).
-
-Date: 2026-08-05
-
 ### How the Ukraine War Became a Fight for the Skies
 
 Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.
@@ -35,6 +29,12 @@ Date: 2026-08-05
 ### Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses
 
 At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.
+
+Date: 2026-08-05
+
+### Russian missile and drone barrage in Ukrainian capital region kills 17
+
+Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. (Image credit: Dan Bashakov).
 
 Date: 2026-08-05
 
@@ -72,6 +72,5 @@ Date: 2026-08-04
 
 - [Video shows drone attacking a street vendor in Ukraine](https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/?utm_source=lootura.com) — 2026-08-05T08:35:00.000Z
 - [At least 17 people killed after fatal overnight Russian strikes in Ukraine](https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com) — 2026-08-05T08:09:43.000Z
-- [Russian missile and drone barrage in Ukrainian capital region kills 17](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage?utm_source=lootura.com) — 2026-08-05T10:15:44.000Z
-- [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com) — 2026-08-05T08:52:43.000Z
-- [Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses](https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com) — 2026-08-05T07:58:16.000Z
+- [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com) — 2026-08-05T13:10:54.000Z
+- [Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses](https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com) — 2026-08-05T10:41:55.000Z

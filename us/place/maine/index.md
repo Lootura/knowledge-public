@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes

@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas](https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com) — 2026-08-05T06:34:34.000Z
-- [Los intereses de Estados Unidos en Israel en Ceuta](https://elordenmundial.com/intereses-estados-unidos-israel-ceuta/?utm_source=lootura.com) — 2026-08-05T07:10:30.000Z
+- [Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió](https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:59:05.000Z

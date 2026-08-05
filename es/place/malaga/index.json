@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T02:13:46.428Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
+      "summary": "La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga",
       "summary": "La Policía ha detenido a 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga (Málaga) -que en ediciones anteriores se ha celebrado en Almería- por su presunta implicación en delitos contra la salud pública, alteración del orden público y reclamación judicial. El festival, que reunió a miles de a.",
@@ -55,13 +60,15 @@
       "title": "Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música",
       "summary": "Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural con el Museo Picasso, el Centre Pompidou, el Ruso -cuyas obras se retiraron al inicio de la invasión de Ucrania- o el Carmen Thyssen. Ese despliegue, que dio pie a una etiqueta de ciudad de los museos que ya empieza a sonar manida, ha convi.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
-      "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
+      "url": "https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:43:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

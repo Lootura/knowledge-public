@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### State Department revokes visa of Brazil's ambassador to the U.S.
 
 A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.
-
-Date: 2026-08-05
-
-### What’s missing from the White House plan for the future of US science
-
-Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
 
 Date: 2026-08-05
 
@@ -32,12 +26,6 @@ Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Tr
 
 Date: 2026-08-05
 
-### Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages
-
-Guatemala remained on alert Tuesday after evacuating villages during an eruption of the Fuego volcano, one of Central America's most active.
-
-Date: 2026-08-05
-
 ### Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.
 
 The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.
@@ -50,33 +38,45 @@ The state’s conservative Legislature had put the measure on the ballot that wo
 
 Date: 2026-08-05
 
-### What Gives Me Hope About the Future of Public Health in the U.S.
+### U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech
 
-A health worker prepares a dose of the measles vaccine at a health center in Lubbock, Texas, on Feb. 27, 2025. —Ronaldo Schemidt—AFP/Getty Images Periods of disruption have often forced societies to rethink old assumptions, create new institutions, and find novel ways to solve problems. I have been thinking about that.
-
-Date: 2026-08-05
-
-### Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute
-
-The Trump administration revoked the visa of Brazil’s U.S. ambassador Tuesday — the latest jab in a monthslong diplomatic spat between the two countries.
+The U.S. Army's missile stockpile is dwindling and could take years to replenish. And, the Food and Drug Administration is deciding whether to approve a flu vaccine with mRNA technology. (Image credit: Sam Yeh).
 
 Date: 2026-08-05
 
-### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
+### Bird flu decimated South America's marine mammals. What can Australia do differently?
 
-President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
+Australia is now confronting an outbreak of a deadly bird flu strain. As of Monday, the highly pathogenic H5N1 virus had been detected in 78 wild birds across mainland Australia. Until now, there had been no evidence of a large-scale outbreak.
 
-Date: 2026-08-04
+Date: 2026-08-05
+
+### Soilless farming system design can determine microbial growth, impact on crops
+
+Soilless farming—a method of growing plants in a nutrient-rich solution rather than traditional soil—accounts for a significant share of vegetable production, according to the U.S. Department of Agriculture (USDA), with more than half of tomatoes, cucumbers and lettuce grown using hydroponics. This fast-growing segment.
+
+Date: 2026-08-05
+
+### The U.S. Relies on Family Caregivers. Millions of Them Are Kids.
+
+The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.
+
+Date: 2026-08-05
+
+### What’s missing from the White House plan for the future of US science
+
+Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
+
+Date: 2026-08-05
 
 ## Sources
 
+- [Sen. Tammy Baldwin pushes Pentagon to release probe of Iranian attack that killed 6 U.S. troops in Kuwait](https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com) — 2026-08-05T14:00:15.000Z
 - [State Department revokes visa of Brazil's ambassador to the U.S.](https://www.cbsnews.com/news/brazil-ambassador-us-visa-revoked/?utm_source=lootura.com) — 2026-08-05T00:39:19.000Z
 - [John James wins Michigan Republican gubernatorial primary, CBS News projects](https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com) — 2026-08-05T03:37:00.000Z
-- [What’s missing from the White House plan for the future of US science](https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com) — 2026-08-05T06:25:58.378Z
-- [Annie Jacobsen and Geoff Bennett discuss 'Biological War' on 'Settle In'](https://www.pbs.org/newshour/show/annie-jacobsen-and-geoff-bennett-discuss-biological-war-on-settle-in?utm_source=lootura.com) — 2026-08-04T22:20:52.000Z
-- [Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages](https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html?utm_source=lootura.com) — 2026-08-05T06:38:30.000Z
+- [U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech](https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung?utm_source=lootura.com) — 2026-08-05T11:54:57.000Z
+- [Bird flu decimated South America's marine mammals. What can Australia do differently?](https://phys.org/news/2026-08-bird-flu-decimated-south-america.html?utm_source=lootura.com) — 2026-08-05T12:20:02.000Z
+- [Soilless farming system design can determine microbial growth, impact on crops](https://phys.org/news/2026-08-soilless-farming-microbial-growth-impact.html?utm_source=lootura.com) — 2026-08-05T14:00:09.000Z
 - [Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.](https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html?utm_source=lootura.com) — 2026-08-05T01:47:42.000Z
 - [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-05T05:03:29.000Z
-- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z
 - [Missouri Voters Reject Measure to Limit Their Ballot Box Powers](https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html?utm_source=lootura.com) — 2026-08-05T01:17:34.000Z
-- [What Gives Me Hope About the Future of Public Health in the U.S.](https://time.com/article/2026/08/05/future-public-health-cdc-debra-houry-essay/?utm_source=lootura.com) — 2026-08-05T10:00:04.000Z
+- [The U.S. Relies on Family Caregivers. Millions of Them Are Kids.](https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html?utm_source=lootura.com) — 2026-08-05T10:54:29.000Z

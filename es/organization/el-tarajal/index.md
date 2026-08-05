@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000](https://www.lavanguardia.com/politica/20260805/11608206/gobierno-senala-siguen-ceuta-2-500-migrantes-500-menores.html?utm_source=lootura.com) — 2026-08-05T08:29:50.000Z
+No public source links.

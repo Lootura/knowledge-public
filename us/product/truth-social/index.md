@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Paid early access to Trump's posts raises insider trading questions](https://www.pbs.org/newshour/show/paid-early-access-to-trumps-posts-raises-insider-trading-questions?utm_source=lootura.com) — 2026-08-04T22:30:25.000Z
+No public source links.

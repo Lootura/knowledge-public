@@ -34,4 +34,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com) — 2026-08-04T17:43:06.000Z
+No public source links.

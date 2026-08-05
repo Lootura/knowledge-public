@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas
+
+La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la retahíla de celebraciones populares que tienen lugar en el País Vasco desde hoy hasta el próximo mes de septiembre. Como cada verano, el multitudinario evento en la capital alavesa se convirtió en un escenario donde la izquierda aberzale y o.
+
+Date: 2026-08-05
+
+### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
+
+La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
+
+Date: 2026-08-05
 
 ### Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa
 
@@ -56,18 +68,7 @@ Date: 2026-08-02
 
 Date: 2026-08-01
 
-### El motivo por el que País Vasco no envió medios aéreos a Madrid y Ávila
-
-Euskadi no enviará medios aéreos para colaborar en la extinción de los incendios forestales que afectan a la Comunidad de Madrid y a la provincia de Ávila . El Gobierno vasco ha rechazado la solicitud de apoyo recibida a través del sistema estatal de coordinación de emergencias al considerar que necesita mantener opera.
-
-Date: 2026-07-25
-
-### Las carabelas portuguesas pican a 62 personas en Bizkaia en 20 días, con las playas de Sopela como las más afectadas
-
-El pasado sábado y el lunes fueron las jornadas más críticas ya que estos organismos causaron 13 lesionados en toda Euskadi.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas](https://www.abc.es/espana/pais-vasco/guerra-pancartas-vuelve-pais-vasco-bildu-colectivos-20260805120119-nt.html?utm_source=lootura.com) — 2026-08-05T12:20:08.000Z
+- [Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»](https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com) — 2026-08-05T11:06:19.000Z

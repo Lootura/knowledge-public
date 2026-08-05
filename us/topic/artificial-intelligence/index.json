@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "AI",
     "AI science",
@@ -102,13 +102,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded?utm_source=lootura.com",
       "publishedAt": "2026-08-05T10:29:47.000Z",
       "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Can AI Free Women from the Mental Load of Caregiving?",
-      "url": "https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:00:03.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

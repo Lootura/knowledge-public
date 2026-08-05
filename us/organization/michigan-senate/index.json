@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.json",
   "description": "Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El-Sayed campaign says Stevens has called to concede in Michigan Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/el-sayed-campaign-says-stevens-has-called-to-concede-in-michigan-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:58:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

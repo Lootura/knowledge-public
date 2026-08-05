@@ -3,20 +3,20 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
-
-Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
-
-Date: 2026-08-05
-
 ### El Ibex afianza los 20.000 y explora nuevos récords
 
 Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.
+
+Date: 2026-08-05
+
+### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
+
+Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
 
 Date: 2026-08-05
 
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán](https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com) — 2026-08-05T08:06:49.000Z
-- [El Ibex afianza los 20.000 y explora nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T10:27:18.000Z
+- [El Ibex afianza los 20.000 y explora nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T12:30:27.000Z

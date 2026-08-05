@@ -1,0 +1,48 @@
+{
+  "id": "es-georgina-rodriguez",
+  "name": "Georgina Rodríguez",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/georgina-rodriguez",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/georgina-rodriguez",
+  "markdownUrl": "https://atlas.lootura.com/es/person/georgina-rodriguez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/georgina-rodriguez/index.json",
+  "description": "Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "aliases": [
+    "Georgina Luisa Rodríguez Hernández",
+    "Gio"
+  ],
+  "changes": [
+    {
+      "title": "Georgina responde a las críticas sobre su físico: «Nunca ha sido una lucha por adelgazar»",
+      "summary": "Las redes sociales no dejan de convertirse en un escenario sobre los cánones de belleza y la presión estética . En esta ocasión, la protagonista ha sido Georgina Rodríguez, que ha decidido romper su silencio tras recibir varios comentarios sobre su aspecto físico durante los últimos días.En vez de ignorar la polémica,.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Las redes se ‘ceban’ con el físico de Georgina y ella responde tajante: «¿De verdad seguimos pensando que la felicidad tiene una talla?»",
+      "summary": "Georgina Rodríguez siempre ha estado muy orgullosa de sus curvas y es por eso que nunca ha intentado ocultarlas. Algo que parece ser que no gusta mucho a los usuarios de las redes sociales, quienes han criticado, con cierto fervor, a la empresaria. Unas críticas de las que ella misma se ha hecho eco, reafirmándose en s.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Georgina Rodríguez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Georgina responde a las críticas sobre su físico: «Nunca ha sido una lucha por adelgazar»",
+      "url": "https://www.abc.es/gente/georgina-rodriguez-responde-criticas-sobre-fisico-nunca-20260805134928-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T11:49:29.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Las redes se ‘ceban’ con el físico de Georgina y ella responde tajante: «¿De verdad seguimos pensando que la felicidad tiene una talla?»",
+      "url": "https://theobjective.com/gente/2026-08-05/redes-fisico-georgina-responde-tajante-felicidad-talla/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

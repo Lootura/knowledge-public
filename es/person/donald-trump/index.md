@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán](https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com) — 2026-08-05T08:06:49.000Z
+- [El fútbol le ha dado a Europa una rara victoria geopolítica](https://amp.expansion.com/economia/financial-times/2026/08/05/6a72ff28e5fdeac04c8b456f.html?utm_source=lootura.com) — 2026-08-05T09:18:05.000Z

@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### What to Say to Someone Who Is Dying, According to Hospice Workers
+
+—Photo-Illustration by TIME (Source Image: Peter Dazeley—Getty Images) Sydney Mishkin’s father had Stage IV sarcoma for seven years. In the weeks before he died, she kept trying to figure out what she still hadn’t told him. She searched through their old texts and listened to his voicemails. At night, she lay awake rev.
+
+Date: 2026-08-05
 
 ### Can AI Free Women from the Mental Load of Caregiving?
 
@@ -62,12 +68,6 @@ Date: 2026-07-23
 
 Date: 2026-07-22
 
-### How TIME and Statista Determined the World's Top EdTech Companies of 2026
-
-—Illustration by TIME; Mst Innaka Akter/Getty Images TIME has published the third annual " World’s Top EdTech Companies 2026 " ranking, in partnership with Statista, a leading international provider of market and consumer data and rankings. The result of this quantitative study: 500 companies dedicated to the developme.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Can AI Free Women from the Mental Load of Caregiving?](https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com) — 2026-08-05T10:00:03.000Z
+- [What to Say to Someone Who Is Dying, According to Hospice Workers](https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/?utm_source=lootura.com) — 2026-08-05T13:59:33.000Z

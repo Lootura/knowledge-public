@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,13 +19,13 @@
   ],
   "changes": [
     {
-      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
-      "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
+      "title": "El Ibex afianza los 20.000 y explora nuevos récords",
+      "summary": "Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.",
       "date": "2026-08-05"
     },
     {
-      "title": "El Ibex afianza los 20.000 y explora nuevos récords",
-      "summary": "Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.",
+      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
+      "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
       "date": "2026-08-05"
     },
     {
@@ -71,17 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
-      "url": "https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T08:06:49.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
       "title": "El Ibex afianza los 20.000 y explora nuevos récords",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:27:18.000Z",
+      "publishedAt": "2026-08-05T12:30:27.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

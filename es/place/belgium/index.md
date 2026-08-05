@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [El fútbol le ha dado a Europa una rara victoria geopolítica](https://amp.expansion.com/economia/financial-times/2026/08/05/6a72ff28e5fdeac04c8b456f.html?utm_source=lootura.com) — 2026-08-05T09:18:05.000Z

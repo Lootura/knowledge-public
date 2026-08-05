@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
+      "summary": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
       "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
@@ -58,13 +63,15 @@
       "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
       "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:46:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

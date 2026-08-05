@@ -3,10 +3,16 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
+
+El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
+
+Date: 2026-08-05
 
 ### Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asoc
 
 Date: 2026-08-02
 
-### Tellado acusa al Gobierno de «no actuar» en Ceuta: «Puede volver a ocurrir mañana»
-
-El secretario general del PP, Miguel Tellado, ha afirmado este domingo que Ceuta «no ha regresado a la normalidad» , como se asegura desde el Gobierno , tras la invasión de inmigrantes irregulares en Ceuta, registrada este jueves. Tellado ha acusado además al Ejecutivo de Pedro Sánchez de haber dejado a la ciudad «desp.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes](https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com) — 2026-08-05T12:25:29.000Z

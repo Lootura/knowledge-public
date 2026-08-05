@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
-    {
-      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
-      "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
-      "date": "2026-08-05"
-    },
     {
       "title": "How the Ukraine War Became a Fight for the Skies",
       "summary": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
@@ -27,6 +22,11 @@
     {
       "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
       "summary": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
+      "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
       "date": "2026-08-05"
     },
     {
@@ -67,29 +67,17 @@
   ],
   "sources": [
     {
-      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
-      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxford-comma/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:17:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "How the Ukraine War Became a Fight for the Skies",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T08:52:43.000Z",
+      "publishedAt": "2026-08-05T13:10:54.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
       "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T07:58:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T09:04:30.000Z",
+      "publishedAt": "2026-08-05T10:41:55.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso dice que es la consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
+
+Isabel Díaz Ayuso ha dicho este miércoles que la consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.
+
+Date: 2026-08-05
+
+### Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este miércoles que la compra del ático de Chamberí fuera una vivienda para ella y ha.
+
+Date: 2026-08-05
 
 ### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
 
@@ -56,18 +68,7 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acudido a la lo
 
 Date: 2026-07-25
 
-### Ayuso: "La situación cambia a gran velocidad, es un momento crítico"
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha dicho este sábado que "la situación está cambiando a gran velocidad" y es "un momento muy crítico". En declaraciones a los medios en el puesto de mando avanzado de Cenicientos para coordinar la extinción del fuego , Ayuso ha explicado que el incendio se co.
-
-Date: 2026-07-25
-
-### Sánchez y Ayuso coinciden en el Puesto de Mando del incendio de Madrid
-
-El presidente del Gobierno, Pedro Sánchez, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se han saludado con un formal apretón de manos a.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Ayuso dice que es la consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
+- [Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid](https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com) — 2026-08-05T13:39:46.000Z

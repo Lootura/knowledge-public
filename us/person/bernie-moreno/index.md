@@ -3,7 +3,7 @@
 > Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-moreno
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [Rep. Max Miller doubles down against allegations of domestic violence and drug abuse](https://www.cbsnews.com/video/rep-max-miller-doubles-down-against-allegations-of-domestic-violence-and-drug-abuse/?utm_source=lootura.com) — 2026-08-05T13:53:04.000Z

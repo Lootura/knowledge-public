@@ -3,28 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
-
-El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
-
-Date: 2026-08-05
-
-### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo
-
-Agosto comenzó en España en medio de una ola de calor , la cuarta del año, dejando temperaturas por encima de los 40 grados. Sin embargo, al inicio de la semana se dio fin a ese episodio de calor extremo.Los termómetros bajaron unos cuantos grados y la mayoría del país ha podido experimentar un par de días de temperatu.
-
-Date: 2026-08-05
-
-### Jordi Hurtado: «Desayuno dos o tres veces al día y siempre tengo frutos secos en mi camerino»
-
-En España son muchos los programas de televisión que, en el imaginario colectivo, están directamente vinculados a un rostro concreto, que habitualmente es el del presentador . Así, cuando se menciona un concurso, magazine, reality show, etc, el público piensa inmediatamente en una persona y un nombre . Esto suele ocurr.
-
-Date: 2026-08-05
 
 ### Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse
 
@@ -38,45 +20,62 @@ La Policía ha desarticulado en Cataluña una célula del Cártel Jalisco dedica
 
 Date: 2026-08-05
 
-### Samuel Biener, meteorólogo, sobre el tiempo en España a partir de este fin de semana: "Aguaceros muy intensos y fenómenos adversos"
+### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
 
-Una vaguada provocará un importante cambio de tiempo en España a partir de este fin de semana , con tormentas fuertes, lluvias intensas, granizadas y vendavales. Las zonas más afectadas estarán en el norte y el este de la Península , aunque la evolución definitiva del episodio todavía presenta cierta incertidumbre. El.
-
-Date: 2026-08-05
-
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
-
-La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
+La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores migrantes y la coordinación entre España, Marruecos y la Unión Europea . Mientras avanzan los trabajos de identificación de las víctimas mortales recuperadas en.
 
 Date: 2026-08-05
 
-### Hasta 3.000 euros de multa: la obligación que sorprende a quienes tienen gallinas para autoconsumo
+### Nokia reduce un 25% su beneficio neto en España en 2025
 
-Cada vez son más las personas que deciden criar unas pocas gallinas en casa para consumir sus propios huevos . La búsqueda de hábitos más sostenibles y el interés por los productos de proximidad han impulsado el auge de pequeños gallineros domésticos en distintos puntos de España. Sin embargo, muchos propietarios desco.
-
-Date: 2026-08-05
-
-### De desperdicio cárnico a icono de la gastronomía extremeña: el guiso divino que tiene incluso su propia Fiesta de Interés Turístico desde hace 60 años
-
-En España hay platos que apenas se conocen fuera de su comarca, y este es uno de ellos: un guiso contundente y muy sabroso que se hace con vísceras de cordero, a la vez que enamora a casi todo el que lo prueba. Y en Extremadura , su fiesta lleva ya seis décadas reuniendo a todo un pueblo alrededor del caldero. Se trata.
+Nokia Spain registró un beneficio neto de 488.000 euros durante el ejercicio fiscal 2025, lo que representa un descenso del 24,8% en comparación con los 649.000 euros contabilizados en el año previo, según recogen las cuentas anuales depositadas por la sociedad en el Registro Mercantil. El resultado antes de impuestos.
 
 Date: 2026-08-05
 
-### Máxima expectación entre los biólogos españoles por el comportamiento de los insectos durante el eclipse del próximo 12 de agosto
+### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
 
-Biólogos de toda España se preparan para un experimento único durante el eclipse del próximo 12 de agosto. Esto es lo que quieren averiguar.
+La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.
+
+Date: 2026-08-05
+
+### Al menos 141 personas han muerto en el intento de entrada a Ceuta, según la ONG Caminando Fronteras
+
+Desde la organización apuntan que las personas fallecidas no solo son de nacionalidad marroquí, sino que también procedentes de Sudán, Eritrea, Guinea y Costa de Marfil España arranca a la UE un respaldo expreso por la crisis de Ceuta y consigue aplacar las críticas de sus socios Al menos 141 personas han muerto en Ceu.
+
+Date: 2026-08-05
+
+### Así afectaría al Ejército de España un conflicto militar con Marruecos
+
+Los vecinos territoriales no son siempre cómodos y más ante un complicado tablero geopolítico complicado; es el caso de España con Marruecos. La crisis migratoria en Ceuta que sigue dejando titulares ha presentado la posibilidad de un conflicto armado para defender la soberanía nacional. Tal y como apuntó este diario e.
+
+Date: 2026-08-05
+
+### Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto
+
+El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.
+
+Date: 2026-08-05
+
+### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
+
+El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
+
+Date: 2026-08-05
+
+### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo
+
+Agosto comenzó en España en medio de una ola de calor , la cuarta del año, dejando temperaturas por encima de los 40 grados. Sin embargo, al inicio de la semana se dio fin a ese episodio de calor extremo.Los termómetros bajaron unos cuantos grados y la mayoría del país ha podido experimentar un par de días de temperatu.
 
 Date: 2026-08-05
 
 ## Fuentes
 
-- [El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"](https://www.20minutos.es/ceuta/presidente-ceuta-vamos-seguir-protegiendo-menor-pero-estamos-viviendo-una-situacion-absolutamente-limite_7022756_0.html?utm_source=lootura.com) — 2026-08-05T09:25:57.000Z
-- [La Aemet avisa a España de la llegada de lluvias y tormentas con granizo](https://www.abc.es/sociedad/aemet-avisa-espana-llegada-lluvias-tormentas-granizo-20260805075550-nt.html?utm_source=lootura.com) — 2026-08-05T08:55:19.000Z
-- [Jordi Hurtado: «Desayuno dos o tres veces al día y siempre tengo frutos secos en mi camerino»](https://www.abc.es/gente/jordi-hurtado-anos-desayuno-dos-tres-veces-20260805075723-nt.html?utm_source=lootura.com) — 2026-08-05T08:44:21.000Z
+- [Los mensajes en redes que ya están convocando una nueva entrada masiva el día 15: "Nos vemos allí todos"](https://www.20minutos.es/ceuta/las-redes-marruecos-vuelven-llenarse-mensajes-sobre-otra-entrada-masiva-ceuta_7022841_0.html?utm_source=lootura.com) — 2026-08-05T10:47:48.000Z
 - [Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse](https://elpais.com/economia/2026-08-05/telefonica-masorange-vodafone-y-cellnex-montan-un-dispositivo-especial-ante-el-eclipse.html?utm_source=lootura.com) — 2026-08-05T09:58:50.000Z
+- [Nokia reduce un 25% su beneficio neto en España en 2025](https://cincodias.elpais.com/companias/2026-08-05/nokia-reduce-un-25-su-beneficio-neto-en-espana-en-2025.html?utm_source=lootura.com) — 2026-08-05T13:53:28.000Z
+- [Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador](https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com) — 2026-08-05T10:43:00.000Z
 - [Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina](https://www.elconfidencial.com/espana/cataluna/2026-08-05/cartel-jalisco-metanfetamina-cataluna-1tna-1tps_4401276/?utm_source=lootura.com) — 2026-08-05T09:20:00.000Z
-- [Samuel Biener, meteorólogo, sobre el tiempo en España a partir de este fin de semana: "Aguaceros muy intensos y fenómenos adversos"](https://www.elconfidencial.com/espana/2026-08-05/samuel-biener-meteorologo-tiempo-espana_4401180/?utm_source=lootura.com) — 2026-08-05T07:35:00.000Z
-- [La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo](https://www.elmundo.es/economia/empresas/2026/08/05/6a71bbdbe9cf4a070e8b45a7.html?utm_source=lootura.com) — 2026-08-04T23:09:12.000Z
-- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta](https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html?utm_source=lootura.com) — 2026-08-05T09:27:43.000Z
-- [Hasta 3.000 euros de multa: la obligación que sorprende a quienes tienen gallinas para autoconsumo](https://www.larazon.es/actualidad/3000-euros-multa-obligacion-que-sorprende-quienes-tienen-gallinas-autoconsumo-b51m_202608056a730faf71b42a0b5ddcc301.html?utm_source=lootura.com) — 2026-08-05T10:25:51.000Z
-- [De desperdicio cárnico a icono de la gastronomía extremeña: el guiso divino que tiene incluso su propia Fiesta de Interés Turístico desde hace 60 años](https://okdiario.com/gastronomia/desperdicio-carnico-icono-gastronomia-extremena-guiso-divino-que-tiene-incluso-propia-fiesta-interes-turistico-desde-hace-60-anos-19040138?utm_source=lootura.com) — 2026-08-05T10:00:30.000Z
+- [Al menos 141 personas han muerto en el intento de entrada a Ceuta, según la ONG Caminando Fronteras](https://www.eldiario.es/desalambre/141-personas-han-muerto-entrada-ceuta-ong-caminando-fronteras_1_13429422.html?utm_source=lootura.com) — 2026-08-05T11:01:18.000Z
+- [Así afectaría al Ejército de España un conflicto militar con Marruecos](https://www.larazon.es/espana/asi-afectaria-ejercito-espana-conflicto-militar-marruecos_202608056a733d3da046ad6ebc9f1362.html?utm_source=lootura.com) — 2026-08-05T13:45:13.000Z
+- [Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera](https://www.larazon.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-continua-presion-politica-mientras-siguen-labores-gestion-frontera_202608056a72c5b5a5690f047366e205.html?utm_source=lootura.com) — 2026-08-05T13:40:17.000Z
+- [Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto](http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html?utm_source=lootura.com) — 2026-08-05T12:00:00.000Z

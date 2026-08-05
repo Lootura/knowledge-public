@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
   "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "Charles Marion Edwards",
     "Chuck",
     "Edwards"
   ],
   "changes": [
+    {
+      "title": "Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke",
+      "summary": "Chuck Edwards made the announcement after the House Ethics Committee recommended he be censured for “persistent unprofessional and inappropriate conduct” toward two female staff members.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation over harassment claims",
       "summary": "Rep. Chuck Edwards is withdrawing from his re-election campaign in Western North Carolina.",
@@ -33,10 +38,10 @@
   ],
   "sources": [
     {
-      "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation over harassment claims",
-      "url": "https://www.nbcnews.com/politics/politics-news/rep-chuck-edwards-drops-re-election-bid-censure-sexual-harassment-rcna590919?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T09:36:57.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:51:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

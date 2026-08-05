@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor
+
+Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.
+
+Date: 2026-08-05
 
 ### 'Like the end of the world': The eclipse chasers flocking to Spain
 
@@ -62,13 +68,6 @@ Moroccan migrants described their despair at their economic future, explaining w
 
 Date: 2026-08-03
 
-### In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants
-
-Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.
-
-Date: 2026-08-02
-
 ## Sources
 
-- ['Like the end of the world': The eclipse chasers flocking to Spain](https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html?utm_source=lootura.com) — 2026-08-05T07:20:01.000Z
-- [Two Cities With a Tangled History](https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html?utm_source=lootura.com) — 2026-08-05T10:09:52.000Z
+- [Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor](https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html?utm_source=lootura.com) — 2026-08-05T13:09:17.000Z

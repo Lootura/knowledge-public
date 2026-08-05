@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado
+
+El comienzo de las Fiestas de la Virgen Blanca , en Vitoria , se ha visto salpicado por la actuación de un grupo de proetarras , que decidieron tomar el festejo de inauguración con un despliegue de pancartas permitido por el Ayuntamiento de la ciudad vasca, en la que gobierna el PSE-PSOE . Los dirigentes socialistas de.
+
+Date: 2026-08-05
+
+### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
+
+El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.
+
+Date: 2026-08-05
 
 ### El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»
 
@@ -56,18 +68,7 @@ La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánch
 
 Date: 2026-08-02
 
-### El PP lleva meses pidiendo reforzar la frontera de la ciudad autónomica con la oposición del PSOE
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera irregular en esta ciudad autónoma al norte de África —de poco.
-
-Date: 2026-08-01
-
-### Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»
-
-Mientras Ceuta trata de recuperar la normalidad tras la entrada masiva de inmigrantes desde Marruecos, un vídeo grabado el 31 de julio durante un directo de TVE se ha convertido en una de las imágenes más comentadas de la crisis migratoria. Un inmigrante marroquí recién llegado a la ciudad autónoma irrumpió en la emisi.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T22:31:25.000Z
+- [Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado](https://okdiario.com/espana/proetarras-toman-fiestas-virgen-blanca-vitoria-ayuntamiento-del-psoe-mira-otro-lado-19128990?utm_source=lootura.com) — 2026-08-05T12:56:27.000Z
+- [Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE](https://theobjective.com/espana/tribunales/2026-08-05/ex-numero-dos-de-cerdan-psoe/?utm_source=lootura.com) — 2026-08-05T11:32:24.000Z

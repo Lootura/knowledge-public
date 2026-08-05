@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto
+
+El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.
+
+Date: 2026-08-05
+
+### El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas
+
+La segunda jornada de huelga indefinida en los servicios en tierra ( handling ) de la empresa Groundforce en el Aeropuerto de Barcelona-El Prat ha provocado la cancelación de otros 18 vuelos, sin que se produzcan avances en las negociaciones, ha informado el sindicato CGT. En declaraciones a EFE, la portavoz del comité.
+
+Date: 2026-08-05
 
 ### El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día
 
@@ -56,18 +68,7 @@ Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en u
 
 Date: 2026-08-02
 
-### Guerra por el contrato del siglo del agua en Barcelona
-
-Guerra por el contrato del agua del siglo en Barcelona. Ahora Aqualia y Global Omnium, dos de las empresas referentes en la gestión de servicios hídricos en España, acusan al grupo francés Veolia -a priori la mejor oferta presentada al concurso según el Área Metropolitana de Barcelona (AMB)- de presentar una oferta a l.
-
-Date: 2026-08-02
-
-### Cervantes y un caluroso verano de 1610 en las playas de Barcelona
-
-El icónico escritor pasó la verbena de San Juan atónito ante los disparos de las murallas de Montjuïc y las galeras del puerto, en unos días que marcarían la segunda parte de 'El Quijote'.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día](https://okdiario.com/cool/lifestyle/millonario-yate-cine-privado-donde-mbappe-ester-exposito-han-hecho-oficial-romance-cuesta-9-000-euros-dia-19129145?utm_source=lootura.com) — 2026-08-05T10:06:18.000Z
+- [Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto](http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html?utm_source=lootura.com) — 2026-08-05T12:00:00.000Z
+- [El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas](https://theobjective.com/economia/transporte/2026-08-05/segundo-dia-huelga-aeropuerto-prat-18-cancelaciones/?utm_source=lootura.com) — 2026-08-05T11:46:09.000Z

@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Senate faces long to-do list and little time before recess](https://www.pbs.org/newshour/show/senate-faces-long-to-do-list-and-little-time-before-recess?utm_source=lootura.com) — 2026-08-04T22:40:44.000Z
+No public source links.

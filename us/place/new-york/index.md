@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### New York woman learns ex-boyfriend who attacked her killed a young mother years later
+
+When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.
+
+Date: 2026-08-05
 
 ### After Midtown Building Buckles, Violations Are Found at Many Other Sites
 
@@ -62,12 +68,7 @@ The suspect in Thursday's double stabbing​ on New York City's Upper West Side 
 
 Date: 2026-07-25
 
-### Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda
-
-Dean and Maya Jankelowitz aim to serve up a tradition of food, family, and grandmotherly magic at Jack's Wife Freda, their New York City restaurant chain. Their signature comfort food keeps New Yorkers and tourists coming back for more.
-
-Date: 2026-07-25
-
 ## Sources
 
+- [New York woman learns ex-boyfriend who attacked her killed a young mother years later](https://www.cbsnews.com/amp/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com) — 2026-08-05T14:00:14.000Z
 - [After Midtown Building Buckles, Violations Are Found at Many Other Sites](https://www.nytimes.com/2026/08/04/nyregion/nyc-buildings-violations-conversions.html?utm_source=lootura.com) — 2026-08-04T22:22:44.000Z

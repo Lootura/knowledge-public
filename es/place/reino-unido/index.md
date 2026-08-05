@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales](https://www.abc.es/espana/madrid/detienen-madrid-fugitivo-buscado-reino-unido-varias-20260805110144-nt.html?utm_source=lootura.com) — 2026-08-05T09:01:45.000Z
-- [Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales](https://www.elconfidencial.com/espana/madrid/2026-08-05/policia-madrid-detenido-agresion-sexual-1tna-1tps_4401230/?utm_source=lootura.com) — 2026-08-05T08:07:00.000Z
+- [Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”](https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html?utm_source=lootura.com) — 2026-08-05T10:15:42.000Z

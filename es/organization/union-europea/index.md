@@ -3,14 +3,14 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
 
 ### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
 
-La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores y la coordinación entre España, Marruecos y la Unión Europea. Aunque la presión en la frontera se ha reducido respecto a los primeros días, las autoridades manti.
+La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores migrantes y la coordinación entre España, Marruecos y la Unión Europea . Mientras avanzan los trabajos de identificación de las víctimas mortales recuperadas en.
 
 Date: 2026-08-05
 
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera](https://www.larazon.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-continua-presion-politica-mientras-siguen-labores-gestion-frontera_202608056a72c5b5a5690f047366e205.html?utm_source=lootura.com) — 2026-08-05T13:40:17.000Z

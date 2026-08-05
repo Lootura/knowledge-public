@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto",
+      "summary": "El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas",
+      "summary": "La segunda jornada de huelga indefinida en los servicios en tierra ( handling ) de la empresa Groundforce en el Aeropuerto de Barcelona-El Prat ha provocado la cancelación de otros 18 vuelos, sin que se produzcan avances en las negociaciones, ha informado el sindicato CGT. En declaraciones a EFE, la portavoz del comité.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día",
       "summary": "Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño por algunos de los destinos más exclusivos del Mediterráneo. Después de dejarse ver juntos en Miami, Ibiza, Cerdeña y Barcelona , el futbolista francés ha dado un paso más en su relación al compartir por primera vez una fotografía de la actriz.",
@@ -60,25 +70,21 @@
       "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
       "summary": "Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Guerra por el contrato del siglo del agua en Barcelona",
-      "summary": "Guerra por el contrato del agua del siglo en Barcelona. Ahora Aqualia y Global Omnium, dos de las empresas referentes en la gestión de servicios hídricos en España, acusan al grupo francés Veolia -a priori la mejor oferta presentada al concurso según el Área Metropolitana de Barcelona (AMB)- de presentar una oferta a l.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Cervantes y un caluroso verano de 1610 en las playas de Barcelona",
-      "summary": "El icónico escritor pasó la verbena de San Juan atónito ante los disparos de las murallas de Montjuïc y las galeras del puerto, en unos días que marcarían la segunda parte de 'El Quijote'.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día",
-      "url": "https://okdiario.com/cool/lifestyle/millonario-yate-cine-privado-donde-mbappe-ester-exposito-han-hecho-oficial-romance-cuesta-9-000-euros-dia-19129145?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:06:18.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto",
+      "url": "http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
+      "sourceId": "lootura-es-microsiervos"
+    },
+    {
+      "title": "El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas",
+      "url": "https://theobjective.com/economia/transporte/2026-08-05/segundo-dia-huelga-aeropuerto-prat-18-cancelaciones/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T11:46:09.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

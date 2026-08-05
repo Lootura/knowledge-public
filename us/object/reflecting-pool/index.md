@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case](https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com) — 2026-08-04T22:40:18.000Z
+No public source links.

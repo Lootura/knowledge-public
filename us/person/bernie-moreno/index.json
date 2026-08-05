@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-moreno/index.json",
   "description": "Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "Bernardo \"Bernie\" Moreno",
     "Bernardo Moreno",
@@ -27,6 +27,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rep. Max Miller doubles down against allegations of domestic violence and drug abuse",
+      "url": "https://www.cbsnews.com/video/rep-max-miller-doubles-down-against-allegations-of-domestic-violence-and-drug-abuse/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:53:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

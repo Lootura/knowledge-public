@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares
 
 El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.
+
+Date: 2026-08-05
+
+### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
+
+La secretaria general de los socialistas valencianos y ministra de Ciencia, Innovación y Tecnología en el Gobierno del socialista Pedro Sánchez, Diana Morant, no ha escatimado en elogios hacia este último a pesar del aluvión de críticas en todo el planeta que ha generado su gestión por la invasión de Ceuta. Diana Moran.
 
 Date: 2026-08-05
 
@@ -62,13 +68,7 @@ El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Pr
 
 Date: 2026-08-04
 
-### 100 muertos en la playa mientras Sánchez escucha su ‘playlist’
-
-Un niño sirio de apenas 3 años yace inmóvil sobre la arena húmeda de una playa turca, con la cara parcialmente hundida en la tierra y el oleaje rozando suavemente su cuerpo. Viste una camiseta roja de manga corta, pantalón azul y zapatillas deportivas. Murió ahogado junto a su madre y su hermano de 5 años cuando intent.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T22:31:25.000Z
+- [Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»](https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com) — 2026-08-05T13:48:02.000Z
 - [El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares](https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com) — 2026-08-05T10:18:47.000Z

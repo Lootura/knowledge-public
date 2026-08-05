@@ -22,4 +22,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans](https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html?utm_source=lootura.com) — 2026-08-04T23:36:19.000Z
+No public source links.

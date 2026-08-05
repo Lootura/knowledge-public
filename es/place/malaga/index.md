@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
+
+La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.
+
+Date: 2026-08-05
 
 ### Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga
 
@@ -62,12 +68,6 @@ Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural
 
 Date: 2026-07-24
 
-### La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC
-
-La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador](https://www.elconfidencial.com/espana/2026-08-05/guardia-civil-cocaina-operacion-internacional-1tps_4401368/?utm_source=lootura.com) — 2026-08-05T10:43:00.000Z

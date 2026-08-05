@@ -3,10 +3,16 @@
 > Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/person/diana-morant
 
 ## Cambios recientes
+
+### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
+
+La secretaria general de los socialistas valencianos y ministra de Ciencia, Innovación y Tecnología en el Gobierno del socialista Pedro Sánchez, Diana Morant, no ha escatimado en elogios hacia este último a pesar del aluvión de críticas en todo el planeta que ha generado su gestión por la invasión de Ceuta. Diana Moran.
+
+Date: 2026-08-05
 
 ### El PP saca músculo en el feudo de Diana Morant con una multitudinaria cena en Gandia
 
@@ -40,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»](https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com) — 2026-08-05T13:48:02.000Z

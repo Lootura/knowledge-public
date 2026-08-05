@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [The science behind using the arts to combat loneliness and social isolation](https://www.pbs.org/newshour/show/the-science-behind-using-the-arts-to-combat-loneliness-and-social-isolation?utm_source=lootura.com) — 2026-08-04T22:25:09.000Z
+No public source links.

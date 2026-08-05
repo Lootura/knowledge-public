@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
+No public source links.

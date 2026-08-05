@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -77,11 +77,11 @@
   ],
   "sources": [
     {
-      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
-      "url": "https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T08:06:49.000Z",
+      "title": "El fútbol le ha dado a Europa una rara victoria geopolítica",
+      "url": "https://amp.expansion.com/economia/financial-times/2026/08/05/6a72ff28e5fdeac04c8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:18:05.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

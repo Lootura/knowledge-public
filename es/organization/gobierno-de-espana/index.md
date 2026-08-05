@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Portugal acusa a España de incitar un «efecto llamada» por la «falta de regulación» migratoria](https://theobjective.com/espana/2026-08-05/portugal-espana-efecto-llamada-regulacion-migratoria/?utm_source=lootura.com) — 2026-08-05T08:54:17.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### White House declassifies info on secret FBI probe into Trump's firing of Comey
+
+The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.
+
+Date: 2026-08-05
 
 ### What’s missing from the White House plan for the future of US science
 
@@ -62,14 +68,6 @@ President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “f
 
 Date: 2026-08-04
 
-### Funding milestone detected
-
-The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.
-
-Date: 2026-07-31
-
 ## Sources
 
-- [White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says](https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxford-comma/?utm_source=lootura.com) — 2026-08-05T10:17:49.000Z
-- [What’s missing from the White House plan for the future of US science](https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com) — 2026-08-05T06:25:58.378Z
-- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z
+- [White House declassifies info on secret FBI probe into Trump's firing of Comey](https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/?utm_source=lootura.com) — 2026-08-05T13:49:25.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "What to Say to Someone Who Is Dying, According to Hospice Workers",
+      "summary": "—Photo-Illustration by TIME (Source Image: Peter Dazeley—Getty Images) Sydney Mishkin’s father had Stage IV sarcoma for seven years. In the weeks before he died, she kept trying to figure out what she still hadn’t told him. She searched through their old texts and listened to his voicemails. At night, she lay awake rev.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Can AI Free Women from the Mental Load of Caregiving?",
       "summary": "—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.",
@@ -59,18 +64,13 @@
       "title": "Is Mushroom Coffee Healthy? Here's What to Know",
       "summary": "—Photo-Illustration by TIME (Source Images: Iryna Veklich, vsviridova—Getty Images) There’s quite a buzz around mushroom coffee these days. Some social-media influencers claim the lightly caffeinated beverage can provide a sense of calm , long-lasting energy , laser-sharp focus , and other benefits. But do these fungi.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "How TIME and Statista Determined the World's Top EdTech Companies of 2026",
-      "summary": "—Illustration by TIME; Mst Innaka Akter/Getty Images TIME has published the third annual \" World’s Top EdTech Companies 2026 \" ranking, in partnership with Statista, a leading international provider of market and consumer data and rankings. The result of this quantitative study: 500 companies dedicated to the developme.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Can AI Free Women from the Mental Load of Caregiving?",
-      "url": "https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:00:03.000Z",
+      "title": "What to Say to Someone Who Is Dying, According to Hospice Workers",
+      "url": "https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:59:33.000Z",
       "sourceId": "lootura-us-time"
     }
   ],

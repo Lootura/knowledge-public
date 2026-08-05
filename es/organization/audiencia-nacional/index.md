@@ -3,10 +3,40 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta
+
+La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información en los días previos a la entrada irregular y masiva de inmigrantes en Ceuta que alertase de que lo sucedido podía ocurrir. La jueza María Tardón ha dado el paso a raíz de una denuncia del partido Iustitia Europa, q.
+
+Date: 2026-08-05
+
+### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
+
+La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
+
+La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardia Civil si recibió "alguna información en los días previos que hubiese podido alertar"...
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta
+
+La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.
+
+Date: 2026-08-05
+
+### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
+
+El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
+
+Date: 2026-08-05
 
 ### Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más
 
@@ -14,21 +44,9 @@ Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta
-
-La entrada irregular de más de 70.000 personas en Ceuta desde Marruecos , producida fundamentalmente el pasado jueves, comienza a judicializarse. La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información, los días previos a la avalancha, que alertase de que esta se iba a.
-
-Date: 2026-08-05
-
 ### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
 
 La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
-
-Date: 2026-08-05
-
-### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
-
-La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
 
 Date: 2026-08-05
 
@@ -50,27 +68,10 @@ La Audiencia Nacional investiga actualmente el trato de favor de la expareja de 
 
 Date: 2026-08-04
 
-### Hazte Oír presenta una querella contra mandos marroquíes y el delegado del Gobierno en Ceuta
-
-Hazte Oír ha presentado una querella ante la Audiencia Nacional contra "agentes de inteligencia marroquíes", mandos de la Gendarmería Real y de las Fuerzas Auxiliares de Marruecos , así como contra el delegado del Gobierno en Ceuta , Miguel Ángel Pérez Triano tras la incursión masiva de decenas de miles de personas en.
-
-Date: 2026-08-04
-
-### El juez pide a la UDEF un informe «exhaustivo» sobre el capital venezolano en Plus Ultra
-
-El juez de la Audiencia Nacional José Luis Calama ha pedido a la Unidad de Delincuencia Económica y Financiera (UDEF) un informe «exhaustivo» sobre la.
-
-Date: 2026-08-04
-
-### Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: "Administradas por España pero en territorio marroquí"
-
-Han muerto un centenar de personas . Mientras continúa la difícil búsqueda de los desaparecidos al intentar cruzar a Ceuta, la Audiencia Nacional estudia abrir una investigación sobre si hubo "una acción dirigida" por algún "grupo criminal". La ciudad española que se asoma al Estrecho de Gibraltar desde África intenta.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más](https://www.abc.es/gente/isabel-pantoja-pierde-dos-recursos-hacienda-pagar-20260805102850-nt.html?utm_source=lootura.com) — 2026-08-05T08:28:50.000Z
+- [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta](https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com) — 2026-08-05T09:51:09.000Z
-- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta](https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html?utm_source=lootura.com) — 2026-08-05T09:27:43.000Z
+- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta](https://www.lavanguardia.com/politica/20260805/11608351/jueza-audiencia-nacional-recaba-datos-sobre-causas-79-muertes-ceuta.html?utm_source=lootura.com) — 2026-08-05T11:20:35.000Z
 - [La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta](https://theobjective.com/espana/tribunales/2026-08-05/juez-guardia-civil-asalto-ceuta/?utm_source=lootura.com) — 2026-08-05T09:14:47.000Z
+- [Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes](https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com) — 2026-08-05T12:25:29.000Z

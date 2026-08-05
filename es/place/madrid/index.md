@@ -3,10 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El reparto de menores divide a las comunidades: Madrid pide su devolución, Extremadura se niega a acogerlos y Navarra pide "solidaridad"
+
+Las comunidades autónomas han comenzado a tomar postura sobre el reparto de los menores no acompañados que cruzaron la frontera con Ceuta en la entrada masiva de 72.000 personas del pasado jueves. Si este martes eran Aragón y Castilla y León las que se oponían al mismo, un día después ha sido Extremadura , donde el PP.
+
+Date: 2026-08-05
+
+### El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo internacional en Madrid
+
+Los 10 conciertos que el artista puertorriqueño Bad Bunny ofreció en junio en el Riyadh Air Metropolitano, unidos a la visita del papa León XIV, contribuyeron a un mes récord para Madrid , que recibió cerca de 885.000 visitantes extranjeros y alcanzó un gasto turístico de 1.860 millones de euros, según el INE. La celeb.
+
+Date: 2026-08-05
+
+### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
+
+La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
+
+Date: 2026-08-05
+
+### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
+
+El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.
+
+Date: 2026-08-05
+
+### Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este miércoles que la compra del ático de Chamberí fuera una vivienda para ella y ha.
+
+Date: 2026-08-05
 
 ### Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales
 
@@ -38,42 +68,11 @@ El mundo de la cultura ha despedido al guitarrista José Antonio Carmona, conoci
 
 Date: 2026-08-05
 
-### Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos
-
-En abril de 2025, el ministro de Exteriores José Manuel Albares , en una reunión en Madrid con su homólogo marroquí, defendió que las relaciones entre España y Marruecos atravesaban su "mejor momento histórico" . Meses después, una reunión de alto nivel entre ambos países culminaba el deshielo entre Madrid y Rabat, ini.
-
-Date: 2026-08-05
-
-### Repunte del calor en Madrid: la región afronta una semana de vigilancia ante los incendios
-
-La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de Madrid para este miércoles apunta a un repunte en las temperaturas máximas , que alcanzarán los 37º grados. En concreto, se espera que en la zona metropolitana de la región, las máximas lleguen a los 36ºC y, en las zonas bajas de la Sierra, a.
-
-Date: 2026-08-05
-
-### ¿Utilizas esta palabra habitualmente? Entonces eres más madrileño que el bocadillo de calamares
-
-Si hay una palabra que define a un madrileño sin dudarlo esa es « Gato », ya que así es como se conoce popularmente a quienes son nacidos en Madrid y además con padres y abuelos madrileños, siendo esta una ciudad que acoge a personas de muchas otras comunidades y países. Una palabra sobre el madrileño «de pura cepa» qu.
-
-Date: 2026-08-05
-
-### La horchatería más tradicional de Madrid: está en Tetuán y lleva 80 años elaborando una receta valenciana que ha pasado por cuatro generaciones
-
-Este histórico quiosco de Madrid mantiene viva la tradición de los antiguos aguaduchos con horchata, limonada y recetas centenarias que siguen triunfando.
-
-Date: 2026-08-05
-
-### Precio de la gasolina hoy 5 de agosto: localiza las gasolineras más baratas de Madrid
-
-Pasar el verano en Madrid implica poder hacer infinidad de planes y en muchos de ellos, el coche se convierte en elemento esencial de modo que conviene estar preparado y tener lleno el depósito para todo tipo de desplazamientos. Puede que tengas pensado hacer una escapada, o acercarte incluso a alguna de las piscinas n.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales](https://www.abc.es/espana/madrid/detienen-madrid-fugitivo-buscado-reino-unido-varias-20260805110144-nt.html?utm_source=lootura.com) — 2026-08-05T09:01:45.000Z
-- [La ministra Sira Rego anuncia que no irá en las listas a las generales y confía en que la izquierda elija un buen candidato](https://www.elconfidencial.com/espana/2026-08-05/frente-amplio-consenso-izquierda-elecciones-1tps_4401263/?utm_source=lootura.com) — 2026-08-05T09:05:00.000Z
-- [Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales](https://www.elconfidencial.com/espana/madrid/2026-08-05/policia-madrid-detenido-agresion-sexual-1tna-1tps_4401230/?utm_source=lootura.com) — 2026-08-05T08:07:00.000Z
+- [El reparto de menores divide a las comunidades: Madrid pide su devolución, Extremadura se niega a acogerlos y Navarra pide "solidaridad"](https://www.20minutos.es/nacional/extremadura-se-opone-por-tierra-mar-aire-reparto-menores-pais-vasco-pide-priorizar-su-retorno-valencia-concrecion_7022884_0.html?utm_source=lootura.com) — 2026-08-05T12:48:56.000Z
+- [El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo internacional en Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-05/madrid-bad-bunny-turismo-eventos-1hms-1svm_4401491/?utm_source=lootura.com) — 2026-08-05T13:47:00.000Z
 - [Fallece Pepe Habichuela, leyenda de la guitarra flamenca, a los 82 años](https://www.elcorreo.com/culturas/musica/fallece-pepe-habichuela-leyenda-guitarra-flamenca-anos-20260804220714-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T20:07:14.000Z
-- [Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias](https://www.elcorreo.com/deportes/futbol/messi-dona-80000-incendios-madrid-ayuso-gracias-20260804152650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-04T13:26:50.000Z
-- [«Se va a quemar la sierra»: ecologistas piden suspender los eventos masivos por el eclipse en Madrid](https://okdiario.com/okgreen/va-quemar-sierra-ecologistas-piden-suspender-eventos-masivos-eclipse-madrid-19128735?utm_source=lootura.com) — 2026-08-05T10:03:04.000Z
-- [La cultura llora la muerte de Pepe Habichuela: «Que repiquen los bordones de toda Granada»](https://theobjective.com/cultura/musica/2026-08-05/cultura-llora-muerte-pepe-habichuela/?utm_source=lootura.com) — 2026-08-05T09:14:19.000Z
+- [Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"](https://www.eldiario.es/madrid/ayuso-defiende-atico-comprado-comunidad-madrid-no-personal-seria-inteligente_1_13429836.html?utm_source=lootura.com) — 2026-08-05T12:08:04.000Z
+- [Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE](https://theobjective.com/espana/tribunales/2026-08-05/ex-numero-dos-de-cerdan-psoe/?utm_source=lootura.com) — 2026-08-05T11:32:24.000Z
+- [Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid](https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com) — 2026-08-05T13:39:46.000Z

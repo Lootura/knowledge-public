@@ -28,5 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen](https://www.eldiario.es/politica/pp-enreda-acogida-menores-dice-ahora-cumpliran-ley-comunidades-gobiernan-vox-oponen_1_13428915.html?utm_source=lootura.com) — 2026-08-05T08:58:48.000Z
-- [El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta](https://www.larazon.es/espana/toma-distancia-vox-crisis-menores-migrantes-ceuta_202608056a730f3ba046ad6ebc9e9aac.html?utm_source=lootura.com) — 2026-08-05T10:23:55.000Z
+No public source links.

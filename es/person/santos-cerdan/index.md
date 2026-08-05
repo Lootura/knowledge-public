@@ -3,20 +3,26 @@
 > Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerdan
 
 ## Cambios recientes
 
-### El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado
+### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
 
-El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación patrimonial en torno a Santos Cerdán a su mujer, su hija, su hermana y su cuñado. Ismael Moreno ha...
+El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.
 
-Date: 2026-07-22
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
 Santos Cerdán first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado
+
+El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación patrimonial en torno a Santos Cerdán a su mujer, su hija, su hermana y su cuñado. Ismael Moreno ha...
 
 Date: 2026-07-22
 
@@ -28,4 +34,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE](https://theobjective.com/espana/tribunales/2026-08-05/ex-numero-dos-de-cerdan-psoe/?utm_source=lootura.com) — 2026-08-05T11:32:24.000Z

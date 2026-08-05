@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Sumar plantea que España no comparta la organización del Mundial de fútbol de 2030 con Marruecos](https://www.eldiario.es/politica/sumar-plantea-espana-no-comparta-organizacion-mundial-futbol-2030-marruecos_1_13429417.html?utm_source=lootura.com) — 2026-08-05T10:05:50.000Z
+No public source links.

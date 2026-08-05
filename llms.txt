@@ -12,27 +12,27 @@
 
 ## Latest entities — US
 
-- [Apple Inc.](https://atlas.lootura.com/us/company/apple): Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Capitol Hill](https://atlas.lootura.com/us/place/capitol-hill): Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Bernie Moreno](https://atlas.lootura.com/us/person/bernie-moreno): Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Chuck Edwards](https://atlas.lootura.com/us/person/chuck-edwards): Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Senate](https://atlas.lootura.com/us/organization/democratic-senate): Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Elaine Luria](https://atlas.lootura.com/us/person/elaine-luria): Follow Elaine Luria, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Elon Musk](https://atlas.lootura.com/us/person/elon-musk): Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Spain](https://atlas.lootura.com/us/place/espana): Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Getty Images](https://atlas.lootura.com/us/company/getty-images): Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Iran](https://atlas.lootura.com/us/place/iran): Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
-- [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Alma María Ezcurra Almansa](https://atlas.lootura.com/es/organization/alma-ezcurra): Sigue la actividad de Alma María Ezcurra Almansa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Apple](https://atlas.lootura.com/es/company/apple): Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Begoña Gómez](https://atlas.lootura.com/es/person/begona-gomez): Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Christopher Nolan](https://atlas.lootura.com/es/person/christopher-nolan): Sigue la actividad de Christopher Nolan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Bélgica](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Diana Morant](https://atlas.lootura.com/es/person/diana-morant): Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 

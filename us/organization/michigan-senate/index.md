@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [El-Sayed campaign says Stevens has called to concede in Michigan Senate primary](https://www.pbs.org/newshour/politics/el-sayed-campaign-says-stevens-has-called-to-concede-in-michigan-senate-primary?utm_source=lootura.com) — 2026-08-05T13:58:47.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau](https://www.npr.org/2026/08/04/nx-s1-5910831-e1/tmz-trades-hollywood-gossip-for-capitol-hill-scoops-with-new-d-c-bureau?utm_source=lootura.com) — 2026-08-04T20:16:37.000Z
+No public source links.

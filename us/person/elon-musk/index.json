@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T14:02:45.741Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-08-05"
     },
     {
-      "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
-      "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first ea.",
+      "title": "Discovered by Atlas",
+      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
+      "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
+      "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first ea.",
       "date": "2026-08-05"
     }
   ],
@@ -33,13 +33,7 @@
       "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T01:41:30.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
-      "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T06:50:19.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,28 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker
+
+Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.
+
+Date: 2026-08-05
+
+### S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
+
+The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
+
+Date: 2026-08-04
+
+### An Angry Trump Struggles to Understand Iran’s Defiant Leaders
+
+Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.
+
+Date: 2026-08-04
 
 ### Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War
 
@@ -20,21 +38,9 @@ The price of Brent crude oil fell sharply.
 
 Date: 2026-08-04
 
-### S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
-
-The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
-
-Date: 2026-08-04
-
 ### Funding milestone detected
 
 The Senate is just days away from taking its month-long August recess, but Congress is also rapidly running out of time to avoid a government shutdown this fall and handle a host of other items. Lawmakers are scrambling to take action on everything from funding the Iran war to regulating cryptocurrency. Lisa Desjardins.
-
-Date: 2026-08-04
-
-### An Angry Trump Struggles to Understand Iran’s Defiant Leaders
-
-Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.
 
 Date: 2026-08-04
 
@@ -62,17 +68,9 @@ Qatar said that draft language of a deal was being circulated, while Secretary o
 
 Date: 2026-08-04
 
-### An Angry Trump Struggles to Understand Iran’s Defiant Leaders
-
-Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Iran and Oman make progress on deal to reopen Strait of Hormuz, officials say](https://www.pbs.org/newshour/world/iran-and-oman-make-progress-on-deal-to-reopen-strait-of-hormuz-officials-say?utm_source=lootura.com) — 2026-08-04T23:51:49.000Z
-- [Senate faces long to-do list and little time before recess](https://www.pbs.org/newshour/show/senate-faces-long-to-do-list-and-little-time-before-recess?utm_source=lootura.com) — 2026-08-04T22:40:44.000Z
+- [Sen. Tammy Baldwin pushes Pentagon to release probe of Iranian attack that killed 6 U.S. troops in Kuwait](https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com) — 2026-08-05T14:00:15.000Z
 - [An Angry Trump Struggles to Understand Iran’s Defiant Leaders](https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com) — 2026-08-04T19:20:37.000Z
 - [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z
-- [Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War](https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html?utm_source=lootura.com) — 2026-08-04T12:21:57.000Z
-- [Stocks Open at Record High as Oil Falls on Hopes of Iran Deal](https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html?utm_source=lootura.com) — 2026-08-04T13:50:05.000Z
+- [Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com) — 2026-08-05T13:46:19.000Z

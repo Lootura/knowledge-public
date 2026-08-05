@@ -64,5 +64,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas](https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com) — 2026-08-05T06:34:34.000Z
-- [Santander acelera la adquisición de Webster tras lograr la autorización de la Fed](https://amp.expansion.com/empresas/banca/2026/08/05/6a72e9b2e5fdeaf6248b4580.html?utm_source=lootura.com) — 2026-08-05T08:24:29.000Z
+No public source links.

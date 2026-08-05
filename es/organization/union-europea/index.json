@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -16,7 +16,7 @@
   "changes": [
     {
       "title": "Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera",
-      "summary": "La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores y la coordinación entre España, Marruecos y la Unión Europea. Aunque la presión en la frontera se ha reducido respecto a los primeros días, las autoridades manti.",
+      "summary": "La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores migrantes y la coordinación entre España, Marruecos y la Unión Europea . Mientras avanzan los trabajos de identificación de las víctimas mortales recuperadas en.",
       "date": "2026-08-05"
     },
     {
@@ -65,6 +65,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera",
+      "url": "https://www.larazon.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-continua-presion-politica-mientras-siguen-labores-gestion-frontera_202608056a72c5b5a5690f047366e205.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:40:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

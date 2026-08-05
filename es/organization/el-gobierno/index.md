@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### La Guardia Civil busca a los 6.000 inmigrantes que "deambulan" por Ceuta para devolverlos por la fuerza a Marruecos
+
+El Gobierno de la ciudad autónoma sostiene que entraron 80.000 personas, 8.000 más de las contabilizadas por el Ministerio del Interior, y que han sido devueltas 73.000 Leer.
+
+Date: 2026-08-05
+
+### El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta
+
+La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y realizarse con "financiación suficiente y todas las garantías", y recuerda que el sistema vasco de protección "ya trabaja por encima de su capacidad ordinaria" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mien.
+
+Date: 2026-08-05
+
+### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
+
+La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
+
+Date: 2026-08-05
 
 ### El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad
 
@@ -50,27 +68,8 @@ El Ejecutivo madrileño dijo inicialmente que adquirió el inmueble de 485 metro
 
 Date: 2026-08-04
 
-### Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes
-
-El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como "invasión". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.
-
-Date: 2026-08-04
-
-### El Gobierno de Ceuta, «preocupado» por el llamamiento a una nueva entrada el 15 de agosto
-
-El portavoz del Gobierno de Ceuta , Alejandro Ramírez, ha reconocido este martes que a su equipo le «preocupa» el llamamiento difundido en cuentas marroquíes en redes sociales para una nueva entrada masiva de cara al 15 de agost o. «Obviamente, después de lo que ha pasado, preocupa que haya esa rumorología en redes» ,.
-
-Date: 2026-08-04
-
-### El Gobierno italiano reprocha a España no consultar la regularización con la UE
-
-El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad](https://www.20minutos.es/nacional/gobierno-apela-solidaridad-las-comunidades-reparto-menores-no-acompanados-entrada-masiva-ceuta_7022735_0.html?utm_source=lootura.com) — 2026-08-05T08:20:21.000Z
-- [La Guardia Civil, ante el nuevo llamado para otra entrada de inmigrantes en Ceuta: "Los protocolos no sustituyen la falta de medios"](https://www.20minutos.es/ceuta/guardia-civil-ante-nuevo-llamado-para-otra-entrada-inmigrantes-ceuta-los-protocolos-no-sustituyen-falta-medios_7022736_0.html?utm_source=lootura.com) — 2026-08-05T08:30:11.000Z
-- [El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen](https://www.eldiario.es/politica/pp-enreda-acogida-menores-dice-ahora-cumpliran-ley-comunidades-gobiernan-vox-oponen_1_13428915.html?utm_source=lootura.com) — 2026-08-05T08:58:48.000Z
-- [El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000](https://www.lavanguardia.com/politica/20260805/11608206/gobierno-senala-siguen-ceuta-2-500-migrantes-500-menores.html?utm_source=lootura.com) — 2026-08-05T08:29:50.000Z
+- [La Guardia Civil busca a los 6.000 inmigrantes que "deambulan" por Ceuta para devolverlos por la fuerza a Marruecos](https://www.elmundo.es/espana/2026/08/05/6a731459e4d4d85c0a8b45af.html?utm_source=lootura.com) — 2026-08-05T10:51:10.000Z
+- [El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta](https://www.eldiario.es/euskadi/gobierno-vasco-pide-agoten-vias-vuelvan-familias-menores-llegados-ceuta_1_13429705.html?utm_source=lootura.com) — 2026-08-05T11:34:09.000Z
+- [Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"](https://www.eldiario.es/madrid/ayuso-defiende-atico-comprado-comunidad-madrid-no-personal-seria-inteligente_1_13429836.html?utm_source=lootura.com) — 2026-08-05T12:08:04.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo
+
+Huawei ha presentado un MateBook Pro S de 798 gramos y 11,9 milímetros de grosor, unas cifras con las que asegura haber creado el PC más ligero del mundo. El nuevo portátil tiene una pantalla de 14,2 pulgadas, estrena el procesador Kirin XE90 y comenzará a venderse en China a partir del 14 de agosto. Según recoge Huawe.
+
+Date: 2026-08-05
 
 ### El poder de la Guardia Mora
 
@@ -62,12 +68,6 @@ Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xp
 
 Date: 2026-07-24
 
-### El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos
-
-El embajador de China en España, Yao Jing, visitó el 22 de julio en Madrid el taller de los pintores chinos Rao Jinzhong y Du Miao para conocer la actualidad del intercambio en el sector de arte pictórico entre los dos países. El embajador elogió la contribución de los dos artistas residentes en España al intercambio c.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo](https://www.larazon.es/tecnologia-consumo/huawei/huawei-acaba-lanzar-portatil-14-pulgadas-ligero-mundo_202608056a733ffaa5690f047368053d.html?utm_source=lootura.com) — 2026-08-05T14:00:00.000Z

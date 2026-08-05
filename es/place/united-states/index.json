@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T14:02:23.572Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -95,17 +95,11 @@
   ],
   "sources": [
     {
-      "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
-      "url": "https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T06:34:34.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Los intereses de Estados Unidos en Israel en Ceuta",
-      "url": "https://elordenmundial.com/intereses-estados-unidos-israel-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T07:10:30.000Z",
-      "sourceId": "lootura-es-el-orden-mundial"
+      "title": "Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió",
+      "url": "https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T05:59:05.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

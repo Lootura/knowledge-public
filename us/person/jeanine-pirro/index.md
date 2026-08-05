@@ -3,7 +3,7 @@
 > Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/person/jeanine-pirro
 
 ## Recent changes
@@ -58,6 +58,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case](https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com) — 2026-08-04T22:40:18.000Z
 - [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-05T05:03:29.000Z
-- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z

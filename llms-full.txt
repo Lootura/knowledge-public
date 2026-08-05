@@ -65,7 +65,6 @@
 - [Begoña Gómez](https://atlas.lootura.com/es/person/begona-gomez): Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Cámara Baja](https://atlas.lootura.com/es/person/camara-baja): Sigue la actividad de Cámara Baja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Carles Puigdemont Casamajó](https://atlas.lootura.com/es/person/carles-puigdemont): Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Christopher Nolan](https://atlas.lootura.com/es/person/christopher-nolan): Sigue la actividad de Christopher Nolan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Comisión Nacional](https://atlas.lootura.com/es/person/comision-nacional): Sigue la actividad de Comisión Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Leonardo da Vinci](https://atlas.lootura.com/es/person/da-vinci): Sigue la actividad de Leonardo da Vinci en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Diana Morant](https://atlas.lootura.com/es/person/diana-morant): Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -78,6 +77,7 @@
 - ["El Tiburón"](https://atlas.lootura.com/es/person/ferran-torres): Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Fiscalía Europea](https://atlas.lootura.com/es/person/fiscalia-europea): Sigue la actividad de Fiscalía Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Francis Ford Coppola](https://atlas.lootura.com/es/person/francis-ford-coppola): Sigue la actividad de Francis Ford Coppola en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Georgina Rodríguez](https://atlas.lootura.com/es/person/georgina-rodriguez): Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Gianni Infantino](https://atlas.lootura.com/es/person/gianni-infantino): Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Ibai Llanos](https://atlas.lootura.com/es/person/ibai-llanos): Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Iris Tió](https://atlas.lootura.com/es/person/iris-tio): Sigue la actividad de Iris Tió en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -103,6 +103,7 @@
 - [Manuel Llamas](https://atlas.lootura.com/es/person/manuel-llamas): Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Margarita Robles Fernández](https://atlas.lootura.com/es/person/margarita-robles): Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [María Jesús Montero](https://atlas.lootura.com/es/person/maria-jesus-montero): Sigue la actividad de María Jesús Montero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [María Tardón](https://atlas.lootura.com/es/person/maria-tardon): Sigue la actividad de María Tardón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mariano Rajoy](https://atlas.lootura.com/es/person/mariano-rajoy): Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Matthew Brennan](https://atlas.lootura.com/es/person/matthew-brennan): Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mikel Oyarzabal](https://atlas.lootura.com/es/person/mikel-oyarzabal): Sigue la actividad de Mikel Oyarzabal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -150,6 +151,7 @@
 - [Nueva York](https://atlas.lootura.com/es/place/nueva-york): Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Oriente Próximo](https://atlas.lootura.com/es/place/oriente-proximo): Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [País Vasco](https://atlas.lootura.com/es/place/pais-vasco): Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Policía Nacional](https://atlas.lootura.com/es/place/policia-nacional): Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República Portuguesa](https://atlas.lootura.com/es/place/portugal): Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Reino Unido de Gran Bretaña e Irlanda del Norte](https://atlas.lootura.com/es/place/reino-unido): Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [San Sebastián](https://atlas.lootura.com/es/place/san-sebastian): Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -211,12 +213,14 @@
 - [Jeanine Pirro](https://atlas.lootura.com/us/person/jeanine-pirro): Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jeffrey Epstein](https://atlas.lootura.com/us/person/jeffrey-epstein): Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [John Cornyn](https://atlas.lootura.com/us/person/john-cornyn): Follow John Cornyn, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [John James](https://atlas.lootura.com/us/person/john-james): Follow John James, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Katie Hobbs](https://atlas.lootura.com/us/person/katie-hobbs): Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Kay Granger](https://atlas.lootura.com/us/person/kay-granger): Follow Kay Granger, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Keir Starmer](https://atlas.lootura.com/us/person/keir-starmer): Follow Keir Starmer, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Lindsey Graham](https://atlas.lootura.com/us/person/lindsey-graham): Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Margaret Brennan](https://atlas.lootura.com/us/person/margaret-brennan): Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Markwayne Mullin](https://atlas.lootura.com/us/person/markwayne-mullin): Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Michigan Democratic](https://atlas.lootura.com/us/person/michigan-democratic): Follow Michigan Democratic, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Mikie Sherrill](https://atlas.lootura.com/us/person/mikie-sherrill): Follow Mikie Sherrill, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Mykhailo Drapatyi](https://atlas.lootura.com/us/person/mykhailo-drapatyi): Follow Mykhailo Drapatyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Mykhailo Fedorov](https://atlas.lootura.com/us/person/mykhailo-fedorov): Follow Mykhailo Fedorov, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

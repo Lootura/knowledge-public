@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T09:54:10.257Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices](https://www.nbcnews.com/politics/2026-election/kansas-voters-reject-gop-effort-elect-supreme-court-justices-rcna590026?utm_source=lootura.com) — 2026-08-05T01:10:41.000Z

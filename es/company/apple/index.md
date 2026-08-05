@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T14:02:23.572Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos
+
+Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes de IA. Su nombre e.
+
+Date: 2026-08-05
+
+### Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»
+
+Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos a la obra para confec.
+
+Date: 2026-08-05
 
 ### ‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo
 
@@ -56,18 +68,7 @@ Parece que Apple tiene un plan para hacer aún más atractivas sus próximas gaf
 
 Date: 2026-08-03
 
-### Este thriller de abogados con Jake Gyllenhaal te atrapará desde el primer instante: está en streaming y solo tiene 8 capítulos
-
-Si tú también eres un gran fan de las series de abogados , hoy vengo a recomendarte una que probablemente ya hayas visto o esté en tu lista de pendientes, así que si aún no la has empezado, deberías ponerla en lo más alto de tu listado de series para ver cuanto antes . Se trata de una miniserie de Apple TV que ha conse.
-
-Date: 2026-08-02
-
-### Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple
-
-iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta Siri con IA, pero algunas son especialmente útiles y dignas de mención, como esta de la que casi nadie se ha dado cuenta . Se trata de una característica que muchos llevan pidiendo y que te va a ahorrar muchísimo tiempo. Además, te va a permit.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo](https://hipertextual.com/cine-television/ted-lasso-temporada-4-critica/?utm_source=lootura.com) — 2026-08-05T08:04:05.000Z
+- [Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos](https://hipertextual.com/tecnologia/cloudflare-tiene-un-nuevo-sistema-de-pagos-online-para-bots-de-ia-si-los-que-acaparan-las-compras-de-tus-productos-favoritos/?utm_source=lootura.com) — 2026-08-05T11:21:40.000Z
+- [Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»](https://hipertextual.com/cine-television/jason-sudeikis-ted-lasso-rueda-de-prensa-confiesa-dudas-por-resucitar-la-serie/?utm_source=lootura.com) — 2026-08-05T13:16:58.000Z

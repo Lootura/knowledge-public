@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T14:02:45.741Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -74,4 +74,3 @@ Date: 2026-08-04
 - [SpaceX's revenue rises as its once-soaring stock price drifts back to Earth](https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com) — 2026-08-04T22:02:03.000Z
 - [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z
 - [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded?utm_source=lootura.com) — 2026-08-05T10:29:47.000Z
-- [Can AI Free Women from the Mental Load of Caregiving?](https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com) — 2026-08-05T10:00:03.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time](https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html?utm_source=lootura.com) — 2026-08-05T04:00:05.000Z
+No public source links.

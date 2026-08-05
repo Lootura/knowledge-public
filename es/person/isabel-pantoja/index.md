@@ -40,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más](https://www.abc.es/gente/isabel-pantoja-pierde-dos-recursos-hacienda-pagar-20260805102850-nt.html?utm_source=lootura.com) — 2026-08-05T08:28:50.000Z
+No public source links.
