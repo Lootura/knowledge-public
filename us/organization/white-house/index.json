@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,21 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
+      "date": "2026-08-05"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
@@ -52,21 +67,6 @@
       "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
       "summary": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "What’s missing from the White House plan for the future of US science",
-      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
-      "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -77,11 +77,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/progressives-another-big-primary-night-notable-exception-politics-desk-rcna591046?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "url": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:11:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:26:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

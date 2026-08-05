@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/seguridad-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/seguridad-nacional/index.json",
   "description": "Sigue la actividad de Seguridad nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "natsec"
   ],
   "changes": [
+    {
+      "title": "En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional",
+      "summary": "Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número de inmigrantes que entró a Ceuta; Moncloa abre una crisis en Seguridad Nacional : nadie quiere sustituir a la funcionaria destituida; y un guardia civil mata a su expareja , t.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
       "summary": "El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.",
@@ -57,13 +62,15 @@
       "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
       "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Seguir leyendo...",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma",
-      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional",
+      "url": "https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:52:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

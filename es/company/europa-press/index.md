@@ -40,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes](https://theobjective.com/espana/tribunales/2026-08-05/seis-meses-instruccion-caso-koldo/?utm_source=lootura.com) — 2026-08-05T14:47:13.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,16 +35,6 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-      "summary": "Democratic Rep. Marie Gluesenkamp Perez and Republican state Sen. John Braun will advance to a general election in Washington's 3rd District, one of the most hotly contested House contests of this year, CBS News projects.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Candidate who dropped out beats Trump’s pick in a battleground GOP House primary",
-      "summary": "Thomas Smith, a political unknown who raised almost no money for his campaign, defeated President Donald Trump’s endorsed candidate in a Republican primary for a Michigan congressional seat the GOP hopes to contest this fall, NBC News projects.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
       "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
@@ -65,13 +55,23 @@
       "date": "2026-08-05"
     },
     {
-      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
-      "summary": "A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.",
+      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
+      "summary": "President Trump told reporters \"a lot of progress had been made\" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.",
       "date": "2026-08-05"
     },
     {
-      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
-      "summary": "Trump-endorsed Rick Brattin won the GOP primary for Missouri's 5th Congressional District, CBS News projects, setting up a battle against an 11-term Democrat in a district that was made far more GOP-leaning.",
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
       "date": "2026-08-05"
     }
   ],
@@ -89,22 +89,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-      "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:02:45.000Z",
+      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
+      "url": "https://www.cbsnews.com/video/trump-claims-strait-of-hormuz-deal-could-happen-today-as-iran-and-oman-engage-in-talks/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:18:01.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Candidate who dropped out beats Trump’s pick in a battleground GOP House primary",
-      "url": "https://www.nbcnews.com/politics/2026-election/candidate-dropped-beats-trumps-pick-battleground-gop-house-primary-rcna590905?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:08:34.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
       "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com",
       "publishedAt": "2026-08-05T10:08:28.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:41:17.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "url": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:11:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
@@ -125,17 +131,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:03:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:20:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement",
+      "url": "https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:34:03.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 15
 }

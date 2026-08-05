@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -18,6 +18,11 @@
     {
       "title": "Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”",
       "summary": "Isabel Díaz Ayuso ha dicho este miércoles que la Consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste",
+      "summary": "La Fundación Alicia Koplowitz ha donado 150.000 euros para la reconstrucción de la Sierra Oeste de la Comunidad de Madrid , tras el incendio que arrasó cerca de 34.000 hectáreas durante el pasado mes de julio, según ha dado a conocer la presidenta regional, Isabel Díaz Ayuso, a través de sus redes sociales. « La Fundac.",
       "date": "2026-08-05"
     },
     {
@@ -59,11 +64,6 @@
       "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
       "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acudido a la localidad de Sotillo de la Adrada , en Ávila, para recoger pertenecias personales de su casa familiar. Según el diario El Mundo , que cita a fuentes del Gobierno autonómico, la presidenta, cuyo padre nació en Sotillo y donde pasa temporadas en.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -74,9 +74,9 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid",
-      "url": "https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:39:46.000Z",
+      "title": "La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste",
+      "url": "https://theobjective.com/espana/madrid/2026-08-05/alicia-koplowitz-150000-euros-reconstruccion-sierra-oeste/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:51:21.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

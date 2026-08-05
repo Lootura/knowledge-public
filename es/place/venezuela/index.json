@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo",
+      "summary": "La exdiputada opositora Dinorah Figuera, quien defiende la continuidad de la Asamblea Nacional (AN, Parlamento) elegida en 2015, llegó este miércoles a Venezuela, procedente de España y para continuar las jornadas de diálogo iniciadas el pasado sábado con el chavismo, confirmaron a EFE fuentes de su entorno.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Fragmento del día: Caracas",
       "summary": "en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en conmemoración de los 81 años de la Guardia Nacional Bolivariana se produce un atentado con drones contra el presidente Nicolás Maduro.",
@@ -63,13 +68,15 @@
       "title": "Delcy Rodríguez cambia al jefe operativo militar y anuncia un \"plan maestro\" para reconstruir Venezuela",
       "summary": "La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nuevas designaciones en la Fuerza Armada Nacional Bolivariana (FANB), destacando entre ellas el nombramiento del mayor general Rubén Belzares Escobar como nuevo jefe del Comando Estratégico Operacional del cuerpo castrense y el de Pedro Gonzále.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU",
-      "summary": "El presunto testaferro de Nicolás Maduro afronta varios cargos tras ser deportado desde Venezuela.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo",
+      "url": "https://www.larazon.es/internacional/llega-venezuela-opositora-dinorah-figuera-continuar-dialogo-chavismo_202608056a73a0cd71b42a0b5dde1ffc.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:45:01.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

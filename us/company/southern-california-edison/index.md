@@ -28,4 +28,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Officials Say They’ve Found the Cause of a Fire That Devastated L.A.](https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html?utm_source=lootura.com) — 2026-08-04T23:07:39.000Z
+No public source links.

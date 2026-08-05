@@ -3,10 +3,16 @@
 > Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/person/jeffrey-epstein
 
 ## Recent changes
+
+### State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe
+
+The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.
+
+Date: 2026-08-05
 
 ### Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein
 
@@ -34,4 +40,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe](https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe?utm_source=lootura.com) — 2026-08-05T19:33:38.000Z

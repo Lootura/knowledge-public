@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -53,6 +53,11 @@
       "date": "2026-08-05"
     },
     {
+      "title": "EE.UU. sube a 25 millones de dólares la recompensa por el nuevo líder del Cártel Jalisco Nueva Generación",
+      "summary": "El Departamento de Estado de Estados Unidos elevó este miércoles su ofensiva contra el narcotráfico en México. Incrementó a 25 millones de dólares la recompensa que ofrece por información que lleve a la captura de Juan Carlos Valencia González , a quien considera el nuevo líder del Cartel Jalisco Nueva Generación (CJNG.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
       "summary": "Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.",
       "date": "2026-08-05"
@@ -86,19 +91,14 @@
       "title": "Victoria iraní: peaje en Ormuz",
       "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás",
-      "summary": "El primer ministro de Israel, Benjamin Netanyahu, ha afirmado que rechazó el plan anunciado la semana pasada por el presidente de Estados Unidos, Donald Trump, que incluye el \"desarme total\" Movimiento de Resistencia Islámica (Hamás) y de otros grupos armados en la Franja de Gaza, después de reunirse este lunes en Jeru.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió",
-      "url": "https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:59:05.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
+      "title": "EE.UU. sube a 25 millones de dólares la recompensa por el nuevo líder del Cártel Jalisco Nueva Generación",
+      "url": "https://www.abc.es/internacional/eeuu-ofrece-millones-dolares-nuevo-lider-cartel-20260805204148-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:00:12.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Estados Unidos resucita su gigantesco supercañón para abaratar las pruebas de armas hipersónicas",
@@ -113,5 +113,5 @@
       "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

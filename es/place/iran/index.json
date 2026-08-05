@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -70,6 +70,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:09:09.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
       "url": "https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com",

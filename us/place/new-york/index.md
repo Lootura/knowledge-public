@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-25
 ## Sources
 
 - [New York woman learns ex-boyfriend who attacked her killed a young mother years later](https://www.cbsnews.com/amp/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com) — 2026-08-05T14:00:14.000Z
-- [After Midtown Building Buckles, Violations Are Found at Many Other Sites](https://www.nytimes.com/2026/08/04/nyregion/nyc-buildings-violations-conversions.html?utm_source=lootura.com) — 2026-08-04T22:22:44.000Z

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -56,15 +56,15 @@ In African tech hubs, developers are picking China’s cheap, freely available a
 
 Date: 2026-08-05
 
-### Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect
+### U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say
 
-Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.
+Three U.S. military air strikes in Yemen last year likely killed or wounded roughly 350 civilians, sources told NBC News, but the Pentagon has yet to provide a detailed account to Congress or the American public.
 
 Date: 2026-08-05
 
-### State Department revokes visa of Brazil's ambassador to the U.S.
+### Takeaways from Tuesday's elections in Michigan and more
 
-A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.
+Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.
 
 Date: 2026-08-05
 
@@ -73,10 +73,10 @@ Date: 2026-08-05
 - [Sen. Tammy Baldwin pushes Pentagon to release probe of Iranian attack that killed 6 U.S. troops in Kuwait](https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com) — 2026-08-05T14:00:15.000Z
 - [McKinney defeats Thanedar in Michigan's 13th Congressional District primary](https://www.cbsnews.com/news/shri-thanedar-donavan-mckinney-michigan-13th-congressional-august-primary-election/?utm_source=lootura.com) — 2026-08-05T16:19:39.000Z
 - [John James wins Michigan Republican gubernatorial primary, CBS News projects](https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com) — 2026-08-05T16:20:09.000Z
+- [U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say](https://www.nbcnews.com/politics/national-security/us-airstrikes-killed-wounded-hundreds-civilians-yemen-last-year-source-rcna590792?utm_source=lootura.com) — 2026-08-05T20:34:19.000Z
+- [Takeaways from Tuesday's elections in Michigan and more](https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com) — 2026-08-05T18:55:49.000Z
 - [They lost their work permits and their legal status. Returning to Haiti is still 'unimaginable'](https://www.pbs.org/newshour/nation/they-lost-their-work-permits-and-their-legal-status-returning-to-haiti-is-still-unimaginable?utm_source=lootura.com) — 2026-08-05T15:22:06.000Z
+- [Little-known protein helps the body restrain scar-forming signals](https://phys.org/news/2026-08-protein-body-restrain-scar.html?utm_source=lootura.com) — 2026-08-05T21:00:05.000Z
 - [Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.](https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html?utm_source=lootura.com) — 2026-08-05T01:47:42.000Z
 - [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-05T05:03:29.000Z
-- [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
-- [Missouri Voters Reject Measure to Limit Their Ballot Box Powers](https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html?utm_source=lootura.com) — 2026-08-05T01:17:34.000Z
-- [The U.S. Relies on Family Caregivers. Millions of Them Are Kids.](https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html?utm_source=lootura.com) — 2026-08-05T16:31:25.000Z
-- [Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect](https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com) — 2026-08-05T15:36:07.000Z
+- [Blanche Defends Pirro but Says Trump Can Fire Her at Any Time](https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com) — 2026-08-05T17:35:45.000Z

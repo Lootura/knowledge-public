@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Under China's new 'unity' law, Tibetans fight to preserve language and culture](https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture?utm_source=lootura.com) — 2026-08-05T15:26:43.000Z
 - [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z

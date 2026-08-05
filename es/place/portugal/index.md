@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: "Es falso y engañoso"](https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com) — 2026-08-05T18:06:28.000Z

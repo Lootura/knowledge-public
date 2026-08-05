@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Dragon Ball contará con una nueva figura de Freezer que ha sido anunciada en la San Diego Comic Málaga
+
+El pasado mes de julio, y más concretamente del 23 al 26 de julio, tuvo lugar la San Diego Comic-Con Málaga 2026. La convención fue un auténtico éxito y contó con la presencia de invitados de primer nivel . Entre ellos destacaron Emily Rudd e Iñaki Godoy , quienes dan vida a Nami y Luffy en el live action de One Piece.
+
+Date: 2026-08-05
 
 ### Pillados mientras mantenían relaciones al volante en la A-7
 
@@ -62,12 +68,6 @@ Un hombre ha ingresado en prisión provisional por una agresión machista a su e
 
 Date: 2026-07-25
 
-### El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen
-
-El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Pillados mientras mantenían relaciones al volante en la A-7](https://www.abc.es/espana/andalucia/malaga/multan-pareja-mantenia-relaciones-conducian-marbella-20260805122745-nts.html?utm_source=lootura.com) — 2026-08-05T17:05:42.000Z
+- [Dragon Ball contará con una nueva figura de Freezer que ha sido anunciada en la San Diego Comic Málaga](https://www.larazon.es/videojuegos/dragon-ball/dragon-ball-contara-nueva-figura-freezer-ha-sido-anunciada-san-diego-comic-malaga_202608056a731741a046ad6ebc9eb114.html?utm_source=lootura.com) — 2026-08-05T21:00:00.000Z

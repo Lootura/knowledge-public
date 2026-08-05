@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.json",
   "description": "Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Erica",
     "Schwartz"
   ],
   "changes": [
+    {
+      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil. (Image credit: Finn Gomez).",
+      "date": "2026-08-05"
+    },
     {
       "title": "Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director",
       "summary": "Senator Bill Cassidy, who is believed to hold the deciding vote in the Senate health committee for Dr. Erica Schwartz’s confirmation, had declined for days to say whether he would back her.",
@@ -50,6 +55,19 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New CDC director is confirmed, giving agency its first permanent leader in a year",
+      "url": "https://www.nbcnews.com/health/health-news/new-cdc-director-confirmed-erica-shwartz-rcna590994?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:11:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:00:24.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 3
 }

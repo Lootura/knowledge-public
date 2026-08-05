@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.json",
   "description": "Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Epstein",
     "Jeffrey"
   ],
   "changes": [
+    {
+      "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
+      "summary": "The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
       "summary": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019. (Image credit: Martin Bureau).",
@@ -35,6 +40,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
+      "url": "https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:33:38.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

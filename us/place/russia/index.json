@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
-    {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-      "date": "2026-08-05"
-    },
     {
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
@@ -27,6 +22,11 @@
     {
       "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
       "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
       "date": "2026-08-05"
     },
     {
@@ -77,19 +77,7 @@
       "url": "https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:18:42.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:29:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
-      "url": "https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:24:20.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

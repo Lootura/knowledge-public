@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,16 +18,6 @@
   ],
   "changes": [
     {
-      "title": "Video shows drone attacking a street vendor in Ukraine",
-      "summary": "Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers \"take pleasure in killing\" civilians.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
-      "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
       "date": "2026-08-05"
@@ -35,6 +25,21 @@
     {
       "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
       "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Kyiv residents face attacks with fewer defenses overhead",
+      "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Video shows drone attacking a street vendor in Ukraine",
+      "summary": "Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers \"take pleasure in killing\" civilians.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
+      "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.",
       "date": "2026-08-05"
     },
     {
@@ -61,20 +66,9 @@
       "title": "Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities",
       "summary": "Air raid alerts last for more than an hour as Moscow inflicts another heavy bombardment on Ukraine’s capital Russian strikes in and around Kyiv killed at least 14 people, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15. Air raid alerts lasted for more than a.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
-      "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
-    {
-      "title": "Video shows drone attacking a street vendor in Ukraine",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T08:35:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "url": "https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com",
@@ -88,17 +82,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
-      "url": "https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T08:09:43.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
-      "url": "https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:24:20.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Kyiv residents face attacks with fewer defenses overhead",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:23:00.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

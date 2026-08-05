@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»
-
-Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos a la obra para confec.
-
-Date: 2026-08-05
-
 ### Apple denuncia a OpenAI por robo de secretos
 
 Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
+
+Date: 2026-08-05
+
+### Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»
+
+Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos a la obra para confec.
 
 Date: 2026-08-05
 
@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»](https://hipertextual.com/cine-television/jason-sudeikis-ted-lasso-rueda-de-prensa-confiesa-dudas-por-resucitar-la-serie/?utm_source=lootura.com) — 2026-08-05T13:16:58.000Z
 - [Apple denuncia a OpenAI por robo de secretos](https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com) — 2026-08-05T17:15:07.000Z

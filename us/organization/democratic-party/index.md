@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Progressives didn’t get the big election night they wanted
-
-Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.
-
-Date: 2026-08-05
 
 ### Thanedar becomes latest incumbent to fall to a progressive challenger
 
@@ -35,6 +29,18 @@ Date: 2026-08-05
 ### Virginia Democrats pick establishment nominees for 2 House seats they hope to flip
 
 In Virginia, Democratic primary voters have a history of rewarding moderate candidates, a trend that continued on Tuesday.
+
+Date: 2026-08-05
+
+### Takeaways from Tuesday's elections in Michigan and more
+
+Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.
+
+Date: 2026-08-05
+
+### Progressives didn’t get the big election night they wanted
+
+Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.
 
 Date: 2026-08-05
 
@@ -62,16 +68,11 @@ President Donald Trump is making a rare visit to California and Nevada to try to
 
 Date: 2026-08-04
 
-### What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?
-
-Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.
-
-Date: 2026-08-04
-
 ## Sources
 
+- [Michigan progressive ‘certainly’ welcomes DNC money despite criticizing ‘corporate-funded Democrats’](https://www.nbcnews.com/meet-the-press/video/michigan-progressive-certainly-welcomes-dnc-money-despite-criticizing-corporate-funded-democrats-267838021766?utm_source=lootura.com) — 2026-08-05T20:50:37.000Z
 - [Progressives see biggest win yet in Michigan, while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [Takeaways from Tuesday's elections in Michigan and more](https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com) — 2026-08-05T18:55:49.000Z
 - [House Democrats just added 12 'safe' Trump districts to their midterm election target list](https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com) — 2026-08-05T17:02:45.000Z
 - [Virginia Democrats pick establishment nominees for 2 House seats they hope to flip](https://www.pbs.org/newshour/politics/virginia-democrats-pick-establishment-nominees-for-2-house-seats-they-hope-to-flip?utm_source=lootura.com) — 2026-08-05T16:38:08.000Z
-- [Progressives didn’t get the big election night they wanted](https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com) — 2026-08-05T07:41:18.000Z
 - [Thanedar becomes latest incumbent to fall to a progressive challenger](https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com) — 2026-08-05T13:59:50.000Z

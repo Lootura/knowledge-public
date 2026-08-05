@@ -3,10 +3,28 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Progressives had another big primary night – with a notable exception: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-08-05
+
+### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
+
+The White House emphasized that President Trump was not in danger during the incident.
+
+Date: 2026-08-05
+
+### NATO spending pressure returned
+
+At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
+
+Date: 2026-08-05
 
 ### NATO spending pressure returned
 
@@ -50,25 +68,9 @@ Some White House officials hope embattled GOP Rep. Max Miller exits his congress
 
 Date: 2026-08-04
 
-### What’s missing from the White House plan for the future of US science
-
-Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
-
-Date: 2026-08-04
-
-### These 25 U.S. States Are Suing the Trump Administration. Here's Why
-
-President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.
-
-Date: 2026-08-04
-
-### Funding milestone detected
-
-Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
+- [Progressives had another big primary night – with a notable exception: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/progressives-another-big-primary-night-notable-exception-politics-desk-rcna591046?utm_source=lootura.com) — 2026-08-05T21:00:00.000Z
+- [FAA is investigating why a plane was allowed to take off as Trump's helicopter approached](https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com) — 2026-08-05T18:11:23.000Z
 - [Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family](https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com) — 2026-08-05T16:26:49.000Z

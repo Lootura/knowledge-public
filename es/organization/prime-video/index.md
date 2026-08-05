@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Prime Video recibe este anime de fantasía que se estrenó en 2018 y fue nominado a un premio Óscar
+
+Hablar de Mamoru Hosoda es hablar de uno de los nombres más importantes del anime actual. A menudo se le compara con el espíritu de Studio Ghibli , y no es para menos, pero la verdad es que Hosoda tiene un estilo propio . Lo suyo es coger temas cotidianos, como la familia, la identidad o el impacto de hacerse mayor, y.
+
+Date: 2026-08-05
 
 ### 'Supergirl' la semana que viene en Prime Video en digital: precio y packs
 
@@ -52,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- ['Supergirl' la semana que viene en Prime Video en digital: precio y packs](https://www.larazon.es/tecnologia-consumo/series/supergirl-semana-viene-prime-video-digital-precio-packs_202608056a736b7071b42a0b5dddab46.html?utm_source=lootura.com) — 2026-08-05T17:03:37.000Z
+- [Prime Video recibe este anime de fantasía que se estrenó en 2018 y fue nominado a un premio Óscar](https://www.larazon.es/videojuegos/cine/prime-video-recibe-este-anime-fantasia-se-estreno-2018-fue-nominado-premio-oscar_202608056a7306b671b42a0b5ddcaa5c.html?utm_source=lootura.com) — 2026-08-05T20:30:00.000Z

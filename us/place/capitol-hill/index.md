@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Progressives had another big primary night – with a notable exception: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-08-05
 
 ### TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau
 
@@ -62,12 +68,6 @@ Capitol Hill first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-13
 
-### On foreign policy, Graham's influence may have been felt the most
-
-Over the course of his three decades in Congress, Lindsey Graham was a major influence on Capitol Hill and throughout the world as one of the most vocal advocates for U.S. military might.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [Progressives had another big primary night – with a notable exception: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/progressives-another-big-primary-night-notable-exception-politics-desk-rcna591046?utm_source=lootura.com) — 2026-08-05T21:00:00.000Z

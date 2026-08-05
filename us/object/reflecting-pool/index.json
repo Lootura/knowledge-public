@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Lawyers in Reflecting Pool case say Justice Department knew case was flawed",
+      "url": "https://www.pbs.org/newshour/politics/lawyers-in-reflecting-pool-case-say-justice-department-knew-case-was-flawed?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:57:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

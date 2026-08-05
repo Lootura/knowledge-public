@@ -34,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont](https://www.abc.es/espana/zapatero-reunio-montero-bolanos-serrano-encauzar-interlocucion-20260805015425-nt.html?utm_source=lootura.com) — 2026-08-05T16:38:21.000Z
+No public source links.

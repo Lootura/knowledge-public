@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Developer ecosystem expanded
 
 In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
+
+Date: 2026-08-05
+
+### Why increased AI spending caused SpaceX shares to fall
+
+CBS News business contributor Javier David breaks down why SpaceX shares fell on Wednesday after the company announced higher spending on AI in its earnings report.
 
 Date: 2026-08-05
 
@@ -62,18 +68,8 @@ On their first earnings call since SpaceX's June public offering, executives sai
 
 Date: 2026-08-04
 
-### SpaceX hit by surging AI costs as insiders prepare to sell their shares
-
-Capital expenditures related to its xAI unit, which runs the Grok service, hit $15.8 billion, more than double what they were in the first quarter.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Why SpaceX stock is falling despite strong revenue growth](https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/?utm_source=lootura.com) — 2026-08-05T17:02:50.000Z
-- [SpaceX's revenue rises as its once-soaring stock price drifts back to Earth](https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com) — 2026-08-04T22:02:03.000Z
-- [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z
+- [Why increased AI spending caused SpaceX shares to fall](https://www.cbsnews.com/video/why-increased-ai-spending-caused-spacex-shares-to-fall/?utm_source=lootura.com) — 2026-08-05T19:31:17.000Z
 - [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
-- [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup?utm_source=lootura.com) — 2026-08-05T16:47:23.000Z
-- [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo?utm_source=lootura.com) — 2026-08-05T16:57:25.000Z
-- [How to Talk Like a Human in the AI Era](https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/?utm_source=lootura.com) — 2026-08-05T16:34:22.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión
+
+El Rey Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas , en el palacio de Marivent , en Palma de Mallorca, para analizar los efectos de la invasión migratoria que ha sufrido la ciudad autónoma. Casa Real ha informado la tarde de este miércoles de que la reunión entre el Rey y Vivas se desarrolla.
+
+Date: 2026-08-05
+
+### El Rey recibirá este jueves al presidente de Ceuta en Palma
+
+Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas, en el Palacio de Marivent, en Palma , para analizar la crisis migratoria que ha sufrido la ciudad autónoma. Según ha informado este miércoles la Casa Real, la reunión se celebrará a las 18 horas , pocas horas antes de que el jefe del Estado inicie.
+
+Date: 2026-08-05
 
 ### Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador
 
@@ -46,4 +58,5 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión](https://okdiario.com/espana/rey-recibira-presidente-ceuta-palma-analizar-situacion-ciudad-autonoma-invasion-19132750?utm_source=lootura.com) — 2026-08-05T18:34:09.000Z
+- [El Rey recibirá este jueves al presidente de Ceuta en Palma](https://theobjective.com/espana/2026-08-05/rey-jueves-presidente-ceuta-palma/?utm_source=lootura.com) — 2026-08-05T18:11:20.000Z

@@ -3,22 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Video shows drone attacking a street vendor in Ukraine
-
-Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers "take pleasure in killing" civilians.
-
-Date: 2026-08-05
-
-### At least 17 people killed after fatal overnight Russian strikes in Ukraine
-
-Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.
-
-Date: 2026-08-05
 
 ### Alarming video shows Russian drone chasing Ukrainian man before exploding
 
@@ -29,6 +17,24 @@ Date: 2026-08-05
 ### Ukraine says missile interceptors may have saved lives in Russian attack
 
 At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-05
+
+### Kyiv residents face attacks with fewer defenses overhead
+
+Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.
+
+Date: 2026-08-05
+
+### Video shows drone attacking a street vendor in Ukraine
+
+Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers "take pleasure in killing" civilians.
+
+Date: 2026-08-05
+
+### At least 17 people killed after fatal overnight Russian strikes in Ukraine
+
+Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.
 
 Date: 2026-08-05
 
@@ -62,16 +68,8 @@ Air raid alerts last for more than an hour as Moscow inflicts another heavy bomb
 
 Date: 2026-08-05
 
-### Ukraine hits Russia with deadly strike near busy beach, officials say
-
-A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Video shows drone attacking a street vendor in Ukraine](https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/?utm_source=lootura.com) — 2026-08-05T08:35:00.000Z
 - [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
 - [Ukraine says missile interceptors may have saved lives in Russian attack](https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com) — 2026-08-05T16:18:42.000Z
-- [At least 17 people killed after fatal overnight Russian strikes in Ukraine](https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com) — 2026-08-05T08:09:43.000Z
-- [What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?](https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/?utm_source=lootura.com) — 2026-08-05T16:24:20.000Z
+- [Kyiv residents face attacks with fewer defenses overhead](https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead?utm_source=lootura.com) — 2026-08-05T20:23:00.000Z

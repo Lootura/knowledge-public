@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta",
+      "summary": "La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta",
+      "summary": "La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El vicepresidente andaluz de Vox rechaza el reparto de niños migrantes de Ceuta: \"Si son menores, con sus padres\"",
       "summary": "Manuel Gavira anuncia que Andalucía, \"como el resto de gobiernos donde esté Vox\", se opondrá a un futuro reparto: \"Así lo pactamos\" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mientras varias comunidades en las que gobiernan con Vox se oponen El vicepresidente segundo de la Junta, Manue.",
@@ -22,11 +32,6 @@
     {
       "title": "Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes",
       "summary": "El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta",
-      "summary": "La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.",
       "date": "2026-08-05"
     },
     {
@@ -58,20 +63,9 @@
       "title": "El PP se enreda con la acogida de menores: dice ahora que \"cumplirán la ley\" mientras varias comunidades en las que gobiernan con Vox se oponen",
       "summary": "Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser \"justo y con el Gobierno asumiendo la responsabilidad de sus propios actos\" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta",
-      "summary": "El Partido Popular ha querido marcar perfil propio en pleno debate sobre la gestión de los menores migrantes no acompañados llegados a Ceuta tras la avalancha de 72.000 personas que colapsó la ciudad. La vicesecretaria de Coordinación Sectorial del partido, Alma Ezcurra, ha tomado distancia este miércoles del discurso.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "El vicepresidente andaluz de Vox rechaza el reparto de niños migrantes de Ceuta: \"Si son menores, con sus padres\"",
-      "url": "https://www.eldiario.es/andalucia/vicepresidente-andaluz-vox-rechaza-reparto-ninos-migrantes-ceuta-si-son-menores-padres_1_13430031.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:21:44.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
     {
       "title": "La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta",
       "url": "https://theobjective.com/internacional/2026-08-05/eurocamara-debate-extraordinario-crisis-ceuta/?utm_source=lootura.com",
@@ -79,11 +73,11 @@
       "sourceId": "lootura-es-the-objective"
     },
     {
-      "title": "Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes",
-      "url": "https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T12:25:29.000Z",
+      "title": "El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta",
+      "url": "https://theobjective.com/espana/2026-08-05/pnv-pp-junts-reparto-menores-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:55:55.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes](https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com) — 2026-08-05T12:25:29.000Z
+No public source links.

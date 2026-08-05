@@ -3,7 +3,7 @@
 > Follow Shri Thanedar, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/person/shri-thanedar
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### McKinney defeats Thanedar in Michigan's 13th Congressional District primary
 
 Donavan McKinney has defeated incumbent U.S. Rep. Shri Thanedar in Michigan's 13th Congressional District, CBS News projects.
-
-Date: 2026-08-05
-
-### Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan
-
-Rep. Shri Thanedar has lost his Democratic primary in Michigan to state Rep.
 
 Date: 2026-08-05
 
@@ -32,8 +26,13 @@ Shri Thanedar first entered the public knowledge record with source-backed evide
 
 Date: 2026-08-05
 
+### Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan
+
+Rep. Shri Thanedar has lost his Democratic primary in Michigan to state Rep.
+
+Date: 2026-08-05
+
 ## Sources
 
 - [McKinney defeats Thanedar in Michigan's 13th Congressional District primary](https://www.cbsnews.com/news/shri-thanedar-donavan-mckinney-michigan-13th-congressional-august-primary-election/?utm_source=lootura.com) — 2026-08-05T16:19:39.000Z
-- [Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan](https://www.nbcnews.com/politics/2026-election/democratic-rep-shri-thanedar-loses-primary-progressive-challenger-mich-rcna590894?utm_source=lootura.com) — 2026-08-05T14:02:14.596Z
 - [Thanedar becomes latest incumbent to fall to a progressive challenger](https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com) — 2026-08-05T13:59:50.000Z

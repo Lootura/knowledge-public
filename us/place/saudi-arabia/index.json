@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+      "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
       "summary": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
@@ -58,13 +63,15 @@
       "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
       "summary": "President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
-      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:46:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

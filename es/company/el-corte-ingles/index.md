@@ -3,10 +3,16 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes
+
+### De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea
+
+Sus vecinos de Bera reconocen su voz grave en audiolibros o en cuñas de El Corte Inglés y ahora también le ven en series y películas.
+
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea](https://www.diariovasco.com/bidasoa/baztan-bortziriak/oscar-goikoetxea-trabajando-doblaje-descubri-pasion-interpetacion-20260805211942-nt_amp.html?utm_source=lootura.com) — 2026-08-05T19:19:43.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
@@ -16,13 +16,23 @@
   ],
   "changes": [
     {
-      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.",
+      "title": "Discovered by Atlas",
+      "summary": "Juan Jesús Vivas first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Juan Jesús Vivas first entered the public knowledge record with source-backed evidence.",
+      "title": "El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión",
+      "summary": "El Rey Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas , en el palacio de Marivent , en Palma de Mallorca, para analizar los efectos de la invasión migratoria que ha sufrido la ciudad autónoma. Casa Real ha informado la tarde de este miércoles de que la reunión entre el Rey y Vivas se desarrolla.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El Rey recibirá este jueves al presidente de Ceuta en Palma",
+      "summary": "Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas, en el Palacio de Marivent, en Palma , para analizar la crisis migratoria que ha sufrido la ciudad autónoma. Según ha informado este miércoles la Casa Real, la reunión se celebrará a las 18 horas , pocas horas antes de que el jefe del Estado inicie.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.",
       "date": "2026-08-05"
     },
     {
@@ -31,6 +41,19 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión",
+      "url": "https://okdiario.com/espana/rey-recibira-presidente-ceuta-palma-analizar-situacion-ciudad-autonoma-invasion-19132750?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:34:09.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El Rey recibirá este jueves al presidente de Ceuta en Palma",
+      "url": "https://theobjective.com/espana/2026-08-05/rey-jueves-presidente-ceuta-palma/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:11:20.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

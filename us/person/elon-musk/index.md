@@ -34,4 +34,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [SpaceX is barely Space and mostly X](https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space?utm_source=lootura.com) — 2026-08-05T16:35:56.000Z
+No public source links.

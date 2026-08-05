@@ -28,4 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Las redes se ‘ceban’ con el físico de Georgina y ella responde tajante: «¿De verdad seguimos pensando que la felicidad tiene una talla?»](https://theobjective.com/gente/2026-08-05/redes-fisico-georgina-responde-tajante-felicidad-talla/?utm_source=lootura.com) — 2026-08-05T12:00:00.000Z
+No public source links.

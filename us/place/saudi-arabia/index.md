@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers
+
+Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.
+
+Date: 2026-08-05
 
 ### Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker
 
@@ -62,12 +68,6 @@ President Trump took questions from reporters the day after he seemed to upend a
 
 Date: 2026-07-24
 
-### Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia
-
-Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.
-
-Date: 2026-07-23
-
 ## Sources
 
-No public source links.
+- [Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com) — 2026-08-05T19:46:49.000Z

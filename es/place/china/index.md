@@ -3,20 +3,20 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
-### HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo
-
-Huawei ha presentado un MateBook Pro S de 798 gramos y 11,9 milímetros de grosor, unas cifras con las que asegura haber creado el PC más ligero del mundo. El nuevo portátil tiene una pantalla de 14,2 pulgadas, estrena el procesador Kirin XE90 y comenzará a venderse en China a partir del 14 de agosto. Según recoge Huawe.
-
-Date: 2026-08-05
-
 ### Cómo los jesuitas domaron al dragón chino de los eclipses
 
 La bandera con un dragón devorando el Sol, también conocida como bandera del Dragón amarillo se convirtió en la primera bandera nacional de China. Wikimedia commons , CC BY La imagen es poderosa: un dragón celestial devorando el Sol, mientras en la Tierra, el pueblo, aterrorizado, hace sonar tambores y gongs para espan.
+
+Date: 2026-08-05
+
+### HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo
+
+Huawei ha presentado un MateBook Pro S de 798 gramos y 11,9 milímetros de grosor, unas cifras con las que asegura haber creado el PC más ligero del mundo. El nuevo portátil tiene una pantalla de 14,2 pulgadas, estrena el procesador Kirin XE90 y comenzará a venderse en China a partir del 14 de agosto. Según recoge Huawe.
 
 Date: 2026-08-05
 
@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo](https://www.larazon.es/tecnologia-consumo/huawei/huawei-acaba-lanzar-portatil-14-pulgadas-ligero-mundo_202608056a733ffaa5690f047368053d.html?utm_source=lootura.com) — 2026-08-05T14:00:00.000Z
 - [Cómo los jesuitas domaron al dragón chino de los eclipses](https://theconversation.com/como-los-jesuitas-domaron-al-dragon-chino-de-los-eclipses-273477?utm_source=lootura.com) — 2026-08-05T16:28:37.000Z

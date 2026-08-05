@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Progressives didn’t get the big election night they wanted",
-      "summary": "Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.",
-      "date": "2026-08-05"
-    },
     {
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
       "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.",
@@ -39,6 +34,16 @@
       "date": "2026-08-05"
     },
     {
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Progressives didn’t get the big election night they wanted",
+      "summary": "Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "Pastor Adam Hamilton Wins Kansas Democratic Senate Primary",
       "summary": "The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.",
       "date": "2026-08-05"
@@ -57,19 +62,26 @@
       "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
       "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
-      "summary": "Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
+    {
+      "title": "Michigan progressive ‘certainly’ welcomes DNC money despite criticizing ‘corporate-funded Democrats’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/michigan-progressive-certainly-welcomes-dnc-money-despite-criticizing-corporate-funded-democrats-267838021766?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:50:37.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
     {
       "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
       "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com",
       "publishedAt": "2026-08-05T10:08:28.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "url": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:55:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
@@ -82,12 +94,6 @@
       "url": "https://www.pbs.org/newshour/politics/virginia-democrats-pick-establishment-nominees-for-2-house-seats-they-hope-to-flip?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:38:08.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Progressives didn’t get the big election night they wanted",
-      "url": "https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T07:41:18.000Z",
-      "sourceId": "lootura-us-politico"
     },
     {
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",

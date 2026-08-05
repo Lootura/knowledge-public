@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -20,15 +20,27 @@ La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardi
 
 Date: 2026-08-05
 
-### Pillados mientras mantenían relaciones al volante en la A-7
-
-Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.
-
-Date: 2026-08-05
-
 ### Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)
 
 Una agente de la Guardia Civil destinada en Llanes ha muerto este miércoles tras ser disparada por su expareja , un compañero del Cuerpo con el que estaba casada pero en proceso de divorcio . La víctima estaba incluida en el sistema VioGen , después de que su agresor , del que estaba separada —aunque sin sentencia de d.
+
+Date: 2026-08-05
+
+### El guardia civil que asesinó a su expareja en el cuartel de Llanes robó el arma a un compañero tras ser apartado del servicio
+
+El autor del crimen machista en Llanes ( Asturias ) había sustraído el arma con la que ha matado a su expareja a un compañero después de que la Guardia Civil le comunicara esta semana que le apartaba del servicio, según informan fuentes del Instituto Armado. El agente, de 49 años, llevaba nueve años destinado en la Com.
+
+Date: 2026-08-05
+
+### En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional
+
+Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número de inmigrantes que entró a Ceuta; Moncloa abre una crisis en Seguridad Nacional : nadie quiere sustituir a la funcionaria destituida; y un guardia civil mata a su expareja , t.
+
+Date: 2026-08-05
+
+### Pillados mientras mantenían relaciones al volante en la A-7
+
+Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.
 
 Date: 2026-08-05
 
@@ -56,21 +68,10 @@ Una agente de la Guardia Civil ha fallecido este miércoles tras recibir disparo
 
 Date: 2026-08-05
 
-### Ascienden a 19 los migrantes rescatados en el naufragio de una patera en Cabrera y siguen buscando desaparecidos
-
-El balance de la Guardia Civil eleva a 19 las personas rescatadas tras el naufragio de una patera a unas diez millas al sureste de Cabrera, entre ellas varias mujeres. Mientras tanto, continúa la búsqueda de alrededor de una decena de desaparecidos, según la Delegación del Gobierno. Este martes se había informado del h.
-
-Date: 2026-08-05
-
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
-
-La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Pillados mientras mantenían relaciones al volante en la A-7](https://www.abc.es/espana/andalucia/malaga/multan-pareja-mantenia-relaciones-conducian-marbella-20260805122745-nts.html?utm_source=lootura.com) — 2026-08-05T17:05:42.000Z
-- [Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)](https://www.abc.es/espana/asturias/muere-agente-guardia-civil-tiroteada-marido-agente-20260805145308-nt.html?utm_source=lootura.com) — 2026-08-05T16:44:41.000Z
+- [El guardia civil que asesinó a su expareja en el cuartel de Llanes robó el arma a un compañero tras ser apartado del servicio](https://www.20minutos.es/asturias/autor-crimen-machista-llanes-robo-arma-un-companero-tras-ser-apartado-servicio-esta-semana_7023015_0.html?utm_source=lootura.com) — 2026-08-05T18:11:20.000Z
+- [Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)](https://www.abc.es/espana/asturias/muere-agente-guardia-civil-tiroteada-marido-agente-20260805145308-nt.html?utm_source=lootura.com) — 2026-08-05T18:55:14.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
 - [La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta](https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com) — 2026-08-05T09:51:09.000Z
+- [En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional](https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/?utm_source=lootura.com) — 2026-08-05T17:52:00.000Z

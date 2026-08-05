@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -75,13 +75,13 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
+      "title": "U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say",
+      "summary": "Three U.S. military air strikes in Yemen last year likely killed or wounded roughly 350 civilians, sources told NBC News, but the Pentagon has yet to provide a detailed account to Congress or the American public.",
       "date": "2026-08-05"
     },
     {
-      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
-      "summary": "A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.",
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
       "date": "2026-08-05"
     }
   ],
@@ -105,10 +105,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/us-airstrikes-killed-wounded-hundreds-civilians-yemen-last-year-source-rcna590792?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:34:19.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "url": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:55:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "They lost their work permits and their legal status. Returning to Haiti is still 'unimaginable'",
       "url": "https://www.pbs.org/newshour/nation/they-lost-their-work-permits-and-their-legal-status-returning-to-haiti-is-still-unimaginable?utm_source=lootura.com",
       "publishedAt": "2026-08-05T15:22:06.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Little-known protein helps the body restrain scar-forming signals",
+      "url": "https://phys.org/news/2026-08-protein-body-restrain-scar.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:00:05.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
@@ -123,29 +141,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "How China’s A.I. Is Surging Across Africa",
-      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:12:57.000Z",
+      "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T17:35:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Missouri Voters Reject Measure to Limit Their Ballot Box Powers",
-      "url": "https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:17:34.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
-      "url": "https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:31:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T15:36:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 16
 }

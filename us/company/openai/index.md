@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Rogue AI agents created fake online identities in another hacking attempt](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking?utm_source=lootura.com) — 2026-08-05T15:14:57.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe
+
+The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.
+
+Date: 2026-08-05
 
 ### Senate Judiciary Committee advances Blanche's nomination for attorney general
 
@@ -62,12 +68,6 @@ The rebellion against Todd Blanche’s nomination to be attorney general, now se
 
 Date: 2026-08-03
 
-### Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund
-
-GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General](https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com) — 2026-08-04T23:15:22.000Z
+- [State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe](https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe?utm_source=lootura.com) — 2026-08-05T19:33:38.000Z

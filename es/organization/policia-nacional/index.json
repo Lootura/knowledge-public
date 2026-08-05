@@ -1,0 +1,86 @@
+{
+  "id": "es-policia-nacional",
+  "name": "Policía Nacional",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/policia-nacional",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/policia-nacional",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/policia-nacional/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/policia-nacional/index.json",
+  "description": "Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Una mujer muere acuchillada a manos de su pareja en Murcia",
+      "summary": "Una mujer ha muerto en la tarde de este miércoles en un centro comercial de Murcia acuchillada presuntamente por su pareja, que se ha dado a la fuga y está siendo buscada por la Policía Nacional, han informado a EFE fuentes cercanas a la investigación. Seguir leyendo...",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Asesinada una mujer de 44 años por su pareja en un centro comercial de Murcia",
+      "summary": "Una mujer ha sido asesinada la tarde de este miércoles en un centro comercial de Murcia tras ser presuntamente acuchillada por su pareja. El sospechoso se ha dado a la fuga y está siendo buscado por la Policía Nacional, según han informado fuentes cercanas a la investigación.Los hechos han ocurrido poco antes de las 17.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga",
+      "summary": "Una mujer de 44 años ha sido presuntamente asesinada este miércoles por la tarde en un centro comercial de Murcia , tras ser acuchillada por su pareja , que se ha dado a la fuga y está siendo buscada por la Policía Nacional , han informado a EFE fuentes de la Delegación del Gobierno en la Región de Murcia y del 112. La.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Encuentran muerto en el río Turia al joven de 29 años de Manises desaparecido",
+      "summary": "Agentes del Grupo Especial de Operaciones (GEO) de la Policía Nacional han hallado esta mañana, sobre las 11:20 horas, en el río Turia a su paso por el municipio de Manises, el cuerpo sin vida de un varón de 29 años. El hombre se encontraba desaparecido desde la tarde de ayer , cuando se bañaba en esa zona, según ha in.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Descubren a un bebé muerto en un armario después de que su madre negase en urgencias haber estado embarazada",
+      "summary": "El cadáver de un bebé recién nacido ha sido hallado en una vivienda del municipio coruñés de Sada por efectivos de la Policía Nacional, después de que los médicos que atendieron a su presunta madre en urgencias diesen la voz de alarma. La mujer ingresó el pasado julio en el hospital de La Coruña con un importante sangr.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
+      "summary": "La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales",
+      "summary": "Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Policía Nacional first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
+      "summary": "«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no fueron a colaborar en el operativo montado en plena crisis m.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla",
+      "summary": "La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de Seguridad, ha impartido órdenes por escrito a la Policía Nacional y a la Guardia Civil para que comiencen a aplicar de manera inmediata las devoluciones en caliente a todos los migrantes que intenten llegar a nado a Ceuta superando la nueva.",
+      "date": "2026-08-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Una mujer muere acuchillada a manos de su pareja en Murcia",
+      "url": "https://www.lavanguardia.com/vida/20260805/11608627/mujer-muere-acuchillada-manos-presuntamente-pareja-murcia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:53:59.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Asesinada una mujer de 44 años por su pareja en un centro comercial de Murcia",
+      "url": "https://okdiario.com/sucesos/asesinada-mujer-44-anos-pareja-centro-comercial-murcia-19133094/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:57:15.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-05/hombre-mata-pareja-cuchilladas-murcia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:24:32.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

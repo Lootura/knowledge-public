@@ -3,10 +3,16 @@
 > Sigue la actividad de Seguridad nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/organization/seguridad-nacional
 
 ## Cambios recientes
+
+### En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional
+
+Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número de inmigrantes que entró a Ceuta; Moncloa abre una crisis en Seguridad Nacional : nadie quiere sustituir a la funcionaria destituida; y un guardia civil mata a su expareja , t.
+
+Date: 2026-08-05
 
 ### El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa
 
@@ -62,12 +68,6 @@ El Gobierno ha cesado de su cargo a una funcionaria del departamento de Segurida
 
 Date: 2026-08-03
 
-### Moncloa cesa a una funcionaria de Seguridad Nacional por informar de la entrada de 49.000 migrantes en la ciudad autónoma
-
-El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Una decisión que se ha adoptado, según han informado a Efe fuentes del Ejecutivo este lunes,.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional](https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/?utm_source=lootura.com) — 2026-08-05T17:52:00.000Z

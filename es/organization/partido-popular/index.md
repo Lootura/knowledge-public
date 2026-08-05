@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
+
+La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
+
+Date: 2026-08-05
+
+### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
+
+La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
+
+Date: 2026-08-05
 
 ### El vicepresidente andaluz de Vox rechaza el reparto de niños migrantes de Ceuta: "Si son menores, con sus padres"
 
@@ -17,12 +29,6 @@ Date: 2026-08-05
 ### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
 
 El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
-
-Date: 2026-08-05
-
-### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
-
-La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
 
 Date: 2026-08-05
 
@@ -62,14 +68,7 @@ Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser "justo 
 
 Date: 2026-08-05
 
-### El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta
-
-El Partido Popular ha querido marcar perfil propio en pleno debate sobre la gestión de los menores migrantes no acompañados llegados a Ceuta tras la avalancha de 72.000 personas que colapsó la ciudad. La vicesecretaria de Coordinación Sectorial del partido, Alma Ezcurra, ha tomado distancia este miércoles del discurso.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El vicepresidente andaluz de Vox rechaza el reparto de niños migrantes de Ceuta: "Si son menores, con sus padres"](https://www.eldiario.es/andalucia/vicepresidente-andaluz-vox-rechaza-reparto-ninos-migrantes-ceuta-si-son-menores-padres_1_13430031.html?utm_source=lootura.com) — 2026-08-05T13:21:44.000Z
 - [La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta](https://theobjective.com/internacional/2026-08-05/eurocamara-debate-extraordinario-crisis-ceuta/?utm_source=lootura.com) — 2026-08-05T15:22:36.000Z
-- [Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes](https://theobjective.com/espana/politica/2026-08-05/tellado-gobierno-auxilio-ceuta/?utm_source=lootura.com) — 2026-08-05T12:25:29.000Z
+- [El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta](https://theobjective.com/espana/2026-08-05/pnv-pp-junts-reparto-menores-ceuta/?utm_source=lootura.com) — 2026-08-05T17:55:55.000Z

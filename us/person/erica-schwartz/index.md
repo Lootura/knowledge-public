@@ -3,10 +3,16 @@
 > Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/person/erica-schwartz
 
 ## Recent changes
+
+### Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum
+
+Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil. (Image credit: Finn Gomez).
+
+Date: 2026-08-05
 
 ### Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director
 
@@ -52,4 +58,5 @@ Date: 2026-07-15
 
 ## Sources
 
-No public source links.
+- [New CDC director is confirmed, giving agency its first permanent leader in a year](https://www.nbcnews.com/health/health-news/new-cdc-director-confirmed-erica-shwartz-rcna590994?utm_source=lootura.com) — 2026-08-05T19:11:49.000Z
+- [Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum](https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com) — 2026-08-05T20:00:24.000Z

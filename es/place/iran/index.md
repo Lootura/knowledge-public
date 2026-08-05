@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-08-04
 
 ## Fuentes
 
+- [El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-05T20:09:09.000Z
 - [Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz](https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com) — 2026-08-05T17:12:26.000Z

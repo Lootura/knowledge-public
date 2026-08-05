@@ -16,4 +16,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale?utm_source=lootura.com) — 2026-08-05T16:59:23.000Z
+No public source links.

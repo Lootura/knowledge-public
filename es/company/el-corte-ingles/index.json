@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.json",
   "description": "Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "Corte Ingles",
     "Corte Inglés",
@@ -20,6 +20,11 @@
     "Viajes El Corte Inglés"
   ],
   "changes": [
+    {
+      "title": "De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea",
+      "summary": "Sus vecinos de Bera reconocen su voz grave en audiolibros o en cuñas de El Corte Inglés y ahora también le ven en series y películas.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "El Corte Inglés first entered the public knowledge record with source-backed evidence.",
@@ -41,6 +46,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea",
+      "url": "https://www.diariovasco.com/bidasoa/baztan-bortziriak/oscar-goikoetxea-trabajando-doblaje-descubri-pasion-interpetacion-20260805211942-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:19:43.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

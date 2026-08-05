@@ -8,17 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/shri-thanedar/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/shri-thanedar/index.json",
   "description": "Follow Shri Thanedar, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
-  "aliases": [],
+  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "aliases": [
+    "Thanedar"
+  ],
   "changes": [
     {
       "title": "McKinney defeats Thanedar in Michigan's 13th Congressional District primary",
       "summary": "Donavan McKinney has defeated incumbent U.S. Rep. Shri Thanedar in Michigan's 13th Congressional District, CBS News projects.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan",
-      "summary": "Rep. Shri Thanedar has lost his Democratic primary in Michigan to state Rep.",
       "date": "2026-08-05"
     },
     {
@@ -30,6 +27,11 @@
       "title": "Discovered by Atlas",
       "summary": "Shri Thanedar first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
+    },
+    {
+      "title": "Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan",
+      "summary": "Rep. Shri Thanedar has lost his Democratic primary in Michigan to state Rep.",
+      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -40,17 +42,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democratic Rep. Shri Thanedar loses his primary to a progressive challenger in Michigan",
-      "url": "https://www.nbcnews.com/politics/2026-election/democratic-rep-shri-thanedar-loses-primary-progressive-challenger-mich-rcna590894?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:02:14.596Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
       "url": "https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com",
       "publishedAt": "2026-08-05T13:59:50.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

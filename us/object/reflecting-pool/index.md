@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Lawyers in Reflecting Pool case say Justice Department knew case was flawed](https://www.pbs.org/newshour/politics/lawyers-in-reflecting-pool-case-say-justice-department-knew-case-was-flawed?utm_source=lootura.com) — 2026-08-05T17:57:26.000Z

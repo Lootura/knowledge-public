@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
   "aliases": [
     "POR",
     "PRT",
@@ -68,6 +68,13 @@
       "date": "2026-07-11"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: \"Es falso y engañoso\"",
+      "url": "https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:06:28.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
   "evidenceCount": 0
 }

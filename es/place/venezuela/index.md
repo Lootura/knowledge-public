@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo
+
+La exdiputada opositora Dinorah Figuera, quien defiende la continuidad de la Asamblea Nacional (AN, Parlamento) elegida en 2015, llegó este miércoles a Venezuela, procedente de España y para continuar las jornadas de diálogo iniciadas el pasado sábado con el chavismo, confirmaron a EFE fuentes de su entorno.
+
+Date: 2026-08-05
 
 ### Fragmento del día: Caracas
 
@@ -62,12 +68,6 @@ La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nu
 
 Date: 2026-07-25
 
-### Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU
-
-El presunto testaferro de Nicolás Maduro afronta varios cargos tras ser deportado desde Venezuela.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo](https://www.larazon.es/internacional/llega-venezuela-opositora-dinorah-figuera-continuar-dialogo-chavismo_202608056a73a0cd71b42a0b5dde1ffc.html?utm_source=lootura.com) — 2026-08-05T20:45:01.000Z

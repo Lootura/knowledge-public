@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,21 @@
     {
       "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
       "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
+      "summary": "President Trump told reporters \"a lot of progress had been made\" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+      "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
       "date": "2026-08-05"
     },
     {
@@ -50,21 +65,6 @@
       "title": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
       "summary": "The price of Brent crude oil fell sharply.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "The Senate is just days away from taking its month-long August recess, but Congress is also rapidly running out of time to avoid a government shutdown this fall and handle a host of other items. Lawmakers are scrambling to take action on everything from funding the Iran war to regulating cryptocurrency. Lisa Desjardins.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
-      "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-      "summary": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -75,29 +75,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
+      "url": "https://www.cbsnews.com/video/trump-claims-strait-of-hormuz-deal-could-happen-today-as-iran-and-oman-engage-in-talks/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:18:01.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
       "url": "https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:20:30.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:20:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T22:05:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T15:36:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "publishedAt": "2026-08-05T18:00:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:46:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

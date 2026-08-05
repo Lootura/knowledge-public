@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-05T21:05:01.659Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -72,12 +72,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T15:26:43.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
     {
       "title": "How China’s A.I. Is Surging Across Africa",
       "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",

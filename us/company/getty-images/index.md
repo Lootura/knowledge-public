@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida](https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/?utm_source=lootura.com) — 2026-08-05T16:02:33.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-05T21:04:44.681Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
 
 Isabel Díaz Ayuso ha dicho este miércoles que la Consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.
+
+Date: 2026-08-05
+
+### La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste
+
+La Fundación Alicia Koplowitz ha donado 150.000 euros para la reconstrucción de la Sierra Oeste de la Comunidad de Madrid , tras el incendio que arrasó cerca de 34.000 hectáreas durante el pasado mes de julio, según ha dado a conocer la presidenta regional, Isabel Díaz Ayuso, a través de sus redes sociales. « La Fundac.
 
 Date: 2026-08-05
 
@@ -62,13 +68,7 @@ Pese al malestar por el último y turbio episodio de la compra del ático y la p
 
 Date: 2026-08-01
 
-### Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acudido a la localidad de Sotillo de la Adrada , en Ávila, para recoger pertenecias personales de su casa familiar. Según el diario El Mundo , que cita a fuentes del Gobierno autonómico, la presidenta, cuyo padre nació en Sotillo y donde pasa temporadas en.
-
-Date: 2026-07-25
-
 ## Fuentes
 
 - [Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
-- [Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid](https://theobjective.com/espana/madrid/2026-08-05/ayuso-vivir-atico-comunidad-de-madrid/?amp=&utm_source=lootura.com) — 2026-08-05T13:39:46.000Z
+- [La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste](https://theobjective.com/espana/madrid/2026-08-05/alicia-koplowitz-150000-euros-reconstruccion-sierra-oeste/?utm_source=lootura.com) — 2026-08-05T19:51:21.000Z

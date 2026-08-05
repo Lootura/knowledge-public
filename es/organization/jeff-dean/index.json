@@ -1,0 +1,48 @@
+{
+  "id": "es-jeff-dean",
+  "name": "Jeff Dean",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/jeff-dean",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/jeff-dean",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/jeff-dean/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/jeff-dean/index.json",
+  "description": "Sigue la actividad de Jeff Dean en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "aliases": [
+    "Jeffrey Adgate Dean",
+    "J. Dean"
+  ],
+  "changes": [
+    {
+      "title": "Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA",
+      "summary": "El gigante tecnológico Google anunció este miércoles una reorganización de sus equipos de Inteligencia Artificial (IA) que incluye el paso de Demis Hassabis a un cargo estratégico dentro de Google DeepMind y la salida del científico jefe Jeff Dean tras 27 años en la empresa. Seguir leyendo.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
+      "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jeff Dean first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/08/05/6a7376c9468aeb90028b45b4.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T20:20:27.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:25:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
+}

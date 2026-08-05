@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-05T21:05:01.659Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Funding milestone detected
+
+President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.
+
+Date: 2026-08-05
 
 ### One Maine community's fight to save a birthing center
 
@@ -62,12 +68,6 @@ BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of b
 
 Date: 2026-07-25
 
-### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
-
-Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
-
-Date: 2026-07-25
-
 ## Sources
 
-- [One Maine community's fight to save a birthing center](https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight?utm_source=lootura.com) — 2026-08-04T20:16:26.000Z
+- [Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement](https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com) — 2026-08-05T18:34:03.000Z

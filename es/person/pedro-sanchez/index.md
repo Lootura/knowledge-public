@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El «novenio negro» de Pedro Sánchez](https://okdiario.com/opinion/novenio-negro-pedro-sanchez-19116803?utm_source=lootura.com) — 2026-08-05T17:00:47.000Z
-- [Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»](https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com) — 2026-08-05T13:48:02.000Z
+No public source links.

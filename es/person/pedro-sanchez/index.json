@@ -68,19 +68,6 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [
-    {
-      "title": "El «novenio negro» de Pedro Sánchez",
-      "url": "https://okdiario.com/opinion/novenio-negro-pedro-sanchez-19116803?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:00:47.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»",
-      "url": "https://okdiario.com/comunidad-valenciana/diana-morant-pelotea-sanchez-pleno-aluvion-criticas-invasion-ceuta-voz-espana-19130419?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:48:02.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }
