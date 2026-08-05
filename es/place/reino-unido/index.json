@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,16 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales",
+      "summary": "La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscado por las autoridades británicas por graves conductas de agresión sexual cometidas entre 2012 y 2022 y que se encontraba huido de su país, teniendo en vigor una orden internacional de detención. Las investigaciones comenzaron el pasado 2024,.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales",
+      "summary": "Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento",
       "summary": "Una nueva directriz obligará a modificar desde este miércoles el uso de miles de espacios públicos segregados por género en Reino Unido, casi un año y medio después de un fallo histórico del Tribunal Supremo sobre la definición legal de sexo biológico. Con la entrada en vigor mañana de este \"código de buenas prácticas\".",
@@ -62,18 +72,21 @@
       "title": "La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte",
       "summary": "La Policía irlandesa se ha incautado esta semana de una « potente bomba » durante una operación en la frontera con Reino Unido que se ha saldado por ahora con dos arrestos y una línea de investigación que apunta a la posibilidad de que el artefacto explosivo tenía Irlanda del Norte como destino final. La operación ha o.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Reino Unido prepara barcos autónomos capaces de derribar drones con sistemas de misiles guiados de precisión",
-      "summary": "Reino Unido avanza en el desarrollo de una defensa marítima contra ataques masivos con drones basada en barcos autónomos, lanzadores modulares y pequeños misiles guiados de precisión concebidos para fabricarse a gran escala . La compañía británica Babcock International , la también británica ACUA Ocean Technologies y l.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
-      "summary": "El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales",
+      "url": "https://www.abc.es/espana/madrid/detienen-madrid-fugitivo-buscado-reino-unido-varias-20260805110144-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:01:45.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-05/policia-madrid-detenido-agresion-sexual-1tna-1tps_4401230/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:07:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 3
 }

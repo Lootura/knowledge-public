@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [],
   "changes": [
     {
       "title": "Julian Beaudion Quits Senate Race in South Dakota, Clearing Way for Independent",
       "summary": "The decision by Julian Beaudion, the Democratic nominee, to leave the race was the third recent withdrawal by a Democratic Senate candidate in a red state.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Progressives didn’t get the big election night they wanted",
+      "summary": "Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.",
       "date": "2026-08-05"
     },
     {
@@ -40,11 +45,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Progressives didn’t get the big election night they wanted",
+      "url": "https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T07:41:18.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
       "title": "Julian Beaudion Quits Senate Race in South Dakota, Clearing Way for Independent",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T00:21:22.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

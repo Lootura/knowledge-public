@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día",
+      "summary": "Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño por algunos de los destinos más exclusivos del Mediterráneo. Después de dejarse ver juntos en Miami, Ibiza, Cerdeña y Barcelona , el futbolista francés ha dado un paso más en su relación al compartir por primera vez una fotografía de la actriz.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Ofensiva contra el aumento de la venta y consumo de droga en Barcelona",
       "summary": "El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 llamadas alertando de incidentes vinculados con las drogas. Mil más que los primeros seis meses del año pasado. Esas quejas de los ciudadanos son solo la punta del iceberg de un problema que padece la capital catalana: la droga. Barcelona es u.",
@@ -65,13 +70,15 @@
       "title": "Cervantes y un caluroso verano de 1610 en las playas de Barcelona",
       "summary": "El icónico escritor pasó la verbena de San Juan atónito ante los disparos de las murallas de Montjuïc y las galeras del puerto, en unos días que marcarían la segunda parte de 'El Quijote'.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo",
-      "summary": "El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día",
+      "url": "https://okdiario.com/cool/lifestyle/millonario-yate-cine-privado-donde-mbappe-ester-exposito-han-hecho-oficial-romance-cuesta-9-000-euros-dia-19129145?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:06:18.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

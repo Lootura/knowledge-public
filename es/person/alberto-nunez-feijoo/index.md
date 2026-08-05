@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
+
+El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...
+
+Date: 2026-08-05
 
 ### Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asoc
 
 Date: 2026-08-02
 
-### Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno
-
-Tras exigir durante las últimas horas en diversos comunicados que se reforme la ley de extranjería para “para garantizar el rechazo en frontera en las entradas por vía marítima” y solicitar además la comparecencia urgente de Pedro Sánchez en el Congreso por la crisis de Ceuta, Alberto Núñez Feijóo ha viajado este sábad.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta](https://www.lavanguardia.com/politica/20260805/11608200/pp-fuerza-debate-parlamento-europeo-manana-sobre-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-05T08:14:10.000Z

@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad
+
+El vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo , ha confiado este miércoles en no entrar en un conflicto judicial con el PP por una hipotética negativa de sus comunidades a acoger menores inmigrantes procedentes de Ceuta, actitud que ha achacado al temor a romper sus pactos con Vox, y ha a.
+
+Date: 2026-08-05
+
+### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
+
+El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
+
+Date: 2026-08-05
+
+### El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen
+
+Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser "justo y con el Gobierno asumiendo la responsabilidad de sus propios actos" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.
+
+Date: 2026-08-05
+
+### El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta
+
+El Partido Popular ha querido marcar perfil propio en pleno debate sobre la gestión de los menores migrantes no acompañados llegados a Ceuta tras la avalancha de 72.000 personas que colapsó la ciudad. La vicesecretaria de Coordinación Sectorial del partido, Alma Ezcurra, ha tomado distancia este miércoles del discurso.
+
+Date: 2026-08-05
+
+### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
+
+El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...
+
+Date: 2026-08-05
 
 ### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
 
@@ -38,36 +68,10 @@ El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Pr
 
 Date: 2026-08-04
 
-### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
-
-El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
-
-Date: 2026-08-04
-
-### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
-
-La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
-
-Date: 2026-08-04
-
-### Tellado sostiene que la crisis de Ceuta no es migratoria sino "de seguridad nacional" y pide el cese de Marlaska y de Robles
-
-El secretario general del PP , Miguel Tellado , ha afirmado este martes que la crisis desencadenada en Ceuta por la entrada masiva de inmigrantes desde Marruecos la semana pasada "no es una crisis migratoria" sino "de seguridad nacional" y ha exigido el cese del ministro del Interior, Fernando Grande-Marlaska , y de la.
-
-Date: 2026-08-04
-
-### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
-
-El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
-
-Date: 2026-08-04
-
-### El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"
-
-Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad nacional" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: "El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido" El Gobierno anuncia una partida extraordinari.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad](https://www.20minutos.es/nacional/gobierno-apela-solidaridad-las-comunidades-reparto-menores-no-acompanados-entrada-masiva-ceuta_7022735_0.html?utm_source=lootura.com) — 2026-08-05T08:20:21.000Z
+- [El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"](https://www.20minutos.es/ceuta/presidente-ceuta-vamos-seguir-protegiendo-menor-pero-estamos-viviendo-una-situacion-absolutamente-limite_7022756_0.html?utm_source=lootura.com) — 2026-08-05T09:25:57.000Z
+- [El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen](https://www.eldiario.es/politica/pp-enreda-acogida-menores-dice-ahora-cumpliran-ley-comunidades-gobiernan-vox-oponen_1_13428915.html?utm_source=lootura.com) — 2026-08-05T08:58:48.000Z
+- [El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta](https://www.larazon.es/espana/toma-distancia-vox-crisis-menores-migrantes-ceuta_202608056a730f3ba046ad6ebc9e9aac.html?utm_source=lootura.com) — 2026-08-05T10:23:55.000Z
+- [El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta](https://www.lavanguardia.com/politica/20260805/11608200/pp-fuerza-debate-parlamento-europeo-manana-sobre-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-05T08:14:10.000Z

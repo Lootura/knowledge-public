@@ -3,10 +3,22 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-03T02:34:26.087Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
+
+Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.
+
+Date: 2026-08-05
+
+### Santander acelera la adquisición de Webster tras lograr la autorización de la Fed
+
+Santander acelera la adquisición de Webster tras recibir la aprobación de la Reserva Federal (Fed). El banco, que hizo pública la compra a inicios de febrero, prevé cerrar la...
+
+Date: 2026-08-05
 
 ### El Tesoro de EEUU lleva a cabo una intervención histórica
 
@@ -52,4 +64,5 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas](https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com) — 2026-08-05T06:34:34.000Z
+- [Santander acelera la adquisición de Webster tras lograr la autorización de la Fed](https://amp.expansion.com/empresas/banca/2026/08/05/6a72e9b2e5fdeaf6248b4580.html?utm_source=lootura.com) — 2026-08-05T08:24:29.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares
+
+El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.
+
+Date: 2026-08-05
 
 ### Ceuta asaltada y Sánchez no hace nada
 
@@ -62,13 +68,7 @@ Un niño sirio de apenas 3 años yace inmóvil sobre la arena húmeda de una pla
 
 Date: 2026-08-04
 
-### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
-
-La grave crisis migratoria que sufre España está siendo seguida muy de cerca por los principales medios europeos por la gravedad de los hechos y, por supuesto, porque es una...
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T22:31:25.000Z
-- [Ceuta asaltada y Sánchez no hace nada](https://theobjective.com/elsubjetivo/opinion/2026-08-05/ceuta-asaltada-sanchez-nada-articulo-esperanza-aguirre/?utm_source=lootura.com) — 2026-08-05T03:25:00.000Z
+- [El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares](https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com) — 2026-08-05T10:18:47.000Z

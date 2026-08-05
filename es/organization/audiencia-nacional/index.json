@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,26 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
+      "summary": "Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
+      "summary": "La entrada irregular de más de 70.000 personas en Ceuta desde Marruecos , producida fundamentalmente el pasado jueves, comienza a judicializarse. La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información, los días previos a la avalancha, que alertase de que esta se iba a.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
+      "summary": "La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta",
+      "summary": "La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
       "summary": "Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.",
@@ -50,35 +70,33 @@
       "title": "Así cuestiona EEUU la soberanía española sobre Ceuta y Melilla: \"Administradas por España pero en territorio marroquí\"",
       "summary": "Han muerto un centenar de personas . Mientras continúa la difícil búsqueda de los desaparecidos al intentar cruzar a Ceuta, la Audiencia Nacional estudia abrir una investigación sobre si hubo \"una acción dirigida\" por algún \"grupo criminal\". La ciudad española que se asoma al Estrecho de Gibraltar desde África intenta.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La Audiencia Nacional suspende el pago de 152 millones de Repsol a Hacienda por el impuesto a las energéticas",
-      "summary": "La justicia ha respaldado a Repsol en una de sus batallas contra Hacienda . La Audiencia Nacional ha dejado en suspenso el desembolso de 152 millones de euros por el gravamen temporal energético de 2023, el impuesto que el Gobierno impuso al sector energético ―y que se extendió a las entidades financieras― para tratar.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El juez del \"caso Koldo\" valora recabar los datos que quiere Pardo de Vera",
-      "summary": "El magistrado instructor del «caso Koldo» en la Audiencia Nacional (AN), Ismael Moreno, pregunta a la Fiscalía Anticorrupción sobre la procedencia de acceder a la última diligencia de investigación interesada por Isabel Pardo de Vera para defenderse en la pieza sobre el amaño de obra pública, a cambio del cobro de comi.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "En Sumario de tarde: Ceuta cuatro días después; miles de inmigrantes en las calles y primeros reproches a Marruecos",
-      "summary": "Robles evita aclarar si el CNI avisó al Gobierno de la entrada masiva a Ceuta y alaba su labor; El Gobierno devolverá «hasta el último» ilegal marroquí de Ceuta y ataca la posición de Italia; Cientos de marroquíes siguen en Ceuta : el Gobierno tardará meses en devolverlos; y la Audiencia Nacional pide a la Policía que.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”",
-      "summary": "El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una \"respuesta pusilánime, tardía y acomplejada\", pero sobre el reino alauí solo afirma que \"es imprescindible esclarecer qué ha fallado en la cooperación\" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
-      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T03:45:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
+      "url": "https://www.abc.es/gente/isabel-pantoja-pierde-dos-recursos-hacienda-pagar-20260805102850-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:28:50.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:51:09.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
+      "url": "https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:27:43.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta",
+      "url": "https://theobjective.com/espana/tribunales/2026-08-05/juez-guardia-civil-asalto-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:14:47.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

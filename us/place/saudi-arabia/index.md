@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions](https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html?utm_source=lootura.com) — 2026-08-04T10:18:51.000Z
+No public source links.

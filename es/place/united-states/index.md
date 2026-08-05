@@ -3,20 +3,26 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open
+### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
 
-El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en "proceso de recuperación" por la lesión que.
+Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.
 
 Date: 2026-08-05
 
-### Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»
+### Los intereses de Estados Unidos en Israel en Ceuta
 
-Nacho Aragón ha conseguido gestionar varios negocios. El hijo pequeño del empresario Emilio Aragón no solamente tiene su propia marca de ropa sino que, también, abrió un bar y una casa de comidas que cuentan con una gran reputación en la capital. Y no solamente. Hace unos años, junto a un grupo de socios, decidieron ab.
+El respaldo de representantes de ambos países a las reclamaciones territoriales de Rabat tiene como objetivo deslegitimar el apoyo español a Palestina, castigar su negativa a subir el gasto en defensa e impulsar la agenda antimigratoria.
+
+Date: 2026-08-05
+
+### Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open
+
+El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en "proceso de recuperación" por la lesión que.
 
 Date: 2026-08-05
 
@@ -62,14 +68,7 @@ Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones ini
 
 Date: 2026-08-04
 
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open](https://www.20minutos.es/deportes/carlos-alcaraz-tampoco-jugara-masters-1000-cincinnati-debido-su-lesion_7022677_0.html?utm_source=lootura.com) — 2026-08-05T05:37:50.000Z
-- [Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»](https://theobjective.com/gente/2026-08-05/estudios-nacho-hijo-emilio-aragon-estados-unidos-decision/?utm_source=lootura.com) — 2026-08-05T05:30:00.000Z
-- [Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita](https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com) — 2026-08-05T06:00:28.000Z
+- [La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas](https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com) — 2026-08-05T06:34:34.000Z
+- [Los intereses de Estados Unidos en Israel en Ceuta](https://elordenmundial.com/intereses-estados-unidos-israel-ceuta/?utm_source=lootura.com) — 2026-08-05T07:10:30.000Z

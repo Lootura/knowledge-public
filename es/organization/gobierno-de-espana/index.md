@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Portugal acusa a España de incitar un «efecto llamada» por la «falta de regulación» migratoria](https://theobjective.com/espana/2026-08-05/portugal-espana-efecto-llamada-regulacion-migratoria/?utm_source=lootura.com) — 2026-08-05T08:54:17.000Z

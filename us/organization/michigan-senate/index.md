@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [El-Sayed holds narrow lead in Michigan Senate primary but race too close to call](https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election?utm_source=lootura.com) — 2026-08-05T05:06:45.000Z
+No public source links.

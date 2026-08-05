@@ -3,10 +3,34 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says
+
+The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.
+
+Date: 2026-08-05
+
+### How the Ukraine War Became a Fight for the Skies
+
+Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.
+
+Date: 2026-08-05
+
+### Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses
+
+At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.
+
+Date: 2026-08-05
+
+### Finland Tries to Protect Children Against Deepfakes, With Russia in Mind
+
+Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.
+
+Date: 2026-08-05
 
 ### Ukraine hits Russia with deadly strike near busy beach, officials say
 
@@ -44,30 +68,9 @@ Russia and Ukraine traded blame after a drone slammed into a beach in the Black 
 
 Date: 2026-08-04
 
-### Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets
-
-Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.
-
-Date: 2026-08-04
-
-### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
-
-Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
-
-Date: 2026-08-04
-
-### News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak
-
-In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.
-
-Date: 2026-08-03
-
-### Russia blasts Zaporizhzhia with glide bombs while Ukrainian drones kill 9
-
-Russian planes have dropped powerful glide bombs on Zaporizhzhia, Ukraine, killing one person and wounding dozens. Meanwhile, Ukrainian drone debris killed six people in Arkhipo-Osipovka in Russia.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Russia and Ukraine trade drone attacks with 5 people killed in each country](https://www.pbs.org/newshour/world/russia-and-ukraine-trade-drone-attacks-with-5-people-killed-in-each-country?utm_source=lootura.com) — 2026-08-04T20:39:41.000Z
+- [White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says](https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxford-comma/?utm_source=lootura.com) — 2026-08-05T10:17:49.000Z
+- [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com) — 2026-08-05T08:52:43.000Z
+- [Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses](https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com) — 2026-08-05T07:58:16.000Z
+- [Finland Tries to Protect Children Against Deepfakes, With Russia in Mind](https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html?utm_source=lootura.com) — 2026-08-05T09:04:30.000Z

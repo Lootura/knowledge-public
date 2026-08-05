@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Can AI Free Women from the Mental Load of Caregiving?",
+      "summary": "—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.",
+      "date": "2026-08-05"
+    },
     {
       "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
       "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
@@ -59,13 +64,15 @@
       "title": "How TIME and Statista Determined the World's Top EdTech Companies of 2026",
       "summary": "—Illustration by TIME; Mst Innaka Akter/Getty Images TIME has published the third annual \" World’s Top EdTech Companies 2026 \" ranking, in partnership with Statista, a leading international provider of market and consumer data and rankings. The result of this quantitative study: 500 companies dedicated to the developme.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "How to Support Someone Without Giving Advice",
-      "summary": "—Photo-Illustration by TIME (Source Image: Liquid Sky Studio/Getty Images) When someone you care about is going through a hard time, you'd probably do anything to help them feel better . Yet one of the easiest traps to fall into is offering advice too soon. \"We'll often jump into, 'How can I fix this? How can I say the.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Can AI Free Women from the Mental Load of Caregiving?",
+      "url": "https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:00:03.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

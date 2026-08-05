@@ -3,7 +3,7 @@
 > Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/product/wall-street
 
 ## Recent changes
@@ -29,4 +29,3 @@ Date: 2026-08-04
 ## Sources
 
 - [SpaceX shows strong growth in its first earnings report since IPO](https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com) — 2026-08-05T01:41:30.000Z
-- [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z

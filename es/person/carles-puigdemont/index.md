@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El sector crítico de Junts queda desarbolado tras la marcha de Giró](https://www.elconfidencial.com/espana/cataluna/2026-08-05/marcha-giro-junts-oposicion-puigdemont-desarbolada_4401040/?utm_source=lootura.com) — 2026-08-05T03:00:00.000Z
+No public source links.

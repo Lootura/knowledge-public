@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día
+
+Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño por algunos de los destinos más exclusivos del Mediterráneo. Después de dejarse ver juntos en Miami, Ibiza, Cerdeña y Barcelona , el futbolista francés ha dado un paso más en su relación al compartir por primera vez una fotografía de la actriz.
+
+Date: 2026-08-05
 
 ### Ofensiva contra el aumento de la venta y consumo de droga en Barcelona
 
@@ -62,12 +68,6 @@ El icónico escritor pasó la verbena de San Juan atónito ante los disparos de 
 
 Date: 2026-08-02
 
-### Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo
-
-El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día](https://okdiario.com/cool/lifestyle/millonario-yate-cine-privado-donde-mbappe-ester-exposito-han-hecho-oficial-romance-cuesta-9-000-euros-dia-19129145?utm_source=lootura.com) — 2026-08-05T10:06:18.000Z

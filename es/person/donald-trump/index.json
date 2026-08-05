@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
+      "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita",
       "summary": "Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.",
@@ -68,25 +73,14 @@
       "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
       "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
-      "summary": "La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán",
-      "url": "https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:42:44.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita",
-      "url": "https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-05T06:00:28.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:06:49.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

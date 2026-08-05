@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.json",
   "description": "Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "Isabel Pantoja Martín",
     "La Pantoja",
@@ -16,6 +16,11 @@
     "Pantoja"
   ],
   "changes": [
+    {
+      "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
+      "summary": "Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
       "summary": "Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.",
@@ -39,10 +44,10 @@
   ],
   "sources": [
     {
-      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
-      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T03:45:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
+      "url": "https://www.abc.es/gente/isabel-pantoja-pierde-dos-recursos-hacienda-pagar-20260805102850-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:28:50.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

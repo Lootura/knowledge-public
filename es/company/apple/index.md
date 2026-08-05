@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### ‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo
+
+Han pasado tres largos años, pero la temporada 4 de Ted Lasso por fin ha llegado. Durante muchos meses, tanto Apple TV como el resto del equipo se mostraron favorables a continuar con la exitosa serie de comedia y fútbol. Pero la condición indispensable era que Jason Sudeikis , su creador y protagonista, encontrase la.
+
+Date: 2026-08-05
 
 ### Pável Dúrov explica por qué Apple eliminó Telegram de la App Store
 
@@ -62,12 +68,6 @@ iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta S
 
 Date: 2026-08-01
 
-### Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone
-
-Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directamente dentro del simulador de Apple . Si tienes una Mac y una suscripción de pago de Claude, ya puedes p.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Pável Dúrov explica por qué Apple eliminó Telegram de la App Store](https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/?utm_source=lootura.com) — 2026-08-04T23:33:34.000Z
+- [‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo](https://hipertextual.com/cine-television/ted-lasso-temporada-4-critica/?utm_source=lootura.com) — 2026-08-05T08:04:05.000Z

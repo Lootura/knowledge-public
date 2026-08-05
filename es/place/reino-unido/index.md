@@ -3,10 +3,22 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales
+
+La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscado por las autoridades británicas por graves conductas de agresión sexual cometidas entre 2012 y 2022 y que se encontraba huido de su país, teniendo en vigor una orden internacional de detención. Las investigaciones comenzaron el pasado 2024,.
+
+Date: 2026-08-05
+
+### Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales
+
+Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.
+
+Date: 2026-08-05
 
 ### Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento
 
@@ -56,18 +68,7 @@ La Policía irlandesa se ha incautado esta semana de una « potente bomba » dur
 
 Date: 2026-07-24
 
-### Reino Unido prepara barcos autónomos capaces de derribar drones con sistemas de misiles guiados de precisión
-
-Reino Unido avanza en el desarrollo de una defensa marítima contra ataques masivos con drones basada en barcos autónomos, lanzadores modulares y pequeños misiles guiados de precisión concebidos para fabricarse a gran escala . La compañía británica Babcock International , la también británica ACUA Ocean Technologies y l.
-
-Date: 2026-07-24
-
-### Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester
-
-El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales](https://www.abc.es/espana/madrid/detienen-madrid-fugitivo-buscado-reino-unido-varias-20260805110144-nt.html?utm_source=lootura.com) — 2026-08-05T09:01:45.000Z
+- [Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales](https://www.elconfidencial.com/espana/madrid/2026-08-05/policia-madrid-detenido-agresion-sexual-1tna-1tps_4401230/?utm_source=lootura.com) — 2026-08-05T08:07:00.000Z

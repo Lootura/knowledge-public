@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
+      "summary": "Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Two Cities With a Tangled History",
+      "summary": "Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
       "summary": "Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.",
@@ -54,18 +64,21 @@
       "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
       "summary": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-      "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "summary": "Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
+      "url": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T07:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Two Cities With a Tangled History",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:09:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
 }

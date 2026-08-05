@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero "no cerró la puerta"](https://amp.elmundo.es/espana/2026/08/04/6a7244affc6c83397d8b4585.html?utm_source=lootura.com) — 2026-08-04T20:43:37.000Z
-- [Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”](https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com) — 2026-08-04T17:44:04.000Z
+No public source links.

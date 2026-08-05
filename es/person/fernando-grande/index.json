@@ -62,19 +62,6 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero \"no cerró la puerta\"",
-      "url": "https://amp.elmundo.es/espana/2026/08/04/6a7244affc6c83397d8b4585.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:43:37.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”",
-      "url": "https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:44:04.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

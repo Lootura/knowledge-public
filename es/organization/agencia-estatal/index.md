@@ -28,5 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades](https://www.20minutos.es/nacional/calor-tormentas-viento-oleaje-ponen-aviso-siete-comunidades-este-miercoles_7022601_0.html?utm_source=lootura.com) — 2026-08-05T05:19:29.000Z
-- [Repunte del calor en Madrid: la región afronta una semana de vigilancia ante los incendios](https://www.larazon.es/madrid/repunte-calor-madrid-region-afronta-semana-vigilancia-incendios_202608056a72d198a046ad6ebc9e0be0.html?utm_source=lootura.com) — 2026-08-05T06:00:56.000Z
+No public source links.

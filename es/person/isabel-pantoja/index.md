@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
+
+### Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más
+
+Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.
+
+Date: 2026-08-05
 
 ### Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros](https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html?utm_source=lootura.com) — 2026-08-05T03:45:01.000Z
+- [Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más](https://www.abc.es/gente/isabel-pantoja-pierde-dos-recursos-hacienda-pagar-20260805102850-nt.html?utm_source=lootura.com) — 2026-08-05T08:28:50.000Z

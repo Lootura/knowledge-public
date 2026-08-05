@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,11 @@
     {
       "title": "What’s missing from the White House plan for the future of US science",
       "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
+      "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
       "date": "2026-08-05"
     },
     {
@@ -62,14 +67,15 @@
       "title": "Funding milestone detected",
       "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-31"
     }
   ],
   "sources": [
+    {
+      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxford-comma/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:17:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "What’s missing from the White House plan for the future of US science",
       "url": "https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com",

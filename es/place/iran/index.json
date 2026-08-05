@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
+      "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El Ibex afianza los 20.000 y explora nuevos récords",
+      "summary": "Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El Ibex busca apuntalar los 20.000 puntos",
       "summary": "Los mercados no desentonan, pese al correctivo que sufre SpaceX tras publicar resultados. Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, también en un Ibex que trata de afianzar los 20.000 puntos conquistados ayer por primera vez.",
@@ -57,36 +67,20 @@
       "title": "La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona",
       "summary": "El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
-      "summary": "La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
-      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán",
-      "url": "https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:42:44.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Ibex busca apuntalar los 20.000 puntos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T06:11:55.000Z",
+      "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:06:49.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Ofensiva legislativa en EE.UU. para que el Frente Polisario sea designado organización terrorista",
-      "url": "https://www.lavanguardia.com/internacional/20260805/11607830/ofensiva-legislativa-ee-uu-frente-polisario-sea-designado-organizacion-terrorista.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El Ibex afianza los 20.000 y explora nuevos récords",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:27:18.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 2

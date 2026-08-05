@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-02T06:30:38.679Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [Sumar plantea que España no comparta la organización del Mundial de fútbol de 2030 con Marruecos](https://www.eldiario.es/politica/sumar-plantea-espana-no-comparta-organizacion-mundial-futbol-2030-marruecos_1_13429417.html?utm_source=lootura.com) — 2026-08-05T10:05:50.000Z

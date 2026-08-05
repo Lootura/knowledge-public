@@ -3,10 +3,40 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Ascienden a 19 los migrantes rescatados en el naufragio de una patera en Cabrera y siguen buscando desaparecidos
+
+El balance de la Guardia Civil eleva a 19 las personas rescatadas tras el naufragio de una patera a unas diez millas al sureste de Cabrera, entre ellas varias mujeres. Mientras tanto, continúa la búsqueda de alrededor de una decena de desaparecidos, según la Delegación del Gobierno. Este martes se había informado del h.
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta
+
+La entrada irregular de más de 70.000 personas en Ceuta desde Marruecos , producida fundamentalmente el pasado jueves, comienza a judicializarse. La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información, los días previos a la avalancha, que alertase de que esta se iba a.
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
+
+La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
+
+Date: 2026-08-05
+
+### Recomendaciones de la Guardia Civil para el día del eclipse
+
+En el marco del evento astronómico Trío de Eclipses, en concreto en lo ateniente al que tendrá lugar el próximo 12 de agosto de 2.026 y que afectará de forma total, a varias comunidades autónomas, entre ellas al Principado de Asturias, la Guardia Civil ha iniciado un proceso de planificación y refuerzo de las medidas d.
+
+Date: 2026-08-05
+
+### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
+
+La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
+
+Date: 2026-08-05
 
 ### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
 
@@ -38,36 +68,10 @@ La Delegación del Gobierno ha elevado a 75 el número de cadáveres recuperados
 
 Date: 2026-08-04
 
-### El PP denuncia "abandono" en los cuarteles de la Guardia Civil del medio rural
-
-El PP de Valladolid ha denunciado este martes lo que considera como un "abandono" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.
-
-Date: 2026-08-04
-
-### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
-
-«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
-
-Date: 2026-08-04
-
-### Matar niños por ser hijos de guardias civiles
-
-ETA, a lo largo de su siniestra historia, protagonizó un capítulo tan sanguinario como hipócrita. "Advirtió" que todos aquellos que vivieran en cuarteles de la Guardia Civil, aunque fueran niños o mujeres, se convertían en objetivos de sus acciones criminales. Ellos ya lo habían advertido, como si eso les exculpara y l.
-
-Date: 2026-08-04
-
-### Guardias civiles y policías señalan a Marlaska por la crisis en Ceuta: «Lo sabían»
-
-«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado desde la Delegación de Gobierno de la ciudad autónoma afect.
-
-Date: 2026-08-03
-
-### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
-
-El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Ascienden a 19 los migrantes rescatados en el naufragio de una patera en Cabrera y siguen buscando desaparecidos](https://www.elconfidencial.com/espana/2026-08-05/naufragio-patera-migrantes-cabrera-baleares-1tna-1tps_4401243/?utm_source=lootura.com) — 2026-08-05T08:38:00.000Z
+- [La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta](https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html?utm_source=lootura.com) — 2026-08-05T09:51:09.000Z
+- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta](https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html?utm_source=lootura.com) — 2026-08-05T09:27:43.000Z
+- [Recomendaciones de la Guardia Civil para el día del eclipse](https://www.larazon.es/sociedad/recomendaciones-guardia-civil-dia-eclipse_202608056a730e1071b42a0b5ddcbeb3.html?utm_source=lootura.com) — 2026-08-05T10:18:56.000Z
+- [La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta](https://theobjective.com/espana/tribunales/2026-08-05/juez-guardia-civil-asalto-ceuta/?utm_source=lootura.com) — 2026-08-05T09:14:47.000Z

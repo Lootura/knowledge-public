@@ -3,80 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos
+### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
 
-En abril de 2025, el ministro de Exteriores José Manuel Albares , en una reunión en Madrid con su homólogo marroquí, defendió que las relaciones entre España y Marruecos atravesaban su "mejor momento histórico" . Meses después, una reunión de alto nivel entre ambos países culminaba el deshielo entre Madrid y Rabat, ini.
-
-Date: 2026-08-05
-
-### Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades
-
-El calor, la lluvia, las tormentas, el viento y las olas pondrán este miércoles en aviso a siete comunidades autónomas , según la predicción de la Agencia Estatal de Meteorología (Aemet). La jornada estará marcada por el tiempo estable en buena parte de España, aunque con riesgo de chubascos y tormentas localmente fuer.
+El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
 
 Date: 2026-08-05
 
-### España consigue calmar a Europa tras la crisis de Ceuta pero no limar las asperezas por la regularización de inmigrantes
+### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo
 
-España parece haber logrado convencer a sus socios europeos de que la entrada masiva de 72.000 inmigrantes en Ceuta se ha gestionado con diligencia y que no ha peligrado "en ningún momento" la seguridad comunitaria ni "ha estado comprometido el Espacio Schengen". Si en las horas posteriores al incidente países como Din.
-
-Date: 2026-08-05
-
-### Claves del 'no' del Supremo a las devoluciones 'en caliente' a nado: del papel de los drones a unas boyas que pueden ir a los tribunales
-
-La entrada masiva en Ceuta de 72.000 inmigrantes irregulares desde Marruecos el jueves pasado ha desencadenado una crisis migratoria. La mayoría de estas personas, que accedieron de forma irregular a España, lo hicieron bordeando a nado el espigón del Tarajal. Tres semanas antes el Tribunal Supremo había dictado una se.
+Agosto comenzó en España en medio de una ola de calor , la cuarta del año, dejando temperaturas por encima de los 40 grados. Sin embargo, al inicio de la semana se dio fin a ese episodio de calor extremo.Los termómetros bajaron unos cuantos grados y la mayoría del país ha podido experimentar un par de días de temperatu.
 
 Date: 2026-08-05
 
-### Las olas de calor de julio elevaron un 3,4% el consumo eléctrico, que creció hasta un 6,9%
+### Jordi Hurtado: «Desayuno dos o tres veces al día y siempre tengo frutos secos en mi camerino»
 
-La demanda de electricidad en España fue el pasado mes de julio un 6,9% mayor a la registrada en julio del año pasado, según Red Eléctrica , que constata un incremento que atribuye a una mayor electrificación , correspondiente a un alza del 3,5% de ese total, pero también a las olas de calor que se sucedieron durante e.
-
-Date: 2026-08-05
-
-### La Aemet avisa a España de la llegada de lluvias y tormentas con granizo: estas son las zonas más afectadas
-
-El organismo también indica que las temperatuas van a ascender en varios puntos del país, mientras en otros serán frescas.
+En España son muchos los programas de televisión que, en el imaginario colectivo, están directamente vinculados a un rostro concreto, que habitualmente es el del presentador . Así, cuando se menciona un concurso, magazine, reality show, etc, el público piensa inmediatamente en una persona y un nombre . Esto suele ocurr.
 
 Date: 2026-08-05
 
-### Cinco playas de interior para descubrir el otro verano en España
+### Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse
 
-La geografía española no solo puede presumir de contar con más de 7.000 kilómetros de costa con arenales que son auténticos paraísos, sino que, además, ofrece una alternativa para quienes buscan algo más accesible y menos masificado: las playas de interior. Lagos, ríos y pantanos con zonas acondicionadas y un buen puña.
-
-Date: 2026-08-05
-
-### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
-
-La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores y la coordinación entre España, Marruecos y la Unión Europea. Aunque la presión en la frontera se ha reducido respecto a los primeros días, las autoridades manti.
+Las principales operadoras de telecomunicaciones en España —Telefónica, MasOrange y Vodafone— junto al gestor de infraestructuras Cellnex han desplegado un operativo técnico especial centrado en más de 700 puntos clave para garantizar el tráfico de datos e itinerancia durante el eclipse solar total del próximo 12 de ag.
 
 Date: 2026-08-05
 
-### Tormentas muy fuertes, lluvias intensas y granizadas: el brusco cambio de tiempo que llega a España
+### Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina
 
-La llegada de una vaguada procedente del Atlántico ha puesto fin a la reciente ola de calor en España al favorecer la llegada de una masa de aire más fresca. Este cambio de tiempo no solo ha provocado un descenso de las temperaturas, sino también un aumento de la inestabilidad atmosférica , con lluvias y tormentas en n.
+La Policía ha desarticulado en Cataluña una célula del Cártel Jalisco dedicada al tráfico internacional de metanfetamina oculta en extracto líquido de vainilla . El operativo se ha saldado con trece detenidos -doce ya en prisión- y la incautación de uno de los mayores alijos de esta sustancia en España y Europa: 2,5 to.
 
 Date: 2026-08-05
 
-### Los desaparecidos de Ceuta
+### Samuel Biener, meteorólogo, sobre el tiempo en España a partir de este fin de semana: "Aguaceros muy intensos y fenómenos adversos"
 
-Cinco días, con sus largas noches en vela, sin saber nada de ellos. Las familias que no tienen noticias de sus jóvenes que acudieron a Ceuta, ante la llamada de que la frontera a España estaba abierta, están inundando las redes sociales con fotografías de los desaparecidos. Hay una de Mohamed Afasi, en bañador, con una.
+Una vaguada provocará un importante cambio de tiempo en España a partir de este fin de semana , con tormentas fuertes, lluvias intensas, granizadas y vendavales. Las zonas más afectadas estarán en el norte y el este de la Península , aunque la evolución definitiva del episodio todavía presenta cierta incertidumbre. El.
+
+Date: 2026-08-05
+
+### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
+
+La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
+
+Date: 2026-08-05
+
+### Hasta 3.000 euros de multa: la obligación que sorprende a quienes tienen gallinas para autoconsumo
+
+Cada vez son más las personas que deciden criar unas pocas gallinas en casa para consumir sus propios huevos . La búsqueda de hábitos más sostenibles y el interés por los productos de proximidad han impulsado el auge de pequeños gallineros domésticos en distintos puntos de España. Sin embargo, muchos propietarios desco.
+
+Date: 2026-08-05
+
+### De desperdicio cárnico a icono de la gastronomía extremeña: el guiso divino que tiene incluso su propia Fiesta de Interés Turístico desde hace 60 años
+
+En España hay platos que apenas se conocen fuera de su comarca, y este es uno de ellos: un guiso contundente y muy sabroso que se hace con vísceras de cordero, a la vez que enamora a casi todo el que lo prueba. Y en Extremadura , su fiesta lleva ya seis décadas reuniendo a todo un pueblo alrededor del caldero. Se trata.
+
+Date: 2026-08-05
+
+### Máxima expectación entre los biólogos españoles por el comportamiento de los insectos durante el eclipse del próximo 12 de agosto
+
+Biólogos de toda España se preparan para un experimento único durante el eclipse del próximo 12 de agosto. Esto es lo que quieren averiguar.
 
 Date: 2026-08-05
 
 ## Fuentes
 
-- [Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos](https://www.20minutos.es/internacional/caso-ghali-crisis-ceuta-cinco-anos-luces-sombras-relacion-entre-espana-marruecos_7022472_0.html?utm_source=lootura.com) — 2026-08-05T05:09:29.000Z
-- [Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades](https://www.20minutos.es/nacional/calor-tormentas-viento-oleaje-ponen-aviso-siete-comunidades-este-miercoles_7022601_0.html?utm_source=lootura.com) — 2026-08-05T05:19:29.000Z
-- [España consigue calmar a Europa tras la crisis de Ceuta pero no limar las asperezas por la regularización de inmigrantes](https://www.20minutos.es/nacional/espana-consigue-calmar-europa-tras-crisis-ceuta-pero-no-limar-las-asperezas-por-regularizacion-inmigrantes_7022550_0.html?utm_source=lootura.com) — 2026-08-05T05:07:47.000Z
-- [Claves del 'no' del Supremo a las devoluciones 'en caliente' a nado: del papel de los drones a unas boyas que pueden ir a los tribunales](https://www.20minutos.es/nacional/claves-no-supremo-las-devoluciones-caliente-nado-papel-los-drones-unas-boyas-que-pueden-volver-los-tribunales_7022517_0.html?utm_source=lootura.com) — 2026-08-05T05:08:54.000Z
-- [Las olas de calor de julio elevaron un 3,4% el consumo eléctrico, que creció hasta un 6,9%](https://www.20minutos.es/nacional/las-olas-calor-julio-elevaron-un-3-4-consumo-electrico-que-crecio-hasta-un-6-9-con-respecto-julio-2025_7022416_0.html?utm_source=lootura.com) — 2026-08-05T05:10:48.000Z
-- [La Aemet avisa a España de la llegada de lluvias y tormentas con granizo: estas son las zonas más afectadas](https://www.abc.es/sociedad/aemet-avisa-espana-llegada-lluvias-tormentas-granizo-20260805075550-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:55:51.000Z
-- [Cinco playas de interior para descubrir el otro verano en España](https://www.abc.es/viajar/playas/cinco-playas-interior-descubrir-cara-verano-espanol-20260804160704-nt.html?utm_source=lootura.com) — 2026-08-05T04:47:58.000Z
-- [Anclajes de la acción exterior](https://www.elmundo.es/internacional/2026/08/04/6a71f1ccfdddff3b048b4596.html?utm_source=lootura.com) — 2026-08-04T20:42:55.000Z
+- [El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"](https://www.20minutos.es/ceuta/presidente-ceuta-vamos-seguir-protegiendo-menor-pero-estamos-viviendo-una-situacion-absolutamente-limite_7022756_0.html?utm_source=lootura.com) — 2026-08-05T09:25:57.000Z
+- [La Aemet avisa a España de la llegada de lluvias y tormentas con granizo](https://www.abc.es/sociedad/aemet-avisa-espana-llegada-lluvias-tormentas-granizo-20260805075550-nt.html?utm_source=lootura.com) — 2026-08-05T08:55:19.000Z
+- [Jordi Hurtado: «Desayuno dos o tres veces al día y siempre tengo frutos secos en mi camerino»](https://www.abc.es/gente/jordi-hurtado-anos-desayuno-dos-tres-veces-20260805075723-nt.html?utm_source=lootura.com) — 2026-08-05T08:44:21.000Z
+- [Telefónica, MasOrange, Vodafone y Cellnex montan un dispositivo especial ante el eclipse](https://elpais.com/economia/2026-08-05/telefonica-masorange-vodafone-y-cellnex-montan-un-dispositivo-especial-ante-el-eclipse.html?utm_source=lootura.com) — 2026-08-05T09:58:50.000Z
+- [Golpe al Cártel Jalisco en España: 13 detenidos con uno de los mayores alijos de metanfetamina](https://www.elconfidencial.com/espana/cataluna/2026-08-05/cartel-jalisco-metanfetamina-cataluna-1tna-1tps_4401276/?utm_source=lootura.com) — 2026-08-05T09:20:00.000Z
+- [Samuel Biener, meteorólogo, sobre el tiempo en España a partir de este fin de semana: "Aguaceros muy intensos y fenómenos adversos"](https://www.elconfidencial.com/espana/2026-08-05/samuel-biener-meteorologo-tiempo-espana_4401180/?utm_source=lootura.com) — 2026-08-05T07:35:00.000Z
 - [La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo](https://www.elmundo.es/economia/empresas/2026/08/05/6a71bbdbe9cf4a070e8b45a7.html?utm_source=lootura.com) — 2026-08-04T23:09:12.000Z
-- [Los socios de la UE rebajan las críticas a España por la crisis de Ceuta y le muestran ahora su “total solidaridad”](https://elpais.com/espana/2026-08-04/los-socios-de-la-ue-rebajan-las-criticas-a-espana-por-la-crisis-de-ceuta-y-le-muestran-ahora-su-total-solidaridad.html?utm_source=lootura.com) — 2026-08-04T17:44:04.000Z
+- [La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta](https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html?utm_source=lootura.com) — 2026-08-05T09:27:43.000Z
+- [Hasta 3.000 euros de multa: la obligación que sorprende a quienes tienen gallinas para autoconsumo](https://www.larazon.es/actualidad/3000-euros-multa-obligacion-que-sorprende-quienes-tienen-gallinas-autoconsumo-b51m_202608056a730faf71b42a0b5ddcc301.html?utm_source=lootura.com) — 2026-08-05T10:25:51.000Z
+- [De desperdicio cárnico a icono de la gastronomía extremeña: el guiso divino que tiene incluso su propia Fiesta de Interés Turístico desde hace 60 años](https://okdiario.com/gastronomia/desperdicio-carnico-icono-gastronomia-extremena-guiso-divino-que-tiene-incluso-propia-fiesta-interes-turistico-desde-hace-60-anos-19040138?utm_source=lootura.com) — 2026-08-05T10:00:30.000Z

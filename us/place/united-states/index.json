@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -45,11 +45,6 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
-      "summary": "The Trump administration revoked the visa of Brazil’s U.S. ambassador Tuesday — the latest jab in a monthslong diplomatic spat between the two countries.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
       "summary": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
       "date": "2026-08-05"
@@ -60,28 +55,33 @@
       "date": "2026-08-05"
     },
     {
+      "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages",
+      "summary": "Guatemala remained on alert Tuesday after evacuating villages during an eruption of the Fuego volcano, one of Central America's most active.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "summary": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Missouri Voters Reject Measure to Limit Their Ballot Box Powers",
+      "summary": "The state’s conservative Legislature had put the measure on the ballot that would have enacted citizen initiatives only if they won majorities in each of Missouri’s eight U.S. House districts.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "What Gives Me Hope About the Future of Public Health in the U.S.",
+      "summary": "A health worker prepares a dose of the measles vaccine at a health center in Lubbock, Texas, on Feb. 27, 2025. —Ronaldo Schemidt—AFP/Getty Images Periods of disruption have often forced societies to rethink old assumptions, create new institutions, and find novel ways to solve problems. I have been thinking about that.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+      "summary": "The Trump administration revoked the visa of Brazil’s U.S. ambassador Tuesday — the latest jab in a monthslong diplomatic spat between the two countries.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "How Well Is the Progressive Left Actually Doing?",
-      "summary": "Its wins have been largely confined to highly educated and heavily Democratic parts of urban America. But two races could change that.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "McDonald’s struggles to attract bargain-hungry customers",
-      "summary": "McDonald’s just reported its slowest U.S. sales growth in over a year as its value push fell flat with customers who continue to struggle with higher prices.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Annie Jacobsen and Geoff Bennett discuss 'Biological War' on 'Settle In'",
-      "summary": "What would happen if the next major national security threat wasn't a missile or a bomb but a deliberately engineered pathogen? That's the premise of \"Biological War: A Scenario,\" the new book by Pulitzer Prize-winning investigative journalist Annie Jacobsen. Geoff Bennett discussed America's preparedness for biologica.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
       "date": "2026-08-04"
     }
   ],
@@ -105,22 +105,22 @@
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "McDonald’s struggles to attract bargain-hungry customers",
-      "url": "https://www.nbcnews.com/business/consumer/mcdonalds-sales-struggle-value-meals-rcna590683?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:17:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
-      "url": "https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:38:00.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Annie Jacobsen and Geoff Bennett discuss 'Biological War' on 'Settle In'",
       "url": "https://www.pbs.org/newshour/show/annie-jacobsen-and-geoff-bennett-discuss-biological-war-on-settle-in?utm_source=lootura.com",
       "publishedAt": "2026-08-04T22:20:52.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages",
+      "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T06:38:30.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:47:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
@@ -135,10 +135,16 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "How Well Is the Progressive Left Actually Doing?",
-      "url": "https://www.nytimes.com/2026/08/04/upshot/progressive-left-michigan-wisconsin.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:47:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Missouri Voters Reject Measure to Limit Their Ballot Box Powers",
+      "url": "https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:17:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "What Gives Me Hope About the Future of Public Health in the U.S.",
+      "url": "https://time.com/article/2026/08/05/future-public-health-cdc-debra-houry-essay/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 10

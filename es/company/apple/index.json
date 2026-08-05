@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo",
+      "summary": "Han pasado tres largos años, pero la temporada 4 de Ted Lasso por fin ha llegado. Durante muchos meses, tanto Apple TV como el resto del equipo se mostraron favorables a continuar con la exitosa serie de comedia y fútbol. Pero la condición indispensable era que Jason Sudeikis , su creador y protagonista, encontrase la.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
       "summary": "Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso . La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas de la tienda de aplicaciones. Luego de unas horas, la App Store restauró el ac.",
@@ -58,18 +63,13 @@
       "title": "Nadie habla de esta función de iOS 27 y te va a cambiar la vida: es lo más útil que ha hecho Apple",
       "summary": "iOS 27 está llena de pequeñas funciones que pasan desapercibidas entre tanta Siri con IA, pero algunas son especialmente útiles y dignas de mención, como esta de la que casi nadie se ha dado cuenta . Se trata de una característica que muchos llevan pidiendo y que te va a ahorrar muchísimo tiempo. Además, te va a permit.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone",
-      "summary": "Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directamente dentro del simulador de Apple . Si tienes una Mac y una suscripción de pago de Claude, ya puedes p.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
-      "url": "https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T23:33:34.000Z",
+      "title": "‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo",
+      "url": "https://hipertextual.com/cine-television/ted-lasso-temporada-4-critica/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:04:05.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],

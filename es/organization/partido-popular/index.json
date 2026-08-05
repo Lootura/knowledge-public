@@ -8,12 +8,37 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El Gobierno reclama a las autonomías \"solidaridad\" a en el reparto de los menores que entraron a la ciudad",
+      "summary": "El vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo , ha confiado este miércoles en no entrar en un conflicto judicial con el PP por una hipotética negativa de sus comunidades a acoger menores inmigrantes procedentes de Ceuta, actitud que ha achacado al temor a romper sus pactos con Vox, y ha a.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El presidente de Ceuta: \"Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite\"",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles \"socorro\" y \"auxilio\" al \"resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación\", ante la situación \"absolutamente límite\" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El PP se enreda con la acogida de menores: dice ahora que \"cumplirán la ley\" mientras varias comunidades en las que gobiernan con Vox se oponen",
+      "summary": "Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser \"justo y con el Gobierno asumiendo la responsabilidad de sus propios actos\" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta",
+      "summary": "El Partido Popular ha querido marcar perfil propio en pleno debate sobre la gestión de los menores migrantes no acompañados llegados a Ceuta tras la avalancha de 72.000 personas que colapsó la ciudad. La vicesecretaria de Coordinación Sectorial del partido, Alma Ezcurra, ha tomado distancia este miércoles del discurso.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta",
+      "summary": "El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...",
+      "date": "2026-08-05"
+    },
     {
       "title": "El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”",
       "summary": "Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.",
@@ -38,33 +63,39 @@
       "title": "El PP exige que el jefe de gabinete de Sánchez comparezca por el cese de la empleada de Moncloa",
       "summary": "El PP ha reclamado la comparecencia parlamentaria del director de Gabinete de Presidencia del Gobierno , Diego Rubio, para que informe del cese de la funcionaria del departamento de Seguridad Nacional que publicó los primeros datos de entrada ilegal de migrantes en la crisis de Ceuta del pasado jueves. En las primeras.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El PP denuncia \"abandono\" en los cuarteles de la Guardia Civil del medio rural",
-      "summary": "El PP de Valladolid ha denunciado este martes lo que considera como un \"abandono\" del Gobierno hacia los cuarteles de la Guardia Civil ubicados en el medio rural, en concreto respecto al del municipio vallisoletano de Mayorga, que ha sido objeto de varias preguntas parlamentarias cuya respuesta ha disgustado a los parl.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
-      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Tellado sostiene que la crisis de Ceuta no es migratoria sino \"de seguridad nacional\" y pide el cese de Marlaska y de Robles",
-      "summary": "El secretario general del PP , Miguel Tellado , ha afirmado este martes que la crisis desencadenada en Ceuta por la entrada masiva de inmigrantes desde Marruecos la semana pasada \"no es una crisis migratoria\" sino \"de seguridad nacional\" y ha exigido el cese del ministro del Interior, Fernando Grande-Marlaska , y de la.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»",
-      "summary": "El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: \"No tiene nada que ver con situaciones anteriores\"",
-      "summary": "Tellado se escuda en que la situación en Ceuta es \"una crisis de seguridad nacional\" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: \"El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido\" El Gobierno anuncia una partida extraordinari.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno reclama a las autonomías \"solidaridad\" a en el reparto de los menores que entraron a la ciudad",
+      "url": "https://www.20minutos.es/nacional/gobierno-apela-solidaridad-las-comunidades-reparto-menores-no-acompanados-entrada-masiva-ceuta_7022735_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:20:21.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El presidente de Ceuta: \"Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite\"",
+      "url": "https://www.20minutos.es/ceuta/presidente-ceuta-vamos-seguir-protegiendo-menor-pero-estamos-viviendo-una-situacion-absolutamente-limite_7022756_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:25:57.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El PP se enreda con la acogida de menores: dice ahora que \"cumplirán la ley\" mientras varias comunidades en las que gobiernan con Vox se oponen",
+      "url": "https://www.eldiario.es/politica/pp-enreda-acogida-menores-dice-ahora-cumpliran-ley-comunidades-gobiernan-vox-oponen_1_13428915.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:58:48.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "El PP toma distancia de Vox por la crisis de los menores migrantes en Ceuta",
+      "url": "https://www.larazon.es/espana/toma-distancia-vox-crisis-menores-migrantes-ceuta_202608056a730f3ba046ad6ebc9e9aac.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:23:55.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260805/11608200/pp-fuerza-debate-parlamento-europeo-manana-sobre-crisis-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:14:10.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 5
 }

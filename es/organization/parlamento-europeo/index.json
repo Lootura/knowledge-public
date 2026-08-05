@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -21,13 +21,18 @@
   ],
   "changes": [
     {
-      "title": "Junts acaba con ocho años de aislamiento europeo y se integra en el Partido Demócrata para acceder al grupo liberal de la Eurocámara Renew Europe",
-      "summary": "En 2018, los 'neoconvergentes' fueron expulsados del bloque de los liberales del Parlamento Europeo, en el que también estaba Ciudadanos Leer.",
-      "date": "2026-08-04"
+      "title": "El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta",
+      "summary": "El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...",
+      "date": "2026-08-05"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Parlamento Europeo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Junts acaba con ocho años de aislamiento europeo y se integra en el Partido Demócrata para acceder al grupo liberal de la Eurocámara Renew Europe",
+      "summary": "En 2018, los 'neoconvergentes' fueron expulsados del bloque de los liberales del Parlamento Europeo, en el que también estaba Ciudadanos Leer.",
       "date": "2026-08-04"
     },
     {
@@ -36,6 +41,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260805/11608200/pp-fuerza-debate-parlamento-europeo-manana-sobre-crisis-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T08:14:10.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

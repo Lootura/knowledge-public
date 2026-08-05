@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
+
+Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
+
+Date: 2026-08-05
 
 ### Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita
 
@@ -62,13 +68,6 @@ Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales a
 
 Date: 2026-08-03
 
-### Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles
-
-La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán](https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com) — 2026-08-04T20:42:44.000Z
-- [Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita](https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com) — 2026-08-05T06:00:28.000Z
+- [Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán](https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com) — 2026-08-05T08:06:49.000Z

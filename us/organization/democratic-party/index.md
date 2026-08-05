@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Pastor Adam Hamilton Wins Kansas Democratic Senate Primary
 
 The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.
+
+Date: 2026-08-05
+
+### Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP
+
+Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).
+
+Date: 2026-08-05
+
+### Progressives didn’t get the big election night they wanted
+
+Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.
 
 Date: 2026-08-05
 
@@ -56,20 +68,9 @@ It is primary day in a handful of states and voters are heading to the polls wit
 
 Date: 2026-08-04
 
-### 5 states have primary elections on Tuesday. These are the races to watch
-
-From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans. (Image credit: Finn Gomez).
-
-Date: 2026-08-04
-
-### Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis
-
-Cori Bush’s 2024 primary loss to Wesley Bell was heralded as a major defeat for the insurgent progressive movement. Now, their rematch for Missouri’s 1st District two years later comes at a time when Bush and her allies seem to be winning the battle for the future of the Democratic Party. The dueling factions in St. Lo.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats?utm_source=lootura.com) — 2026-08-04T17:43:06.000Z
-- [Trump takes trip to West Coast to tout the economy, something polls show he's weak on](https://www.pbs.org/newshour/politics/trump-takes-trip-to-west-coast-to-tout-the-economy-something-polls-show-hes-weak-on?utm_source=lootura.com) — 2026-08-04T18:56:36.000Z
+- [Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [Progressives didn’t get the big election night they wanted](https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096?utm_source=lootura.com) — 2026-08-05T07:41:18.000Z
 - [Pastor Adam Hamilton Wins Kansas Democratic Senate Primary](https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html?utm_source=lootura.com) — 2026-08-05T01:02:45.000Z

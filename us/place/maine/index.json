@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -69,12 +69,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "FBI not conducting civil rights probe into ICE shooting in Maine, sources say",
-      "url": "https://www.cbsnews.com/news/fbi-no-civil-rights-investigation-maine-ice-shooting/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:45:10.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "One Maine community's fight to save a birthing center",
       "url": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight?utm_source=lootura.com",

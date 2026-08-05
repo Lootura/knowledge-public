@@ -1,0 +1,48 @@
+{
+  "id": "es-juan-jesus-vivas",
+  "name": "Juan Jesús Vivas",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/juan-jesus-vivas",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas",
+  "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
+  "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "aliases": [
+    "Juan Jesús Vivas Lara",
+    "Juan Jesus Vivas Lara"
+  ],
+  "changes": [
+    {
+      "title": "El presidente de Ceuta: \"Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite\"",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles \"socorro\" y \"auxilio\" al \"resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación\", ante la situación \"absolutamente límite\" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Juan Jesús Vivas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El presidente de Ceuta: \"Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite\"",
+      "url": "https://www.20minutos.es/ceuta/presidente-ceuta-vamos-seguir-protegiendo-menor-pero-estamos-viviendo-una-situacion-absolutamente-limite_7022756_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T09:25:57.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
+      "url": "https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:18:47.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

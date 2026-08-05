@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,11 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Ceuta asaltada y Sánchez no hace nada",
       "summary": "Hemos visto cómo más de 60.000 personas, en su inmensa mayoría marroquíes varones en edad militar, saltaron por mar la frontera de Ceuta . La foto ha sido portada de muchos medios internacionales, entre ellos de Le Figaro . Como dice el general Dávila, esto es una operación militar perfectamente organizada. «No creo qu.",
@@ -61,11 +66,6 @@
       "title": "100 muertos en la playa mientras Sánchez escucha su ‘playlist’",
       "summary": "Un niño sirio de apenas 3 años yace inmóvil sobre la arena húmeda de una playa turca, con la cara parcialmente hundida en la tierra y el oleaje rozando suavemente su cuerpo. Viste una camiseta roja de manga corta, pantalón azul y zapatillas deportivas. Murió ahogado junto a su madre y su hermano de 5 años cuando intent.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "summary": "La grave crisis migratoria que sufre España está siendo seguida muy de cerca por los principales medios europeos por la gravedad de los hechos y, por supuesto, porque es una...",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -76,9 +76,9 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Ceuta asaltada y Sánchez no hace nada",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-05/ceuta-asaltada-sanchez-nada-articulo-esperanza-aguirre/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T03:25:00.000Z",
+      "title": "El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares",
+      "url": "https://theobjective.com/espana/politica/2026-08-05/vivas-gobierno-irregulares/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-05T10:18:47.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

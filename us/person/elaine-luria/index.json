@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elaine-luria/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elaine-luria/index.json",
   "description": "Follow Elaine Luria, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "Elaine",
     "Elaine Goodman Luria",
@@ -28,17 +28,11 @@
   ],
   "sources": [
     {
-      "title": "Jen Kiggans previews strategy for rematch in Virginia House race against Elaine Luria",
-      "url": "https://www.nbcnews.com/now/video/jen-kiggans-previews-strategy-for-rematch-in-virginia-house-race-against-elaine-luria-267781189706?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:58:46.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T23:36:19.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

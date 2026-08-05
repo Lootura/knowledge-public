@@ -3,20 +3,26 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
 
-### Junts acaba con ocho años de aislamiento europeo y se integra en el Partido Demócrata para acceder al grupo liberal de la Eurocámara Renew Europe
+### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
 
-En 2018, los 'neoconvergentes' fueron expulsados del bloque de los liberales del Parlamento Europeo, en el que también estaba Ciudadanos Leer.
+El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...
 
-Date: 2026-08-04
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
 Parlamento Europeo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-04
+
+### Junts acaba con ocho años de aislamiento europeo y se integra en el Partido Demócrata para acceder al grupo liberal de la Eurocámara Renew Europe
+
+En 2018, los 'neoconvergentes' fueron expulsados del bloque de los liberales del Parlamento Europeo, en el que también estaba Ciudadanos Leer.
 
 Date: 2026-08-04
 
@@ -28,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta](https://www.lavanguardia.com/politica/20260805/11608200/pp-fuerza-debate-parlamento-europeo-manana-sobre-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-05T08:14:10.000Z

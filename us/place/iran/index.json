@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T06:25:54.118Z",
+  "updatedAt": "2026-08-05T10:32:02.239Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,18 +22,8 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
-      "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
       "summary": "The price of Brent crude oil fell sharply.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-      "summary": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
       "date": "2026-08-04"
     },
     {
@@ -49,6 +39,16 @@
     {
       "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
       "summary": "Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
+      "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
+      "summary": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
       "date": "2026-08-04"
     },
     {
@@ -69,10 +69,10 @@
   ],
   "sources": [
     {
-      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-      "url": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:15:27.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Iran and Oman make progress on deal to reopen Strait of Hormuz, officials say",
+      "url": "https://www.pbs.org/newshour/world/iran-and-oman-make-progress-on-deal-to-reopen-strait-of-hormuz-officials-say?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T23:51:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Senate faces long to-do list and little time before recess",
@@ -99,17 +99,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
-      "url": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:18:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
       "url": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T13:50:05.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 6
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El CGPJ estudia una queja de Manos Limpias al juez Peinado
+
+El Consejo General del Poder Judicial ( CGPJ ) estudiará una queja promovida por Manos Limpias contra el juez del ‘caso Begoña Gómez’, Juan Carlos Peinado , en la que el sindicato alega «desconsideración» y tono «descortés» en la audiencia preliminar de la causa que se celebró el pasado 15 de junio. En un escrito, al q.
+
+Date: 2026-08-05
 
 ### Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés
 
@@ -62,12 +68,6 @@ El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos P
 
 Date: 2026-07-20
 
-### Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales
-
-El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [El CGPJ estudia una queja de Manos Limpias al juez Peinado](https://theobjective.com/espana/tribunales/2026-08-05/cgpj-queja-manos-limpias-juez-peinado/?utm_source=lootura.com) — 2026-08-05T09:51:49.000Z

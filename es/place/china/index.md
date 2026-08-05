@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El poder de la Guardia Mora](https://theobjective.com/elsubjetivo/opinion/2026-08-05/poder-guardia-mora-articulo-juan-luis-cebrian/?utm_source=lootura.com) — 2026-08-05T03:25:00.000Z
+No public source links.

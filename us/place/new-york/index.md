@@ -3,20 +3,20 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### Why Texas is betting 'Y'all Street' can take on Wall Street
-
-Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).
-
-Date: 2026-08-04
-
 ### After Midtown Building Buckles, Violations Are Found at Many Other Sites
 
 New York City officials conducted inspections at 180 construction sites. None of the violations posed an immediate danger to the public, they said.
+
+Date: 2026-08-04
+
+### Why Texas is betting 'Y'all Street' can take on Wall Street
+
+Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).
 
 Date: 2026-08-04
 
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Why Texas is betting 'Y'all Street' can take on Wall Street](https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street?utm_source=lootura.com) — 2026-08-04T09:00:00.000Z
 - [After Midtown Building Buckles, Violations Are Found at Many Other Sites](https://www.nytimes.com/2026/08/04/nyregion/nyc-buildings-violations-conversions.html?utm_source=lootura.com) — 2026-08-04T22:22:44.000Z

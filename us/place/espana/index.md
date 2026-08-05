@@ -3,10 +3,22 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### 'Like the end of the world': The eclipse chasers flocking to Spain
+
+Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.
+
+Date: 2026-08-05
+
+### Two Cities With a Tangled History
+
+Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.
+
+Date: 2026-08-05
 
 ### Spain to put containment fence around Ceuta after deadly border rush from Morocco
 
@@ -56,18 +68,7 @@ Far-right politicians and activists are flocking to the Spanish territory on the
 
 Date: 2026-08-02
 
-### After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
-
-Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.
-
-Date: 2026-08-02
-
-### Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta
-
-Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.
-
-Date: 2026-08-02
-
 ## Sources
 
-No public source links.
+- ['Like the end of the world': The eclipse chasers flocking to Spain](https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html?utm_source=lootura.com) — 2026-08-05T07:20:01.000Z
+- [Two Cities With a Tangled History](https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html?utm_source=lootura.com) — 2026-08-05T10:09:52.000Z

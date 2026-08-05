@@ -3,10 +3,34 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad
+
+El vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo , ha confiado este miércoles en no entrar en un conflicto judicial con el PP por una hipotética negativa de sus comunidades a acoger menores inmigrantes procedentes de Ceuta, actitud que ha achacado al temor a romper sus pactos con Vox, y ha a.
+
+Date: 2026-08-05
+
+### La Guardia Civil, ante el nuevo llamado para otra entrada de inmigrantes en Ceuta: "Los protocolos no sustituyen la falta de medios"
+
+El Gobierno de Ceuta ha reconocido este martes que está "preocupado" por la difusión de un nuevo llamamiento en redes sociales para otra entrada masiva de migrantes de cara al 15 de agosto que podría agravar la crisis desatada la semana pasada en la ciudad autónoma. La Guardia Civil ha señalado este miércoles que está.
+
+Date: 2026-08-05
+
+### El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen
+
+Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser "justo y con el Gobierno asumiendo la responsabilidad de sus propios actos" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.
+
+Date: 2026-08-05
+
+### El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000
+
+El Gobierno central y el Gobierno ciudad autónoma de Ceuta no se ponen de acuerdo sobre cuál es la radiografía seis días después de la avalancha de migrantes que cruzó el espigón de El Tarajal. Seguir leyendo...
+
+Date: 2026-08-05
 
 ### El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta
 
@@ -44,30 +68,9 @@ El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no
 
 Date: 2026-08-04
 
-### Melilla se prepara para colocar nuevas barreras de contención migratoria en el mar como ha hecho Ceuta para adaptarse al TS
-
-El Gobierno ha anunciado en el marco de la crisis migratoria y humanitaria de Ceuta que también está trabajando en la instalación de "elementos de contención" en el mar en Melilla , al igual que ha hecho en Ceuta con la barrera flotante, aunque "adaptados" a las necesidades y la realidad de Melilla. El Ministerio del I.
-
-Date: 2026-08-04
-
-### El PP anticipa su rechazo a acoger menores de Ceuta en sus comunidades: "No tiene nada que ver con situaciones anteriores"
-
-Tellado se escuda en que la situación en Ceuta es "una crisis de seguridad nacional" y responde sobre todas las llegadas cuando se le pregunta por el cumplimiento de la ley para atender a los menores: "El Gobierno debe hacer que los inmigrantes vuelvan por donde han venido" El Gobierno anuncia una partida extraordinari.
-
-Date: 2026-08-04
-
-### Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha
-
-Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.
-
-Date: 2026-08-04
-
-### Moncloa cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta
-
-La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisi.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad](https://www.20minutos.es/nacional/gobierno-apela-solidaridad-las-comunidades-reparto-menores-no-acompanados-entrada-masiva-ceuta_7022735_0.html?utm_source=lootura.com) — 2026-08-05T08:20:21.000Z
+- [La Guardia Civil, ante el nuevo llamado para otra entrada de inmigrantes en Ceuta: "Los protocolos no sustituyen la falta de medios"](https://www.20minutos.es/ceuta/guardia-civil-ante-nuevo-llamado-para-otra-entrada-inmigrantes-ceuta-los-protocolos-no-sustituyen-falta-medios_7022736_0.html?utm_source=lootura.com) — 2026-08-05T08:30:11.000Z
+- [El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen](https://www.eldiario.es/politica/pp-enreda-acogida-menores-dice-ahora-cumpliran-ley-comunidades-gobiernan-vox-oponen_1_13428915.html?utm_source=lootura.com) — 2026-08-05T08:58:48.000Z
+- [El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000](https://www.lavanguardia.com/politica/20260805/11608206/gobierno-senala-siguen-ceuta-2-500-migrantes-500-menores.html?utm_source=lootura.com) — 2026-08-05T08:29:50.000Z

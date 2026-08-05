@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
+
+Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
+
+Date: 2026-08-05
+
+### El Ibex afianza los 20.000 y explora nuevos récords
+
+Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.
+
+Date: 2026-08-05
 
 ### El Ibex busca apuntalar los 20.000 puntos
 
@@ -56,20 +68,7 @@ El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trum
 
 Date: 2026-08-04
 
-### Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear
-
-La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...
-
-Date: 2026-08-04
-
-### Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo
-
-El presidente estadounidense arremete contra el régimen iraní después de que afirmara que "no está negociando" actualmente con Washington Leer.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán](https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com) — 2026-08-04T20:42:44.000Z
-- [El Ibex busca apuntalar los 20.000 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T06:11:55.000Z
-- [Ofensiva legislativa en EE.UU. para que el Frente Polisario sea designado organización terrorista](https://www.lavanguardia.com/internacional/20260805/11607830/ofensiva-legislativa-ee-uu-frente-polisario-sea-designado-organizacion-terrorista.html?utm_source=lootura.com) — 2026-08-05T04:00:00.000Z
+- [Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán](https://www.expansion.com/economia/financial-times/2026/08/05/6a72ea6b468aeb91248b4598.html?utm_source=lootura.com) — 2026-08-05T08:06:49.000Z
+- [El Ibex afianza los 20.000 y explora nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/05/6a72ce70e5fdea40418b4591.html?utm_source=lootura.com) — 2026-08-05T10:27:18.000Z

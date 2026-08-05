@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### What’s missing from the White House plan for the future of US science
 
 Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
+
+Date: 2026-08-05
+
+### White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says
+
+The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.
 
 Date: 2026-08-05
 
@@ -62,13 +68,8 @@ The White House tried but failed to block funding for preschool for poor childre
 
 Date: 2026-07-31
 
-### Abortion is on the ballot again in these two states: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-31
-
 ## Sources
 
+- [White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says](https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxford-comma/?utm_source=lootura.com) — 2026-08-05T10:17:49.000Z
 - [What’s missing from the White House plan for the future of US science](https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com) — 2026-08-05T06:25:58.378Z
 - [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z

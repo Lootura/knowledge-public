@@ -3,10 +3,40 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Video shows drone attacking a street vendor in Ukraine
+
+Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers "take pleasure in killing" civilians.
+
+Date: 2026-08-05
+
+### At least 17 people killed after fatal overnight Russian strikes in Ukraine
+
+Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.
+
+Date: 2026-08-05
+
+### Russian missile and drone barrage in Ukrainian capital region kills 17
+
+Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. (Image credit: Dan Bashakov).
+
+Date: 2026-08-05
+
+### How the Ukraine War Became a Fight for the Skies
+
+Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.
+
+Date: 2026-08-05
+
+### Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses
+
+At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.
+
+Date: 2026-08-05
 
 ### Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities
 
@@ -38,37 +68,10 @@ Ukraine's defenses have held the line on most fronts, but there's one glaring we
 
 Date: 2026-08-04
 
-### A New Lethal Front in Ukraine: Its Beloved Gas Stations
-
-Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.
-
-Date: 2026-08-04
-
-### Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach
-
-Russia and Ukraine traded blame after a drone slammed into a beach in the Black Sea resort town of Gelendzhik. Russian officials said seven people were killed.
-
-Date: 2026-08-04
-
-### Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets
-
-Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.
-
-Date: 2026-08-04
-
-### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
-
-Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
-
-Date: 2026-08-04
-
-### News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak
-
-In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Russia and Ukraine trade drone attacks with 5 people killed in each country](https://www.pbs.org/newshour/world/russia-and-ukraine-trade-drone-attacks-with-5-people-killed-in-each-country?utm_source=lootura.com) — 2026-08-04T20:39:41.000Z
-- [Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities](https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities?utm_source=lootura.com) — 2026-08-05T05:53:38.000Z
+- [Video shows drone attacking a street vendor in Ukraine](https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/?utm_source=lootura.com) — 2026-08-05T08:35:00.000Z
+- [At least 17 people killed after fatal overnight Russian strikes in Ukraine](https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872?utm_source=lootura.com) — 2026-08-05T08:09:43.000Z
+- [Russian missile and drone barrage in Ukrainian capital region kills 17](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage?utm_source=lootura.com) — 2026-08-05T10:15:44.000Z
+- [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html?utm_source=lootura.com) — 2026-08-05T08:52:43.000Z
+- [Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses](https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html?utm_source=lootura.com) — 2026-08-05T07:58:16.000Z

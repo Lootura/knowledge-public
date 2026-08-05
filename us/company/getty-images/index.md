@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Can AI Free Women from the Mental Load of Caregiving?
+
+—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.
+
+Date: 2026-08-05
 
 ### These 25 U.S. States Are Suing the Trump Administration. Here's Why
 
@@ -62,12 +68,6 @@ Date: 2026-07-22
 
 Date: 2026-07-22
 
-### How to Support Someone Without Giving Advice
-
-—Photo-Illustration by TIME (Source Image: Liquid Sky Studio/Getty Images) When someone you care about is going through a hard time, you'd probably do anything to help them feel better . Yet one of the easiest traps to fall into is offering advice too soon. "We'll often jump into, 'How can I fix this? How can I say the.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [Can AI Free Women from the Mental Load of Caregiving?](https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/?utm_source=lootura.com) — 2026-08-05T10:00:03.000Z

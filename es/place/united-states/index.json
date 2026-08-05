@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T06:25:29.823Z",
+  "updatedAt": "2026-08-05T10:31:44.090Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,13 +43,18 @@
   ],
   "changes": [
     {
-      "title": "Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open",
-      "summary": "El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en \"proceso de recuperación\" por la lesión que.",
+      "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
+      "summary": "Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.",
       "date": "2026-08-05"
     },
     {
-      "title": "Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»",
-      "summary": "Nacho Aragón ha conseguido gestionar varios negocios. El hijo pequeño del empresario Emilio Aragón no solamente tiene su propia marca de ropa sino que, también, abrió un bar y una casa de comidas que cuentan con una gran reputación en la capital. Y no solamente. Hace unos años, junto a un grupo de socios, decidieron ab.",
+      "title": "Los intereses de Estados Unidos en Israel en Ceuta",
+      "summary": "El respaldo de representantes de ambos países a las reclamaciones territoriales de Rabat tiene como objetivo deslegitimar el apoyo español a Palestina, castigar su negativa a subir el gasto en defensa e impulsar la agenda antimigratoria.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open",
+      "summary": "El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en \"proceso de recuperación\" por la lesión que.",
       "date": "2026-08-05"
     },
     {
@@ -86,32 +91,21 @@
       "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
       "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
       "date": "2026-08-04"
-    },
-    {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
-      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open",
-      "url": "https://www.20minutos.es/deportes/carlos-alcaraz-tampoco-jugara-masters-1000-cincinnati-debido-su-lesion_7022677_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:37:50.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
+      "url": "https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T06:34:34.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Los estudios de Nacho, el hijo de Emilio Aragón, a sus 31 años: «Irme a Estados Unidos fue la mejor decisión; te obliga a espabilar rápido»",
-      "url": "https://theobjective.com/gente/2026-08-05/estudios-nacho-hijo-emilio-aragon-estados-unidos-decision/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:30:00.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita",
-      "url": "https://theobjective.com/internacional/2026-08-05/detienen-hombre-armado-club-golf-trump/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-05T06:00:28.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Los intereses de Estados Unidos en Israel en Ceuta",
+      "url": "https://elordenmundial.com/intereses-estados-unidos-israel-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T07:10:30.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

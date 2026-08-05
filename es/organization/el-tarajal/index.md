@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-05T10:31:44.090Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000
+
+El Gobierno central y el Gobierno ciudad autónoma de Ceuta no se ponen de acuerdo sobre cuál es la radiografía seis días después de la avalancha de migrantes que cruzó el espigón de El Tarajal. Seguir leyendo...
+
+Date: 2026-08-05
 
 ### Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»
 
@@ -62,12 +68,6 @@ Las imágenes de miles de marroquíes entrando ilegalmente en Ceuta a través de
 
 Date: 2026-08-01
 
-### Discovered by Atlas
-
-El Tarajal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-31
-
 ## Fuentes
 
-- [Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»](https://www.abc.es/espana/menores-condiciones-insalubres-raso-poligono-tarajal-morimos-20260805015828-nt.html?utm_source=lootura.com) — 2026-08-05T05:56:02.000Z
+- [El Gobierno señala que siguen en Ceuta 2.500 migrantes, la ciudad autónoma habla de 6.000](https://www.lavanguardia.com/politica/20260805/11608206/gobierno-senala-siguen-ceuta-2-500-migrantes-500-menores.html?utm_source=lootura.com) — 2026-08-05T08:29:50.000Z

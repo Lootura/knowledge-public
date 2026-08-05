@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [FBI not conducting civil rights probe into ICE shooting in Maine, sources say](https://www.cbsnews.com/news/fbi-no-civil-rights-investigation-maine-ice-shooting/?utm_source=lootura.com) — 2026-08-04T19:45:10.000Z
 - [One Maine community's fight to save a birthing center](https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight?utm_source=lootura.com) — 2026-08-04T20:16:26.000Z

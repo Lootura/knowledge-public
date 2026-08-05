@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time
+
+Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.
+
+Date: 2026-08-05
 
 ### China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time
 
@@ -62,12 +68,6 @@ U.S. President Donald Trump's latest set of tariffs drew objections Friday from 
 
 Date: 2026-07-24
 
-### In a first, Chinese woman wins the prestigious Fields Medal
-
-Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time](https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html?utm_source=lootura.com) — 2026-08-05T04:00:04.000Z
+- [China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time](https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html?utm_source=lootura.com) — 2026-08-05T04:00:05.000Z

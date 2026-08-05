@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [This summer isn't breaking heat records—yet. Wait until El Nino kicks in, scientists say](https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html?utm_source=lootura.com) — 2026-08-05T02:00:01.000Z
+No public source links.

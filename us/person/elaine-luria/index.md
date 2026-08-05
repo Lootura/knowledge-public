@@ -3,7 +3,7 @@
 > Follow Elaine Luria, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-05T10:32:02.239Z
 - Canonical: https://atlas.lootura.com/us/person/elaine-luria
 
 ## Recent changes
@@ -22,5 +22,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Jen Kiggans previews strategy for rematch in Virginia House race against Elaine Luria](https://www.nbcnews.com/now/video/jen-kiggans-previews-strategy-for-rematch-in-virginia-house-race-against-elaine-luria-267781189706?utm_source=lootura.com) — 2026-08-05T01:58:46.000Z
 - [Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans](https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html?utm_source=lootura.com) — 2026-08-04T23:36:19.000Z
