@@ -3,7 +3,7 @@
 > Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/person/jeanine-pirro
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
 President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
+
+Date: 2026-08-04
+
+### Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case
+
+Attorneys for the former Olympic canoeist the Trump administration had charged in a felony Reflecting Pool case are seeking to permanently bar any effort to resurface what they called a “politically motivated prosecution” of their client.
+
+Date: 2026-08-04
+
+### Inside the Oval Office Showdown Between Trump and Jeanine Pirro
+
+Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.
 
 Date: 2026-08-04
 
@@ -40,5 +52,6 @@ Date: 2026-08-01
 
 ## Sources
 
+- [Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case](https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com) — 2026-08-04T22:40:18.000Z
+- [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-04T22:36:44.000Z
 - [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z
-- [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-04T20:55:33.000Z

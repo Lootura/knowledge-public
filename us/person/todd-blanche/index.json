@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T21:10:19.243Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
+      "summary": "Todd Blanche’s nomination now advances to the Senate floor, where it was not immediately clear whether he would be confirmed given that he can afford to lose only two senators on a party-line vote.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
       "summary": "NPR's Steve Inskeep speaks with Sen. Alex Padilla, D-Calif., about the Senate Judiciary Committee's anticipated vote on Todd Blanche's nomination for attorney general.",
@@ -58,26 +63,15 @@
       "title": "Todd Blanche's nomination back on track after GOP deal",
       "summary": "Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
-      "summary": "Acting Attorney General Todd Blanche cleared a major hurdle in his push to permanently lead the Department of Justice. He reached a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is scrapping a $1.8 billion \"anti-weaponization\" fund that could have provide.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:50:25.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
+      "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:13:10.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "publishedAt": "2026-08-04T23:15:22.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

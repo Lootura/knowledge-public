@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
+
+El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.
+
+Date: 2026-08-05
+
+### Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta
+
+Las ciudades autónomas son España. Y ningún congresista estadounidense debería utilizar un documento oficial para dar legitimidad a las pretensiones expansionistas de un tercer país contra un aliado de los Estados Unidos.
+
+Date: 2026-08-05
 
 ### Victoria iraní: peaje en Ormuz
 
@@ -56,20 +68,7 @@ Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales a
 
 Date: 2026-08-03
 
-### El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla
-
-El congresista republicano Mario Díaz-Balart , autor de un informe aprobado en abril por la Comisión de Asignaciones de la Cámara de Representantes de Estados Unidos que afirma que Ceuta y Melilla están «ubicadas en territorio marroquí» y que «siguen siendo objeto de la histórica reivindicación de Marruecos», rechaza q.
-
-Date: 2026-08-03
-
-### Trump dice que Ormuz podría abrirse "mañana mismo"
-
-El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás](https://www.larazon.es/internacional/netanyahu-rechaza-plan-trump-que-incluye-desarme-hamas_202608046a7248f071b42a0b5ddb20f6.html?utm_source=lootura.com) — 2026-08-04T20:17:52.000Z
-- [Milei afirma que la alianza con EE UU es la "llave" para recuperar las Islas Malvinas](https://www.larazon.es/internacional/milei-afirma-que-alianza-llave-recuperar-islas-malvinas_202608046a724769a046ad6ebc9cf1d0.html?utm_source=lootura.com) — 2026-08-04T20:11:21.000Z
-- [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z
+- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z
+- [Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta](https://www.larazon.es/espana/prominente-familia-politica-florida-ofensiva-marroqui-ceuta_202608056a72334071b42a0b5ddaed6a.html?outputType=amp&utm_source=lootura.com) — 2026-08-05T01:41:38.000Z

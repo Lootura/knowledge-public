@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -19,6 +19,16 @@
   ],
   "changes": [
     {
+      "title": "The science behind using the arts to combat loneliness and social isolation",
+      "summary": "A new program in Charlotte, North Carolina, is using the arts to tackle loneliness and social isolation. Paul Solman reports on prescriptions for art instead of medicine for our series at the intersection of art and health, part of our CANVAS coverage.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "North Carolina first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-03"
+    },
+    {
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
       "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
       "date": "2026-08-03"
@@ -27,13 +37,15 @@
       "title": "House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules",
       "summary": "The Ethics Committee called for the censure of Representative Chuck Edwards, Republican of North Carolina, who showered two female staffers with lavish gifts and affection.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "North Carolina first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The science behind using the arts to combat loneliness and social isolation",
+      "url": "https://www.pbs.org/newshour/show/the-science-behind-using-the-arts-to-combat-loneliness-and-social-isolation?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:25:09.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

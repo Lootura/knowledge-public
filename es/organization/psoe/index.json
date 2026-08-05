@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»",
+      "summary": "El ridículo del líder y candidato del PSOE a la Alcaldía de Palma , Iago Negueruela , con el cambio climático. «¿Se puede freír un huevo en un tobogán?», es la pregunta icónica que se hace el ex conseller de Turismo del Govern de Francina Armengol en el arranque de un disparatado video en el Parc de Sa Riera donde, en.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
       "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 el reparto de los menores migrantes llegados a Canarias Leer.",
@@ -65,19 +70,14 @@
       "title": "Un marroquí que acaba de entrar en Ceuta irrumpe en un directo de TVE y grita: «¡La has cagao, PSOE!»",
       "summary": "Mientras Ceuta trata de recuperar la normalidad tras la entrada masiva de inmigrantes desde Marruecos, un vídeo grabado el 31 de julio durante un directo de TVE se ha convertido en una de las imágenes más comentadas de la crisis migratoria. Un inmigrante marroquí recién llegado a la ciudad autónoma irrumpió en la emisi.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Autopercibido como socialdemócrata",
-      "summary": "No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
-      "url": "https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:46:52.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»",
+      "url": "https://okdiario.com/baleares/ridiculo-del-lider-del-psoe-palma-cambio-climatico-puede-freir-huevo-tobogan-19124093?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T02:00:12.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

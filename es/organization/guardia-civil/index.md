@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
+
+Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
+
+Date: 2026-08-04
 
 ### Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla
 
@@ -23,12 +29,6 @@ Date: 2026-08-04
 ### Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera
 
 Nueva tragedia en la ruta migratoria hacia Baleares. Dos migrantes han fallecido y alrededor de una decena permanecen desaparecidos después de que una patera naufragara al sureste de la isla de Cabrera . Salvamento Marítimo y la Guardia Civil han logrado rescatar con vida a 17 personas, seis de las cuales han tenido qu.
-
-Date: 2026-08-04
-
-### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
-
-Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
 
 Date: 2026-08-04
 
@@ -70,7 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera](https://www.abc.es/espana/baleares/dos-muertos-decena-desaparecidos-tras-naufragar-patera-20260804194819-nt.html?utm_source=lootura.com) — 2026-08-04T17:48:19.000Z
-- [Un motín en el centro de menores de Sograndio (Asturias) deja varios heridos y 5 fugados: la Guardia Civil los busca](https://www.elconfidencial.com/espana/2026-08-04/motin-en-el-centro-de-menores-de-sograndio-5-fugados-1tna_4400944/?utm_source=lootura.com) — 2026-08-04T15:00:00.000Z
-- [Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla](https://elpais.com/espana/2026-08-04/un-documento-de-interior-apunta-la-proxima-instalacion-de-la-barrera-maritima-antimigracion-tambien-en-melilla.html?utm_source=lootura.com) — 2026-08-04T10:24:59.000Z
 - [En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos](https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com) — 2026-08-04T17:55:00.000Z

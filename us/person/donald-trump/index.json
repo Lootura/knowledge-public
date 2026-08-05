@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T21:10:19.243Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,18 +25,23 @@
   ],
   "changes": [
     {
-      "title": "Trump raises concerns in call with Rep. Max Miller amid abuse allegations",
-      "summary": "Ohio Rep. Max Miller's reelection campaign has been upended by allegations Miller assaulted his ex-wife, Emily Moreno, and their 2-year-old daughter.",
-      "date": "2026-08-04"
+      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
+      "summary": "A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+      "summary": "The Trump administration revoked the visa of Brazil’s U.S. ambassador Tuesday — the latest jab in a monthslong diplomatic spat between the two countries.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
+      "summary": "NBC News projects that Masterson, the state Senate president, emerged from the primary in a contest that represents a top pickup opportunity for the GOP this fall.",
+      "date": "2026-08-05"
     },
     {
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "How the War in Iran Is Complicating Trump’s Agenda at Home",
-      "summary": "As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.",
       "date": "2026-08-04"
     },
     {
@@ -47,11 +52,6 @@
     {
       "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
       "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-      "summary": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.",
       "date": "2026-08-04"
     },
     {
@@ -70,12 +70,18 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
+      "title": "Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio",
+      "summary": "Republicans hoped a shove from President Trump would persuade the embattled congressman to drop his re-election bid in the face of abuse allegations.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
+    {
+      "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
+      "url": "https://www.cbsnews.com/news/brazil-ambassador-us-visa-revoked/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T00:39:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
       "url": "https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com",
@@ -83,16 +89,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:46:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case",
+      "url": "https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:40:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump raises concerns in call with Rep. Max Miller amid abuse allegations",
-      "url": "https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:19:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+      "url": "https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:38:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
+      "url": "https://www.nbcnews.com/politics/2026-election/kansas-governor-masterson-trump-holscher-corson-republican-democrat-rcna590030?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:00:31.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
@@ -113,29 +125,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T13:39:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
-      "url": "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:58:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:55:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "publishedAt": "2026-08-04T22:36:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
       "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T19:20:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 15
 }

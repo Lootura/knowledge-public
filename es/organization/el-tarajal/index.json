@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»",
+      "summary": "Abre la palma de su mano y deja al descubierto sus cinco dedos. Son los años que tiene uno de los pequeños que pasa el rato jugando al fútbol en el polígono de El Tarajal . Cruzó la frontera a nado junto a su madre y, desde entonces, permanecen refugiados en el lugar en ausencia de respuestas u otra posibilidad mejor.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”",
       "summary": "La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.",
@@ -57,6 +62,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»",
+      "url": "https://www.abc.es/espana/menores-condiciones-insalubres-raso-poligono-tarajal-morimos-20260805015828-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T23:59:19.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

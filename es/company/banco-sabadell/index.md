@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/company/banco-sabadell
 
 ## Cambios recientes
+
+### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
+
+El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.
+
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z

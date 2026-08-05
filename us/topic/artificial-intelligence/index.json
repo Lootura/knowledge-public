@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T21:10:19.243Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "AI",
     "AI science",
@@ -28,13 +28,23 @@
   ],
   "changes": [
     {
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
-      "summary": "For a rocket company, SpaceX is spending a lot of money to build out its AI capacities.",
+      "summary": "Capital expenditures related to its xAI unit, which runs the Grok service, hit $15.8 billion, more than double what they were in the first quarter.",
       "date": "2026-08-04"
     },
     {
       "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
       "summary": "The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "summary": "On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI. (Image credit: TIMOTHY A. CLARY).",
       "date": "2026-08-04"
     },
     {
@@ -66,16 +76,6 @@
       "title": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks",
       "summary": "—Samuel Boivin/NurPhoto—Getty Images People in AI safety circles often talk about \"warning shots:” events that indicate more severe threats are on the horizon. Depending on who you ask, there have already been many—Bing’s misanthropic alter-ego Sydney, research showing AIs would blackmail to preserve themselves, AI’s m.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "For those with criminal records, AI is breaking down barriers to employment",
-      "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before. (Image credit: Meredith Rizzo for NPR).",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Want to get more from AI? Treat every prompt like an experiment",
-      "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6 Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -86,17 +86,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:41:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
       "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682?utm_source=lootura.com",
       "publishedAt": "2026-08-04T20:55:49.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:02:03.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
       "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:52:42.000Z",
+      "publishedAt": "2026-08-04T22:05:38.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

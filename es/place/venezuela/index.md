@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Fragmento del día: Caracas](https://es.wikipedia.org/wiki/Caracas?utm_source=lootura.com) — 2026-08-04T04:00:00.000Z
+No public source links.

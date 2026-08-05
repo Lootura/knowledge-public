@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T21:10:19.243Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,11 @@
     {
       "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
       "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "After Midtown Building Buckles, Violations Are Found at Many Other Sites",
+      "summary": "New York City officials conducted inspections at 180 construction sites. None of the violations posed an immediate danger to the public, they said.",
       "date": "2026-08-04"
     },
     {
@@ -77,11 +82,6 @@
       "title": "Maya and Dean Jankelowitz serve up comfort food to New Yorkers with Jack's Wife Freda",
       "summary": "Dean and Maya Jankelowitz aim to serve up a tradition of food, family, and grandmotherly magic at Jack's Wife Freda, their New York City restaurant chain. Their signature comfort food keeps New Yorkers and tourists coming back for more.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Stabbings near New York City’s Central Park",
-      "summary": "Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. Witnesses say the attacker yelled Allahu-Akbar. NBC News’ Erin McLaughlin has the latest on the investigation.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -92,10 +92,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
-      "url": "https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T09:55:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "After Midtown Building Buckles, Violations Are Found at Many Other Sites",
+      "url": "https://www.nytimes.com/2026/08/04/nyregion/nyc-buildings-violations-conversions.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:22:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

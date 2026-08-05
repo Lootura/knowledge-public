@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Type: organization
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirig
 
 Date: 2026-08-04
 
-### Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes
-
-El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como "invasión". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.
-
-Date: 2026-08-04
-
 ### En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos
 
 Marlaska insiste en que el CNI no alertó de la avalancha de 72.000 inmigrantes a Ceuta; Marruecos pudo monitorizar el asalto a Ceuta al situar dos satélites espía sobre el Estrecho; El Gobierno prepara ya el envío del millar de menores de Ceuta a otras comunidades ; y la Guardia Civil de Ceuta detectó a presuntos yihad.
+
+Date: 2026-08-04
+
+### El Gobierno de Ayuso compró el ático de Chamberí por 6,3 millones de euros
+
+El Ejecutivo madrileño dijo inicialmente que adquirió el inmueble de 485 metros cuadrados y una amplia terraza para emplearlo como "oficinas" pese a que su uso solo puede ser residencial La empresa pública que compró el ático para uso temporal de Ayuso exigió confidencialidad al vendedor antes incluso de la visita El G.
+
+Date: 2026-08-04
+
+### Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes
+
+El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como "invasión". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.
 
 Date: 2026-08-04
 
@@ -35,12 +41,6 @@ Date: 2026-08-04
 ### El Gobierno italiano reprocha a España no consultar la regularización con la UE
 
 El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.
-
-Date: 2026-08-04
-
-### El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores
-
-La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.
 
 Date: 2026-08-04
 
@@ -70,6 +70,6 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes](https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com) — 2026-08-04T14:18:13.000Z
 - [El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta](https://elpais.com/espana/2026-08-04/el-gobierno-anuncia-una-partida-de-25-millones-de-euros-para-atender-a-los-menores-en-ceuta.html?utm_source=lootura.com) — 2026-08-04T11:22:18.000Z
+- [El Gobierno de Ayuso compró el ático de Chamberí por 6,3 millones de euros](https://www.eldiario.es/madrid/gobierno-ayuso-compro-atico-chamberi-6-3-millones-euros_1_13428752.html?utm_source=lootura.com) — 2026-08-04T21:32:08.000Z
 - [En Sumario de tarde: del futuro de los inmigrantes de Ceuta a los satélites espías de Marruecos](https://theobjective.com/espana/2026-08-04/sumario-tarde-futuro-inmigrantes-satelites-espia-marruecos/?utm_source=lootura.com) — 2026-08-04T17:55:00.000Z

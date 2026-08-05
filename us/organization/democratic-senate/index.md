@@ -3,10 +3,16 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
+
+### Julian Beaudion Quits Senate Race in South Dakota, Clearing Way for Independent
+
+The decision by Julian Beaudion, the Democratic nominee, to leave the race was the third recent withdrawal by a Democratic Senate candidate in a red state.
+
+Date: 2026-08-05
 
 ### Week in Politics: Todd Blanche nomination; Michigan's Democratic Senate shakeup
 
@@ -28,4 +34,5 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Steve Kornacki previews the key counties ahead of Michigan’s high-stakes Democratic Senate primary](https://www.nbcnews.com/meet-the-press/video/steve-kornacki-previews-the-key-counties-ahead-of-michigan-s-high-stakes-democratic-senate-primary-267758149886?utm_source=lootura.com) — 2026-08-04T20:25:25.000Z
+- [Rep. Debbie Dingell says Michigan Democratic Senate primary is "gonna be tighter than people think"](https://www.cbsnews.com/video/debbie-dingell-michigan-democratic-senate-primary-tighter-than-people-think/?utm_source=lootura.com) — 2026-08-05T01:51:30.000Z
+- [Julian Beaudion Quits Senate Race in South Dakota, Clearing Way for Independent](https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html?utm_source=lootura.com) — 2026-08-05T00:21:22.000Z

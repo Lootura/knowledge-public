@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes

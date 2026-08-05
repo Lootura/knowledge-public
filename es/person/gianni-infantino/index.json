@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Gianni",
     "Infantino"
@@ -40,6 +40,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "¿Hay alternativas a Gianni Infantino para la presidencia de la FIFA?",
+      "url": "https://www.larazon.es/deportes/hay-alternativas-gianni-infantino-presidencia-fifa_202608056a729402a046ad6ebc9d91ab.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:38:10.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

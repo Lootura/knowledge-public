@@ -70,13 +70,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Fragmento del día: Caracas",
-      "url": "https://es.wikipedia.org/wiki/Caracas?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T04:00:00.000Z",
-      "sourceId": "lootura-es-lootura-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

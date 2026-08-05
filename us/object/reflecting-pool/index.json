@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case",
+      "summary": "Attorneys for the former Olympic canoeist the Trump administration had charged in a felony Reflecting Pool case are seeking to permanently bar any effort to resurface what they called a “politically motivated prosecution” of their client.",
+      "date": "2026-08-04"
+    },
     {
       "title": "More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office",
       "summary": "Since Friday, D.C. U.S. Attorney Jeanine Pirro's office has dropped charges against three more people accused of vandalism.",
@@ -55,13 +60,15 @@
       "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
       "summary": "The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
-      "summary": "Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by \"botched installation and not vandalism.\".",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case",
+      "url": "https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:40:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 2
 }

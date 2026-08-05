@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Ofensiva contra el aumento de la venta y consumo de droga en Barcelona
+
+El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 llamadas alertando de incidentes vinculados con las drogas. Mil más que los primeros seis meses del año pasado. Esas quejas de los ciudadanos son solo la punta del iceberg de un problema que padece la capital catalana: la droga. Barcelona es u.
+
+Date: 2026-08-04
 
 ### La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona
 
@@ -62,12 +68,6 @@ El partido de entrenamiento que iba a disputar el Barcelona en la mañana de est
 
 Date: 2026-08-02
 
-### El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»
-
-Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital de Bellvitge y dedicado de forma exclusiva al cáncer de próstata desde hace cinco años en el Instituto Valenciano de Oncología, ha creado un canal de divulgación -Prostalia- que le llena especialmente como profesional: las entrevistas a sus.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Ofensiva contra el aumento de la venta y consumo de droga en Barcelona](https://www.lavanguardia.com/local/barcelona/20260805/11607911/ofensiva-aumento-venta-consumo-droga-barcelona.html?utm_source=lootura.com) — 2026-08-04T22:05:00.000Z

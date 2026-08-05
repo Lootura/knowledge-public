@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [This summer isn't breaking heat records—yet. Wait until El Nino kicks in, scientists say](https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html?utm_source=lootura.com) — 2026-08-05T02:00:01.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»
+
+El ridículo del líder y candidato del PSOE a la Alcaldía de Palma , Iago Negueruela , con el cambio climático. «¿Se puede freír un huevo en un tobogán?», es la pregunta icónica que se hace el ex conseller de Turismo del Govern de Francina Armengol en el arranque de un disparatado video en el Parc de Sa Riera donde, en.
+
+Date: 2026-08-05
 
 ### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
 
@@ -62,12 +68,6 @@ Mientras Ceuta trata de recuperar la normalidad tras la entrada masiva de inmigr
 
 Date: 2026-08-01
 
-### Autopercibido como socialdemócrata
-
-No cabe duda de que el PSOE se ha ido a la extrema izquierda con Pedro Sánchez. Lo ha hecho en principios y en formas. Por otro lado, tampoco se escapa a nadie que Vox es la derecha populista —«patriota», dice su clerecía—, y que con gran éxito se ha hecho con el electorado conservador y reaccionario. ¿Y dónde está el.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T20:46:52.000Z
+- [El ridículo del líder del PSOE de Palma con el cambio climático: «¿Se puede freír un huevo en un tobogán?»](https://okdiario.com/baleares/ridiculo-del-lider-del-psoe-palma-cambio-climatico-puede-freir-huevo-tobogan-19124093?utm_source=lootura.com) — 2026-08-05T02:00:12.000Z

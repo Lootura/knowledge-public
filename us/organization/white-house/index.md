@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### What’s missing from the White House plan for the future of US science
+
+Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
+
+Date: 2026-08-05
 
 ### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
@@ -62,16 +68,9 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-07-31
 
-### Funding milestone detected
-
-Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [Top AI company executives to meet with White House officials, according to reports](https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/?utm_source=lootura.com) — 2026-08-04T17:14:06.000Z
 - [Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say](https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com) — 2026-08-04T17:37:42.000Z
-- [Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race](https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/?utm_source=lootura.com) — 2026-08-04T16:46:04.000Z
-- [What’s missing from the White House plan for the future of US science](https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com) — 2026-08-04T21:10:23.353Z
+- [What’s missing from the White House plan for the future of US science](https://www.nature.com/articles/d41586-026-02384-w?utm_source=lootura.com) — 2026-08-05T02:13:27.392Z
 - [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z

@@ -3,20 +3,32 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
 
+### SpaceX shows strong growth in its first earnings report since IPO
+
+Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.
+
+Date: 2026-08-05
+
 ### SpaceX hit by surging AI costs as insiders prepare to sell their shares
 
-For a rocket company, SpaceX is spending a lot of money to build out its AI capacities.
+Capital expenditures related to its xAI unit, which runs the Grok service, hit $15.8 billion, more than double what they were in the first quarter.
 
 Date: 2026-08-04
 
 ### S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
 
 The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
+
+Date: 2026-08-04
+
+### SpaceX's revenue rises as its once-soaring stock price drifts back to Earth
+
+On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI. (Image credit: TIMOTHY A. CLARY).
 
 Date: 2026-08-04
 
@@ -56,20 +68,10 @@ Date: 2026-08-04
 
 Date: 2026-08-04
 
-### For those with criminal records, AI is breaking down barriers to employment
-
-Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before. (Image credit: Meredith Rizzo for NPR).
-
-Date: 2026-08-03
-
-### Want to get more from AI? Treat every prompt like an experiment
-
-Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6 Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [Top AI company executives to meet with White House officials, according to reports](https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/?utm_source=lootura.com) — 2026-08-04T17:14:06.000Z
+- [SpaceX shows strong growth in its first earnings report since IPO](https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/?utm_source=lootura.com) — 2026-08-05T01:41:30.000Z
 - [SpaceX hit by surging AI costs as insiders prepare to sell their shares](https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682?utm_source=lootura.com) — 2026-08-04T20:55:49.000Z
-- [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T20:52:42.000Z
+- [SpaceX's revenue rises as its once-soaring stock price drifts back to Earth](https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo?utm_source=lootura.com) — 2026-08-04T22:02:03.000Z
+- [S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease](https://www.nytimes.com/2026/08/04/business/stock-market-record.html?utm_source=lootura.com) — 2026-08-04T22:05:38.000Z

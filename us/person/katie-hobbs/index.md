@@ -3,20 +3,26 @@
 > Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/person/katie-hobbs
 
 ## Recent changes
 
-### Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor
+### Arizona’s Democratic Governor Set to Pick a Republican Running Mate
 
-Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.
+Gov. Katie Hobbs, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor if she wins in November.
 
-Date: 2026-07-22
+Date: 2026-08-05
 
 ### Discovered by Atlas
 
 Katie Hobbs first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor
+
+Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.
 
 Date: 2026-07-22
 
@@ -46,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Arizona’s Democratic Governor Set to Pick a Republican Running Mate](https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html?utm_source=lootura.com) — 2026-08-05T01:39:48.000Z

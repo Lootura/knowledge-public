@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán "hoy o mañana"](https://www.elindependiente.com/economia/2026/08/04/el-precio-del-petroleo-cae-con-fuerza-tras-anunciar-eeuu-un-acuerdo-con-iran-hoy-o-manana/?utm_source=lootura.com) — 2026-08-04T15:08:13.000Z
-- [El Ibex conquista los 20.000 puntos animado por la caída del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/08/04/6a717c40468aeb14038b45a5.html?utm_source=lootura.com) — 2026-08-04T15:38:14.000Z
-- [Victoria iraní: peaje en Ormuz](https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com) — 2026-08-04T17:32:53.000Z
+- [Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán](https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html?utm_source=lootura.com) — 2026-08-04T20:42:44.000Z

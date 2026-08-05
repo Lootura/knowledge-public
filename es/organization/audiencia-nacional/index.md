@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump
+
+El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario estadounidense James ‘Fergie’ Cox Chambers Jr. , heredero de Cox Enterprises , en el procedimiento de extradición que tramita la Audiencia Nacional tras su detención el pasado mes de julio en Ibiza por una orden internacional emitida por Estado.
+
+Date: 2026-08-05
 
 ### Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica
 
@@ -62,13 +68,6 @@ La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos
 
 Date: 2026-08-03
 
-### La Audiencia Nacional abre diligencias previas para ver si la entrada de inmigrantes a Ceuta fue la acción de un "grupo criminal"
-
-La jueza de la Audiencia Nacional María Tardón ha solicitado a la Policía Nacional un informe sobre "la entrada irregular masiva" de migrantes en Ceuta en los últimos días para comprobar "si nos encontramos ante una acción concertada o dirigida" por algún "grupo criminal". La magistrada hace esta petición a la Comisarí.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Hazte Oír presenta una querella contra mandos marroquíes y el delegado del Gobierno en Ceuta](https://www.20minutos.es/nacional/hazte-oir-presenta-una-querella-contra-mandos-marroquies-delegado-gobierno-ceuta_7022613_0.html?utm_source=lootura.com) — 2026-08-04T17:24:32.000Z
-- [Moncloa moviliza a la Abogacía del Estado para defender a Ineco por enchufar a Jésica](https://theobjective.com/espana/tribunales/2026-08-04/moncloa-abogacia-estado-ineco-jesica/?amp=&utm_source=lootura.com) — 2026-08-04T13:57:41.000Z
+- [El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump](https://okdiario.com/baleares/exjuez-baltasar-garzon-defendera-multimillonario-comunista-pro-hamas-detenido-ibiza-orden-trump-19125416?utm_source=lootura.com) — 2026-08-05T02:00:14.000Z

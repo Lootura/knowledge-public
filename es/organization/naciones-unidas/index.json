@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
@@ -17,6 +17,11 @@
     "the UN"
   ],
   "changes": [
+    {
+      "title": "Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas",
+      "summary": "Resolución 1936 del Consejo de Seguridad de las Naciones Unidas es adoptada.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
@@ -61,13 +66,15 @@
       "title": "España insiste en Planas para la FAO pese a la división europea sobre un candidato único",
       "summary": "España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y Alimentación, Luis Planas , al frente de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) , una carrera de largo recorrido que culminará con la elección prevista para la última semana de junio de 2027 y que arran.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "La ONU impulsa una campaña global para prohibir los videojuegos centrados en “matar” y “hacer de la guerra un juego”",
-      "summary": "El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas",
+      "url": "https://es.wikipedia.org/wiki/Resoluci%C3%B3n_1936_del_Consejo_de_Seguridad_de_las_Naciones_Unidas?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

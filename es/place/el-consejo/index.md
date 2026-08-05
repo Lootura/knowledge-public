@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos
+
+El Consejo extraordinario de ministros del Interior de la UE no fue el ajuste de cuentas que muchos anticipaban, sino un delicado ejercicio de equilibrio político. La reunión, solicitada por 22 Estados miembros a iniciativa de Italia y Dinamarca tras la crisis migratoria de Ceuta, concluyó con una declaración de princi.
+
+Date: 2026-08-04
 
 ### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
 
@@ -64,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos](https://www.lavanguardia.com/politica/20260805/11607889/ue-rebaja-tension-italia-propone-bruselas-lidere-relacion-marruecos.html?utm_source=lootura.com) — 2026-08-04T22:05:00.000Z

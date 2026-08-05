@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,16 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín",
+      "summary": "El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta",
+      "summary": "Las ciudades autónomas son España. Y ningún congresista estadounidense debería utilizar un documento oficial para dar legitimidad a las pretensiones expansionistas de un tercer país contra un aliado de los Estados Unidos.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Victoria iraní: peaje en Ormuz",
       "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
@@ -81,37 +91,21 @@
       "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
       "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla",
-      "summary": "El congresista republicano Mario Díaz-Balart , autor de un informe aprobado en abril por la Comisión de Asignaciones de la Cámara de Representantes de Estados Unidos que afirma que Ceuta y Melilla están «ubicadas en territorio marroquí» y que «siguen siendo objeto de la histórica reivindicación de Marruecos», rechaza q.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás",
-      "url": "https://www.larazon.es/internacional/netanyahu-rechaza-plan-trump-que-incluye-desarme-hamas_202608046a7248f071b42a0b5ddb20f6.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:17:52.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín",
+      "url": "https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T00:00:56.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Milei afirma que la alianza con EE UU es la \"llave\" para recuperar las Islas Malvinas",
-      "url": "https://www.larazon.es/internacional/milei-afirma-que-alianza-llave-recuperar-islas-malvinas_202608046a724769a046ad6ebc9cf1d0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:11:21.000Z",
+      "title": "Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta",
+      "url": "https://www.larazon.es/espana/prominente-familia-politica-florida-ofensiva-marroqui-ceuta_202608056a72334071b42a0b5ddaed6a.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:41:38.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Victoria iraní: peaje en Ormuz",
-      "url": "https://okdiario.com/opinion/victoria-irani-peaje-ormuz-19125986?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:32:53.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

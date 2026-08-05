@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
+      "summary": "«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no fueron a colaborar en el operativo montado en plena crisis m.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "DJ Pedro Sánchez",
+      "summary": "El azar ha querido que, coincidiendo con la tragedia de Ceuta, el presidente Pedro Sánchez haya hecho pública una PlayList como recomendación de verano. Hacer recomendaciones (libros, música) forma parte de una estrategia que confirma que, como otros personajes públicos, Sánchez ha sucumbido a la adictiva oferta de las.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
       "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
@@ -56,37 +66,21 @@
       "title": "Echenique acusa al Gobierno de convertir el mar de Ceuta en una frontera mortal: “Las barreras servirán para que muera más gente”",
       "summary": "La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes sociales, donde acusó al Gobierno de Pedro Sánchez de haber convertido el mar de Ceuta en una “frontera mortal” con la instalación de las nuevas barreras flotantes en el espigón de El Tarajal. El diputado sostuvo que estas estructuras “van a.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
-      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»",
-      "summary": "El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "url": "https://www.elmundo.es/espana/2026/08/04/6a71bbcc21efa0f6278b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:19:39.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
+      "url": "https://www.abc.es/espana/jupol-asegura-primeros-antidisturbios-llegados-ceuta-escoltar-20260804015910-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T23:59:10.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
-      "url": "https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:46:52.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Ceuta no estaba en la playlist ecléctica",
-      "url": "https://okdiario.com/opinion/ceuta-no-estaba-playlist-eclectica-19126485?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:56:15.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "DJ Pedro Sánchez",
+      "url": "https://www.lavanguardia.com/opinion/20260805/11607616/dj-pedro-sanchez.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:30:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

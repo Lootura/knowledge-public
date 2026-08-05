@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Europa busca competir en IA apoyándose en modelos especializados y datos de calidad](https://theobjective.com/tecnologia/2026-08-04/europa-ia-modelos-especializados/?utm_source=lootura.com) — 2026-08-04T14:53:57.000Z
+No public source links.

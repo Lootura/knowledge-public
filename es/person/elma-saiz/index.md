@@ -3,7 +3,7 @@
 > Sigue la actividad de Elma Sáiz Delgado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/person/elma-saiz
 
 ## Cambios recientes
@@ -17,12 +17,6 @@ Date: 2026-08-04
 ### El Gobierno anuncia una partida de 25 millones de euros para atender a los menores en Ceuta
 
 El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirigida a la ciudad autónoma de Ceuta para la atención de los menores no acompañados que entraron al enclave el pasado jueves. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz , lo ha anunciado en una declaración ante los medi.
-
-Date: 2026-08-04
-
-### El Gobierno destinará 25 millones adicionales a Ceuta para la acogida de menores
-
-La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ha anunciado este martes que el Gobierno destinará 25 millones de euros adicionales.
 
 Date: 2026-08-04
 

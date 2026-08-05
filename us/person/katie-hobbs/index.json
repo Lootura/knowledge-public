@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.json",
   "description": "Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "Hobbs",
     "Kathleen M. Hobbs",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
-      "summary": "Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.",
-      "date": "2026-07-22"
+      "title": "Arizona’s Democratic Governor Set to Pick a Republican Running Mate",
+      "summary": "Gov. Katie Hobbs, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor if she wins in November.",
+      "date": "2026-08-05"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Katie Hobbs first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
+      "summary": "Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.",
       "date": "2026-07-22"
     },
     {
@@ -47,6 +52,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Arizona’s Democratic Governor Set to Pick a Republican Running Mate",
+      "url": "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:39:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

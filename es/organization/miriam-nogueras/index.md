@@ -28,5 +28,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T20:46:52.000Z
-- [Junts no dará “ni un voto” si no se deja a Catalunya “fuera” del traslado de menores llegados a Ceuta](https://www.lavanguardia.com/politica/20260804/11607895/junts-advierte-dara-voto-deja-catalunya-fuera-traslado-menores-llegados-ceuta.html?utm_source=lootura.com) — 2026-08-04T17:49:54.000Z
+No public source links.

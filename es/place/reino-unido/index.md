@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento](https://www.larazon.es/sociedad/reino-unido-obligara-que-aseos-vestuarios-sean-utilizados-funcion-sexo-nacimiento_202608046a7246ada5690f047365e581.html?utm_source=lootura.com) — 2026-08-04T20:08:50.000Z
+No public source links.

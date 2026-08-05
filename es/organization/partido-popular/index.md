@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
+
+Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
+
+Date: 2026-08-04
 
 ### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
 
@@ -23,12 +29,6 @@ Date: 2026-08-04
 ### La Junta de Castilla y León se opondrá "por todos los medios" al reparto de menores migrantes de Ceuta
 
 La Junta de Castilla y León, gobernada por el PP y Vox, ha mostrado su "oposición frontal" a la política migratoria del Ejecutivo central y se opondrá por todos los medios a un futuro reparto de menores migrantes llegados de Ceuta. Fuentes de la Vicepresidencia primera de Castilla y León, que recae en Carlos Pollán (Vo.
-
-Date: 2026-08-04
-
-### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
-
-Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
 
 Date: 2026-08-04
 
@@ -70,7 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes](https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com) — 2026-08-04T14:18:13.000Z
-- [La Junta de Castilla y León se opondrá "por todos los medios" al reparto de menores migrantes de Ceuta](https://www.elindependiente.com/espana/2026/08/04/la-junta-de-castilla-y-leon-se-opondra-por-todos-los-medios-al-reparto-de-menores-migrantes-de-ceuta/?utm_source=lootura.com) — 2026-08-04T16:28:51.000Z
 - [El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”](https://elpais.com/espana/madrid/2026-08-04/el-pp-pide-a-sus-cargos-y-diputados-apoyar-publicamente-a-ayuso-en-plena-crisis-por-la-compra-del-atico-os-pedimos-colaboracion-para-poner-comentarios-positivos.html?utm_source=lootura.com) — 2026-08-04T16:53:24.000Z
-- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z

@@ -34,5 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [How two versions of the Democratic Party are on display in Michigan's Senate primary](https://www.cbsnews.com/video/democratic-divisions-on-display-in-michigan-senate-primary/?utm_source=lootura.com) — 2026-08-04T13:17:00.000Z
-- [Bernie Sanders’ circle is pretty clear on who his successor will be](https://www.politico.com/news/2026/08/04/bernie-sanders-successor-aoc-khanna-michigan-test-01023159?utm_source=lootura.com) — 2026-08-04T09:55:00.000Z
+No public source links.

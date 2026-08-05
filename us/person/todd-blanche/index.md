@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General
+
+Todd Blanche’s nomination now advances to the Senate floor, where it was not immediately clear whether he would be confirmed given that he can afford to lose only two senators on a party-line vote.
+
+Date: 2026-08-04
 
 ### Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination
 
@@ -62,13 +68,6 @@ Todd Blanche's attorney general nomination is moving forward after two Republica
 
 Date: 2026-08-03
 
-### Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'
-
-Acting Attorney General Todd Blanche cleared a major hurdle in his push to permanently lead the Department of Justice. He reached a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is scrapping a $1.8 billion "anti-weaponization" fund that could have provide.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination](https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination?utm_source=lootura.com) — 2026-08-04T10:50:25.000Z
-- [Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation](https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com) — 2026-08-04T16:13:10.000Z
+- [Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General](https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html?utm_source=lootura.com) — 2026-08-04T23:15:22.000Z

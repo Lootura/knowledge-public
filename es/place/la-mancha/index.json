@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Telefónica entra en la seguridad ciudadana rural en España",
+      "summary": "Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.",
+      "date": "2026-08-04"
+    },
     {
       "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
       "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
@@ -58,13 +63,15 @@
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
-      "summary": "Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Telefónica entra en la seguridad ciudadana rural en España",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/08/05/6a725f2fe5fdea86658b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:03:10.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

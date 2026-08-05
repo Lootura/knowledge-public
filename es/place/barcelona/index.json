@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T10:35:48.254Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Ofensiva contra el aumento de la venta y consumo de droga en Barcelona",
+      "summary": "El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 llamadas alertando de incidentes vinculados con las drogas. Mil más que los primeros seis meses del año pasado. Esas quejas de los ciudadanos son solo la punta del iceberg de un problema que padece la capital catalana: la droga. Barcelona es u.",
+      "date": "2026-08-04"
+    },
     {
       "title": "La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona",
       "summary": "Julián Álvarez está muy cerca de regresar a un Atlético que no le espera con los brazos abiertos. El delantero argentino mantiene su silencio a una semana de volver a la capital española para volver a entrenar y la mente del club rojiblanco pasa porque el futbolista dé explicaciones de por qué anunció públicamente su d.",
@@ -65,13 +70,15 @@
       "title": "Imprevisto de última hora en la pretemporada del Barcelona en Inglaterra: volverán antes de tiempo",
       "summary": "El partido de entrenamiento que iba a disputar el Barcelona en la mañana de este lunes contra el Preston North End ha quedado suspendido.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El urólogo que difunde entrevistas a sus pacientes con cáncer: «El PSA me salvó la vida»",
-      "summary": "Pedro de Pablos, urólogo de origen canario formado en Barcelona en el Hospital de Bellvitge y dedicado de forma exclusiva al cáncer de próstata desde hace cinco años en el Instituto Valenciano de Oncología, ha creado un canal de divulgación -Prostalia- que le llena especialmente como profesional: las entrevistas a sus.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ofensiva contra el aumento de la venta y consumo de droga en Barcelona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260805/11607911/ofensiva-aumento-venta-consumo-droga-barcelona.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

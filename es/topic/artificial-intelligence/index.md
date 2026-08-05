@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El Banco Mundial apremia a los países en desarrollo a aprovechar la IA: “Pueden lograr en una década lo que les llevaría un siglo”](https://elpais.com/economia/2026-08-04/el-banco-mundial-apremia-a-los-paises-en-desarrollo-a-aprovechar-la-ia-pueden-lograr-en-una-decada-lo-que-les-llevaria-un-siglo.html?utm_source=lootura.com) — 2026-08-04T14:29:46.000Z
+- [Azora se alía con Nvidia para lanzar un gigante de la IA de 2.000 millones](https://amp.expansion.com/empresas/tecnologia/2026/08/05/6a72262b468aebf7488b4574.html?utm_source=lootura.com) — 2026-08-04T23:46:39.000Z

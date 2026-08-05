@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [¿Hay alternativas a Gianni Infantino para la presidencia de la FIFA?](https://www.larazon.es/deportes/hay-alternativas-gianni-infantino-presidencia-fifa_202608056a729402a046ad6ebc9d91ab.html?utm_source=lootura.com) — 2026-08-05T01:38:10.000Z

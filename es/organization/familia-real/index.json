@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
   "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Familias reales",
     "familia imperial",
@@ -16,23 +16,8 @@
   ],
   "changes": [
     {
-      "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
-      "summary": "Marivent vuelve a convertirse en uno de los grandes escenarios del verano de la Familia Real . Este martes 4 de agosto, los Reyes Felipe VI y Letizia abren las puertas del palacio mallorquín para recibir a cerca de 600 invitados en una de las citas más esperadas de su estancia en la isla. Políticos, empresarios, cientí.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Familia real first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda",
-      "summary": "Los jardines del Palacio de Marivent, un año más, han visto como la Familia Real hacía su tradicional guiño a las personalidades más representativas de la política, la economía, el arte, la cultura y los deportes de las Islas Baleares. Ha sucedido con varias repeticiones respecto al año 2025: la Familia Real estuvo al.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo",
-      "summary": "Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Real y, con él, una de las citas en las que la Reina Letizia demuestra que la moda también puede ser una poderosa herramienta de representación. Felipe VI y Doña Letizia han abierto este martes las puertas del Palacio de Marivent para recibir.",
       "date": "2026-08-04"
     },
     {
@@ -51,30 +36,27 @@
       "date": "2026-08-04"
     },
     {
+      "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
+      "summary": "Marivent vuelve a convertirse en uno de los grandes escenarios del verano de la Familia Real . Este martes 4 de agosto, los Reyes Felipe VI y Letizia abren las puertas del palacio mallorquín para recibir a cerca de 600 invitados en una de las citas más esperadas de su estancia en la isla. Políticos, empresarios, cientí.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda",
+      "summary": "Los jardines del Palacio de Marivent, un año más, han visto como la Familia Real hacía su tradicional guiño a las personalidades más representativas de la política, la economía, el arte, la cultura y los deportes de las Islas Baleares. Ha sucedido con varias repeticiones respecto al año 2025: la Familia Real estuvo al.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo",
+      "summary": "Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Real y, con él, una de las citas en las que la Reina Letizia demuestra que la moda también puede ser una poderosa herramienta de representación. Felipe VI y Doña Letizia han abierto este martes las puertas del Palacio de Marivent para recibir.",
+      "date": "2026-08-04"
+    },
+    {
       "title": "La obsesión de la Reina Sofía en Marivent: quería una casa donde poder caminar siempre descalza",
       "summary": "Cada verano, el Palacio de Marivent vuelve a convertirse en el epicentro de la actualidad de la Familia Real. Aunque la atención suele centrarse en la agenda de los Reyes o en las tradicionales imágenes de sus vacaciones en Mallorca, el complejo guarda infinidad de historias y curiosidades que hablan de cómo se ha vivi.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
-    {
-      "title": "La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda",
-      "url": "https://okdiario.com/baleares/familia-real-completo-reencuentra-sociedad-mallorquina-punto-algido-agenda-19126493/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:11:23.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo",
-      "url": "https://okdiario.com/cool/casa-real/letizia-vuelve-jugar-fuerte-marivent-vestido-blanco-rayas-que-lo-tiene-todo-19123596?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T20:07:46.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
-      "url": "https://okdiario.com/cool/casa-real/ponte-prueba-cuanto-sabes-visita-reyes-marivent-19123161?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:30:58.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
     {
       "title": "Letizia no defrauda en la tradicional recepción en Marivent con su estilo ‘made in Palma’: brilla con un vestido de rayas semitransparente",
       "url": "https://theobjective.com/gente/2026-08-04/letizia-tradicional-recepcion-marivent-estilo-made-in-palma/?utm_source=lootura.com",
@@ -94,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

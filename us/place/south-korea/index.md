@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [East Asia is baking in ‘cruelly hot’ summer](https://www.nbcnews.com/world/asia/deadly-heat-wave-japan-south-korea-rcna590691?utm_source=lootura.com) — 2026-08-04T10:52:45.000Z
+No public source links.

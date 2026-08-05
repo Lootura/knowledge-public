@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”",
+      "summary": "Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
       "summary": "El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.",
@@ -27,11 +32,6 @@
     {
       "title": "La Junta de Castilla y León se opondrá \"por todos los medios\" al reparto de menores migrantes de Ceuta",
       "summary": "La Junta de Castilla y León, gobernada por el PP y Vox, ha mostrado su \"oposición frontal\" a la política migratoria del Ejecutivo central y se opondrá por todos los medios a un futuro reparto de menores migrantes llegados de Ceuta. Fuentes de la Vicepresidencia primera de Castilla y León, que recae en Carlos Pollán (Vo.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”",
-      "summary": "Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.",
       "date": "2026-08-04"
     },
     {
@@ -67,29 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes",
-      "url": "https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:18:13.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
-      "title": "La Junta de Castilla y León se opondrá \"por todos los medios\" al reparto de menores migrantes de Ceuta",
-      "url": "https://www.elindependiente.com/espana/2026/08/04/la-junta-de-castilla-y-leon-se-opondra-por-todos-los-medios-al-reparto-de-menores-migrantes-de-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T16:28:51.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
       "title": "El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”",
       "url": "https://elpais.com/espana/madrid/2026-08-04/el-pp-pide-a-sus-cargos-y-diputados-apoyar-publicamente-a-ayuso-en-plena-crisis-por-la-compra-del-atico-os-pedimos-colaboracion-para-poner-comentarios-positivos.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T16:53:24.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
-      "url": "https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T07:51:42.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

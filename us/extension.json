@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:22:17.292Z",
+  "generatedAt": "2026-08-05T02:25:31.619Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|67|1785877819243",
+    "signature": "1.18.0|68|1785896003753",
     "version": "1.18.0",
-    "build": 67,
-    "latestEntityUpdatedAt": "2026-08-04T21:10:19.243Z"
+    "build": 68,
+    "latestEntityUpdatedAt": "2026-08-05T02:13:23.753Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
-      "type": "place",
-      "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-08-04T21:10:19.243Z",
-      "score": 1661,
-      "sourceCount": 570,
+      "id": "usa-jeanine-pirro",
+      "name": "Jeanine Pirro",
+      "type": "person",
+      "title": "Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case",
+      "url": "https://atlas.lootura.com/us/person/jeanine-pirro",
+      "path": "/us/person/jeanine-pirro",
+      "updatedAt": "2026-08-05T02:13:23.753Z",
+      "score": 1667,
+      "sourceCount": 6,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-04T21:10:19.243Z",
-        "score": 1658,
-        "sourceCount": 311,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-russia",
-        "name": "Russia",
-        "type": "place",
-        "title": "Drone hits crowded Russian beach, killing 7 people",
-        "url": "https://atlas.lootura.com/us/place/russia",
-        "path": "/us/place/russia",
-        "updatedAt": "2026-08-04T21:10:19.243Z",
-        "score": 1657,
-        "sourceCount": 59,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
         "type": "person",
-        "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-04T21:10:19.243Z",
-        "score": 1653,
-        "sourceCount": 42,
+        "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-05T02:13:23.753Z",
+        "score": 1659,
+        "sourceCount": 561,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Moscow and Kyiv trade blame over drone explosion that killed 7, including 3 children, on Russian beach",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-08-04T21:10:19.243Z",
-        "score": 1637,
-        "sourceCount": 90,
+        "title": "State Department revokes visa of Brazil's ambassador to the U.S.",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-05T02:13:23.753Z",
+        "score": 1659,
+        "sourceCount": 574,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "What’s missing from the White House plan for the future of US science",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-08-05T02:13:23.753Z",
+        "score": 1656,
+        "sourceCount": 94,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-reflecting-pool",
+        "name": "Reflecting pool",
+        "type": "object",
+        "title": "Trump says Jeanine Pirro \"choked\" in dropping Reflecting Pool cases",
+        "url": "https://atlas.lootura.com/us/object/reflecting-pool",
+        "path": "/us/object/reflecting-pool",
+        "updatedAt": "2026-08-05T02:13:23.753Z",
+        "score": 1635,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 102
+    "publicEntityCount": 106
   }
 }

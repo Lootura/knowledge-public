@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [Senate faces long to-do list and little time before recess](https://www.pbs.org/newshour/show/senate-faces-long-to-do-list-and-little-time-before-recess?utm_source=lootura.com) — 2026-08-04T22:40:44.000Z

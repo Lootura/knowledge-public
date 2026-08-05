@@ -3,26 +3,32 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump raises concerns in call with Rep. Max Miller amid abuse allegations
+### State Department revokes visa of Brazil's ambassador to the U.S.
 
-Ohio Rep. Max Miller's reelection campaign has been upended by allegations Miller assaulted his ex-wife, Emily Moreno, and their 2-year-old daughter.
+A senior State Department official said the visa would be reinstated immediately if Brazil grants diplomatic approval for President Trump's nominee for U.S. ambassador to Brazil, Daniel Perez.
 
-Date: 2026-08-04
+Date: 2026-08-05
+
+### Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute
+
+The Trump administration revoked the visa of Brazil’s U.S. ambassador Tuesday — the latest jab in a monthslong diplomatic spat between the two countries.
+
+Date: 2026-08-05
+
+### Trump-backed Ty Masterson wins Republican nomination for Kansas governor
+
+NBC News projects that Masterson, the state Senate president, emerged from the primary in a contest that represents a top pickup opportunity for the GOP this fall.
+
+Date: 2026-08-05
 
 ### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
 
 President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
-
-Date: 2026-08-04
-
-### How the War in Iran Is Complicating Trump’s Agenda at Home
-
-As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.
 
 Date: 2026-08-04
 
@@ -35,12 +41,6 @@ Date: 2026-08-04
 ### Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say
 
 President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.
-
-Date: 2026-08-04
-
-### Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race
-
-Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.
 
 Date: 2026-08-04
 
@@ -62,21 +62,21 @@ The funds have been frozen since early in President Trump’s second term.
 
 Date: 2026-08-04
 
-### Inside the Oval Office Showdown Between Trump and Jeanine Pirro
+### Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio
 
-Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.
+Republicans hoped a shove from President Trump would persuade the embattled congressman to drop his re-election bid in the face of abuse allegations.
 
 Date: 2026-08-04
 
 ## Sources
 
+- [State Department revokes visa of Brazil's ambassador to the U.S.](https://www.cbsnews.com/news/brazil-ambassador-us-visa-revoked/?utm_source=lootura.com) — 2026-08-05T00:39:19.000Z
 - [Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say](https://www.cbsnews.com/video/trump-and-white-house-officials-hope-rep-max-miller-ends-reelection-bid-sources-say/?utm_source=lootura.com) — 2026-08-04T17:37:42.000Z
-- [Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race](https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/?utm_source=lootura.com) — 2026-08-04T16:46:04.000Z
-- [Trump raises concerns in call with Rep. Max Miller amid abuse allegations](https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/?utm_source=lootura.com) — 2026-08-04T13:19:00.000Z
+- [Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case](https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com) — 2026-08-04T22:40:18.000Z
+- [Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute](https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888?utm_source=lootura.com) — 2026-08-05T01:38:00.000Z
+- [Trump-backed Ty Masterson wins Republican nomination for Kansas governor](https://www.nbcnews.com/politics/2026-election/kansas-governor-masterson-trump-holscher-corson-republican-democrat-rcna590030?utm_source=lootura.com) — 2026-08-05T01:00:31.000Z
 - [They're a world leader in using drones for healthcare. But drones can't do it all](https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda?utm_source=lootura.com) — 2026-08-04T11:05:10.000Z
 - [Trump takes trip to West Coast to tout the economy, something polls show he's weak on](https://www.pbs.org/newshour/politics/trump-takes-trip-to-west-coast-to-tout-the-economy-something-polls-show-hes-weak-on?utm_source=lootura.com) — 2026-08-04T18:56:36.000Z
 - [Trump's arch could disrupt the significance of many of Washington's historical sites, National Park Service says](https://www.pbs.org/newshour/nation/trumps-arch-could-disrupt-the-significance-of-many-of-washingtons-historical-sites-national-park-service-says?utm_source=lootura.com) — 2026-08-04T20:50:38.000Z
-- [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html?utm_source=lootura.com) — 2026-08-04T13:39:30.000Z
-- [Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants](https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html?utm_source=lootura.com) — 2026-08-04T20:58:30.000Z
-- [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-04T20:55:33.000Z
+- [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-04T22:36:44.000Z
 - [An Angry Trump Struggles to Understand Iran’s Defiant Leaders](https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html?utm_source=lootura.com) — 2026-08-04T19:20:37.000Z

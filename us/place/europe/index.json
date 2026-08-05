@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
   "aliases": [
     "EU",
     "European Union"
@@ -65,6 +65,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "This summer isn't breaking heat records—yet. Wait until El Nino kicks in, scientists say",
+      "url": "https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T02:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
   "evidenceCount": 0
 }

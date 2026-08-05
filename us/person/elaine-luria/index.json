@@ -1,0 +1,42 @@
+{
+  "id": "usa-elaine-luria",
+  "name": "Elaine Luria",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/elaine-luria",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/elaine-luria",
+  "markdownUrl": "https://atlas.lootura.com/us/person/elaine-luria/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/elaine-luria/index.json",
+  "description": "Follow Elaine Luria, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "aliases": [
+    "Elaine Goodman Luria"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Elaine Luria first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans",
+      "summary": "Elaine Luria will face Jennifer Kiggans, the Republican incumbent who defeated her in 2022, in the highly competitive Virginia Beach-area seat. Both are Navy veterans.",
+      "date": "2026-08-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jen Kiggans previews strategy for rematch in Virginia House race against Elaine Luria",
+      "url": "https://www.nbcnews.com/now/video/jen-kiggans-previews-strategy-for-rematch-in-virginia-house-race-against-elaine-luria-267781189706?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:58:46.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T23:36:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

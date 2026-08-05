@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,23 +17,28 @@
   ],
   "changes": [
     {
-      "title": "Tajani critica que España no haya consultado con la UE la regularización de migrantes",
-      "summary": "\"Siempre nos hemos solidarizado con España; somos amigos de los españoles, pero su política en este asunto no es perfecta, y tomamos estas medidas tras una cuidadosa consideración\" Leer.",
-      "date": "2026-08-04"
+      "title": "Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»",
+      "summary": "El 12 de agosto, alrededor de las ocho y media de la tarde, millones de personas elevarán sus ojos al cielo en una comunión con el universo que, en la península ibérica, no se producía desde hace más de 120 años. Contemplarán un eclipse total de Sol, visible casi exclusivamente desde España, cuya franja de totalidad cr.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "España batirá este verano el récord de energía renovable tirada a la basura",
+      "summary": "El sistema eléctrico español se ha convertido en una peligrosa contradicción. Las energías renovables no paran de crecer –ya van más de 100 GW de capacidad y aumentando–, pero su integración en la red está siendo muy tortuosa, principalmente, porque la demanda no despega al mismo ritmo al que se desarrolla la potencia.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta",
+      "summary": "Las ciudades autónomas son España. Y ningún congresista estadounidense debería utilizar un documento oficial para dar legitimidad a las pretensiones expansionistas de un tercer país contra un aliado de los Estados Unidos.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump",
+      "summary": "El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario estadounidense James ‘Fergie’ Cox Chambers Jr. , heredero de Cox Enterprises , en el procedimiento de extradición que tramita la Audiencia Nacional tras su detención el pasado mes de julio en Ibiza por una orden internacional emitida por Estado.",
+      "date": "2026-08-05"
     },
     {
       "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
       "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "España mantiene alta la 'Esperanza': plata europea en el equipo técnico",
-      "summary": "Quieren revolucionar la natación artística y es la filosofía que no van a perder. Es su esencia y su identidad. Es su ADN y el camino que las ha llevado a transformar este deporte. El que todas siguen pero no alcanzan. Porque se puede practicar el movimiento y la ejecución, pero no la maestría con la que el conjunto na.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
       "date": "2026-08-04"
     },
     {
@@ -42,66 +47,49 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Dos minutos en dos años: el último fichaje del Getafe que explica la realidad de fútbol español",
-      "summary": "Una temporada más, España aparece a la cola de las grandes ligas en materia de fichajes veraniegos. Si en la Premier League los desembolsos marean, como los realizados por el Chelsea (Morgan Rogers, 138 millones) o el Manchester City (Elliot Anderson, 135), en nuestro país vuelve a mandar la austeridad, la apuesta por.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes",
-      "summary": "El Gobierno de Ceuta enviará al ministro de Hacienda, Arcadi España, un informe con los gastos causados por la llegada masiva de migrantes que se ha producido en la ciudad y a la que se ha referido como \"invasión\". En un comunicado, el Gobierno ceutí ha señalado que su presidente Juan Jesús Vivas (PP) ha recibido la ll.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Entrada de inmigrantes a Ceuta desde Marruecos, en directo: fecha de la nueva avalancha, situación en la frontera y reacciones",
-      "summary": "La crisis migratoria en Ceuta continúa marcando la actualidad tras la entrada masiva de decenas de miles de personas desde Marruecos en los últimos días. El balance provisional ha aumentado hasta los 88 fallecidos confirmados. La gestión de la crisis ha abierto un intenso debate político y diplomático entre España y Ma.",
-      "date": "2026-08-04"
-    },
-    {
       "title": "La NASA realizará experimentos desde aviones y globos en España e Islandia durante el eclipse",
       "summary": "La NASA llevará a cabo experimentos desde aviones y globos en España e Islandia durante el eclipse solar total del miércoles 12 de agosto para recopilar datos sobre el Sol y la Tierra, según informa EFE. Un equipo científico financiado por la agencia seguirá la sombra de la Luna a bordo de un avión de investigación de.",
       "date": "2026-08-04"
     },
     {
-      "title": "Marlaska da por zanjada la crisis con la UE e insiste en que el CNI no dio la alerta: \"Hubiéramos activado la emergencia\"",
-      "summary": "El ministro del Interior asegura que sus homólogos europeos \"han recapitulado\" la información sobre la crisis de Ceuta y han cambiado de opinión sobre el papel de España: \"Han reconocido el trabajo extraordinario y eficaz de las autoridades españolas\" El trabajo del CNI en la crisis de Ceuta provoca un choque al más al.",
+      "title": "Anclajes de la acción exterior",
+      "summary": "España no necesita reinventarse cada legislatura; necesita recordar quién es. Con Marruecos conviene evitar dos errores: demonizarlo y subestimarlo Leer.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo",
+      "summary": "La energética comunicó hace unos días a la plantilla el relevo de José Ignacio Sanz, quien asumió la dirección del negocio de comercialización de electricidad y gas en septiembre de 2025 Leer.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Telefónica entra en la seguridad ciudadana rural en España",
+      "summary": "Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.",
       "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Felipe VI se pone líder en la Copa del Rey de vela",
-      "url": "https://www.abc.es/deportes/vela/vela-crucero/hispania-entra-puerta-grande-copa-rey-mapfre-20260804185936-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:47:04.000Z",
+      "title": "Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»",
+      "url": "https://www.abc.es/ciencia/pedro-garcia-lario-astronomo-eclipses-lloran-ponen-20260728022652-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T00:09:12.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "España mantiene alta la 'Esperanza': plata europea en el equipo técnico",
-      "url": "https://www.abc.es/deportes/espana-mantiene-alta-esperanza-plata-europea-equipo-20260804165906-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:22:18.000Z",
+      "title": "España batirá este verano el récord de energía renovable tirada a la basura",
+      "url": "https://www.abc.es/economia/espana-batira-verano-record-desperdicio-energia-renovable-20260805015326-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T00:02:04.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Dos minutos en dos años: el último fichaje del Getafe que explica la realidad de fútbol español",
-      "url": "https://www.abc.es/deportes/futbol/dos-minutos-dos-anos-ultimo-fichaje-getafe-20260804195426-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:54:26.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Ceuta enviará a Hacienda un informe con los gastos de la llegada masiva de migrantes",
-      "url": "https://www.elindependiente.com/espana/2026/08/04/ceuta-enviara-a-hacienda-un-informe-con-los-gastos-de-la-llegada-masiva-de-migrantes/?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T14:18:13.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "url": "https://www.elmundo.es/espana/2026/08/04/6a71bbcc21efa0f6278b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:19:39.000Z",
+      "title": "Anclajes de la acción exterior",
+      "url": "https://www.elmundo.es/internacional/2026/08/04/6a71f1ccfdddff3b048b4596.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T20:42:55.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Tajani critica que España no haya consultado con la UE la regularización de migrantes",
-      "url": "https://www.elmundo.es/espana/2026/08/04/6a71bd6a21efa072298b45d2.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T10:22:35.000Z",
+      "title": "La francesa TotalEnergies cambia por sorpresa a su CEO en España tras menos de un año en el cargo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/08/05/6a71bbdbe9cf4a070e8b45a7.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T23:09:12.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -117,9 +105,21 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Entrada de inmigrantes a Ceuta desde Marruecos, en directo: fecha de la nueva avalancha, situación en la frontera y reacciones",
-      "url": "https://okdiario.com/espana/entrada-inmigrantes-ceuta-desde-marruecos-directo-88-muertos-confirmados-ultima-hora-frontera-19120314?utm_source=lootura.com",
-      "publishedAt": "2026-08-04T19:48:35.000Z",
+      "title": "Telefónica entra en la seguridad ciudadana rural en España",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/08/05/6a725f2fe5fdea86658b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:03:10.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta",
+      "url": "https://www.larazon.es/espana/prominente-familia-politica-florida-ofensiva-marroqui-ceuta_202608056a72334071b42a0b5ddaed6a.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-05T01:41:38.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump",
+      "url": "https://okdiario.com/baleares/exjuez-baltasar-garzon-defendera-multimillonario-comunista-pro-hamas-detenido-ibiza-orden-trump-19125416?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T02:00:14.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
@@ -129,5 +129,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 10
 }

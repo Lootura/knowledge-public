@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
+
+### Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas
+
+Resolución 1936 del Consejo de Seguridad de las Naciones Unidas es adoptada.
+
+Date: 2026-08-05
 
 ### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
 
@@ -62,12 +68,6 @@ España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y 
 
 Date: 2026-07-19
 
-### La ONU impulsa una campaña global para prohibir los videojuegos centrados en “matar” y “hacer de la guerra un juego”
-
-El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas](https://es.wikipedia.org/wiki/Resoluci%C3%B3n_1936_del_Consejo_de_Seguridad_de_las_Naciones_Unidas?utm_source=lootura.com) — 2026-08-05T04:00:00.000Z

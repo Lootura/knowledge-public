@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T10:35:48.254Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
+      "summary": "El Consejo extraordinario de ministros del Interior de la UE no fue el ajuste de cuentas que muchos anticipaban, sino un delicado ejercicio de equilibrio político. La reunión, solicitada por 22 Estados miembros a iniciativa de Italia y Dinamarca tras la crisis migratoria de Ceuta, concluyó con una declaración de princi.",
+      "date": "2026-08-04"
+    },
     {
       "title": "El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda",
       "summary": "El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.",
@@ -57,6 +62,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
+      "url": "https://www.lavanguardia.com/politica/20260805/11607889/ue-rebaja-tension-italia-propone-bruselas-lidere-relacion-marruecos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-04T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

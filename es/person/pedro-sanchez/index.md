@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez
+
+«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no fueron a colaborar en el operativo montado en plena crisis m.
+
+Date: 2026-08-04
+
+### DJ Pedro Sánchez
+
+El azar ha querido que, coincidiendo con la tragedia de Ceuta, el presidente Pedro Sánchez haya hecho pública una PlayList como recomendación de verano. Hacer recomendaciones (libros, música) forma parte de una estrategia que confirma que, como otros personajes públicos, Sánchez ha sucumbido a la adictiva oferta de las.
+
+Date: 2026-08-04
 
 ### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
 
@@ -56,20 +68,7 @@ La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes
 
 Date: 2026-08-04
 
-### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
-
-La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
-
-Date: 2026-08-04
-
-### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
-
-El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"](https://www.elmundo.es/espana/2026/08/04/6a71bbcc21efa0f6278b4597.html?utm_source=lootura.com) — 2026-08-04T10:19:39.000Z
-- [Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"](https://www.elmundo.es/cataluna/2026/08/04/6a724a69e4d4d8024e8b456f.html?utm_source=lootura.com) — 2026-08-04T20:46:52.000Z
-- [Ceuta no estaba en la playlist ecléctica](https://okdiario.com/opinion/ceuta-no-estaba-playlist-eclectica-19126485?utm_source=lootura.com) — 2026-08-04T19:56:15.000Z
+- [Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez](https://www.abc.es/espana/jupol-asegura-primeros-antidisturbios-llegados-ceuta-escoltar-20260804015910-nt.html?utm_source=lootura.com) — 2026-08-04T23:59:10.000Z
+- [DJ Pedro Sánchez](https://www.lavanguardia.com/opinion/20260805/11607616/dj-pedro-sanchez.html?utm_source=lootura.com) — 2026-08-04T22:30:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.json",
   "description": "Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T21:09:57.077Z",
+  "updatedAt": "2026-08-05T02:13:05.012Z",
   "aliases": [
     "Brennan",
     "El Cohete",
@@ -22,13 +22,13 @@
       "date": "2026-08-04"
     },
     {
-      "title": "Matthew Brennan, primer líder de la Vuelta Ciclista a Burgos",
-      "summary": "El británico del Visma-Lease a Bike se impone en la exigente subida final al Castillo de la capital burgalesa.",
+      "title": "Discovered by Atlas",
+      "summary": "Matthew Brennan first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-04"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Matthew Brennan first entered the public knowledge record with source-backed evidence.",
+      "title": "Matthew Brennan, primer líder de la Vuelta Ciclista a Burgos",
+      "summary": "El británico del Visma-Lease a Bike se impone en la exigente subida final al Castillo de la capital burgalesa.",
       "date": "2026-08-04"
     }
   ],
@@ -38,13 +38,7 @@
       "url": "https://www.diariovasco.com/deportes/ciclismo/matthew-brennan-jonathan-milan-imponen-rapidez-burgos-20260804194027-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-04T17:40:27.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Matthew Brennan, primer líder de la Vuelta Ciclista a Burgos",
-      "url": "https://www.larazon.es/castilla-y-leon/matthew-brennan-primer-lider-vuelta-ciclista-burgos_202608046a7222d1a046ad6ebc9c9eb5.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-04T17:35:13.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

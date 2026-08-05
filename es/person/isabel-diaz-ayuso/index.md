@@ -3,20 +3,20 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
 
-### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
-
-El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
-
-Date: 2026-08-04
-
 ### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
 
 Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
+
+Date: 2026-08-04
+
+### El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja
+
+El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.
 
 Date: 2026-08-04
 
@@ -71,4 +71,3 @@ Date: 2026-07-25
 ## Fuentes
 
 - [El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”](https://elpais.com/espana/madrid/2026-08-04/el-pp-pide-a-sus-cargos-y-diputados-apoyar-publicamente-a-ayuso-en-plena-crisis-por-la-compra-del-atico-os-pedimos-colaboracion-para-poner-comentarios-positivos.html?utm_source=lootura.com) — 2026-08-04T16:53:24.000Z
-- [El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja](https://elpais.com/espana/madrid/2026-08-04/el-atico-que-compro-el-gobierno-de-ayuso-lo-vendio-una-de-las-inmobiliarias-mas-exclusivas-de-la-moraleja.html?utm_source=lootura.com) — 2026-08-04T07:51:42.000Z

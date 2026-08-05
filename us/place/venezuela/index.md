@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes](https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html?utm_source=lootura.com) — 2026-08-04T00:55:34.000Z
+No public source links.

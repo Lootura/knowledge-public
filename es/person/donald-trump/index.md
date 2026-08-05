@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
+
+El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.
+
+Date: 2026-08-05
 
 ### Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás
 
@@ -62,12 +68,6 @@ La decisión de Trump de cancelar los ataques contra Irán ha desinflado el prec
 
 Date: 2026-08-03
 
-### Trump dice que Ormuz podría abrirse "mañana mismo"
-
-El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás](https://www.larazon.es/internacional/netanyahu-rechaza-plan-trump-que-incluye-desarme-hamas_202608046a7248f071b42a0b5ddb20f6.html?utm_source=lootura.com) — 2026-08-04T20:17:52.000Z
+- [Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín](https://www.abc.es/economia/sanciones-trump-cuba-dejan-punto-mira-sabadell-20260805015341-nt.html?utm_source=lootura.com) — 2026-08-05T00:00:56.000Z

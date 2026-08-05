@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-05T02:13:05.012Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Telefónica entra en la seguridad ciudadana rural en España
+
+Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.
+
+Date: 2026-08-04
 
 ### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
 
@@ -62,12 +68,6 @@ Sigue en directo los incendios forestales activos alrededor de España, en comun
 
 Date: 2026-07-24
 
-### Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta
-
-Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Telefónica entra en la seguridad ciudadana rural en España](https://www.expansion.com/empresas/tecnologia/2026/08/05/6a725f2fe5fdea86658b457c.html?utm_source=lootura.com) — 2026-08-04T22:03:10.000Z

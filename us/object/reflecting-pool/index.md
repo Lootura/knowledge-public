@@ -3,10 +3,16 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-05T02:13:23.753Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case
+
+Attorneys for the former Olympic canoeist the Trump administration had charged in a felony Reflecting Pool case are seeking to permanently bar any effort to resurface what they called a “politically motivated prosecution” of their client.
+
+Date: 2026-08-04
 
 ### More Lincoln Memorial Reflecting Pool charges dropped by Pirro's office
 
@@ -62,12 +68,6 @@ The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repair
 
 Date: 2026-08-03
 
-### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
-
-Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case](https://www.nbcnews.com/politics/justice-department/olympic-canoeist-charged-pirro-seeks-permanently-sink-reflecting-pool-rcna590804?utm_source=lootura.com) — 2026-08-04T22:40:18.000Z

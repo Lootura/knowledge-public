@@ -46,4 +46,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Leonor y Sofía, duelo de estilo en Marivent: la heredera se rinde al tie-dye y su hermana pisa el acelerador](https://okdiario.com/cool/casa-real/leonor-sofia-duelo-estilo-marivent-heredera-rinde-tie-dye-hermana-pisa-acelerador-19123754?utm_source=lootura.com) — 2026-08-04T19:59:54.000Z
+No public source links.
