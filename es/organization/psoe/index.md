@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta
+
+Sandra López, secretaria de Política Institucional del PSOE de Ceuta, se tropezó el pasado sábado por la tarde con un grupo de inmigrantes cuando paseaba con su perro por los alrededores de la pista de tiro. Uno de ellos le preguntó en un español balbuceante ayudado con sus expresivos gestos la forma de llegar a la bar.
+
+Date: 2026-08-06
 
 ### Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado
 
@@ -62,12 +68,6 @@ Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muest
 
 Date: 2026-08-02
 
-### Guerra fría PSOE-PP ante la crisis climática
-
-La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta](https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z

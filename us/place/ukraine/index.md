@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -20,12 +20,6 @@ Russia struck Ukraine with a series of missiles overnight, killing at least 17 p
 
 Date: 2026-08-05
 
-### Ukraine says missile interceptors may have saved lives in Russian attack
-
-At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
-
-Date: 2026-08-05
-
 ### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
 
 To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
@@ -35,6 +29,12 @@ Date: 2026-08-05
 ### Russian missile attacks on Kyiv expose weakness in Ukraine's air defense
 
 A massive Russian missile attack killed nearly two dozen people in Ukraine overnight. Such strikes have become almost routine this summer as Moscow looks to exploit a critical air defense shortage in Ukraine. U.S.-made Patriots are the only air defense weapon capable of shooting down a Russian ballistic missile. Stepha.
+
+Date: 2026-08-05
+
+### Ukraine says missile interceptors may have saved lives in Russian attack
+
+At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
 
 Date: 2026-08-05
 
@@ -71,7 +71,5 @@ Date: 2026-08-05
 ## Sources
 
 - [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
-- [Ukraine says missile interceptors may have saved lives in Russian attack](https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com) — 2026-08-05T16:18:42.000Z
 - [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z
 - [Russian missile attacks on Kyiv expose weakness in Ukraine's air defense](https://www.pbs.org/newshour/show/russian-missile-attacks-on-kyiv-expose-weakness-in-ukraines-air-defense?utm_source=lootura.com) — 2026-08-05T22:45:17.000Z
-- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com) — 2026-08-06T02:00:35.000Z

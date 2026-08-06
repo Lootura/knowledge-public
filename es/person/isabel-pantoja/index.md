@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
+
+### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
+
+Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.
+
+Date: 2026-08-06
 
 ### Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más
 
@@ -40,4 +46,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros](https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com) — 2026-08-06T06:13:24.000Z

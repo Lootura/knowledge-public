@@ -58,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Prime Video recibe este anime de fantasía que se estrenó en 2018 y fue nominado a un premio Óscar](https://www.larazon.es/videojuegos/cine/prime-video-recibe-este-anime-fantasia-se-estreno-2018-fue-nominado-premio-oscar_202608056a7306b671b42a0b5ddcaa5c.html?utm_source=lootura.com) — 2026-08-05T20:30:00.000Z
+No public source links.

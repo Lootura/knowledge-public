@@ -58,4 +58,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic](https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/?utm_source=lootura.com) — 2026-08-05T19:25:00.000Z
+No public source links.

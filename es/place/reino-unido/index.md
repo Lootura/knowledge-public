@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2
+
+Telefónica y su socio Liberty Global han abierto la puerta a acometer un plan de reducción de costes en Virgin Media O2 (VMO2), su operadora conjunta en Reino Unido, que puede incluir un ajuste de plantilla similar al anunciado recientemente por Telefónica en Alemania para 1.100 trabajadores. El consejero delegado de L.
+
+Date: 2026-08-06
 
 ### Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales
 
@@ -62,12 +68,6 @@ Europa habla de su energía como si la geología la hubiera condenado, y es fals
 
 Date: 2026-07-25
 
-### La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte
-
-La Policía irlandesa se ha incautado esta semana de una « potente bomba » durante una operación en la frontera con Reino Unido que se ha saldado por ahora con dos arrestos y una línea de investigación que apunta a la posibilidad de que el artefacto explosivo tenía Irlanda del Norte como destino final. La operación ha o.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2](https://cincodias.elpais.com/companias/2026-08-06/telefonica-y-su-socio-en-reino-unido-abren-la-puerta-a-un-ajuste-de-plantilla-en-virgin-media-o2.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z

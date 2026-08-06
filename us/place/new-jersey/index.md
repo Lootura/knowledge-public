@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Long-term study suggests landfill methane emissions are far higher than estimates](https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html?utm_source=lootura.com) — 2026-08-05T22:40:01.000Z
+No public source links.

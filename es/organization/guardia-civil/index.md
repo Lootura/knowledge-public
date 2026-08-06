@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
-- [En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional](https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/?utm_source=lootura.com) — 2026-08-05T17:52:00.000Z
+No public source links.

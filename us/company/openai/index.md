@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Meta says its AI model hacked into another company during testing](https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training?utm_source=lootura.com) — 2026-08-06T01:27:44.000Z
+No public source links.

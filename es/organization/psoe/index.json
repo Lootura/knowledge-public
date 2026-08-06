@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
+      "summary": "Sandra López, secretaria de Política Institucional del PSOE de Ceuta, se tropezó el pasado sábado por la tarde con un grupo de inmigrantes cuando paseaba con su perro por los alrededores de la pista de tiro. Uno de ellos le preguntó en un español balbuceante ayudado con sus expresivos gestos la forma de llegar a la bar.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado",
       "summary": "El comienzo de las Fiestas de la Virgen Blanca , en Vitoria , se ha visto salpicado por la actuación de un grupo de proetarras , que decidieron tomar el festejo de inauguración con un despliegue de pancartas permitido por el Ayuntamiento de la ciudad vasca, en la que gobierna el PSE-PSOE . Los dirigentes socialistas de.",
@@ -65,13 +70,15 @@
       "title": "Elena Valenciano: \"¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?\"",
       "summary": "Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muestra un rostro más relajado y tranquilo que en los turbulentos años en los que dirigió el PSOE (2012-2014), a pesar de que \"teníamos la mitad de lo que pasa ahora\". Declara \"absolutamente cerrada\" su etapa en política, de la que salió no por v.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Guerra fría PSOE-PP ante la crisis climática",
-      "summary": "La propuesta reiteradamente lanzada por el presidente del Gobierno, Pedro Sánchez, para alcanzar un pacto de Estado para emergencia climática ha obtenido un rechazo frontal del Partido Popular. Frente al clamor de los expertos y la demanda unánime de las organizaciones sociales, las posibilidades de un acuerdo se nubla.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
+      "url": "https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

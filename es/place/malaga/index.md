@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’
+
+La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.
+
+Date: 2026-08-06
 
 ### Dragon Ball contará con una nueva figura de Freezer que ha sido anunciada en la San Diego Comic Málaga
 
@@ -62,12 +68,6 @@ La Diputación de Málaga ha movilizado 17,2 millones de euros para esta estrate
 
 Date: 2026-08-02
 
-### A prisión un hombre por una agresión machista a su expareja en Benamocarra (Málaga)
-
-Un hombre ha ingresado en prisión provisional por una agresión machista a su expareja en Benamocarra (Málaga), a la que hirió al golpearla con una piedra en la cabeza, según han confirmado fuentes de la investigación. La Guardia Civil detuvo al agresor, que ha ingresado en prisión con medidas de protección para la víct.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Dragon Ball contará con una nueva figura de Freezer que ha sido anunciada en la San Diego Comic Málaga](https://www.larazon.es/videojuegos/dragon-ball/dragon-ball-contara-nueva-figura-freezer-ha-sido-anunciada-san-diego-comic-malaga_202608056a731741a046ad6ebc9eb114.html?utm_source=lootura.com) — 2026-08-05T21:00:00.000Z
+- [Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’](https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z

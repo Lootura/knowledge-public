@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El tiempo para el eclipse solar del 12 de agosto en Madrid, Valencia, Zaragoza, Oviedo y Bilbao: la previsión de la Aemet
+
+La previsión del tiempo para el eclipse solar del 12 de agosto será determinante para quienes quieran contemplar uno de los fenómenos astronómicos más esperados de las últimas décadas. A pocos días de la cita, todas las miradas están puestas en el estado del cielo de ciudades como Madrid, Valencia, Zaragoza, Oviedo y B.
+
+Date: 2026-08-06
+
+### Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje
+
+La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa que forma parte de las medidas que ha puesto en marcha el Gobierno regional para la reconstrucción de las zonas dañadas. El director general de Agricultura, Ganadería y Aliment.
+
+Date: 2026-08-06
+
+### Precio de la gasolina hoy 6 de agosto: localiza las gasolineras más baratas de Madrid
+
+Llegamos al jueves con un repunte de nuevo en las temperaturas en comunidades como Madrid , de modo que si te apetece coger el coche para irte hasta una piscina e incluso más lejos y visitar otra comunidad para disfrutar de la playa, conviene tener el depósito lleno y como no, saber cuál es el precio de la gasolina hoy.
+
+Date: 2026-08-06
+
+### La agricultura madrileña recupera definitivamente un melón azul autóctono que hace pocos años estaba casi extinto
+
+Algunos productos del campo español han desaparecido casi sin dejar rastro, pero para mantener la diversidad muchos agricultores están recuperando variedades de nuestros antepasados . En un pueblo de Madrid lo están viviendo con los melones azules . El melón azul es una variedad autóctona madrileña que estuvo cerca de.
+
+Date: 2026-08-06
 
 ### 'Termo de Madrid': el portal ciudadano para reportar las temperaturas «infernales» en el Metro
 
@@ -44,38 +68,11 @@ El entrenador del Atlético de Madrid , Diego Pablo Simeone , dio a conocer este
 
 Date: 2026-08-05
 
-### La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste
-
-La Fundación Alicia Koplowitz ha donado 150.000 euros para la reconstrucción de la Sierra Oeste de la Comunidad de Madrid , tras el incendio que arrasó cerca de 34.000 hectáreas durante el pasado mes de julio, según ha dado a conocer la presidenta regional, Isabel Díaz Ayuso, a través de sus redes sociales. « La Fundac.
-
-Date: 2026-08-05
-
-### El mapa de la financiación autonómica: Murcia, la región más castigada; Madrid, la que más aporta
-
-El encaje de la financiación autonómica es cada vez más complicado, como pone de manifiesto la dificultad para llegar a un acuerdo en el seno del Consejo de Política Fiscal y...
-
-Date: 2026-08-05
-
-### Ayuso contra Ayuso: cómo ha cambiado su discurso sobre el ático de la Comunidad de Madrid en una semana
-
-La líder madrileña justificó la necesidad del inmueble para llevar a cabo "reuniones" durante las obras en la sede de la Puerta del Sol, pero ahora sostiene que "lo mejor desde el primer minuto es venderlo” Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Sería muy poco intelig.
-
-Date: 2026-08-05
-
-### El Riyadh Air Metropolitano impulsa el mejor junio de la historia para el turismo en Madrid
-
-Los 10 conciertos que el artista puertorriqueño Bad Bunny ofreció en junio en el Riyadh Air Metropolitano unidos a la visita del papa León XIV, contribuyeron a un mes récord para Madrid, que recibió cerca de 885.000 visitantes extranjeros y alcanzó un gasto turístico de 1.860 millones de euros, según el INE. La celebra.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Si Vinicius se va...](https://www.abc.es/deportes/real-madrid/vinicius-20260805131920-nt.html?utm_source=lootura.com) — 2026-08-06T00:11:16.000Z
-- ['Termo de Madrid': el portal ciudadano para reportar las temperaturas «infernales» en el Metro](https://www.abc.es/espana/madrid/termo-madrid-portal-ciudadano-reportar-temperaturas-infernales-20260805185249-nt.html?utm_source=lootura.com) — 2026-08-06T00:12:29.000Z
-- [Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»](https://www.abc.es/espana/madrid/comunidad-madrid-busca-oficina-reuniones-ocho-puestos-20260805012753-nt.html?utm_source=lootura.com) — 2026-08-06T00:12:15.000Z
+- [Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña](https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:37.000Z
+- [El tiempo para el eclipse solar del 12 de agosto en Madrid, Valencia, Zaragoza, Oviedo y Bilbao: la previsión de la Aemet](https://www.elconfidencial.com/espana/2026-08-06/tiempo-hora-por-hora-eclipse-12-agosto-1qrt_4401229/?utm_source=lootura.com) — 2026-08-06T05:44:00.000Z
 - [El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares](https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com) — 2026-08-05T16:52:27.000Z
-- [La empresa pública del ático de lujo solo ha comprado dos inmuebles en los últimos ejercicios aunque Ayuso dice que realiza compraventas "todo el año"](https://www.eldiario.es/madrid/empresa-publica-atico-lujo-comprado-inmuebles-ultimos-ejercicios-ayuso-dice-realiza-compraventas-ano_1_13430568.html?utm_source=lootura.com) — 2026-08-05T18:55:29.000Z
-- [El mapa de la financiación autonómica: Murcia, la región más castigada; Madrid, la que más aporta](https://amp.expansion.com/economia/2026/08/05/6a739636e5fdea393d8b4581.html?utm_source=lootura.com) — 2026-08-05T20:00:04.000Z
-- [No viaja con el Atlético de Madrid a Seúl y fichará por el Aston Villa](https://www.larazon.es/deportes/laotraliga/viaja-atletico-madrid-seul-fichara-aston-villa_202608056a739d24a5690f047368dacb.html?utm_source=lootura.com) — 2026-08-05T20:29:24.000Z
-- [Sagas: Ramón Hermosilla, el jinete del ladrillo de lujo que rediseña el Madrid histórico](https://www.larazon.es/gente/famosos/sagas-ramon-hermosilla-jinete-ladrillo-lujo-que-redisena-madrid-historico_202608066a73e786a5690f0473695e31.html?utm_source=lootura.com) — 2026-08-06T01:46:46.000Z
-- [La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste](https://theobjective.com/espana/madrid/2026-08-05/alicia-koplowitz-150000-euros-reconstruccion-sierra-oeste/?utm_source=lootura.com) — 2026-08-05T19:51:21.000Z
+- [Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje](https://www.larazon.es/madrid/ganaderias-afectadas-incendio-sierra-oeste-reciben-cerca-medio-millon-kilos-forraje_202608066a74242aa046ad6ebca0da0f.html?utm_source=lootura.com) — 2026-08-06T06:05:30.000Z
+- [Precio de la gasolina hoy 6 de agosto: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-6-agosto-localiza-gasolineras-mas-baratas-madrid-19114655?utm_source=lootura.com) — 2026-08-06T06:15:11.000Z
+- [La agricultura madrileña recupera definitivamente un melón azul autóctono que hace pocos años estaba casi extinto](https://okdiario.com/naturaleza/agricultura-madrilena-recupera-definitivamente-melon-azul-autoctono-que-hace-pocos-anos-estaba-casi-extinto-19122203?utm_source=lootura.com) — 2026-08-06T06:00:50.000Z

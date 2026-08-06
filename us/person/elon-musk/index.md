@@ -3,7 +3,7 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
@@ -41,4 +41,3 @@ Date: 2026-08-05
 ## Sources
 
 - [Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead?utm_source=lootura.com) — 2026-08-06T00:25:10.000Z
-- [X product chief Nikita Bier is leaving after one year](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving?utm_source=lootura.com) — 2026-08-05T22:19:55.000Z

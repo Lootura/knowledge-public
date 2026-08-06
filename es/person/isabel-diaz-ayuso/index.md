@@ -70,6 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»](https://www.abc.es/espana/madrid/comunidad-madrid-busca-oficina-reuniones-ocho-puestos-20260805012753-nt.html?utm_source=lootura.com) — 2026-08-06T00:12:15.000Z
-- [Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
-- [La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste](https://theobjective.com/espana/madrid/2026-08-05/alicia-koplowitz-150000-euros-reconstruccion-sierra-oeste/?utm_source=lootura.com) — 2026-08-05T19:51:21.000Z
+No public source links.

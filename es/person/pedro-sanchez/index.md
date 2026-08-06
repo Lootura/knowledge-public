@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Invasión y regularización
+
+La invasión proveniente de Marruecos que sufrió la ciudad de Ceuta la semana pasada tuvo, a mi juicio, dos impulsos convergentes: 1) la política agresiva contra España que impulsa el rey de Marruecos y 2) la política de regularización que se ha inventado Pedro Sánchez , que no pretende otra cosa que destrozar la legali.
+
+Date: 2026-08-06
+
+### Toda resta le suma a Sánchez
+
+En algún momento de su trayectoria, Pedro Sánchez descubrió que, hiciera lo que hiciera, iba a contar con un retén de electores importante y con intelectuales y periodistas no necesariamente a sueldo (aunque también a sueldo) que le brindarían apoyos y coartadas sin fin . La célebre frase de un personaje de Dostoievski.
+
+Date: 2026-08-06
+
+### La ‘playlist’ de Sánchez
+
+Como y cuando ha querido, Marruecos ha invadido Ceuta , ciudad española —y aún antes, portuguesa— desde hace más de 400 años. Tras el brutal efecto llamada conseguido por la política migratoria del Gobierno de Pedro Sánchez , la invasión dejó a Europa sin aliento. Entre el 30 y el 31 de julio, unas 70.000 personas lleg.
+
+Date: 2026-08-06
 
 ### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
 
@@ -50,24 +68,9 @@ Date: 2026-08-04
 
 Date: 2026-08-04
 
-### DJ Pedro Sánchez
-
-El azar ha querido que, coincidiendo con la tragedia de Ceuta, el presidente Pedro Sánchez haya hecho pública una PlayList como recomendación de verano. Hacer recomendaciones (libros, música) forma parte de una estrategia que confirma que, como otros personajes públicos, Sánchez ha sucumbido a la adictiva oferta de las.
-
-Date: 2026-08-04
-
-### La prensa europea informa con asombro de que "Sánchez se va de vacaciones" mientras "España se hunde en el caos"
-
-The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.
-
-Date: 2026-08-04
-
-### Ceuta no estaba en la playlist ecléctica
-
-Pedro Sánchez comparte la banda sonora de su verano. En el espigón del Tarajal, el mar sigue devolviendo cadáveres. Entre Lanzarote y Ceuta no hay sólo kilómetros: hay una avería moral en la puesta en escena del poder. Después de que 72.000 personas hubieran cruzado hacia Ceuta en apenas un día y con el número de muert.
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
+- [Invasión y regularización](https://theobjective.com/elsubjetivo/opinion/2026-08-06/invasion-regularizacion-articulo-leguina/?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z
+- [Toda resta le suma a Sánchez](https://theobjective.com/elsubjetivo/opinion/2026-08-06/toda-resta-suma-sanchez-articulo-montano/?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z
+- [La ‘playlist’ de Sánchez](https://theobjective.com/elsubjetivo/opinion/2026-08-06/playlist-sanchez-articulo-rosa-cullell/?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z

@@ -3,7 +3,7 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
@@ -22,5 +22,5 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Progressives got their win in Michigan. Can a democratic socialist carry Wisconsin?](https://www.politico.com/news/2026/08/05/wisconsin-governor-francesca-hong-tweets-01025881?utm_source=lootura.com) — 2026-08-05T18:58:27.000Z
+- [The democratic socialist facing swing-state realities — and her old tweets](https://www.politico.com/news/2026/08/05/wisconsin-governor-francesca-hong-tweets-01025881?utm_source=lootura.com) — 2026-08-05T18:58:27.000Z
 - [Francesca Hong Said Thanksgiving Should Be Canceled. Can Wisconsin Voters Forgive Her?](https://www.nytimes.com/2026/08/05/us/politics/francesca-hong-thanksgiving.html?utm_source=lootura.com) — 2026-08-05T20:42:27.000Z

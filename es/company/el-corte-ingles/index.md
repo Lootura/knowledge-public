@@ -3,7 +3,7 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes

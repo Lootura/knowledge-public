@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
+
+Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.
+
+Date: 2026-08-06
 
 ### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
 
@@ -62,12 +68,6 @@ Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los trib
 
 Date: 2026-08-05
 
-### El ex juez Baltasar Garzón defenderá al multimillonario comunista pro-Hamás detenido en Ibiza por orden de Trump
-
-El ex juez Baltasar Garzón asumirá la defensa en España del multimillonario estadounidense James ‘Fergie’ Cox Chambers Jr. , heredero de Cox Enterprises , en el procedimiento de extradición que tramita la Audiencia Nacional tras su detención el pasado mes de julio en Ibiza por una orden internacional emitida por Estado.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos](https://amp.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html?utm_source=lootura.com) — 2026-08-05T10:30:36.000Z
+- [Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros](https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com) — 2026-08-06T06:13:24.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones
+
+Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.
+
+Date: 2026-08-06
+
+### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
+
+Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
+
+Date: 2026-08-06
 
 ### El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta
 
@@ -20,15 +32,15 @@ El gobierno de PP y Vox en Mallorca acaba con la marginación del español en su
 
 Date: 2026-08-06
 
-### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
-
-La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
-
-Date: 2026-08-05
-
 ### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
 
 La "capacidad ordinaria" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una "situación de contingencia migratoria...
+
+Date: 2026-08-05
+
+### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
+
+La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
 
 Date: 2026-08-05
 
@@ -56,21 +68,8 @@ Atender al millar de menores no acompañados que el Gobierno de Ceuta calcula qu
 
 Date: 2026-08-05
 
-### El reparto de menores divide a las comunidades: Madrid pide su devolución, Extremadura se niega a acogerlos y Navarra pide "solidaridad"
-
-Las comunidades autónomas han comenzado a tomar postura sobre el reparto de los menores no acompañados que cruzaron la frontera con Ceuta en la entrada masiva de 72.000 personas del pasado jueves. Si este martes eran Aragón y Castilla y León las que se oponían al mismo, un día después ha sido Extremadura , donde el PP.
-
-Date: 2026-08-05
-
-### El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta
-
-La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y realizarse con "financiación suficiente y todas las garantías", y recuerda que el sistema vasco de protección "ya trabaja por encima de su capacidad ordinaria" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mien.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta](https://www.abc.es/espana/pp-pide-habilitar-senado-agosto-comparecencias-albares-20260805180952-nt.html?utm_source=lootura.com) — 2026-08-06T00:14:15.000Z
+- [El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones](https://www.20minutos.es/nacional/gobierno-confia-no-tener-que-acudir-justicia-por-reparto-menores-mientras-pp-baja-tono-vox-presiona-las-regiones_7022869_0.html?utm_source=lootura.com) — 2026-08-06T05:14:18.000Z
 - [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
-- [El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios literarios](https://okdiario.com/baleares/gobierno-pp-vox-mallorca-acaba-marginacion-del-espanol-sus-premios-literarios-19129223/amp?utm_source=lootura.com) — 2026-08-06T02:00:45.000Z
-- [El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta](https://theobjective.com/espana/2026-08-05/pnv-pp-junts-reparto-menores-ceuta/?utm_source=lootura.com) — 2026-08-05T17:55:55.000Z
+- [La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades](https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z

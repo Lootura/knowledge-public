@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-06T06:27:36.615Z",
   "aliases": [
     "España",
     "Estado español",
@@ -66,6 +66,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:01:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
   "evidenceCount": 0
 }

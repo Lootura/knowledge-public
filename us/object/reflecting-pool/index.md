@@ -3,7 +3,7 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes

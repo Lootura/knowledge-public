@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Irán contempla abrir un paso pero se resiste a ceder el control de Ormuz](https://www.expansion.com/economia/2026/08/05/6a73872ce5fdea62448b456d.html?utm_source=lootura.com) — 2026-08-05T18:57:45.000Z
+- [La renta variable mundial enfila nuevas cotas gracias al crecimiento económico y la solidez de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-renta-variable-mundial-enfila-nuevas-cotas-gracias-al-crecimiento-economico-y-la-solidez-de-los-resultados.html?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z

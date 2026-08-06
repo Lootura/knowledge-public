@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
+
+La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
+
+Date: 2026-08-06
+
+### Podcast | Las ‘midterm’ de EEUU
+
+¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.
+
+Date: 2026-08-06
 
 ### Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz
 
@@ -56,19 +68,8 @@ El precio del petróleo intermedio de Texas (WTI) ha abierto este martes con una
 
 Date: 2026-08-04
 
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-05T20:09:09.000Z
+- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
 - [Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz](https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com) — 2026-08-05T17:12:26.000Z
+- [Podcast | Las ‘midterm’ de EEUU](https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com) — 2026-08-06T03:25:55.000Z

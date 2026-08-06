@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La alianza de Elon Musk y Nvidia agita la industria de los chips",
+      "summary": "La industria de los chips para inteligencia artificial (IA) ha vivido una nueva sacudida. En la conferencia telefónica con analistas para presentar las cuentas de SpaceX del segundo trimestre , su consejero delegado, Elon Musk, afirmó que Nvidia pasaría a ser el proveedor exclusivo de chips de IA para los centros de da.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
     {
       "title": "SpaceX dispara sus ingresos un 92% en los primeros resultados trimestrales tras su salida a Bolsa",
       "summary": "SpaceX, la compañía de cohetes fundada por Elon Musk en 2002, ha presentado este martes los primeros resultados después de protagonizar el pasado 12 de junio la mayor salida a Bolsa de la historia de Wall Street. El grupo aeroespacial y tecnológico ha registrado unos ingresos de 7.814 millones de dólares, lo que repres.",
@@ -20,13 +30,15 @@
       "title": "Próspera y Starbase: las ciudades “sin ley” de las tecnológicas",
       "summary": "La ciudad de Starbase, en Texas, es un mini Estado dirigido por la empresa SpaceX de Elon Musk. Starbase. , CC BY-SA Cuando Próspera, una ciudad en la paradisiaca isla de Roatán (Honduras), fue calificada por el Gobierno hondureño como Zona de Empleo y Desarrollo Económico (“ZEDE”), en 2013, despertó mucho interés entr.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La alianza de Elon Musk y Nvidia agita la industria de los chips",
+      "url": "https://cincodias.elpais.com/companias/2026-08-06/la-alianza-de-elon-musk-y-nvidia-agita-la-industria-de-los-chips.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

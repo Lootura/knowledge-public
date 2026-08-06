@@ -28,5 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA](https://www.expansion.com/economia-digital/companias/2026/08/05/6a7376c9468aeb90028b45b4.html?utm_source=lootura.com) — 2026-08-05T20:20:27.000Z
-- [Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic](https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/?utm_source=lootura.com) — 2026-08-05T19:25:00.000Z
+No public source links.

@@ -58,4 +58,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El Rey recibirá este jueves al presidente de Ceuta en Palma](https://theobjective.com/espana/2026-08-05/rey-jueves-presidente-ceuta-palma/?utm_source=lootura.com) — 2026-08-05T18:11:20.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
+
+La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
+
+Date: 2026-08-06
+
+### El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster
+
+El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la última que necesitaba, para convertirse en un gigante bancario en Estados Unidos gracias a Webster. Sus activos alcanzan los 253.600 millones de dólares (unos 220.000 millones de euros), con una posición dominante en el estado de Connecticut y no.
+
+Date: 2026-08-06
 
 ### ¿Por qué algunas personas se enamoran de asesinos? La ciencia empieza a encontrar respuestas
 
@@ -56,19 +68,7 @@ El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque 
 
 Date: 2026-08-05
 
-### Una prominente familia política de Florida y la ofensiva marroquí contra Ceuta
-
-Las ciudades autónomas son España. Y ningún congresista estadounidense debería utilizar un documento oficial para dar legitimidad a las pretensiones expansionistas de un tercer país contra un aliado de los Estados Unidos.
-
-Date: 2026-08-05
-
-### Victoria iraní: peaje en Ormuz
-
-Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió](https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:59:05.000Z
-- [¿Por qué algunas personas se enamoran de asesinos? La ciencia empieza a encontrar respuestas](https://theconversation.com/por-que-algunas-personas-se-enamoran-de-asesinos-la-ciencia-empieza-a-encontrar-respuestas-264654?utm_source=lootura.com) — 2026-08-05T16:40:05.000Z
+- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
+- [El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster](https://cincodias.elpais.com/companias/2026-08-06/el-santander-debera-someterse-a-un-test-de-estres-anual-en-estados-unidos-despues-de-comprar-webster.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z

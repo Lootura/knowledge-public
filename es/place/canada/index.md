@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Jódar debuta en Montreal con una remontada espectacular para batir a Moutet](https://okdiario.com/deportes/jodar-debuta-montreal-remontada-espectacular-batir-moutet-19133341?utm_source=lootura.com) — 2026-08-05T22:17:44.000Z
+No public source links.

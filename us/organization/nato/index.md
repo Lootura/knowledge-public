@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com) — 2026-08-06T02:00:35.000Z
+No public source links.

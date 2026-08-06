@@ -3,10 +3,22 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### La alianza de Elon Musk y Nvidia agita la industria de los chips
+
+La industria de los chips para inteligencia artificial (IA) ha vivido una nueva sacudida. En la conferencia telefónica con analistas para presentar las cuentas de SpaceX del segundo trimestre , su consejero delegado, Elon Musk, afirmó que Nvidia pasaría a ser el proveedor exclusivo de chips de IA para los centros de da.
+
+Date: 2026-08-06
+
+### Discovered by Atlas
+
+Elon Musk first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-04
 
 ### SpaceX dispara sus ingresos un 92% en los primeros resultados trimestrales tras su salida a Bolsa
 
@@ -20,12 +32,6 @@ La ciudad de Starbase, en Texas, es un mini Estado dirigido por la empresa Space
 
 Date: 2026-08-04
 
-### Discovered by Atlas
-
-Elon Musk first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [La alianza de Elon Musk y Nvidia agita la industria de los chips](https://cincodias.elpais.com/companias/2026-08-06/la-alianza-de-elon-musk-y-nvidia-agita-la-industria-de-los-chips.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados",
+      "summary": "Dos personas han sido trasladadas en estado menos grave al Hospital Germans Trias de Badalona (Barcelona) tras declararse un incendio , alrededor de las 00.24 horas de este jueves, en una vivienda de la calle Doctor Robert. Además de los dos afectados evacuados al hospital, otras cinco personas fueron atendidas y dadas.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
+      "summary": "Vecinos de un edificio de la calle Muntaner a la altura de la calle Mallorca denuncian que el trasiego de personas drogadas por su escalera les está amargando la vida. Algunos ya planean mudarse, otros siquiera quieren marcharse de vacaciones. Esta comunidad ya instaló cámaras en algunas zonas comunes, contrató a un vi.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto",
       "summary": "El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.",
@@ -60,18 +70,21 @@
       "title": "Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona",
       "summary": "El atropello de una persona por un tren ha interrumpido esta mañana la circulación entre Cunit y Sant Vicenç de Calders, en la provincia de Tarragona, lo que afecta a los trenes de la línea R2 Sud de Rodalies y a las líneas R13, R14, R15, R16 y R17 , por los que circulan también trenes de media distancia entre Barcelon.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Los correfocs son la tradición más ruidosa de Barcelona, y los ‘diablos de fuego’ sacrifican su audición para poder participar",
-      "summary": "El _correfoc_ es una fiesta muy importante, tanto en Barcelona como en toda Cataluña. Calvesklein/Wikimedia Commons , CC BY-SA Cada año, el 15 de agosto, el barrio de Gràcia, en Barcelona, se despierta con una procesión pirotécnica de “ diables ”, o “diablos de fuego”, que recorren sus estrechas calles, seguidos poco d.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
-      "summary": "Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-06/incendio-badalona-hospital-heridos-1tna-1tps_4401766/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T06:21:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
 }

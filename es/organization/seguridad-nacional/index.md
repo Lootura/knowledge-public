@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional](https://theobjective.com/espana/2026-08-05/sumario-tarde-investigacion-ceuta-seguridad-nacional/?utm_source=lootura.com) — 2026-08-05T17:52:00.000Z
+No public source links.

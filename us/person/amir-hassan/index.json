@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amir-hassan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amir-hassan/index.json",
   "description": "Follow Amir Hassan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-06T06:27:36.615Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Amir Hassan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
       "summary": "Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.",
       "date": "2026-08-05"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Amir Hassan first entered the public knowledge record with source-backed evidence.",
+      "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
+      "summary": "Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.",
       "date": "2026-08-05"
     }
   ],
@@ -33,7 +38,7 @@
       "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T21:51:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

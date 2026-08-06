@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-No public source links.
+- [La renta variable mundial enfila nuevas cotas gracias al crecimiento económico y la solidez de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-renta-variable-mundial-enfila-nuevas-cotas-gracias-al-crecimiento-economico-y-la-solidez-de-los-resultados.html?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z

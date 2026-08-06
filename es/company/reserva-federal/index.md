@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster
+
+El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la última que necesitaba, para convertirse en un gigante bancario en Estados Unidos gracias a Webster. Sus activos alcanzan los 253.600 millones de dólares (unos 220.000 millones de euros), con una posición dominante en el estado de Connecticut y no.
+
+Date: 2026-08-06
 
 ### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
 
@@ -64,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster](https://cincodias.elpais.com/companias/2026-08-06/el-santander-debera-someterse-a-un-test-de-estres-anual-en-estados-unidos-despues-de-comprar-webster.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z

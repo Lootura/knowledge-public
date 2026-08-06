@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-06T06:27:36.615Z",
   "aliases": [],
   "changes": [
     {
@@ -43,13 +43,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead?utm_source=lootura.com",
       "publishedAt": "2026-08-06T00:25:10.000Z",
       "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "X product chief Nikita Bier is leaving after one year",
-      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:19:55.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

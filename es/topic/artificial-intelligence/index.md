@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-05T20:09:09.000Z
+- [Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña](https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:37.000Z

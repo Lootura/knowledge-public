@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El comando que perpetró el ‘vuelco’ de droga en Palma iba con máscaras de mono y subfusiles de asalto de última generación](https://okdiario.com/baleares/comando-que-perpetro-vuelco-droga-palma-iba-mascaras-mono-subfusiles-asalto-ultima-generacion-19129753?utm_source=lootura.com) — 2026-08-06T02:00:28.000Z
-- [Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga](https://theobjective.com/sociedad/suceso/2026-08-05/hombre-mata-pareja-cuchilladas-murcia/?utm_source=lootura.com) — 2026-08-05T19:24:32.000Z
+No public source links.

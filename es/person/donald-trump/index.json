@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,21 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
+      "summary": "La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Podcast | Las ‘midterm’ de EEUU",
+      "summary": "¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
+      "summary": "El incidente se produce en un área que ha sido objeto de especial atención tras otros episodios de seguridad aérea Leer.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
       "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
@@ -58,23 +73,27 @@
       "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
       "summary": "La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La mitad de estados de EEUU demandan a la Administración por los aranceles globales",
-      "summary": "La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump se revuelve contra Irán y le da una \"última oportunidad\" para firmar un acuerdo",
-      "summary": "El presidente estadounidense arremete contra el régimen iraní después de que afirmara que \"no está negociando\" actualmente con Washington Leer.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental",
-      "summary": "Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
+      "url": "https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:50:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
+      "url": "https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T23:16:36.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Podcast | Las ‘midterm’ de EEUU",
+      "url": "https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:25:55.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
 }

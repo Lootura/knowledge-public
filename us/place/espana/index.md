@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com) — 2026-08-06T04:01:07.000Z

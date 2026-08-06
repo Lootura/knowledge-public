@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
+
+La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
+
+Date: 2026-08-06
+
+### Podcast | Las ‘midterm’ de EEUU
+
+¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.
+
+Date: 2026-08-06
+
+### El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington
+
+El incidente se produce en un área que ha sido objeto de especial atención tras otros episodios de seguridad aérea Leer.
+
+Date: 2026-08-05
 
 ### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
 
@@ -50,24 +68,8 @@ La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace dí
 
 Date: 2026-08-04
 
-### La mitad de estados de EEUU demandan a la Administración por los aranceles globales
-
-La mitad de los 50 estados de Estados Unidos han demandado este lunes al presidente del país, Donald Trump, y a su Administración por los nuevos aranceles.
-
-Date: 2026-08-04
-
-### Trump se revuelve contra Irán y le da una "última oportunidad" para firmar un acuerdo
-
-El presidente estadounidense arremete contra el régimen iraní después de que afirmara que "no está negociando" actualmente con Washington Leer.
-
-Date: 2026-08-03
-
-### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
-
-Marruecos ha confirmado oficialmente que ha bautizado a una de sus principales autopistas con el nombre del presidente de los Estados Unidos : Donald J. Trump . La carretera, antes conocida como Tiznit-Dakhla, atraviesa el Sáhara Occidental . Días atrás, Trump había agradecido públicamente en sus redes sociales el gest.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
+- [El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington](https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html?utm_source=lootura.com) — 2026-08-05T23:16:36.000Z
+- [Podcast | Las ‘midterm’ de EEUU](https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com) — 2026-08-06T03:25:55.000Z

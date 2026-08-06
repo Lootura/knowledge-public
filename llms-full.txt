@@ -29,7 +29,6 @@
 - [Correos](https://atlas.lootura.com/es/organization/correos): Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [María Cristina Narbona Ruiz](https://atlas.lootura.com/es/organization/cristina-narbona): Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Demis Hassabis](https://atlas.lootura.com/es/organization/demis-hassabis): Sigue la actividad de Demis Hassabis en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Tarajal](https://atlas.lootura.com/es/organization/el-tarajal): Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Elon Musk](https://atlas.lootura.com/es/organization/elon-musk): Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Familia real](https://atlas.lootura.com/es/organization/familia-real): Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -196,6 +195,7 @@
 - [Andy Biggs](https://atlas.lootura.com/us/person/andy-biggs): Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Andy Burnham](https://atlas.lootura.com/us/person/andy-burnham): Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Angus King](https://atlas.lootura.com/us/person/angus-king): Follow Angus King, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Anthony Fauci](https://atlas.lootura.com/us/person/anthony-fauci): Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Ariana Grande](https://atlas.lootura.com/us/person/ariana-grande): Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Benjamin Netanyahu](https://atlas.lootura.com/us/person/benjamin-netanyahu): Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Bernie Moreno](https://atlas.lootura.com/us/person/bernie-moreno): Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

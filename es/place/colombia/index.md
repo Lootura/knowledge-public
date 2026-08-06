@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”
+
+Más de un millón de personas de origen marroquí viven en España , lo que la convierte en la comunidad extranjera más numerosa, por delante de Colombia. Y también en un elemento de considerable importancia para la economía del país magrebí, muchos de cuyos ciudadanos siguen intentando emigrar a Europa como ha mostrado l.
+
+Date: 2026-08-06
 
 ### El "sombrío legado" que deja Petro en Colombia
 
@@ -34,4 +40,5 @@ Date: 2026-08-01
 
 ## Fuentes
 
+- [La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”](https://elpais.com/economia/2026-08-06/la-aportacion-clave-de-la-comunidad-marroqui-en-espana-las-remesas-son-criticas-para-marruecos.html?utm_source=lootura.com) — 2026-08-06T03:45:01.000Z
 - [El "sombrío legado" que deja Petro en Colombia](https://www.elmundo.es/internacional/2026/08/06/6a7340eafc6c837f028b4585.html?utm_source=lootura.com) — 2026-08-05T23:49:24.000Z

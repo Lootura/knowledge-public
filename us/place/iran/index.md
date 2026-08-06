@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda
+
+Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image.
+
+Date: 2026-08-06
 
 ### Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday
 
@@ -62,15 +68,10 @@ Iran’s leaders have perplexed several American presidents, perhaps none more t
 
 Date: 2026-08-04
 
-### Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War
-
-Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Former Defense Secretary Chuck Hagel on Iran war, sharing of information](https://www.cbsnews.com/video/former-defense-secretary-chuck-hagel-on-iran-war-sharing-of-information/?utm_source=lootura.com) — 2026-08-06T01:21:37.000Z
 - [Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday](https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com) — 2026-08-05T16:20:30.000Z
 - [News Wrap: Senate confirms Dr. Erica Schwartz as CDC director](https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com) — 2026-08-05T22:45:03.000Z
+- [Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda](https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613?utm_source=lootura.com) — 2026-08-06T04:00:00.000Z
 - [Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect](https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com) — 2026-08-05T18:00:01.000Z

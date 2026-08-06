@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,21 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Invasión y regularización",
+      "summary": "La invasión proveniente de Marruecos que sufrió la ciudad de Ceuta la semana pasada tuvo, a mi juicio, dos impulsos convergentes: 1) la política agresiva contra España que impulsa el rey de Marruecos y 2) la política de regularización que se ha inventado Pedro Sánchez , que no pretende otra cosa que destrozar la legali.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Toda resta le suma a Sánchez",
+      "summary": "En algún momento de su trayectoria, Pedro Sánchez descubrió que, hiciera lo que hiciera, iba a contar con un retén de electores importante y con intelectuales y periodistas no necesariamente a sueldo (aunque también a sueldo) que le brindarían apoyos y coartadas sin fin . La célebre frase de un personaje de Dostoievski.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "La ‘playlist’ de Sánchez",
+      "summary": "Como y cuando ha querido, Marruecos ha invadido Ceuta , ciudad española —y aún antes, portuguesa— desde hace más de 400 años. Tras el brutal efecto llamada conseguido por la política migratoria del Gobierno de Pedro Sánchez , la invasión dejó a Europa sin aliento. Entre el 30 y el 31 de julio, unas 70.000 personas lleg.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: \"Rechazaremos a los menores, está pactado\"",
       "summary": "La \"capacidad ordinaria\" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una \"situación de contingencia migratoria...",
@@ -51,21 +66,6 @@
       "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
       "summary": "«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no fueron a colaborar en el operativo montado en plena crisis m.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "DJ Pedro Sánchez",
-      "summary": "El azar ha querido que, coincidiendo con la tragedia de Ceuta, el presidente Pedro Sánchez haya hecho pública una PlayList como recomendación de verano. Hacer recomendaciones (libros, música) forma parte de una estrategia que confirma que, como otros personajes públicos, Sánchez ha sucumbido a la adictiva oferta de las.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La prensa europea informa con asombro de que \"Sánchez se va de vacaciones\" mientras \"España se hunde en el caos\"",
-      "summary": "The Times, Bild o The Telegraph recogen también la playlist de música que el presidente publicó en plena crisis migratoria Leer.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Ceuta no estaba en la playlist ecléctica",
-      "summary": "Pedro Sánchez comparte la banda sonora de su verano. En el espigón del Tarajal, el mar sigue devolviendo cadáveres. Entre Lanzarote y Ceuta no hay sólo kilómetros: hay una avería moral en la puesta en escena del poder. Después de que 72.000 personas hubieran cruzado hacia Ceuta en apenas un día y con el número de muert.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -74,7 +74,25 @@
       "url": "https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T20:51:52.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Invasión y regularización",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-06/invasion-regularizacion-articulo-leguina/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Toda resta le suma a Sánchez",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-06/toda-resta-suma-sanchez-articulo-montano/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "La ‘playlist’ de Sánchez",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-06/playlist-sanchez-articulo-rosa-cullell/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

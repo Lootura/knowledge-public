@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-06T06:27:36.615Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+      "summary": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
       "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
@@ -60,11 +65,6 @@
       "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
       "summary": "Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "summary": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -87,11 +87,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+      "url": "https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
       "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T18:00:01.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

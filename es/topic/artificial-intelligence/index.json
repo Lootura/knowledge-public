@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "El Ibex consolida los 20.000 puntos en un mercado impulsado la IA y los resultados",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T20:09:09.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña",
+      "url": "https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:50:37.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje
+
+La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa que forma parte de las medidas que ha puesto en marcha el Gobierno regional para la reconstrucción de las zonas dañadas. El director general de Agricultura, Ganadería y Aliment.
+
+Date: 2026-08-06
 
 ### Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes
 
@@ -58,4 +64,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje](https://www.larazon.es/madrid/ganaderias-afectadas-incendio-sierra-oeste-reciben-cerca-medio-millon-kilos-forraje_202608066a74242aa046ad6ebca0da0f.html?utm_source=lootura.com) — 2026-08-06T06:05:30.000Z

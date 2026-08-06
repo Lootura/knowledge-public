@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-pantoja/index.json",
   "description": "Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-06T06:27:15.972Z",
   "aliases": [
     "Isabel Pantoja Martín",
     "La Pantoja",
@@ -16,6 +16,11 @@
     "Pantoja"
   ],
   "changes": [
+    {
+      "title": "Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros",
+      "summary": "Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
       "summary": "Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.",
@@ -42,6 +47,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros",
+      "url": "https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T06:13:24.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
 }

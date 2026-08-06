@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T06:25:54.118Z
+- Updated: 2026-08-06T06:27:36.615Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com) — 2026-08-06T04:01:07.000Z

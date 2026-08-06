@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-06T06:27:15.972Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados
+
+Dos personas han sido trasladadas en estado menos grave al Hospital Germans Trias de Badalona (Barcelona) tras declararse un incendio , alrededor de las 00.24 horas de este jueves, en una vivienda de la calle Doctor Robert. Además de los dos afectados evacuados al hospital, otras cinco personas fueron atendidas y dadas.
+
+Date: 2026-08-06
+
+### El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona
+
+Vecinos de un edificio de la calle Muntaner a la altura de la calle Mallorca denuncian que el trasiego de personas drogadas por su escalera les está amargando la vida. Algunos ya planean mudarse, otros siquiera quieren marcharse de vacaciones. Esta comunidad ya instaló cámaras en algunas zonas comunes, contrató a un vi.
+
+Date: 2026-08-06
 
 ### Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto
 
@@ -56,18 +68,7 @@ El atropello de una persona por un tren ha interrumpido esta mañana la circulac
 
 Date: 2026-08-03
 
-### Los correfocs son la tradición más ruidosa de Barcelona, y los ‘diablos de fuego’ sacrifican su audición para poder participar
-
-El _correfoc_ es una fiesta muy importante, tanto en Barcelona como en toda Cataluña. Calvesklein/Wikimedia Commons , CC BY-SA Cada año, el 15 de agosto, el barrio de Gràcia, en Barcelona, se despierta con una procesión pirotécnica de “ diables ”, o “diablos de fuego”, que recorren sus estrechas calles, seguidos poco d.
-
-Date: 2026-08-03
-
-### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
-
-Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados](https://www.elconfidencial.com/espana/cataluna/2026-08-06/incendio-badalona-hospital-heridos-1tna-1tps_4401766/?utm_source=lootura.com) — 2026-08-06T06:21:00.000Z
+- [El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona](https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html?utm_source=lootura.com) — 2026-08-06T04:00:00.000Z
