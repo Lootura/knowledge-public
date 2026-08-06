@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”](https://www.larazon.es/espana/oscar-puente-tambien-acuerda-vito-quiles-plena-crisis-ceuta-burla-nuevo-proceso-judicial-solo_202608066a746061a046ad6ebca14aba.html?utm_source=lootura.com) — 2026-08-06T10:22:25.000Z
+No public source links.

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
+      "summary": "El paciente participaba en un ensayo clínico con una terapia experimental para corregir la distrofia muscular de Duchenne.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Cómo los jesuitas domaron al dragón chino de los eclipses",
       "summary": "La bandera con un dragón devorando el Sol, también conocida como bandera del Dragón amarillo se convirtió en la primera bandera nacional de China. Wikimedia commons , CC BY La imagen es poderosa: un dragón celestial devorando el Sol, mientras en la Tierra, el pueblo, aterrorizado, hace sonar tambores y gongs para espan.",
@@ -55,13 +60,15 @@
       "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
       "summary": "En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país",
-      "summary": "Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
+      "url": "https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:19:51.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

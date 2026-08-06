@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Baleares cesa a la directora general de Costas, que denunció un intento de soborno
+
+El Govern ha decidido cesar a su hasta ahora directora general de Costas y Litoral, Maria Joaquina Ferrer Mata s, quien llevaba poco menos de un año en el cargo. La decisión, según ha adelantado Diario de Mallorca y han confirmado a Europa Press fuentes del Ejecutivo conocedoras de la misma, se formalizará en el Consel.
+
+Date: 2026-08-06
 
 ### El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes
 
@@ -40,4 +46,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Baleares cesa a la directora general de Costas, que denunció un intento de soborno](https://theobjective.com/espana/politica/2026-08-06/baleares-cesa-directora-general-costas/?utm_source=lootura.com) — 2026-08-06T12:33:35.000Z

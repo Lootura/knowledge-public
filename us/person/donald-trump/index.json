@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -55,23 +55,23 @@
       "date": "2026-08-06"
     },
     {
+      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
+      "summary": "Exclusive: Louisiana firm awarded tender to build rudimentary outpost to house Moroccan troops Donald Trump’s Board of Peace, which was set up in January to oversee the reconstruction of Gaza , has finally issued its first construction contract in the devastated territory: a project to build a rudimentary 150-person mi.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
+      "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
+      "summary": "Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.",
+      "date": "2026-08-05"
+    },
+    {
       "title": "Funding milestone detected",
       "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More",
-      "summary": "President Trump’s goal of building a “golden fleet” of 15 battleships could cost $275 billion, according to a government estimate.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
-      "summary": "President Donald Trump's administration has detained dozens of parents and spouses of active-duty U.S. troops as it rolls back immigration protections for military families to pursue its mass deportation agenda, an Associated Press investigation found.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
-      "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
       "date": "2026-08-05"
     }
   ],
@@ -95,24 +95,6 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
-      "url": "https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T21:55:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
-      "url": "https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:35:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:45:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
       "url": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T08:40:01.000Z",
@@ -125,17 +107,29 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement",
-      "url": "https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:34:03.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:00:47.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
       "url": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T21:58:59.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:51:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Tennessee’s Andy Ogles Faces Well-Funded Opposition in House Primary Thursday",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/ogles-primary-tennessee.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:04:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 10
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [],
   "changes": [
     {
@@ -39,10 +39,10 @@
   ],
   "sources": [
     {
-      "title": "What El-Sayed's primary win means for Democrats in November",
-      "url": "https://www.pbs.org/newshour/show/what-el-sayeds-primary-win-means-for-democrats-in-november?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:55:28.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Republicans accuse Michigan's El-Sayed of being \"too extreme\" after Senate primary win",
+      "url": "https://www.cbsnews.com/video/republicans-accuse-michigans-el-sayed-of-being-too-extreme-after-senate-primary-win/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:47:17.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 0

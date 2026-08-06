@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña
+
+La Generalitat ha activado en fase de alerta el Plan especial de emergencias por inundaciones de Cataluña ( Inuncat ) ante la previsión de chubascos y tormentas intensas durante la tarde y la noche de este jueves. El Servei Meteorològic de Cataluña (SMC) ha emitido avisos por posible superación de umbrales de peligro d.
+
+Date: 2026-08-06
 
 ### "De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va": el 'Perejil', señalado desde el chat del incendio de Ávila
 
@@ -62,12 +68,6 @@ Con la mayor parte de España en riesgo extremo de incendios y una situación mu
 
 Date: 2026-07-24
 
-### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
-
-La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña](https://www.elconfidencial.com/espana/2026-08-06/inundaciones-tormentas-catalunya-alerta-1tna-1tps_4402119/?utm_source=lootura.com) — 2026-08-06T13:32:00.000Z

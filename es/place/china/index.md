@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Muere un segundo niño tratado en China con una terapia de edición genética
+
+El paciente participaba en un ensayo clínico con una terapia experimental para corregir la distrofia muscular de Duchenne.
+
+Date: 2026-08-06
 
 ### Cómo los jesuitas domaron al dragón chino de los eclipses
 
@@ -62,12 +68,6 @@ En 2019 se estrenó el documental American Factory, el primero de la productora 
 
 Date: 2026-08-01
 
-### Un chino que vive en España explica qué pasa cuando se muere aquí la gente de su país
-
-Durante las últimas décadas, la comunidad china en España ha crecido de forma notable. Sin embargo, hay algo que llama la atención a muchos: apenas se ven funerales de ciudadanos chinos en España. ¿Qué ocurre cuando muere alguien de esta comunidad?Sobre este tema ha hablado el usuario de TikTok @elchinosevillano , un j.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Muere un segundo niño tratado en China con una terapia de edición genética](https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:19:51.000Z

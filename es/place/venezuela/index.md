@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»
+
+Todo comenzó en marzo de 1992, en una fiesta privada con el presidente de Venezuela, Carlos Andrés Pérez . Se celebraba en una mansión de Caracas propiedad de Gustavo Cisneros , el famoso empresario que durante años apareció en la lista Forbes como uno de los hombres más ricos de Latinoamérica. Y allí estaban Los del R.
+
+Date: 2026-08-06
 
 ### Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo
 
@@ -62,12 +68,6 @@ El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 perso
 
 Date: 2026-07-25
 
-### Delcy Rodríguez cambia al jefe operativo militar y anuncia un "plan maestro" para reconstruir Venezuela
-
-La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nuevas designaciones en la Fuerza Armada Nacional Bolivariana (FANB), destacando entre ellas el nombramiento del mayor general Rubén Belzares Escobar como nuevo jefe del Comando Estratégico Operacional del cuerpo castrense y el de Pedro Gonzále.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»](https://www.abc.es/cultura/musica/rio-michael-jackson-loco-grabar-version-macarena-20260806014719-nt.html?utm_source=lootura.com) — 2026-08-06T13:02:34.000Z

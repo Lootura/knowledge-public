@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El Ejecutivo reacciona al posible pacto de la FIFA con Marruecos para acoger la final del Mundial](https://www.20minutos.es/deportes/futbol/gobierno-reacciona-presunto-pacto-fifa-con-marruecos-para-acoger-final-mundial-2030-tiene-que-ser-espana_7023124_0.html?utm_source=lootura.com) — 2026-08-06T08:14:53.000Z
+- [La extraña trinchera de Infantino: comercia con Marruecos para salvar el trono de la FIFA](https://www.abc.es/deportes/futbol/infantino-comercia-marruecos-final-mundial-salvar-pescuezo-20260805014711-nt.html?utm_source=lootura.com) — 2026-08-06T13:15:46.000Z

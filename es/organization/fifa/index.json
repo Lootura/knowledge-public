@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -72,10 +72,10 @@
   ],
   "sources": [
     {
-      "title": "El Ejecutivo reacciona al posible pacto de la FIFA con Marruecos para acoger la final del Mundial",
-      "url": "https://www.20minutos.es/deportes/futbol/gobierno-reacciona-presunto-pacto-fifa-con-marruecos-para-acoger-final-mundial-2030-tiene-que-ser-espana_7023124_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:14:53.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La extraña trinchera de Infantino: comercia con Marruecos para salvar el trono de la FIFA",
+      "url": "https://www.abc.es/deportes/futbol/infantino-comercia-marruecos-final-mundial-salvar-pescuezo-20260805014711-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:15:46.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

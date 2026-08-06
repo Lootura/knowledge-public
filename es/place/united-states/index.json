@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Santander ficha al CEO de UBS en Brasil para su banca de inversión",
+      "summary": "Santander ha fichado a Daniel Bassan, CEO de UBS en Brasil y responsable regional de América Latina, para dirigir la banca de inversión de su filial carioca. Bassan estaba ligado...",
+      "date": "2026-08-06"
+    },
     {
       "title": "EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales",
       "summary": "Las obras de ingeniería ayudan a los animales a desplazarse mejor y también sirven para reducir los peligros en carretera y los accidentes provocados por la entrada de fauna a la vía. En Arizona, Estados Unidos (EE.UU.) lo están experimentando. Hay que entender que para muchos animales las carreteras son una barrera qu.",
@@ -86,19 +91,14 @@
       "title": "Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open",
       "summary": "El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en \"proceso de recuperación\" por la lesión que.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita",
-      "summary": "Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales",
-      "url": "https://okdiario.com/naturaleza/ee-uu-convierte-ejemplo-espana-arizona-construye-27-cruces-fauna-reduce-90-accidentes-trafico-animales-19127896?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:30:07.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Santander ficha al CEO de UBS en Brasil para su banca de inversión",
+      "url": "https://amp.expansion.com/empresas/banca/2026/08/06/6a746aa3468aebfb798b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:58:23.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

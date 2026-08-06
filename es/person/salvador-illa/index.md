@@ -58,4 +58,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros](https://amp.elmundo.es/cataluna/2026/08/06/6a738d3be4d4d85a5b8b4593.html?utm_source=lootura.com) — 2026-08-06T00:08:43.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
+
+Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.
+
+Date: 2026-08-06
+
+### La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner
+
+Una pareja de la Guardia Urbana de paisano detuvo el miércoles por la noche a uno de los individuos que viven en el conflictivo piso de un bloque de la calle Muntaner de Barcelona, que han convertido en un espacio “inseguro” para el resto de vecinos. El individuo fue acusado de un hurto después de que se presentara por.
+
+Date: 2026-08-06
 
 ### Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados
 
@@ -29,12 +41,6 @@ Date: 2026-08-06
 ### Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella
 
 Los vecinos de dos bloques de pisos del barrio de la Trinitat Vella de Barcelona han sido desalojados esta madrugada de sus domicilios por los Bombers de Barcelona al sentir que sus bloques temblaban. Seguir leyendo...
-
-Date: 2026-08-06
-
-### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
-
-Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.
 
 Date: 2026-08-06
 
@@ -62,16 +68,7 @@ Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño
 
 Date: 2026-08-05
 
-### Ofensiva contra el aumento de la venta y consumo de droga en Barcelona
-
-El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 llamadas alertando de incidentes vinculados con las drogas. Mil más que los primeros seis meses del año pasado. Esas quejas de los ciudadanos son solo la punta del iceberg de un problema que padece la capital catalana: la droga. Barcelona es u.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados](https://www.elconfidencial.com/espana/cataluna/2026-08-06/incendio-badalona-hospital-heridos-1tna-1tps_4401766/?utm_source=lootura.com) — 2026-08-06T06:21:00.000Z
-- [Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar](https://www.elconfidencial.com/espana/cataluna/2026-08-06/visitas-gratis-hivernacle-ciutadella-barcelona_4401806/?utm_source=lootura.com) — 2026-08-06T08:32:00.000Z
-- [Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella](https://www.larazon.es/cataluna/vibraciones-compactadora-obligan-evacuar-dos-edificios-trinitat-vella_202608066a7460cca5690f04736a2c93.html?utm_source=lootura.com) — 2026-08-06T10:24:12.000Z
-- [Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella](https://www.lavanguardia.com/local/barcelona/20260806/11608896/obras-vallbona-sacuden-madrugada-dos-edificios-trinitat-vella.html?utm_source=lootura.com) — 2026-08-06T08:34:41.000Z
+- [La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner](https://www.lavanguardia.com/sucesos/20260806/11609097/guardia-urbana-detiene-inquilinos-piso-horrores-muntaner.html?utm_source=lootura.com) — 2026-08-06T12:30:11.000Z
 - [Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»](https://theobjective.com/gente/2026-08-06/vacaciones-ester-exposito-mbappe-cerdena-barcelona-enamorados/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z

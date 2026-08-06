@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington](https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html?utm_source=lootura.com) — 2026-08-05T23:16:36.000Z
+- [IU tacha a Infantino de «lacayo de Trump» y cuestiona celebrar el mundial con Marruecos](https://theobjective.com/espana/politica/2026-08-06/iu-infantino-lacayo-trump-mundial-marruecos/?utm_source=lootura.com) — 2026-08-06T09:36:19.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -16,6 +16,26 @@
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Máximo histórico de población en España: alcanza los 49,8 millones, de los que 10,2 millones han nacido en el extranjero",
+      "summary": "El crecimiento poblacional de España se debe al aumento de personas nacidas en el extranjero, ya que el número de personas nacidas en España disminuye Leer.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Diez claves para disfrutar del eclipse solar del 12 agosto: ¿Dónde lo veré mejor? ¿Cuándo me puedo quitar las gafas?",
+      "summary": "En la cuenta atrás de este fenómeno histórico que podrá verse en una amplia franja del norte de España y Baleares, el director del Observatorio Astronómico Nacional ofrece una guía para vivirlo con intensidad y seguridad Leer.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El mejor Jamón de Bellota Ibérico: Su aroma, sabor y textura son inconfundibles",
+      "summary": "El Jamón de bellota 100 % ibérico Guillén , presentado por Manuel Guillén, S.A, de Guijuelo, en la provincia de Salamanca, ha sido reconocido en 2025 como el mejor Jamón de Bellota Ibérico en los premios Alimentos de España. El Ministerio de Agricultura, Pesca y Alimentación ha publicado este jueves en el Boletín Ofici.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "España podrá enviar sus F-18 desplegados en Rumanía a interceptar amenazas sobre Bulgaria",
+      "summary": "España , Bulgaria y Rumanía han firmado un acuerdo trilateral que permitirá a los cazas españoles desplegados en territorio rumano realizar operaciones de defensa aérea sobre el espacio aéreo búlgaro cuando la situación lo requiera. La medida amplía el radio de actuación del Destacamento Aéreo Táctico (DAT) Paznic, enc.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Albert Rivera, sobre la crianza de sus dos hijas: «Me da pena porque con la mayor renuncié a más cosas»",
       "summary": "La conciliación entre la vida laboral y la familiar sigue siendo una de las asignaturas pendientes en España. En el día a día, cuadrar horarios, responsabilidades y, sobre todo, encontrar tiempo de calidad para los hijos no siempre resulta fácil. No todas las personas lo viven igual: el ritmo de vida, la exigencia del.",
@@ -37,11 +57,6 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Máximo histórico de población en España: alcanza los 49,8 millones, de los que 10,2 millones han nacido en el extranjero",
-      "summary": "El crecimiento poblacional de España se debe al aumento de personas nacidas en el extranjero, ya que el número de personas nacidas en España disminuye Leer.",
-      "date": "2026-08-06"
-    },
-    {
       "title": "España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera",
       "summary": "Las principales nacionalidades de los inmigrantes fueron la colombiana, la venezolana y la marroquí, con Comunidad Valenciana, Baleares y Asturias encabezando los mayores aumentos...",
       "date": "2026-08-06"
@@ -50,53 +65,20 @@
       "title": "Disney lo reconoce: ‘The Mandalorian & Grogu’ y el remake de ‘Moana’ son un fracaso",
       "summary": "Aunque Disney acostumbra a contar siempre con varios de los mayores estrenos del año, este 2026 se ha encontrado con dos inesperados fracasos. Se trata de The Mandalorian & Grogu y del remake live-action de Moana ( Vaiana en España). Ambas películas vieron la luz hace unos meses, pero su desempeño en taquilla ha sido b.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales",
-      "summary": "Las obras de ingeniería ayudan a los animales a desplazarse mejor y también sirven para reducir los peligros en carretera y los accidentes provocados por la entrada de fauna a la vía. En Arizona, Estados Unidos (EE.UU.) lo están experimentando. Hay que entender que para muchos animales las carreteras son una barrera qu.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "La encrucijada que marcará el futuro de Ceuta: régimen económico especial o integración en la Unión Aduanera",
-      "summary": "La entrada masiva de entre 72.000 y 80.000 inmigrantes ha puesto a Ceuta (85.596 habitantes) en el foco mediático. A lo que se suma la enésima crisis política en España y la difícil relación con Marruecos , así como un comercio transfronterizo que dejó de ser un motor económico tras la Covid-19. Lo que ha dejado al enc.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»",
-      "summary": "El 12 de agosto, alrededor de las ocho y media de la tarde, millones de personas elevarán sus ojos al cielo en una comunión con el universo que, en la península ibérica, no se producía desde hace más de 120 años. Contemplarán un eclipse total de Sol, visible casi exclusivamente desde España, cuya franja de totalidad cr.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Colas de más de 90 minutos, revisión de pasaportes... Así son los controles aleatorios de Italia a los españoles tras la suspensión de Schengen",
-      "url": "https://www.20minutos.es/internacional/controles-aleatorios-italia-espanoles-suspension-schengen_7023126_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:19:50.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Vox se une a Sumar y Podemos y exige la exclusión de Marruecos de la organización del Mundial de 2030",
+      "url": "https://www.elcorreo.com/politica/vox-une-sumar-podemos-exige-exclusion-marruecos-20260806153730-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:37:30.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Albert Rivera, sobre la crianza de sus dos hijas: «Me da pena porque con la mayor renuncié a más cosas»",
-      "url": "https://www.abc.es/gente/albert-rivera-sobre-crianza-dos-hijas-pena-renuncie-cosas-20260806110908-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:38:10.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
-      "url": "https://www.abc.es/espana/canarias/vicente-valles-convencido-sobre-mejor-zona-espana-vacaciones-verano-20260806090151-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:45:52.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Roberto Brasero, sobre el eclipse solar del 12 de agosto en España: \"Si estás en la totalidad te dura 1 minuto y 45 segundos como mucho\"",
-      "url": "https://www.elconfidencial.com/espana/2026-08-06/roberto-brasero-eclipse-solar-12-agosto-totalidad-1-minuto-45-segundos-1qrt_4401813/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T07:59:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
-      "url": "https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Diez claves para disfrutar del eclipse solar del 12 agosto: ¿Dónde lo veré mejor? ¿Cuándo me puedo quitar las gafas?",
+      "url": "https://www.elmundo.es/ciencia/2026/08/06/6a71d04efc6c832c378b4577.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:37:35.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Máximo histórico de población en España: alcanza los 49,8 millones, de los que 10,2 millones han nacido en el extranjero",
@@ -105,23 +87,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera",
-      "url": "https://amp.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T07:24:03.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "El mejor Jamón de Bellota Ibérico: Su aroma, sabor y textura son inconfundibles",
+      "url": "https://www.larazon.es/castilla-y-leon/mejor-jamon-bellota-iberico-aroma-sabor-textura-son-inconfundibles_202608066a745ab2a046ad6ebca13e44.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:30:16.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Disney lo reconoce: ‘The Mandalorian & Grogu’ y el remake de ‘Moana’ son un fracaso",
-      "url": "https://hipertextual.com/cine-television/disney-lo-reconoce-the-mandalorian-grogu-y-el-remake-de-moana-son-un-fracaso/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:56:20.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales",
-      "url": "https://okdiario.com/naturaleza/ee-uu-convierte-ejemplo-espana-arizona-construye-27-cruces-fauna-reduce-90-accidentes-trafico-animales-19127896?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:30:07.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "España podrá enviar sus F-18 desplegados en Rumanía a interceptar amenazas sobre Bulgaria",
+      "url": "https://theobjective.com/espana/2026-08-06/espana-rumania-amenazas-bulgaria/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:58:25.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 4
 }

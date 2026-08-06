@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-06T14:02:15.712Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat
+
+Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.
+
+Date: 2026-08-06
 
 ### Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?
 
@@ -62,14 +68,7 @@ Russian missile and drone strikes on Kyiv and the surrounding region killed at l
 
 Date: 2026-08-05
 
-### What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?
-
-Smoke rises after Ukrainian strikes on a Wildberries warehouse in St. Petersburg, Russia, on July 24, 2026. —AFP—Getty Images Ukraine hit at least two warehouses belonging to Russia ’s e-commerce giant Wildberries in overnight strikes on Monday, adding to a series of drone attacks that have targeted the online retailer.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z
-- [Russian missile attacks on Kyiv expose weakness in Ukraine's air defense](https://www.pbs.org/newshour/show/russian-missile-attacks-on-kyiv-expose-weakness-in-ukraines-air-defense?utm_source=lootura.com) — 2026-08-05T22:45:17.000Z
-- [Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?](https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html?utm_source=lootura.com) — 2026-08-06T09:56:43.000Z
+- [Wars, Wildfires and Migrants Leave Europe Straining for Control](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com) — 2026-08-06T13:18:35.000Z
+- [Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat](https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html?utm_source=lootura.com) — 2026-08-06T12:47:39.000Z

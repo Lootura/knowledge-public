@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-06T14:02:15.712Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [What El-Sayed's primary win means for Democrats in November](https://www.pbs.org/newshour/show/what-el-sayeds-primary-win-means-for-democrats-in-november?utm_source=lootura.com) — 2026-08-05T22:55:28.000Z
+- [Republicans accuse Michigan's El-Sayed of being "too extreme" after Senate primary win](https://www.cbsnews.com/video/republicans-accuse-michigans-el-sayed-of-being-too-extreme-after-senate-primary-win/?utm_source=lootura.com) — 2026-08-06T13:47:17.000Z

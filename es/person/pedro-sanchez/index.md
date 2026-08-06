@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
+
+Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: "Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente " en el Congreso para hablar de la crisis de Ceuta. "Mientras el rey se reúne.
+
+Date: 2026-08-06
 
 ### Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones
 
@@ -62,15 +68,6 @@ Nadie es responsable de las vidas de sus ancestros, pero es incuestionable que P
 
 Date: 2026-08-05
 
-### El presidente de Ceuta asegura que avisó al Gobierno del aumento de llegadas irregulares
-
-El presidente de Ceuta, Juan Jesús Vivas, aseguró este miércoles que advirtió con antelación al Gobierno de Pedro Sánchez del incremento de la intensidad.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones](https://www.abc.es/espana/canarias/vicente-valles-convencido-sobre-mejor-zona-espana-vacaciones-verano-20260806090151-nt.html?utm_source=lootura.com) — 2026-08-06T09:45:52.000Z
-- [Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica](https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z
-- [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
-- [Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”](https://www.larazon.es/espana/oscar-puente-tambien-acuerda-vito-quiles-plena-crisis-ceuta-burla-nuevo-proceso-judicial-solo_202608066a746061a046ad6ebca14aba.html?utm_source=lootura.com) — 2026-08-06T10:22:25.000Z
+- [El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"](https://www.20minutos.es/nacional/pp-pide-comparecencia-urgente-sanchez-cuatro-ministros-por-crisis-ceuta-que-nos-expliquen-quien-miente_7023215_0.html?utm_source=lootura.com) — 2026-08-06T11:08:30.000Z

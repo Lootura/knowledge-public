@@ -46,5 +46,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [En imágenes: así ha cambiado la Luna después de que un cohete de Elon Musk impactase contra su superficie](https://www.abc.es/ciencia/cambiado-luna-despues-cohete-elon-musk-impactase-20260806105302-nt.html?utm_source=lootura.com) — 2026-08-06T09:51:57.000Z
-- [Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado](https://www.larazon.es/tecnologia-consumo/operadoras/tiemblan-operadoras-elon-musk-te-va-meter-5g-bano-usando-antena-starlink-tu-tejado_202608066a745755a5690f04736a171b.html?utm_source=lootura.com) — 2026-08-06T10:30:00.000Z
+No public source links.

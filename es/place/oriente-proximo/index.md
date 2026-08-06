@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Ibex marca nuevos máximos y roza los 20.300 puntos
+
+Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.
+
+Date: 2026-08-06
 
 ### El Ibex marca nuevos máximos por encima de los 20.200 puntos
 
@@ -62,12 +68,6 @@ El reciente alza del precio del petróleo por las tensiones en Oriente Próximo,
 
 Date: 2026-07-24
 
-### El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'
-
-El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un "ataque masivo" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El Ibex marca nuevos máximos por encima de los 20.200 puntos](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T08:14:48.000Z
+- [El Ibex marca nuevos máximos y roza los 20.300 puntos](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T11:53:32.000Z

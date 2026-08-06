@@ -64,19 +64,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
-      "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T07:40:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
-      "url": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:00:45.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

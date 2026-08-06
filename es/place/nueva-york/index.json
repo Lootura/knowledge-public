@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -92,6 +92,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Naty Abascal más desconocida: de su primer marido olvidado al trágico final del duque de Feria",
+      "url": "https://www.abc.es/gente/naty-abascal-20260610013733-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:54:17.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

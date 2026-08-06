@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -67,6 +67,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Trump voter pleads for fiancée's release after ICE arrest: \"They're destroying families\"",
+      "url": "https://www.cbsnews.com/news/trump-voter-fiancee-ice-arrest-texas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:31:06.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
       "url": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html?utm_source=lootura.com",

@@ -22,5 +22,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [The democratic socialist facing swing-state realities — and her old tweets](https://www.politico.com/news/2026/08/05/wisconsin-governor-francesca-hong-tweets-01025881?utm_source=lootura.com) — 2026-08-05T18:58:27.000Z
-- [Francesca Hong Said Thanksgiving Should Be Canceled. Can Wisconsin Voters Forgive Her?](https://www.nytimes.com/2026/08/05/us/politics/francesca-hong-thanksgiving.html?utm_source=lootura.com) — 2026-08-05T20:42:27.000Z
+No public source links.

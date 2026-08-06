@@ -28,5 +28,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella](https://www.larazon.es/cataluna/vibraciones-compactadora-obligan-evacuar-dos-edificios-trinitat-vella_202608066a7460cca5690f04736a2c93.html?utm_source=lootura.com) — 2026-08-06T10:24:12.000Z
-- [Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella](https://www.lavanguardia.com/local/barcelona/20260806/11608896/obras-vallbona-sacuden-madrugada-dos-edificios-trinitat-vella.html?utm_source=lootura.com) — 2026-08-06T08:34:41.000Z
+No public source links.

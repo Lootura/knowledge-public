@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement](https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com) — 2026-08-05T18:34:03.000Z
+No public source links.

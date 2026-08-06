@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [España aumenta el despliegue de la Guardia Civil en el paso de Rafah entre Gaza y Egipto](https://theobjective.com/espana/2026-08-06/espana-despliegue-guardia-civil-rafah-gaza-egipto/?utm_source=lootura.com) — 2026-08-06T08:36:08.000Z
+No public source links.

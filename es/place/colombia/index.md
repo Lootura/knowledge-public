@@ -40,4 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El "sombrío legado" que deja Petro en Colombia](https://www.elmundo.es/internacional/2026/08/06/6a7340eafc6c837f028b4585.html?utm_source=lootura.com) — 2026-08-05T23:49:24.000Z
+No public source links.

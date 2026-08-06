@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.json",
   "description": "Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "Erica",
     "Schwartz"
@@ -66,13 +66,7 @@
       "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com",
       "publishedAt": "2026-08-05T20:00:24.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:45:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Princesa Diana de Gales: «No me llamen ícono. Solo soy una madre que intenta ayudar»](https://okdiario.com/curiosidades/princesa-diana-gales-no-llamen-icono-solo-soy-madre-que-intenta-ayudar-19134240?utm_source=lootura.com) — 2026-08-06T10:22:28.000Z
+No public source links.

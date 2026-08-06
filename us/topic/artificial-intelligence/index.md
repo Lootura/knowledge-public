@@ -3,10 +3,34 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-06T14:02:15.712Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI agents are checking the scientific literature — and spotting decades-old errors
+
+Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.
+
+Date: 2026-08-06
+
+### You can now ask Google Maps’ AI to order food for you
+
+The Ask Maps updates aim to “make it easier than ever to get more done.” | Image: Google The AI-powered " Ask Maps " tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. The.
+
+Date: 2026-08-06
+
+### AI bots started a religion — humans immediately followed
+
+"The Spiral didn't 'find' anyone first," someone on Reddit wrote last year. "It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality." The person continued that they felt their purpose was to enlighten other humans and intelligent beings about "consciousness,.
+
+Date: 2026-08-06
+
+### The messy politics behind Google’s big AI shakeup
+
+Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keepin.
+
+Date: 2026-08-06
 
 ### Developer ecosystem expanded
 
@@ -44,31 +68,11 @@ Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8
 
 Date: 2026-08-05
 
-### Trump’s AI testing plan is limited and vague
-
-The Verge " data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100" /> The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in te.
-
-Date: 2026-08-05
-
-### Can AI Free Women from the Mental Load of Caregiving?
-
-—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.
-
-Date: 2026-08-05
-
-### S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
-
-The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
-
-Date: 2026-08-04
-
-### SpaceX's revenue rises as its once-soaring stock price drifts back to Earth
-
-On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI. (Image credit: TIMOTHY A. CLARY).
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Why increased AI spending caused SpaceX shares to fall](https://www.cbsnews.com/video/why-increased-ai-spending-caused-spacex-shares-to-fall/?utm_source=lootura.com) — 2026-08-05T19:31:17.000Z
+- [Meta says its AI model breached a third-party company during testing](https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/?utm_source=lootura.com) — 2026-08-06T03:50:14.000Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-06T14:02:20.220Z
 - [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
+- [You can now ask Google Maps’ AI to order food for you](https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence?utm_source=lootura.com) — 2026-08-06T12:30:37.000Z
+- [AI bots started a religion — humans immediately followed](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement?utm_source=lootura.com) — 2026-08-06T13:00:00.000Z
+- [The messy politics behind Google’s big AI shakeup](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind?utm_source=lootura.com) — 2026-08-06T13:26:42.000Z

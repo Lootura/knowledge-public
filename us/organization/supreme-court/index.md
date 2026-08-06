@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Tennessee secretary of state on redistricting, election security and low voter turnout](https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com) — 2026-08-05T22:35:49.000Z
+No public source links.

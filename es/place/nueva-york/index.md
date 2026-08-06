@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-No public source links.
+- [La Naty Abascal más desconocida: de su primer marido olvidado al trágico final del duque de Feria](https://www.abc.es/gente/naty-abascal-20260610013733-nt.html?utm_source=lootura.com) — 2026-08-06T12:54:17.000Z

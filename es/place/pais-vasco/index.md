@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.
 
 Date: 2026-08-06
 
-### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
+### Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos
 
-La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
+Bizkaia y Navarra implementan restricciones en San Juan de Gaztelugatxe y las Bardenas Reales, mientras Gipuzkoa no contempla medidas especiales por el momento.
 
-Date: 2026-08-05
+Date: 2026-08-06
 
 ### Los mejores del mundo pasan por Pagola
 
 El evento Copenhagen Open es un referente de la cultura skater y el martes hizo una parada en el skatepark de Aiete en su gira por Euskadi y el sur de Francia.
+
+Date: 2026-08-05
+
+### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
+
+La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
 
 Date: 2026-08-05
 
@@ -62,14 +68,8 @@ Euskadi recibe a un grupo de chicas afganas que buscan labrarse un futuro lejos 
 
 Date: 2026-08-02
 
-### La ofensiva empresarial de País Vasco desata operaciones por 6.000 millones
-
-La estrategia del Gobierno de País Vasco para, acompañado de empresarios y financieros, arraigar en Euskadi a las empresas tractoras de la región ha desatado una oleada de operaciones corporativas por valor (enterprise value) superior a 6.000 millones de euros en los últimos cinco años. Seguir leyendo.
-
-Date: 2026-08-02
-
 ## Fuentes
 
 - [Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año](https://www.elcorreo.com/sociedad/cerca-2200-mujeres-denuncian-euskadi-agresiones-pareja-20260806120055-nt_amp.html?utm_source=lootura.com) — 2026-08-06T10:00:55.000Z
 - [Los mejores del mundo pasan por Pagola](https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com) — 2026-08-05T22:13:42.000Z
-- [Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»](https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com) — 2026-08-05T11:06:19.000Z
+- [Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos](https://www.diariovasco.com/sociedad/primer-cierre-euskadi-eclipse-san-juan-gaztelugatxe-20260806152402-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:34:23.000Z

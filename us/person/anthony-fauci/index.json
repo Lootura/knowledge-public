@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -30,27 +30,37 @@
   ],
   "changes": [
     {
-      "title": "Fauci Faces Contempt of Congress Vote on Thursday",
-      "summary": "A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved.",
+      "title": "Discovered by Atlas",
+      "summary": "Anthony Fauci first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-06"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Anthony Fauci first entered the public knowledge record with source-backed evidence.",
+      "title": "Republican senators vote to hold Dr. Fauci in contempt of Congress",
+      "summary": "Republicans on the Senate Homeland Security and Governmental Affairs Committee have voted to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment right to not answer their questions during a hearing on the Covid pandemic.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Senate Panel Holds Fauci in Contempt of Congress",
+      "summary": "Dr. Anthony Fauci had refused to answer questions at a hearing last week, invoking the Fifth Amendment. Republicans argued that he wasn’t entitled to that protection because he had a presidential pardon.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Fauci Faces Contempt of Congress Vote on Thursday",
+      "summary": "A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved.",
       "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Senators to vote on holding Anthony Fauci in contempt for pleading the Fifth during hearing",
-      "url": "https://www.nbcnews.com/politics/congress/senators-vote-holding-anthony-fauci-contempt-congress-pleading-fifth-t-rcna590985?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:00:40.000Z",
+      "title": "Republican senators vote to hold Dr. Fauci in contempt of Congress",
+      "url": "https://www.nbcnews.com/now/video/republican-senators-vote-to-hold-dr-fauci-in-contempt-of-congress-267872837617?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:37:21.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Fauci Faces Contempt of Congress Vote on Thursday",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T01:59:15.000Z",
+      "title": "Senate Panel Holds Fauci in Contempt of Congress",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:52:10.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
 
 Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
+
+Date: 2026-08-06
+
+### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
+
+Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: "Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente " en el Congreso para hablar de la crisis de Ceuta. "Mientras el rey se reúne.
+
+Date: 2026-08-06
+
+### Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: "La situación actual es diferente"
+
+La distribución por la península de los centenares de menores migrantes que permanecen en Ceuta tras el cruce masivo del pasado jueves supone el primer examen a la convivencia...
+
+Date: 2026-08-06
+
+### El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”
+
+La pregunta planea cada rueda de prensa que ofrece un dirigente del Partido Popular desde el jueves pasado, cuando 72.000 personas entraron a Ceuta . ¿Acogerán las comunidades, en su mayoría gobernadas por el PP, a los menores llegados aquel día? ¿Y aquellas que comparten el Ejecutivo con Vox después de haber firmado a.
+
+Date: 2026-08-06
+
+### PP y Vox evitan el choque por los menores migrantes de Ceuta y apuntan al Gobierno
+
+La acogida de menores migrantes fue la causa de la ruptura de los gobiernos autonómicos de PP y Vox en julio de 2024 y la entrada en Ceuta de más de 70.000 inmigrantes procedentes de Marruecos -con menores, entre ellos- puede poner a prueba la alianza entre ambos partidos en cuatro territorios -Extremadura, Aragón, Cas.
 
 Date: 2026-08-06
 
@@ -32,12 +56,6 @@ El gobierno de PP y Vox en Mallorca acaba con la marginación del español en su
 
 Date: 2026-08-06
 
-### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
-
-La "capacidad ordinaria" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una "situación de contingencia migratoria...
-
-Date: 2026-08-05
-
 ### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
 
 La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
@@ -50,25 +68,10 @@ La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlament
 
 Date: 2026-08-05
 
-### El vicepresidente andaluz de Vox rechaza el reparto de niños migrantes de Ceuta: "Si son menores, con sus padres"
-
-Manuel Gavira anuncia que Andalucía, "como el resto de gobiernos donde esté Vox", se opondrá a un futuro reparto: "Así lo pactamos" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mientras varias comunidades en las que gobiernan con Vox se oponen El vicepresidente segundo de la Junta, Manue.
-
-Date: 2026-08-05
-
-### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
-
-El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
-
-Date: 2026-08-05
-
-### El PP pide identificar a los menores de Ceuta antes de hablar de un reparto "bien dotado" y "justo" y recalca que "siempre" cumple la ley
-
-Atender al millar de menores no acompañados que el Gobierno de Ceuta calcula que permanecen en la ciudad autónoma tras el cruce masivo de la frontera desde Marruecos del jueves pasado se ha convertido en una de las principales prioridades. El PP ha abierto la puerta este miércoles a acceder a su traslado a otras comuni.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
+- [El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"](https://www.20minutos.es/nacional/pp-pide-comparecencia-urgente-sanchez-cuatro-ministros-por-crisis-ceuta-que-nos-expliquen-quien-miente_7023215_0.html?utm_source=lootura.com) — 2026-08-06T11:08:30.000Z
+- [Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: "La situación actual es diferente"](https://amp.elmundo.es/espana/2026/08/06/6a746efdfc6c8381288b4573.html?utm_source=lootura.com) — 2026-08-06T11:58:08.000Z
 - [La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades](https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z
+- [El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”](https://elpais.com/espana/2026-08-06/el-pp-reconoce-que-acogera-a-los-menores-en-sus-comunidades-el-partido-popular-siempre-cumple-la-ley-en-esta-ocasion-tambien.html?utm_source=lootura.com) — 2026-08-06T12:07:27.000Z
+- [PP y Vox evitan el choque por los menores migrantes de Ceuta y apuntan al Gobierno](https://www.lavanguardia.com/politica/20260806/11609076/pp-vox-evitan-choque-pese-presion-menores-migrantes-ponen-punto-mira-gobierno.html?utm_source=lootura.com) — 2026-08-06T12:58:51.000Z

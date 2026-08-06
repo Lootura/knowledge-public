@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe
+
+Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.
+
+Date: 2026-08-06
+
+### El consejero al que Ayuso señaló por la compra del ático: "Lo que no se dice es que Madrid no tiene residencia oficial para la presidenta"
+
+Miguel Ángel García Martín ha evitado responder de nuevo a preguntas como por cuánto pretenden vender el ático de lujo comprado por Planifica Madrid y ha atacado a la "izquierda y la ultraizquierda" por "tratar de estirar el chicle" El Gobierno de Ayuso no puede destinar directamente la venta del ático de Chamberí a ay.
+
+Date: 2026-08-06
+
+### Ceuta pide un plan específico de seguridad con despliegue policial en todas las barriadas
+
+El Gobierno de la Ciudad Autónoma de Ceuta ha reclamado este jueves un «plan específico de seguridad» con despliegues policiales en todas las barriadas ante la presencia de numerosos migrantes que todavía permanecen en Ceuta al no haber querido irse voluntariamente a Marruecos tras la entrada masiva. En un comunicado,.
+
+Date: 2026-08-06
 
 ### El Gobierno de Cantabria sortea desde hoy 130 plazas para ver desde un barco el eclipse del 12 de agosto: así puedes conseguir tu entrada
 
@@ -50,25 +68,8 @@ La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y 
 
 Date: 2026-08-05
 
-### El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad
-
-El vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo , ha confiado este miércoles en no entrar en un conflicto judicial con el PP por una hipotética negativa de sus comunidades a acoger menores inmigrantes procedentes de Ceuta, actitud que ha achacado al temor a romper sus pactos con Vox, y ha a.
-
-Date: 2026-08-05
-
-### La Guardia Civil, ante el nuevo llamado para otra entrada de inmigrantes en Ceuta: "Los protocolos no sustituyen la falta de medios"
-
-El Gobierno de Ceuta ha reconocido este martes que está "preocupado" por la difusión de un nuevo llamamiento en redes sociales para otra entrada masiva de migrantes de cara al 15 de agosto que podría agravar la crisis desatada la semana pasada en la ciudad autónoma. La Guardia Civil ha señalado este miércoles que está.
-
-Date: 2026-08-05
-
-### El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen
-
-Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser "justo y con el Gobierno asumiendo la responsabilidad de sus propios actos" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El Gobierno de Cantabria sortea desde hoy 130 plazas para ver desde un barco el eclipse del 12 de agosto: así puedes conseguir tu entrada](https://www.elconfidencial.com/espana/2026-08-06/sorteo-gobierno-cantabria-eclipse-barco-1qrt_4401760/?utm_source=lootura.com) — 2026-08-06T06:39:00.000Z
-- [El consejero al que Ayuso señaló por la compra del ático: "La izquierda necesita buscar fantasmas donde no los hay"](https://www.eldiario.es/madrid/consejero-ayuso-senalo-compra-atico-izquierda-necesita-buscar-fantasmas-no-hay_1_13431628.html?utm_source=lootura.com) — 2026-08-06T10:28:11.000Z
+- [El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe](https://www.elmundo.es/espana/2026/08/06/6a746c8ae9cf4a796e8b4573.html?utm_source=lootura.com) — 2026-08-06T12:45:14.000Z
+- [El consejero al que Ayuso señaló por la compra del ático: "Lo que no se dice es que Madrid no tiene residencia oficial para la presidenta"](https://www.eldiario.es/madrid/consejero-ayuso-senalo-compra-atico-izquierda-necesita-buscar-fantasmas-no-hay_1_13431628.html?utm_source=lootura.com) — 2026-08-06T10:28:11.000Z
+- [Ceuta pide un plan específico de seguridad con despliegue policial en todas las barriadas](https://theobjective.com/espana/politica/2026-08-06/ceuta-plan-seguridad/?utm_source=lootura.com) — 2026-08-06T12:42:48.000Z

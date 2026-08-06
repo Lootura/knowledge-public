@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -72,6 +72,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Coupled AI and physics model improves typhoon-wave height forecasting",
+      "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:40:08.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
     {
       "title": "How China’s A.I. Is Surging Across Africa",
       "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",

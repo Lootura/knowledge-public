@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
+      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
       "summary": "La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región \"siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños\". En un mensaje difundido en su cuent.",
@@ -59,19 +64,14 @@
       "title": "Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha defendido este domingo que el ático de Chamberí que adquirió el Gobierno regional «está en venta» y servirá para «reforzar la reconstrucción» de la Sierra Norte tras el incendio . «Está en venta este inmueble y también hemos puesto otros cuatro que están e.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
-      "url": "https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
+      "url": "https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T11:30:42.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

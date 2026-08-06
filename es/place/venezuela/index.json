@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»",
+      "summary": "Todo comenzó en marzo de 1992, en una fiesta privada con el presidente de Venezuela, Carlos Andrés Pérez . Se celebraba en una mansión de Caracas propiedad de Gustavo Cisneros , el famoso empresario que durante años apareció en la lista Forbes como uno de los hombres más ricos de Latinoamérica. Y allí estaban Los del R.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo",
       "summary": "La exdiputada opositora Dinorah Figuera, quien defiende la continuidad de la Asamblea Nacional (AN, Parlamento) elegida en 2015, llegó este miércoles a Venezuela, procedente de España y para continuar las jornadas de diálogo iniciadas el pasado sábado con el chavismo, confirmaron a EFE fuentes de su entorno.",
@@ -63,13 +68,15 @@
       "title": "Los fallecidos en el terremoto doble en Venezuela superan los 5.500",
       "summary": "El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 personas.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Delcy Rodríguez cambia al jefe operativo militar y anuncia un \"plan maestro\" para reconstruir Venezuela",
-      "summary": "La presidenta encargada de Venezuela, Delcy Rodríguez, anunció este viernes nuevas designaciones en la Fuerza Armada Nacional Bolivariana (FANB), destacando entre ellas el nombramiento del mayor general Rubén Belzares Escobar como nuevo jefe del Comando Estratégico Operacional del cuerpo castrense y el de Pedro Gonzále.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»",
+      "url": "https://www.abc.es/cultura/musica/rio-michael-jackson-loco-grabar-version-macarena-20260806014719-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:02:34.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

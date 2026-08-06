@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio](https://www.elconfidencial.com/espana/2026-08-06/incendio-forestal-almorox-toledo-1tna-1tps_4401829/?utm_source=lootura.com) — 2026-08-06T08:10:00.000Z
+No public source links.

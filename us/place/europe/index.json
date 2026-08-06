@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "EU",
     "European Union"
@@ -65,6 +65,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:18:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
   "evidenceCount": 0
 }

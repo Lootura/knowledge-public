@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-06T14:02:15.712Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -29,6 +29,11 @@
     {
       "title": "Morning news brief",
       "summary": "Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
+      "summary": "A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.",
       "date": "2026-08-06"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
       "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
-      "summary": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -81,16 +81,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
+      "url": "https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T11:23:24.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-08-06T08:43:07.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:45:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",

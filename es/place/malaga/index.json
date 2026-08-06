@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [],
   "changes": [
     {
@@ -70,17 +70,11 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo",
-      "url": "https://www.eldebate.com/espana/20260806/bendodo-atiende-medios-comunicacion-junto-alcalde-malaga-directo_447222.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T07:06:42.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
       "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
       "url": "https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

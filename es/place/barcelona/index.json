@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»",
+      "summary": "Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner",
+      "summary": "Una pareja de la Guardia Urbana de paisano detuvo el miércoles por la noche a uno de los individuos que viven en el conflictivo piso de un bloque de la calle Muntaner de Barcelona, que han convertido en un espacio “inseguro” para el resto de vecinos. El individuo fue acusado de un hurto después de que se presentara por.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados",
       "summary": "Dos personas han sido trasladadas en estado menos grave al Hospital Germans Trias de Badalona (Barcelona) tras declararse un incendio , alrededor de las 00.24 horas de este jueves, en una vivienda de la calle Doctor Robert. Además de los dos afectados evacuados al hospital, otras cinco personas fueron atendidas y dadas.",
@@ -42,11 +52,6 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»",
-      "summary": "Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.",
-      "date": "2026-08-06"
-    },
-    {
       "title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
       "summary": "Vecinos de un edificio de la calle Muntaner a la altura de la calle Mallorca denuncian que el trasiego de personas drogadas por su escalera les está amargando la vida. Algunos ya planean mudarse, otros siquiera quieren marcharse de vacaciones. Esta comunidad ya instaló cámaras en algunas zonas comunes, contrató a un vi.",
       "date": "2026-08-06"
@@ -65,36 +70,13 @@
       "title": "El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día",
       "summary": "Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño por algunos de los destinos más exclusivos del Mediterráneo. Después de dejarse ver juntos en Miami, Ibiza, Cerdeña y Barcelona , el futbolista francés ha dado un paso más en su relación al compartir por primera vez una fotografía de la actriz.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Ofensiva contra el aumento de la venta y consumo de droga en Barcelona",
-      "summary": "El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 llamadas alertando de incidentes vinculados con las drogas. Mil más que los primeros seis meses del año pasado. Esas quejas de los ciudadanos son solo la punta del iceberg de un problema que padece la capital catalana: la droga. Barcelona es u.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-06/incendio-badalona-hospital-heridos-1tna-1tps_4401766/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T06:21:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-06/visitas-gratis-hivernacle-ciutadella-barcelona_4401806/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:32:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella",
-      "url": "https://www.larazon.es/cataluna/vibraciones-compactadora-obligan-evacuar-dos-edificios-trinitat-vella_202608066a7460cca5690f04736a2c93.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:24:12.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260806/11608896/obras-vallbona-sacuden-madrugada-dos-edificios-trinitat-vella.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:34:41.000Z",
+      "title": "La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner",
+      "url": "https://www.lavanguardia.com/sucesos/20260806/11609097/guardia-urbana-detiene-inquilinos-piso-horrores-muntaner.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:30:11.000Z",
       "sourceId": "lootura-es-la-vanguardia"
     },
     {
@@ -104,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

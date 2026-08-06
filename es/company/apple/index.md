@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno
-
-El regreso de la temporada 4 de Ted Lasso ya es una realidad. La serie ha vuelto tres años después del final de su anterior entrega. Y lo hace además contra todo pronóstico, porque aquella temporada 3 estaba anunciada como la última . Pero finalmente en Apple TV recularon y han devuelto al querido entrenador de futbol.
-
-Date: 2026-08-06
-
 ### Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?
 
 Todavía no sabemos la fecha exacta para la keynote de Apple, pero es fácil vaticinar que será a principios de septiembre. Queda un mes . Y hoy te vamos a contar todo lo que se espera por parte de la compañía de la manzana para esta presentación que, otra vez, será la más importante del año al albergar el anuncio de los.
+
+Date: 2026-08-06
+
+### El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno
+
+El regreso de la temporada 4 de Ted Lasso ya es una realidad. La serie ha vuelto tres años después del final de su anterior entrega. Y lo hace además contra todo pronóstico, porque aquella temporada 3 estaba anunciada como la última . Pero finalmente en Apple TV recularon y han devuelto al querido entrenador de futbol.
 
 Date: 2026-08-06
 
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno](https://hipertextual.com/cine-television/calendario-completo-ted-lasso-temporada-4-explicado-numero-de-episodios-y-fechas-de-estreno/?utm_source=lootura.com) — 2026-08-06T07:26:28.000Z
 - [Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?](https://hipertextual.com/apple/todo-lo-que-apple-presenta-en-septiembre-iphone-plegables-relojes-y-one-more-thing/?utm_source=lootura.com) — 2026-08-06T10:19:38.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Santander ficha al CEO de UBS en Brasil para su banca de inversión
+
+Santander ha fichado a Daniel Bassan, CEO de UBS en Brasil y responsable regional de América Latina, para dirigir la banca de inversión de su filial carioca. Bassan estaba ligado...
+
+Date: 2026-08-06
 
 ### EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales
 
@@ -62,12 +68,6 @@ El tenista español Carlos Alcaraz no participará en el próximo torneo de Cinc
 
 Date: 2026-08-05
 
-### Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita
-
-Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales](https://okdiario.com/naturaleza/ee-uu-convierte-ejemplo-espana-arizona-construye-27-cruces-fauna-reduce-90-accidentes-trafico-animales-19127896?utm_source=lootura.com) — 2026-08-06T10:30:07.000Z
+- [Santander ficha al CEO de UBS en Brasil para su banca de inversión](https://amp.expansion.com/empresas/banca/2026/08/06/6a746aa3468aebfb798b458e.html?utm_source=lootura.com) — 2026-08-06T12:58:23.000Z

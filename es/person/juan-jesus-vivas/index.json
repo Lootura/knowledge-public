@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Vivas pide a la Eurocámara el \"blindaje\" de la frontera de Ceuta y reclama una \"mayor dotación de medios\"",
+      "summary": "Una semana después de la entrada masiva de migrantes en Ceuta, Felipe VI recibirá este jueves al presidente de la ciudad autónoma, Juan Jesús Vivas, en el palacio de Marivent, en Palma de Mallorca, para analizar la crisis migratoria que ha sufrido la ciudad autónoma. De los 72.000 migrantes que, según Interior entraron.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Vivas pide expulsar de inmediato a los inmigrantes que siguen en Ceuta",
+      "summary": "El presidente de Ceuta , Juan Jesús Vivas, ha reclamado este jueves la «inmediata expulsión» de los inmigrantes marroquíes que permanecen en la ciudad y ha pedido a las instituciones europeas reforzar la protección de la frontera exterior de la Unión con más medios humanos y materiales, infraestructuras y una mayor imp.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Juan Jesús Vivas first entered the public knowledge record with source-backed evidence.",
@@ -41,6 +51,19 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas pide a la Eurocámara el \"blindaje\" de la frontera de Ceuta y reclama una \"mayor dotación de medios\"",
+      "url": "https://www.20minutos.es/ceuta/ultima-hora-crisis-migratoria-ceuta-directo-entradas_7022675_6.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T12:26:04.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Vivas pide expulsar de inmediato a los inmigrantes que siguen en Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-06/vivas-inmediato-inmigrantes-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:25:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

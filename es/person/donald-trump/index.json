@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-06T14:01:51.188Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -77,11 +77,11 @@
   ],
   "sources": [
     {
-      "title": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
-      "url": "https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T23:16:36.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "IU tacha a Infantino de «lacayo de Trump» y cuestiona celebrar el mundial con Marruecos",
+      "url": "https://theobjective.com/espana/politica/2026-08-06/iu-infantino-lacayo-trump-mundial-marruecos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:36:19.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Vivas pide a la Eurocámara el "blindaje" de la frontera de Ceuta y reclama una "mayor dotación de medios"
+
+Una semana después de la entrada masiva de migrantes en Ceuta, Felipe VI recibirá este jueves al presidente de la ciudad autónoma, Juan Jesús Vivas, en el palacio de Marivent, en Palma de Mallorca, para analizar la crisis migratoria que ha sufrido la ciudad autónoma. De los 72.000 migrantes que, según Interior entraron.
+
+Date: 2026-08-06
+
+### Vivas pide expulsar de inmediato a los inmigrantes que siguen en Ceuta
+
+El presidente de Ceuta , Juan Jesús Vivas, ha reclamado este jueves la «inmediata expulsión» de los inmigrantes marroquíes que permanecen en la ciudad y ha pedido a las instituciones europeas reforzar la protección de la frontera exterior de la Unión con más medios humanos y materiales, infraestructuras y una mayor imp.
+
+Date: 2026-08-06
 
 ### Discovered by Atlas
 
@@ -40,4 +52,5 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Vivas pide a la Eurocámara el "blindaje" de la frontera de Ceuta y reclama una "mayor dotación de medios"](https://www.20minutos.es/ceuta/ultima-hora-crisis-migratoria-ceuta-directo-entradas_7022675_6.html?utm_source=lootura.com) — 2026-08-06T12:26:04.000Z
+- [Vivas pide expulsar de inmediato a los inmigrantes que siguen en Ceuta](https://theobjective.com/espana/politica/2026-08-06/vivas-inmediato-inmigrantes-ceuta/?utm_source=lootura.com) — 2026-08-06T13:25:13.000Z

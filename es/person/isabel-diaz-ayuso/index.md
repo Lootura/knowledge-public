@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-06T14:01:51.188Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”
+
+Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.
+
+Date: 2026-08-06
 
 ### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
 
@@ -62,12 +68,6 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha defendido este 
 
 Date: 2026-08-02
 
-### Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica](https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z
+- [El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”](https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com) — 2026-08-06T11:30:42.000Z

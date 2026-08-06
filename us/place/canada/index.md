@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Climate change contributed to big Canada fires, study says as Trump blames mismanagement](https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html?utm_source=lootura.com) — 2026-08-06T07:40:01.000Z
-- [Human-driven climate crisis fuels Canada’s deadly wildfires, study finds](https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis?utm_source=lootura.com) — 2026-08-06T09:00:45.000Z
+No public source links.
