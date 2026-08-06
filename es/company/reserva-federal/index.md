@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster](https://cincodias.elpais.com/companias/2026-08-06/el-santander-debera-someterse-a-un-test-de-estres-anual-en-estados-unidos-despues-de-comprar-webster.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z
+No public source links.

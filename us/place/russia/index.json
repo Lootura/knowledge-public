@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
@@ -20,13 +20,13 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
-      "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
       "date": "2026-08-05"
     },
     {
-      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
-      "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
+      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
+      "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
       "date": "2026-08-05"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
-      "url": "https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:06:43.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
       "url": "https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com",
       "publishedAt": "2026-08-05T22:42:22.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

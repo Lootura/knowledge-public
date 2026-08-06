@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "En imágenes: así ha cambiado la Luna después de que un cohete de Elon Musk impactase contra su superficie",
+      "summary": "La etapa superior de un cohete Falcon 9 de la empresa SpaceX , que llevaba ya más de un año flotando por el espacio, chocó en la mañana de este miércoles contra la Luna. El suceso que se esperaba desde hace días tal y como habían confirmado tanto la NASA como la propia empresa, resultaba especialmente interesante para.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado",
+      "summary": "Elon Musk no se conforma con conectar nuestros móviles desde el espacio, sino que el tecnomagnate más polémico quiere ir un paso más allá. SpaceX pretende convertir las antenas de Starlink instaladas en viviendas y empresas en estaciones de telefonía móvil. Su objetivo es levantar una red terrestre propia y ofrecer cob.",
+      "date": "2026-08-06"
+    },
     {
       "title": "La alianza de Elon Musk y Nvidia agita la industria de los chips",
       "summary": "La industria de los chips para inteligencia artificial (IA) ha vivido una nueva sacudida. En la conferencia telefónica con analistas para presentar las cuentas de SpaceX del segundo trimestre , su consejero delegado, Elon Musk, afirmó que Nvidia pasaría a ser el proveedor exclusivo de chips de IA para los centros de da.",
@@ -34,11 +44,17 @@
   ],
   "sources": [
     {
-      "title": "La alianza de Elon Musk y Nvidia agita la industria de los chips",
-      "url": "https://cincodias.elpais.com/companias/2026-08-06/la-alianza-de-elon-musk-y-nvidia-agita-la-industria-de-los-chips.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "En imágenes: así ha cambiado la Luna después de que un cohete de Elon Musk impactase contra su superficie",
+      "url": "https://www.abc.es/ciencia/cambiado-luna-despues-cohete-elon-musk-impactase-20260806105302-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:51:57.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado",
+      "url": "https://www.larazon.es/tecnologia-consumo/operadoras/tiemblan-operadoras-elon-musk-te-va-meter-5g-bano-usando-antena-starlink-tu-tejado_202608066a745755a5690f04736a171b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:30:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

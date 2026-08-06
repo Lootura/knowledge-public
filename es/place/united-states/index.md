@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales
+
+Las obras de ingeniería ayudan a los animales a desplazarse mejor y también sirven para reducir los peligros en carretera y los accidentes provocados por la entrada de fauna a la vía. En Arizona, Estados Unidos (EE.UU.) lo están experimentando. Hay que entender que para muchos animales las carreteras son una barrera qu.
+
+Date: 2026-08-06
 
 ### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
 
@@ -62,13 +68,6 @@ Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo e
 
 Date: 2026-08-05
 
-### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
-
-El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
-- [El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster](https://cincodias.elpais.com/companias/2026-08-06/el-santander-debera-someterse-a-un-test-de-estres-anual-en-estados-unidos-despues-de-comprar-webster.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z
+- [EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales](https://okdiario.com/naturaleza/ee-uu-convierte-ejemplo-espana-arizona-construye-27-cruces-fauna-reduce-90-accidentes-trafico-animales-19127896?utm_source=lootura.com) — 2026-08-06T10:30:07.000Z

@@ -3,20 +3,20 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones
-
-Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.
-
-Date: 2026-08-06
-
 ### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
 
 Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
+
+Date: 2026-08-06
+
+### El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones
+
+Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.
 
 Date: 2026-08-06
 
@@ -70,6 +70,5 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones](https://www.20minutos.es/nacional/gobierno-confia-no-tener-que-acudir-justicia-por-reparto-menores-mientras-pp-baja-tono-vox-presiona-las-regiones_7022869_0.html?utm_source=lootura.com) — 2026-08-06T05:14:18.000Z
 - [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
 - [La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades](https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z

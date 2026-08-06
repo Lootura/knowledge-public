@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke](https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html?utm_source=lootura.com) — 2026-08-05T14:29:46.000Z
+No public source links.

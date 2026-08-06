@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -45,6 +45,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:33:11.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
   "evidenceCount": 0
 }

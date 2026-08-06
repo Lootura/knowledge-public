@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Gianni",
     "Infantino"
@@ -47,11 +47,11 @@
   ],
   "sources": [
     {
-      "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
-      "url": "https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T19:33:02.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Hassan II, el \"estadio más grande del mundo\" con el que Rabat quiere dejar a España sin final en 2030",
+      "url": "https://www.20minutos.es/deportes/futbol/asi-sera-hassan-ii-estadio-mas-grande-mundo-con-que-marruecos-quiere-dejar-espana-sin-final-mundial-2030_5624269_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:06:45.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

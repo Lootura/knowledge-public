@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [España aumenta el despliegue de la Guardia Civil en el paso de Rafah entre Gaza y Egipto](https://theobjective.com/espana/2026-08-06/espana-despliegue-guardia-civil-rafah-gaza-egipto/?utm_source=lootura.com) — 2026-08-06T08:36:08.000Z

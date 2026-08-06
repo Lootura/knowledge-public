@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
@@ -65,6 +65,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "España aumenta el despliegue de la Guardia Civil en el paso de Rafah entre Gaza y Egipto",
+      "url": "https://theobjective.com/espana/2026-08-06/espana-despliegue-guardia-civil-rafah-gaza-egipto/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:36:08.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

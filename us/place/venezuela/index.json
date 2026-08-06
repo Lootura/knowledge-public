@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T21:10:19.243Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+      "summary": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.",
+      "date": "2026-08-06"
+    },
     {
       "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
       "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
@@ -59,13 +64,15 @@
       "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
       "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+      "url": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:02:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

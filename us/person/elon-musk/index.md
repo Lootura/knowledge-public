@@ -40,4 +40,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead?utm_source=lootura.com) — 2026-08-06T00:25:10.000Z
+No public source links.

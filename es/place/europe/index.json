@@ -1,0 +1,48 @@
+{
+  "id": "es-europe",
+  "name": "Europe",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/europe",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/europe",
+  "markdownUrl": "https://atlas.lootura.com/es/place/europe/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/europe/index.json",
+  "description": "Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "aliases": [
+    "EU",
+    "European Union"
+  ],
+  "changes": [
+    {
+      "title": "Los resultados del sector impulsan a Telefónica, Cellnex y Digi",
+      "summary": "El goteo de resultados empresariales en Europa convierte hoy a uno de los sectores más rezagados en los últimos años, el de las telecomunicaciones , en uno de los más alcistas. El índice sectorial Stoxx Europe 600 Telecommunications despunta hoy con una revalorización superior al 2% Seguir leyendo.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "La rendición de los bajistas dispara de nuevo a los valores de Defensa",
+      "summary": "Uno de los sectores estrella en Bolsa desde 2022, el de Defensa, se ha abonado este año a los bandazos. El conjunto del sector perdió más de un 20% desde los máximos del 13 de enero hasta los mínimos del 15 de mayo, tomando como referencia el índice sectorial Stoxx Europe Total Market Aerospace & Defense. Seguir leyend.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Europe first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Los resultados del sector impulsan a Telefónica, Cellnex y Digi",
+      "url": "https://www.expansion.com/mercados/2026/08/06/6a7459b6e5fdeac1748b458a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:12:39.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "La rendición de los bajistas dispara de nuevo a los valores de Defensa",
+      "url": "https://www.expansion.com/mercados/2026/08/06/6a733263468aebe3698b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T06:27:17.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

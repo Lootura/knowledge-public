@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña](https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:37.000Z
+- [SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI](https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com) — 2026-08-06T09:37:59.000Z

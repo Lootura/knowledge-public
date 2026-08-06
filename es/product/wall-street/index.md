@@ -34,5 +34,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Más allá de Leopold Aschenbrenner: el desplome de la IA arrasa a los fondos estrella de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-08-06/mas-alla-de-leopold-aschenbrenner-el-desplome-de-la-ia-arrasa-a-los-fondos-estrella-de-wall-street.html?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z
-- [La banca de Wall Street, lista para un impulso de los bonus](https://www.expansion.com/empresas/banca/2026/08/06/6a73b1a2468aeb99268b45b6.html?utm_source=lootura.com) — 2026-08-05T22:15:19.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA admite errores en su propuesta de privatizar el Mundial, pero advierte que no tolerará más ataques](https://www.20minutos.es/deportes/futbol/fifa-admite-errores-su-propuesta-privatizar-mundial-pero-advierte-que-no-tolerara-mas-ataques_7023070_0.html?utm_source=lootura.com) — 2026-08-06T05:32:55.000Z
-- [Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"](https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com) — 2026-08-05T19:33:02.000Z
+- [El Ejecutivo reacciona al posible pacto de la FIFA con Marruecos para acoger la final del Mundial](https://www.20minutos.es/deportes/futbol/gobierno-reacciona-presunto-pacto-fifa-con-marruecos-para-acoger-final-mundial-2030-tiene-que-ser-espana_7023124_0.html?utm_source=lootura.com) — 2026-08-06T08:14:53.000Z

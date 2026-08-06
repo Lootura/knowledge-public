@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
@@ -65,6 +65,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
   "evidenceCount": 0
 }

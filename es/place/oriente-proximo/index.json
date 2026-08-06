@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El Ibex marca nuevos máximos por encima de los 20.200 puntos",
+      "summary": "Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.",
+      "date": "2026-08-06"
+    },
     {
       "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
       "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
@@ -60,20 +65,15 @@
       "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
       "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados",
-      "summary": "El alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial sacuden la confianza de los inversores. El riesgo de inflación (.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "La renta variable mundial enfila nuevas cotas gracias al crecimiento económico y la solidez de los resultados",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-renta-variable-mundial-enfila-nuevas-cotas-gracias-al-crecimiento-economico-y-la-solidez-de-los-resultados.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T03:25:00.000Z",
+      "title": "El Ibex marca nuevos máximos por encima de los 20.200 puntos",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:14:48.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

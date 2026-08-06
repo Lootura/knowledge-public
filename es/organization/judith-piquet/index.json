@@ -1,0 +1,45 @@
+{
+  "id": "es-judith-piquet",
+  "name": "Judith Piquet",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/judith-piquet",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/judith-piquet",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/judith-piquet/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/judith-piquet/index.json",
+  "description": "Sigue la actividad de Judith Piquet en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales",
+      "summary": "Un juez de la Sección de Instrucción del Tribunal de Instancia de Alcalá de Henares (Madrid) ha propuesto sentar en el banquillo a la alcaldesa , Judith Piquet, por un presunto delito de infidelidad en la custodia de documentos y revelación de secretos , en el marco de la investigación por la filtración de dos denuncia.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El juez propone juzgar a la alcaldesa de Alcalá por la filtración de informes policiales para \"salvar a la jefa\" Ayuso",
+      "summary": "El tribunal coloca a Judith Piquet a un paso de sentarse en el banquillo por filtrar presuntamente un documento policial que Alfonso Serrano difundió en X para criminalizar a las personas inmigrantes asegurando que los migrantes de un centro de la localidad estaban cometiendo \"agresiones sexuales\" Caso Alcalá: el 'núme.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Judith Piquet first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-06/alcaldesa-alcala-filtracion-agresion-secretos-1tna-1tps_4401900/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:44:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El juez propone juzgar a la alcaldesa de Alcalá por la filtración de informes policiales para \"salvar a la jefa\" Ayuso",
+      "url": "https://www.eldiario.es/madrid/juez-propone-juzgar-alcaldesa-alcala-filtracion-informes-policiales-salvar-jefa-ayuso_1_13431331.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:07:48.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-04T21:10:19.243Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings
+
+The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.
+
+Date: 2026-08-06
 
 ### U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes
 
@@ -62,12 +68,6 @@ Children who played for Venezuela’s youth baseball league, a symbol of nationa
 
 Date: 2026-07-10
 
-### Discovered by Atlas
-
-Venezuela first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-08
-
 ## Sources
 
-No public source links.
+- [Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings](https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html?utm_source=lootura.com) — 2026-08-06T09:02:25.000Z

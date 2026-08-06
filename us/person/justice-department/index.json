@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/justice-department/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/justice-department/index.json",
   "description": "Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6. (Image credit: Heather Diehl).",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
-      "summary": "The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.",
-      "date": "2026-08-05"
-    },
     {
       "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
       "summary": "The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.",
@@ -29,6 +19,16 @@
     {
       "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
       "summary": "The head of the Justice Department praised the U.S. attorney in Washington after her tense meeting with the president.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6. (Image credit: Heather Diehl).",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
+      "summary": "The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.",
       "date": "2026-08-05"
     },
     {
@@ -64,18 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:14:46.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
-      "url": "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:19:27.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
       "url": "https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe?utm_source=lootura.com",
       "publishedAt": "2026-08-05T19:33:38.000Z",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

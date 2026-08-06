@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
-
-The White House emphasized that President Trump was not in danger during the incident.
-
-Date: 2026-08-05
 
 ### NATO spending pressure returned
 
@@ -23,6 +17,12 @@ Date: 2026-08-05
 ### Trump Said Qatari Jet Was Destined for His Library. That May Change.
 
 A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
+
+Date: 2026-08-05
+
+### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
+
+The White House emphasized that President Trump was not in danger during the incident.
 
 Date: 2026-08-05
 
@@ -70,7 +70,5 @@ Date: 2026-08-04
 
 ## Sources
 
-- [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
-- [FAA is investigating why a plane was allowed to take off as Trump's helicopter approached](https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com) — 2026-08-05T18:11:23.000Z
 - [Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family](https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com) — 2026-08-05T16:26:49.000Z
 - [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com) — 2026-08-05T21:58:59.000Z

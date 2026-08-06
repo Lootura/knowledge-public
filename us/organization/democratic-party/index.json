@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
+      "summary": "One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
       "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.",
@@ -52,49 +62,21 @@
       "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
       "summary": "Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "summary": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019. (Image credit: Martin Bureau).",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump takes trip to West Coast to tout the economy, something polls show he's weak on",
-      "summary": "President Donald Trump is making a rare visit to California and Nevada to try to draw contrasts with Democrats on the economy and other issues.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Progressive Democrat scores narrow victory in Michigan primary",
-      "url": "https://www.nbcnews.com/nightly-news/video/progressive-democrat-scores-narrow-victory-in-michigan-primary-267842629832?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T22:48:24.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:13:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Takeaways from Tuesday's elections in Michigan and more",
-      "url": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:55:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
-      "url": "https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:02:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Virginia Democrats pick establishment nominees for 2 House seats they hope to flip",
-      "url": "https://www.pbs.org/newshour/politics/virginia-democrats-pick-establishment-nominees-for-2-house-seats-they-hope-to-flip?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:38:08.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
-      "url": "https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T13:59:50.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:04:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

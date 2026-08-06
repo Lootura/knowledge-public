@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados
 
 Dos personas han sido trasladadas en estado menos grave al Hospital Germans Trias de Badalona (Barcelona) tras declararse un incendio , alrededor de las 00.24 horas de este jueves, en una vivienda de la calle Doctor Robert. Además de los dos afectados evacuados al hospital, otras cinco personas fueron atendidas y dadas.
+
+Date: 2026-08-06
+
+### Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar
+
+Entre la vegetación del parque de la Ciutadella emerge una elegante estructura de hierro y cristal, diseñada para regular la luz y la humedad necesarias para albergar especies vegetales exóticas, que ha sobrevivido a más de un siglo de transformaciones. Concebida para deslumbrar durante la Exposición Universal de 1888.
+
+Date: 2026-08-06
+
+### Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella
+
+Las vibraciones provocadas por los trabajos de una compactadora han obligado a evacuar a los vecinos de dos edificios del barrio de la Trinitat Vella de Barcelona, en el distrito de Sant Andreu, durante la madrugada de este jueves. Así lo ha explicado en una atención a la prensa el teniente de alcaldía de Economía, Hac.
+
+Date: 2026-08-06
+
+### Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella
+
+Los vecinos de dos bloques de pisos del barrio de la Trinitat Vella de Barcelona han sido desalojados esta madrugada de sus domicilios por los Bombers de Barcelona al sentir que sus bloques temblaban. Seguir leyendo...
+
+Date: 2026-08-06
+
+### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
+
+Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.
 
 Date: 2026-08-06
 
@@ -44,31 +68,10 @@ El 112 recibió este primer semestre del año en la ciudad de Barcelona, 3.500 l
 
 Date: 2026-08-04
 
-### La sospechosa actitud de Julián Álvarez que mantiene en vilo a Atlético y Barcelona
-
-Julián Álvarez está muy cerca de regresar a un Atlético que no le espera con los brazos abiertos. El delantero argentino mantiene su silencio a una semana de volver a la capital española para volver a entrenar y la mente del club rojiblanco pasa porque el futbolista dé explicaciones de por qué anunció públicamente su d.
-
-Date: 2026-08-03
-
-### Los Rolling Stones, 50 años del desastre económico que abrió España a los grandes conciertos de rock
-
-El 3 de julio de 1965, los Beatles actuaban en la plaza de toros de La Monumental de Barcelona, un día después de su gran concierto en Madrid. Parecía que el rock por fin entraba por la puerta grande en España. Sin embargo, aquello fue como una anécdota sin gran repercusión posterior. Las giras de los grandes grupos de.
-
-Date: 2026-08-03
-
-### Restablecido el servicio en las 6 líneas de Rodalies entre Barcelona y Tarragona cortadas por un atropello
-
-Rodalies ha restablecido el servicio en las líneas R2 Sud, R13, R14, R15, R16 y R17 cortadas entre Sant Vicenç de Calders y Cunit (Tarragona) por el atropello de una persona este lunes a las 8:50 tras cerca de dos horas de corte. Se ha reanudado la circulación por vía única para trenes de media distancia y se ha establ.
-
-Date: 2026-08-03
-
-### Un atropello interrumpe la circulación de 6 líneas de Rodalies entre Barcelona y Tarragona
-
-El atropello de una persona por un tren ha interrumpido esta mañana la circulación entre Cunit y Sant Vicenç de Calders, en la provincia de Tarragona, lo que afecta a los trenes de la línea R2 Sud de Rodalies y a las líneas R13, R14, R15, R16 y R17 , por los que circulan también trenes de media distancia entre Barcelon.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados](https://www.elconfidencial.com/espana/cataluna/2026-08-06/incendio-badalona-hospital-heridos-1tna-1tps_4401766/?utm_source=lootura.com) — 2026-08-06T06:21:00.000Z
-- [El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona](https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html?utm_source=lootura.com) — 2026-08-06T04:00:00.000Z
+- [Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar](https://www.elconfidencial.com/espana/cataluna/2026-08-06/visitas-gratis-hivernacle-ciutadella-barcelona_4401806/?utm_source=lootura.com) — 2026-08-06T08:32:00.000Z
+- [Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella](https://www.larazon.es/cataluna/vibraciones-compactadora-obligan-evacuar-dos-edificios-trinitat-vella_202608066a7460cca5690f04736a2c93.html?utm_source=lootura.com) — 2026-08-06T10:24:12.000Z
+- [Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella](https://www.lavanguardia.com/local/barcelona/20260806/11608896/obras-vallbona-sacuden-madrugada-dos-edificios-trinitat-vella.html?utm_source=lootura.com) — 2026-08-06T08:34:41.000Z
+- [Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»](https://theobjective.com/gente/2026-08-06/vacaciones-ester-exposito-mbappe-cerdena-barcelona-enamorados/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio",
+      "summary": "El Servicio de Prevención y Extinción de Incendios Forestales de Castilla-La Mancha ( Infocam ) ha declarado extinguido el incendio de Almorox (Toledo) , iniciado el pasado 22 de julio. De acuerdo con el Sistema de Información de Incendios Forestales ( Fidias ) de la Consejería de Desarrollo Sostenible de la Junta de C.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Telefónica entra en la seguridad ciudadana rural en España",
       "summary": "Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.",
@@ -58,13 +63,15 @@
       "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
       "summary": "El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
-      "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio",
+      "url": "https://www.elconfidencial.com/espana/2026-08-06/incendio-forestal-almorox-toledo-1tna-1tps_4401829/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:10:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

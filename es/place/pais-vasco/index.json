@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año",
+      "summary": "Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»",
       "summary": "La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».",
@@ -67,14 +72,15 @@
       "title": "La ofensiva empresarial de País Vasco desata operaciones por 6.000 millones",
       "summary": "La estrategia del Gobierno de País Vasco para, acompañado de empresarios y financieros, arraigar en Euskadi a las empresas tractoras de la región ha desatado una oleada de operaciones corporativas por valor (enterprise value) superior a 6.000 millones de euros en los últimos cinco años. Seguir leyendo.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián",
-      "summary": "Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año",
+      "url": "https://www.elcorreo.com/sociedad/cerca-2200-mujeres-denuncian-euskadi-agresiones-pareja-20260806120055-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:00:55.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
     {
       "title": "Los mejores del mundo pasan por Pagola",
       "url": "https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

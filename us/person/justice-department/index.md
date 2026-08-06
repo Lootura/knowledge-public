@@ -3,22 +3,10 @@
 > Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/person/justice-department
 
 ## Recent changes
-
-### Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot
-
-A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6. (Image credit: Heather Diehl).
-
-Date: 2026-08-05
-
-### Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case
-
-The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.
-
-Date: 2026-08-05
 
 ### State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe
 
@@ -29,6 +17,18 @@ Date: 2026-08-05
 ### Blanche Defends Pirro but Says Trump Can Fire Her at Any Time
 
 The head of the Justice Department praised the U.S. attorney in Washington after her tense meeting with the president.
+
+Date: 2026-08-05
+
+### Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot
+
+A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6. (Image credit: Heather Diehl).
+
+Date: 2026-08-05
+
+### Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case
+
+The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.
 
 Date: 2026-08-05
 
@@ -70,7 +70,5 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot](https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers?utm_source=lootura.com) — 2026-08-05T17:14:46.000Z
-- [Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case](https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com) — 2026-08-05T17:19:27.000Z
 - [State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe](https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe?utm_source=lootura.com) — 2026-08-05T19:33:38.000Z
 - [Blanche Defends Pirro but Says Trump Can Fire Her at Any Time](https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com) — 2026-08-05T17:35:45.000Z

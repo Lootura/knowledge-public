@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,11 +19,6 @@
   ],
   "changes": [
     {
-      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
-      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "NATO spending pressure returned",
       "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
       "date": "2026-08-05"
@@ -31,6 +26,11 @@
     {
       "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
       "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
       "date": "2026-08-05"
     },
     {
@@ -71,18 +71,6 @@
   ],
   "sources": [
     {
-      "title": "White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing",
-      "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:34:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
-      "url": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:11:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:26:49.000Z",
@@ -95,5 +83,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request?utm_source=lootura.com) — 2026-08-06T09:33:11.000Z

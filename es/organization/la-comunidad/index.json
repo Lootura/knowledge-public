@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Madrid asegura no tener \"ninguna información\" de menores de Ceuta",
+      "summary": "La Comunidad de Madrid ha asegurado que no tiene \"ninguna información\" sobre la situación de los menores extranjeros no acompañados que se encuentran en Ceuta tras la crisis migratoria de la semana pasada y ha insistido en que es \"responsabilidad\" del Gobierno. La consejera de Familia, Juventud y Asuntos Sociales, Ana.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje",
       "summary": "La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa que forma parte de las medidas que ha puesto en marcha el Gobierno regional para la reconstrucción de las zonas dañadas. El director general de Agricultura, Ganadería y Aliment.",
@@ -62,9 +67,9 @@
   ],
   "sources": [
     {
-      "title": "Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje",
-      "url": "https://www.larazon.es/madrid/ganaderias-afectadas-incendio-sierra-oeste-reciben-cerca-medio-millon-kilos-forraje_202608066a74242aa046ad6ebca0da0f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T06:05:30.000Z",
+      "title": "Madrid asegura no tener \"ninguna información\" de menores de Ceuta",
+      "url": "https://www.larazon.es/madrid/madrid-asegura-tener-ninguna-informacion-menores-ceuta_202608066a7461b6a5690f04736a2e90.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:28:06.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],

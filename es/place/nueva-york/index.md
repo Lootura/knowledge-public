@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [La renta variable mundial enfila nuevas cotas gracias al crecimiento económico y la solidez de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-renta-variable-mundial-enfila-nuevas-cotas-gracias-al-crecimiento-economico-y-la-solidez-de-los-resultados.html?utm_source=lootura.com) — 2026-08-06T03:25:00.000Z
+No public source links.

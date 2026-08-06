@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex marca nuevos máximos por encima de los 20.200 puntos
+
+Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.
+
+Date: 2026-08-06
 
 ### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
 
@@ -62,14 +68,6 @@ Los días pares hay paz y los días impares nos encontramos al borde de la catá
 
 Date: 2026-08-04
 
-### El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán "hoy o mañana"
-
-El precio del petróleo intermedio de Texas (WTI) ha abierto este martes con una caída de un 3,37 %, hasta los 77,63 dólares el barril, después de que EEUU anunciara que ve un posible un acuerdo "hoy o mañana" para abrir el estrecho de Ormuz. A las 09:00 hora local (13.00 GMT), los contratos de futuros del WTI para el m.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
-- [Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz](https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com) — 2026-08-05T17:12:26.000Z
-- [Podcast | Las ‘midterm’ de EEUU](https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com) — 2026-08-06T03:25:55.000Z
+- [El Ibex marca nuevos máximos por encima de los 20.200 puntos](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T08:14:48.000Z

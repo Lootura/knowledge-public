@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
+      "summary": "SoftBank Group se anotó un beneficio neto atribuido de 347.330 millones de yenes (1.908 millones de euros) al cierre de su primer trimestre fiscal, entre los meses de abril y junio, lo que representa una caída del 17,7% respecto del resultado contabilizado por el conglomerado japonés en el mismo periodo de su anterior.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
       "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.",
@@ -54,6 +59,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
+      "url": "https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:37:59.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

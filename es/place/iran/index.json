@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El Ibex marca nuevos máximos por encima de los 20.200 puntos",
+      "summary": "Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.",
+      "date": "2026-08-06"
+    },
     {
       "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
       "summary": "La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.",
@@ -62,32 +67,15 @@
       "title": "Victoria iraní: peaje en Ormuz",
       "summary": "Los días pares hay paz y los días impares nos encontramos al borde de la catástrofe. Así contemplamos la situación en el golfo Pérsico. La guerra de Estados Unidos, Israel y varios países árabes contra Irán parecía hace unas semanas que entraba en una fase de estabilización , gracias a un memorándum de entendimiento. P.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El precio del petróleo cae con fuerza tras anunciar EEUU un acuerdo con Irán \"hoy o mañana\"",
-      "summary": "El precio del petróleo intermedio de Texas (WTI) ha abierto este martes con una caída de un 3,37 %, hasta los 77,63 dólares el barril, después de que EEUU anunciara que ve un posible un acuerdo \"hoy o mañana\" para abrir el estrecho de Ormuz. A las 09:00 hora local (13.00 GMT), los contratos de futuros del WTI para el m.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
-      "url": "https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T04:50:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
-      "url": "https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:12:26.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Podcast | Las ‘midterm’ de EEUU",
-      "url": "https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T03:25:55.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El Ibex marca nuevos máximos por encima de los 20.200 puntos",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:14:48.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

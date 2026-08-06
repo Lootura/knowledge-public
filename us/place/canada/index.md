@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Human-driven climate crisis fuels Canada’s deadly wildfires, study finds
+
+Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heating The human-driven climate crisis made the conditions that led to blazes roaring across Canada, which have caused toxic smoke to spew throughout the country and into the US, twice as likely to occur, a ne.
+
+Date: 2026-08-06
 
 ### 'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record
 
@@ -62,12 +68,7 @@ The inferno that sent toxic smoke billowing toward the United States won't be th
 
 Date: 2026-07-24
 
-### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
-
-After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Climate change contributed to big Canada fires, study says as Trump blames mismanagement](https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html?utm_source=lootura.com) — 2026-08-06T07:40:01.000Z
+- [Human-driven climate crisis fuels Canada’s deadly wildfires, study finds](https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis?utm_source=lootura.com) — 2026-08-06T09:00:45.000Z

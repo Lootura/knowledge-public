@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "AI",
     "AI science",
@@ -80,12 +80,6 @@
   ],
   "sources": [
     {
-      "title": "Why SpaceX stock is falling despite strong revenue growth",
-      "url": "https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:02:50.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Why increased AI spending caused SpaceX shares to fall",
       "url": "https://www.cbsnews.com/video/why-increased-ai-spending-caused-spacex-shares-to-fall/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T19:31:17.000Z",
@@ -98,5 +92,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

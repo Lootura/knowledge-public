@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -14,15 +14,15 @@ After Ukraine failed to shoot down a single ballistic missile fired by Russia on
 
 Date: 2026-08-06
 
-### Alarming video shows Russian drone chasing Ukrainian man before exploding
-
-Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.
-
-Date: 2026-08-05
-
 ### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
 
 To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
+
+Date: 2026-08-05
+
+### Alarming video shows Russian drone chasing Ukrainian man before exploding
+
+Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.
 
 Date: 2026-08-05
 
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
 - [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z

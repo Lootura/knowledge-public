@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T20:48:29.218Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”
+
+El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.
+
+Date: 2026-08-06
 
 ### Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»
 
@@ -62,12 +68,6 @@ El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la pre
 
 Date: 2026-07-24
 
-### Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”
-
-Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”](https://www.larazon.es/espana/oscar-puente-tambien-acuerda-vito-quiles-plena-crisis-ceuta-burla-nuevo-proceso-judicial-solo_202608066a746061a046ad6ebca14aba.html?utm_source=lootura.com) — 2026-08-06T10:22:25.000Z

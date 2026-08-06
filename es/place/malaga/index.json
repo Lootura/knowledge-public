@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [],
   "changes": [
     {
       "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
       "summary": "La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga",
+      "summary": "Agentes de la Policía Nacional han arrestado a un varón de 30 años por, presuntamente, embestir de forma deliberada con un vehículo a un turista de 17 años en el centro de Málaga . El menor sufrió heridas graves y requirió cirugía por fracturas en una pierna. Según informó la Policía en un comunicado, una discusión ent.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo",
+      "summary": "Siga las imágenes en directo a partir de las 12:00.",
       "date": "2026-08-06"
     },
     {
@@ -50,19 +60,21 @@
       "title": "Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana",
       "summary": "En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza como un gigante inútil en el que aún duermen demasiados fantasmas. El que no hace tanto tiempo era el gran foco del menudeo en la zona consiguió, al menos, dejar atrás su actividad como hipermercado del estupefaciente hace ya ocho años. Pero e.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados",
-      "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este lunes, 3 de agosto, el aviso naranja por altas temperaturas en varias zonas de la provincia de Málaga , donde se esperan máximas de entre 39 y 41 grados. Almería y otras comarcas malagueñas permanecerán, por su parte, bajo aviso amarillo. La comarca de So.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego",
-      "summary": "La Diputación de Málaga ha movilizado 17,2 millones de euros para esta estrategia de economía circular.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga",
+      "url": "https://www.elconfidencial.com/espana/2026-08-06/atropello-intencionado-malaga-turista-1tna-1tps_4401887/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:53:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo",
+      "url": "https://www.eldebate.com/espana/20260806/bendodo-atiende-medios-comunicacion-junto-alcalde-malaga-directo_447222.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T07:06:42.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
     {
       "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
       "url": "https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com",
@@ -70,5 +82,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

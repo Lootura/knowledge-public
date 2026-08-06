@@ -1,0 +1,47 @@
+{
+  "id": "es-sara-carbonero",
+  "name": "Sara Carbonero",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/sara-carbonero",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/sara-carbonero",
+  "markdownUrl": "https://atlas.lootura.com/es/person/sara-carbonero/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/sara-carbonero/index.json",
+  "description": "Sigue la actividad de Sara Carbonero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "aliases": [
+    "Sara Carbonero Arevalo"
+  ],
+  "changes": [
+    {
+      "title": "Sara Carbonero demuestra que solo hacen falta un vestido de flores y un bolso de crochet para tener el look más bonito de agosto",
+      "summary": "Sara Carbonero sigue disfrutando del verano con ese estilo bohemio y natural que la ha convertido desde hace años en una de las grandes referencias de la moda relajada. Sin necesidad de recurrir a tendencias pasajeras ni a prendas complicadas, la periodista vuelve a demostrar que los mejores estilismos estivales suelen.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "La emotiva reflexión de Sara Carbonero en la foto más especial junto a sus hijos: \"O se te va el miedo o…\"",
+      "summary": "Sara Carbonero ha vuelto a emocionar a sus seguidores con una reflexión, que ha venido acompañada de una foto junto a sus hijos.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sara Carbonero first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sara Carbonero demuestra que solo hacen falta un vestido de flores y un bolso de crochet para tener el look más bonito de agosto",
+      "url": "https://www.larazon.es/lifestyle/moda/sara-carbonero-demuestra-que-solo-hacen-falta-vestido-flores-bolso-crochet-tener-look-mas-bonito-agosto_202608066a743a0a71b42a0b5ddf2255.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La emotiva reflexión de Sara Carbonero en la foto más especial junto a sus hijos: \"O se te va el miedo o…\"",
+      "url": "https://okdiario.com/happyfm/emotiva-reflexion-sara-carbonero-foto-mas-especial-junto-sus-hijos-o-te-va-miedo-o-19135278/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:32:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

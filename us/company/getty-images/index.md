@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-No public source links.
+- [The Quiet Miracles of Ordinary Life in New Syria](https://time.com/article/2026/08/06/syria-post-war-rebuilding-ahmed-alshaara-damascus/?utm_source=lootura.com) — 2026-08-06T10:00:00.000Z

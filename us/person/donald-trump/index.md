@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -20,35 +20,29 @@ Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead im
 
 Date: 2026-08-06
 
-### Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday
+### Trump denies U.S. running low on some munitions, says vast resupplies being made
 
-Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.
+President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
 
-Date: 2026-08-05
+Date: 2026-08-06
 
-### Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case
+### Morning news brief
 
-The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.
+Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.
 
-Date: 2026-08-05
+Date: 2026-08-06
 
-### House Democrats just added 12 'safe' Trump districts to their midterm election target list
+### Pacific islands alarmed by Trump-backed push for deep-sea mining
 
-The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.
+A Pacific island leader says there were "no consultations" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.
 
-Date: 2026-08-05
+Date: 2026-08-06
 
-### How Trump made an estimated $2.2 billion during the first year of his second term
+### Tennessee’s Andy Ogles Faces Well-Funded Opposition in House Primary Thursday
 
-New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.
+Representative Andy Ogles received President Trump’s endorsement, but his challenger, Charlie Hatcher, a former state agriculture commissioner, has the backing of Gov. Bill Lee.
 
-Date: 2026-08-05
-
-### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
-
-The White House emphasized that President Trump was not in danger during the incident.
-
-Date: 2026-08-05
+Date: 2026-08-06
 
 ### Funding milestone detected
 
@@ -68,15 +62,21 @@ President Donald Trump's administration has detained dozens of parents and spous
 
 Date: 2026-08-05
 
+### Tennessee secretary of state on redistricting, election security and low voter turnout
+
+Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.
+
+Date: 2026-08-05
+
 ## Sources
 
-- [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
+- [Trump denies U.S. running low on some munitions, says vast resupplies being made](https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com) — 2026-08-06T10:10:44.000Z
 - [House candidate wins primary despite ending campaign, beating Trump endorsee](https://www.cbsnews.com/news/thomas-smith-dropped-out-wins-michigan-house-seat-defeats-trump-opponent/?utm_source=lootura.com) — 2026-08-06T00:15:00.000Z
-- [How Trump made an estimated $2.2 billion during the first year of his second term](https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term?utm_source=lootura.com) — 2026-08-05T17:41:17.000Z
-- [FAA is investigating why a plane was allowed to take off as Trump's helicopter approached](https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com) — 2026-08-05T18:11:23.000Z
-- [Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday](https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com) — 2026-08-05T16:20:30.000Z
-- [Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case](https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com) — 2026-08-05T17:19:27.000Z
+- [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
 - [AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents](https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com) — 2026-08-05T21:55:35.000Z
-- [House Democrats just added 12 'safe' Trump districts to their midterm election target list](https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com) — 2026-08-05T17:02:45.000Z
 - [Tennessee secretary of state on redistricting, election security and low voter turnout](https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com) — 2026-08-05T22:35:49.000Z
 - [News Wrap: Senate confirms Dr. Erica Schwartz as CDC director](https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com) — 2026-08-05T22:45:03.000Z
+- [Pacific islands alarmed by Trump-backed push for deep-sea mining](https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html?utm_source=lootura.com) — 2026-08-06T08:40:01.000Z
+- [Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda](https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613?utm_source=lootura.com) — 2026-08-06T04:00:00.000Z
+- [Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement](https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com) — 2026-08-05T18:34:03.000Z
+- [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com) — 2026-08-05T21:58:59.000Z

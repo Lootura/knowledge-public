@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Why SpaceX stock is falling despite strong revenue growth](https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/?utm_source=lootura.com) — 2026-08-05T17:02:50.000Z
 - [Why increased AI spending caused SpaceX shares to fall](https://www.cbsnews.com/video/why-increased-ai-spending-caused-spacex-shares-to-fall/?utm_source=lootura.com) — 2026-08-05T19:31:17.000Z
 - [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z

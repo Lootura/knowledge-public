@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán](https://www.abc.es/internacional/trump-puede-cumplir-amenazas-iran-eeuu-gastado-20260805194549-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:00.000Z
 - [El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington](https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html?utm_source=lootura.com) — 2026-08-05T23:16:36.000Z
-- [Podcast | Las ‘midterm’ de EEUU](https://theobjective.com/podcasts/el-mundo-es-tu-casa/podcast-las-midterm-de-eeuu/?utm_source=lootura.com) — 2026-08-06T03:25:55.000Z

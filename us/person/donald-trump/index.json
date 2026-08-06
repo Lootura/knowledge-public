@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,29 +35,24 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
-      "date": "2026-08-05"
+      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
+      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
+      "date": "2026-08-06"
     },
     {
-      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
-      "summary": "The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.",
-      "date": "2026-08-05"
+      "title": "Morning news brief",
+      "summary": "Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.",
+      "date": "2026-08-06"
     },
     {
-      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
-      "summary": "The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.",
-      "date": "2026-08-05"
+      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
+      "summary": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.",
+      "date": "2026-08-06"
     },
     {
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
-      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
-      "date": "2026-08-05"
+      "title": "Tennessee’s Andy Ogles Faces Well-Funded Opposition in House Primary Thursday",
+      "summary": "Representative Andy Ogles received President Trump’s endorsement, but his challenger, Charlie Hatcher, a former state agriculture commissioner, has the backing of Gov. Bill Lee.",
+      "date": "2026-08-06"
     },
     {
       "title": "Funding milestone detected",
@@ -73,13 +68,18 @@
       "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
       "summary": "President Donald Trump's administration has detained dozens of parents and spouses of active-duty U.S. troops as it rolls back immigration protections for military families to pursue its mass deportation agenda, an Associated Press investigation found.",
       "date": "2026-08-05"
+    },
+    {
+      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
+      "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
+      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing",
-      "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:34:54.000Z",
+      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
+      "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:10:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -89,39 +89,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:41:17.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
-      "url": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:11:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "url": "https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:20:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
-      "url": "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:19:27.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:43:07.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
       "url": "https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com",
       "publishedAt": "2026-08-05T21:55:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
-      "url": "https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:02:45.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -135,7 +111,31 @@
       "url": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com",
       "publishedAt": "2026-08-05T22:45:03.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
+      "url": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T08:40:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+      "url": "https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T04:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement",
+      "url": "https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:34:03.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
+      "url": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:58:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 13
 }

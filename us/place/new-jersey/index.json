@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
       "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researc.",
@@ -67,13 +72,15 @@
       "title": "Discovered by Atlas",
       "summary": "New Jersey first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
-      "summary": "Products with the potential to be contaminated with the diarrhea-causing parasite were shipped to 27 states including Texas, Florida, Pennsylvania, Illinois and New Jersey.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:13:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

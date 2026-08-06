@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña",
-      "url": "https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T04:50:37.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
+      "url": "https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:37:59.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

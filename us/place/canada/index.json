@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
+      "summary": "Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heating The human-driven climate crisis made the conditions that led to blazes roaring across Canada, which have caused toxic smoke to spew throughout the country and into the US, twice as likely to occur, a ne.",
+      "date": "2026-08-06"
+    },
     {
       "title": "'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record",
       "summary": "\"Spider-Man: Brand New Day\" broke the \"Avengers: Endgame\" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.",
@@ -57,13 +62,21 @@
       "title": "What’s to blame for Canada’s wildfires?",
       "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
+      "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T07:40:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
+      "url": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:00:45.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

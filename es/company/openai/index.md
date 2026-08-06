@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI
+
+SoftBank Group se anotó un beneficio neto atribuido de 347.330 millones de yenes (1.908 millones de euros) al cierre de su primer trimestre fiscal, entre los meses de abril y junio, lo que representa una caída del 17,7% respecto del resultado contabilizado por el conglomerado japonés en el mismo periodo de su anterior.
+
+Date: 2026-08-06
 
 ### Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic
 
@@ -58,4 +64,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI](https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com) — 2026-08-06T09:37:59.000Z

@@ -3,7 +3,7 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
@@ -16,4 +16,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request?utm_source=lootura.com) — 2026-08-06T09:33:11.000Z

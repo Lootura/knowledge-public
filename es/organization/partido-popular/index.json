@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T06:27:15.972Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
     {
-      "title": "El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones",
-      "summary": "Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.",
+      "title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
+      "summary": "Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.",
       "date": "2026-08-06"
     },
     {
-      "title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
-      "summary": "Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.",
+      "title": "El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones",
+      "summary": "Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.",
       "date": "2026-08-06"
     },
     {
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones",
-      "url": "https://www.20minutos.es/nacional/gobierno-confia-no-tener-que-acudir-justicia-por-reparto-menores-mientras-pp-baja-tono-vox-presiona-las-regiones_7022869_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T05:14:18.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: \"Rechazaremos a los menores, está pactado\"",
       "url": "https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T20:51:52.000Z",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

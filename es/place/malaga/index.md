@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’
 
 La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.
+
+Date: 2026-08-06
+
+### Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga
+
+Agentes de la Policía Nacional han arrestado a un varón de 30 años por, presuntamente, embestir de forma deliberada con un vehículo a un turista de 17 años en el centro de Málaga . El menor sufrió heridas graves y requirió cirugía por fracturas en una pierna. Según informó la Policía en un comunicado, una discusión ent.
+
+Date: 2026-08-06
+
+### Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo
+
+Siga las imágenes en directo a partir de las 12:00.
 
 Date: 2026-08-06
 
@@ -56,18 +68,8 @@ En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza co
 
 Date: 2026-08-03
 
-### Málaga afronta una jornada de calor extremo tras otra noche tropical con temperaturas superiores a los 30 grados
-
-La Agencia Estatal de Meteorología (Aemet) ha activado para este lunes, 3 de agosto, el aviso naranja por altas temperaturas en varias zonas de la provincia de Málaga , donde se esperan máximas de entre 39 y 41 grados. Almería y otras comarcas malagueñas permanecerán, por su parte, bajo aviso amarillo. La comarca de So.
-
-Date: 2026-08-03
-
-### Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego
-
-La Diputación de Málaga ha movilizado 17,2 millones de euros para esta estrategia de economía circular.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga](https://www.elconfidencial.com/espana/2026-08-06/atropello-intencionado-malaga-turista-1tna-1tps_4401887/?utm_source=lootura.com) — 2026-08-06T09:53:00.000Z
+- [Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo](https://www.eldebate.com/espana/20260806/bendodo-atiende-medios-comunicacion-junto-alcalde-malaga-directo_447222.html?utm_source=lootura.com) — 2026-08-06T07:06:42.000Z
 - [Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’](https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z

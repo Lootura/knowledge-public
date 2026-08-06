@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -11,6 +11,36 @@
 ### El tiempo para el eclipse solar del 12 de agosto en Madrid, Valencia, Zaragoza, Oviedo y Bilbao: la previsión de la Aemet
 
 La previsión del tiempo para el eclipse solar del 12 de agosto será determinante para quienes quieran contemplar uno de los fenómenos astronómicos más esperados de las últimas décadas. A pocos días de la cita, todas las miradas están puestas en el estado del cielo de ciudades como Madrid, Valencia, Zaragoza, Oviedo y B.
+
+Date: 2026-08-06
+
+### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
+
+La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región "siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños". En un mensaje difundido en su cuent.
+
+Date: 2026-08-06
+
+### El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales
+
+Un juez de la Sección de Instrucción del Tribunal de Instancia de Alcalá de Henares (Madrid) ha propuesto sentar en el banquillo a la alcaldesa , Judith Piquet, por un presunto delito de infidelidad en la custodia de documentos y revelación de secretos , en el marco de la investigación por la filtración de dos denuncia.
+
+Date: 2026-08-06
+
+### El consejero al que Ayuso señaló por la compra del ático: "La izquierda necesita buscar fantasmas donde no los hay"
+
+Miguel Ángel García Martín ha evitado responder de nuevo a preguntas como por cuánto pretenden vender el ático de lujo comprado por Planifica Madrid y ha atacado a la "izquierda y la ultraizquierda" por "tratar de estirar el chicle" El Gobierno de Ayuso no puede destinar directamente la venta del ático de Chamberí a ay.
+
+Date: 2026-08-06
+
+### Madrid asegura no tener "ninguna información" de menores de Ceuta
+
+La Comunidad de Madrid ha asegurado que no tiene "ninguna información" sobre la situación de los menores extranjeros no acompañados que se encuentran en Ceuta tras la crisis migratoria de la semana pasada y ha insistido en que es "responsabilidad" del Gobierno. La consejera de Familia, Juventud y Asuntos Sociales, Ana.
+
+Date: 2026-08-06
+
+### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
+
+Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.
 
 Date: 2026-08-06
 
@@ -38,41 +68,12 @@ El calor veraniego aprieta en Madrid al igual que está ocurriendo en la mayor p
 
 Date: 2026-08-06
 
-### Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»
-
-El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.
-
-Date: 2026-08-06
-
-### Sagas: Ramón Hermosilla, el jinete del ladrillo de lujo que rediseña el Madrid histórico
-
-En el vertiginoso mapa inmobiliario de la capital española, pocos nombres han sabido interpretar con tanta precisión el desembarco del capital internacional como Ramón Hermosilla Gómez-Cuétara. Hijo del célebre penalista Ramón Hermosilla Gimeno y de Silvia Gómez-Cuétara , heredera de la dinastía galletera Cuétara y fig.
-
-Date: 2026-08-06
-
-### El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares
-
-El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.
-
-Date: 2026-08-05
-
-### La empresa pública del ático de lujo solo ha comprado dos inmuebles en los últimos ejercicios aunque Ayuso dice que realiza compraventas "todo el año"
-
-Hasta la adquisición del piso de Chamberí, Planifica Madrid solo había comprado los edificios de su sede social y la casa del poeta Vicente Aleixandre desde que Ayuso está al frente de la Comunidad de Madrid Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Sería muy poco inteli.
-
-Date: 2026-08-05
-
-### No viaja con el Atlético de Madrid a Seúl y fichará por el Aston Villa
-
-El entrenador del Atlético de Madrid , Diego Pablo Simeone , dio a conocer este miércoles la lista de convocados para disputar el partido amistoso contra el Manchester City el próximo sábado en Seúl, una expedición en la que no viajará el italiano Matteo Ruggeri , pendiente de su posible salida al Aston Villa . El late.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Madrid aporta a la solidaridad regional casi cuatro veces más que Cataluña](https://www.abc.es/economia/madrid-aporta-solidaridad-regional-cuatro-veces-cataluna-20260805182905-nt.html?utm_source=lootura.com) — 2026-08-06T04:50:37.000Z
 - [El tiempo para el eclipse solar del 12 de agosto en Madrid, Valencia, Zaragoza, Oviedo y Bilbao: la previsión de la Aemet](https://www.elconfidencial.com/espana/2026-08-06/tiempo-hora-por-hora-eclipse-12-agosto-1qrt_4401229/?utm_source=lootura.com) — 2026-08-06T05:44:00.000Z
+- [Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica](https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z
+- [El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales](https://www.elconfidencial.com/espana/madrid/2026-08-06/alcaldesa-alcala-filtracion-agresion-secretos-1tna-1tps_4401900/?utm_source=lootura.com) — 2026-08-06T09:44:00.000Z
 - [El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares](https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com) — 2026-08-05T16:52:27.000Z
-- [Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje](https://www.larazon.es/madrid/ganaderias-afectadas-incendio-sierra-oeste-reciben-cerca-medio-millon-kilos-forraje_202608066a74242aa046ad6ebca0da0f.html?utm_source=lootura.com) — 2026-08-06T06:05:30.000Z
-- [Precio de la gasolina hoy 6 de agosto: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-6-agosto-localiza-gasolineras-mas-baratas-madrid-19114655?utm_source=lootura.com) — 2026-08-06T06:15:11.000Z
-- [La agricultura madrileña recupera definitivamente un melón azul autóctono que hace pocos años estaba casi extinto](https://okdiario.com/naturaleza/agricultura-madrilena-recupera-definitivamente-melon-azul-autoctono-que-hace-pocos-anos-estaba-casi-extinto-19122203?utm_source=lootura.com) — 2026-08-06T06:00:50.000Z
+- [El consejero al que Ayuso señaló por la compra del ático: "La izquierda necesita buscar fantasmas donde no los hay"](https://www.eldiario.es/madrid/consejero-ayuso-senalo-compra-atico-izquierda-necesita-buscar-fantasmas-no-hay_1_13431628.html?utm_source=lootura.com) — 2026-08-06T10:28:11.000Z
+- [Madrid asegura no tener "ninguna información" de menores de Ceuta](https://www.larazon.es/madrid/madrid-asegura-tener-ninguna-informacion-menores-ceuta_202608066a7461b6a5690f04736a2e90.html?utm_source=lootura.com) — 2026-08-06T10:28:06.000Z
+- [Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»](https://theobjective.com/gente/2026-08-06/vacaciones-ester-exposito-mbappe-cerdena-barcelona-enamorados/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z

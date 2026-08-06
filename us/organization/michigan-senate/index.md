@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Abdul El-Sayed wins Michigan Senate primary — a major victory for progressives](https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170?utm_source=lootura.com) — 2026-08-05T13:57:07.000Z
+- [Mayor Says El-Sayed’s Win Shows He Is More Than a ‘Mini-Mamdani’](https://www.nytimes.com/2026/08/05/us/politics/el-sayed-mamdani-michigan-election.html?utm_source=lootura.com) — 2026-08-05T22:38:59.000Z

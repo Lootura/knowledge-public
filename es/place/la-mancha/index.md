@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio
+
+El Servicio de Prevención y Extinción de Incendios Forestales de Castilla-La Mancha ( Infocam ) ha declarado extinguido el incendio de Almorox (Toledo) , iniciado el pasado 22 de julio. De acuerdo con el Sistema de Información de Incendios Forestales ( Fidias ) de la Consejería de Desarrollo Sostenible de la Junta de C.
+
+Date: 2026-08-06
 
 ### Telefónica entra en la seguridad ciudadana rural en España
 
@@ -62,12 +68,6 @@ El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo ,
 
 Date: 2026-07-25
 
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
-
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio](https://www.elconfidencial.com/espana/2026-08-06/incendio-forestal-almorox-toledo-1tna-1tps_4401829/?utm_source=lootura.com) — 2026-08-06T08:10:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/mikie-sherrill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/mikie-sherrill/index.json",
   "description": "Follow Mikie Sherrill, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-08-06T10:36:02.029Z",
   "aliases": [
     "Mikie",
     "Rebecca Hedberg",
@@ -20,18 +20,23 @@
   ],
   "changes": [
     {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
+      "date": "2026-08-06"
+    },
+    {
       "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
       "summary": "New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.",
       "date": "2026-07-22"
     },
     {
-      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
-      "summary": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
+      "title": "Discovered by Atlas",
+      "summary": "Mikie Sherrill first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-21"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Mikie Sherrill first entered the public knowledge record with source-backed evidence.",
+      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
+      "summary": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
       "date": "2026-07-21"
     },
     {
@@ -45,6 +50,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:13:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

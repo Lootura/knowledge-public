@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2](https://cincodias.elpais.com/companias/2026-08-06/telefonica-y-su-socio-en-reino-unido-abren-la-puerta-a-un-ajuste-de-plantilla-en-virgin-media-o2.html?utm_source=lootura.com) — 2026-08-06T03:15:00.000Z
+- [Princesa Diana de Gales: «No me llamen ícono. Solo soy una madre que intenta ayudar»](https://okdiario.com/curiosidades/princesa-diana-gales-no-llamen-icono-solo-soy-madre-que-intenta-ayudar-19134240?utm_source=lootura.com) — 2026-08-06T10:22:28.000Z

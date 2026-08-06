@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"](https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com) — 2026-08-05T19:33:02.000Z
+- [Hassan II, el "estadio más grande del mundo" con el que Rabat quiere dejar a España sin final en 2030](https://www.20minutos.es/deportes/futbol/asi-sera-hassan-ii-estadio-mas-grande-mundo-con-que-marruecos-quiere-dejar-espana-sin-final-mundial-2030_5624269_0.html?utm_source=lootura.com) — 2026-08-06T09:06:45.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
+      "summary": "La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región \"siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños\". En un mensaje difundido en su cuent.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
       "summary": "El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.",
@@ -59,13 +64,15 @@
       "title": "Ayuso critica a los bomberos en huelga que han «intoxicado en los momentos más difíciles»",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este domingo a los bomberos en huelga que han estado «intoxicando en los momentos más difíciles» y ha afirmado que «han tenido poca amabilidad y sensibilidad con sus compañeros. Tendrían que haber estado como el resto de sus compañeros, jugándose.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el \"caos continuo\" que vive España. La líder madrileña ha denunciado este domingo la \"inva.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
+      "url": "https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

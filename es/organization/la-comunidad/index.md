@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Madrid asegura no tener "ninguna información" de menores de Ceuta
+
+La Comunidad de Madrid ha asegurado que no tiene "ninguna información" sobre la situación de los menores extranjeros no acompañados que se encuentran en Ceuta tras la crisis migratoria de la semana pasada y ha insistido en que es "responsabilidad" del Gobierno. La consejera de Familia, Juventud y Asuntos Sociales, Ana.
+
+Date: 2026-08-06
 
 ### Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje
 
@@ -64,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje](https://www.larazon.es/madrid/ganaderias-afectadas-incendio-sierra-oeste-reciben-cerca-medio-millon-kilos-forraje_202608066a74242aa046ad6ebca0da0f.html?utm_source=lootura.com) — 2026-08-06T06:05:30.000Z
+- [Madrid asegura no tener "ninguna información" de menores de Ceuta](https://www.larazon.es/madrid/madrid-asegura-tener-ninguna-informacion-menores-ceuta_202608066a7461b6a5690f04736a2e90.html?utm_source=lootura.com) — 2026-08-06T10:28:06.000Z

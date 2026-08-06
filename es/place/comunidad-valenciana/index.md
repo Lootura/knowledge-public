@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera
+
+Las principales nacionalidades de los inmigrantes fueron la colombiana, la venezolana y la marroquí, con Comunidad Valenciana, Baleares y Asturias encabezando los mayores aumentos...
+
+Date: 2026-08-06
 
 ### Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta
 
@@ -62,12 +68,6 @@ El informe del Consejo de Seguridad Nuclear que avala técnicamente la posible p
 
 Date: 2026-07-18
 
-### Los médicos y el Consell cierran un acuerdo histórico: jornada de 35 horas y sábado no laborable
-
-El Sindicato Médico de la Comunidad Valenciana (CESMCV) y la Consellería de Sanidad, que dirige Marciano Gómez, han firmado este viernes un acuerdo histórico, que refleja, entre otras cuestiones, el compromiso de la implantación de la jornada de 35 horas de lunes a viernes , que nada tiene que ver con el que en su día.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera](https://amp.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html?utm_source=lootura.com) — 2026-08-06T07:24:03.000Z

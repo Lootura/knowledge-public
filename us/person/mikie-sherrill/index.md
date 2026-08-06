@@ -3,10 +3,16 @@
 > Follow Mikie Sherrill, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/person/mikie-sherrill
 
 ## Recent changes
+
+### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
+
+New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
+
+Date: 2026-08-06
 
 ### 'Software Error' Led Hundreds of Noncitizens to Vote in NJ
 
@@ -14,15 +20,15 @@ New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 
 
 Date: 2026-07-22
 
-### Error Led to 400 Noncitizens Voting in New Jersey, Governor Says
-
-A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.
-
-Date: 2026-07-21
-
 ### Discovered by Atlas
 
 Mikie Sherrill first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-21
+
+### Error Led to 400 Noncitizens Voting in New Jersey, Governor Says
+
+A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.
 
 Date: 2026-07-21
 
@@ -40,4 +46,4 @@ Date: 2026-07-21
 
 ## Sources
 
-No public source links.
+- [New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans](https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com) — 2026-08-06T10:13:37.000Z

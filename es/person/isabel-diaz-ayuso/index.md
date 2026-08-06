@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
+
+La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región "siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños". En un mensaje difundido en su cuent.
+
+Date: 2026-08-06
 
 ### Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»
 
@@ -62,12 +68,6 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha censurado este 
 
 Date: 2026-08-02
 
-### Ayuso dice que lo ocurrido en Ceuta es "una prueba" de Marruecos para la siguiente: "No podemos permitir que la invadan"
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el "caos continuo" que vive España. La líder madrileña ha denunciado este domingo la "inva.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica](https://www.elconfidencial.com/espana/2026-08-06/madrid-financiacion-autonomica-impuestos-ayuso-1tps_4401864/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z

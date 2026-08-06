@@ -3,7 +3,7 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'](https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z

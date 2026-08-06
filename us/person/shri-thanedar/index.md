@@ -34,4 +34,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Thanedar becomes latest incumbent to fall to a progressive challenger](https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173?utm_source=lootura.com) — 2026-08-05T13:59:50.000Z
+No public source links.

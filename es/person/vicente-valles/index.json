@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T13:15:10.309Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Vallés",
     "Vicente"
   ],
   "changes": [
     {
-      "title": "Vicente Vallés, sobre la vida de sus padres en Vallecas: «Vivían en una infravivienda; su día a día era de gran dureza, trabajando de sol a sol»",
-      "summary": "Vicente Vallés se crio en una chabola en Antena 3, donde nació en un lugar muy humilde y rodeado de su familia.",
-      "date": "2026-08-02"
+      "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
+      "summary": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.",
+      "date": "2026-08-06"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Vicente Vallés first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "Vicente Vallés, sobre la vida de sus padres en Vallecas: «Vivían en una infravivienda; su día a día era de gran dureza, trabajando de sol a sol»",
+      "summary": "Vicente Vallés se crio en una chabola en Antena 3, donde nació en un lugar muy humilde y rodeado de su familia.",
       "date": "2026-08-02"
     },
     {
@@ -30,6 +35,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
+      "url": "https://www.abc.es/espana/canarias/vicente-valles-convencido-sobre-mejor-zona-espana-vacaciones-verano-20260806090151-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T09:45:52.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

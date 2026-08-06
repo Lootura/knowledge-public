@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T10:35:46.342Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno",
+      "summary": "El regreso de la temporada 4 de Ted Lasso ya es una realidad. La serie ha vuelto tres años después del final de su anterior entrega. Y lo hace además contra todo pronóstico, porque aquella temporada 3 estaba anunciada como la última . Pero finalmente en Apple TV recularon y han devuelto al querido entrenador de futbol.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?",
+      "summary": "Todavía no sabemos la fecha exacta para la keynote de Apple, pero es fácil vaticinar que será a principios de septiembre. Queda un mes . Y hoy te vamos a contar todo lo que se espera por parte de la compañía de la manzana para esta presentación que, otra vez, será la más importante del año al albergar el anuncio de los.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Apple denuncia a OpenAI por robo de secretos",
       "summary": "Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de \"descuidada, agresiva y extrañamente personal\". Como parte de esta escalada judici.",
@@ -53,18 +63,21 @@
       "title": "Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo",
       "summary": "Apple acaba de dar un golpe en la mesa contra Telegram. Después de que la semana pasada Rusia firmase una orden de detención contra Pável Dúrov , el dueño de la app, por colaboración terrorista, ahora la compañía de Cupertino vuelve a arremeter contra la integridad del servicio. La empresa de la manzana ha sido contund.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Hay que hablar sobre el iPhone 18, porque todo apunta a que Apple no lo va a lanzar en septiembre",
-      "summary": "Apple está preparando el mayor cambio en el lanzamiento del iPhone desde 2011. Llevamos varias semanas escuchando rumores y viendo filtraciones de cada vez más expertos de la industria, y todo apunta a que podría ser una previsión bastante precisa. Tal y como lees en el título: la compañía de Cupertino no lanzaría el i.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Bombazo en Android. Tu móvil le va a copiar al iPhone la mejor función de AirDrop",
-      "summary": "La última versión de Google Play Services acaba de filtrar una de las mejoras en las que Google está trabajando para que compartir archivos en tu móvil sea mucho más rápido. Y sí: la idea inicial es copiarle al AirDrop de Apple una de sus funciones estrella. Esta vez no tiene nada que ver con enviar archivos de iPhone.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno",
+      "url": "https://hipertextual.com/cine-television/calendario-completo-ted-lasso-temporada-4-explicado-numero-de-episodios-y-fechas-de-estreno/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T07:26:28.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?",
+      "url": "https://hipertextual.com/apple/todo-lo-que-apple-presenta-en-septiembre-iphone-plegables-relojes-y-one-more-thing/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T10:19:38.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
 }

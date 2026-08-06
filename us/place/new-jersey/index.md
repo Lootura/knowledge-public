@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-06T10:36:02.029Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
+
+New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
+
+Date: 2026-08-06
 
 ### Long-term study suggests landfill methane emissions are far higher than estimates
 
@@ -62,12 +68,6 @@ New Jersey first entered the public knowledge record with source-backed evidence
 
 Date: 2026-07-18
 
-### Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk
-
-Products with the potential to be contaminated with the diarrhea-causing parasite were shipped to 27 states including Texas, Florida, Pennsylvania, Illinois and New Jersey.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans](https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com) — 2026-08-06T10:13:37.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-06T10:35:46.342Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año
+
+Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.
+
+Date: 2026-08-06
 
 ### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
 
@@ -62,13 +68,8 @@ La estrategia del Gobierno de País Vasco para, acompañado de empresarios y fin
 
 Date: 2026-08-02
 
-### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
-
-Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año](https://www.elcorreo.com/sociedad/cerca-2200-mujeres-denuncian-euskadi-agresiones-pareja-20260806120055-nt_amp.html?utm_source=lootura.com) — 2026-08-06T10:00:55.000Z
 - [Los mejores del mundo pasan por Pagola](https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com) — 2026-08-05T22:13:42.000Z
 - [Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»](https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com) — 2026-08-05T11:06:19.000Z
