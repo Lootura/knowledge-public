@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### Long-term study suggests landfill methane emissions are far higher than estimates
+
+Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researc.
+
+Date: 2026-08-05
 
 ### Nurse-led initiative reduces unplanned extubations
 
@@ -64,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Long-term study suggests landfill methane emissions are far higher than estimates](https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html?utm_source=lootura.com) — 2026-08-05T22:40:01.000Z

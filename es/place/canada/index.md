@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Jódar debuta en Montreal con una remontada espectacular para batir a Moutet
+
+Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washington el pasado fin de semana con su debut en el Masters 1000 de Canadá en Montreal. El tenista español empezó ganando, tras remontar de manera espectacular un partido que empezó perdiendo ante el francés Corentin Moutet, número 59 del mundo. Jóda.
+
+Date: 2026-08-05
 
 ### Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”
 
@@ -34,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Jódar debuta en Montreal con una remontada espectacular para batir a Moutet](https://okdiario.com/deportes/jodar-debuta-montreal-remontada-espectacular-batir-moutet-19133341?utm_source=lootura.com) — 2026-08-05T22:17:44.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-02T09:53:47.705Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros
+
+El Govern de Salvador Illa (PSC) ha gastado más de 210.000 euros en cuatro «jornadas de trabajo», según su propia definición, fuera del Palau de la Generalitat,...
+
+Date: 2026-08-06
 
 ### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
 
@@ -52,4 +58,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros](https://amp.elmundo.es/cataluna/2026/08/06/6a738d3be4d4d85a5b8b4593.html?utm_source=lootura.com) — 2026-08-06T00:08:43.000Z

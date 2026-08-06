@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### Thanedar becomes latest incumbent to fall to a progressive challenger
 
 Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.
-
-Date: 2026-08-05
-
-### Progressives see biggest win yet in Michigan, while Trump flexes power over GOP
-
-Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).
 
 Date: 2026-08-05
 
@@ -35,6 +29,12 @@ Date: 2026-08-05
 ### Takeaways from Tuesday's elections in Michigan and more
 
 Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.
+
+Date: 2026-08-05
+
+### Progressives see biggest win yet in Michigan, while Trump flexes power over GOP
+
+Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).
 
 Date: 2026-08-05
 
@@ -70,8 +70,7 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Michigan progressive ‘certainly’ welcomes DNC money despite criticizing ‘corporate-funded Democrats’](https://www.nbcnews.com/meet-the-press/video/michigan-progressive-certainly-welcomes-dnc-money-despite-criticizing-corporate-funded-democrats-267838021766?utm_source=lootura.com) — 2026-08-05T20:50:37.000Z
-- [Progressives see biggest win yet in Michigan, while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [Progressive Democrat scores narrow victory in Michigan primary](https://www.nbcnews.com/nightly-news/video/progressive-democrat-scores-narrow-victory-in-michigan-primary-267842629832?utm_source=lootura.com) — 2026-08-05T22:48:24.000Z
 - [Takeaways from Tuesday's elections in Michigan and more](https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com) — 2026-08-05T18:55:49.000Z
 - [House Democrats just added 12 'safe' Trump districts to their midterm election target list](https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com) — 2026-08-05T17:02:45.000Z
 - [Virginia Democrats pick establishment nominees for 2 House seats they hope to flip](https://www.pbs.org/newshour/politics/virginia-democrats-pick-establishment-nominees-for-2-house-seats-they-hope-to-flip?utm_source=lootura.com) — 2026-08-05T16:38:08.000Z

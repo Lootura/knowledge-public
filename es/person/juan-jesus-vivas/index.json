@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
@@ -21,13 +21,13 @@
       "date": "2026-08-05"
     },
     {
-      "title": "El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión",
-      "summary": "El Rey Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas , en el palacio de Marivent , en Palma de Mallorca, para analizar los efectos de la invasión migratoria que ha sufrido la ciudad autónoma. Casa Real ha informado la tarde de este miércoles de que la reunión entre el Rey y Vivas se desarrolla.",
+      "title": "El Rey recibirá este jueves al presidente de Ceuta en Palma",
+      "summary": "Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas, en el Palacio de Marivent, en Palma , para analizar la crisis migratoria que ha sufrido la ciudad autónoma. Según ha informado este miércoles la Casa Real, la reunión se celebrará a las 18 horas , pocas horas antes de que el jefe del Estado inicie.",
       "date": "2026-08-05"
     },
     {
-      "title": "El Rey recibirá este jueves al presidente de Ceuta en Palma",
-      "summary": "Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas, en el Palacio de Marivent, en Palma , para analizar la crisis migratoria que ha sufrido la ciudad autónoma. Según ha informado este miércoles la Casa Real, la reunión se celebrará a las 18 horas , pocas horas antes de que el jefe del Estado inicie.",
+      "title": "El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión",
+      "summary": "El Rey Felipe VI recibirá este jueves al presidente de Ceuta, Juan Jesús Vivas , en el palacio de Marivent , en Palma de Mallorca, para analizar los efectos de la invasión migratoria que ha sufrido la ciudad autónoma. Casa Real ha informado la tarde de este miércoles de que la reunión entre el Rey y Vivas se desarrolla.",
       "date": "2026-08-05"
     },
     {
@@ -43,17 +43,11 @@
   ],
   "sources": [
     {
-      "title": "El Rey recibirá al presidente de Ceuta en Palma para analizar la situación en la ciudad autónoma tras la invasión",
-      "url": "https://okdiario.com/espana/rey-recibira-presidente-ceuta-palma-analizar-situacion-ciudad-autonoma-invasion-19132750?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:34:09.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "El Rey recibirá este jueves al presidente de Ceuta en Palma",
       "url": "https://theobjective.com/espana/2026-08-05/rey-jueves-presidente-ceuta-palma/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T18:11:20.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

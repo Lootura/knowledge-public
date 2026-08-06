@@ -58,4 +58,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com) — 2026-08-05T05:03:29.000Z
+No public source links.

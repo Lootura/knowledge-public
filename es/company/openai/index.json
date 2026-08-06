@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
     {
-      "title": "Apple denuncia a OpenAI por robo de secretos",
-      "summary": "Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de \"descuidada, agresiva y extrañamente personal\". Como parte de esta escalada judici.",
+      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
+      "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.",
       "date": "2026-08-05"
     },
     {
-      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
-      "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.",
+      "title": "Apple denuncia a OpenAI por robo de secretos",
+      "summary": "Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de \"descuidada, agresiva y extrañamente personal\". Como parte de esta escalada judici.",
       "date": "2026-08-05"
     },
     {
@@ -60,13 +60,7 @@
       "url": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T19:25:00.000Z",
       "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Apple denuncia a OpenAI por robo de secretos",
-      "url": "https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:15:07.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

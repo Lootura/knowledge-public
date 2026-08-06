@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"
+
+El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.
+
+Date: 2026-08-05
 
 ### El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»
 
@@ -40,4 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: "Es falso y engañoso"](https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com) — 2026-08-05T18:06:28.000Z
+- [Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"](https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com) — 2026-08-05T19:33:02.000Z

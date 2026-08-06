@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
+
+La "capacidad ordinaria" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una "situación de contingencia migratoria...
+
+Date: 2026-08-05
 
 ### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
 
@@ -62,12 +68,6 @@ Pedro Sánchez comparte la banda sonora de su verano. En el espigón del Tarajal
 
 Date: 2026-08-04
 
-### Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés
-
-El magistrado acata la petición del órgano comunitario después de que la Audiencia Provincial excluyera al consultor del juicio con jurado que afrontará la esposa de Pedro Sánchez El juez Peinado abre una nueva investigación en el caso de Begoña Gómez pero solo contra el empresario Barrabés El juez Juan Carlos Peinado,.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T06:30:38.679Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
-      "summary": "Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.",
-      "date": "2026-08-01"
+      "title": "El \"sombrío legado\" que deja Petro en Colombia",
+      "summary": "Los escándalos de corrupción se han disparado en el mandato que hoy concluye del presidente izquierdistas. Y, lejos de la 'Paz Total', los grupos armados siguen extendiendo sus dominios Leer.",
+      "date": "2026-08-05"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
+      "summary": "Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.",
       "date": "2026-08-01"
     },
     {
@@ -32,6 +37,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El \"sombrío legado\" que deja Petro en Colombia",
+      "url": "https://www.elmundo.es/internacional/2026/08/06/6a7340eafc6c837f028b4585.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T23:49:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
+
+To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
+
+Date: 2026-08-05
 
 ### Tamara Keith and Amy Walter on Democratic primary voters not playing it safe
 
@@ -58,4 +64,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z

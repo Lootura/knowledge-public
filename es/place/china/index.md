@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Cómo los jesuitas domaron al dragón chino de los eclipses](https://theconversation.com/como-los-jesuitas-domaron-al-dragon-chino-de-los-eclipses-273477?utm_source=lootura.com) — 2026-08-05T16:28:37.000Z
+No public source links.

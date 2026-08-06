@@ -22,4 +22,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Rep. Max Miller doubles down against allegations of domestic violence and drug abuse](https://www.cbsnews.com/video/rep-max-miller-doubles-down-against-allegations-of-domestic-violence-and-drug-abuse/?utm_source=lootura.com) — 2026-08-05T13:53:04.000Z
+No public source links.

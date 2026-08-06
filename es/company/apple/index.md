@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Apple denuncia a OpenAI por robo de secretos](https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com) — 2026-08-05T17:15:07.000Z
+No public source links.

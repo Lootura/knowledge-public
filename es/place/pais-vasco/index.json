@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -26,6 +26,11 @@
     {
       "title": "Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»",
       "summary": "La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Los mejores del mundo pasan por Pagola",
+      "summary": "El evento Copenhagen Open es un referente de la cultura skater y el martes hizo una parada en el skatepark de Aiete en su gira por Euskadi y el sur de Francia.",
       "date": "2026-08-05"
     },
     {
@@ -67,14 +72,15 @@
       "title": "El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián",
       "summary": "Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»",
-      "summary": "«Me hice profesional gracias a esta estructura y regresar aquí en mi etapa de madurez es algo francamente significativo a nivel personal», reconoce el ciclista alavés.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Los mejores del mundo pasan por Pagola",
+      "url": "https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:13:42.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»",
       "url": "https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

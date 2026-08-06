@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.
+
+Date: 2026-08-06
 
 ### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
 
@@ -62,12 +68,6 @@ It comes from his willingness to violate all norms, rules and laws – and leavi
 
 Date: 2026-07-10
 
-### NATO spending pressure returned
-
-As the strikes traded between the U.S. and Iran escalate, President Trump casts doubt on the possibility of the two countries reaching a deal. NBC News’ Kelly O’Donnell reports on the latest with the conflict as well as the security reasons behind the President switching planes when he departed the NATO summit this wee.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com) — 2026-08-06T02:00:35.000Z

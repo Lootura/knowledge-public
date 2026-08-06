@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-02T09:53:47.705Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros",
+      "summary": "El Govern de Salvador Illa (PSC) ha gastado más de 210.000 euros en cuatro «jornadas de trabajo», según su propia definición, fuera del Palau de la Generalitat,...",
+      "date": "2026-08-06"
+    },
     {
       "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
       "summary": "Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.",
@@ -50,6 +55,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros",
+      "url": "https://amp.elmundo.es/cataluna/2026/08/06/6a738d3be4d4d85a5b8b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T00:08:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

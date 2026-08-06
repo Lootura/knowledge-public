@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
 
 La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
+
+Date: 2026-08-05
+
+### Los mejores del mundo pasan por Pagola
+
+El evento Copenhagen Open es un referente de la cultura skater y el martes hizo una parada en el skatepark de Aiete en su gira por Euskadi y el sur de Francia.
 
 Date: 2026-08-05
 
@@ -62,12 +68,7 @@ Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desd
 
 Date: 2026-08-02
 
-### El Euskaltel-Euskadi hace oficial el regreso de Mikel Landa por dos temporadas: «Significa cerrar un ciclo»
-
-«Me hice profesional gracias a esta estructura y regresar aquí en mi etapa de madurez es algo francamente significativo a nivel personal», reconoce el ciclista alavés.
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [Los mejores del mundo pasan por Pagola](https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com) — 2026-08-05T22:13:42.000Z
 - [Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»](https://www.diariovasco.com/politica/euskadi--menores-ceuta-migrantes-20260805125751-nt_amp.html?utm_source=lootura.com) — 2026-08-05T11:06:19.000Z

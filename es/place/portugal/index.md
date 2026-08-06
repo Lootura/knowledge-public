@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: "Es falso y engañoso"](https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com) — 2026-08-05T18:06:28.000Z
+No public source links.

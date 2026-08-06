@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.json",
   "description": "Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Erica",
     "Schwartz"
@@ -17,6 +17,11 @@
     {
       "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
       "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil. (Image credit: Finn Gomez).",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
+      "summary": "In our news wrap Wednesday, the Senate confirmed Dr. Erica Schwartz as the new director of the CDC, FAA officials are investigating an incident involving President Trump's helicopter and a commercial aircraft, Iran says it's in the final stage of drafting a deal with Oman that would reopen the Strait of Hormuz and UK a.",
       "date": "2026-08-05"
     },
     {
@@ -57,17 +62,17 @@
   ],
   "sources": [
     {
-      "title": "New CDC director is confirmed, giving agency its first permanent leader in a year",
-      "url": "https://www.nbcnews.com/health/health-news/new-cdc-director-confirmed-erica-shwartz-rcna590994?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T19:11:49.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
       "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com",
       "publishedAt": "2026-08-05T20:00:24.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:45:03.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

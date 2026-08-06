@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,11 +16,6 @@
     {
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
       "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-      "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
     },
     {
@@ -36,6 +31,11 @@
     {
       "title": "Takeaways from Tuesday's elections in Michigan and more",
       "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
+      "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
     },
     {
@@ -66,16 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Michigan progressive ‘certainly’ welcomes DNC money despite criticizing ‘corporate-funded Democrats’",
-      "url": "https://www.nbcnews.com/meet-the-press/video/michigan-progressive-certainly-welcomes-dnc-money-despite-criticizing-corporate-funded-democrats-267838021766?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T20:50:37.000Z",
+      "title": "Progressive Democrat scores narrow victory in Michigan primary",
+      "url": "https://www.nbcnews.com/nightly-news/video/progressive-democrat-scores-narrow-victory-in-michigan-primary-267842629832?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:48:24.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:08:28.000Z",
-      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Takeaways from Tuesday's elections in Michigan and more",
@@ -102,5 +96,5 @@
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

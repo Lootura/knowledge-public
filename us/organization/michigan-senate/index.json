@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.json",
   "description": "Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Abdul El-Sayed wins Michigan Senate primary — a major victory for progressives",
+      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T13:57:07.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
   "evidenceCount": 0
 }

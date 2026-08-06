@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
+      "summary": "El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
       "summary": "El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.",
@@ -42,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: \"Es falso y engañoso\"",
-      "url": "https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:06:28.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
+      "url": "https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:33:02.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 1

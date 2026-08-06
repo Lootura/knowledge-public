@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
+      "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researc.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Nurse-led initiative reduces unplanned extubations",
       "summary": "A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).",
@@ -69,6 +74,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
+      "url": "https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:40:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

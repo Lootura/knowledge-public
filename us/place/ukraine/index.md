@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.
+
+Date: 2026-08-06
 
 ### Alarming video shows Russian drone chasing Ukrainian man before exploding
 
@@ -17,6 +23,18 @@ Date: 2026-08-05
 ### Ukraine says missile interceptors may have saved lives in Russian attack
 
 At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-05
+
+### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
+
+To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
+
+Date: 2026-08-05
+
+### Russian missile attacks on Kyiv expose weakness in Ukraine's air defense
+
+A massive Russian missile attack killed nearly two dozen people in Ukraine overnight. Such strikes have become almost routine this summer as Moscow looks to exploit a critical air defense shortage in Ukraine. U.S.-made Patriots are the only air defense weapon capable of shooting down a Russian ballistic missile. Stepha.
 
 Date: 2026-08-05
 
@@ -50,26 +68,10 @@ Russia and Ukraine are producing ever larger numbers of innovative aerial weapon
 
 Date: 2026-08-05
 
-### Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses
-
-At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.
-
-Date: 2026-08-05
-
-### Russian missile and drone barrage in Ukrainian capital region kills 17
-
-Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. (Image credit: Dan Bashakov).
-
-Date: 2026-08-05
-
-### Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities
-
-Air raid alerts last for more than an hour as Moscow inflicts another heavy bombardment on Ukraine’s capital Russian strikes in and around Kyiv killed at least 14 people, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15. Air raid alerts lasted for more than a.
-
-Date: 2026-08-05
-
 ## Sources
 
 - [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
 - [Ukraine says missile interceptors may have saved lives in Russian attack](https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com) — 2026-08-05T16:18:42.000Z
-- [Kyiv residents face attacks with fewer defenses overhead](https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead?utm_source=lootura.com) — 2026-08-05T20:23:00.000Z
+- [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z
+- [Russian missile attacks on Kyiv expose weakness in Ukraine's air defense](https://www.pbs.org/newshour/show/russian-missile-attacks-on-kyiv-expose-weakness-in-ukraines-air-defense?utm_source=lootura.com) — 2026-08-05T22:45:17.000Z
+- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com) — 2026-08-06T02:00:35.000Z

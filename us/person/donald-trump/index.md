@@ -3,26 +3,20 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
+### House candidate wins primary despite ending campaign, beating Trump endorsee
+
+Thomas Smith won Michigan's 8th District GOP primary on Tuesday — even though he had suspended his campaign in mid-July. Even more surprisingly: He defeated a Trump-endorsed candidate.
+
+Date: 2026-08-06
+
 ### John James wins Michigan Republican gubernatorial primary, CBS News projects
 
 U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.
-
-Date: 2026-08-05
-
-### Inside the Oval Office Showdown Between Trump and Jeanine Pirro
-
-Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.
-
-Date: 2026-08-05
-
-### Progressives see biggest win yet in Michigan, while Trump flexes power over GOP
-
-Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).
 
 Date: 2026-08-05
 
@@ -44,12 +38,6 @@ The move brings the Democratic Congressional Campaign Committee's list of target
 
 Date: 2026-08-05
 
-### Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks
-
-President Trump told reporters "a lot of progress had been made" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.
-
-Date: 2026-08-05
-
 ### How Trump made an estimated $2.2 billion during the first year of his second term
 
 New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.
@@ -68,15 +56,27 @@ President Donald Trump’s most vocal opponents on the right were sowing the see
 
 Date: 2026-08-05
 
+### Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More
+
+President Trump’s goal of building a “golden fleet” of 15 battleships could cost $275 billion, according to a government estimate.
+
+Date: 2026-08-05
+
+### Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign
+
+Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.
+
+Date: 2026-08-05
+
 ## Sources
 
 - [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
 - [John James wins Michigan Republican gubernatorial primary, CBS News projects](https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/?utm_source=lootura.com) — 2026-08-05T16:20:09.000Z
-- [Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks](https://www.cbsnews.com/video/trump-claims-strait-of-hormuz-deal-could-happen-today-as-iran-and-oman-engage-in-talks/?utm_source=lootura.com) — 2026-08-05T19:18:01.000Z
-- [Progressives see biggest win yet in Michigan, while Trump flexes power over GOP](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com) — 2026-08-05T10:08:28.000Z
+- [House candidate wins primary despite ending campaign, beating Trump endorsee](https://www.cbsnews.com/news/thomas-smith-dropped-out-wins-michigan-house-seat-defeats-trump-opponent/?utm_source=lootura.com) — 2026-08-06T00:15:00.000Z
 - [How Trump made an estimated $2.2 billion during the first year of his second term](https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term?utm_source=lootura.com) — 2026-08-05T17:41:17.000Z
 - [FAA is investigating why a plane was allowed to take off as Trump's helicopter approached](https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com) — 2026-08-05T18:11:23.000Z
 - [Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday](https://www.pbs.org/newshour/world/trump-says-deal-to-reopen-the-strait-of-hormuz-could-come-as-early-as-wednesday?utm_source=lootura.com) — 2026-08-05T16:20:30.000Z
 - [Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case](https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case?utm_source=lootura.com) — 2026-08-05T17:19:27.000Z
+- [AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents](https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com) — 2026-08-05T21:55:35.000Z
 - [House Democrats just added 12 'safe' Trump districts to their midterm election target list](https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com) — 2026-08-05T17:02:45.000Z
-- [Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement](https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com) — 2026-08-05T18:34:03.000Z
+- [Tennessee secretary of state on redistricting, election security and low voter turnout](https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com) — 2026-08-05T22:35:49.000Z

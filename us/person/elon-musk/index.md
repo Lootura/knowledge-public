@@ -3,7 +3,7 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T17:26:49.335Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Discovered by Atlas
 
 Elon Musk first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-05
+
+### X product chief Nikita Bier is leaving after one year
+
+X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that "it's time to pass the torch and demote myself to my natural state: a poster." He shared the update just over a month after celebrating his one-year anniversary on the job , and just weeks after Elon Musk's comb.
 
 Date: 2026-08-05
 
@@ -34,4 +40,5 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead?utm_source=lootura.com) — 2026-08-06T00:25:10.000Z
+- [X product chief Nikita Bier is leaving after one year](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving?utm_source=lootura.com) — 2026-08-05T22:19:55.000Z

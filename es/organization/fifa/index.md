@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"
+
+El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.
+
+Date: 2026-08-05
 
 ### El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»
 
@@ -62,12 +68,7 @@ FIFA first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-08
 
-### FIFA ruling drew European pushback
-
-No han acabado los festejos —y troleos— por la paliza que los Diablos Rojos le dieron a Estados Unidos pese a la interferencia de Donald Trump ante la FIFA para lograr que pudiera jugar su delantero estrella, Folarin Balogun, y Bélgica ya anda calentando motores ante el próximo desafío, su cara a cara con La Roja este.
-
-Date: 2026-07-08
-
 ## Fuentes
 
-- [La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: "Es falso y engañoso"](https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com) — 2026-08-05T18:06:28.000Z
+- [Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió](https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com) — 2026-08-05T05:59:05.000Z
+- [Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"](https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com) — 2026-08-05T19:33:02.000Z

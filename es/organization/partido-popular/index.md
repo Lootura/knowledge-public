@@ -3,20 +3,38 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
+### El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta
 
-La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
+La portavoz del PP en el Senado, Alicia García, ha solicitado que la Cámara Alta habilite el mes de agosto para celebrar varias comisiones parlamentarias con el fin de abordar la crisis migratoria registrada en Ceuta y exigir explicaciones al Gobierno por la entrada irregular de más de 70.000 inmigrantes en la ciudad a.
 
-Date: 2026-08-05
+Date: 2026-08-06
+
+### El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios literarios
+
+El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios y estará en las mismas 5 modalidades que el catalán.
+
+Date: 2026-08-06
 
 ### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
 
 La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
+
+Date: 2026-08-05
+
+### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
+
+La "capacidad ordinaria" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una "situación de contingencia migratoria...
+
+Date: 2026-08-05
+
+### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
+
+La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
 
 Date: 2026-08-05
 
@@ -50,25 +68,9 @@ La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y 
 
 Date: 2026-08-05
 
-### El Gobierno reclama a las autonomías "solidaridad" a en el reparto de los menores que entraron a la ciudad
-
-El vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo , ha confiado este miércoles en no entrar en un conflicto judicial con el PP por una hipotética negativa de sus comunidades a acoger menores inmigrantes procedentes de Ceuta, actitud que ha achacado al temor a romper sus pactos con Vox, y ha a.
-
-Date: 2026-08-05
-
-### El presidente de Ceuta: "Vamos a seguir protegiendo al menor, pero estamos viviendo una situación absolutamente límite"
-
-El presidente de Ceuta, Juan Jesús Vivas (PP), ha pedido este miércoles "socorro" y "auxilio" al "resto de España a través de quien tiene las capacidades ejecutivas, que es el Gobierno de la Nación", ante la situación "absolutamente límite" que vive la ciudad autónoma tras la entrada de miles de migrantes. Y sobre la s.
-
-Date: 2026-08-05
-
-### El PP se enreda con la acogida de menores: dice ahora que "cumplirán la ley" mientras varias comunidades en las que gobiernan con Vox se oponen
-
-Alma Ezcurra matiza que el reparto en caso de producirse tendrá que ser "justo y con el Gobierno asumiendo la responsabilidad de sus propios actos" mientras que desde el Ministerio de Infancia recuerdan que las comunidades están en cualquier caso obligadas por ley El Gobierno de Aragón rechazará el reparto de menores m.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta](https://theobjective.com/internacional/2026-08-05/eurocamara-debate-extraordinario-crisis-ceuta/?utm_source=lootura.com) — 2026-08-05T15:22:36.000Z
+- [El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta](https://www.abc.es/espana/pp-pide-habilitar-senado-agosto-comparecencias-albares-20260805180952-nt.html?utm_source=lootura.com) — 2026-08-06T00:14:15.000Z
+- [Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"](https://amp.elmundo.es/espana/2026/08/05/6a736826fc6c831a128b458c.html?utm_source=lootura.com) — 2026-08-05T20:51:52.000Z
+- [El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios literarios](https://okdiario.com/baleares/gobierno-pp-vox-mallorca-acaba-marginacion-del-espanol-sus-premios-literarios-19129223/amp?utm_source=lootura.com) — 2026-08-06T02:00:45.000Z
 - [El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta](https://theobjective.com/espana/2026-08-05/pnv-pp-junts-reparto-menores-ceuta/?utm_source=lootura.com) — 2026-08-05T17:55:55.000Z

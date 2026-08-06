@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -86,11 +86,11 @@
   ],
   "sources": [
     {
-      "title": "New York woman learns ex-boyfriend who attacked her killed a young mother years later",
-      "url": "https://www.cbsnews.com/amp/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:00:14.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Mayor Says El-Sayed’s Win Shows He Is More Than a ‘Mini-Mamdani’",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-mamdani-michigan-election.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:38:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

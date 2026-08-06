@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.
+
+Date: 2026-08-06
 
 ### Alarming video shows Russian drone chasing Ukrainian man before exploding
 
@@ -17,6 +23,12 @@ Date: 2026-08-05
 ### Ukraine says missile interceptors may have saved lives in Russian attack
 
 At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
+
+Date: 2026-08-05
+
+### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
+
+To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
 
 Date: 2026-08-05
 
@@ -56,19 +68,9 @@ A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russ
 
 Date: 2026-08-04
 
-### Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says
-
-Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.
-
-Date: 2026-08-04
-
-### Drone hits crowded Russian beach, killing 7 people
-
-A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. Russian officials say seven people were killed and dozens were injured. Holly Williams reports.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Alarming video shows Russian drone chasing Ukrainian man before exploding](https://www.cbsnews.com/video/shocking-video-shows-russian-drone-chasing-ukrainian-man-exploding/?utm_source=lootura.com) — 2026-08-05T17:06:43.000Z
 - [Ukraine says missile interceptors may have saved lives in Russian attack](https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com) — 2026-08-05T16:18:42.000Z
+- [Retired Army colonel explains why Patriot missiles are so valuable and in short supply](https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com) — 2026-08-05T22:42:22.000Z
+- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com) — 2026-08-06T02:00:35.000Z

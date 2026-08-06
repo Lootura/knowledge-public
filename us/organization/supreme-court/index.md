@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Tennessee secretary of state on redistricting, election security and low voter turnout
+
+Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.
+
+Date: 2026-08-05
 
 ### New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court
 
@@ -62,12 +68,6 @@ Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a r
 
 Date: 2026-07-14
 
-### Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security
-
-Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Tennessee secretary of state on redistricting, election security and low voter turnout](https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com) — 2026-08-05T22:35:49.000Z

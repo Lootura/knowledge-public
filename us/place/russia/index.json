@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
@@ -22,6 +27,11 @@
     {
       "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
       "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
       "date": "2026-08-05"
     },
     {
@@ -53,16 +63,6 @@
       "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
       "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
-      "summary": "Ukraine has conducted long-range strikes targeting civilian infrastructure in Russia, and in recent weeks stepped up attacks on warehouses belonging to the Russian e-commerce giant Wildberries.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Drone hits crowded Russian beach, killing 7 people",
-      "summary": "A drone hit a packed beach in southern Russia on Monday on the Black Sea coast. Russian officials say seven people were killed and dozens were injured. Holly Williams reports.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -77,7 +77,19 @@
       "url": "https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:18:42.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "url": "https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:42:22.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T02:00:35.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

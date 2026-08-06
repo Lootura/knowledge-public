@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,11 +19,6 @@
   ],
   "changes": [
     {
-      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
       "summary": "The White House emphasized that President Trump was not in danger during the incident.",
       "date": "2026-08-05"
@@ -31,6 +26,16 @@
     {
       "title": "NATO spending pressure returned",
       "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
+      "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-08-05"
     },
     {
@@ -62,11 +67,6 @@
       "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
       "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-      "summary": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -75,12 +75,6 @@
       "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:34:54.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/progressives-another-big-primary-night-notable-exception-politics-desk-rcna591046?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T21:00:00.000Z",
-      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
@@ -92,6 +86,12 @@
       "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T16:26:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
+      "url": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:58:59.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

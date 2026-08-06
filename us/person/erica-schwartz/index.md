@@ -3,7 +3,7 @@
 > Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/person/erica-schwartz
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum
 
 Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil. (Image credit: Finn Gomez).
+
+Date: 2026-08-05
+
+### News Wrap: Senate confirms Dr. Erica Schwartz as CDC director
+
+In our news wrap Wednesday, the Senate confirmed Dr. Erica Schwartz as the new director of the CDC, FAA officials are investigating an incident involving President Trump's helicopter and a commercial aircraft, Iran says it's in the final stage of drafting a deal with Oman that would reopen the Strait of Hormuz and UK a.
 
 Date: 2026-08-05
 
@@ -58,5 +64,5 @@ Date: 2026-07-15
 
 ## Sources
 
-- [New CDC director is confirmed, giving agency its first permanent leader in a year](https://www.nbcnews.com/health/health-news/new-cdc-director-confirmed-erica-shwartz-rcna590994?utm_source=lootura.com) — 2026-08-05T19:11:49.000Z
 - [Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum](https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com) — 2026-08-05T20:00:24.000Z
+- [News Wrap: Senate confirms Dr. Erica Schwartz as CDC director](https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director?utm_source=lootura.com) — 2026-08-05T22:45:03.000Z

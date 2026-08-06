@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Can",
     "Dominio de Canadá",
     "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "Jódar debuta en Montreal con una remontada espectacular para batir a Moutet",
+      "summary": "Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washington el pasado fin de semana con su debut en el Masters 1000 de Canadá en Montreal. El tenista español empezó ganando, tras remontar de manera espectacular un partido que empezó perdiendo ante el francés Corentin Moutet, número 59 del mundo. Jóda.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”",
       "summary": "Christopher Anderson (Kelowna, Canadá, 56 años) es uno de los grandes iconos de la fotografía moderna, no solo por su carrera sino por su versatilidad. El canadiense se crio en Texas y su primer gran reconocimiento llegó en 1999 cuando junto al periodista Michael Finkel se subió a una barca en la que viajaban 44 haitia.",
@@ -36,6 +41,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Jódar debuta en Montreal con una remontada espectacular para batir a Moutet",
+      "url": "https://okdiario.com/deportes/jodar-debuta-montreal-remontada-espectacular-batir-moutet-19133341?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:17:44.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

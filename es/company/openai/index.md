@@ -3,20 +3,20 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
 
-### Apple denuncia a OpenAI por robo de secretos
-
-Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
-
-Date: 2026-08-05
-
 ### Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic
 
 Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.
+
+Date: 2026-08-05
+
+### Apple denuncia a OpenAI por robo de secretos
+
+Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
 
 Date: 2026-08-05
 
@@ -59,4 +59,3 @@ Date: 2026-07-15
 ## Fuentes
 
 - [Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic](https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/?utm_source=lootura.com) — 2026-08-05T19:25:00.000Z
-- [Apple denuncia a OpenAI por robo de secretos](https://www.larazon.es/economia/apple-denuncia-openai-robo-secretos_202608056a736f9b71b42a0b5dddb61e.html?utm_source=lootura.com) — 2026-08-05T17:15:07.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»
+
+El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.
+
+Date: 2026-08-06
 
 ### Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
 
@@ -62,13 +68,8 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de ll
 
 Date: 2026-08-02
 
-### La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”
-
-Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.
-
-Date: 2026-08-01
-
 ## Fuentes
 
+- [Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»](https://www.abc.es/espana/madrid/comunidad-madrid-busca-oficina-reuniones-ocho-puestos-20260805012753-nt.html?utm_source=lootura.com) — 2026-08-06T00:12:15.000Z
 - [Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”](https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com) — 2026-08-05T12:27:14.000Z
 - [La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste](https://theobjective.com/espana/madrid/2026-08-05/alicia-koplowitz-150000-euros-reconstruccion-sierra-oeste/?utm_source=lootura.com) — 2026-08-05T19:51:21.000Z

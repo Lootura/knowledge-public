@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -67,6 +67,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Irán contempla abrir un paso pero se resiste a ceder el control de Ormuz",
+      "url": "https://www.expansion.com/economia/2026/08/05/6a73872ce5fdea62448b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:57:45.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,18 +25,13 @@
   ],
   "changes": [
     {
+      "title": "House candidate wins primary despite ending campaign, beating Trump endorsee",
+      "summary": "Thomas Smith won Michigan's 8th District GOP primary on Tuesday — even though he had suspended his campaign in mid-July. Even more surprisingly: He defeated a Trump-endorsed candidate.",
+      "date": "2026-08-06"
+    },
+    {
       "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
       "summary": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-      "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
       "date": "2026-08-05"
     },
     {
@@ -55,11 +50,6 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
-      "summary": "President Trump told reporters \"a lot of progress had been made\" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
       "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
       "date": "2026-08-05"
@@ -72,6 +62,16 @@
     {
       "title": "Funding milestone detected",
       "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More",
+      "summary": "President Trump’s goal of building a “golden fleet” of 15 battleships could cost $275 billion, according to a government estimate.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
+      "summary": "Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.",
       "date": "2026-08-05"
     }
   ],
@@ -89,16 +89,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
-      "url": "https://www.cbsnews.com/video/trump-claims-strait-of-hormuz-deal-could-happen-today-as-iran-and-oman-engage-in-talks/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T19:18:01.000Z",
+      "title": "House candidate wins primary despite ending campaign, beating Trump endorsee",
+      "url": "https://www.cbsnews.com/news/thomas-smith-dropped-out-wins-michigan-house-seat-defeats-trump-opponent/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T00:15:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T10:08:28.000Z",
-      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
@@ -125,16 +119,22 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
+      "url": "https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:55:35.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
       "url": "https://www.pbs.org/newshour/politics/house-democrats-just-added-12-safe-trump-districts-to-their-midterm-election-target-list?utm_source=lootura.com",
       "publishedAt": "2026-08-05T17:02:45.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement",
-      "url": "https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:34:03.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
+      "url": "https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:35:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 15

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
+      "summary": "El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.",
+      "date": "2026-08-05"
+    },
     {
       "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
       "summary": "El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.",
@@ -63,19 +68,20 @@
       "title": "Discovered by Atlas",
       "summary": "FIFA first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-08"
-    },
-    {
-      "title": "FIFA ruling drew European pushback",
-      "summary": "No han acabado los festejos —y troleos— por la paliza que los Diablos Rojos le dieron a Estados Unidos pese a la interferencia de Donald Trump ante la FIFA para lograr que pudiera jugar su delantero estrella, Folarin Balogun, y Bélgica ya anda calentando motores ante el próximo desafío, su cara a cara con La Roja este.",
-      "date": "2026-07-08"
     }
   ],
   "sources": [
     {
-      "title": "La FIFA se pronuncia sobre la supuesta promesa de Infantino a Marruecos: \"Es falso y engañoso\"",
-      "url": "https://www.20minutos.es/deportes/futbol/fifa-sobre-supuesta-promesa-gianni-infantino-marruecos-es-falso-enganoso_7023018_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:06:28.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Las ciudades sede del Mundial de Estados Unidos reclaman millones de dólares que la FIFA les prometió",
+      "url": "https://www.diariovasco.com/deportes/futbol/mundial/ciudades-sede-mundial-estados-unidos-reclaman-millones-20260805075905-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T05:59:05.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
+      "url": "https://www.elmundo.es/deportes/futbol/2026/08/05/6a738370e85ece06188b4573.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T19:33:02.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 1

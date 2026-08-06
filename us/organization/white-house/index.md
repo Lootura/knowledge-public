@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-06T02:22:39.765Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### Progressives had another big primary night – with a notable exception: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-08-05
 
 ### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
 
@@ -23,6 +17,18 @@ Date: 2026-08-05
 ### NATO spending pressure returned
 
 At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
+
+Date: 2026-08-05
+
+### Trump Said Qatari Jet Was Destined for His Library. That May Change.
+
+A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
+
+Date: 2026-08-05
+
+### Progressives had another big primary night – with a notable exception: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-08-05
 
@@ -62,15 +68,9 @@ President Trump and other officials hope embattled GOP Rep. Max Miller exits the
 
 Date: 2026-08-04
 
-### Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race
-
-Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing](https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/?utm_source=lootura.com) — 2026-08-05T16:34:54.000Z
-- [Progressives had another big primary night – with a notable exception: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/progressives-another-big-primary-night-notable-exception-politics-desk-rcna591046?utm_source=lootura.com) — 2026-08-05T21:00:00.000Z
 - [FAA is investigating why a plane was allowed to take off as Trump's helicopter approached](https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached?utm_source=lootura.com) — 2026-08-05T18:11:23.000Z
 - [Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family](https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com) — 2026-08-05T16:26:49.000Z
+- [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com) — 2026-08-05T21:58:59.000Z

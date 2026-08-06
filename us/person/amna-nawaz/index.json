@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T10:36:14.031Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
+      "date": "2026-08-05"
+    },
     {
       "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
@@ -54,6 +59,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "url": "https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:42:22.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

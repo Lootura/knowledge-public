@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,21 +40,6 @@
       "date": "2026-08-05"
     },
     {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
-      "summary": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Missouri Voters Reject Measure to Limit Their Ballot Box Powers",
-      "summary": "The state’s conservative Legislature had put the measure on the ballot that would have enacted citizen initiatives only if they won majorities in each of Missouri’s eight U.S. House districts.",
-      "date": "2026-08-05"
-    },
-    {
       "title": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
       "summary": "The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.",
       "date": "2026-08-05"
@@ -75,23 +60,32 @@
       "date": "2026-08-05"
     },
     {
-      "title": "U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say",
-      "summary": "Three U.S. military air strikes in Yemen last year likely killed or wounded roughly 350 civilians, sources told NBC News, but the Pentagon has yet to provide a detailed account to Congress or the American public.",
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
       "date": "2026-08-05"
     },
     {
-      "title": "Takeaways from Tuesday's elections in Michigan and more",
-      "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
+      "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
+      "summary": "The head of the Justice Department praised the U.S. attorney in Washington after her tense meeting with the president.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
+      "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Why Congress Wants a Closer U.S.-Israel Defense Partnership",
+      "summary": "A proposal making its way through Congress would integrate the U.S. and Israeli defense and intelligence apparatuses more tightly. Some worry that it is a bad idea.",
       "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "Sen. Tammy Baldwin pushes Pentagon to release probe of Iranian attack that killed 6 U.S. troops in Kuwait",
-      "url": "https://www.cbsnews.com/news/tammy-baldwin-pentagon-iranian-attack-kuwait-six-u-s-troops/?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:00:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "McKinney defeats Thanedar in Michigan's 13th Congressional District primary",
       "url": "https://www.cbsnews.com/news/shri-thanedar-donavan-mckinney-michigan-13th-congressional-august-primary-election/?utm_source=lootura.com",
@@ -105,15 +99,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. airstrikes killed or wounded hundreds of civilians in Yemen last year, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/us-airstrikes-killed-wounded-hundreds-civilians-yemen-last-year-source-rcna590792?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T20:34:19.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Takeaways from Tuesday's elections in Michigan and more",
       "url": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more?utm_source=lootura.com",
       "publishedAt": "2026-08-05T18:55:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "How the Battle of the Little Bighorn reshaped U.S. policy toward Native Americans",
+      "url": "https://www.pbs.org/newshour/show/how-the-battle-of-the-little-bighorn-reshaped-u-s-policy-toward-indigenous-people?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:25:15.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -123,29 +117,35 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Little-known protein helps the body restrain scar-forming signals",
-      "url": "https://phys.org/news/2026-08-protein-body-restrain-scar.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T21:00:05.000Z",
+      "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
+      "url": "https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T21:55:35.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Russian missile attacks on Kyiv expose weakness in Ukraine's air defense",
+      "url": "https://www.pbs.org/newshour/show/russian-missile-attacks-on-kyiv-expose-weakness-in-ukraines-air-defense?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:45:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
+      "url": "https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:40:01.000Z",
       "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T01:47:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T05:03:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-08-05T17:35:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T18:00:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 14
 }

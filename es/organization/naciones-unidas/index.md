@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas](https://es.wikipedia.org/wiki/Resoluci%C3%B3n_1936_del_Consejo_de_Seguridad_de_las_Naciones_Unidas?utm_source=lootura.com) — 2026-08-05T04:00:00.000Z
+No public source links.

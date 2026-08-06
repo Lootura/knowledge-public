@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T21:04:44.681Z",
+  "updatedAt": "2026-08-06T02:22:17.328Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
+      "summary": "El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”",
       "summary": "Isabel Díaz Ayuso ha dicho este miércoles que la Consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.",
@@ -59,14 +64,15 @@
       "title": "Ayuso dice que lo ocurrido en Ceuta es \"una prueba\" de Marruecos para la siguiente: \"No podemos permitir que la invadan\"",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , se ha metido de lleno este domingo en el tema de la semana: la crisis migratoria de Ceuta tras la entrada masiva desde Marruecos este jueves, a la vez que ha denunciado el \"caos continuo\" que vive España. La líder madrileña ha denunciado este domingo la \"inva.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "La acumulación de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
-      "summary": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”. La pareja de Ayuso pone también a la venta el ático de encima del piso en el que vive con la presidenta Puede que Isabel Díaz Ayuso tenga una r.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
+    {
+      "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
+      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-busca-oficina-reuniones-ocho-puestos-20260805012753-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T00:12:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”",
       "url": "https://elpais.com/espana/madrid/2026-08-05/ayuso-dice-que-es-su-consejero-de-presidencia-quien-debe-dar-explicaciones-sobre-la-compra-del-atico-yo-no-tengo-la-menor-idea.html?utm_source=lootura.com",
@@ -80,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

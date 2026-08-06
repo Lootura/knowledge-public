@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T17:26:49.335Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -45,6 +45,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Meta says its AI model hacked into another company during testing",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T01:27:44.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-06T02:22:17.328Z
 - Canonical: https://atlas.lootura.com/es/organization/policia-nacional
 
 ## Cambios recientes
+
+### El comando que perpetró el ‘vuelco’ de droga en Palma iba con máscaras de mono y subfusiles de asalto de última generación
+
+Las pesquisas desarrolladas por el Grupo de Atracos y la Unidad de Drogas y Crimen Organizado (Udyco) de la Policía Nacional han permitido reconstruir con mayor precisión el violento asalto perpetrado durante la madrugada del pasado sábado. Según fuentes próximas a la investigación a las que ha tenido acceso OKBALEARES.
+
+Date: 2026-08-06
+
+### Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga
+
+Una mujer de 44 años ha sido presuntamente asesinada este miércoles por la tarde en un centro comercial de Murcia , tras ser acuchillada por su pareja , que se ha dado a la fuga y está siendo buscada por la Policía Nacional , han informado a EFE fuentes de la Delegación del Gobierno en la Región de Murcia y del 112. La.
+
+Date: 2026-08-05
 
 ### Una mujer muere acuchillada a manos de su pareja en Murcia
 
@@ -17,12 +29,6 @@ Date: 2026-08-05
 ### Asesinada una mujer de 44 años por su pareja en un centro comercial de Murcia
 
 Una mujer ha sido asesinada la tarde de este miércoles en un centro comercial de Murcia tras ser presuntamente acuchillada por su pareja. El sospechoso se ha dado a la fuga y está siendo buscado por la Policía Nacional, según han informado fuentes cercanas a la investigación.Los hechos han ocurrido poco antes de las 17.
-
-Date: 2026-08-05
-
-### Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga
-
-Una mujer de 44 años ha sido presuntamente asesinada este miércoles por la tarde en un centro comercial de Murcia , tras ser acuchillada por su pareja , que se ha dado a la fuga y está siendo buscada por la Policía Nacional , han informado a EFE fuentes de la Delegación del Gobierno en la Región de Murcia y del 112. La.
 
 Date: 2026-08-05
 
@@ -62,14 +68,7 @@ Date: 2026-08-04
 
 Date: 2026-08-04
 
-### Un documento de Interior apunta la próxima instalación de la barrera marítima antimigración también en Melilla
-
-La número dos del Ministerio del Interior, Aina Calvo, secretaria de Estado de Seguridad, ha impartido órdenes por escrito a la Policía Nacional y a la Guardia Civil para que comiencen a aplicar de manera inmediata las devoluciones en caliente a todos los migrantes que intenten llegar a nado a Ceuta superando la nueva.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Una mujer muere acuchillada a manos de su pareja en Murcia](https://www.lavanguardia.com/vida/20260805/11608627/mujer-muere-acuchillada-manos-presuntamente-pareja-murcia.html?utm_source=lootura.com) — 2026-08-05T18:53:59.000Z
-- [Asesinada una mujer de 44 años por su pareja en un centro comercial de Murcia](https://okdiario.com/sucesos/asesinada-mujer-44-anos-pareja-centro-comercial-murcia-19133094/amp?utm_source=lootura.com) — 2026-08-05T19:57:15.000Z
+- [El comando que perpetró el ‘vuelco’ de droga en Palma iba con máscaras de mono y subfusiles de asalto de última generación](https://okdiario.com/baleares/comando-que-perpetro-vuelco-droga-palma-iba-mascaras-mono-subfusiles-asalto-ultima-generacion-19129753?utm_source=lootura.com) — 2026-08-06T02:00:28.000Z
 - [Un hombre mata a su pareja a cuchilladas en Murcia y se da a la fuga](https://theobjective.com/sociedad/suceso/2026-08-05/hombre-mata-pareja-cuchilladas-murcia/?utm_source=lootura.com) — 2026-08-05T19:24:32.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-06T02:22:39.765Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
+      "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
+      "date": "2026-08-05"
+    },
     {
       "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
       "summary": "The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.",
@@ -60,13 +65,15 @@
       "title": "Funding milestone detected",
       "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
-      "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
+      "url": "https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout?utm_source=lootura.com",
+      "publishedAt": "2026-08-05T22:35:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html?utm_source=lootura.com) — 2026-08-05T19:46:49.000Z
+No public source links.
