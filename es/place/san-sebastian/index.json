@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -77,13 +77,7 @@
       "url": "https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:03:20.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
-      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T17:59:06.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

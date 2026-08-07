@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
-    "Can",
     "CA",
-    "CAN"
+    "CAN",
+    "Can"
   ],
   "changes": [
+    {
+      "title": "Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership",
+      "summary": "Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.",
+      "date": "2026-08-07"
+    },
     {
       "title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
       "summary": "Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.",
@@ -59,19 +64,20 @@
       "title": "Ontario Premier Doug Ford says \"we didn't start this trade war\" as Trump slaps Canada with tariffs",
       "summary": "Ontario Premier Doug Ford spoke with CBS News senior White House and political correspondent Ed O'Keefe about the upcoming opening of the Gordie Howe Bridge and President Trump's new tariffs on Canada. \"We didn't start this trade war. President Trump decided to go after his close ally and friend, his number one custome.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Canada's Doug Ford on why country needs to \"fight back\" against Trump trade war",
-      "summary": "\"We didn't start this war,\" Ontario Premier Doug Ford told CBS News on \"The Takeout.\".",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
-      "url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:45:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Climate change created conditions for Canada fires, scientists say, as Trump blames mismanagement",
+      "url": "https://www.pbs.org/newshour/world/climate-change-created-conditions-for-canada-fires-scientists-say-as-trump-blames-mismanagement?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T17:08:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership",
+      "url": "https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T17:47:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
+
+Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
+
+Date: 2026-08-07
 
 ### El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU
 
@@ -62,12 +68,6 @@ Sistema de la Reserva Federal first entered the public knowledge record with sou
 
 Date: 2026-07-15
 
-### Las Bolsas recortan posiciones con el petróleo al alza por tercer día consecutivo
-
-La cautela se impone en el mercado por la subida de los precios del petróleo por tercer día consecutivo. El barril de Brent aumenta más del 1% hasta acercarse a los 86 dólares el barril. Los operadores reducen sus apuestas sobre subidas de tipos de interés por parte de la Reserva Federal, tras unos datos de inflación a.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z

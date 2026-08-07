@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,11 +19,6 @@
     {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "The State of Iran’s Three Key Nuclear Sites",
-      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
       "date": "2026-08-07"
     },
     {
@@ -42,6 +37,21 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Houthis Claim Attack on Yemeni Military Camp",
+      "summary": "Recent escalating tensions between the Iran-backed group and the Yemeni government have prompted fears that a truce in place since 2022 is nearing collapse.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "The State of Iran’s Three Key Nuclear Sites",
+      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Is the Iran war at risk of becoming a quagmire?",
       "summary": "NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.",
       "date": "2026-08-07"
@@ -54,16 +64,6 @@
     {
       "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
       "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz. (Image credit: Aaron Schwartz).",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
-      "summary": "US president’s complaint industry ‘making too much money’ comes after his policies boosted corporations Donald Trump’s statement that oil companies have made “too much money” from the Iran war has angered environmentalists, who say that his policies were designed to benefit those very corporations. If he really believe.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
       "date": "2026-08-07"
     }
   ],
@@ -93,17 +93,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:20:52.000Z",
+      "title": "Houthis Claim Attack on Yemeni Military Camp",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:19:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:42:33.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "The State of Iran’s Three Key Nuclear Sites",
-      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T13:18:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:56:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

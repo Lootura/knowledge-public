@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal
+
+El tenis español sigue imparable en Montreal, donde Dani Mérida también se ha clasificado para octavos de final. Lo ha hecho tras pasar por encima del estadounidense Alex Michelsen, al que ha ganado en tres sets por 6-4, 6-7 y 6-1. De esta manera, se mete por primera vez entre los 16 mejores de un Masters 1000. Espera.
+
+Date: 2026-08-07
 
 ### Jódar debuta en Montreal con una remontada espectacular para batir a Moutet
 
@@ -40,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal](https://okdiario.com/deportes/jodar-no-esta-solo-canada-dani-merida-tumba-michelsen-tambien-mete-octavos-montreal-19146339?utm_source=lootura.com) — 2026-08-07T18:58:43.000Z

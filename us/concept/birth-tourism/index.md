@@ -3,7 +3,7 @@
 > Follow Birth tourism, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/concept/birth-tourism
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-08-07
 
 ### Discovered by Atlas
 
-Birth Tourism first entered the public knowledge record with source-backed evidence.
+Birth tourism first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-07
 

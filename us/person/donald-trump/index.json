@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
-      "summary": "Two-term Rep. Andy Ogles lost the Republican primary for his Tennessee House seat, the Associated Press projects, despite securing an endorsement from President Trump.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
       "date": "2026-08-07"
@@ -42,16 +37,6 @@
     {
       "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
       "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Trump's pick to lead the Justice Department.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Appeals court blocks construction of Trump's White House ballroom",
-      "summary": "A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.",
       "date": "2026-08-07"
     },
     {
@@ -73,19 +58,28 @@
       "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
       "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Donald Trump's pick to lead the Justice Department.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
+      "summary": "President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
+      "summary": "Former Tennessee Agriculture Commissioner Charlie Hatcher defeated U.S. Rep. Andy Ogles in a Republican primary Thursday for a significantly reshaped congressional district — marking a rare rejection of a candidate endorsed by President Donald Trump.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
-      "url": "https://www.cbsnews.com/news/trump-endorsed-rep-andy-ogles-loses-gop-primary-in-tennessee-charlie-hatcher/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:29:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Appeals court blocks construction of Trump's White House ballroom",
-      "url": "https://www.cbsnews.com/video/appeals-court-blocks-construction-of-trumps-white-house-ballroom/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:41:00.000Z",
+      "title": "Trump announces $180 million to boost mining education",
+      "url": "https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:14:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -101,41 +95,47 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+      "url": "https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:06:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:35:35.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-08-07T08:41:55.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "Redistricting played a part in Tennessee's primary election results",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924830/redistricting-played-a-part-in-tennessees-primary-election-results?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:24:47.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump looks for a breakthrough on the Strait of Hormuz but is feeling the pressure",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5910857/trump-looks-for-a-breakthrough-on-the-strait-of-hormuz-but-is-feeling-the-pressure?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:24:43.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out",
+      "url": "https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T17:36:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "url": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:10:06.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:39:59.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
-      "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:01:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
-      "url": "https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:19:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
-      "url": "https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:45:32.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 23
 }

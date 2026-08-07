@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana
+
+Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.
+
+Date: 2026-08-07
 
 ### Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"
 
@@ -62,12 +68,6 @@ La Agencia Estatal de Meteorología (AEMET) ha activado este martes el aviso nar
 
 Date: 2026-07-21
 
-### Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros
-
-El portavoz de Vivienda de Sumar en el Congreso , Alberto Ibáñez , ha cargado este martes contra el futbolista de la Selección Española, Ferran Torres , al que ha acusado de «especular» con la vivienda en la Comunidad Valenciana a través de una sociedad de inversión inmobiliaria, que ha tildado abiertamente de « fondo.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"](https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T12:56:29.000Z
+- [Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana](https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com) — 2026-08-07T19:56:07.000Z

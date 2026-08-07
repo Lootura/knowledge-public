@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact](https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com) — 2026-08-07T16:29:24.000Z
+No public source links.

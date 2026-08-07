@@ -8,15 +8,35 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "Federation of Russia",
-    "Russian Federation",
+    "RF",
     "RU",
     "RUS",
-    "RF"
+    "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
+      "date": "2026-08-07"
+    },
     {
       "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
@@ -46,28 +66,33 @@
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
-      "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?",
-      "summary": "Smoke rises after Ukrainian strikes on a Wildberries warehouse in St. Petersburg, Russia, on July 24, 2026. —AFP—Getty Images Ukraine hit at least two warehouses belonging to Russia ’s e-commerce giant Wildberries in overnight strikes on Monday, adding to a series of drone attacks that have targeted the online retailer.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "How the Ukraine War Became a Fight for the Skies",
-      "summary": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T17:33:40.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+      "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:05:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:42:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:52:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 4
 }

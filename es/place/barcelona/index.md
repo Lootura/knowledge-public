@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)
-
-Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.
-
-Date: 2026-08-07
 
 ### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
 
@@ -29,6 +23,12 @@ Date: 2026-08-07
 ### Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán
 
 El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.
+
+Date: 2026-08-07
+
+### Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)
+
+Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.
 
 Date: 2026-08-07
 
@@ -70,8 +70,6 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Pedro Ruiz, 78 años, sobre su infancia: «Mi padre era chófer y mi madre trabajaba 20 horas al día en una tienda»](https://www.abc.es/gente/pedro-ruiz-anos-sobre-infancia-padre-era-20260807111045-nt.html?utm_source=lootura.com) — 2026-08-07T15:09:18.000Z
-- [Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)](https://www.elconfidencial.com/espana/cataluna/2026-08-07/robo-violencia-menores-olesa-barcelona-1tna-1tps_4402711/?utm_source=lootura.com) — 2026-08-07T12:04:00.000Z
 - [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
 - [El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona](https://okdiario.com/deportes/balon-oro-saca-lado-mas-cule-colocan-rodrigo-ya-barcelona-19145134?utm_source=lootura.com) — 2026-08-07T16:11:56.000Z
 - [Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán](https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com) — 2026-08-07T15:20:44.000Z

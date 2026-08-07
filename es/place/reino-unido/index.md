@@ -3,16 +3,10 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
-
-### Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística
-
-Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.
-
-Date: 2026-08-07
 
 ### “Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales
 
@@ -23,6 +17,12 @@ Date: 2026-08-07
 ### "He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra
 
 El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un vídeo que su primer sueldo en Reino Unido fue de 1.800 libras (unos 2.000 euros al cambio actual) en un puesto donde apenas hablaba el idioma y no contaba con experiencia en el sector.
+
+Date: 2026-08-07
+
+### Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística
+
+Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.
 
 Date: 2026-08-07
 
@@ -70,6 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística](https://cincodias.elpais.com/companias/2026-08-07/aldi-y-lidl-ya-no-podran-alejar-a-sus-competidores-reino-unido-endurecera-la-normativa-urbanistica.html?utm_source=lootura.com) — 2026-08-07T11:22:28.000Z
 - [“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales](https://elpais.com/clima-y-medio-ambiente/2026-08-07/hyde-park-parece-el-desierto-de-dubai-la-sequia-transforma-los-verdes-parques-de-londres-en-secarrales.html?utm_source=lootura.com) — 2026-08-07T16:27:44.000Z
 - ["He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra](https://www.larazon.es/sociedad/estado-10-anos-trabajando-aqui-ganado-2000-euros-critica-espanol-diferencia-salarial-espana-inglaterra-b50m_202608076a760c3a71b42a0b5de23e9f.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T16:50:25.000Z

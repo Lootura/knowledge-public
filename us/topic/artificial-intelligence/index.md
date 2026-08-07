@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-07
 ### Operational Tropical Cyclone Forecasting with AI
 
 Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.
+
+Date: 2026-08-07
+
+### Watching Roku’s AI channel is like eating from a trough
+
+The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constan.
 
 Date: 2026-08-07
 
@@ -62,16 +68,8 @@ Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The tec
 
 Date: 2026-08-06
 
-### You can now ask Google Maps’ AI to order food for you
-
-The Ask Maps updates aim to “make it easier than ever to get more done.” | Image: Google The AI-powered " Ask Maps " tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. The.
-
-Date: 2026-08-06
-
 ## Sources
 
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
-- [AI may respond differently to bosses and subordinates](https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety?utm_source=lootura.com) — 2026-08-07T14:00:00.000Z
-- [AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026](https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026?utm_source=lootura.com) — 2026-08-07T16:00:21.000Z
-- [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/?utm_source=lootura.com) — 2026-08-07T14:09:26.000Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T20:38:03.786Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T20:38:03.786Z
+- [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel?utm_source=lootura.com) — 2026-08-07T18:59:46.000Z

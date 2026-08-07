@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,13 +17,33 @@
   ],
   "changes": [
     {
-      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
-      "summary": "El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.",
+      "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
+      "summary": "Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.",
       "date": "2026-08-07"
     },
     {
-      "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
-      "summary": "Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.",
+      "title": "La oposición recibe a De la Espriella como una «amenaza a la democracia»",
+      "summary": "El nuevo presidente sella la relación de Colombia con Israel, rota durante el mandato de Petro, antes de tomar posesión de su cargo.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
+      "summary": "El nuevo presidente decide pronunciar su primer discurso como jefe de Estado en el Batallón Pichincha de Cali en lugar de en Bogotá Leer.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
+      "summary": "Colombia vive este viernes el traspaso de mandato presidencial entre Gustavo Petro y Abelardo de la Espriella . Con los puentes rotos entre el Gobierno saliente y el entrante, el abogado ultraderechista de 48 años, vencedor del senador de izquierda Iván Cepeda en las elecciones del 21 de junio pasado, recibe la banda p.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Colombia abre la era De la Espriella con una investidura histórica en Cali",
+      "summary": "Colombia vive una jornada histórica con la investidura de Abelardo de la Espriella en la Arena de la Universidad Santiago de Cali, en un traspaso de poder que por primera vez se celebra fuera de Bogotá. Antes de la ceremonia, el presidente electo ha recibido en Cali a los mandatarios y delegaciones invitadas: se reunió.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
+      "summary": "El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.",
       "date": "2026-08-07"
     },
     {
@@ -45,36 +65,39 @@
       "title": "El \"sombrío legado\" que deja Petro en Colombia",
       "summary": "Los escándalos de corrupción se han disparado en el mandato que hoy concluye del presidente izquierdistas. Y, lejos de la 'Paz Total', los grupos armados siguen extendiendo sus dominios Leer.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
-      "summary": "Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Petro se despide de la presidencia de Colombia con un peregrinaje a una Cuba en ruinas",
-      "summary": "A escasos días de abandonar la Casa de Nariño y de entregar la presidencia el próximo 7 de agosto, el mandatario colombiano Gustavo Petro ha decidido cerrar su mandato con una muestra más de su inclinación ideológica. Su último viaje de Estado lo ha realizado a La Habana para reunirse con la cúpula dictatorial, en lo q.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
-      "url": "https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:05:56.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La oposición recibe a De la Espriella como una «amenaza a la democracia»",
+      "url": "https://www.elcorreo.com/internacional/america-latina/oposicion-recibe-espriella-amenaza-democracia-20260807215317-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:53:18.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
       "url": "https://www.elmundo.es/internacional/2026/08/07/6a74ae0ee4d4d8153e8b458f.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T13:37:33.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
+      "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:05:51.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
+      "url": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:10:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Colombia abre la era De la Espriella con una investidura histórica en Cali",
+      "url": "https://www.larazon.es/internacional/colombia-abre-era-espriella-investidura-historica-cali_202608076a763268a5690f04736d3233.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:30:48.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

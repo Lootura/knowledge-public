@@ -3,7 +3,7 @@
 > Follow Lisa Murkowski, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/person/lisa-murkowski
 
 ## Recent changes

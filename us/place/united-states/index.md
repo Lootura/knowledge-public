@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -17,12 +17,6 @@ Date: 2026-08-07
 ### When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'
 
 Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They've also raised questions about policies and priorities amid an intense wildfire season. (Image credit: Gretel Daugherty via AP).
-
-Date: 2026-08-07
-
-### Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers
-
-The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.
 
 Date: 2026-08-07
 
@@ -56,26 +50,33 @@ As President Trump struggles to extricate the United States from the war in Iran
 
 Date: 2026-08-07
 
-### Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee
+### Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?
 
-Sen. Bill Cassidy at the U.S. Capitol in Washington, D.C. on July 23, 2026. —Nathan Posner—Getty Images Republican Sen. Bill Cassidy of Louisiana announced Friday he'll vote in favor of confirming Todd Blanche for Attorney General, offering a lifeline to President Donald Trump ’s nominee. In an address on the Senate fl.
+Texas Republican Sen. Ted Cruz says the U.S. should consider arming Iranian protesters so they can rise up against the regime. Alex Vatanka, a senior fellow at the Middle East Institute, reacts to the remarks.
 
 Date: 2026-08-07
 
-### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
+### Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out
 
-Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
+Scott Colom is a Black man and a Democrat running for the U.S. Senate in Mississippi, a state traditionally led by white conservatives. Colom aims to unseat Republican Sen. Cindy Hyde-Smith, a white supporter of President Donald Trump who is seeking her second term.
+
+Date: 2026-08-07
+
+### Appeals court rules Trump can't build White House ballroom without congressional approval
+
+Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
 
 Date: 2026-08-07
 
 ## Sources
 
+- [Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?](https://www.cbsnews.com/video/ted-cruz-says-us-should-arm-iranian-protesters-for-an-uprising-is-that-plan-realistic/?utm_source=lootura.com) — 2026-08-07T18:56:00.000Z
 - [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T16:19:17.000Z
 - [When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'](https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season?utm_source=lootura.com) — 2026-08-07T09:00:00.000Z
 - [Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market](https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve?utm_source=lootura.com) — 2026-08-07T13:10:10.000Z
+- [Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out](https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out?utm_source=lootura.com) — 2026-08-07T17:36:45.000Z
 - [Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat](https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com) — 2026-08-07T14:45:32.000Z
 - [U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%](https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com) — 2026-08-07T13:29:15.000Z
+- [Appeals court rules Trump can't build White House ballroom without congressional approval](https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com) — 2026-08-07T18:34:25.000Z
 - [Why Mexican avocado exports to the U.S. have once again been stopped](https://www.pbs.org/newshour/world/why-mexican-avocado-exports-to-the-u-s-have-once-again-been-stopped?utm_source=lootura.com) — 2026-08-07T15:41:55.000Z
-- [Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com) — 2026-08-07T16:20:52.000Z
-- [Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers](https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html?utm_source=lootura.com) — 2026-08-07T16:13:49.000Z
-- [Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee](https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/?utm_source=lootura.com) — 2026-08-07T13:36:05.000Z
+- [Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership](https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com) — 2026-08-07T17:47:42.000Z

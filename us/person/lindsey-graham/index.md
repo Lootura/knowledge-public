@@ -3,10 +3,22 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Senate passes Russia sanctions bill that was long championed by Lindsey Graham
+
+The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).
+
+Date: 2026-08-07
+
+### Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham
+
+The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.
+
+Date: 2026-08-07
 
 ### Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.
 
@@ -56,18 +68,7 @@ Firebrand Republican Rep. Nancy Mace announced Monday that she will not run for 
 
 Date: 2026-07-20
 
-### Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him
-
-Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.
-
-Date: 2026-07-20
-
-### Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race
-
-Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Senate passes Russia sanctions bill that was long championed by Lindsey Graham](https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com) — 2026-08-07T17:33:40.000Z
+- [Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham](https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com) — 2026-08-07T18:05:23.000Z

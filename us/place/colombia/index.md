@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Colombia's new president vows to remake the country — and challenge its fragile peace](https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace?utm_source=lootura.com) — 2026-08-07T15:41:45.000Z
-- [Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers](https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html?utm_source=lootura.com) — 2026-08-07T16:13:49.000Z
+No public source links.

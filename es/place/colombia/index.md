@@ -3,20 +3,44 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
 
-### El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella
-
-El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.
-
-Date: 2026-08-07
-
 ### Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia
 
 Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.
+
+Date: 2026-08-07
+
+### La oposición recibe a De la Espriella como una «amenaza a la democracia»
+
+El nuevo presidente sella la relación de Colombia con Israel, rota durante el mandato de Petro, antes de tomar posesión de su cargo.
+
+Date: 2026-08-07
+
+### Abelardo de la Espriella inicia el giro a la derecha en Colombia
+
+El nuevo presidente decide pronunciar su primer discurso como jefe de Estado en el Batallón Pichincha de Cali en lugar de en Bogotá Leer.
+
+Date: 2026-08-07
+
+### La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali
+
+Colombia vive este viernes el traspaso de mandato presidencial entre Gustavo Petro y Abelardo de la Espriella . Con los puentes rotos entre el Gobierno saliente y el entrante, el abogado ultraderechista de 48 años, vencedor del senador de izquierda Iván Cepeda en las elecciones del 21 de junio pasado, recibe la banda p.
+
+Date: 2026-08-07
+
+### Colombia abre la era De la Espriella con una investidura histórica en Cali
+
+Colombia vive una jornada histórica con la investidura de Abelardo de la Espriella en la Arena de la Universidad Santiago de Cali, en un traspaso de poder que por primera vez se celebra fuera de Bogotá. Antes de la ceremonia, el presidente electo ha recibido en Cali a los mandatarios y delegaciones invitadas: se reunió.
+
+Date: 2026-08-07
+
+### El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella
+
+El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.
 
 Date: 2026-08-07
 
@@ -44,25 +68,10 @@ Los escándalos de corrupción se han disparado en el mandato que hoy concluye d
 
 Date: 2026-08-05
 
-### Discovered by Atlas
-
-Colombia first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-01
-
-### Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta
-
-Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.
-
-Date: 2026-08-01
-
-### Petro se despide de la presidencia de Colombia con un peregrinaje a una Cuba en ruinas
-
-A escasos días de abandonar la Casa de Nariño y de entregar la presidencia el próximo 7 de agosto, el mandatario colombiano Gustavo Petro ha decidido cerrar su mandato con una muestra más de su inclinación ideológica. Su último viaje de Estado lo ha realizado a La Habana para reunirse con la cúpula dictatorial, en lo q.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella](https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html?utm_source=lootura.com) — 2026-08-07T16:05:56.000Z
+- [La oposición recibe a De la Espriella como una «amenaza a la democracia»](https://www.elcorreo.com/internacional/america-latina/oposicion-recibe-espriella-amenaza-democracia-20260807215317-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T19:53:18.000Z
 - [Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia](https://www.elmundo.es/internacional/2026/08/07/6a74ae0ee4d4d8153e8b458f.html?utm_source=lootura.com) — 2026-08-07T13:37:33.000Z
+- [Abelardo de la Espriella inicia el giro a la derecha en Colombia](https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html?utm_source=lootura.com) — 2026-08-07T20:05:51.000Z
+- [La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali](https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com) — 2026-08-07T20:10:39.000Z
+- [Colombia abre la era De la Espriella con una investidura histórica en Cali](https://www.larazon.es/internacional/colombia-abre-era-espriella-investidura-historica-cali_202608076a763268a5690f04736d3233.html?utm_source=lootura.com) — 2026-08-07T19:30:48.000Z

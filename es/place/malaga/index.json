@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Vuelve el fútbol a Ceuta tras la invasión: \"Esto nos sirve para desinhibirnos\"",
+      "summary": "No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En ... Continuar leyendo \"Vue.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
       "summary": "La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.",
@@ -55,13 +60,15 @@
       "title": "Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026",
       "summary": "El festival celebrado en la ciudad de Málaga del 1 a 4 de octubre ha revelado con siete actores de 'Los Serrano' participarán durante la convención.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana",
-      "summary": "En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza como un gigante inútil en el que aún duermen demasiados fantasmas. El que no hace tanto tiempo era el gran foco del menudeo en la zona consiguió, al menos, dejar atrás su actividad como hipermercado del estupefaciente hace ya ocho años. Pero e.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vuelve el fútbol a Ceuta tras la invasión: \"Esto nos sirve para desinhibirnos\"",
+      "url": "https://okdiario.com/deportes/vuelve-futbol-ceuta-invasion-esto-nos-sirve-desinhibirnos-19146506/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:23:31.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

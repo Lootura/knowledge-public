@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-ogles/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-ogles/index.json",
   "description": "Follow Andy Ogles, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "Andy Ogles IV",
     "Ogles",
     "William Andrew Ogles IV"
   ],
   "changes": [
-    {
-      "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
-      "summary": "Two-term Rep. Andy Ogles lost the Republican primary for his Tennessee House seat, the Associated Press projects, despite securing an endorsement from President Trump.",
-      "date": "2026-08-07"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Andy Ogles first entered the public knowledge record with source-backed evidence.",
@@ -31,6 +26,11 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
+      "summary": "Two-term Rep. Andy Ogles lost the Republican primary for his Tennessee House seat, the Associated Press projects, despite securing an endorsement from President Trump.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Andy Ogles defeated in Tennessee House GOP primary, NBC News projects",
       "summary": "Rep. Andy Ogles lost despite having President Trump’s endorsement, NBC News projects. Former state Agriculture Commissioner Charlie Hatcher will be the GOP nominee.",
       "date": "2026-08-07"
@@ -38,17 +38,11 @@
   ],
   "sources": [
     {
-      "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
-      "url": "https://www.cbsnews.com/news/trump-endorsed-rep-andy-ogles-loses-gop-primary-in-tennessee-charlie-hatcher/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:29:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
       "url": "https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com",
       "publishedAt": "2026-08-07T14:45:32.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

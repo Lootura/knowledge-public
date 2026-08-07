@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad
+
+Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.
+
+Date: 2026-08-07
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad](https://www.20minutos.es/nacional/calor-lluvias-ponen-alerta-diferentes-zonas-espana-las-proximas-horas-esta-es-prevision-cada-comunidad_7023783_0.html?utm_source=lootura.com) — 2026-08-07T20:22:19.000Z

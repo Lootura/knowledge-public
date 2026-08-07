@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Women in Maine may choose the victor in this year's Senate race
+
+The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.
+
+Date: 2026-08-07
 
 ### Funding milestone detected
 
@@ -62,12 +68,7 @@ Mr. Jackson, a progressive former State Senate president, clinched the nominatio
 
 Date: 2026-07-25
 
-### Democrats poised to nominate Troy Jackson in must-win Maine Senate race
-
-BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Maine surgical nurse released from immigration detention following outcry](https://www.nbcnews.com/news/us-news/maine-surgical-nurse-released-immigration-detention-outcry-rcna591371?utm_source=lootura.com) — 2026-08-07T18:45:03.000Z
+- [Women in Maine may choose the victor in this year's Senate race](https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com) — 2026-08-07T20:24:38.000Z

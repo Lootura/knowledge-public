@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Fuentes
 
 - [El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»](https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com) — 2026-08-07T15:03:20.000Z
-- [Programación de Donostiako Piratak para la Semana Grande 2026](https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com) — 2026-08-06T17:59:06.000Z

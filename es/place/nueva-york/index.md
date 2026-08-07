@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-07-21
 
 ## Fuentes
 
+- [Otro mal Rahm no se altera en Nueva York, donde tiene el anillo de campeón bajo control](https://www.elcorreo.com/deportes/golf/mal-rahm-altera-nueva-york-anillo-campeon-20260807210605-nt_amp.html?utm_source=lootura.com) — 2026-08-07T19:06:06.000Z
 - [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z

@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
-    {
-      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
-      "summary": "Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
-      "date": "2026-08-07"
-    },
     {
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
       "summary": "Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y reclama también la de Bolaños después de que el Ejecutivo anunciara su presencia en el Congreso a finales de agosto.",
@@ -32,6 +22,21 @@
     {
       "title": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
       "summary": "El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
+      "summary": "La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+      "summary": "Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
       "date": "2026-08-07"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: \"La situación actual es diferente\"",
       "summary": "La distribución por la península de los centenares de menores migrantes que permanecen en Ceuta tras el cruce masivo del pasado jueves supone el primer examen a la convivencia...",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”",
-      "summary": "La pregunta planea cada rueda de prensa que ofrece un dirigente del Partido Popular desde el jueves pasado, cuando 72.000 personas entraron a Ceuta . ¿Acogerán las comunidades, en su mayoría gobernadas por el PP, a los menores llegados aquel día? ¿Y aquellas que comparten el Ejecutivo con Vox después de haber firmado a.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -79,17 +79,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
-      "url": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:30:01.000Z",
+      "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
+      "url": "https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:56:58.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

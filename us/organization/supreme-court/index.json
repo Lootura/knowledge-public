@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -32,39 +32,39 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+      "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "summary": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
+      "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
+      "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Trump issues new executive orders aimed at birthright citizenship",
       "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
-      "summary": "President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
-      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump signs new orders targeting birthright citizenship",
-      "summary": "Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
-      "summary": "President Trump is once again attempting to put restrictions on who is automatically guaranteed citizenship after being born in the U.S., just weeks after the Supreme Court struck down his attempt to end birthright citizenship. (Image credit: Alex Brandon).",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Edgy Vanity Plates Test Limits of Free Speech",
-      "summary": "Virginia will ask the Supreme Court to hear a dispute over a seven-character license plate message.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
-      "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -75,6 +75,42 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+      "url": "https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:06:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:35:35.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:10:37.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:45:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
+      "url": "https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:34:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:54:45.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T12:10:58.000Z",
@@ -83,9 +119,9 @@
     {
       "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:43:05.000Z",
+      "publishedAt": "2026-08-07T19:06:26.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 9
 }

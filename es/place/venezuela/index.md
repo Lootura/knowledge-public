@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
 
 El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
+
+Date: 2026-08-07
+
+### El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición
+
+En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.
 
 Date: 2026-08-07
 
@@ -62,13 +68,7 @@ Al menos ocho policías y otras tres personas resultaron heridas este sábado po
 
 Date: 2026-08-01
 
-### Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela
-
-Las autoridades de Venezuela han actualizado este sábado el balance de víctimas a causa de los terremotos de magnitud superior a siete en la escala de Richter registrados el 24 de junio en el país, una cifra que ha aumentado hasta situarse por encima de los 5.500 muertos y los 16.740 heridos. Así lo ha anunciado el pre.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Sin luz ni taquígrafos en la primera reunión entre el chavismo y la oposición de Venezuela](https://www.abc.es/internacional/chavismo-oposicion-acordaron-dar-solucion-politica-pacifica-20260807174609-nt.html?utm_source=lootura.com) — 2026-08-07T15:50:44.000Z
+- [El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición](https://www.larazon.es/internacional/chavismo-oposicion-conversan-segundo-dia-iniciar-dialogo-transicion_202608076a76401171b42a0b5de29785.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T20:29:05.000Z
 - [Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"](https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com) — 2026-08-07T16:40:06.000Z

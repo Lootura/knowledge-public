@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
+      "summary": "Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU",
       "summary": "La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.",
@@ -62,13 +67,15 @@
       "title": "Discovered by Atlas",
       "summary": "Sistema de la Reserva Federal first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Las Bolsas recortan posiciones con el petróleo al alza por tercer día consecutivo",
-      "summary": "La cautela se impone en el mercado por la subida de los precios del petróleo por tercer día consecutivo. El barril de Brent aumenta más del 1% hasta acercarse a los 86 dólares el barril. Los operadores reducen sus apuestas sobre subidas de tipos de interés por parte de la Reserva Federal, tras unos datos de inflación a.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
+      "url": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:49:18.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

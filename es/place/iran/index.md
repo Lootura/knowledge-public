@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos
 
 El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.
+
+Date: 2026-08-07
+
+### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
+
+El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
 
 Date: 2026-08-07
 
@@ -62,12 +68,7 @@ Los mercados no desentonan, pese al correctivo que sufre SpaceX tras publicar re
 
 Date: 2026-08-05
 
-### Ofensiva legislativa en EE.UU. para que el Frente Polisario sea designado organización terrorista
-
-El Congreso estadounidense recibe una propuesta de ley bipartidista en la que se insta a investigar el supuesto vínculo del grupo saharaui con Irán.
-
-Date: 2026-08-05
-
 ## Fuentes
 
 - [El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos](https://www.expansion.com/economia/2026/08/07/6a75d641e5fdeab2088b4581.html?utm_source=lootura.com) — 2026-08-07T12:57:42.000Z
+- [El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán](https://www.larazon.es/internacional/senado-aprueba-amplia-mayoria-proyecto-ley-sanciones-rusia-iran_202608076a763f1071b42a0b5de295e5.html?utm_source=lootura.com) — 2026-08-07T20:24:48.000Z

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
       "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.",
@@ -53,18 +63,21 @@
       "title": "Nancy Mace won’t run for Lindsey Graham’s Senate seat",
       "summary": "Firebrand Republican Rep. Nancy Mace announced Monday that she will not run for the South Carolina Senate seat held by the late Lindsey Graham. “I'm not running for the U.S. Senate, not because I'm backing down from a fight, but because the one I'm already in matters right now,” she said in a video announcement . Her d.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
-      "summary": "Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
-      "summary": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T17:33:40.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+      "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:05:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
 }

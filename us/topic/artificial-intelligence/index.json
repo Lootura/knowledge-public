@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,11 @@
     {
       "title": "Operational Tropical Cyclone Forecasting with AI",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constan.",
       "date": "2026-08-07"
     },
     {
@@ -71,44 +76,27 @@
       "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "You can now ask Google Maps’ AI to order food for you",
-      "summary": "The Ask Maps updates aim to “make it easier than ever to get more done.” | Image: Google The AI-powered \" Ask Maps \" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. The.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
       "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
       "url": "https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:52:22.392Z",
+      "publishedAt": "2026-08-07T20:38:03.786Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Operational Tropical Cyclone Forecasting with AI",
       "url": "https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:52:22.392Z",
+      "publishedAt": "2026-08-07T20:38:03.786Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "AI may respond differently to bosses and subordinates",
-      "url": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "sourceId": "lootura-us-science-news"
-    },
-    {
-      "title": "AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026",
-      "url": "https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:00:21.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Inside the Race to Make AI Build Itself",
-      "url": "https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:09:26.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:59:46.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

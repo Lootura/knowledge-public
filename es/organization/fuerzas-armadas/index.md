@@ -3,7 +3,7 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal](https://theobjective.com/espana/politica/2026-08-07/vox-desplegar-fuerzas-armadas-ceuta-melilla/?utm_source=lootura.com) — 2026-08-07T11:15:26.000Z
+- [La inteligencia militar avisó de un asalto masivo tres días antes del de Ceuta](https://www.abc.es/espana/centro-inteligencia-fuerzas-armadas-aviso-tres-dias-20260807195355-nt.html?utm_source=lootura.com) — 2026-08-07T19:22:31.000Z

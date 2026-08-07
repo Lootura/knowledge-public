@@ -3,10 +3,22 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»
+
+Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas esperaban que subiera al escenario instalado en una explanada.
+
+Date: 2026-08-07
+
+### Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana
+
+Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.
+
+Date: 2026-08-07
 
 ### Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"
 
@@ -56,18 +68,7 @@ A Ferran Torres parecía que lo había devorado el meme. No importaba que hubier
 
 Date: 2026-07-21
 
-### Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros
-
-El portavoz de Vivienda de Sumar en el Congreso , Alberto Ibáñez , ha cargado este martes contra el futbolista de la Selección Española, Ferran Torres , al que ha acusado de «especular» con la vivienda en la Comunidad Valenciana a través de una sociedad de inversión inmobiliaria, que ha tildado abiertamente de « fondo.
-
-Date: 2026-07-21
-
-### En Foios, el pueblo de Ferran Torres: “Es un ‘bon xiquet’, el mejor del mundo y el más guapo”
-
-“Es muy buen chico y su familia, también”, dice una vecina, apostada en la acera donde el sol no cae a plomo. “Dejen pasar, que están molestando”, pide otra mujer sonriendo mientras empuja un carro de la compra. Al enterarse de que la comidilla de la charla es Ferran Torres se une al coro: “Sí, sí, siempre ha sido un b.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"](https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T12:56:29.000Z
+- [Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»](https://www.abc.es/espana/comunidad-valenciana/fervor-ferran-torres-pueblo-dije-familia-iba-20260807195252-nt.html?utm_source=lootura.com) — 2026-08-07T18:06:16.000Z
+- [Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana](https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com) — 2026-08-07T19:56:07.000Z

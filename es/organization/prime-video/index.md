@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Disney Plus está probando una IA que entiende lo que quieres ver
+
+Si eres usuario de Netflix, Prime Video o cualquier servicio de streaming, sabrás lo complicado que es encontrar una película que te guste. Las compañías han modificado hasta el hartazgo su algoritmo, que las personas se cansan de buscar y terminan eligiendo cualquier cosa. Disney Plus no quiere que le pase esto y ya e.
+
+Date: 2026-08-07
 
 ### Si te gustó ‘La casa de papel’, Prime Video tiene este thriller de Luis Tosar y José Coronado que te va a encantar
 
@@ -62,12 +68,6 @@ Prime Video first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-07-24
 
-### ‘Blade Runner 2099’ estrena su asombroso primer tráiler y revela su fecha de estreno
-
-Lo bueno se ha hecho esperar: Prime Video lanzó en la Comic-Con San Diego 2026 el primer tráiler de Blade Runner 2099 . Lo que marca el regreso de la franquicia de ciencia ficción de Ridley Scott . Pero además, dejando claro que el universo se renueva una vez más, después de Blade Runner 2049 de Denis Villeneuve, estre.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Si te gustó ‘La casa de papel’, Prime Video tiene este thriller de Luis Tosar y José Coronado que te va a encantar](https://okdiario.com/cool/television/si-te-gusto-casa-papel-prime-video-tiene-este-thriller-luis-tosar-jose-coronado-que-te-va-encantar-19139450?utm_source=lootura.com) — 2026-08-07T16:00:35.000Z
+- [Disney Plus está probando una IA que entiende lo que quieres ver](https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/?utm_source=lootura.com) — 2026-08-07T19:36:21.000Z

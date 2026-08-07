@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -23,6 +23,11 @@
     {
       "title": "China’s Export Boom Rolls On Despite Trade Backlash",
       "summary": "China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
+      "summary": "Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive cooling equipment.",
       "date": "2026-08-07"
     },
     {
@@ -64,14 +69,15 @@
       "title": "South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul",
       "summary": "Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "China evacuates 340,000 people as Typhoon Noul approaches",
-      "summary": "Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in Hong Kong.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
+    {
+      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
+      "url": "https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
     {
       "title": "China’s Export Boom Rolls On Despite Trade Backlash",
       "url": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

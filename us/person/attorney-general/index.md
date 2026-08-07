@@ -3,7 +3,7 @@
 > Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/person/attorney-general
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-15
 ## Sources
 
 - [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-07T16:46:31.000Z
-- [Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee](https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/?utm_source=lootura.com) — 2026-08-07T13:36:05.000Z

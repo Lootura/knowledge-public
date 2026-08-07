@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
     "government agency of Spain"
   ],
   "changes": [
+    {
+      "title": "Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad",
+      "summary": "Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Agencia estatal (España) first entered the public knowledge record with source-backed evidence.",
@@ -31,6 +36,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad",
+      "url": "https://www.20minutos.es/nacional/calor-lluvias-ponen-alerta-diferentes-zonas-espana-las-proximas-horas-esta-es-prevision-cada-comunidad_7023783_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:22:19.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

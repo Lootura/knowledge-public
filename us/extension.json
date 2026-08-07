@@ -1,71 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T17:05:33.191Z",
+  "generatedAt": "2026-08-07T20:51:03.270Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|88|1786121537882",
+    "signature": "1.18.0|89|1786135080126",
     "version": "1.18.0",
-    "build": 88,
-    "latestEntityUpdatedAt": "2026-08-07T16:52:17.882Z"
+    "build": 89,
+    "latestEntityUpdatedAt": "2026-08-07T20:38:00.126Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-todd-blanche",
-      "name": "Todd Blanche",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "url": "https://atlas.lootura.com/us/person/todd-blanche",
-      "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-08-07T16:52:17.882Z",
-      "score": 1750,
-      "sourceCount": 49,
+      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-08-07T20:38:00.126Z",
+      "score": 1740,
+      "sourceCount": 625,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Morning news brief",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-07T16:52:17.882Z",
-        "score": 1724,
-        "sourceCount": 338,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-attorney-general",
-        "name": "Attorney general",
-        "type": "person",
-        "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-        "url": "https://atlas.lootura.com/us/person/attorney-general",
-        "path": "/us/person/attorney-general",
-        "updatedAt": "2026-08-07T16:52:17.882Z",
-        "score": 1711,
-        "sourceCount": 9,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-07T16:52:17.882Z",
-        "score": 1711,
-        "sourceCount": 626,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-supreme-court",
         "name": "Supreme court",
@@ -73,13 +34,52 @@
         "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-07T16:52:17.882Z",
-        "score": 1692,
-        "sourceCount": 29,
+        "updatedAt": "2026-08-07T20:38:00.126Z",
+        "score": 1740,
+        "sourceCount": 35,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Morning news brief",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-07T20:38:00.126Z",
+        "score": 1726,
+        "sourceCount": 340,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-08-07T20:38:00.126Z",
+        "score": 1721,
+        "sourceCount": 49,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-08-07T20:38:00.126Z",
+        "score": 1709,
+        "sourceCount": 107,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 122
+    "publicEntityCount": 126
   }
 }

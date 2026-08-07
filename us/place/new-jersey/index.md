@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury
+
+A New Jersey woman is suing the New York Yankees for $10 million after a bat flew into the stands and struck her in the head, which she says gave her a brain injury.
+
+Date: 2026-08-07
 
 ### Voter-Registration Error Could Cost Immigrants a Shot at a Green Card
 
@@ -62,12 +68,6 @@ The Democratic governor, who took office this year, blamed a Motor Vehicle Commi
 
 Date: 2026-07-21
 
-### Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue
-
-Voters cast their ballots during early voting in Bridgewater, New Jersey, on October 31, 2025. —Kena Betancur—Getty Images Roughly 6,600 non-citizens were accidentally registered on New Jersey voter rolls following a software error in the state’s Motor Vehicle System, Gov. Mikie Sherrill announced on Tuesday. The error.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Voter-Registration Error Could Cost Immigrants a Shot at a Green Card](https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html?utm_source=lootura.com) — 2026-08-06T22:21:53.000Z
+- [Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury](https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com) — 2026-08-07T17:17:10.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Albares insta a Italia a retirar unos controles que atacan "la dignidad" de los españoles: "No hay ningún motivo"](https://www.20minutos.es/nacional/albares-insta-italia-retirar-unos-controles-que-atacan-dignidad-los-espanoles-no-hay-ningun-motivo_7023746_0.html?utm_source=lootura.com) — 2026-08-07T17:29:21.000Z

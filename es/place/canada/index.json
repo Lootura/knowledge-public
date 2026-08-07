@@ -8,15 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
+    "CA",
+    "CAN",
     "Can",
     "Dominio de Canadá",
-    "Norteamérica Británica",
-    "CA",
-    "CAN"
+    "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal",
+      "summary": "El tenis español sigue imparable en Montreal, donde Dani Mérida también se ha clasificado para octavos de final. Lo ha hecho tras pasar por encima del estadounidense Alex Michelsen, al que ha ganado en tres sets por 6-4, 6-7 y 6-1. De esta manera, se mete por primera vez entre los 16 mejores de un Masters 1000. Espera.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Jódar debuta en Montreal con una remontada espectacular para batir a Moutet",
       "summary": "Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washington el pasado fin de semana con su debut en el Masters 1000 de Canadá en Montreal. El tenista español empezó ganando, tras remontar de manera espectacular un partido que empezó perdiendo ante el francés Corentin Moutet, número 59 del mundo. Jóda.",
@@ -43,6 +48,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal",
+      "url": "https://okdiario.com/deportes/jodar-no-esta-solo-canada-dani-merida-tumba-michelsen-tambien-mete-octavos-montreal-19146339?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:58:43.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

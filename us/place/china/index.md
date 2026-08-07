@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### China’s Export Boom Rolls On Despite Trade Backlash
 
 China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.
+
+Date: 2026-08-07
+
+### Boron layers could set a superconductivity record, theoretical study predicts
+
+Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive cooling equipment.
 
 Date: 2026-08-07
 
@@ -62,12 +68,7 @@ Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain
 
 Date: 2026-07-25
 
-### China evacuates 340,000 people as Typhoon Noul approaches
-
-Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in Hong Kong.
-
-Date: 2026-07-25
-
 ## Sources
 
+- [Boron layers could set a superconductivity record, theoretical study predicts](https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html?utm_source=lootura.com) — 2026-08-07T19:20:01.000Z
 - [China’s Export Boom Rolls On Despite Trade Backlash](https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com) — 2026-08-07T07:20:24.000Z

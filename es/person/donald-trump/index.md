@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
 
 El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
+
+Date: 2026-08-07
+
+### Trump prepara su mayor despliegue militar en toda Hispanoamérica
+
+La Administración de Donald Trump ha dado un paso decisivo y sin precedentes en su estrategia de seguridad para el continente americano con la creación de una fuerza militar específica destinada a coordinar ataques contra los cárteles y otras organizaciones delictivas transnacionales desde Chile hasta México.La nueva F.
+
+Date: 2026-08-07
+
+### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
+
+Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
 
 Date: 2026-08-07
 
@@ -56,18 +68,8 @@ El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque 
 
 Date: 2026-08-05
 
-### Netanyahu rechaza el plan de Trump que incluye el desarme de Hamás
-
-El primer ministro de Israel, Benjamin Netanyahu, ha afirmado que rechazó el plan anunciado la semana pasada por el presidente de Estados Unidos, Donald Trump, que incluye el "desarme total" Movimiento de Resistencia Islámica (Hamás) y de otros grupos armados en la Franja de Gaza, después de reunirse este lunes en Jeru.
-
-Date: 2026-08-04
-
-### Palantir dispara sus resultados y carga contra sus competidores bajo la renovada euforia bursátil
-
-Alex Karp, consejero delegado de Palantir, ha vuelto al centro del escenario de la industria tecnológica con una nueva dosis de polémica. El directivo, considerado cercano a la Administración Trump , aprovechó el récord de ingresos de su compañía, que devolvió la euforia de los inversores sobre las acciones, para carga.
-
-Date: 2026-08-04
-
 ## Fuentes
 
+- [Trump prepara su mayor despliegue militar en toda Hispanoamérica](https://www.abc.es/internacional/trump-prepara-mayor-despliegue-militar-america-latina-20260804010635-nt.html?utm_source=lootura.com) — 2026-08-07T17:51:53.000Z
+- [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z
 - [Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"](https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com) — 2026-08-07T16:40:06.000Z

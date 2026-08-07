@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Vuelve el fútbol a Ceuta tras la invasión: "Esto nos sirve para desinhibirnos"
+
+No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En ... Continuar leyendo "Vue.
+
+Date: 2026-08-07
 
 ### Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’
 
@@ -62,12 +68,6 @@ El festival celebrado en la ciudad de Málaga del 1 a 4 de octubre ha revelado c
 
 Date: 2026-08-03
 
-### Sin luz a casi 40 grados: el barrio de Málaga al límite por la lucha contra el fraude eléctrico y la marihuana
-
-En Palma-Palmilla, el esqueleto de hormigón del edificio Cabriel, 27 se alza como un gigante inútil en el que aún duermen demasiados fantasmas. El que no hace tanto tiempo era el gran foco del menudeo en la zona consiguió, al menos, dejar atrás su actividad como hipermercado del estupefaciente hace ya ocho años. Pero e.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Vuelve el fútbol a Ceuta tras la invasión: "Esto nos sirve para desinhibirnos"](https://okdiario.com/deportes/vuelve-futbol-ceuta-invasion-esto-nos-sirve-desinhibirnos-19146506/amp?utm_source=lootura.com) — 2026-08-07T20:23:31.000Z

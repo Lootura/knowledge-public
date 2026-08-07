@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Infantino recupera el apoyo de África en plena batalla entre España y Marruecos por la final del Mundial](https://www.expansion.com/directivos/deporte-negocio/2026/08/07/6a75c936468aebe3548b4578.html?utm_source=lootura.com) — 2026-08-07T12:08:23.000Z
 - [La Asociación del Fútbol Argentino apoya a Infantino y su «solidez institucional»](https://theobjective.com/deportes/futbol/2026-08-07/federacion-argentina-futbol-infantino/?amp=&utm_source=lootura.com) — 2026-08-07T16:44:09.000Z

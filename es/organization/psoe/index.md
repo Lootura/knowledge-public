@@ -3,20 +3,20 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí
-
-El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
-
-Date: 2026-08-07
-
 ### Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos
 
 La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada para impulsar el desarrollo económico y turístico de la provincia, vuelve a quedar bajo la lupa por la elevada presencia en su plantilla de antiguos cargos públicos, militantes socialistas y personas con estrechos vínculos con dirigentes del.
+
+Date: 2026-08-07
+
+### El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí
+
+El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
 
 Date: 2026-08-07
 
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T16:03:48.000Z
 - [Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos](https://okdiario.com/andalucia/prodetur-empresa-publica-que-psoe-sevilla-utiliza-como-agencia-colocacion-sus-ex-cargos-19144824?utm_source=lootura.com) — 2026-08-07T16:26:29.000Z

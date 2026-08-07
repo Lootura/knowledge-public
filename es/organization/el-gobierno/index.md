@@ -3,20 +3,32 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP
-
-Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.
-
-Date: 2026-08-07
-
 ### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
 
 El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
+
+Date: 2026-08-07
+
+### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
+
+La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
+
+Date: 2026-08-07
+
+### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
+
+La justificación oficial fue la necesidad de buscar un espacio alternativo durante las obras previstas en la Real Casa de Correos. Con ese argumento, el Gobierno regional adquirió, a través de la empresa pública Planifica Madrid, un ático en Chamberí por 6,3 millones de euros y de dimensiones poco habituales para un us.
+
+Date: 2026-08-07
+
+### El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP
+
+Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.
 
 Date: 2026-08-07
 
@@ -56,21 +68,9 @@ La ministra de Juventud e Infancia, Sira Rego, ha cifrado en 1.342 los menores a
 
 Date: 2026-08-07
 
-### Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta
-
-El Gobierno registrará este viernes en el Congreso las solicitudes de comparecencia a petición propia y en periodo extraordinario de los ministros Fernando Grande-Marlaska, José Manuel Albares, Margarita Robles y Félix Bolaños para explicar la crisis migratoria en Ceuta por la que entraron más de 72.000 migrantes ilega.
-
-Date: 2026-08-07
-
-### Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después
-
-El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [El Gobierno de Meloni rechaza el ultimátum de Sánchez: Italia hará controles a personas llegadas de España hasta el 15 de agosto](https://www.20minutos.es/internacional/italia-rechaza-ultimatum-sanchez-mantendra-los-controles-los-ciudadanos-que-lleguen-espana-hasta-15-agosto_7023689_0.html?utm_source=lootura.com) — 2026-08-07T14:41:27.000Z
+- [España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles](https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html?utm_source=lootura.com) — 2026-08-07T19:40:00.000Z
 - [El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta](https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html?utm_source=lootura.com) — 2026-08-07T08:24:55.000Z
-- [El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP](https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
-- [El Gobierno da un ultimátum a Italia para que levante antes del domingo la suspensión del 'espacio Schengen'](https://amp.expansion.com/economia/politica/2026/08/07/6a75c5ffe5fdea534e8b4575.html?utm_source=lootura.com) — 2026-08-07T11:49:16.000Z
+- [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
+- [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z

@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury
+
+A New Jersey woman is suing the New York Yankees for $10 million after a bat flew into the stands and struck her in the head, which she says gave her a brain injury.
+
+Date: 2026-08-07
 
 ### Trying to explain One Night Only’s tech-enforced sex dystopia
 
@@ -62,12 +68,6 @@ Sylvie Cachay was found dead in an overflowing bathtub at the exclusive Soho Hou
 
 Date: 2026-08-02
 
-### Property owner advocacy groups push back on Mamdani's 'Rental Ripoff Report,' public database of landlords
-
-Organizations that advocate on behalf of property owners called out New York City’s democratic socialist Mayor Zohran Mamdani in blistering statements to Fox News Digital. Mamdani campaigned on freezing rents for New Yorkers and appears to have delivered on his crackdown on landlords, upsetting local property owners. H.
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury](https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com) — 2026-08-07T17:17:10.000Z

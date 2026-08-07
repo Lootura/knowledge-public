@@ -3,16 +3,10 @@
 > Sigue la actividad de Teresa Peramato en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/person/teresa-peramato
 
 ## Cambios recientes
-
-### La Fiscalía actuará contra las comunidades que no acojan a los menores asignados por la crisis de Ceuta
-
-La fiscal general Teresa Peramato firma un decreto para garantizar la “protección” de los niños y adolescentes que están solos en la ciudad autónoma Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Están durmiendo a la intemperie” La Fiscalía actuará si hay comunidades autónomas que rechaza.
-
-Date: 2026-08-07
 
 ### La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta
 
@@ -28,5 +22,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La Fiscalía actuará contra las comunidades que no acojan a los menores asignados por la crisis de Ceuta](https://www.eldiario.es/politica/fiscalia-actuara-comunidades-no-acojan-menores-asignados-crisis-ceuta_1_13434209.html?utm_source=lootura.com) — 2026-08-07T11:07:33.000Z
 - [La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta](https://theobjective.com/espana/2026-08-07/fiscalia-actuara-regiones-reparto-menores-ceuta/?utm_source=lootura.com) — 2026-08-07T12:21:26.000Z

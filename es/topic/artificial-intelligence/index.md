@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La convocatoria europea de gigafactorías de IA puede activar una nueva cadena industrial](https://theobjective.com/economia/2026-08-07/gigafactorias-ia-cadena-industrial/?utm_source=lootura.com) — 2026-08-07T15:15:00.000Z
+No public source links.

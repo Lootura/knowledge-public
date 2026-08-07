@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership
+
+Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.
+
+Date: 2026-08-07
 
 ### After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks
 
@@ -62,12 +68,7 @@ Ontario Premier Doug Ford spoke with CBS News senior White House and political c
 
 Date: 2026-07-24
 
-### Canada's Doug Ford on why country needs to "fight back" against Trump trade war
-
-"We didn't start this war," Ontario Premier Doug Ford told CBS News on "The Takeout.".
-
-Date: 2026-07-24
-
 ## Sources
 
-- [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-08-06T22:45:54.000Z
+- [Climate change created conditions for Canada fires, scientists say, as Trump blames mismanagement](https://www.pbs.org/newshour/world/climate-change-created-conditions-for-canada-fires-scientists-say-as-trump-blames-mismanagement?utm_source=lootura.com) — 2026-08-07T17:08:42.000Z
+- [Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership](https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com) — 2026-08-07T17:47:42.000Z

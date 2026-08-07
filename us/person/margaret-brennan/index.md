@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T11:20:09.799Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### "Face the Nation with Margaret Brennan" guests for Aug. 9, 2026
+
+This week's guests include NIH Director Dr. Jay Bhattacharya, Republican Sen. Bill Cassidy and independent Sen. Bernie Sanders.
+
+Date: 2026-08-07
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- ["Face the Nation with Margaret Brennan" guests for Aug. 9, 2026](https://www.cbsnews.com/news/face-the-nation-guests-aug-9-2026/?utm_source=lootura.com) — 2026-08-07T20:28:20.000Z

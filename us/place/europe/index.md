@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
-- [A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat](https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html?utm_source=lootura.com) — 2026-08-07T15:09:38.000Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T20:38:03.786Z
+- [A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat](https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html?utm_source=lootura.com) — 2026-08-07T20:02:01.000Z

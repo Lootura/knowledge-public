@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
@@ -61,13 +66,21 @@
       "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
       "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
-      "summary": "BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine surgical nurse released from immigration detention following outcry",
+      "url": "https://www.nbcnews.com/news/us-news/maine-surgical-nurse-released-immigration-detention-outcry-rcna591371?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:45:03.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:24:38.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

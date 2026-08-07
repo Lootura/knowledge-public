@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -22,11 +22,6 @@
   ],
   "changes": [
     {
-      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
-      "summary": "Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
       "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
       "date": "2026-08-07"
@@ -39,6 +34,11 @@
     {
       "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
       "summary": "El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
+      "summary": "Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.",
       "date": "2026-08-07"
     },
     {
@@ -74,18 +74,6 @@
   ],
   "sources": [
     {
-      "title": "Pedro Ruiz, 78 años, sobre su infancia: «Mi padre era chófer y mi madre trabajaba 20 horas al día en una tienda»",
-      "url": "https://www.abc.es/gente/pedro-ruiz-anos-sobre-infancia-padre-era-20260807111045-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T15:09:18.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-07/robo-violencia-menores-olesa-barcelona-1tna-1tps_4402711/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:04:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
       "url": "https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T09:48:14.000Z",
@@ -104,5 +92,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

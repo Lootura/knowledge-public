@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países](https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html?utm_source=lootura.com) — 2026-08-07T11:31:00.000Z
+No public source links.

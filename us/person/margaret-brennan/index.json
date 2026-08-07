@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.json",
   "description": "Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T11:20:09.799Z",
+  "updatedAt": "2026-08-07T20:38:00.126Z",
   "aliases": [
     "Brennan",
     "Margaret",
     "Margaret Mary Brennan"
   ],
   "changes": [
+    {
+      "title": "\"Face the Nation with Margaret Brennan\" guests for Aug. 9, 2026",
+      "summary": "This week's guests include NIH Director Dr. Jay Bhattacharya, Republican Sen. Bill Cassidy and independent Sen. Bernie Sanders.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Margaret Brennan first entered the public knowledge record with source-backed evidence.",
@@ -36,6 +41,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "\"Face the Nation with Margaret Brennan\" guests for Aug. 9, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-guests-aug-9-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:28:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

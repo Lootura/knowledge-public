@@ -46,4 +46,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [A look at 'Operation Country Roads,' West Virginia's ICE operation](https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation?utm_source=lootura.com) — 2026-08-06T20:40:52.000Z
+No public source links.

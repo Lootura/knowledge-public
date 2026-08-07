@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "army",
     "fuerza armada"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal",
-      "url": "https://theobjective.com/espana/politica/2026-08-07/vox-desplegar-fuerzas-armadas-ceuta-melilla/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:15:26.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La inteligencia militar avisó de un asalto masivo tres días antes del de Ceuta",
+      "url": "https://www.abc.es/espana/centro-inteligencia-fuerzas-armadas-aviso-tres-dias-20260807195355-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:22:31.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

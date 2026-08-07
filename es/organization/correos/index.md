@@ -3,10 +3,16 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
+
+### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
+
+La justificación oficial fue la necesidad de buscar un espacio alternativo durante las obras previstas en la Real Casa de Correos. Con ese argumento, el Gobierno regional adquirió, a través de la empresa pública Planifica Madrid, un ático en Chamberí por 6,3 millones de euros y de dimensiones poco habituales para un us.
+
+Date: 2026-08-07
 
 ### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
 
@@ -62,12 +68,6 @@ El último informe de la UCO en el caso SEPI muestra una radiografía de la estr
 
 Date: 2026-07-10
 
-### Serrano financió 270.000 euros a la trama socialista con dinero público de Correos y 'enchufó' a Leire Díez mediante un amaño
-
-La UCO descubre cómo en su etapa de presidente de Correos hacía llegar dinero a la trama contratando a un bufete aliado, mientras el grupo postal registraba fuertes pérdidas Leer.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z

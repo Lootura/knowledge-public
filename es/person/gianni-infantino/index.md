@@ -64,4 +64,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Infantino recupera el apoyo de África en plena batalla entre España y Marruecos por la final del Mundial](https://www.expansion.com/directivos/deporte-negocio/2026/08/07/6a75c936468aebe3548b4578.html?utm_source=lootura.com) — 2026-08-07T12:08:23.000Z
+No public source links.

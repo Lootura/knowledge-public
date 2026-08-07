@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/teresa-peramato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/teresa-peramato/index.json",
   "description": "Sigue la actividad de Teresa Peramato en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-07T20:37:42.507Z",
   "aliases": [
     "Peramato",
     "Teresa"
   ],
   "changes": [
-    {
-      "title": "La Fiscalía actuará contra las comunidades que no acojan a los menores asignados por la crisis de Ceuta",
-      "summary": "La fiscal general Teresa Peramato firma un decreto para garantizar la “protección” de los niños y adolescentes que están solos en la ciudad autónoma Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Están durmiendo a la intemperie” La Fiscalía actuará si hay comunidades autónomas que rechaza.",
-      "date": "2026-08-07"
-    },
     {
       "title": "La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta",
       "summary": "La fiscal general del Estado, Teresa Peramato, ha dictado un decreto con pautas de actuación para los fiscales a fin de «garantizar» la « protección de todos los menores extranjeros no acompañados en situación de contingencia migratoria extraordinaria» que se encuentren en España, y ya avisa de que actuará si las comun.",
@@ -32,17 +27,11 @@
   ],
   "sources": [
     {
-      "title": "La Fiscalía actuará contra las comunidades que no acojan a los menores asignados por la crisis de Ceuta",
-      "url": "https://www.eldiario.es/politica/fiscalia-actuara-comunidades-no-acojan-menores-asignados-crisis-ceuta_1_13434209.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:07:33.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta",
       "url": "https://theobjective.com/espana/2026-08-07/fiscalia-actuara-regiones-reparto-menores-ceuta/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T12:21:26.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

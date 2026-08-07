@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-07T20:37:42.507Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche
 
 Lanzarote ha amanecido con nuevas muestras de rechazo al presidente del Gobierno, Pedro Sánchez, con la aparición de varias pintadas contra su figura en distintos puntos de la isla, entre ellas en una zona del término municipal de Arrecife , informan medios locales. Se producen después de laconcentración que Hazte Oír.
+
+Date: 2026-08-07
+
+### Europol incluye en su lista de más buscados a Andrea Sánchez: la mujer que se hizo pasar por médica en Lugo y A Coruña
+
+Europol ha incluido en su lista de los delincuentes más buscados de Europa a una mujer que se hizo pasar por médica en Lugo y A Coruña y que está en busca y captura desde el pasado año tras no comparecer ante el tribunal. Se trata de Andrea Sánchez Antelo , de 32 años y 155 centímetros de estatura, según se recoge en l.
+
+Date: 2026-08-07
+
+### Los guardias civiles reclaman 40 antidisturbios para proteger Ceuta de asaltos, los mismos que tiene Sánchez en La Mareta
+
+Los guardias civiles reclaman 40 antidisturbios más de la Benemérita en Ceuta para protegerla, los mismos que blindan las vacaciones del presidente del Gobierno, Pedro Sánchez , en La Mareta (Lanzarote) . Y en plantilla fija, no como refuerzo temporal. A raíz del asalto masivo de inmigrantes ilegales de los pasados 30.
 
 Date: 2026-08-07
 
@@ -56,19 +68,8 @@ A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Dip
 
 Date: 2026-08-07
 
-### Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después
-
-El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.
-
-Date: 2026-08-06
-
-### Moros en la costa
-
-Las grandes crisis de España durante el Gobierno de Sánchez -la dana de Valencia, el apagón, el accidente de Adamuz, la espantosa oleada de incendios y la reciente invasión de Ceuta- podían haberse evitado o, cuando menos, haber limitado sus trágicas consecuencias, con una política de prevención. En todas ellas, esa po.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [El Gobierno de Meloni rechaza el ultimátum de Sánchez: Italia hará controles a personas llegadas de España hasta el 15 de agosto](https://www.20minutos.es/internacional/italia-rechaza-ultimatum-sanchez-mantendra-los-controles-los-ciudadanos-que-lleguen-espana-hasta-15-agosto_7023689_0.html?utm_source=lootura.com) — 2026-08-07T14:41:27.000Z
+- [Europol incluye en su lista de más buscados a Andrea Sánchez: la mujer que se hizo pasar por médica en Lugo y A Coruña](https://www.20minutos.es/galicia/europol-incluye-su-lista-mas-buscados-andrea-sanchez-mujer-32-anos-que-se-hizo-pasar-por-medica-lugo-coruna_7023757_0.html?utm_source=lootura.com) — 2026-08-07T17:55:08.000Z
 - [Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche](https://www.larazon.es/espana/aparecen-nuevas-pintadas-enlanzarote-pedro-sanchez-concentracion-anoche_202608076a7605d5a5690f04736ce62e.html?utm_source=lootura.com) — 2026-08-07T16:20:37.000Z
+- [Los guardias civiles reclaman 40 antidisturbios para proteger Ceuta de asaltos, los mismos que tiene Sánchez en La Mareta](https://okdiario.com/espana/guardias-civiles-reclaman-40-antidisturbios-proteger-ceuta-asaltos-mismos-que-tiene-sanchez-mareta-19142965?utm_source=lootura.com) — 2026-08-07T19:09:08.000Z

@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T02:32:52.484Z
+- Updated: 2026-08-07T20:38:00.126Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### Women in Maine may choose the victor in this year's Senate race
+
+The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.
+
+Date: 2026-08-07
 
 ### After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine
 
@@ -62,12 +68,6 @@ Troy Jackson, who is set to become the party’s nominee, also said in an interv
 
 Date: 2026-07-21
 
-### Tamara Keith and Jasmine Wright on the political fallout of Trump's address
-
-NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Women in Maine may choose the victor in this year's Senate race](https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com) — 2026-08-07T20:24:38.000Z

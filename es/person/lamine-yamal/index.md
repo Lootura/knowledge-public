@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La ruta de lujo de Lamine Yamal y sus amigos por Colombia: de la belleza de Cartagena de Indias a la música en la Comuna 13 de Medellín](https://theobjective.com/gente/2026-08-07/ruta-lujo-lamine-yamal-amigos-colombia-belleza-cartagena-medellin/?utm_source=lootura.com) — 2026-08-07T12:00:00.000Z
+No public source links.
