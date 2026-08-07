@@ -3,10 +3,34 @@
 > Sigue la actividad de La Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/la-policia-nacional
 
 ## Cambios recientes
+
+### Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida
+
+Un hombre de nacionalidad española y 84 años de edad ha fallecido este viernes presuntamente estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. La Policía Nacional ha detenido a la nuera del fallecido, según han explicado fuentes próximas.
+
+Date: 2026-08-07
+
+### La Policía localiza a la niña de 5 años en situación de acogida que fue sustraída por sus padres biológicos
+
+La Policía Nacional ha localizado a la niña de cinco años sustraída por sus padres biológicos en un punto de encuentro en Oviedo el pasado 30 de abril. Los agentes han encontrado a la pequeña en un lugar en las inmediaciones del Polígono de Silvota. Según ha explicado la Policía en nota de prensa, el dispositivo se ini.
+
+Date: 2026-08-07
+
+### Dos compañeros de piso de Valladolid se agreden mutuamente con un florero y una muleta
+
+La Policía Nacional ha detenido en Valladolid a dos hombres, compañeros de piso, como supuestos autores de causarse lesiones mutuamente durante una discusión en la que uno de ellos estampó un florero en la cabeza al otro, quien utilizó una muleta para agredir a su oponente. Según han informado este viernes fuentes poli.
+
+Date: 2026-08-07
+
+### Discovered by Atlas
+
+La Policía Nacional first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-06
 
 ### En prisión una mujer integrante de una banda de "hurtos amorosos" sobre la que pesaban 26 órdenes de detención
 
@@ -26,12 +50,8 @@ La Policía Nacional ha detenido a un hombre en la ciudad de Palma por violar a 
 
 Date: 2026-08-06
 
-### Discovered by Atlas
-
-La Policía Nacional first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida](https://www.20minutos.es/madrid/muere-un-hombre-estrangulado-una-vivienda-ciudad-lineal_7023718_0.html?utm_source=lootura.com) — 2026-08-07T15:44:11.000Z
+- [La Policía localiza a la niña de 5 años en situación de acogida que fue sustraída por sus padres biológicos](https://www.20minutos.es/asturias/policia-localiza-nina-5-anos-situacion-acogida-que-fue-sustraida-por-sus-padres-biologicos-abril_7023729_0.html?utm_source=lootura.com) — 2026-08-07T16:28:27.000Z
+- [Dos compañeros de piso de Valladolid se agreden mutuamente con un florero y una muleta](https://www.larazon.es/castilla-y-leon/dos-companeros-piso-valladolid-agreden-mutuamente-florero-muleta_202608076a75bd93a046ad6ebca38d15.html?utm_source=lootura.com) — 2026-08-07T16:30:14.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Trying to explain One Night Only’s tech-enforced sex dystopia](https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech?utm_source=lootura.com) — 2026-08-07T10:30:00.000Z
+No public source links.

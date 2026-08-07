@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Argentina se desmarca del resto del mundo y sí apoya a Infantino: «El camino es seguir bajo su liderazgo»](https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt.html?utm_source=lootura.com) — 2026-08-07T12:27:13.000Z
+- [Infantino recupera el apoyo de África en plena batalla entre España y Marruecos por la final del Mundial](https://www.expansion.com/directivos/deporte-negocio/2026/08/07/6a75c936468aebe3548b4578.html?utm_source=lootura.com) — 2026-08-07T12:08:23.000Z

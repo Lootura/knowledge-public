@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península "en pocas semanas"](https://www.20minutos.es/nacional/gobierno-eleva-1-342-los-menores-ceuta-fija-su-reubicacion-peninsula-pocas-semanas_7023588_0.html?utm_source=lootura.com) — 2026-08-07T10:29:02.000Z
-- [El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta](https://www.lavanguardia.com/politica/20260807/11609669/gobierno-cifra-1-342-menores-acogidos-momento-ceuta.html?utm_source=lootura.com) — 2026-08-07T10:04:05.000Z
+No public source links.

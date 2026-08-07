@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities?utm_source=lootura.com) — 2026-08-07T15:20:00.000Z

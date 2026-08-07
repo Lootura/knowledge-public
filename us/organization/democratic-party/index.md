@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [What's at stake for Democrats in next week's Wisconsin primary](https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com) — 2026-08-07T00:15:45.000Z
-- [Orange County residents say the American dream is slipping away](https://phys.org/news/2026-08-orange-county-residents-american.html?utm_source=lootura.com) — 2026-08-07T12:00:04.000Z
+No public source links.

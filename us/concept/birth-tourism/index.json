@@ -1,0 +1,41 @@
+{
+  "id": "usa-birth-tourism",
+  "name": "Birth tourism",
+  "type": "concept",
+  "locale": "en",
+  "canonicalPath": "/us/concept/birth-tourism",
+  "canonicalUrl": "https://atlas.lootura.com/us/concept/birth-tourism",
+  "markdownUrl": "https://atlas.lootura.com/us/concept/birth-tourism/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/concept/birth-tourism/index.json",
+  "description": "Follow Birth tourism, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "aliases": [
+    "citizen tourism"
+  ],
+  "changes": [
+    {
+      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+      "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Birth Tourism first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
+      "summary": "President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:10:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
+}

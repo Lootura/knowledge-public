@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Desarticulada una red de tráfico de personas y droga en España con 78 detenidos](https://theobjective.com/sociedad/suceso/2026-08-07/desarticulada-red-trafico-personas-droga-78-detendios/?utm_source=lootura.com) — 2026-08-07T08:28:13.000Z
+No public source links.

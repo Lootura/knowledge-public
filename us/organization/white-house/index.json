@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,16 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Appeals court blocks construction of Trump's White House ballroom",
+      "summary": "A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
+      "summary": "President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
       "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
@@ -57,25 +67,21 @@
       "title": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
       "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "What’s missing from the White House plan for the future of US science",
-      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
-      "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
-      "url": "https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:15:08.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Appeals court blocks construction of Trump's White House ballroom",
+      "url": "https://www.cbsnews.com/video/appeals-court-blocks-construction-of-trumps-white-house-ballroom/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:41:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
+      "url": "https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:19:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

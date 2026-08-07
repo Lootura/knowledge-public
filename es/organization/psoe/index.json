@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,16 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí",
+      "summary": "El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos",
+      "summary": "La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada para impulsar el desarrollo económico y turístico de la provincia, vuelve a quedar bajo la lupa por la elevada presencia en su plantilla de antiguos cargos públicos, militantes socialistas y personas con estrechos vínculos con dirigentes del.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí",
       "summary": "El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.",
@@ -60,30 +70,20 @@
       "title": "Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios",
       "summary": "Abrir un espacio de diálogo para elaborar una estrategia conjunta contra los incendios forestales. Esta es la invitación que le ha hecho el secretario regional del PSOE, Carlos Martínez , al presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, para hacer frente a lo que considera una \"emergencia autonó.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales",
-      "summary": "Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero",
-      "summary": "La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí",
+      "title": "El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí",
       "url": "https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:28:43.000Z",
+      "publishedAt": "2026-08-07T16:03:48.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático",
-      "url": "https://www.eldiario.es/madrid/psoe-denunciara-fiscalia-consejo-administracion-planifica-madrid-escandalo-atico_1_13433803.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T09:24:33.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos",
+      "url": "https://okdiario.com/andalucia/prodetur-empresa-publica-que-psoe-sevilla-utiliza-como-agencia-colocacion-sus-ex-cargos-19144824?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:26:29.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 2

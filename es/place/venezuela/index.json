@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
+      "summary": "El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá \"válvula de escape\" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo \"patrocinador\" tras perder a Venezuela. \"L.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»",
       "summary": "Todo comenzó en marzo de 1992, en una fiesta privada con el presidente de Venezuela, Carlos Andrés Pérez . Se celebraba en una mansión de Caracas propiedad de Gustavo Cisneros , el famoso empresario que durante años apareció en la lista Forbes como uno de los hombres más ricos de Latinoamérica. Y allí estaban Los del R.",
@@ -63,13 +68,21 @@
       "title": "Ascienden a más de 5.500 los muertos por los devastadores terremotos de junio en Venezuela",
       "summary": "Las autoridades de Venezuela han actualizado este sábado el balance de víctimas a causa de los terremotos de magnitud superior a siete en la escala de Richter registrados el 24 de junio en el país, una cifra que ha aumentado hasta situarse por encima de los 5.500 muertos y los 16.740 heridos. Así lo ha anunciado el pre.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Los fallecidos en el terremoto doble en Venezuela superan los 5.500",
-      "summary": "El presidente de la Asamblea Nacional asegura que se han rescatado a 6.462 personas.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sin luz ni taquígrafos en la primera reunión entre el chavismo y la oposición de Venezuela",
+      "url": "https://www.abc.es/internacional/chavismo-oposicion-acordaron-dar-solucion-politica-pacifica-20260807174609-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:50:44.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
+      "url": "https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:40:06.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

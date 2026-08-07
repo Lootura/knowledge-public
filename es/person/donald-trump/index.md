@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
+
+El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
+
+Date: 2026-08-07
 
 ### Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci
 
@@ -62,12 +68,6 @@ Alex Karp, consejero delegado de Palantir, ha vuelto al centro del escenario de 
 
 Date: 2026-08-04
 
-### La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona
-
-El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"](https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com) — 2026-08-07T16:40:06.000Z

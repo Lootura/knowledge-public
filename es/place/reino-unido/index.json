@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -26,6 +26,16 @@
     {
       "title": "Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística",
       "summary": "Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales",
+      "summary": "Londres está considerada como la capital europea con el mayor volumen de espacios verdes, pero la sequía que este verano arrasa en gran parte del Reino Unido, tercera en cinco años, ha convertido los famosos parques de la ciudad, junto a otras áreas históricamente verdes del sur de Inglaterra, en parajes desérticos, ye.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "\"He estado 10 años trabajando aquí y no he ganado ni 2.000 euros\": la crítica de un español sobre la diferencia salarial entre España e Inglaterra",
+      "summary": "El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un vídeo que su primer sueldo en Reino Unido fue de 1.800 libras (unos 2.000 euros al cambio actual) en un puesto donde apenas hablaba el idioma y no contaba con experiencia en el sector.",
       "date": "2026-08-07"
     },
     {
@@ -62,16 +72,6 @@
       "title": "Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario",
       "summary": "Sacyr trabajará con Frimley Health NHS Foundation Trust para desarrollar el nuevo Hospital Frimley Park, que es uno de los 11 proyectos incluidos en la primera fase del New...",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Una gata británica de 31 años busca entrar en el Guinness como la más longeva del mundo",
-      "summary": "Millie , una gata tricolor que vive en Manchester (Reino Unido), podría convertirse en la gata viva más longeva del mundo . Su dueño, Leslie Greenhough, asegura que nació en 1995 y está reuniendo la documentación necesaria para que el Guinness World Records pueda verificar oficialmente su edad. Si se confirma su fecha.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza",
-      "summary": "Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decorado de época romana en Colchester , Reino Unido , durante obras de reurbanización en el antiguo Hospital de Essex. Dentro, los arqueólogos hallaron los restos de una mujer de alto estatus social que vivió hace unos 1.700 años, hacia el final.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
@@ -80,7 +80,19 @@
       "url": "https://cincodias.elpais.com/companias/2026-08-07/aldi-y-lidl-ya-no-podran-alejar-a-sus-competidores-reino-unido-endurecera-la-normativa-urbanistica.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T11:22:28.000Z",
       "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-07/hyde-park-parece-el-desierto-de-dubai-la-sequia-transforma-los-verdes-parques-de-londres-en-secarrales.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:27:44.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "\"He estado 10 años trabajando aquí y no he ganado ni 2.000 euros\": la crítica de un español sobre la diferencia salarial entre España e Inglaterra",
+      "url": "https://www.larazon.es/sociedad/estado-10-anos-trabajando-aqui-ganado-2000-euros-critica-espanol-diferencia-salarial-espana-inglaterra-b50m_202608076a760c3a71b42a0b5de23e9f.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:50:25.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

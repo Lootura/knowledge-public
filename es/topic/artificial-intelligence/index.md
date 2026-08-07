@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face](https://hipertextual.com/tecnologia/los-agentes-de-ia-de-openai-crearon-un-foro-secreto-para-rebelarse-y-coordinar-hackeos-de-hugging-face/?utm_source=lootura.com) — 2026-08-07T10:00:29.000Z
+- [La convocatoria europea de gigafactorías de IA puede activar una nueva cadena industrial](https://theobjective.com/economia/2026-08-07/gigafactorias-ia-cadena-industrial/?utm_source=lootura.com) — 2026-08-07T15:15:00.000Z

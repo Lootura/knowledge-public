@@ -34,4 +34,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Argentina se desmarca del resto del mundo y sí apoya a Infantino: «El camino es seguir bajo su liderazgo»](https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt.html?utm_source=lootura.com) — 2026-08-07T12:27:13.000Z
+No public source links.

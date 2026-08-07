@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La Armada sigue reforzando su presencia en Ceuta con la llegada de dos nuevas fragatas tras la crisis migratoria](https://www.larazon.es/espana/defensa/armada-sigue-reforzando-presencia-ceuta-llegada-dos-nuevas-fragatas-crisis-migratoria_202608076a75cd0fa046ad6ebca3aabf.html?utm_source=lootura.com) — 2026-08-07T12:18:23.000Z
-- [La Armada refuerza su despliegue en Ceuta con dos fragatas y la Policía envía más antidisturbios](https://www.lavanguardia.com/politica/20260807/11609766/armada-refuerza-despliegue-ceuta-llegada-fragatas.html?utm_source=lootura.com) — 2026-08-07T11:45:18.000Z
+No public source links.

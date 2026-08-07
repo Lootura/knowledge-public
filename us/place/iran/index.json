@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,26 @@
     {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "The State of Iran’s Three Key Nuclear Sites",
+      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
+      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
       "date": "2026-08-07"
     },
     {
@@ -45,26 +65,6 @@
       "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
       "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "The State of Iran’s Three Key Nuclear Sites",
-      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "summary": "Arleigh Burke-class guided-missile destroyer USS Thomas Hudner (DDG 116) fires a Tomahawk land attack missile in the Mediterranean Sea on March 5, 2026. —U.S. Navy/Getty Images President Donald Trump refuted reports that the U.S. is experiencing a munitions shortage from the U.S.-Israeli war against Iran, vowing to jai.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
-      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -81,47 +81,29 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Is the Iran war at risk of becoming a quagmire?",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5923958/is-the-iran-war-at-risk-of-becoming-a-quagmire?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:40:47.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:39:59.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5923413/despite-trumps-talk-of-a-deal-being-close-little-has-changed-to-end-the-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:40:55.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
+      "url": "https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:29:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:56:19.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-windfall-tax-big-oil-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T09:00:13.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:45:00.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:20:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "The State of Iran’s Three Key Nuclear Sites",
       "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:46:29.000Z",
+      "publishedAt": "2026-08-07T13:18:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "url": "https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:45:00.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 6
 }

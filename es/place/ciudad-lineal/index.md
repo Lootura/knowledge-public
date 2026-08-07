@@ -3,10 +3,22 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
+
+### Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida
+
+Un hombre de nacionalidad española y 84 años de edad ha fallecido este viernes presuntamente estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. La Policía Nacional ha detenido a la nuera del fallecido, según han explicado fuentes próximas.
+
+Date: 2026-08-07
+
+### Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal
+
+Un hombre español de 84 años ha fallecido este viernes tras ser estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. Muere un hombre estrangulado en una vivienda de Ciudad Lineal. pic.twitter.com/lSrgZ8MKel - THE OBJECTIVE (@TheObjective_es.
+
+Date: 2026-08-07
 
 ### Ladrones georgianos de turismo en Madrid: cazados cuando asaltaban pisos
 
@@ -46,4 +58,5 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida](https://www.20minutos.es/madrid/muere-un-hombre-estrangulado-una-vivienda-ciudad-lineal_7023718_0.html?utm_source=lootura.com) — 2026-08-07T15:44:11.000Z
+- [Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal](https://theobjective.com/sociedad/suceso/2026-08-07/muere-hombre-estrangulado-vivienda-ciudad-lineal/?utm_source=lootura.com) — 2026-08-07T15:36:14.000Z

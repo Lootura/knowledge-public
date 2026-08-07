@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Dominic Sessa Summons the Rapscallion Spirit of Anthony Bourdain in the Exhilarating, Tender Tony](https://time.com/article/2026/08/06/tony-movie-review-anthony-bourdain/?utm_source=lootura.com) — 2026-08-07T12:00:04.000Z
-- [The True Story Behind Tony](https://time.com/article/2026/08/04/tony-anthony-bourdain-true-story/?utm_source=lootura.com) — 2026-08-07T12:00:05.000Z
+No public source links.

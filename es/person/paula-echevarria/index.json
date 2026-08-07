@@ -1,0 +1,48 @@
+{
+  "id": "es-paula-echevarria",
+  "name": "Paula Echevarría",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/paula-echevarria",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/paula-echevarria",
+  "markdownUrl": "https://atlas.lootura.com/es/person/paula-echevarria/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/paula-echevarria/index.json",
+  "description": "Sigue la actividad de Paula Echevarría en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "aliases": [
+    "Paula Echevarria Colodron",
+    "Paula Echevarría Colodrón"
+  ],
+  "changes": [
+    {
+      "title": "El oasis rural a las afueras de Madrid que conquista a Paula Echevarría y Álex González: una terraza con lago para escapar del calor",
+      "summary": "A pocos kilómetros del centro de Madrid, una antigua casa de campo rodeada de jardines y presidida por un lago se convierte en un refugio perfecto para escapar del calor y del ritmo de la ciudad . Su gran terraza al aire libre y su propuesta gastronómica han conquistado también a rostros conocidos como Paula Echevarría.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: \"Pase lo que pase\"",
+      "summary": "Apenas una semana después de despedirse de su padre, la actriz afronta una fecha especialmente delicada arropada por el cariño de su familia.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Paula Echevarría first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El oasis rural a las afueras de Madrid que conquista a Paula Echevarría y Álex González: una terraza con lago para escapar del calor",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-07/terraza-madrid-lago-paula-echevarria-1tna-1qrt_4402612/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:05:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: \"Pase lo que pase\"",
+      "url": "https://okdiario.com/cool/famosos/significativo-mensaje-miguel-torres-paula-echevarria-cumpleanos-mas-triste-actriz-pase-lo-que-pase-19143309/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:30:17.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

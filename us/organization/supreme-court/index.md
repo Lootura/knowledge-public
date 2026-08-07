@@ -3,16 +3,10 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
-
-### Trump issues new executive orders aimed at birthright citizenship
-
-The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
-
-Date: 2026-08-07
 
 ### Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’
 
@@ -23,6 +17,18 @@ Date: 2026-08-07
 ### Warren presses U.S. companies to share tariff refunds with customers
 
 Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
+
+Date: 2026-08-07
+
+### Appeals Court Upholds Block on Trump Ballroom Construction
+
+A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
+
+Date: 2026-08-07
+
+### Trump issues new executive orders aimed at birthright citizenship
+
+The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
 
 Date: 2026-08-07
 
@@ -62,17 +68,8 @@ Voters head to the polls in Tennessee on Thursday. This year's primaries come af
 
 Date: 2026-08-05
 
-### New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court
-
-The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T12:14:32.000Z
-- [Trump issues new executive orders aimed at birthright citizenship](https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T00:15:00.000Z
-- [Trump Targets 'Birth Tourism' With Two New Executive Orders](https://www.today.com/video/trump-targets-birth-tourism-with-two-new-executive-orders-267926085880?utm_source=lootura.com) — 2026-08-07T11:26:10.000Z
-- [Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling](https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com) — 2026-08-06T22:06:35.000Z
+- [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T16:19:17.000Z
 - [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T12:10:58.000Z
-- [Trump Seeks to Restrict Birthright Citizenship With New Orders](https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T10:15:08.000Z
+- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T16:43:05.000Z

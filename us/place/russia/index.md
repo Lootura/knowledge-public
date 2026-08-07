@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
+No public source links.

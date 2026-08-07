@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche
+
+Lanzarote ha amanecido con nuevas muestras de rechazo al presidente del Gobierno, Pedro Sánchez, con la aparición de varias pintadas contra su figura en distintos puntos de la isla, entre ellas en una zona del término municipal de Arrecife , informan medios locales. Se producen después de laconcentración que Hazte Oír.
+
+Date: 2026-08-07
 
 ### Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska
 
@@ -62,16 +68,7 @@ Las grandes crisis de España durante el Gobierno de Sánchez -la dana de Valenc
 
 Date: 2026-08-06
 
-### La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican
-
-La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska](https://www.abc.es/espana/sanchez-comparecera-crisis-ceuta-moncloa-evita-careo-20260807111545-nt.html?utm_source=lootura.com) — 2026-08-07T12:16:15.000Z
-- [Incluyen a la falsa médico coruñesa Andrea Sánchez entre los más buscados de Europa](https://www.abc.es/espana/galicia/incluyen-falsa-medico-corunesa-andrea-sanchez-buscados-20260807112800-nt.html?utm_source=lootura.com) — 2026-08-07T12:30:58.000Z
-- [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z
-- [EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»](https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com) — 2026-08-07T12:41:35.000Z
-- [Los ceutíes, indignados: «¿Por qué los 25 millones van para los menas y no para nuestros niños con necesidades especiales?»](https://okdiario.com/espana/ceuties-indignados-que-25-millones-van-menas-no-nuestros-ninos-necesidades-especiales-19142128?utm_source=lootura.com) — 2026-08-07T12:35:58.000Z
+- [El Gobierno de Meloni rechaza el ultimátum de Sánchez: Italia hará controles a personas llegadas de España hasta el 15 de agosto](https://www.20minutos.es/internacional/italia-rechaza-ultimatum-sanchez-mantendra-los-controles-los-ciudadanos-que-lleguen-espana-hasta-15-agosto_7023689_0.html?utm_source=lootura.com) — 2026-08-07T14:41:27.000Z
+- [Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche](https://www.larazon.es/espana/aparecen-nuevas-pintadas-enlanzarote-pedro-sanchez-concentracion-anoche_202608076a7605d5a5690f04736ce62e.html?utm_source=lootura.com) — 2026-08-07T16:20:37.000Z

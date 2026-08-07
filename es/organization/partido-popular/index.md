@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,9 +70,7 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal](https://www.elconfidencial.com/espana/2026-08-07/bronca-en-un-pueblo-de-cantabria-el-alcalde-quiere-poner-su-nombre-a-la-avenida-principal_4402132/?utm_source=lootura.com) — 2026-08-07T10:41:00.000Z
 - [El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene](https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T07:11:33.000Z
 - [El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta](https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html?utm_source=lootura.com) — 2026-08-07T08:24:55.000Z
 - [El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP](https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
 - [La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí](https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
-- [El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta](https://www.eldiario.es/politica/pp-contraprograma-gobierno-cita-marlaska-robles-senado-semana-viene_1_13433588.html?utm_source=lootura.com) — 2026-08-07T08:58:55.000Z

@@ -1,0 +1,48 @@
+{
+  "id": "usa-colombia",
+  "name": "Colombia",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/colombia",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/colombia",
+  "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
+  "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "aliases": [
+    "Republic of Colombia",
+    "The Republic of Colombia"
+  ],
+  "changes": [
+    {
+      "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+      "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation. (Image credit: John Vizcaino).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:41:45.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:13:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

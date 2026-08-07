@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -17,11 +17,6 @@
   ],
   "changes": [
     {
-      "title": "Trump issues new executive orders aimed at birthright citizenship",
-      "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
       "date": "2026-08-07"
@@ -29,6 +24,16 @@
     {
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump issues new executive orders aimed at birthright citizenship",
+      "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
       "date": "2026-08-07"
     },
     {
@@ -60,37 +65,14 @@
       "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
       "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
-      "summary": "The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:14:32.000Z",
+      "publishedAt": "2026-08-07T16:19:17.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump issues new executive orders aimed at birthright citizenship",
-      "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T00:15:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
-      "url": "https://www.today.com/video/trump-targets-birth-tourism-with-two-new-executive-orders-267926085880?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:26:10.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:06:35.000Z",
-      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
@@ -99,11 +81,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
-      "url": "https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:15:08.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:43:05.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

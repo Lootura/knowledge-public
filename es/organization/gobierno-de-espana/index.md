@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta
+
+“La invasión de decenas de miles de migrantes a Ceuta es consecuencia directa de la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”, señalaba ayer un mensaje de la cuenta de X del Departamento de Estado de los Estados Unidos, en relación con la entrada.
+
+Date: 2026-08-07
 
 ### EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"
 
@@ -62,12 +68,7 @@ Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la p
 
 Date: 2026-08-03
 
-### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"](https://www.20minutos.es/internacional/eeuu-vuelve-atacar-gobierno-espanol-por-crisis-ceuta-es-consecuencia-su-rechazo-asegurar-sus-fronteras_7023640_0.html?utm_source=lootura.com) — 2026-08-07T12:42:49.000Z
+- [Meloni desafía a Sánchez y prorroga los controles en frontera al menos hasta el 15 de agosto tras el ultimátum de España](https://amp.elmundo.es/espana/2026/08/07/6a75bbd6e4d4d8ff228b459a.html?utm_source=lootura.com) — 2026-08-07T11:12:12.000Z
+- [Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta](https://www.lavanguardia.com/politica/20260807/11609930/washington-culpa-gobierno-invasion-decenas-miles-migrantes-ceuta.html?utm_source=lootura.com) — 2026-08-07T15:58:24.000Z

@@ -3,16 +3,10 @@
 > Sigue la actividad de Laureano Oubiña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/person/laureano-oubina
 
 ## Cambios recientes
-
-### La Xunta veta el 'narcotour' de Laureano Oubiña por incumplir la normativa
-
-La Xunta ha vetado el 'narcotour' que el excontrabandista y traficante de hachís Laureano Oubiña pretendía organizar el próximo 29 de agosto para recorrer en barco la denominada 'ruta del narcotráfico' por la ría de Arousa. La administración autonómica ha acreditado que no consta que la excursión esté organizada por ni.
-
-Date: 2026-08-07
 
 ### La Xunta prohíbe una ‘ruta del narcotráfico’ en barco que promovía Laureano Oubiña
 
@@ -26,7 +20,19 @@ Laureano Oubiña first entered the public knowledge record with source-backed ev
 
 Date: 2026-08-07
 
+### La Xunta veta la 'Ruta del Narcotráfico' por la ría de Arousa promovida por Laureano Oubiña
+
+"Excontrabandista de tabaco, gasoil, café y extraficante de hachís. HA-CHÍS ". Con esta contundencia, remarcando en mayúsculas la droga que le llevó a pasar gran parte de su vida entre rejas, se presenta al mundo Laureano Oubiña en su propia página web. El histórico capo gallego pretendía exprimir hasta el último cénti.
+
+Date: 2026-08-07
+
+### La Xunta veta el 'narcotour' de Laureano Oubiña por incumplir la normativa
+
+La Xunta ha vetado el 'narcotour' que el excontrabandista y traficante de hachís Laureano Oubiña pretendía organizar el próximo 29 de agosto para recorrer en barco la denominada 'ruta del narcotráfico' por la ría de Arousa. La administración autonómica ha acreditado que no consta que la excursión esté organizada por ni.
+
+Date: 2026-08-07
+
 ## Fuentes
 
-- [La Xunta veta el 'narcotour' de Laureano Oubiña por incumplir la normativa](https://www.abc.es/espana/galicia/xunta-veta-narcotour-laureano-oubina-ria-arousa-20260807123417-nt.html?utm_source=lootura.com) — 2026-08-07T12:01:47.000Z
+- [La Xunta veta la 'Ruta del Narcotráfico' por la ría de Arousa promovida por Laureano Oubiña](https://www.elconfidencial.com/espana/galicia/2026-08-07/ruta-narcotrafico-arousa-galicia-xunta-1tna-1tps_4402780/?utm_source=lootura.com) — 2026-08-07T13:13:00.000Z
 - [La Xunta prohíbe una ‘ruta del narcotráfico’ en barco que promovía Laureano Oubiña](https://theobjective.com/espana/politica/2026-08-07/xunta-ruta-narcotrafico-barco-laureano-oubina/?utm_source=lootura.com) — 2026-08-07T11:47:17.000Z

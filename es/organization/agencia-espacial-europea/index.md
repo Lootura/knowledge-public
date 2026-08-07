@@ -40,4 +40,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Hispasat se adjudica el mayor contrato del programa satelital Iris² por 1.600 millones](https://cincodias.elpais.com/companias/2026-08-07/hispasat-se-adjudica-el-mayor-contrato-del-programa-satelital-iris-por-1600-millones.html?utm_source=lootura.com) — 2026-08-07T08:35:27.000Z
+No public source links.

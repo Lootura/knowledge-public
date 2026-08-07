@@ -28,4 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El primer parte meteorológico para el día del eclipse: calor intenso y posibles nubes en zonas de montaña](https://www.abc.es/ciencia/primer-parte-meteorologico-aemet-dia-eclipse-calor-20260807114222-nt.html?utm_source=lootura.com) — 2026-08-07T12:27:45.000Z
+No public source links.

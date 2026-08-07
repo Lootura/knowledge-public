@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "La Asociación del Fútbol Argentino apoya a Infantino y su «solidez institucional»",
+      "summary": "En la misma línea se ha pronunciado la Federación Mexicana sobre el presidente de la FIFA.",
+      "date": "2026-08-07"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "Ni la UEFA , ni la Conmebol, ni la Concacaf, ni la AFC: la gestión de Gianni Infantino al frente de la FIFA ha sido condenada por prácticamente todo el mundo del fútbol, y de las 211 federaciones nacionales que la componen apenas hay un puñado que no se han posicionado o bien en su contra o han guardado un elocuente si.",
@@ -63,19 +68,20 @@
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
       "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Argentina se queda huérfana",
-      "summary": "El gran favor que la FIFA le hizo a Argentina en este siglo nadie suele recordarlo. Durante cuatro partidos y seis meses, entre noviembre de 2001 y abril de 2002, la Albiceleste dejó de utilizar la camiseta número 10 como tributo a Diego Maradona , que a fines de 2001 acababa de jugar su partido de despedida. La medida.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Argentina se desmarca del resto del mundo y sí apoya a Infantino: «El camino es seguir bajo su liderazgo»",
-      "url": "https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:27:13.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Infantino recupera el apoyo de África en plena batalla entre España y Marruecos por la final del Mundial",
+      "url": "https://www.expansion.com/directivos/deporte-negocio/2026/08/07/6a75c936468aebe3548b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:08:23.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "La Asociación del Fútbol Argentino apoya a Infantino y su «solidez institucional»",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-07/federacion-argentina-futbol-infantino/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:44:09.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,11 +35,6 @@
   ],
   "changes": [
     {
-      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
-      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
       "date": "2026-08-07"
@@ -50,38 +45,43 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz. (Image credit: Aaron Schwartz).",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "What makes companies dodge taxes?",
-      "summary": "Few tax issues generate more public frustration than big corporations paying little, or sometimes nothing, in federal income tax. Since 2018, U.S. corporations have faced a 21% federal corporate income tax rate, the lowest rate in decades and down from a top rate of 53% in 1969.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-      "summary": "The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning. While plenty of countries have harmed universities by imposing neoliberal logics o.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
       "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
       "date": "2026-08-07"
     },
     {
-      "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
-      "summary": "An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.",
+      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+      "summary": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department. (Image credit: Joe Raedle).",
       "date": "2026-08-07"
     },
     {
-      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "summary": "Arleigh Burke-class guided-missile destroyer USS Thomas Hudner (DDG 116) fires a Tomahawk land attack missile in the Mediterranean Sea on March 5, 2026. —U.S. Navy/Getty Images President Donald Trump refuted reports that the U.S. is experiencing a munitions shortage from the U.S.-Israeli war against Iran, vowing to jai.",
+      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
+      "summary": "Former Tennessee Agriculture Commissioner Charlie Hatcher defeated U.S. Rep. Andy Ogles in a Republican primary Thursday for a significantly reshaped congressional district — marking a rare rejection of a candidate endorsed by President Donald Trump.",
       "date": "2026-08-07"
     },
     {
-      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
-      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
+      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
+      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Why Mexican avocado exports to the U.S. have once again been stopped",
+      "summary": "Mexico began sending 1,500 more troops to the western state of Michoacan on Thursday, a day after the U.S. announced the suspension of government operations in that region — including halting avocado inspections required for their export — because of a non-specific threat to U.S. interests.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee",
+      "summary": "Sen. Bill Cassidy at the U.S. Capitol in Washington, D.C. on July 23, 2026. —Nathan Posner—Getty Images Republican Sen. Bill Cassidy of Louisiana announced Friday he'll vote in favor of confirming Todd Blanche for Attorney General, offering a lifeline to President Donald Trump ’s nominee. In an address on the Senate fl.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
+      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
     }
   ],
@@ -89,13 +89,7 @@
     {
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:14:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
-      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T02:45:44.000Z",
+      "publishedAt": "2026-08-07T16:19:17.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -105,47 +99,47 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:06:35.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:10:10.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:56:19.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
+      "url": "https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:45:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "What makes companies dodge taxes?",
-      "url": "https://phys.org/news/2026-08-companies-dodge-taxes.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
+      "url": "https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:29:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:00:14.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Why Mexican avocado exports to the U.S. have once again been stopped",
+      "url": "https://www.pbs.org/newshour/world/why-mexican-avocado-exports-to-the-u-s-have-once-again-been-stopped?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:41:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:20:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
       "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T09:02:00.000Z",
+      "publishedAt": "2026-08-07T16:13:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
-      "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
-      "url": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:04:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "url": "https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:45:00.000Z",
+      "title": "Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee",
+      "url": "https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:36:05.000Z",
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 10
 }

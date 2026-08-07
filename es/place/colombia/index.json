@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,6 +16,16 @@
     "🇨🇴"
   ],
   "changes": [
+    {
+      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
+      "summary": "El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
+      "summary": "Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros",
       "summary": "La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.",
@@ -54,11 +64,17 @@
   ],
   "sources": [
     {
-      "title": "La ruta de lujo de Lamine Yamal y sus amigos por Colombia: de la belleza de Cartagena de Indias a la música en la Comuna 13 de Medellín",
-      "url": "https://theobjective.com/gente/2026-08-07/ruta-lujo-lamine-yamal-amigos-colombia-belleza-cartagena-medellin/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
+      "url": "https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:05:56.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
+      "url": "https://www.elmundo.es/internacional/2026/08/07/6a74ae0ee4d4d8153e8b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:37:33.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

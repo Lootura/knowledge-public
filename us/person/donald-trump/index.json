@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "Trump issues new executive orders aimed at birthright citizenship",
-      "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump-endorsed Rep. Andy Ogles projected to lose GOP primary in Tennessee",
       "summary": "Two-term Rep. Andy Ogles lost the Republican primary for his Tennessee House seat, the Associated Press projects, despite securing an endorsement from President Trump.",
       "date": "2026-08-07"
@@ -40,28 +35,8 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Judge Dismisses Former Olympian’s Felony Charge in Reflecting Pool Case",
-      "summary": "The move ends the criminal case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Is the Iran war at risk of becoming a quagmire?",
-      "summary": "NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump's Gaza peace plan appears to be stalling as parties debate logistics",
-      "summary": "President Trump announced a breakthrough on his Gaza peace plan last week, but the logistics remain daunting.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
-      "summary": "President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.",
       "date": "2026-08-07"
     },
     {
@@ -70,8 +45,33 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
-      "summary": "President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.",
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals court blocks construction of Trump's White House ballroom",
+      "summary": "A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump's firings of federal officials set stage for next presidential power test",
+      "summary": "A federal appeals court is set to consider President Trump's effort to fire two immigration judges this fall, a case that could have significant implications for federal workers.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
+      "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Donald Trump's pick to lead the Justice Department.",
       "date": "2026-08-07"
     }
   ],
@@ -83,22 +83,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Appeals court blocks construction of Trump's White House ballroom",
+      "url": "https://www.cbsnews.com/video/appeals-court-blocks-construction-of-trumps-white-house-ballroom/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:41:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump's firings of federal officials set stage for next presidential power test",
+      "url": "https://www.cbsnews.com/news/trump-firings-federal-workers-presidential-power/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:18:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
       "url": "https://www.cbsnews.com/news/lisa-murkowski-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T11:58:09.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump issues new executive orders aimed at birthright citizenship",
-      "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T00:15:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
-      "url": "https://www.today.com/video/trump-targets-birth-tourism-with-two-new-executive-orders-267926085880?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:26:10.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -107,35 +107,35 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:06:35.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "url": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:10:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Is the Iran war at risk of becoming a quagmire?",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5923958/is-the-iran-war-at-risk-of-becoming-a-quagmire?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:40:47.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:39:59.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump's Gaza peace plan appears to be stalling as parties debate logistics",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5921344/trumps-gaza-peace-plan-appears-to-be-stalling-as-parties-debate-logistics?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:41:27.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
+      "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:01:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5923413/despite-trumps-talk-of-a-deal-being-close-little-has-changed-to-end-the-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:40:55.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
+      "url": "https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:19:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:56:19.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
+      "url": "https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:45:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 17
 }

@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
+
+The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.
+
+Date: 2026-08-07
 
 ### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
 
@@ -62,12 +68,6 @@ Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sourc
 
 Date: 2026-07-25
 
-### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
-
-Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact](https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com) — 2026-08-07T12:45:00.000Z
+- [Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact](https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com) — 2026-08-07T16:29:24.000Z

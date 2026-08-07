@@ -46,4 +46,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...](https://www.20minutos.es/deportes/futbol/los-10-fichajes-mas-caros-historia-real-madrid-desde-diomande-jovic-pasando-por-cristiano-kaka-bale-hazard_7023397_0.html?utm_source=lootura.com) — 2026-08-07T10:12:52.000Z
+No public source links.

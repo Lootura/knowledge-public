@@ -3,10 +3,40 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla
+
+El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.
+
+Date: 2026-08-07
+
+### Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010
+
+Estados Unidos destruyó 23.000 puestos de trabajo durante el pasado mes de julio, según los datos difundidos este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas inglesas). Se trata del peor mes de julio para el empleo desde 2010, según los registros oficiales. El dato enciende las alarmas sobre la.
+
+Date: 2026-08-07
+
+### El Ibex cierra en rojo pero sube un 2% en la semana y se mantiene en zona de máximos
+
+Las Bolsas han encarado la sesión final de la semana con la vista puesta en dos focos de atención: las negociaciones para normalizar el tráfico marítimo por el estrecho de Ormuz y los datos de empleo de Estados Unidos. Ambos factores están dando un respiro a los inversores. El peor dato de empleo para un mes de julio e.
+
+Date: 2026-08-07
+
+### El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos
+
+El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.
+
+Date: 2026-08-07
+
+### Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta
+
+“La invasión de decenas de miles de migrantes a Ceuta es consecuencia directa de la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”, señalaba ayer un mensaje de la cuenta de X del Departamento de Estado de los Estados Unidos, en relación con la entrada.
+
+Date: 2026-08-07
 
 ### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
 
@@ -32,46 +62,16 @@ El Departamento de Estado de Estados Unidos salió este jueves al paso de los te
 
 Date: 2026-08-07
 
-### Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla
-
-El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.
-
-Date: 2026-08-07
-
 ### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
 
 La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.
 
 Date: 2026-08-07
 
-### Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU
-
-La muerte de un hombre de 47 años en Nueva Jersey (Estados Unidos) ha acabado impulsando una propuesta de ley sobre la donación de órganos. Keith Lott sufrió una parada cardiaca mientras mantenía relaciones sexuales con su esposa y falleció días después, pero la polémica surgió tras declararse su muerte cerebral. Su fa.
-
-Date: 2026-08-07
-
-### El Ejército de EE. UU. busca un misil antidron de menos de 150.000 dólares que alcance 25 km y pueda salir del lanzador en menos de cinco segundos
-
-La nueva meta del Ejército de Estados Unidos es comprar un misil con un valor inferior a los 150.000 dólares y que pueda ir en contra de drones que tengan un peso entre 21 y 1.320 libras. De acuerdo con una solicitud de información, replicado por Breaking Defense, buscan que sea compatible con el lanzador Coyote de Ray.
-
-Date: 2026-08-07
-
-### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
-
-Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.
-
-Date: 2026-08-06
-
-### Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio
-
-La cabina de pasaje de un 737 MAX - Boeing Lo de Boeing es impresionante. A este paso va a acabar por darme pena: no bien acaba de obtener el permiso para la entrada en servicio del 737 MAX 7 tras ocho años de pruebas se ha sabido que la Administración Federal de Aviación (FAA) de los Estados Unidos tiene pensado emiti.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"](https://www.20minutos.es/internacional/eeuu-vuelve-atacar-gobierno-espanol-por-crisis-ceuta-es-consecuencia-su-rechazo-asegurar-sus-fronteras_7023640_0.html?utm_source=lootura.com) — 2026-08-07T12:42:49.000Z
-- [El Ibex tantea nuevos máximos tras el dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T11:08:55.000Z
-- [EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»](https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com) — 2026-08-07T12:41:35.000Z
-- [Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes](https://theobjective.com/tecnologia/2026-08-07/meta-567-millones-salud-mental-jovenes/?utm_source=lootura.com) — 2026-08-07T07:46:38.000Z
+- [Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010](https://elpais.com/economia/2026-08-07/estados-unidos-perdio-23000-puestos-de-trabajo-en-julio-el-peor-dato-para-ese-mes-desde-2010.html?utm_source=lootura.com) — 2026-08-07T13:11:54.000Z
+- [El Ibex cierra en rojo pero sube un 2% en la semana y se mantiene en zona de máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T16:15:10.000Z
+- [El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos](https://www.expansion.com/economia/2026/08/07/6a75d641e5fdeab2088b4581.html?utm_source=lootura.com) — 2026-08-07T12:57:42.000Z
+- [Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta](https://www.lavanguardia.com/politica/20260807/11609930/washington-culpa-gobierno-invasion-decenas-miles-migrantes-ceuta.html?utm_source=lootura.com) — 2026-08-07T15:58:24.000Z
 - [Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla](https://theobjective.com/internacional/2026-08-07/estados-unidos-inequivocamente-espanolidad-ceuta-melilla/?amp=&utm_source=lootura.com) — 2026-08-07T12:30:40.000Z

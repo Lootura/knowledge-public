@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Bruselas avala la adenda final a los fondos europeos del plan de recuperación
+
+La adenda de cierre al Plan de Recuperación ha recibido la evaluación preliminar positiva por parte de la Comisión Europea. Así lo ha confirmado a través de sus redes sociales el ministro de Economía, Comercio y Empresa, Carlos Cuerpo, que ha apuntado que esta adenda permitirá "el máximo aprovechamiento de los recursos.
+
+Date: 2026-08-07
 
 ### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
 
@@ -62,12 +68,6 @@ El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la preside
 
 Date: 2026-08-02
 
-### Cambio climático: ¿la ley protege más del calor a los animales que a las personas?
-
-Mientras la Comisión Europea ha propuesto medidas para reforzar el bienestar de los animales durante su transporte que pueden desembocar en la climatización de los camiones, el sindicato de docentes Ustec ha registrado un récord de 39 grados en un aula de un centro educativo de Lleida. La normativa es muy extensa y pre.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Bruselas avala la adenda final a los fondos europeos del plan de recuperación](https://www.larazon.es/economia/bruselas-avala-adenda-final-fondos-europeos-plan-recuperacion_202608076a76080ca046ad6ebca4149c.html?utm_source=lootura.com) — 2026-08-07T16:30:04.000Z

@@ -28,4 +28,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Officials will not release cool water from a Colorado River reservoir to protect threatened fish](https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html?utm_source=lootura.com) — 2026-08-07T07:40:01.000Z
+No public source links.

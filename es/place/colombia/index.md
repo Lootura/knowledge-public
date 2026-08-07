@@ -3,10 +3,22 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella
+
+El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.
+
+Date: 2026-08-07
+
+### Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia
+
+Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.
+
+Date: 2026-08-07
 
 ### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
 
@@ -52,4 +64,5 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La ruta de lujo de Lamine Yamal y sus amigos por Colombia: de la belleza de Cartagena de Indias a la música en la Comuna 13 de Medellín](https://theobjective.com/gente/2026-08-07/ruta-lujo-lamine-yamal-amigos-colombia-belleza-cartagena-medellin/?utm_source=lootura.com) — 2026-08-07T12:00:00.000Z
+- [El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella](https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html?utm_source=lootura.com) — 2026-08-07T16:05:56.000Z
+- [Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia](https://www.elmundo.es/internacional/2026/08/07/6a74ae0ee4d4d8153e8b458f.html?utm_source=lootura.com) — 2026-08-07T13:37:33.000Z

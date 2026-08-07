@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»",
+      "summary": "La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos', que puede visitarse hasta el domingo, atrae a fans de dentro y fuera de Gipuzkoa.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
       "summary": "Consulta día a día las actividades programadas para la Aste Nagusia de San Sebastián.",
@@ -64,14 +69,15 @@
       "title": "The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián",
       "summary": "La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse",
-      "summary": "Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas esconden un relato sobre arte, poder y la transformación urbanística de San Sebastián.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»",
+      "url": "https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:03:20.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

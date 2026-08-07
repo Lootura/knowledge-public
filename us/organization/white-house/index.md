@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Appeals court blocks construction of Trump's White House ballroom
+
+A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.
+
+Date: 2026-08-07
+
+### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
+
+President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
+
+Date: 2026-08-07
 
 ### Trump Seeks to Restrict Birthright Citizenship With New Orders
 
@@ -56,18 +68,7 @@ The White House has declassified information claiming the FBI probed whether Pre
 
 Date: 2026-08-05
 
-### What’s missing from the White House plan for the future of US science
-
-Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.
-
-Date: 2026-08-05
-
-### White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says
-
-The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Trump Seeks to Restrict Birthright Citizenship With New Orders](https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T10:15:08.000Z
+- [Appeals court blocks construction of Trump's White House ballroom](https://www.cbsnews.com/video/appeals-court-blocks-construction-of-trumps-white-house-ballroom/?utm_source=lootura.com) — 2026-08-07T16:41:00.000Z
+- ['I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics](https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics?utm_source=lootura.com) — 2026-08-07T16:19:26.000Z

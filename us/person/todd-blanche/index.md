@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -14,9 +14,21 @@ Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomina
 
 Date: 2026-08-07
 
-### GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy
+### Blanche's path to confirmation appears clear after winning key Republican's support
 
-GOP Sen. Lisa Murkowski says she will vote against Todd Blanche for AG, putting confirmation in jeopardy.
+A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).
+
+Date: 2026-08-07
+
+### Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general
+
+Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.
+
+Date: 2026-08-07
+
+### Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination
+
+Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Donald Trump's pick to lead the Justice Department.
 
 Date: 2026-08-07
 
@@ -56,19 +68,9 @@ Republicans on the Senate Judiciary Committee voted to advance acting Attorney G
 
 Date: 2026-08-04
 
-### GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped
-
-Blanche’s nomination had been held up over concerns from GOP Sens. John Cornyn and Thom Tillis, but the parties reached a deal to end the standoff.
-
-Date: 2026-08-04
-
-### Senate Judiciary Committee to vote on Todd Blanche's nomination for attorney general
-
-The Senate Judiciary Committee is expected to vote Tuesday on Todd Blanche's nomination for attorney general after Blanche assuaged concerns from two Republican senators.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Murkowski says she'll vote against Blanche's nomination for attorney general](https://www.cbsnews.com/news/lisa-murkowski-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-07T11:58:09.000Z
-- [GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy](https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326?utm_source=lootura.com) — 2026-08-07T10:59:46.000Z
+- [Blanche's path to confirmation appears clear after winning key Republican's support](https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com) — 2026-08-07T14:12:59.000Z
+- [WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general](https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com) — 2026-08-07T15:10:06.000Z
+- [Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination](https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com) — 2026-08-07T14:01:21.000Z

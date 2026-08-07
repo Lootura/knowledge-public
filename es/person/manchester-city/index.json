@@ -1,0 +1,45 @@
+{
+  "id": "es-manchester-city",
+  "name": "Manchester City",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/manchester-city",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/manchester-city",
+  "markdownUrl": "https://atlas.lootura.com/es/person/manchester-city/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/manchester-city/index.json",
+  "description": "Sigue la actividad de Manchester City en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
+      "summary": "El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Manchester City first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "url": "https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T09:48:14.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:20:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

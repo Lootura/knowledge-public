@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Si te gustó ‘La casa de papel’, Prime Video tiene este thriller de Luis Tosar y José Coronado que te va a encantar
+
+Si hay dos actores en España que hayan logrado conquistar al público español, tanto en la pequeña como en la gran pantalla, esos son Luis Tosar y José Coronado . Los rostros del gallego y el madrileño son reconocidos para una audiencia que ya está acostumbrada a la herencia fílmica de calidad que ambos han dejado en el.
+
+Date: 2026-08-07
 
 ### La nueva temporada de 'Los Anillos del Poder' en Prime Video recordará quién es el verdadero protagonista
 
@@ -64,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La nueva temporada de 'Los Anillos del Poder' en Prime Video recordará quién es el verdadero protagonista](https://www.larazon.es/videojuegos/series/nueva-temporada-anillos-poder-prime-video-recordara-quien-es-verdadero-protagonista_202608076a75a549a046ad6ebca35ba1.html?utm_source=lootura.com) — 2026-08-07T12:30:00.000Z
+- [Si te gustó ‘La casa de papel’, Prime Video tiene este thriller de Luis Tosar y José Coronado que te va a encantar](https://okdiario.com/cool/television/si-te-gusto-casa-papel-prime-video-tiene-este-thriller-luis-tosar-jose-coronado-que-te-va-encantar-19139450?utm_source=lootura.com) — 2026-08-07T16:00:35.000Z

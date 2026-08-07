@@ -1,42 +1,68 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T14:41:46.055Z",
+  "generatedAt": "2026-08-07T17:05:33.191Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|87|1786107436248",
+    "signature": "1.18.0|88|1786121537882",
     "version": "1.18.0",
-    "build": 87,
-    "latestEntityUpdatedAt": "2026-08-07T12:57:16.248Z"
+    "build": 88,
+    "latestEntityUpdatedAt": "2026-08-07T16:52:17.882Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-iran",
-      "name": "Iran",
-      "type": "place",
-      "title": "Morning news brief",
-      "url": "https://atlas.lootura.com/us/place/iran",
-      "path": "/us/place/iran",
-      "updatedAt": "2026-08-07T12:57:16.248Z",
-      "score": 1720,
-      "sourceCount": 335,
+      "id": "usa-todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "url": "https://atlas.lootura.com/us/person/todd-blanche",
+      "path": "/us/person/todd-blanche",
+      "updatedAt": "2026-08-07T16:52:17.882Z",
+      "score": 1750,
+      "sourceCount": 49,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Morning news brief",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-07T16:52:17.882Z",
+        "score": 1724,
+        "sourceCount": 338,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-attorney-general",
+        "name": "Attorney general",
+        "type": "person",
+        "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+        "url": "https://atlas.lootura.com/us/person/attorney-general",
+        "path": "/us/person/attorney-general",
+        "updatedAt": "2026-08-07T16:52:17.882Z",
+        "score": 1711,
+        "sourceCount": 9,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+        "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-07T12:57:16.248Z",
-        "score": 1705,
-        "sourceCount": 616,
+        "updatedAt": "2026-08-07T16:52:17.882Z",
+        "score": 1711,
+        "sourceCount": 626,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +73,13 @@
         "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-07T12:57:16.248Z",
-        "score": 1693,
-        "sourceCount": 28,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-08-07T12:57:16.248Z",
-        "score": 1657,
-        "sourceCount": 620,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
-        "type": "person",
-        "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-07T12:57:16.248Z",
-        "score": 1635,
-        "sourceCount": 47,
+        "updatedAt": "2026-08-07T16:52:17.882Z",
+        "score": 1692,
+        "sourceCount": 29,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 118
+    "publicEntityCount": 122
   }
 }

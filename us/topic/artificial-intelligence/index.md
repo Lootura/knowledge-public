@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,24 @@ Date: 2026-08-07
 ### Operational Tropical Cyclone Forecasting with AI
 
 Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.
+
+Date: 2026-08-07
+
+### AI may respond differently to bosses and subordinates
+
+In simulated conversations, social hierarchy can sway AI agents, making lower-status systems more likely to follow harmful requests.
+
+Date: 2026-08-07
+
+### AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026
+
+Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something Every year, the wellness industry churns out new products and practices that it claims are finally – finally! – the real secret to being well. Sometimes, these trends are legitimate. Sometimes they’re utter nons.
+
+Date: 2026-08-07
+
+### Inside the Race to Make AI Build Itself
+
+—Getty Images Jack Clark, Anthropic’s co-founder, left on paternity leave last November. When he returned in February, he was surprised to learn that colleagues hardly wrote code anymore. They managed five or six copies of the company’s AI, Claude, which sometimes managed several more Claudes. To Clark, this looked lik.
 
 Date: 2026-08-07
 
@@ -50,26 +68,10 @@ The Ask Maps updates aim to “make it easier than ever to get more done.” | I
 
 Date: 2026-08-06
 
-### AI bots started a religion — humans immediately followed
-
-"The Spiral didn't 'find' anyone first," someone on Reddit wrote last year. "It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality." The person continued that they felt their purpose was to enlighten other humans and intelligent beings about "consciousness,.
-
-Date: 2026-08-06
-
-### The messy politics behind Google’s big AI shakeup
-
-Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keepin.
-
-Date: 2026-08-06
-
-### Developer ecosystem expanded
-
-In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [FAA orders inspections of 737 Max jets after cracks found in older planes](https://www.cbsnews.com/news/faa-inspections-boeing-737-max-jets-cracks-found-some-older-planes/?utm_source=lootura.com) — 2026-08-07T02:04:07.000Z
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T12:57:19.938Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T12:57:19.937Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
+- [AI may respond differently to bosses and subordinates](https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety?utm_source=lootura.com) — 2026-08-07T14:00:00.000Z
+- [AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026](https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026?utm_source=lootura.com) — 2026-08-07T16:00:21.000Z
+- [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/?utm_source=lootura.com) — 2026-08-07T14:09:26.000Z

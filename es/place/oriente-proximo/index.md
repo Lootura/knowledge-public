@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El Ibex tantea nuevos máximos tras el dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T11:08:55.000Z
+No public source links.

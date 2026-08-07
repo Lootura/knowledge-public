@@ -1,0 +1,70 @@
+{
+  "id": "usa-bill-cassidy",
+  "name": "Bill Cassidy",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/bill-cassidy",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/bill-cassidy",
+  "markdownUrl": "https://atlas.lootura.com/us/person/bill-cassidy/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/bill-cassidy/index.json",
+  "description": "Follow Bill Cassidy, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "aliases": [
+    "William M. Cassidy",
+    "William Morgan Cassidy",
+    "William Morgan \"Bill\" Cassidy",
+    "Dr. Bill Cassidy",
+    "Senator Bill Cassidy",
+    "Senator Cassidy",
+    "Bill Cassidy, M.D."
+  ],
+  "changes": [
+    {
+      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+      "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee",
+      "summary": "Sen. Bill Cassidy at the U.S. Capitol in Washington, D.C. on July 23, 2026. —Nathan Posner—Getty Images Republican Sen. Bill Cassidy of Louisiana announced Friday he'll vote in favor of confirming Todd Blanche for Attorney General, offering a lifeline to President Donald Trump ’s nominee. In an address on the Senate fl.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Bill Cassidy first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sen. Cassidy announces he will support Blanche's nomination as attorney general",
+      "url": "https://www.nbcnews.com/now/video/sen-cassidy-announces-he-will-support-blanche-s-nomination-as-attorney-general-267940933691?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:58:16.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:12:59.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "url": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:10:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee",
+      "url": "https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T13:36:05.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 4
+}

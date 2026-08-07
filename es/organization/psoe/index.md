@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí
+
+El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
+
+Date: 2026-08-07
+
+### Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos
+
+La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada para impulsar el desarrollo económico y turístico de la provincia, vuelve a quedar bajo la lupa por la elevada presencia en su plantilla de antiguos cargos públicos, militantes socialistas y personas con estrechos vínculos con dirigentes del.
+
+Date: 2026-08-07
 
 ### El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí
 
@@ -56,19 +68,7 @@ Abrir un espacio de diálogo para elaborar una estrategia conjunta contra los in
 
 Date: 2026-08-04
 
-### La ola de Adelante no cesa y pone nervioso al PSOE andaluz a nueve meses de las municipales
-
-Adelante Andalucía y el PSOE tienen buena relación. No es raro ver a José Ignacio García , líder de la formación andalucista de izquierdas, departiendo animadamente con la número dos de María Jesús Montero , María Márquez, en los pasillos del viejo Hospital de las Cinco Llagas . Alguna vez incluso se les ha escuchado b.
-
-Date: 2026-08-04
-
-### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
-
-La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T12:28:43.000Z
-- [El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático](https://www.eldiario.es/madrid/psoe-denunciara-fiscalia-consejo-administracion-planifica-madrid-escandalo-atico_1_13433803.html?utm_source=lootura.com) — 2026-08-07T09:24:33.000Z
+- [El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T16:03:48.000Z
+- [Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos](https://okdiario.com/andalucia/prodetur-empresa-publica-que-psoe-sevilla-utiliza-como-agencia-colocacion-sus-ex-cargos-19144824?utm_source=lootura.com) — 2026-08-07T16:26:29.000Z

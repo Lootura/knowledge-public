@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes](https://theobjective.com/tecnologia/2026-08-07/meta-567-millones-salud-mental-jovenes/?utm_source=lootura.com) — 2026-08-07T07:46:38.000Z
+No public source links.

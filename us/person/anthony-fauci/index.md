@@ -52,4 +52,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Senate committee votes to hold Fauci in contempt of Congress](https://www.cbsnews.com/news/anthony-fauci-senate-committee-contempt-of-congress-rand-paul/?utm_source=lootura.com) — 2026-08-07T00:15:50.000Z
+No public source links.

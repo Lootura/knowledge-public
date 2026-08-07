@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos
+
+El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.
+
+Date: 2026-08-07
 
 ### El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos
 
@@ -62,12 +68,6 @@ El Congreso estadounidense recibe una propuesta de ley bipartidista en la que se
 
 Date: 2026-08-05
 
-### El Ibex conquista los 20.000 puntos animado por la caída del petróleo
-
-El selectivo español repunta un 0,21%, hasta los 20.023,6 puntos, favorecido por los avances en el terreno geopolítico. EEUU espera alcanzar "entre hoy y mañana" un acuerdo con Irán para reabrir Ormuz, lo que lleva al barril de Brent a caer más de un 4% y perder los 80 dólares.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos](https://www.expansion.com/economia/2026/08/07/6a75d641e5fdeab2088b4581.html?utm_source=lootura.com) — 2026-08-07T12:57:42.000Z

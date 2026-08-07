@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora",
+      "summary": "Si tienes un Mac, actualízalo ahora. Apple ha lanzado nuevas versiones de macOS que resuelven una vulnerabilidad crítica en la función de compartir la pantalla . El parche no se limita a Tahoe, la edición más reciente del sistema operativo, sino que también está disponible para entregas previas. Puntualmente, los parch.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento",
       "summary": "Queda alrededor de un mes para conocer todos los detalles del iPhone 18 Pro. Y aunque ya se han filtrado casi todos los detalles importantes del nuevo terminal de Apple, ahora un informe de última hora apunta a que la disponibilidad del nuevo iPhone de Apple va a ser muy limitada en su lanzamiento. Si bien no es algo n.",
@@ -58,18 +63,13 @@
       "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
       "summary": "Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso . La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas de la tienda de aplicaciones. Luego de unas horas, la App Store restauró el ac.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
-      "summary": "Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento",
-      "url": "https://hipertextual.com/apple/va-a-ser-muy-complicado-hacerte-con-un-iphone-18-pro-en-su-lanzamiento/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:05:59.000Z",
+      "title": "Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora",
+      "url": "https://hipertextual.com/apple/apple-resuelve-vulnerabilidad-critica-macos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:10:52.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],

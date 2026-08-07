@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio](https://www.lavanguardia.com/internacional/20260807/11609650/turquia-arabia-saudita-pakistan-forjan-nuevo-pacto-defensa-plenas-tensiones-oriente-medio.html?utm_source=lootura.com) — 2026-08-07T10:04:41.000Z
+No public source links.

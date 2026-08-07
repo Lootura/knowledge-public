@@ -11,7 +11,10 @@
   "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "Federation of Russia",
-    "Russian Federation"
+    "Russian Federation",
+    "RU",
+    "RUS",
+    "RF"
   ],
   "changes": [
     {
@@ -65,13 +68,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
-      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T02:45:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

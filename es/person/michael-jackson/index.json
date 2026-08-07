@@ -1,0 +1,45 @@
+{
+  "id": "es-michael-jackson",
+  "name": "Michael Jackson",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/michael-jackson",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/michael-jackson",
+  "markdownUrl": "https://atlas.lootura.com/es/person/michael-jackson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/michael-jackson/index.json",
+  "description": "Sigue la actividad de Michael Jackson en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Muere William Orbit, productor que relanzó a Madonna y fue clave para Britney Spears o Blur",
+      "summary": "Ganador de tres premios Grammy, también fue el responsable de 'There Must Be More to Life Than This', la canción que incluyó las voces de Freddie Mercury y Michael Jackson.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "‘Michael 2’: los primeros detalles de la secuela salen a la luz y ya sabemos cuándo se estrena",
+      "summary": "El éxito de Michael en este 2026 es indiscutible. La película biopic de Michael Jackson se sobrepuso a las numerosas polémicas y a las malas críticas para dominar la taquilla durante la primera mitad de año. El filme superó incluso la barrera de los 1.000 millones de dólares de recaudación, una cifra brutal que la conv.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Michael Jackson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Muere William Orbit, productor que relanzó a Madonna y fue clave para Britney Spears o Blur",
+      "url": "https://www.abc.es/cultura/musica/muere-william-orbit-productor-relanzo-madonna-clave-20260807182217-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:27:52.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "‘Michael 2’: los primeros detalles de la secuela salen a la luz y ya sabemos cuándo se estrena",
+      "url": "https://hipertextual.com/cine-television/michael-2-primeros-detalles-secuela-ya-sabemos-cuando-se-estrena/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:27:05.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
+}

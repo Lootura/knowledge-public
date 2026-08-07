@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -11,18 +11,6 @@
 ### La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí
 
 Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.
-
-Date: 2026-08-07
-
-### Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...
-
-El Real Madrid ha vuelto a romper la banca en el mercado de fichajes tras la incorporación de Yan Diomande . Después de varios días de incertidumbre y duras negociaciones con el Leipzig alemán, el costamarfileño ha firmado un contrato de siete temporadas, hasta 2032, a cambio de unos 140 millones de euros, con bonos in.
-
-Date: 2026-08-07
-
-### El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí
-
-El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
 
 Date: 2026-08-07
 
@@ -44,37 +32,51 @@ En los últimos cuatro meses, Planifica Madrid no había actualizado su agenda, 
 
 Date: 2026-08-07
 
-### El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático
+### Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida
 
-El ministro y líder de los socialistas madrileños, Óscar López, ha adelantado que el partido tomará acciones legales tras la polémica por la compra del ático de seis millones de euros por parte de la Comunidad: "Es un hecho tan lamentable, como vergonzoso, como inexplicable" El ático que compró el Gobierno de Ayuso en.
-
-Date: 2026-08-07
-
-### Teatro Kapital y Quintoelemento: el éxito imbatible del templo del ocio en el verano de Madrid
-
-Hablar de ocio nocturno y restauración en la capital es, inevitablemente, hablar de Teatro Kapital ( Atocha, 125 ). En nuestra reciente visita al emblemático edificio conversamos con David de las Heras , director general de Teatro Kapital y del restaurante Quintoelemento , quien nos abrió las puertas de este gigante de.
+Un hombre de nacionalidad española y 84 años de edad ha fallecido este viernes presuntamente estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. La Policía Nacional ha detenido a la nuera del fallecido, según han explicado fuentes próximas.
 
 Date: 2026-08-07
 
-### Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse
+### El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella
 
-Juan Carlos Peinado cumple 72 años el próximo 27 de septiembre y, con ello, llegará a la edad límite que la legislación marca para la jubilación forzosa de los jueces. El titular del Juzgado de Instrucción número 41 de Madrid tiene que cumplir con varios pasos procesales antes de la mencionada fecha (para la que quedan.
+El Rey se reúne con el presidente electo antes de la toma de posesión y coincide con Milei y otros líderes iberoamericanos a tres meses de la Cumbre de Madrid.
 
 Date: 2026-08-07
 
-### Una actriz de ‘Campeones’ busca el amor en ‘First Dates’ pero no sale como esperaba: «Me ha parecido…»
+### El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí
 
-El pasado jueves, 6 de agosto, los espectadores de Telecinco tuvieron la oportunidad de ser testigos de una nueva entrega de First Dates . El popular formato continúa uniendo corazones. Por ello, en esta ocasión, el público tuvo la oportunidad de conocer a Paloma . La soltera, de 27 años , es originaria de Madrid y tie.
+El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
+
+Date: 2026-08-07
+
+### Miedo en Madrid ante la llegada de miles de personas por el eclipse solar: “El peligro es extremo”
+
+Quedan pocos días para que se produzca el esperado eclipse solar del 12 de agosto y, mientras aumenta la expectación por el fenómeno, también lo hace la inquietud en algunas zonas. En la Sierra Norte de Madrid , los vecinos miran con preocupación la llegada prevista de miles de visitantes y el posible impacto que pueda.
+
+Date: 2026-08-07
+
+### Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán
+
+El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.
+
+Date: 2026-08-07
+
+### Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal
+
+Un hombre español de 84 años ha fallecido este viernes tras ser estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. Muere un hombre estrangulado en una vivienda de Ciudad Lineal. pic.twitter.com/lSrgZ8MKel - THE OBJECTIVE (@TheObjective_es.
 
 Date: 2026-08-07
 
 ## Fuentes
 
-- [Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...](https://www.20minutos.es/deportes/futbol/los-10-fichajes-mas-caros-historia-real-madrid-desde-diomande-jovic-pasando-por-cristiano-kaka-bale-hazard_7023397_0.html?utm_source=lootura.com) — 2026-08-07T10:12:52.000Z
-- [El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T12:28:43.000Z
+- [Muere un hombre de 84 años estrangulado en una vivienda de Madrid: su nuera ha sido detenida](https://www.20minutos.es/madrid/muere-un-hombre-estrangulado-una-vivienda-ciudad-lineal_7023718_0.html?utm_source=lootura.com) — 2026-08-07T15:44:11.000Z
+- [El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella](https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html?utm_source=lootura.com) — 2026-08-07T16:05:56.000Z
+- [El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T16:03:48.000Z
 - [El oasis rural a las afueras de Madrid que conquista a Paula Echevarría y Álex González: una terraza con lago para escapar del calor](https://www.elconfidencial.com/espana/madrid/2026-08-07/terraza-madrid-lago-paula-echevarria-1tna-1qrt_4402612/?utm_source=lootura.com) — 2026-08-07T12:05:00.000Z
 - [La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí](https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
 - [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
 - [Planifica Madrid actualiza su agenda una vez que El País publica que la mantenía oculta desde el 26 de marzo](https://elpais.com/espana/madrid/2026-08-07/planifica-madrid-actualiza-su-agenda-una-vez-que-el-pais-publica-que-la-mantenia-oculta-desde-el-26-de-marzo.html?utm_source=lootura.com) — 2026-08-07T10:52:42.000Z
-- [El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático](https://www.eldiario.es/madrid/psoe-denunciara-fiscalia-consejo-administracion-planifica-madrid-escandalo-atico_1_13433803.html?utm_source=lootura.com) — 2026-08-07T09:24:33.000Z
-- [Teatro Kapital y Quintoelemento: el éxito imbatible del templo del ocio en el verano de Madrid](https://okdiario.com/cool/lifestyle/teatro-kapital-quintoelemento-exito-imbatible-del-templo-del-ocio-verano-madrid-19138446?utm_source=lootura.com) — 2026-08-07T12:31:49.000Z
+- [Miedo en Madrid ante la llegada de miles de personas por el eclipse solar: “El peligro es extremo”](https://www.larazon.es/sociedad/miedo-madrid-llegada-miles-personas-eclipse-solar-peligro-extremo_202608076a76091aa046ad6ebca41667.html?utm_source=lootura.com) — 2026-08-07T16:34:34.000Z
+- [Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán](https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com) — 2026-08-07T15:20:44.000Z
+- [Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal](https://theobjective.com/sociedad/suceso/2026-08-07/muere-hombre-estrangulado-vivienda-ciudad-lineal/?utm_source=lootura.com) — 2026-08-07T15:36:14.000Z

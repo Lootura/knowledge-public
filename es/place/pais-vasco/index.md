@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
 
 Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.
+
+Date: 2026-08-07
+
+### Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi
+
+Trece afectados tuvieron que ser trasladados a un centro sanitario, mientras Salud pide extremar la precaución ante un fin de semana de calor y playas llenas.
 
 Date: 2026-08-07
 
@@ -62,13 +68,7 @@ El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 persona
 
 Date: 2026-08-03
 
-### La Primera de Expansión sobre el Ibex, País Vasco, Huawei y falta de mano de obra
-
-Los grupos del Ibex baten su récord de adquisiciones internacionales de los últimos 20 años.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:32:46.000Z
 - [Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía](https://www.elcorreo.com/alava/araba/euskadi-comprara-forrajes-forma-conjunta-ante-escasez-pastos-sequia-20260807143200-nt_amp.html?utm_source=lootura.com) — 2026-08-07T12:44:45.000Z
-- [Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos](https://www.diariovasco.com/sociedad/primer-cierre-euskadi-eclipse-san-juan-gaztelugatxe-20260806152402-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:34:23.000Z

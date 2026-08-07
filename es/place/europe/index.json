@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/europe/index.json",
   "description": "Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Los resultados del sector impulsan a Telefónica, Cellnex y Digi",
-      "summary": "El goteo de resultados empresariales en Europa convierte hoy a uno de los sectores más rezagados en los últimos años, el de las telecomunicaciones , en uno de los más alcistas. El índice sectorial Stoxx Europe 600 Telecommunications despunta hoy con una revalorización superior al 2% Seguir leyendo.",
-      "date": "2026-08-06"
+      "title": "La convocatoria europea de gigafactorías de IA puede activar una nueva cadena industrial",
+      "summary": "La Comisión Europea decidió el pasado 30 de julio abrir la convocatoria para seleccionar hasta siete gigafactorías de inteligencia artificial (IA) en Europa, lo que ha reactivado el interés por el impacto económico de estas infraestructuras estratégicas. Su desarrollo está llamado a reforzar la autonomía tecnológica eu.",
+      "date": "2026-08-07"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Europe first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Los resultados del sector impulsan a Telefónica, Cellnex y Digi",
+      "summary": "El goteo de resultados empresariales en Europa convierte hoy a uno de los sectores más rezagados en los últimos años, el de las telecomunicaciones , en uno de los más alcistas. El índice sectorial Stoxx Europe 600 Telecommunications despunta hoy con una revalorización superior al 2% Seguir leyendo.",
       "date": "2026-08-06"
     },
     {
@@ -30,6 +35,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La convocatoria europea de gigafactorías de IA puede activar una nueva cadena industrial",
+      "url": "https://theobjective.com/economia/2026-08-07/gigafactorias-ia-cadena-industrial/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T15:15:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-murkowski/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-murkowski/index.json",
   "description": "Follow Lisa Murkowski, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-07T16:52:17.882Z",
   "aliases": [
     "Lisa Ann Murkowski",
     "Murkowski"
@@ -20,13 +20,13 @@
       "date": "2026-08-07"
     },
     {
-      "title": "GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy",
-      "summary": "GOP Sen. Lisa Murkowski says she will vote against Todd Blanche for AG, putting confirmation in jeopardy.",
+      "title": "Discovered by Atlas",
+      "summary": "Lisa Murkowski first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-07"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Lisa Murkowski first entered the public knowledge record with source-backed evidence.",
+      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
+      "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Donald Trump's pick to lead the Justice Department.",
       "date": "2026-08-07"
     }
   ],
@@ -38,10 +38,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy",
-      "url": "https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:59:46.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
+      "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T14:01:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-07
 ### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
 
 El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
+
+Date: 2026-08-07
+
+### El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona
+
+El Balón de Oro se ha anticipado en sus redes sociales al posible fichaje de Rodrigo Hernández por el FC Barcelona . « ¿Rodri se unirá a la lista? Estos son los ganadores del Balón de Oro que han jugado para el Barcelona», ha titulado el galardón un artículo compartido a través de sus canales oficiales y publicado en s.
+
+Date: 2026-08-07
+
+### Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán
+
+El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.
 
 Date: 2026-08-07
 
@@ -56,19 +68,10 @@ Una pareja de la Guardia Urbana de paisano detuvo el miércoles por la noche a u
 
 Date: 2026-08-06
 
-### Un incendio en un piso de Badalona (Barcelona) deja siete afectados: dos están hospitalizados
-
-Dos personas han sido trasladadas en estado menos grave al Hospital Germans Trias de Badalona (Barcelona) tras declararse un incendio , alrededor de las 00.24 horas de este jueves, en una vivienda de la calle Doctor Robert. Además de los dos afectados evacuados al hospital, otras cinco personas fueron atendidas y dadas.
-
-Date: 2026-08-06
-
-### Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar
-
-Entre la vegetación del parque de la Ciutadella emerge una elegante estructura de hierro y cristal, diseñada para regular la luz y la humedad necesarias para albergar especies vegetales exóticas, que ha sobrevivido a más de un siglo de transformaciones. Concebida para deslumbrar durante la Exposición Universal de 1888.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [Pedro Ruiz, 78 años, sobre su infancia: «Mi padre era chófer y mi madre trabajaba 20 horas al día en una tienda»](https://www.abc.es/gente/pedro-ruiz-anos-sobre-infancia-padre-era-20260807111045-nt.html?utm_source=lootura.com) — 2026-08-07T15:09:18.000Z
 - [Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)](https://www.elconfidencial.com/espana/cataluna/2026-08-07/robo-violencia-menores-olesa-barcelona-1tna-1tps_4402711/?utm_source=lootura.com) — 2026-08-07T12:04:00.000Z
 - [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
+- [El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona](https://okdiario.com/deportes/balon-oro-saca-lado-mas-cule-colocan-rodrigo-ya-barcelona-19145134?utm_source=lootura.com) — 2026-08-07T16:11:56.000Z
+- [Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán](https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com) — 2026-08-07T15:20:44.000Z

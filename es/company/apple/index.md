@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora
+
+Si tienes un Mac, actualízalo ahora. Apple ha lanzado nuevas versiones de macOS que resuelven una vulnerabilidad crítica en la función de compartir la pantalla . El parche no se limita a Tahoe, la edición más reciente del sistema operativo, sino que también está disponible para entregas previas. Puntualmente, los parch.
+
+Date: 2026-08-07
 
 ### Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento
 
@@ -62,12 +68,6 @@ Telegram ha vivido un momento difícil luego de que Apple retirara la aplicació
 
 Date: 2026-08-04
 
-### Apple pide a un tribunal que frene el dispositivo de IA de OpenAI
-
-Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento](https://hipertextual.com/apple/va-a-ser-muy-complicado-hacerte-con-un-iphone-18-pro-en-su-lanzamiento/?utm_source=lootura.com) — 2026-08-07T08:05:59.000Z
+- [Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora](https://hipertextual.com/apple/apple-resuelve-vulnerabilidad-critica-macos/?utm_source=lootura.com) — 2026-08-07T15:10:52.000Z

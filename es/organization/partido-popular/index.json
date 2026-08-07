@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-07T16:51:54.899Z",
   "aliases": [
     "PP",
     "populares"
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal",
-      "url": "https://www.elconfidencial.com/espana/2026-08-07/bronca-en-un-pueblo-de-cantabria-el-alcalde-quiere-poner-su-nombre-a-la-avenida-principal_4402132/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T10:41:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
       "url": "https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T07:11:33.000Z",
@@ -95,13 +89,7 @@
       "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta",
-      "url": "https://www.eldiario.es/politica/pp-contraprograma-gobierno-cita-marlaska-robles-senado-semana-viene_1_13433588.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:58:55.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

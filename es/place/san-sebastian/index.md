@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-07T16:51:54.899Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»
+
+La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos', que puede visitarse hasta el domingo, atrae a fans de dentro y fuera de Gipuzkoa.
+
+Date: 2026-08-07
 
 ### Programación de Donostiako Piratak para la Semana Grande 2026
 
@@ -62,12 +68,7 @@ La preventa del pasado jueves provocó algunos problemas que la banda pretende s
 
 Date: 2026-08-03
 
-### La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse
-
-Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas esconden un relato sobre arte, poder y la transformación urbanística de San Sebastián.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»](https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com) — 2026-08-07T15:03:20.000Z
 - [Programación de Donostiako Piratak para la Semana Grande 2026](https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com) — 2026-08-06T17:59:06.000Z

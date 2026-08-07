@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Heatwaves have killed millions. Here’s how scientists tally lives lost
 
 Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-07
+
+### A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat
+
+The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.
 
 Date: 2026-08-07
 
@@ -62,12 +68,7 @@ Wildfires west of Athens jumped containment lines, a day after a midair collisio
 
 Date: 2026-08-03
 
-### Europe’s AI labeling and transparency rules are now in effect
-
-The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's lan.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T12:57:19.938Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
+- [A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat](https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html?utm_source=lootura.com) — 2026-08-07T15:09:38.000Z

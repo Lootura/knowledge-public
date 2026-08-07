@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-07T16:52:17.882Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Scientists up in arms about cuts to UK physics and astronomy](https://www.nature.com/articles/d41586-026-02460-1?utm_source=lootura.com) — 2026-08-07T12:57:19.938Z
+- [Scientists up in arms about cuts to UK physics and astronomy](https://www.nature.com/articles/d41586-026-02460-1?utm_source=lootura.com) — 2026-08-07T16:52:22.392Z
