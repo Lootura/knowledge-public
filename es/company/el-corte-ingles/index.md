@@ -40,4 +40,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea](https://www.diariovasco.com/bidasoa/baztan-bortziriak/oscar-goikoetxea-trabajando-doblaje-descubri-pasion-interpetacion-20260805211942-nt_amp.html?utm_source=lootura.com) — 2026-08-05T19:19:43.000Z
+No public source links.

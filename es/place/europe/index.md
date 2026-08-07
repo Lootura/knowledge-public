@@ -28,4 +28,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Los resultados del sector impulsan a Telefónica, Cellnex y Digi](https://www.expansion.com/mercados/2026/08/06/6a7459b6e5fdeac1748b458a.html?utm_source=lootura.com) — 2026-08-06T11:36:43.000Z
+No public source links.

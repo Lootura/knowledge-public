@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "What's at stake for Democrats in next week's Wisconsin primary",
+      "summary": "More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.",
+      "date": "2026-08-07"
+    },
     {
       "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
       "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
@@ -21,6 +26,11 @@
     {
       "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
       "summary": "One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin",
+      "summary": "In a year where voters upset with the Democratic Party mainstream have propelled outsider candidates to victory across the country, this candidate is hoping to buck the trend in Wisconsin.",
       "date": "2026-08-06"
     },
     {
@@ -52,16 +62,6 @@
       "title": "Progressives didn’t get the big election night they wanted",
       "summary": "Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Pastor Adam Hamilton Wins Kansas Democratic Senate Primary",
-      "summary": "The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-      "summary": "Everyone got a little bit of what they wanted in Tuesday's primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by President Trump. (Image credit: Bill Pugliano).",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -72,11 +72,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "What's at stake for Democrats in next week's Wisconsin primary",
+      "url": "https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:15:45.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin",
+      "url": "https://www.pbs.org/newshour/politics/after-michigan-democrats-next-battleground-over-the-partys-future-shifts-to-wisconsin?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T21:42:41.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
       "url": "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T13:56:26.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -64,4 +64,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum](https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz?utm_source=lootura.com) — 2026-08-05T20:00:24.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Bernie Moreno, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-moreno
 
 ## Recent changes
+
+### Ohio Rep. Max Miller faces a growing number of calls to resign from fellow Republicans
+
+Miller, who is running for re-election, has denied abusing his ex-wife, Emily Moreno, who is the daughter of Sen. Bernie Moreno of Ohio.
+
+Date: 2026-08-06
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- [Ohio Rep. Max Miller faces a growing number of calls to resign from fellow Republicans](https://www.nbcnews.com/politics/congress/ohio-max-miller-calls-resign-republicans-moreno-abuse-allegations-rcna591199?utm_source=lootura.com) — 2026-08-06T20:31:01.000Z

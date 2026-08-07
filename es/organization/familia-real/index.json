@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
   "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T02:13:05.012Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Familias reales",
     "familia imperial",
     "royalty"
   ],
   "changes": [
+    {
+      "title": "Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»",
+      "summary": "Una hora y cuarto. Es el tiempo que Felipe VI ha estado reunido en su despacho del Palacio de Marivent con Juan Jesús Vivas. El presidente de Ceuta llegaba a la residencia estival de la Familia Real poco antes de las seis de la tarde acompañado por el jefe de la Casa del Rey, Camilo Villarino. Con semblante serio y tri.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Familia real first entered the public knowledge record with source-backed evidence.",
@@ -56,6 +61,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»",
+      "url": "https://www.abc.es/espana/casa-real/vivas-agradece-felipe-carino-apoyo-ceuta-promete-20260806195823-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T23:08:06.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

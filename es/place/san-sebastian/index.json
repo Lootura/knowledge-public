@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
+      "summary": "Consulta día a día las actividades programadas para la Aste Nagusia de San Sebastián.",
+      "date": "2026-08-06"
+    },
     {
       "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
       "summary": "El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.",
@@ -64,18 +69,13 @@
       "title": "La historia oculta de las tres bailarinas que miles de donostiarras ven sin fijarse",
       "summary": "Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas esconden un relato sobre arte, poder y la transformación urbanística de San Sebastián.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián",
-      "summary": "Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
-      "url": "https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:52:27.000Z",
+      "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
+      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T17:59:06.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],

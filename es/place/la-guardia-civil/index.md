@@ -70,6 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La Guardia Civil ve riesgo real de una nueva entrada masiva de migrantes en Ceuta el día 15](https://www.20minutos.es/nacional/guardia-civil-considera-mas-que-un-rumor-posible-entrada-masiva-ceuta-convocada-para-15-agosto_7023191_0.html?utm_source=lootura.com) — 2026-08-06T11:49:27.000Z
-- [Detenido en Puerto Lumbreras (Murcia) el hombre que se dio a la fuga tras matar a su expareja](https://www.elconfidencial.com/espana/2026-08-06/una-mujer-muere-acuchillada-a-manos-murcia_4401738/?utm_source=lootura.com) — 2026-08-06T11:57:00.000Z
-- [Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’](https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z
+No public source links.

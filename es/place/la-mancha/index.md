@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
+
+El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.
+
+Date: 2026-08-06
 
 ### Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio
 
@@ -62,12 +68,6 @@ El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las 
 
 Date: 2026-07-25
 
-### El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios
-
-El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas](https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com) — 2026-08-06T14:58:56.000Z

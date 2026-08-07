@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Mohamed VI como el pájaro cuco
+
+En octubre de 2018, en mi etapa como eurodiputada, viajé a Ceuta junto a Javier Nart para conocer sobre el terreno los problemas de la frontera terrestre de la Unión Europea en África. El objetivo era recoger las peticiones del Sindicato Unificado de Policía y trasladar al Parlamento Europeo la necesidad de que la UE a.
+
+Date: 2026-08-06
 
 ### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
 
@@ -62,12 +68,6 @@ Europa también pone en cuestión las políticas de Pedro Sánchez para hacer fr
 
 Date: 2026-08-04
 
-### Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»
-
-Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partidos euroescépticos de extrema derecha nacionalista. En una de.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Mohamed VI como el pájaro cuco](https://okdiario.com/opinion/mohamed-vi-como-pajaro-cuco-19139335?utm_source=lootura.com) — 2026-08-06T19:47:29.000Z

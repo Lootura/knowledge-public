@@ -3,10 +3,22 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-25T16:53:58.142Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
+
+### El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año
+
+El Banco Central Europeo (BCE) advierte de que los precios seguirán siendo altos en lo que resta de 2026. El organismo que fija la política monetaria de los países de la zona euro asegura que la inflación se mantendrá en niveles “elevados” y no se empezará a moderar como pronto hasta la llegada del primer trimestre de.
+
+Date: 2026-08-06
+
+### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
+
+Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.
+
+Date: 2026-08-06
 
 ### Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria
 
@@ -56,18 +68,7 @@ El Banco Central Europeo (BCE) ha desvelado los diez diseños seleccionados para
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-El Banco Central first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
-### El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía
-
-El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año](https://elpais.com/economia/2026-08-06/el-bce-advierte-de-que-la-inflacion-no-ha-alcanzado-su-pico-y-se-mantendra-elevada-en-lo-que-resta-de-ano.html?utm_source=lootura.com) — 2026-08-06T14:33:37.000Z
+- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La UEFA expresó este pasado jueves 6 de agosto, tras el comité de crisis de FIFA celebrado en Rabat, que el organismo europeo \"dejó muy claro en su comunicado del sábado que ha perdido la confianza en la presidencia de Gianni Infantino \" . \"Esa postura se mantiene\", afirma la mayor institución del fútbol europeo al ser.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
       "summary": "El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.",
@@ -63,20 +68,15 @@
       "title": "La posible sanción de FIFA a Argentina por una pancarta: \"Las Malvinas son argentinas\"",
       "summary": "El gobierno británico pide a la FIFA que abra una investigación: \"Uno de los principios fundamentales de la Copa del Mundo es que la política esté separada del fútbol\" Leer.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "FIFA first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-08"
     }
   ],
   "sources": [
     {
-      "title": "La extraña trinchera de Infantino: comercia con Marruecos para salvar el trono de la FIFA",
-      "url": "https://www.abc.es/deportes/futbol/infantino-comercia-marruecos-final-mundial-salvar-pescuezo-20260805014711-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:15:46.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La UEFA no da marcha atrás con la FIFA e Infantino: \"Hemos perdido la confianza\"",
+      "url": "https://www.20minutos.es/deportes/futbol/uefa-no-da-marcha-atras-con-fifa-gianni-infantino-hemos-perdido-confianza_7023413_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T18:21:35.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

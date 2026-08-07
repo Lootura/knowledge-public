@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple: la apuesta en IA que llega tarde
+
+En 2024 Apple presentó Apple Intelligence como su gran respuesta a la carrera por la inteligencia artificial que se había iniciado apenas unos meses atrás. Su gran promesa era una Siri capaz de entender el contexto personal del usuario y ejecutar tareas complejas entre aplicaciones. Pero la realidad fue muy distinta. E.
+
+Date: 2026-08-06
 
 ### Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?
 
@@ -62,12 +68,6 @@ Ted Lasso por fin está de vuelta con el estreno de su temporada 4. La serie es 
 
 Date: 2026-08-04
 
-### Adiós a Telegram en el iPhone: la Apple Store ha eliminado la app de un plumazo
-
-Apple acaba de dar un golpe en la mesa contra Telegram. Después de que la semana pasada Rusia firmase una orden de detención contra Pável Dúrov , el dueño de la app, por colaboración terrorista, ahora la compañía de Cupertino vuelve a arremeter contra la integridad del servicio. La empresa de la manzana ha sido contund.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?](https://hipertextual.com/apple/todo-lo-que-apple-presenta-en-septiembre-iphone-plegables-relojes-y-one-more-thing/?utm_source=lootura.com) — 2026-08-06T10:19:38.000Z
+- [Apple: la apuesta en IA que llega tarde](https://www.expansion.com/directivos/2026/08/07/6a745f0ee5fdea77598b4584.html?utm_source=lootura.com) — 2026-08-06T22:58:33.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T06:27:15.972Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
+
+Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.
+
+Date: 2026-08-06
 
 ### El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster
 
@@ -62,12 +68,6 @@ Mejora el sentimiento del mercado, aunque prevalece la cautela por la subida de 
 
 Date: 2026-07-15
 
-### El alivio de la inflación en EEUU rebaja la presión sobre la Fed para subir tipos
-
-El presidente de la Reserva Federal (Fed), Kevin Warsh, arrancó ayer su primera comparecencia ante el Congreso estadounidense rememorando al recientemente fallecido Alan Greenspan, que ocupó su silla durante casi dos décadas y se hizo famoso por sus crípticos mensajes. Warsh quiso mostrarse claro ayer en dos puntos, su.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z

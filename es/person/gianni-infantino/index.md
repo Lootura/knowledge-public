@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+La UEFA expresó este pasado jueves 6 de agosto, tras el comité de crisis de FIFA celebrado en Rabat, que el organismo europeo "dejó muy claro en su comunicado del sábado que ha perdido la confianza en la presidencia de Gianni Infantino " . "Esa postura se mantiene", afirma la mayor institución del fútbol europeo al ser.
+
+Date: 2026-08-06
 
 ### Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"
 
@@ -46,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La extraña trinchera de Infantino: comercia con Marruecos para salvar el trono de la FIFA](https://www.abc.es/deportes/futbol/infantino-comercia-marruecos-final-mundial-salvar-pescuezo-20260805014711-nt.html?utm_source=lootura.com) — 2026-08-06T13:15:46.000Z
+- [La UEFA no da marcha atrás con la FIFA e Infantino: "Hemos perdido la confianza"](https://www.20minutos.es/deportes/futbol/uefa-no-da-marcha-atras-con-fifa-gianni-infantino-hemos-perdido-confianza_7023413_0.html?utm_source=lootura.com) — 2026-08-06T18:21:35.000Z

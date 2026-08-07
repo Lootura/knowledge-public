@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,21 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Trump issues new executive orders aimed at birthright citizenship",
+      "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump signs new orders targeting birthright citizenship",
+      "summary": "Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Edgy Vanity Plates Test Limits of Free Speech",
+      "summary": "Virginia will ask the Supreme Court to hear a dispute over a seven-character license plate message.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
       "summary": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, potentially undermining voter confidence. A.",
@@ -50,23 +65,27 @@
       "title": "Supreme Court Turbocharges Presidential Power",
       "summary": "A pair of decisions reshaped the structure of the federal government.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Trump Administration to Impose New Tariffs on Brazil",
-      "summary": "The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday. (Image credit: Anna Moneymaker).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump issues new executive orders aimed at birthright citizenship",
+      "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:15:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump signs new orders targeting birthright citizenship",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:40:22.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Edgy Vanity Plates Test Limits of Free Speech",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T16:01:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
 }

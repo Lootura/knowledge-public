@@ -46,4 +46,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Baleares cesa a la directora general de Costas, que denunció un intento de soborno](https://theobjective.com/espana/politica/2026-08-06/baleares-cesa-directora-general-costas/?utm_source=lootura.com) — 2026-08-06T12:33:35.000Z
+No public source links.

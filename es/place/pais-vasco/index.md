@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,5 +71,4 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año](https://www.elcorreo.com/sociedad/cerca-2200-mujeres-denuncian-euskadi-agresiones-pareja-20260806120055-nt_amp.html?utm_source=lootura.com) — 2026-08-06T10:00:55.000Z
-- [Los mejores del mundo pasan por Pagola](https://www.diariovasco.com/deportes/mas-deportes/mejores-mundo-pasan-pagola-20260806001341-nt_amp.html?utm_source=lootura.com) — 2026-08-05T22:13:42.000Z
 - [Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos](https://www.diariovasco.com/sociedad/primer-cierre-euskadi-eclipse-san-juan-gaztelugatxe-20260806152402-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:34:23.000Z

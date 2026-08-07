@@ -62,25 +62,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "La Guardia Civil ve riesgo real de una nueva entrada masiva de migrantes en Ceuta el día 15",
-      "url": "https://www.20minutos.es/nacional/guardia-civil-considera-mas-que-un-rumor-posible-entrada-masiva-ceuta-convocada-para-15-agosto_7023191_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:49:27.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Detenido en Puerto Lumbreras (Murcia) el hombre que se dio a la fuga tras matar a su expareja",
-      "url": "https://www.elconfidencial.com/espana/2026-08-06/una-mujer-muere-acuchillada-a-manos-murcia_4401738/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:57:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
-      "url": "https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

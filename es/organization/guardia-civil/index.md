@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias
+
+La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.
+
+Date: 2026-08-06
 
 ### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
 
@@ -62,12 +68,6 @@ Una agente de la Guardia Civil ha fallecido este miércoles en un tiroteo regist
 
 Date: 2026-08-05
 
-### Un guardia civil mata a su expareja, también agente, dentro del cuartel de Llanes (Asturias)
-
-Una agente de la Guardia Civil ha fallecido este miércoles tras recibir disparos de su expareja , también miembro del cuerpo, en el cuartel del instituto armado de Llanes (Asturias), donde el autor ha resultado herido grave cuando los compañeros de la víctima intentaban repelar la agresión. El suceso ha tenido lugar po.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias](https://www.larazon.es/espana/interior-teme-que-informes-policiales-ceuta-desmientan-version-oficial-mafias_202608076a7511fda5690f04736b77e4.html?utm_source=lootura.com) — 2026-08-06T23:00:13.000Z

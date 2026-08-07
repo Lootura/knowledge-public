@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,16 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
+      "summary": "Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio",
+      "summary": "La cabina de pasaje de un 737 MAX - Boeing Lo de Boeing es impresionante. A este paso va a acabar por darme pena: no bien acaba de obtener el permiso para la entrada en servicio del 737 MAX 7 tras ocho años de pruebas se ha sabido que la Administración Federal de Aviación (FAA) de los Estados Unidos tiene pensado emiti.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Santander ficha al CEO de UBS en Brasil para su banca de inversión",
       "summary": "Santander ha fichado a Daniel Bassan, CEO de UBS en Brasil y responsable regional de América Latina, para dirigir la banca de inversión de su filial carioca. Bassan estaba ligado...",
@@ -81,25 +91,21 @@
       "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
       "summary": "Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Los intereses de Estados Unidos en Israel en Ceuta",
-      "summary": "El respaldo de representantes de ambos países a las reclamaciones territoriales de Rabat tiene como objetivo deslegitimar el apoyo español a Palestina, castigar su negativa a subir el gasto en defensa e impulsar la agenda antimigratoria.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open",
-      "summary": "El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en \"proceso de recuperación\" por la lesión que.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Santander ficha al CEO de UBS en Brasil para su banca de inversión",
-      "url": "https://amp.expansion.com/empresas/banca/2026/08/06/6a746aa3468aebfb798b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T12:58:23.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
+      "url": "https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T16:07:02.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio",
+      "url": "http://www.microsiervos.com/archivo/aerotrastorno/revisar-450-boeing-737-max-asientos-mal-atornillados.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T19:00:00.000Z",
+      "sourceId": "lootura-es-microsiervos"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

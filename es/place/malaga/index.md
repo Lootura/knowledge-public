@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga](https://www.elconfidencial.com/espana/2026-08-06/atropello-intencionado-malaga-turista-1tna-1tps_4401887/?utm_source=lootura.com) — 2026-08-06T09:53:00.000Z
-- [Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’](https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z
+No public source links.

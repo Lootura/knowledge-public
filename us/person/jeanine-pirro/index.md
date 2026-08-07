@@ -3,10 +3,16 @@
 > Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/person/jeanine-pirro
 
 ## Recent changes
+
+### Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case
+
+President attacks ‘terrible mistake’ of US attorney, who said in court filing damage stemmed from botched renovation Donald Trump has doubled down on his criticism of Jeanine Pirro after the US attorney for the District of Columbia publicly challenged his claims that vandals had damaged the recently renovated Lincoln M.
+
+Date: 2026-08-06
 
 ### Inside the Oval Office Showdown Between Trump and Jeanine Pirro
 
@@ -58,4 +64,4 @@ Date: 2026-08-01
 
 ## Sources
 
-No public source links.
+- [Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case](https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism?utm_source=lootura.com) — 2026-08-06T22:51:12.000Z

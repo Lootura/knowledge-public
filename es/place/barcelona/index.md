@@ -3,10 +3,34 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"
+
+El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6 de agosto que descarta por completo la posibilidad de disputar el partido amistoso en Tánger, Marruecos, previsto para el próximo día 15. "El FC Barcelona informa que el partido amistoso del primer equipo masculino que estaba previsto para.
+
+Date: 2026-08-06
+
+### El Barcelona entra de lleno en la puja por fichar a Rodri
+
+El Barcelona ha ganado terreno en las últimas horas en la carrera por Rodri Hernández . Fuentes del entorno del club señalan que el conjunto azulgrana tiene ahora el camino despejado para negociar directamente con el Manchester City por el centrocampista español, algo que no ocurría ni el miércoles ni la mañana de ayer.
+
+Date: 2026-08-06
+
+### Los ojos de Copito de Nieve
+
+Copito de Nieve, en el zoo de Barcelona en 2003. aTarom/Wikimedia Commons Ser prácticamente coetáneo de un animal singular imprime carácter. O al menos, yo lo he vivido así. Me estoy refiriendo a Copito de Nieve, el primer y único gorila albino conocido, que probablemente influyó en que eligiera el tema de investigació.
+
+Date: 2026-08-06
+
+### El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»
+
+El FC Barcelona ha anunciado este jueves que descarta jugar un amistoso en Tánger ( Marruecos ) , como estaba planeado para el 15 de agosto como parte de la recta final de la pretemporada, por el «contexto de incertidumbre actual» . «Descartado el amistoso en Tánger. Ante el contexto de incertidumbre actual, el FC Barc.
+
+Date: 2026-08-06
 
 ### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
 
@@ -44,31 +68,9 @@ Los vecinos de dos bloques de pisos del barrio de la Trinitat Vella de Barcelona
 
 Date: 2026-08-06
 
-### El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona
-
-Vecinos de un edificio de la calle Muntaner a la altura de la calle Mallorca denuncian que el trasiego de personas drogadas por su escalera les está amargando la vida. Algunos ya planean mudarse, otros siquiera quieren marcharse de vacaciones. Esta comunidad ya instaló cámaras en algunas zonas comunes, contrató a un vi.
-
-Date: 2026-08-06
-
-### Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto
-
-El EC-OIL, el primer A321XLR que recibió Iberia, haciendo el retroceso en Barcelona – Wicho/Microsiervos Iberia ha anunciado que va a utilizar uno de sus Airbus A321XLR para un vuelo especial que seguirá el eclipse total de Sol que atraviesa España que el próximo día 12 de agosto. Su código será IB1473 , en honor a Nic.
-
-Date: 2026-08-05
-
-### El segundo día de huelga en el aeropuerto de El Prat provoca otras 18 cancelaciones aéreas
-
-La segunda jornada de huelga indefinida en los servicios en tierra ( handling ) de la empresa Groundforce en el Aeropuerto de Barcelona-El Prat ha provocado la cancelación de otros 18 vuelos, sin que se produzcan avances en las negociaciones, ha informado el sindicato CGT. En declaraciones a EFE, la portavoz del comité.
-
-Date: 2026-08-05
-
-### El millonario yate con cine privado donde Mbappé y Ester Expósito han hecho oficial su romance: cuesta 9.000 euros al día
-
-Kylian Mbappé y Ester Expósito continúan disfrutando de un verano de ensueño por algunos de los destinos más exclusivos del Mediterráneo. Después de dejarse ver juntos en Miami, Ibiza, Cerdeña y Barcelona , el futbolista francés ha dado un paso más en su relación al compartir por primera vez una fotografía de la actriz.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner](https://www.lavanguardia.com/sucesos/20260806/11609097/guardia-urbana-detiene-inquilinos-piso-horrores-muntaner.html?utm_source=lootura.com) — 2026-08-06T12:30:11.000Z
-- [Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»](https://theobjective.com/gente/2026-08-06/vacaciones-ester-exposito-mbappe-cerdena-barcelona-enamorados/?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z
+- [El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"](https://www.20minutos.es/deportes/futbol/barca-suspende-su-partido-amistoso-marruecos-tras-crisis-migratoria-ceuta-no-se-cumplen-las-condiciones-adecuadas_7023417_0.html?utm_source=lootura.com) — 2026-08-06T18:43:54.000Z
+- [El Barcelona entra de lleno en la puja por fichar a Rodri](https://elpais.com/deportes/futbol/2026-08-06/el-barcelona-entra-de-lleno-en-la-puja-por-fichar-a-rodri.html?utm_source=lootura.com) — 2026-08-06T16:40:29.000Z
+- [Los ojos de Copito de Nieve](https://theconversation.com/los-ojos-de-copito-de-nieve-289076?utm_source=lootura.com) — 2026-08-06T15:44:15.000Z
+- [El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»](https://theobjective.com/deportes/2026-08-06/fc-barcelona-amistoso-marruecos-incertidumbre/?utm_source=lootura.com) — 2026-08-06T19:27:42.000Z

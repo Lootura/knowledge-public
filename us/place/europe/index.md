@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Heat waves have killed millions. Here’s how scientists tally lives lost
+
+Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-07
 
 ### Funding milestone detected
 
@@ -62,12 +68,6 @@ Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis i
 
 Date: 2026-08-02
 
-### Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
-
-New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Wars, Wildfires and Migrants Leave Europe Straining for Control](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com) — 2026-08-06T13:18:35.000Z
+- [Heat waves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T00:52:26.271Z

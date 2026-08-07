@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
+
+Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
+
+Date: 2026-08-06
 
 ### What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida
 
@@ -62,12 +68,6 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome
-
-An adult female lone star tick (Amblyomma americanum) crawls on a blade of grass. Image courtesy CDC. (Photo by Smith Collection/Gado/Getty Images) Doctors in the U.S. are hearing an odd complaint from their patients more frequently: lifelong meat eaters are suddenly breaking out into hives, getting bad stomach pains ,.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [The Quiet Miracles of Ordinary Life in New Syria](https://time.com/article/2026/08/06/syria-post-war-rebuilding-ahmed-alshaara-damascus/?utm_source=lootura.com) — 2026-08-06T10:00:00.000Z
+- [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z

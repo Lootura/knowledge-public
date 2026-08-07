@@ -3,7 +3,7 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-No public source links.
+- [The Chaos and Cruelty of ICE](https://time.com/article/2026/08/06/the-chaos-and-cruelty-of-ice/?utm_source=lootura.com) — 2026-08-06T19:33:44.000Z

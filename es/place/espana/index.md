@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -20,58 +20,63 @@ En la cuenta atrás de este fenómeno histórico que podrá verse en una amplia 
 
 Date: 2026-08-06
 
-### El mejor Jamón de Bellota Ibérico: Su aroma, sabor y textura son inconfundibles
+### El acuerdo entre España y Marruecos de 2007 permite exigir a Rabat que se haga cargo de los menores
 
-El Jamón de bellota 100 % ibérico Guillén , presentado por Manuel Guillén, S.A, de Guijuelo, en la provincia de Salamanca, ha sido reconocido en 2025 como el mejor Jamón de Bellota Ibérico en los premios Alimentos de España. El Ministerio de Agricultura, Pesca y Alimentación ha publicado este jueves en el Boletín Ofici.
-
-Date: 2026-08-06
-
-### España podrá enviar sus F-18 desplegados en Rumanía a interceptar amenazas sobre Bulgaria
-
-España , Bulgaria y Rumanía han firmado un acuerdo trilateral que permitirá a los cazas españoles desplegados en territorio rumano realizar operaciones de defensa aérea sobre el espacio aéreo búlgaro cuando la situación lo requiera. La medida amplía el radio de actuación del Destacamento Aéreo Táctico (DAT) Paznic, enc.
+España puede exigir a Marruecos que, una vez estudiada de forma individualizada cada circunstancia, se haga cargo de parte de los menores no acompañados que la semana pasada cruzaron las fronteras en Ceuta y Melilla y que a día de hoy permanecen en el interior de sendas ciudades autónomas. Así lo establece el acuerdo e.
 
 Date: 2026-08-06
 
-### Albert Rivera, sobre la crianza de sus dos hijas: «Me da pena porque con la mayor renuncié a más cosas»
+### Nueva provocación de Marruecos: dice que recibiría a sus menores si España levanta trabas judiciales
 
-La conciliación entre la vida laboral y la familiar sigue siendo una de las asignaturas pendientes en España. En el día a día, cuadrar horarios, responsabilidades y, sobre todo, encontrar tiempo de calidad para los hijos no siempre resulta fácil. No todas las personas lo viven igual: el ritmo de vida, la exigencia del.
-
-Date: 2026-08-06
-
-### Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones
-
-No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.
+Según ha trasladado una fuente diplomática marroquí a la Agencia EFE, «existen instrucciones» de Mohamed VI para «trabajar en favor del retorno» de...
 
 Date: 2026-08-06
 
-### Roberto Brasero, sobre el eclipse solar del 12 de agosto en España: "Si estás en la totalidad te dura 1 minuto y 45 segundos como mucho"
+### Marruecos afirma que aceptará a todos los menores marroquíes si España levanta los "obstáculos judiciales y administrativos"
 
-El eclipse solar del 12 de agosto podrá contemplarse desde toda España , aunque no se observará de la misma manera en cada territorio . Roberto Brasero ha explicado dónde verlo, a qué hora comenzará y cómo podría influir el tiempo. La principal diferencia dependerá de la ubicación. En buena parte del país, la Luna cubr.
-
-Date: 2026-08-06
-
-### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
-
-La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región "siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños". En un mensaje difundido en su cuent.
+Marruecos está dispuesto a recibir a todos sus menores de edad no acompañados marroquíes que están en España si el país levanta "los obstáculos judiciales y administrativos que impiden hacerlo", según ha asegurado una fuente diplomática marroquí. "Marruecos ha asumido compromisos muy claros sobre este asunto. Existen i.
 
 Date: 2026-08-06
 
-### España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera
+### Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"
 
-Las principales nacionalidades de los inmigrantes fueron la colombiana, la venezolana y la marroquí, con Comunidad Valenciana, Baleares y Asturias encabezando los mayores aumentos...
+El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y duda de la efectividad de las boyas Leer.
 
 Date: 2026-08-06
 
-### Disney lo reconoce: ‘The Mandalorian & Grogu’ y el remake de ‘Moana’ son un fracaso
+### Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”
 
-Aunque Disney acostumbra a contar siempre con varios de los mayores estrenos del año, este 2026 se ha encontrado con dos inesperados fracasos. Se trata de The Mandalorian & Grogu y del remake live-action de Moana ( Vaiana en España). Ambas películas vieron la luz hace unos meses, pero su desempeño en taquilla ha sido b.
+El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado claro este jueves en el Parlamento Europeo que, para él, lo sucedido los días 30 y 31 de julio “no es una crisis migratoria al uso”. “Es un episodio a través del que se ha puesto en jaque nuestra integridad: La de Ceuta, la de España, la de Euro.
+
+Date: 2026-08-06
+
+### Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”
+
+La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.
+
+Date: 2026-08-06
+
+### Las viviendas de lujo de Ibiza y Mallorca llaman la atención del mundo
+
+Las islas baleares de Ibiza y Mallorca llevan décadas ejerciendo un poderoso atractivo sobre el comprador internacional, que mantiene su demanda entre las más sólidas de España. Como explica Rodrigo Lozano, director de Islas Baleares en Spain Sotheby's International Realty, "el mercado residencial de lujo en Baleares e.
+
+Date: 2026-08-06
+
+### Samsung recorta ingresos en España y gana un 11% menos
+
+Los ingresos de Samsung Electronics retrocedieron ligeramente el pasado año en España hasta situarse en 1.786 millones de euros , según se recoge en las cuentas que ha presentado en el Registro Mercantil. La filial española de la multinacional tecnológica surcoreana atribuye la caída del 1% de la cifra de negocio a la.
 
 Date: 2026-08-06
 
 ## Fuentes
 
-- [Vox se une a Sumar y Podemos y exige la exclusión de Marruecos de la organización del Mundial de 2030](https://www.elcorreo.com/politica/vox-une-sumar-podemos-exige-exclusion-marruecos-20260806153730-ntrc_amp.html?utm_source=lootura.com) — 2026-08-06T13:37:30.000Z
+- [El acuerdo entre España y Marruecos de 2007 permite exigir a Rabat que se haga cargo de los menores](https://www.abc.es/espana/espana-puede-exigir-marruecos-haga-cargo-decenas-20260806010659-nt.html?utm_source=lootura.com) — 2026-08-06T23:07:29.000Z
+- [Nueva provocación de Marruecos: dice que recibiría a sus menores si España levanta trabas judiciales](https://www.eldebate.com/espana/20260806/nueva-provocacion-marruecos-dice-recibiria-menores-espana-levanta-trabas-judiciales_447521.html?utm_source=lootura.com) — 2026-08-06T18:30:03.000Z
+- [Marruecos afirma que aceptará a todos los menores marroquíes si España levanta los "obstáculos judiciales y administrativos"](https://www.elindependiente.com/internacional/2026/08/06/marruecos-afirma-que-aceptara-a-todos-los-menores-marroquies-si-espana-levanta-los-obstaculos-judiciales-y-administrativos/?utm_source=lootura.com) — 2026-08-06T19:02:35.000Z
 - [Diez claves para disfrutar del eclipse solar del 12 agosto: ¿Dónde lo veré mejor? ¿Cuándo me puedo quitar las gafas?](https://www.elmundo.es/ciencia/2026/08/06/6a71d04efc6c832c378b4577.html?utm_source=lootura.com) — 2026-08-06T09:37:35.000Z
+- [Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"](https://www.elmundo.es/espana/2026/08/06/6a74d158fdddffe62d8b4599.html?utm_source=lootura.com) — 2026-08-06T21:36:13.000Z
 - [Máximo histórico de población en España: alcanza los 49,8 millones, de los que 10,2 millones han nacido en el extranjero](https://www.elmundo.es/economia/2026/08/06/6a74575be85ece977d8b459b.html?utm_source=lootura.com) — 2026-08-06T09:57:01.000Z
-- [El mejor Jamón de Bellota Ibérico: Su aroma, sabor y textura son inconfundibles](https://www.larazon.es/castilla-y-leon/mejor-jamon-bellota-iberico-aroma-sabor-textura-son-inconfundibles_202608066a745ab2a046ad6ebca13e44.html?utm_source=lootura.com) — 2026-08-06T13:30:16.000Z
-- [España podrá enviar sus F-18 desplegados en Rumanía a interceptar amenazas sobre Bulgaria](https://theobjective.com/espana/2026-08-06/espana-rumania-amenazas-bulgaria/?utm_source=lootura.com) — 2026-08-06T12:58:25.000Z
+- [Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”](https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com) — 2026-08-06T17:40:22.000Z
+- [Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”](https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T19:31:23.000Z
+- [Las viviendas de lujo de Ibiza y Mallorca llaman la atención del mundo](https://www.expansion.com/directivos/estilo-vida/casas/2026/08/07/6a7466d8468aebe3698b4595.html?utm_source=lootura.com) — 2026-08-06T22:57:37.000Z
+- [Samsung recorta ingresos en España y gana un 11% menos](https://www.expansion.com/economia-digital/2026/08/07/6a74f20b468aebe0198b45a7.html?utm_source=lootura.com) — 2026-08-06T22:58:34.000Z

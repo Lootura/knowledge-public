@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -45,13 +45,23 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
-      "summary": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.",
+      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
+      "summary": "A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.",
       "date": "2026-08-06"
     },
     {
-      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
-      "summary": "A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.",
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
+      "summary": "The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
+      "summary": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.",
       "date": "2026-08-06"
     },
     {
@@ -73,16 +83,6 @@
       "title": "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine",
       "summary": "Plus, what happens when you have an A.I. boss.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
-      "summary": "The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -105,47 +105,17 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
-      "url": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:40:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T20:58:56.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T17:35:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:00:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "How China’s A.I. Is Surging Across Africa",
-      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:12:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
-      "url": "https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:31:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "FDA Approves the First mRNA Flu Vaccine",
-      "url": "https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:42:42.000Z",
-      "sourceId": "lootura-us-time"
-    },
-    {
-      "title": "America Is Finally Taking Extraterrestrials Seriously",
-      "url": "https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T12:00:03.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T18:00:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 5
 }

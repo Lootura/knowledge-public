@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -20,15 +20,27 @@ Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz
 
 Date: 2026-08-06
 
-### Pacific islands alarmed by Trump-backed push for deep-sea mining
-
-A Pacific island leader says there were "no consultations" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.
-
-Date: 2026-08-06
-
 ### Iran Hormuz Deal Advances Amid US Munitions Supply Questions
 
 A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.
+
+Date: 2026-08-06
+
+### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
+
+Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
+
+Date: 2026-08-06
+
+### Fled to America at 11. Stole at 18. Deported to Vietnam at 44.
+
+The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.
+
+Date: 2026-08-06
+
+### Pacific islands alarmed by Trump-backed push for deep-sea mining
+
+A Pacific island leader says there were "no consultations" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.
 
 Date: 2026-08-06
 
@@ -56,27 +68,10 @@ Plus, what happens when you have an A.I. boss.
 
 Date: 2026-08-06
 
-### The U.S. Relies on Family Caregivers. Millions of Them Are Kids.
-
-The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.
-
-Date: 2026-08-05
-
-### Developer ecosystem expanded
-
-In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
-
-Date: 2026-08-05
-
 ## Sources
 
 - [Trump denies U.S. running low on some munitions, says vast resupplies being made](https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com) — 2026-08-06T10:10:44.000Z
 - [Iran Hormuz Deal Advances Amid US Munitions Supply Questions](https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com) — 2026-08-06T11:23:24.000Z
 - [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
-- [Pacific islands alarmed by Trump-backed push for deep-sea mining](https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html?utm_source=lootura.com) — 2026-08-06T08:40:01.000Z
-- [Blanche Defends Pirro but Says Trump Can Fire Her at Any Time](https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html?utm_source=lootura.com) — 2026-08-05T17:35:45.000Z
-- [Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect](https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com) — 2026-08-05T18:00:01.000Z
-- [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
-- [The U.S. Relies on Family Caregivers. Millions of Them Are Kids.](https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html?utm_source=lootura.com) — 2026-08-05T16:31:25.000Z
-- [FDA Approves the First mRNA Flu Vaccine](https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/?utm_source=lootura.com) — 2026-08-06T13:42:42.000Z
-- [America Is Finally Taking Extraterrestrials Seriously](https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/?utm_source=lootura.com) — 2026-08-06T12:00:03.000Z
+- [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z
+- [Fled to America at 11. Stole at 18. Deported to Vietnam at 44.](https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html?utm_source=lootura.com) — 2026-08-06T18:00:44.000Z

@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Funding milestone detected
+
+A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.
+
+Date: 2026-08-06
 
 ### NATO spending pressure returned
 
@@ -62,13 +68,6 @@ President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “f
 
 Date: 2026-08-04
 
-### Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say
-
-President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family](https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com) — 2026-08-05T16:26:49.000Z
-- [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com) — 2026-08-05T21:58:59.000Z
+- [Hemp Fight Snarls Speedy Passage of Government Funding Bill](https://www.nytimes.com/2026/08/06/us/politics/hemp-government-funding-bill.html?utm_source=lootura.com) — 2026-08-06T19:41:40.000Z

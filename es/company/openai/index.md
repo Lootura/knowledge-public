@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI](https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com) — 2026-08-06T09:37:59.000Z
+- [La versión gratis de ChatGPT elimina uno de sus límites más pedidos y ahora es más útil](https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-6/?utm_source=lootura.com) — 2026-08-06T19:37:00.000Z

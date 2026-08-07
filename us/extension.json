@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T14:15:17.102Z",
+  "generatedAt": "2026-08-07T01:04:53.749Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|80|1786024935712",
+    "signature": "1.18.0|82|1786063942799",
     "version": "1.18.0",
-    "build": 80,
-    "latestEntityUpdatedAt": "2026-08-06T14:02:15.712Z"
+    "build": 82,
+    "latestEntityUpdatedAt": "2026-08-07T00:52:22.799Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
+      "id": "usa-iran",
+      "name": "Iran",
       "type": "place",
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-08-06T14:02:15.712Z",
-      "score": 1662,
-      "sourceCount": 606,
+      "title": "Morning news brief",
+      "url": "https://atlas.lootura.com/us/place/iran",
+      "path": "/us/place/iran",
+      "updatedAt": "2026-08-07T00:52:22.799Z",
+      "score": 1697,
+      "sourceCount": 325,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-06T14:02:15.712Z",
-        "score": 1634,
-        "sourceCount": 325,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "usa-anthony-fauci",
         "name": "Anthony Fauci",
         "type": "person",
-        "title": "Senate Panel Holds Fauci in Contempt of Congress",
+        "title": "Senate committee votes to hold Fauci in contempt of Congress",
         "url": "https://atlas.lootura.com/us/person/anthony-fauci",
         "path": "/us/person/anthony-fauci",
-        "updatedAt": "2026-08-06T14:02:15.712Z",
-        "score": 1623,
-        "sourceCount": 3,
+        "updatedAt": "2026-08-07T00:52:22.799Z",
+        "score": 1685,
+        "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-venezuela",
-        "name": "Venezuela",
-        "type": "place",
-        "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
-        "url": "https://atlas.lootura.com/us/place/venezuela",
-        "path": "/us/place/venezuela",
-        "updatedAt": "2026-08-06T14:02:15.712Z",
-        "score": 1618,
-        "sourceCount": 13,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump signs new orders targeting birthright citizenship",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-07T00:52:22.799Z",
+        "score": 1675,
+        "sourceCount": 597,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "Trump signs new orders targeting birthright citizenship",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-08-07T00:52:22.799Z",
+        "score": 1656,
+        "sourceCount": 23,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-08-06T14:02:15.712Z",
-        "score": 1612,
-        "sourceCount": 106,
+        "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-07T00:52:22.799Z",
+        "score": 1642,
+        "sourceCount": 608,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 111
+    "publicEntityCount": 114
   }
 }

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña](https://www.elconfidencial.com/espana/2026-08-06/inundaciones-tormentas-catalunya-alerta-1tna-1tps_4402119/?utm_source=lootura.com) — 2026-08-06T13:32:00.000Z
+No public source links.

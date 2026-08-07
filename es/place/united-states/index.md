@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
+
+Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.
+
+Date: 2026-08-06
+
+### Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio
+
+La cabina de pasaje de un 737 MAX - Boeing Lo de Boeing es impresionante. A este paso va a acabar por darme pena: no bien acaba de obtener el permiso para la entrada en servicio del 737 MAX 7 tras ocho años de pruebas se ha sabido que la Administración Federal de Aviación (FAA) de los Estados Unidos tiene pensado emiti.
+
+Date: 2026-08-06
 
 ### Santander ficha al CEO de UBS en Brasil para su banca de inversión
 
@@ -56,18 +68,7 @@ Banco Santander y Webster Financial Corporation han anunciado que ya tienen la a
 
 Date: 2026-08-05
 
-### Los intereses de Estados Unidos en Israel en Ceuta
-
-El respaldo de representantes de ambos países a las reclamaciones territoriales de Rabat tiene como objetivo deslegitimar el apoyo español a Palestina, castigar su negativa a subir el gasto en defensa e impulsar la agenda antimigratoria.
-
-Date: 2026-08-05
-
-### Alcaraz retrasa su vuelta: tampoco jugará el Masters de Cincinnati, último gran torneo antes del US Open
-
-El tenista español Carlos Alcaraz no participará en el próximo torneo de Cincinnati (Estados Unidos), de categoría Masters 1000 para la ATP y que se disputará sobre pista dura entre el 13 y el 23 de agosto, el último gran torneo antes del US Open, debido a que todavía está en "proceso de recuperación" por la lesión que.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Santander ficha al CEO de UBS en Brasil para su banca de inversión](https://amp.expansion.com/empresas/banca/2026/08/06/6a746aa3468aebfb798b458e.html?utm_source=lootura.com) — 2026-08-06T12:58:23.000Z
+- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z
+- [Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio](http://www.microsiervos.com/archivo/aerotrastorno/revisar-450-boeing-737-max-asientos-mal-atornillados.html?utm_source=lootura.com) — 2026-08-06T19:00:00.000Z

@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Wars, Wildfires and Migrants Leave Europe Straining for Control](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html?utm_source=lootura.com) — 2026-08-06T13:18:35.000Z
-- [Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat](https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html?utm_source=lootura.com) — 2026-08-06T12:47:39.000Z
+No public source links.

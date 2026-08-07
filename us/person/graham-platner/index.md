@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Group pushes for ban on using campaign funds for legal fees in misconduct cases](https://www.pbs.org/newshour/show/group-pushes-for-ban-on-using-campaign-funds-for-legal-fees-in-misconduct-cases?utm_source=lootura.com) — 2026-08-06T22:30:05.000Z

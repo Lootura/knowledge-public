@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Programación de Donostiako Piratak para la Semana Grande 2026
+
+Consulta día a día las actividades programadas para la Aste Nagusia de San Sebastián.
+
+Date: 2026-08-06
 
 ### El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares
 
@@ -62,12 +68,6 @@ Encargadas a un célebre taller italiano en plena Belle Époque, las esculturas 
 
 Date: 2026-08-02
 
-### El castillo vasco que parece sacado de un cuento: la Torre Satrústegi, seis generaciones y un patrimonio en riesgo en San Sebastián
-
-Euskadi es una región donde cada rincón cuenta un fragmento de su pasado. Desde las cuevas prehistóricas de Ekain y Santimamiñe hasta la arquitectura medieval de Hondarribia o Laguardia , su patrimonio cultural sigue vivo en tradiciones como la música, la danza y el euskera, que mantienen una identidad única y profunda.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares](https://www.diariovasco.com/san-sebastian/exotico-cliente-parte-vieja-san-sebastian-guacamayo-20260805185227-nt_amp.html?utm_source=lootura.com) — 2026-08-05T16:52:27.000Z
+- [Programación de Donostiako Piratak para la Semana Grande 2026](https://www.diariovasco.com/san-sebastian/semana-grande/programacion-donostiako-piratak-semana-grande-2026-20260806195906-nt_amp.html?utm_source=lootura.com) — 2026-08-06T17:59:06.000Z

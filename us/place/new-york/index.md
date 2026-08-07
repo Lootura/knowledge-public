@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Mayor Says El-Sayed’s Win Shows He Is More Than a ‘Mini-Mamdani’](https://www.nytimes.com/2026/08/05/us/politics/el-sayed-mamdani-michigan-election.html?utm_source=lootura.com) — 2026-08-05T22:38:59.000Z
+No public source links.

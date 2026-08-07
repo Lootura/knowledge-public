@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican",
+      "summary": "La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
       "summary": "La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.",
@@ -85,20 +90,15 @@
       "title": "La Reina Letizia, de rojo, y sus hijas, con la camiseta, para recibir a la selección",
       "summary": "Don Felipe VI y Doña Letizia , acompañados de sus hijas, la Princesa Leonor y la Infanta Sofía fueron testigos de la victoria de la selección española en Nueva York frente a Argentina. Solo unas horas después han vuelto a reencontrarse en Madrid, en los jardines de la Zarzuela, donde los jugadores de la Roja han acudid.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Bailes, euforia y baño de champán: la celebración de España en Nueva York",
-      "summary": "Los futbolistas celebraron en familia la victoria en la Copa del Mundo y lo seguirán haciendo hasta la tarde de este lunes, cuando llegan a Madrid.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "La Naty Abascal más desconocida: de su primer marido olvidado al trágico final del duque de Feria",
-      "url": "https://www.abc.es/gente/naty-abascal-20260610013733-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T12:54:17.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican",
+      "url": "http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T18:30:00.000Z",
+      "sourceId": "lootura-es-microsiervos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

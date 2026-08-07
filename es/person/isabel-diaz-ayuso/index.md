@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”
 
 Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.
+
+Date: 2026-08-06
+
+### El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial
+
+Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.
 
 Date: 2026-08-06
 
@@ -62,12 +68,7 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este 
 
 Date: 2026-08-02
 
-### Ayuso asegura que la «venta» del ático y otros inmuebles será para reconstruir la Sierra Norte
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha defendido este domingo que el ático de Chamberí que adquirió el Gobierno regional «está en venta» y servirá para «reforzar la reconstrucción» de la Sierra Norte tras el incendio . «Está en venta este inmueble y también hemos puesto otros cuatro que están e.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial](https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com) — 2026-08-06T18:07:34.000Z
 - [El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”](https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com) — 2026-08-06T11:30:42.000Z

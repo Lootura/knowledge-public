@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeanine-pirro/index.json",
   "description": "Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "Jeanine",
     "Pirro"
   ],
   "changes": [
+    {
+      "title": "Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case",
+      "summary": "President attacks ‘terrible mistake’ of US attorney, who said in court filing damage stemmed from botched renovation Donald Trump has doubled down on his criticism of Jeanine Pirro after the US attorney for the District of Columbia publicly challenged his claims that vandals had damaged the recently renovated Lincoln M.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
       "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
@@ -55,6 +60,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:51:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

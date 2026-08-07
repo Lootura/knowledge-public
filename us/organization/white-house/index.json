@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.",
+      "date": "2026-08-06"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
@@ -62,26 +67,15 @@
       "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
       "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Trump and White House officials hope Rep. Max Miller ends reelection bid, sources say",
-      "summary": "President Trump and other officials hope embattled GOP Rep. Max Miller exits the congressional race in Ohio immediately, multiple U.S. officials familiar with the matter tell CBS News. CBS News' Taurean Small has more.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T16:26:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
-      "url": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T21:58:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Hemp Fight Snarls Speedy Passage of Government Funding Bill",
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/hemp-government-funding-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T19:41:40.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

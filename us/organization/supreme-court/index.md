@@ -3,10 +3,28 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-07T00:52:22.799Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump issues new executive orders aimed at birthright citizenship
+
+The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
+
+Date: 2026-08-07
+
+### Trump signs new orders targeting birthright citizenship
+
+Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.
+
+Date: 2026-08-07
+
+### Edgy Vanity Plates Test Limits of Free Speech
+
+Virginia will ask the Supreme Court to hear a dispute over a seven-character license plate message.
+
+Date: 2026-08-06
 
 ### Tennessee secretary of state on redistricting, election security and low voter turnout
 
@@ -50,24 +68,8 @@ A pair of decisions reshaped the structure of the federal government.
 
 Date: 2026-07-23
 
-### Trump Administration to Impose New Tariffs on Brazil
-
-The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down.
-
-Date: 2026-07-16
-
-### Funding milestone detected
-
-Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday. (Image credit: Anna Moneymaker).
-
-Date: 2026-07-15
-
-### Funding milestone detected
-
-Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Trump issues new executive orders aimed at birthright citizenship](https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T00:15:00.000Z
+- [Trump signs new orders targeting birthright citizenship](https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders?utm_source=lootura.com) — 2026-08-07T00:40:22.000Z
+- [Edgy Vanity Plates Test Limits of Free Speech](https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html?utm_source=lootura.com) — 2026-08-06T16:01:44.000Z

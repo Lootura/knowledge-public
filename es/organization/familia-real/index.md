@@ -3,10 +3,16 @@
 > Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/familia-real
 
 ## Cambios recientes
+
+### Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»
+
+Una hora y cuarto. Es el tiempo que Felipe VI ha estado reunido en su despacho del Palacio de Marivent con Juan Jesús Vivas. El presidente de Ceuta llegaba a la residencia estival de la Familia Real poco antes de las seis de la tarde acompañado por el jefe de la Casa del Rey, Camilo Villarino. Con semblante serio y tri.
+
+Date: 2026-08-06
 
 ### Discovered by Atlas
 
@@ -58,4 +64,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»](https://www.abc.es/espana/casa-real/vivas-agradece-felipe-carino-apoyo-ceuta-promete-20260806195823-nt.html?utm_source=lootura.com) — 2026-08-06T23:08:06.000Z

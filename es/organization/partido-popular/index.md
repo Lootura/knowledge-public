@@ -3,22 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
-
-Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
-
-Date: 2026-08-06
-
-### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
-
-Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: "Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente " en el Congreso para hablar de la crisis de Ceuta. "Mientras el rey se reúne.
-
-Date: 2026-08-06
 
 ### Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: "La situación actual es diferente"
 
@@ -29,6 +17,36 @@ Date: 2026-08-06
 ### El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”
 
 La pregunta planea cada rueda de prensa que ofrece un dirigente del Partido Popular desde el jueves pasado, cuando 72.000 personas entraron a Ceuta . ¿Acogerán las comunidades, en su mayoría gobernadas por el PP, a los menores llegados aquel día? ¿Y aquellas que comparten el Ejecutivo con Vox después de haber firmado a.
+
+Date: 2026-08-06
+
+### Vox no romperá los gobiernos autonómicos con el PP aunque acepten el reparto de menores extranjeros
+
+Vox no romperá sus pactos de gobierno con el PP en Extremadura, Aragón, Castilla y León y Andalucía aunque estas comunidades autónomas acepten el reparto de los más de 1.100 menores extranjeros no acompañados llegados a Ceuta, que desbordan con creces la capacidad de acogida de la ciudad autónoma. El partido ultra no p.
+
+Date: 2026-08-06
+
+### Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”
+
+La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.
+
+Date: 2026-08-06
+
+### En Sumario de tarde: de la «negligencia» de Marlaska al sí del PP al reparto de menores
+
+Los servicios de inteligencia achacan el asalto a Ceuta a la «negligencia de Marlaska»; El PP insiste en que «cumplirá la ley» en el reparto de los menores inmigrantes de Ceuta; Frontex advirtió en junio del auge de la ruta de Ceuta y destacó la escasa actuación de mafias; y aislado en España un turista positivo de han.
+
+Date: 2026-08-06
+
+### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
+
+Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
+
+Date: 2026-08-06
+
+### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
+
+Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: "Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente " en el Congreso para hablar de la crisis de Ceuta. "Mientras el rey se reúne.
 
 Date: 2026-08-06
 
@@ -50,28 +68,10 @@ La portavoz del PP en el Senado, Alicia García, ha solicitado que la Cámara Al
 
 Date: 2026-08-06
 
-### El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios literarios
-
-El gobierno de PP y Vox en Mallorca acaba con la marginación del español en sus premios y estará en las mismas 5 modalidades que el catalán.
-
-Date: 2026-08-06
-
-### El PNV se alinea con el PP y Junts y rechaza el reparto de menores de Ceuta
-
-La consejera vasca de Bienestar, Juventud y Reto Demográfico, Nerea Melgosa ( PNV ), ha reclamado este miércoles que «se agoten todas las vías para que vuelvan con sus familias» los menores que cruzaron la frontera de Ceuta la semana pasada. «Yo no me imagino a España abandonando, a su suerte, por otros países, a sus n.
-
-Date: 2026-08-05
-
-### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
-
-La Comisión de Libertades Civiles, Justicia y Asuntos de Interior del Parlamento Europeo celebrará este jueves una reunión extraordinaria para abordar la crisis migratoria registrada en Ceuta , en una sesión impulsada por el Partido Popular en la que participarán el comisario europeo de Interior y Migración, Magnus Bru.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"](https://www.20minutos.es/nacional/pp-pide-comparecencia-urgente-sanchez-cuatro-ministros-por-crisis-ceuta-que-nos-expliquen-quien-miente_7023215_0.html?utm_source=lootura.com) — 2026-08-06T11:08:30.000Z
 - [Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: "La situación actual es diferente"](https://amp.elmundo.es/espana/2026/08/06/6a746efdfc6c8381288b4573.html?utm_source=lootura.com) — 2026-08-06T11:58:08.000Z
-- [La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades](https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z
+- [Vox no romperá los gobiernos autonómicos con el PP aunque acepten el reparto de menores extranjeros](https://elpais.com/espana/2026-08-06/vox-no-rompera-los-gobiernos-autonomicos-con-el-pp-aunque-acepten-el-reparto-de-menores-extranjeros.html?utm_source=lootura.com) — 2026-08-06T17:15:49.000Z
+- [Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”](https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T19:31:23.000Z
 - [El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”](https://elpais.com/espana/2026-08-06/el-pp-reconoce-que-acogera-a-los-menores-en-sus-comunidades-el-partido-popular-siempre-cumple-la-ley-en-esta-ocasion-tambien.html?utm_source=lootura.com) — 2026-08-06T12:07:27.000Z
-- [PP y Vox evitan el choque por los menores migrantes de Ceuta y apuntan al Gobierno](https://www.lavanguardia.com/politica/20260806/11609076/pp-vox-evitan-choque-pese-presion-menores-migrantes-ponen-punto-mira-gobierno.html?utm_source=lootura.com) — 2026-08-06T12:58:51.000Z
+- [En Sumario de tarde: de la «negligencia» de Marlaska al sí del PP al reparto de menores](https://theobjective.com/espana/2026-08-06/sumario-tarde-negligencia-marlaska-pp-reparto-menores/?utm_source=lootura.com) — 2026-08-06T17:56:48.000Z

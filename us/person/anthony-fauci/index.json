@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -30,8 +30,23 @@
   ],
   "changes": [
     {
+      "title": "Senate committee votes to hold Fauci in contempt of Congress",
+      "summary": "The Senate Homeland Security Committee voted to hold Dr. Anthony Fauci in contempt of Congress over his refusal to answer questions during testimony before the committee last week.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "Anthony Fauci first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Senate Republicans vote to hold Fauci in contempt of Congress",
+      "summary": "Senate Republicans voted to hold Dr. Anthony Fauci in contempt of congress for invoking his fifth amendment rights over 100 times during a hearing last week. NBC News’ Ryan Nobles reports.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?",
+      "summary": "Anthony Fauci testifies at a Senate Homeland Security and Governmental Affairs Committee hearing in Washington, D.C., on July 29, 2026. —Kevin Dietsch—Getty Images The Senate Homeland Security and Government Affairs Committee on Thursday voted to hold Dr. Anthony Fauci in contempt of Congress following a contentious he.",
       "date": "2026-08-06"
     },
     {
@@ -52,17 +67,23 @@
   ],
   "sources": [
     {
-      "title": "Republican senators vote to hold Dr. Fauci in contempt of Congress",
-      "url": "https://www.nbcnews.com/now/video/republican-senators-vote-to-hold-dr-fauci-in-contempt-of-congress-267872837617?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:37:21.000Z",
+      "title": "Senate committee votes to hold Fauci in contempt of Congress",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-senate-committee-contempt-of-congress-rand-paul/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:15:50.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Senate Republicans vote to hold Fauci in contempt of Congress",
+      "url": "https://www.nbcnews.com/nightly-news/video/senate-republicans-vote-to-hold-fauci-in-contempt-of-congress-267908677598?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T23:00:25.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Senate Panel Holds Fauci in Contempt of Congress",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:52:10.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?",
+      "url": "https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:07:06.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

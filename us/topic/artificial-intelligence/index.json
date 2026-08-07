@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,26 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post , CEO and co-founder Mike.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Then-CEO of Google DeepMind, Demis Hassabis, speaks at the 2026 Google I/O technology developer conference in Mountain View, California, on May 19, 2026 —Karl Mondon—AFP/Getty Images Demis Hassabis, the founder and CEO of Google’s artificial intelligence division DeepMind, is stepping aside to a more advisory role, Goo.",
+      "date": "2026-08-06"
+    },
     {
       "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
@@ -56,65 +76,33 @@
       "title": "Why increased AI spending caused SpaceX shares to fall",
       "summary": "CBS News business contributor Javier David breaks down why SpaceX shares fell on Wednesday after the company announced higher spending on AI in its earnings report.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday . Hassabis will continue to lead Alphabet's Isomorphic Labs, which a.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-sou.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "How to Talk Like a Human in the AI Era",
-      "summary": "—J Studios—Getty Images As AI becomes more prevalent in our personal and professional lives, the more we’ll need a way to stand out. In fact, skills like empathy, influence, and the ability to read the room—things AI cannot yet do with accuracy and facility—are already becoming more valuable. We are facing an insidious.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Meta says its AI model breached a third-party company during testing",
-      "url": "https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T03:50:14.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
       "url": "https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T14:02:20.220Z",
+      "publishedAt": "2026-08-07T00:52:26.271Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "How China’s A.I. Is Surging Across Africa",
-      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T14:12:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "url": "https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:52:26.270Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "You can now ask Google Maps’ AI to order food for you",
-      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T12:30:37.000Z",
+      "title": "Suno shares plans to combat spammy AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T17:39:43.000Z",
       "sourceId": "lootura-us-the-verge"
     },
     {
-      "title": "AI bots started a religion — humans immediately followed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:26:42.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside",
+      "url": "https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T17:53:25.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

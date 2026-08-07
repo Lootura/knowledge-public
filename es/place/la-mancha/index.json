@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas",
+      "summary": "El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio",
       "summary": "El Servicio de Prevención y Extinción de Incendios Forestales de Castilla-La Mancha ( Infocam ) ha declarado extinguido el incendio de Almorox (Toledo) , iniciado el pasado 22 de julio. De acuerdo con el Sistema de Información de Incendios Forestales ( Fidias ) de la Consejería de Desarrollo Sostenible de la Junta de C.",
@@ -58,13 +63,15 @@
       "title": "Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere \"refrescar el ambiente político\"",
       "summary": "El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "El PP reclama coordinación entre instituciones y evitar la confrontación por los incendios",
-      "summary": "El vicesecretario de Hacienda, Vivienda e Infraestructuras del PP , Juan Bravo , ha trasladado este sábado la solidaridad de su partido con las personas afectadas por los «devastadores incendios» que están en España, con especial incidencia en la Comunidad de Madrid, en Castilla y León y en Castilla-La Mancha. Bravo ha.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas",
+      "url": "https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T14:58:56.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 1
 }

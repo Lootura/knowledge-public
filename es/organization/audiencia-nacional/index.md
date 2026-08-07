@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
 
 Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.
+
+Date: 2026-08-06
+
+### Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias
+
+La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.
 
 Date: 2026-08-06
 
@@ -62,12 +68,7 @@ La jueza también solicita que se le informe del dispositivo desplegado en el te
 
 Date: 2026-08-05
 
-### Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros
-
-Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.
-
-Date: 2026-08-05
-
 ## Fuentes
 
 - [Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros](https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com) — 2026-08-06T06:13:24.000Z
+- [Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias](https://www.larazon.es/espana/interior-teme-que-informes-policiales-ceuta-desmientan-version-oficial-mafias_202608076a7511fda5690f04736b77e4.html?utm_source=lootura.com) — 2026-08-06T23:00:13.000Z

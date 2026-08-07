@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta](https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T03:30:01.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Muere un segundo niño tratado en China con una terapia de edición genética](https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:19:51.000Z
+No public source links.

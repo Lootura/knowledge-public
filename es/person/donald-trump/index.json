@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci",
+      "summary": "El Senado abre la vía para acusar al exresponsable sanitario que dirigió la respuesta federal contra la pandemia.",
+      "date": "2026-08-06"
+    },
     {
       "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
       "summary": "La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.",
@@ -68,20 +73,15 @@
       "title": "La Primera de Expansión sobre el récord del Ibex, petróleo, Entrecanales Franco y Acciona",
       "summary": "El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trump de cancelar los ataques contra Irán ha desinflado el precio del petróleo, y ha acelerado las compras en Bolsa.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
-      "summary": "La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "IU tacha a Infantino de «lacayo de Trump» y cuestiona celebrar el mundial con Marruecos",
-      "url": "https://theobjective.com/espana/politica/2026-08-06/iu-infantino-lacayo-trump-mundial-marruecos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:36:19.000Z",
+      "title": "Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci",
+      "url": "https://theobjective.com/internacional/2026-08-06/trump-departamento-justicia-eeuu-procesar-anthony-fauci/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-06T21:42:15.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

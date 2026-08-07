@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
   "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T02:34:26.087Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
@@ -17,6 +17,11 @@
     "Vereinigung Europäischer Fußballverbände"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La UEFA expresó este pasado jueves 6 de agosto, tras el comité de crisis de FIFA celebrado en Rabat, que el organismo europeo \"dejó muy claro en su comunicado del sábado que ha perdido la confianza en la presidencia de Gianni Infantino \" . \"Esa postura se mantiene\", afirma la mayor institución del fútbol europeo al ser.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "UEFA first entered the public knowledge record with source-backed evidence.",
@@ -28,6 +33,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La UEFA no da marcha atrás con la FIFA e Infantino: \"Hemos perdido la confianza\"",
+      "url": "https://www.20minutos.es/deportes/futbol/uefa-no-da-marcha-atras-con-fifa-gianni-infantino-hemos-perdido-confianza_7023413_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T18:21:35.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

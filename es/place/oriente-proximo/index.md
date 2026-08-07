@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Ibex marca nuevos máximos y roza los 20.300 puntos](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T11:53:32.000Z
+No public source links.

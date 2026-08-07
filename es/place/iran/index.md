@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz
+
+La apertura del estrecho de Ormuz y la recuperación del tráfico marítimo se han convertido en la brújula de los mercados. Las noticias sobre las conversaciones entre Omán e Irán para la apertura de este enclave con una nueva ruta de navegación permiten a las Bolsas europeas prolongar las subidas y al Ibex 35 alcanzar n.
+
+Date: 2026-08-06
 
 ### El Ibex marca nuevos máximos y roza los 20.300 puntos
 
@@ -62,12 +68,6 @@ El Congreso estadounidense recibe una propuesta de ley bipartidista en la que se
 
 Date: 2026-08-05
 
-### El Ibex conquista los 20.000 puntos animado por la caída del petróleo
-
-El selectivo español repunta un 0,21%, hasta los 20.023,6 puntos, favorecido por los avances en el terreno geopolítico. EEUU espera alcanzar "entre hoy y mañana" un acuerdo con Irán para reabrir Ormuz, lo que lleva al barril de Brent a caer más de un 4% y perder los 80 dólares.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El Ibex marca nuevos máximos y roza los 20.300 puntos](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T11:53:32.000Z
+- [El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T20:15:32.000Z

@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Type: person
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe
 
 Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.
+
+Date: 2026-08-06
+
+### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
+
+El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.
+
+Date: 2026-08-06
+
+### El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su "compromiso" de visitar Ceuta
+
+«Que el jefe del Estado haya querido transmitir un mensaje de ánimo, apoyo y cariño a Ceuta es especialmente relevante», ensalzó ayer el presidente de la ciudad...
+
+Date: 2026-08-06
+
+### Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después
+
+El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.
 
 Date: 2026-08-06
 
@@ -50,26 +68,9 @@ El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica
 
 Date: 2026-08-06
 
-### La Guardia Civil busca a los 6.000 inmigrantes que "deambulan" por Ceuta para devolverlos por la fuerza a Marruecos
-
-El Gobierno de la ciudad autónoma sostiene que entraron 80.000 personas, 8.000 más de las contabilizadas por el Ministerio del Interior, y que han sido devueltas 73.000 Leer.
-
-Date: 2026-08-05
-
-### Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: "Sería muy poco inteligente"
-
-La presidenta regional carga contra quienes intentan "mezclar" la compra del ático de lujo por parte de su gobierno con la puesta en venta de los dos áticos de su pareja, Alberto González Amador, incluido el inmueble en el que viven ambos: "Se han dado dos circunstancias a la vez" El Gobierno de Ayuso compró el ático d.
-
-Date: 2026-08-05
-
-### El Gobierno vasco pide que "se agoten todas las vías para que vuelvan con sus familias" los menores llegados a Ceuta
-
-La consejera Nerea Melgosa reclama que "cualquier derivación debe acordarse" y realizarse con "financiación suficiente y todas las garantías", y recuerda que el sistema vasco de protección "ya trabaja por encima de su capacidad ordinaria" El PP se enreda con la acogida de menores: dice ahora que “cumplirán la ley” mien.
-
-Date: 2026-08-05
-
 ## Fuentes
 
+- [Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas](https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com) — 2026-08-06T14:58:56.000Z
 - [El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe](https://www.elmundo.es/espana/2026/08/06/6a746c8ae9cf4a796e8b4573.html?utm_source=lootura.com) — 2026-08-06T12:45:14.000Z
-- [El consejero al que Ayuso señaló por la compra del ático: "Lo que no se dice es que Madrid no tiene residencia oficial para la presidenta"](https://www.eldiario.es/madrid/consejero-ayuso-senalo-compra-atico-izquierda-necesita-buscar-fantasmas-no-hay_1_13431628.html?utm_source=lootura.com) — 2026-08-06T10:28:11.000Z
-- [Ceuta pide un plan específico de seguridad con despliegue policial en todas las barriadas](https://theobjective.com/espana/politica/2026-08-06/ceuta-plan-seguridad/?utm_source=lootura.com) — 2026-08-06T12:42:48.000Z
+- [El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su "compromiso" de visitar Ceuta](https://amp.elmundo.es/espana/2026/08/06/6a74e369fdddff95278b4592.html?utm_source=lootura.com) — 2026-08-06T20:56:49.000Z
+- [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z

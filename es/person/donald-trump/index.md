@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci
+
+El Senado abre la vía para acusar al exresponsable sanitario que dirigió la respuesta federal contra la pandemia.
+
+Date: 2026-08-06
 
 ### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
 
@@ -62,12 +68,6 @@ El Ibex bate su récord a las puertas de los 20.000 puntos. La decisión de Trum
 
 Date: 2026-08-04
 
-### Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear
-
-La guerra de Irán gira hoy en torno al estrecho de Ormuz , pero Israel hace días que intenta desplazar la atención hacia otro lugar: la montaña de Kuh-e Kolang Gaz La, más conocida por su nombre en inglés, Pickaxe. Seguir leyendo...
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [IU tacha a Infantino de «lacayo de Trump» y cuestiona celebrar el mundial con Marruecos](https://theobjective.com/espana/politica/2026-08-06/iu-infantino-lacayo-trump-mundial-marruecos/?utm_source=lootura.com) — 2026-08-06T09:36:19.000Z
+- [Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci](https://theobjective.com/internacional/2026-08-06/trump-departamento-justicia-eeuu-procesar-anthony-fauci/?amp=&utm_source=lootura.com) — 2026-08-06T21:42:15.000Z

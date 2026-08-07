@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella
+
+Felipe VI viaja este jueves por la noche a Cali ( Colombia ) desde Palma para asistir a la toma de posesión como nuevo presidente colombiano de Abelardo de la Espriella , con quien mantendrá una reunión antes de la ceremonia. El rey de España, que viaja acompañado del ministro de Asuntos Exteriores, José Manuel Albares.
+
+Date: 2026-08-06
 
 ### Del 'caso Ghali' a la crisis de Ceuta: cinco años de luces y sombras en la relación entre España y Marruecos
 
@@ -46,4 +52,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella](https://theobjective.com/internacional/2026-08-06/felipe-vi-colombia-investidura-presidente-espriella/?utm_source=lootura.com) — 2026-08-06T19:14:05.000Z

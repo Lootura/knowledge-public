@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "Graham Cunningham Platner",
     "Platner"
@@ -65,6 +65,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Group pushes for ban on using campaign funds for legal fees in misconduct cases",
+      "url": "https://www.pbs.org/newshour/show/group-pushes-for-ban-on-using-campaign-funds-for-legal-fees-in-misconduct-cases?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:30:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

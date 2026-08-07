@@ -66,13 +66,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña",
-      "url": "https://www.elconfidencial.com/espana/2026-08-06/inundaciones-tormentas-catalunya-alerta-1tna-1tps_4402119/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T13:32:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

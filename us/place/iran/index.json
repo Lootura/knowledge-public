@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
-      "summary": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image.",
-      "date": "2026-08-06"
-    },
     {
       "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
       "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
@@ -34,6 +29,16 @@
     {
       "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
       "summary": "A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+      "summary": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image.",
       "date": "2026-08-06"
     },
     {
@@ -60,20 +65,9 @@
       "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
       "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "Former Defense Secretary Chuck Hagel on Iran war, sharing of information",
-      "url": "https://www.cbsnews.com/video/former-defense-secretary-chuck-hagel-on-iran-war-sharing-of-information/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T01:21:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
       "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com",
@@ -93,17 +87,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
-      "url": "https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T04:00:00.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-05T18:00:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T20:58:56.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

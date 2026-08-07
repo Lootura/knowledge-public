@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
-      "url": "https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:37:59.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Apple: la apuesta en IA que llega tarde",
+      "url": "https://www.expansion.com/directivos/2026/08/07/6a745f0ee5fdea77598b4584.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:58:33.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 0

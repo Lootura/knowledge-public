@@ -28,5 +28,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales](https://www.elconfidencial.com/espana/madrid/2026-08-06/alcaldesa-alcala-filtracion-agresion-secretos-1tna-1tps_4401900/?utm_source=lootura.com) — 2026-08-06T09:44:00.000Z
-- [El juez propone juzgar a la alcaldesa de Alcalá por la filtración de informes policiales para "salvar a la jefa" Ayuso](https://www.eldiario.es/madrid/juez-propone-juzgar-alcaldesa-alcala-filtracion-informes-policiales-salvar-jefa-ayuso_1_13431331.html?utm_source=lootura.com) — 2026-08-06T09:07:48.000Z
+No public source links.

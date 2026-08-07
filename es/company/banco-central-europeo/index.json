@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.json",
   "description": "Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T16:53:58.142Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "BCE",
     "El Banco Central"
   ],
   "changes": [
+    {
+      "title": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
+      "summary": "El Banco Central Europeo (BCE) advierte de que los precios seguirán siendo altos en lo que resta de 2026. El organismo que fija la política monetaria de los países de la zona euro asegura que la inflación se mantendrá en niveles “elevados” y no se empezará a moderar como pronto hasta la llegada del primer trimestre de.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
+      "summary": "Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Así serán los nuevos billetes de euro: el BCE lanza una encuesta para elegir los nuevos diseños de la moneda comunitaria",
       "summary": "Los billetes de euro están cada vez más cerca de estrenar una nueva imagen. El Banco Central Europeo (BCE) ha abierto una consulta pública para que los ciudadanos participen en la elección del diseño que lucirá el dinero en efectivo a partir de 2027. La iniciativa busca que los europeos tengan voz en un cambio que afec.",
@@ -53,18 +63,21 @@
       "title": "El BCE abre la encuesta para votar el diseño de los nuevos billetes de euro: Cervantes, Da Vinci...",
       "summary": "El Banco Central Europeo (BCE) ha desvelado los diez diseños seleccionados para sustituir a los actuales billetes de euro y ha abierto una consulta.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "El Banco Central first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía",
-      "summary": "El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
+      "url": "https://elpais.com/economia/2026-08-06/el-bce-advierte-de-que-la-inflacion-no-ha-alcanzado-su-pico-y-se-mantendra-elevada-en-lo-que-resta-de-ano.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T14:33:37.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
+      "url": "https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T16:07:02.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/company/banco-sabadell
 
 ## Cambios recientes
+
+### Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios
+
+El nuevo consejero delegado de Banco Sabadell, Marc Armengol, empieza a dibujar las líneas directrices de la nueva etapa que afronta la entidad, tras dejar atrás la resaca de la...
+
+Date: 2026-08-06
 
 ### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
 
@@ -46,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios](https://amp.expansion.com/empresas/banca/2026/08/07/6a74c650e5fdeac1748b45a2.html?utm_source=lootura.com) — 2026-08-06T22:57:11.000Z

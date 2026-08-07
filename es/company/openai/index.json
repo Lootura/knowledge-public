@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -61,11 +61,11 @@
   ],
   "sources": [
     {
-      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
-      "url": "https://cincodias.elpais.com/companias/2026-08-06/softbank-reduce-un-177-sus-ganancias-en-su-primer-trimestre-y-apunta-a-alcanzar-un-13-de-openai.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T09:37:59.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "La versión gratis de ChatGPT elimina uno de sus límites más pedidos y ahora es más útil",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-6/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T19:37:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

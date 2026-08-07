@@ -3,10 +3,22 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”
+
+El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado claro este jueves en el Parlamento Europeo que, para él, lo sucedido los días 30 y 31 de julio “no es una crisis migratoria al uso”. “Es un episodio a través del que se ha puesto en jaque nuestra integridad: La de Ceuta, la de España, la de Euro.
+
+Date: 2026-08-06
+
+### Mohamed VI como el pájaro cuco
+
+En octubre de 2018, en mi etapa como eurodiputada, viajé a Ceuta junto a Javier Nart para conocer sobre el terreno los problemas de la frontera terrestre de la Unión Europea en África. El objetivo era recoger las peticiones del Sindicato Unificado de Policía y trasladar al Parlamento Europeo la necesidad de que la UE a.
+
+Date: 2026-08-06
 
 ### La Eurocámara celebra este jueves un debate extraordinario sobre la crisis de Ceuta
 
@@ -40,4 +52,5 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”](https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com) — 2026-08-06T17:40:22.000Z
+- [Mohamed VI como el pájaro cuco](https://okdiario.com/opinion/mohamed-vi-como-pajaro-cuco-19139335?utm_source=lootura.com) — 2026-08-06T19:47:29.000Z

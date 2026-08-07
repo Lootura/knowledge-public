@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Coupled AI and physics model improves typhoon-wave height forecasting](https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html?utm_source=lootura.com) — 2026-08-06T13:40:08.000Z
-- [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?utm_source=lootura.com) — 2026-08-05T14:12:57.000Z
+No public source links.

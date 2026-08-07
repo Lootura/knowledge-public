@@ -3,10 +3,52 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes
+
+A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.
+
+Date: 2026-08-07
+
+### Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después
+
+El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.
+
+Date: 2026-08-06
+
+### Moros en la costa
+
+Las grandes crisis de España durante el Gobierno de Sánchez -la dana de Valencia, el apagón, el accidente de Adamuz, la espantosa oleada de incendios y la reciente invasión de Ceuta- podían haberse evitado o, cuando menos, haber limitado sus trágicas consecuencias, con una política de prevención. En todas ellas, esa po.
+
+Date: 2026-08-06
+
+### La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican
+
+La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.
+
+Date: 2026-08-06
+
+### Los inmigrantes ilegales que deambulan por las calles de Ceuta: «Pedro Sánchez es buena gente»
+
+Los inmigrantes ilegales que aún quedan en Ceuta tras la invasión del pasado jueves pasan los días deambulando por la ciudad autónoma , recogen sus kits de comida , entregados por la Cruz Roja, y vuelven a ver pasar el tiempo tirados en la playa. Mientras trascurren los días en esta rutina, muchos de ellos defienden qu.
+
+Date: 2026-08-06
+
+### Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: "¡Corrupto!, ¡Sinvergüenza!, ¡Ladrón!"
+
+Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: "¡Corrupto! ,¡Sinvergüenza!, ¡Ladrón!".
+
+Date: 2026-08-06
+
+### Las mafias aprovechan el coladero de Ceuta para trasladar inmigrantes a otras costas españolas
+
+Las mafias dedicadas al tráfico de personas han comenzado a hacer negocio con los inmigrantes ilegales que han invadido Ceuta en las últimas semanas, según ha podido saber OKDIARIO. Ahora sí y no antes, como sostenía el presidente del Gobierno, Pedro Sánchez, quien viene culpando a las organizaciones criminales de esta.
+
+Date: 2026-08-06
 
 ### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
 
@@ -26,48 +68,12 @@ La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este
 
 Date: 2026-08-06
 
-### Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”
-
-El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.
-
-Date: 2026-08-06
-
-### Invasión y regularización
-
-La invasión proveniente de Marruecos que sufrió la ciudad de Ceuta la semana pasada tuvo, a mi juicio, dos impulsos convergentes: 1) la política agresiva contra España que impulsa el rey de Marruecos y 2) la política de regularización que se ha inventado Pedro Sánchez , que no pretende otra cosa que destrozar la legali.
-
-Date: 2026-08-06
-
-### Toda resta le suma a Sánchez
-
-En algún momento de su trayectoria, Pedro Sánchez descubrió que, hiciera lo que hiciera, iba a contar con un retén de electores importante y con intelectuales y periodistas no necesariamente a sueldo (aunque también a sueldo) que le brindarían apoyos y coartadas sin fin . La célebre frase de un personaje de Dostoievski.
-
-Date: 2026-08-06
-
-### La ‘playlist’ de Sánchez
-
-Como y cuando ha querido, Marruecos ha invadido Ceuta , ciudad española —y aún antes, portuguesa— desde hace más de 400 años. Tras el brutal efecto llamada conseguido por la política migratoria del Gobierno de Pedro Sánchez , la invasión dejó a Europa sin aliento. Entre el 30 y el 31 de julio, unas 70.000 personas lleg.
-
-Date: 2026-08-06
-
-### Vox boicotea la estrategia del PP en Ceuta y se lanza al choque con Sánchez: "Rechazaremos a los menores, está pactado"
-
-La "capacidad ordinaria" de Ceuta para acoger a menores extranjeros no acompañados es de 27 plazas. Si se declara una "situación de contingencia migratoria...
-
-Date: 2026-08-05
-
-### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
-
-La secretaria general de los socialistas valencianos y ministra de Ciencia, Innovación y Tecnología en el Gobierno del socialista Pedro Sánchez, Diana Morant, no ha escatimado en elogios hacia este último a pesar del aluvión de críticas en todo el planeta que ha generado su gestión por la invasión de Ceuta. Diana Moran.
-
-Date: 2026-08-05
-
-### El «novenio negro» de Pedro Sánchez
-
-Nadie es responsable de las vidas de sus ancestros, pero es incuestionable que Pedro Sánchez pertenece, por razones familiares, de sangre y políticas, al árbol genealógico de la España negra. Su bisabuelo materno, Juan Bautista Pérez-Castejón Marín , se pasó buena parte de su vida como prófugo de la justicia después de.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"](https://www.20minutos.es/nacional/pp-pide-comparecencia-urgente-sanchez-cuatro-ministros-por-crisis-ceuta-que-nos-expliquen-quien-miente_7023215_0.html?utm_source=lootura.com) — 2026-08-06T11:08:30.000Z
+- [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z
+- [El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes](https://www.larazon.es/espana/reintegro-salario-david-sanchez-moviliza-acusaciones-varios-frentes_202608076a74b932a5690f04736adcc7.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T00:00:14.000Z
+- [Moros en la costa](https://www.larazon.es/opinion/moros-costa_202608076a750af8a5690f04736b71e0.html?utm_source=lootura.com) — 2026-08-06T22:30:16.000Z
+- [La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican](http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com) — 2026-08-06T18:30:00.000Z
+- [Los inmigrantes ilegales que deambulan por las calles de Ceuta: «Pedro Sánchez es buena gente»](https://okdiario.com/espana/inmigrantes-ilegales-que-deambulan-calles-ceuta-pedro-sanchez-buena-gente-19139913?utm_source=lootura.com) — 2026-08-06T19:30:23.000Z
+- [Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: "¡Corrupto!, ¡Sinvergüenza!, ¡Ladrón!"](https://okdiario.com/espana/hazte-oir-organiza-protesta-contra-sanchez-frente-mareta-corrupto-sinverguenza-ladron-19140161/amp?utm_source=lootura.com) — 2026-08-06T20:31:54.000Z
+- [Las mafias aprovechan el coladero de Ceuta para trasladar inmigrantes a otras costas españolas](https://okdiario.com/espana/coladero-fronterizo-alienta-mafias-ya-trasladan-inmigrantes-ceuta-otras-costas-espanolas-19116991/amp?utm_source=lootura.com) — 2026-08-06T19:52:47.000Z

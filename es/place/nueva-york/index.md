@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T00:52:00.771Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican
+
+La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.
+
+Date: 2026-08-06
 
 ### Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles
 
@@ -62,12 +68,6 @@ Don Felipe VI y Doña Letizia , acompañados de sus hijas, la Princesa Leonor y 
 
 Date: 2026-07-21
 
-### Bailes, euforia y baño de champán: la celebración de España en Nueva York
-
-Los futbolistas celebraron en familia la victoria en la Copa del Mundo y lo seguirán haciendo hasta la tarde de este lunes, cuando llegan a Madrid.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [La Naty Abascal más desconocida: de su primer marido olvidado al trágico final del duque de Feria](https://www.abc.es/gente/naty-abascal-20260610013733-nt.html?utm_source=lootura.com) — 2026-08-06T12:54:17.000Z
+- [La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican](http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com) — 2026-08-06T18:30:00.000Z

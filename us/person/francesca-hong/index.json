@@ -8,22 +8,34 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-07T00:52:22.799Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
     {
-      "title": "Francesca Hong Said Thanksgiving Should Be Canceled. Can Wisconsin Voters Forgive Her?",
-      "summary": "“Cancel Thanksgiving,” she wrote. “VDay” brings out “the worst of humanity,” she mused. Francesca Hong’s old social media posts get a fresh look ahead of Wisconsin’s Democratic primary for governor.",
-      "date": "2026-08-05"
+      "title": "What's at stake for Democrats in next week's Wisconsin primary",
+      "summary": "More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.",
+      "date": "2026-08-07"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Francesca Hong first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
+    },
+    {
+      "title": "Francesca Hong Said Thanksgiving Should Be Canceled. Can Wisconsin Voters Forgive Her?",
+      "summary": "“Cancel Thanksgiving,” she wrote. “VDay” brings out “the worst of humanity,” she mused. Francesca Hong’s old social media posts get a fresh look ahead of Wisconsin’s Democratic primary for governor.",
+      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What's at stake for Democrats in next week's Wisconsin primary",
+      "url": "https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T00:15:45.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

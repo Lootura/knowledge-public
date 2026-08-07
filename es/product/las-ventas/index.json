@@ -1,0 +1,55 @@
+{
+  "id": "es-las-ventas",
+  "name": "Las Ventas",
+  "type": "product",
+  "locale": "es",
+  "canonicalPath": "/es/product/las-ventas",
+  "canonicalUrl": "https://atlas.lootura.com/es/product/las-ventas",
+  "markdownUrl": "https://atlas.lootura.com/es/product/las-ventas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/product/las-ventas/index.json",
+  "description": "Sigue la actividad de Las Ventas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "aliases": [
+    "Plaza de toros de Las Ventas",
+    "Plaza de Las Ventas",
+    "Monumental de las Ventas",
+    "Las Ventas de Madrid",
+    "Plaza de Toros Monumental o de las Ventas",
+    "plaza de toros de Madrid",
+    "Square of Bulls Las Ventas",
+    "Square Las Ventas",
+    "Las Ventas bullring"
+  ],
+  "changes": [
+    {
+      "title": "Más que seis silencios",
+      "summary": "Agosto llegó a Las Ventas con buen ambiente para las fechas veraniegas, y con una tarde perfecta para torear: ni una gota de aire soplaba, aunque en el tendido se habría agradecido alguna rachilla, entre toro y toro si eso. ¡Qué calor ! La lástima es que la terna no pudo disfrutar de la calma chicha, porque la corrida.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Alejandro Peñaranda saluda la única ovación en una noche de desclasada mansedumbre en Las Ventas",
+      "summary": "La primera nocturna del mes en Las Ventas se convirtió en una travesía cuesta arriba por la falta de entrega, la mansedumbre y las ásperas complicaciones del encierro de José Enrique Fraile de Valdefresno . Ante un sexteto serio y astifino pero ayuno de clase, los tres espadas tuvieron que tirar de oficio y firmeza en.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Las Ventas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Más que seis silencios",
+      "url": "https://www.abc.es/cultura/toros/seis-silencios-20260806235121-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T23:21:19.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Alejandro Peñaranda saluda la única ovación en una noche de desclasada mansedumbre en Las Ventas",
+      "url": "https://www.larazon.es/cultura/toros/alejandro-penaranda-saluda-unica-ovacion-noche-desclasada-mansedumbre-ventas_202608076a751b5d71b42a0b5de0cc37.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T23:40:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

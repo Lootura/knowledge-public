@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T00:52:00.771Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -24,6 +24,11 @@
     {
       "title": "Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros",
       "summary": "Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias",
+      "summary": "La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.",
       "date": "2026-08-06"
     },
     {
@@ -65,11 +70,6 @@
       "title": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
       "summary": "La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
-      "summary": "Isabel Pantoja y la Agencia Tributaria se han vuelto a ver las caras en los tribunales. En esta ocasión, ha sido la Audiencia Nacional el órgano que ha resuelto el doble pleito por la reclamación que Hacienda hizo a la tonadillera en relación al impuesto sobre la renta de las personas físicas (IRPF) en los ejercicios d.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -78,7 +78,13 @@
       "url": "https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T06:13:24.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias",
+      "url": "https://www.larazon.es/espana/interior-teme-que-informes-policiales-ceuta-desmientan-version-oficial-mafias_202608076a7511fda5690f04736b77e4.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T23:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }
