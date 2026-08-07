@@ -10,7 +10,7 @@
 
 ### Discovered by Atlas
 
-Agencia Estatal first entered the public knowledge record with source-backed evidence.
+Agencia estatal (España) first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-05
 

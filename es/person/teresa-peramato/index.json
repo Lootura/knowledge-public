@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/teresa-peramato/index.json",
   "description": "Sigue la actividad de Teresa Peramato en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-07T12:56:57.543Z",
-  "aliases": [],
+  "aliases": [
+    "Peramato",
+    "Teresa"
+  ],
   "changes": [
     {
       "title": "La Fiscalía actuará contra las comunidades que no acojan a los menores asignados por la crisis de Ceuta",

@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/dominic-sessa/index.json",
   "description": "Follow Dominic Sessa, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-08-07T12:57:16.248Z",
-  "aliases": [],
+  "aliases": [
+    "Dominic",
+    "Sessa"
+  ],
   "changes": [
     {
       "title": "Dominic Sessa Summons the Rapscallion Spirit of Anthony Bourdain in the Exhilarating, Tender Tony",
