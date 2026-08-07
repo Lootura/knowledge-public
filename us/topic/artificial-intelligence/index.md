@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,6 @@ Date: 2026-08-05
 
 ## Sources
 
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T00:52:26.271Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T00:52:26.270Z
-- [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark?utm_source=lootura.com) — 2026-08-06T17:39:43.000Z
-- [Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside](https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/?utm_source=lootura.com) — 2026-08-06T17:53:25.000Z
+- [FAA orders inspections of 737 Max jets after cracks found in older planes](https://www.cbsnews.com/news/faa-inspections-boeing-737-max-jets-cracks-found-some-older-planes/?utm_source=lootura.com) — 2026-08-07T02:04:07.000Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T05:38:59.610Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T05:38:59.609Z

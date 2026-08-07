@@ -3,16 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Trump denies U.S. running low on some munitions, says vast resupplies being made
+### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
 
-President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
+Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ### Morning news brief
 
@@ -29,6 +29,12 @@ Date: 2026-08-06
 ### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
 
 Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
+
+Date: 2026-08-06
+
+### Trump denies U.S. running low on some munitions, says vast resupplies being made
+
+President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
 
 Date: 2026-08-06
 
@@ -62,15 +68,9 @@ President Trump told reporters "a lot of progress had been made" on reopening th
 
 Date: 2026-08-05
 
-### Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers
-
-Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Trump denies U.S. running low on some munitions, says vast resupplies being made](https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com) — 2026-08-06T10:10:44.000Z
 - [Iran Hormuz Deal Advances Amid US Munitions Supply Questions](https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com) — 2026-08-06T11:23:24.000Z
 - [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
 - [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z
+- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com) — 2026-08-07T02:17:45.000Z

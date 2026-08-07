@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
+
+Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.
+
+Date: 2026-08-07
 
 ### Trump claims Iran talks will start Monday, and 4 other developments in the Middle East
 
@@ -62,12 +68,6 @@ As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, 
 
 Date: 2026-07-24
 
-### Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say
-
-Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com) — 2026-08-07T02:17:45.000Z

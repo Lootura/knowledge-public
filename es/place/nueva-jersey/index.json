@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T17:46:13.990Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -26,6 +26,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU",
+      "summary": "La muerte de un hombre de 47 años en Nueva Jersey (Estados Unidos) ha acabado impulsando una propuesta de ley sobre la donación de órganos. Keith Lott sufrió una parada cardiaca mientras mantenía relaciones sexuales con su esposa y falleció días después, pero la polémica surgió tras declararse su muerte cerebral. Su fa.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE",
       "summary": "Un inmigrante salvadoreño, identificado como Edwin López Cornejo, de 41 años, murió el 1 de agosto en el denostado centro federal de Delaney Hall, en Newark (Nueva Jersey). López se convierte así en la persona número 22 que fallece bajo custodia del ICE (agentes fronterizos) en lo que va del 2026, según los datos de la.",
@@ -67,6 +72,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU",
+      "url": "https://www.larazon.es/actualidad/muere-relacion-sexual-esposa-caso-acaba-impulsando-nueva-ley-eeuu-b50m_202608076a756941a5690f04736bd9c3.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T05:12:33.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

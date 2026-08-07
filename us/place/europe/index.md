@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Heat waves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T00:52:26.271Z
+- [Heat waves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T05:38:59.610Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Apple: la apuesta en IA que llega tarde",
-      "url": "https://www.expansion.com/directivos/2026/08/07/6a745f0ee5fdea77598b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:58:33.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Telefónica integra la IA generativa en su servicio de voz para empresas",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/telefonica-integra-la-ia-generativa-en-su-servicio-de-voz-para-empresas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

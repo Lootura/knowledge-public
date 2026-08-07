@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,11 @@
     {
       "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
       "summary": "A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Lo de Ceuta y los submarinos S-80",
+      "summary": "Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.",
       "date": "2026-08-07"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
       "summary": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
-      "summary": "La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región \"siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños\". En un mensaje difundido en su cuent.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -82,35 +82,11 @@
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Moros en la costa",
-      "url": "https://www.larazon.es/opinion/moros-costa_202608076a750af8a5690f04736b71e0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T22:30:16.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican",
-      "url": "http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T18:30:00.000Z",
-      "sourceId": "lootura-es-microsiervos"
-    },
-    {
-      "title": "Los inmigrantes ilegales que deambulan por las calles de Ceuta: «Pedro Sánchez es buena gente»",
-      "url": "https://okdiario.com/espana/inmigrantes-ilegales-que-deambulan-calles-ceuta-pedro-sanchez-buena-gente-19139913?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:30:23.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: \"¡Corrupto!, ¡Sinvergüenza!, ¡Ladrón!\"",
-      "url": "https://okdiario.com/espana/hazte-oir-organiza-protesta-contra-sanchez-frente-mareta-corrupto-sinverguenza-ladron-19140161/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T20:31:54.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Las mafias aprovechan el coladero de Ceuta para trasladar inmigrantes a otras costas españolas",
-      "url": "https://okdiario.com/espana/coladero-fronterizo-alienta-mafias-ya-trasladan-inmigrantes-ceuta-otras-costas-espanolas-19116991/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:52:47.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Lo de Ceuta y los submarinos S-80",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-07/ceuta-submarinos-s80-articulo-gonzalez-quiros/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 3
 }

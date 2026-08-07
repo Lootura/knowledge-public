@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T21:05:01.659Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
       "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
@@ -58,13 +63,15 @@
       "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
       "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
-      "summary": "President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:17:45.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

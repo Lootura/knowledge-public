@@ -3,7 +3,7 @@
 > Sigue la actividad de Las Ventas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/product/las-ventas
 
 ## Cambios recientes

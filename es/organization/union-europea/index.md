@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### La mitad de los coches que circulan por España supera ya los 15 años de antigüedad
+
+El parque automovilístico español continúa sumido en un preocupante envejecimiento estructural que amenaza los compromisos de seguridad vial, la reducción de emisiones contaminantes y las metas de electrificación fijadas por la Unión Europea. Según los datos oficiales contenidos en el Informe Anual 2025 elaborado por l.
+
+Date: 2026-08-07
 
 ### Mohamed VI como el pájaro cuco
 
@@ -62,12 +68,6 @@ Los ministros de Interior de la Unión Europea (UE) han mostrado este martes su 
 
 Date: 2026-08-04
 
-### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
-
-Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Mohamed VI como el pájaro cuco](https://okdiario.com/opinion/mohamed-vi-como-pajaro-cuco-19139335?utm_source=lootura.com) — 2026-08-06T19:47:29.000Z
+- [La mitad de los coches que circulan por España supera ya los 15 años de antigüedad](https://www.abc.es/motor/economia/mitad-coches-circulan-espana-supera-anos-edad-20260806125447-nt.html?utm_source=lootura.com) — 2026-08-07T04:58:15.000Z

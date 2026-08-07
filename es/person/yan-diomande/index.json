@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.json",
   "description": "Sigue la actividad de Yan Diomande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "Diomande"
   ],
   "changes": [
+    {
+      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
+      "summary": "Yan Diomande se ha convertido en el hombre del momento en el planeta fútbol. Este pasado jueves 6 de agosto se oficializó su traspaso al Real Madrid , a cambio de 140 millones de euros, con bonos incluidos, una impresionante cifra económica de la que sacará tajada su antiguo club, el Leganés, gracias a los mecanismos d.",
+      "date": "2026-08-07"
+    },
     {
       "title": "De Diomande a Jovic: los diez fichajes más caros de la historia del Real Madrid",
       "summary": "Yan Diomande (Abiyán, 19 años) se ha convertido en el fichaje más caro de la historia del Real Madrid. Los blancos, tras semanas de negociaciones, han pagado al Leipzig alemán un total de 125 millones fijos , que podrían ascender con base en variables y objetivos. Un desembolso impresionante si se tiene en cuenta que e.",
@@ -36,6 +41,12 @@
   ],
   "sources": [
     {
+      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
+      "url": "https://www.20minutos.es/deportes/futbol/leganes-se-frota-las-manos-con-fichaje-yan-diomande-por-real-madrid-sacara-una-suculenta-tajada-millonario-traspaso_7023426_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T05:17:42.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
       "title": "De Diomande a Jovic: los diez fichajes más caros de la historia del Real Madrid",
       "url": "https://www.abc.es/deportes/futbol/diomande-jovic-diez-fichajes-caros-historia-real-20260806010417-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T23:21:00.000Z",
@@ -54,5 +65,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,6 +16,11 @@
     "🇨🇴"
   ],
   "changes": [
+    {
+      "title": "El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros",
+      "summary": "La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella",
       "summary": "Felipe VI viaja este jueves por la noche a Cali ( Colombia ) desde Palma para asistir a la toma de posesión como nuevo presidente colombiano de Abelardo de la Espriella , con quien mantendrá una reunión antes de la ceremonia. El rey de España, que viaja acompañado del ministro de Asuntos Exteriores, José Manuel Albares.",
@@ -49,10 +54,10 @@
   ],
   "sources": [
     {
-      "title": "Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella",
-      "url": "https://theobjective.com/internacional/2026-08-06/felipe-vi-colombia-investidura-presidente-espriella/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:14:05.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros",
+      "url": "https://www.abc.es/summum/living/ocio/viaje-lujo-indiana-jones-america-precio-empieza-20260806022445-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T04:59:24.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

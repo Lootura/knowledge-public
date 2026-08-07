@@ -3,20 +3,26 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
 
-### El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”
+### La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí
 
-Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.
+Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ### El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial
 
 Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.
+
+Date: 2026-08-06
+
+### El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”
+
+Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.
 
 Date: 2026-08-06
 
@@ -62,13 +68,7 @@ El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayus
 
 Date: 2026-08-04
 
-### Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí](https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
 - [El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial](https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com) — 2026-08-06T18:07:34.000Z
-- [El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”](https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com) — 2026-08-06T11:30:42.000Z

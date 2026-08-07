@@ -3,7 +3,7 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
@@ -53,4 +53,3 @@ Date: 2026-08-04
 ## Fuentes
 
 - [Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”](https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com) — 2026-08-06T17:40:22.000Z
-- [Mohamed VI como el pájaro cuco](https://okdiario.com/opinion/mohamed-vi-como-pajaro-cuco-19139335?utm_source=lootura.com) — 2026-08-06T19:47:29.000Z

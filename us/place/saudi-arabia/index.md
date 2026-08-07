@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T21:05:01.659Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
+
+Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.
+
+Date: 2026-08-07
 
 ### Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers
 
@@ -62,12 +68,6 @@ Even after the collapse of the cease-fire between the United States and Iran, Am
 
 Date: 2026-07-24
 
-### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
-
-President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com) — 2026-08-07T02:17:45.000Z

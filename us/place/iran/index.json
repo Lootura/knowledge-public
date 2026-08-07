@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T00:52:22.799Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,9 +17,9 @@
   ],
   "changes": [
     {
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
-      "date": "2026-08-06"
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
+      "date": "2026-08-07"
     },
     {
       "title": "Morning news brief",
@@ -34,6 +34,11 @@
     {
       "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
       "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
+      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
       "date": "2026-08-06"
     },
     {
@@ -60,20 +65,9 @@
       "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
       "summary": "President Trump told reporters \"a lot of progress had been made\" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
-      "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:10:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
       "url": "https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com",
@@ -91,6 +85,12 @@
       "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com",
       "publishedAt": "2026-08-06T20:58:56.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:17:45.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 4

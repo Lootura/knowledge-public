@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "summary": "Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.",
+      "date": "2026-08-06"
+    },
     {
       "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
       "summary": "Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heating The human-driven climate crisis made the conditions that led to blazes roaring across Canada, which have caused toxic smoke to spew throughout the country and into the US, twice as likely to occur, a ne.",
@@ -57,13 +62,15 @@
       "title": "Canada's Doug Ford on why country needs to \"fight back\" against Trump trade war",
       "summary": "\"We didn't start this war,\" Ontario Premier Doug Ford told CBS News on \"The Takeout.\".",
       "date": "2026-07-24"
-    },
-    {
-      "title": "What’s to blame for Canada’s wildfires?",
-      "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:45:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

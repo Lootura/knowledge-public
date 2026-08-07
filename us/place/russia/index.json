@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
+      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
+      "date": "2026-08-07"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.",
@@ -58,13 +63,15 @@
       "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
       "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
-      "summary": "A Ukrainian drone struck a busy beach off the Black Sea in a deadly attack, Russian officials said, as the two countries continue to trade strikes. CBS News' Aidan Stretch has the latest.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
+      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:45:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

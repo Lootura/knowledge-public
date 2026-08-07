@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
-      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
-      "date": "2026-08-06"
+      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
+      "date": "2026-08-07"
     },
     {
       "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
       "summary": "Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
+      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
       "date": "2026-08-06"
     },
     {
@@ -59,24 +64,19 @@
       "title": "El ático que compró el Gobierno de Ayuso lo vendió una de las inmobiliarias más exclusivas de La Moraleja",
       "summary": "El polémico ático de 485 metros cuadrados que el Gobierno de Isabel Díaz Ayuso (PP) compró hace tres meses y medio para utilizarlo como “oficina” lo vendió una de las inmobiliarias más exclusivas y con más trayectoria de La Moraleja, confirma a El PAÍS la propia empresa. Promora es una compañía con décadas de experienc.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Ayuso carga contra Sánchez tras la «invasión» en Ceuta: «¿Cómo se le ocurre dar las gracias?»",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado este domingo la «invasión intolerable» de inmigrantes en Ceuta y ha avisado de.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T18:07:34.000Z",
+      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+      "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:30:42.000Z",
+      "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
+      "url": "https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T18:07:34.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],

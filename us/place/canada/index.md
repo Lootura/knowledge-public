@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks
+
+Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
+
+Date: 2026-08-06
 
 ### Human-driven climate crisis fuels Canada’s deadly wildfires, study finds
 
@@ -62,12 +68,6 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### What’s to blame for Canada’s wildfires?
-
-The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-08-06T22:45:54.000Z

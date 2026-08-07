@@ -3,10 +3,16 @@
 > Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T13:19:45.810Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/west-virginia
 
 ## Recent changes
+
+### A look at 'Operation Country Roads,' West Virginia's ICE operation
+
+Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.
+
+Date: 2026-08-06
 
 ### C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States
 
@@ -40,4 +46,4 @@ Date: 2026-07-23
 
 ## Sources
 
-No public source links.
+- [A look at 'Operation Country Roads,' West Virginia's ICE operation](https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation?utm_source=lootura.com) — 2026-08-06T20:40:52.000Z

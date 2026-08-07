@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -62,13 +62,7 @@
       "url": "https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T17:40:22.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Mohamed VI como el pájaro cuco",
-      "url": "https://okdiario.com/opinion/mohamed-vi-como-pajaro-cuco-19139335?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:47:29.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

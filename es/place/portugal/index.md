@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [Por qué no se puede excluir directamente a Marruecos de la organización del Mundial 2030 y qué puede solicitar España](https://www.20minutos.es/deportes/futbol/por-que-no-se-puede-excluir-directamente-marruecos-organizacion-mundial-2030-que-puede-solicitar-espana_7023093_0.html?utm_source=lootura.com) — 2026-08-07T05:09:56.000Z

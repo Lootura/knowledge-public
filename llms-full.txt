@@ -115,7 +115,6 @@
 - [Óscar Puente](https://atlas.lootura.com/es/person/oscar-puente): Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Pedro Porro](https://atlas.lootura.com/es/person/pedro-porro): Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Pedro Sánchez](https://atlas.lootura.com/es/person/pedro-sanchez): Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Rey Felipe](https://atlas.lootura.com/es/person/rey-felipe): Sigue la actividad de Rey Felipe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [José Luis Rodríguez Zapatero](https://atlas.lootura.com/es/person/rodriguez-zapatero): Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Salvador Illa](https://atlas.lootura.com/es/person/salvador-illa): Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Santiago Pedraz](https://atlas.lootura.com/es/person/santiago-pedraz): Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -205,6 +204,7 @@
 - [Amy Coney Barrett](https://atlas.lootura.com/us/person/amy-coney-barrett): Follow Amy Coney Barrett, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Andy Biggs](https://atlas.lootura.com/us/person/andy-biggs): Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Andy Burnham](https://atlas.lootura.com/us/person/andy-burnham): Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Andy Ogles](https://atlas.lootura.com/us/person/andy-ogles): Follow Andy Ogles, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Angus King](https://atlas.lootura.com/us/person/angus-king): Follow Angus King, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Anthony Fauci](https://atlas.lootura.com/us/person/anthony-fauci): Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Ariana Grande](https://atlas.lootura.com/us/person/ariana-grande): Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -242,6 +242,7 @@
 - [Oleksandr Syrskyi](https://atlas.lootura.com/us/person/oleksandr-syrskyi): Follow Oleksandr Syrskyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Perez Hilton](https://atlas.lootura.com/us/person/perez-hilton): Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Shri Thanedar](https://atlas.lootura.com/us/person/shri-thanedar): Follow Shri Thanedar, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Tennessee House](https://atlas.lootura.com/us/person/tennessee-house): Follow Tennessee House, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [The House](https://atlas.lootura.com/us/person/the-house): Follow The House, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [The Secret Service](https://atlas.lootura.com/us/person/the-secret-service): Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Thom Tillis](https://atlas.lootura.com/us/person/thom-tillis): Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

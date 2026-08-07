@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-03T21:00:18.472Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
       "summary": "U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.",
@@ -58,13 +63,15 @@
       "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
       "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
-      "summary": "Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:17:45.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

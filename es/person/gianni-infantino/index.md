@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La UEFA no da marcha atrás con la FIFA e Infantino: "Hemos perdido la confianza"](https://www.20minutos.es/deportes/futbol/uefa-no-da-marcha-atras-con-fifa-gianni-infantino-hemos-perdido-confianza_7023413_0.html?utm_source=lootura.com) — 2026-08-06T18:21:35.000Z
+- [Por qué no se puede excluir directamente a Marruecos de la organización del Mundial 2030 y qué puede solicitar España](https://www.20minutos.es/deportes/futbol/por-que-no-se-puede-excluir-directamente-marruecos-organizacion-mundial-2030-que-puede-solicitar-espana_7023093_0.html?utm_source=lootura.com) — 2026-08-07T05:09:56.000Z

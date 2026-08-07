@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/west-virginia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/west-virginia/index.json",
   "description": "Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T13:19:45.810Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "Almost Heaven",
     "State of West Virginia",
@@ -20,6 +20,11 @@
     "West Virginia, United States"
   ],
   "changes": [
+    {
+      "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
+      "summary": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.",
+      "date": "2026-08-06"
+    },
     {
       "title": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
       "summary": "Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.",
@@ -46,6 +51,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T20:40:52.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

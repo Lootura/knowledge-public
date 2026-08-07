@@ -64,4 +64,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»](https://www.abc.es/espana/casa-real/vivas-agradece-felipe-carino-apoyo-ceuta-promete-20260806195823-nt.html?utm_source=lootura.com) — 2026-08-06T23:08:06.000Z
+No public source links.

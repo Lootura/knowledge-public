@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z
+No public source links.

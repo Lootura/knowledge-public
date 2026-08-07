@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
+
+La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.
+
+Date: 2026-08-07
+
+### Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU
+
+La muerte de un hombre de 47 años en Nueva Jersey (Estados Unidos) ha acabado impulsando una propuesta de ley sobre la donación de órganos. Keith Lott sufrió una parada cardiaca mientras mantenía relaciones sexuales con su esposa y falleció días después, pero la polémica surgió tras declararse su muerte cerebral. Su fa.
+
+Date: 2026-08-07
+
+### El Ejército de EE. UU. busca un misil antidron de menos de 150.000 dólares que alcance 25 km y pueda salir del lanzador en menos de cinco segundos
+
+La nueva meta del Ejército de Estados Unidos es comprar un misil con un valor inferior a los 150.000 dólares y que pueda ir en contra de drones que tengan un peso entre 21 y 1.320 libras. De acuerdo con una solicitud de información, replicado por Breaking Defense, buscan que sea compatible con el lanzador Coyote de Ray.
+
+Date: 2026-08-07
 
 ### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
 
@@ -50,25 +68,8 @@ En la película _Extremadamente cruel, malvado y perverso_, el actor Zac Efron (
 
 Date: 2026-08-05
 
-### Estados Unidos resucita su gigantesco supercañón para abaratar las pruebas de armas hipersónicas
-
-El Ejército reutiliza el Heavy Artillery Test System para estudiar el impacto de ojivas a gran velocidad sin utilizar misiles completos en cada ensayo.
-
-Date: 2026-08-05
-
-### EE.UU. sube a 25 millones de dólares la recompensa por el nuevo líder del Cártel Jalisco Nueva Generación
-
-El Departamento de Estado de Estados Unidos elevó este miércoles su ofensiva contra el narcotráfico en México. Incrementó a 25 millones de dólares la recompensa que ofrece por información que lleve a la captura de Juan Carlos Valencia González , a quien considera el nuevo líder del Cartel Jalisco Nueva Generación (CJNG.
-
-Date: 2026-08-05
-
-### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
-
-Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z
-- [Va a haber que revisar que los asientos de unos 450 Boeing 737 MAX matriculados en los Estados Unidos estén bien atornillados en su sitio](http://www.microsiervos.com/archivo/aerotrastorno/revisar-450-boeing-737-max-asientos-mal-atornillados.html?utm_source=lootura.com) — 2026-08-06T19:00:00.000Z
+- [El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros](https://www.abc.es/summum/living/ocio/viaje-lujo-indiana-jones-america-precio-empieza-20260806022445-nt.html?utm_source=lootura.com) — 2026-08-07T04:59:24.000Z
+- [Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU](https://www.larazon.es/actualidad/muere-relacion-sexual-esposa-caso-acaba-impulsando-nueva-ley-eeuu-b50m_202608076a756941a5690f04736bd9c3.html?utm_source=lootura.com) — 2026-08-07T05:12:33.000Z
+- [El Ejército de EE. UU. busca un misil antidron de menos de 150.000 dólares que alcance 25 km y pueda salir del lanzador en menos de cinco segundos](https://www.larazon.es/tecnologia-consumo/ejercito-ee-uu-busca-misil-antidron-menos-150000-dolares-alcance-25-km-pueda-salir-lanzador-menos-cinco-segundos_202608076a74d96f71b42a0b5de068d9.html?utm_source=lootura.com) — 2026-08-07T04:30:00.000Z

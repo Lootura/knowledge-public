@@ -3,22 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe
+### El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP
 
-Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.
+Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.
 
-Date: 2026-08-06
-
-### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
-
-El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.
-
-Date: 2026-08-06
+Date: 2026-08-07
 
 ### El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su "compromiso" de visitar Ceuta
 
@@ -29,6 +23,18 @@ Date: 2026-08-06
 ### Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después
 
 El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.
+
+Date: 2026-08-06
+
+### El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe
+
+Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.
+
+Date: 2026-08-06
+
+### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
+
+El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.
 
 Date: 2026-08-06
 
@@ -62,15 +68,8 @@ Ceuta está lejos de recuperar la normalidad una semana después de la entrada m
 
 Date: 2026-08-06
 
-### Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»
-
-El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas](https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com) — 2026-08-06T14:58:56.000Z
-- [El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe](https://www.elmundo.es/espana/2026/08/06/6a746c8ae9cf4a796e8b4573.html?utm_source=lootura.com) — 2026-08-06T12:45:14.000Z
 - [El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su "compromiso" de visitar Ceuta](https://amp.elmundo.es/espana/2026/08/06/6a74e369fdddff95278b4592.html?utm_source=lootura.com) — 2026-08-06T20:56:49.000Z
 - [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z
+- [El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP](https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z

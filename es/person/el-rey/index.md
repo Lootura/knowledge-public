@@ -70,7 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»](https://www.abc.es/espana/casa-real/vivas-agradece-felipe-carino-apoyo-ceuta-promete-20260806195823-nt.html?utm_source=lootura.com) — 2026-08-06T23:08:06.000Z
-- [Vivas agradece el respaldo del Rey pero avisa de que la crisis en Ceuta no ha acabado](https://www.lavanguardia.com/politica/20260806/11609238/rey-traslada-vivas-apoyo-solidaridad-pueblo-ceuta.html?utm_source=lootura.com) — 2026-08-06T16:33:40.000Z
-- [El Rey traslada al presidente de Ceuta su «compromiso personal» de visitar la ciudad](https://okdiario.com/baleares/vivas-anuncia-visita-del-rey-ceuta-reunirse-marivent-no-puedo-aventurar-fecha-19139890?utm_source=lootura.com) — 2026-08-06T18:27:37.000Z
-- [El presidente de Ceuta anuncia que Felipe VI visitará la ciudad, pero evita fijar una fecha](https://theobjective.com/espana/2026-08-06/ceuta-afelipe-vi-ciudad/?utm_source=lootura.com) — 2026-08-06T17:53:11.000Z
+No public source links.

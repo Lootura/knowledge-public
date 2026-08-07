@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T00:52:22.799Z",
+  "updatedAt": "2026-08-07T05:38:56.224Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,9 +35,9 @@
   ],
   "changes": [
     {
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
-      "date": "2026-08-06"
+      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
+      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
+      "date": "2026-08-07"
     },
     {
       "title": "Morning news brief",
@@ -60,6 +60,11 @@
       "date": "2026-08-06"
     },
     {
+      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
+      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
+      "date": "2026-08-06"
+    },
+    {
       "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
       "summary": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.",
       "date": "2026-08-06"
@@ -78,18 +83,13 @@
       "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback",
       "summary": "The U.S. Food and Drug Administration has approved a new seasonal flu vaccine from Moderna that uses mRNA technology, the drugmaker announced.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine",
-      "summary": "Plus, what happens when you have an A.I. boss.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:10:44.000Z",
+      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
+      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:45:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'](https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress?utm_source=lootura.com) — 2026-08-06T09:00:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-04T17:46:13.990Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU
+
+La muerte de un hombre de 47 años en Nueva Jersey (Estados Unidos) ha acabado impulsando una propuesta de ley sobre la donación de órganos. Keith Lott sufrió una parada cardiaca mientras mantenía relaciones sexuales con su esposa y falleció días después, pero la polémica surgió tras declararse su muerte cerebral. Su fa.
+
+Date: 2026-08-07
 
 ### Otro muerto en un centro de detención federal y ya son 22 los fallecidos bajo custodia del ICE
 
@@ -58,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU](https://www.larazon.es/actualidad/muere-relacion-sexual-esposa-caso-acaba-impulsando-nueva-ley-eeuu-b50m_202608076a756941a5690f04736bd9c3.html?utm_source=lootura.com) — 2026-08-07T05:12:33.000Z

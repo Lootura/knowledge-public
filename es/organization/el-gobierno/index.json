@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe",
-      "summary": "Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas",
-      "summary": "El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.",
-      "date": "2026-08-06"
+      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+      "summary": "Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.",
+      "date": "2026-08-07"
     },
     {
       "title": "El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su \"compromiso\" de visitar Ceuta",
@@ -29,6 +24,16 @@
     {
       "title": "Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después",
       "summary": "El Gobierno limita su presencia en la ciudad autónoma al presidente, Marlaska y Rego, con Exteriores en un 'perfil bajo' y evitando una crisis con Rabat Leer.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe",
+      "summary": "Los voluntarios elaboran el censo más detallado de menores migrantes mientras denuncian la falta de recursos Leer.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas",
+      "summary": "El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.",
       "date": "2026-08-06"
     },
     {
@@ -55,26 +60,9 @@
       "title": "El Gobierno espera no tener que acudir a la Justicia por el reparto de menores mientras el PP baja el tono y Vox presiona en las regiones",
       "summary": "Ceuta está lejos de recuperar la normalidad una semana después de la entrada masiva de 72.000 inmigrantes procedentes de Marruecos . El Gobierno asegura que 70.000 ya han sido devueltos a territorio marroquí, aunque las cifras bailan y el presidente de la ciudad autónoma, Juan José Vivas, sospecha que todavía quedan ha.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
-      "summary": "El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
-    {
-      "title": "Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas",
-      "url": "https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T14:58:56.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
-      "title": "El Gobierno habilita un colegio en Ceuta para que duerman 100 niñas mientras más de 5.000 menores esperan techo en el barrio del Príncipe",
-      "url": "https://www.elmundo.es/espana/2026/08/06/6a746c8ae9cf4a796e8b4573.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T12:45:14.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
     {
       "title": "El Gobierno rehúye el refrendo necesario para que Felipe VI pueda cumplir su \"compromiso\" de visitar Ceuta",
       "url": "https://amp.elmundo.es/espana/2026/08/06/6a74e369fdddff95278b4592.html?utm_source=lootura.com",
@@ -86,7 +74,13 @@
       "url": "https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T23:44:59.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+      "url": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

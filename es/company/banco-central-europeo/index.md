@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año](https://elpais.com/economia/2026-08-06/el-bce-advierte-de-que-la-inflacion-no-ha-alcanzado-su-pico-y-se-mantendra-elevada-en-lo-que-resta-de-ano.html?utm_source=lootura.com) — 2026-08-06T14:33:37.000Z
-- [Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa](https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html?utm_source=lootura.com) — 2026-08-06T16:07:02.000Z
+No public source links.

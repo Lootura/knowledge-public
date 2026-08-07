@@ -52,4 +52,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella](https://theobjective.com/internacional/2026-08-06/felipe-vi-colombia-investidura-presidente-espriella/?utm_source=lootura.com) — 2026-08-06T19:14:05.000Z
+No public source links.

@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"
-
-El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6 de agosto que descarta por completo la posibilidad de disputar el partido amistoso en Tánger, Marruecos, previsto para el próximo día 15. "El FC Barcelona informa que el partido amistoso del primer equipo masculino que estaba previsto para.
-
-Date: 2026-08-06
 
 ### El Barcelona entra de lleno en la puja por fichar a Rodri
 
@@ -20,15 +14,21 @@ El Barcelona ha ganado terreno en las últimas horas en la carrera por Rodri Her
 
 Date: 2026-08-06
 
-### Los ojos de Copito de Nieve
-
-Copito de Nieve, en el zoo de Barcelona en 2003. aTarom/Wikimedia Commons Ser prácticamente coetáneo de un animal singular imprime carácter. O al menos, yo lo he vivido así. Me estoy refiriendo a Copito de Nieve, el primer y único gorila albino conocido, que probablemente influyó en que eligiera el tema de investigació.
-
-Date: 2026-08-06
-
 ### El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»
 
 El FC Barcelona ha anunciado este jueves que descarta jugar un amistoso en Tánger ( Marruecos ) , como estaba planeado para el 15 de agosto como parte de la recta final de la pretemporada, por el «contexto de incertidumbre actual» . «Descartado el amistoso en Tánger. Ante el contexto de incertidumbre actual, el FC Barc.
+
+Date: 2026-08-06
+
+### El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"
+
+El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6 de agosto que descarta por completo la posibilidad de disputar el partido amistoso en Tánger, Marruecos, previsto para el próximo día 15. "El FC Barcelona informa que el partido amistoso del primer equipo masculino que estaba previsto para.
+
+Date: 2026-08-06
+
+### Los ojos de Copito de Nieve
+
+Copito de Nieve, en el zoo de Barcelona en 2003. aTarom/Wikimedia Commons Ser prácticamente coetáneo de un animal singular imprime carácter. O al menos, yo lo he vivido así. Me estoy refiriendo a Copito de Nieve, el primer y único gorila albino conocido, que probablemente influyó en que eligiera el tema de investigació.
 
 Date: 2026-08-06
 
@@ -70,7 +70,5 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"](https://www.20minutos.es/deportes/futbol/barca-suspende-su-partido-amistoso-marruecos-tras-crisis-migratoria-ceuta-no-se-cumplen-las-condiciones-adecuadas_7023417_0.html?utm_source=lootura.com) — 2026-08-06T18:43:54.000Z
 - [El Barcelona entra de lleno en la puja por fichar a Rodri](https://elpais.com/deportes/futbol/2026-08-06/el-barcelona-entra-de-lleno-en-la-puja-por-fichar-a-rodri.html?utm_source=lootura.com) — 2026-08-06T16:40:29.000Z
-- [Los ojos de Copito de Nieve](https://theconversation.com/los-ojos-de-copito-de-nieve-289076?utm_source=lootura.com) — 2026-08-06T15:44:15.000Z
 - [El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»](https://theobjective.com/deportes/2026-08-06/fc-barcelona-amistoso-marruecos-incertidumbre/?utm_source=lootura.com) — 2026-08-06T19:27:42.000Z

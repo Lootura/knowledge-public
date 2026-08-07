@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes
 
 A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.
+
+Date: 2026-08-07
+
+### Lo de Ceuta y los submarinos S-80
+
+Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.
 
 Date: 2026-08-07
 
@@ -62,18 +68,8 @@ No solo es su destino predilecto para el verano, sino también para disfrutar de
 
 Date: 2026-08-06
 
-### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
-
-La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región "siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños". En un mensaje difundido en su cuent.
-
-Date: 2026-08-06
-
 ## Fuentes
 
 - [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z
 - [El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes](https://www.larazon.es/espana/reintegro-salario-david-sanchez-moviliza-acusaciones-varios-frentes_202608076a74b932a5690f04736adcc7.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T00:00:14.000Z
-- [Moros en la costa](https://www.larazon.es/opinion/moros-costa_202608076a750af8a5690f04736b71e0.html?utm_source=lootura.com) — 2026-08-06T22:30:16.000Z
-- [La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican](http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com) — 2026-08-06T18:30:00.000Z
-- [Los inmigrantes ilegales que deambulan por las calles de Ceuta: «Pedro Sánchez es buena gente»](https://okdiario.com/espana/inmigrantes-ilegales-que-deambulan-calles-ceuta-pedro-sanchez-buena-gente-19139913?utm_source=lootura.com) — 2026-08-06T19:30:23.000Z
-- [Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: "¡Corrupto!, ¡Sinvergüenza!, ¡Ladrón!"](https://okdiario.com/espana/hazte-oir-organiza-protesta-contra-sanchez-frente-mareta-corrupto-sinverguenza-ladron-19140161/amp?utm_source=lootura.com) — 2026-08-06T20:31:54.000Z
-- [Las mafias aprovechan el coladero de Ceuta para trasladar inmigrantes a otras costas españolas](https://okdiario.com/espana/coladero-fronterizo-alienta-mafias-ya-trasladan-inmigrantes-ceuta-otras-costas-espanolas-19116991/amp?utm_source=lootura.com) — 2026-08-06T19:52:47.000Z
+- [Lo de Ceuta y los submarinos S-80](https://theobjective.com/elsubjetivo/opinion/2026-08-07/ceuta-submarinos-s80-articulo-gonzalez-quiros/?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z

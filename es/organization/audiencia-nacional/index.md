@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-05
 ## Fuentes
 
 - [Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros](https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com) — 2026-08-06T06:13:24.000Z
-- [Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias](https://www.larazon.es/espana/interior-teme-que-informes-policiales-ceuta-desmientan-version-oficial-mafias_202608076a7511fda5690f04736b77e4.html?utm_source=lootura.com) — 2026-08-06T23:00:13.000Z

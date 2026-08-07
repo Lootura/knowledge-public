@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican](http://www.microsiervos.com/archivo/libros/la-anomalia-novela.html?utm_source=lootura.com) — 2026-08-06T18:30:00.000Z
+- [Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein](https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z

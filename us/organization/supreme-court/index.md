@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump issues new executive orders aimed at birthright citizenship
 
 The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
+
+Date: 2026-08-07
+
+### Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’
+
+The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
 
 Date: 2026-08-07
 
@@ -62,14 +68,8 @@ President Donald Trump is going ahead with new double-digit tariffs on dozens of
 
 Date: 2026-07-23
 
-### Supreme Court Turbocharges Presidential Power
-
-A pair of decisions reshaped the structure of the federal government.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Trump issues new executive orders aimed at birthright citizenship](https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T00:15:00.000Z
-- [Trump signs new orders targeting birthright citizenship](https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders?utm_source=lootura.com) — 2026-08-07T00:40:22.000Z
+- [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T01:03:06.000Z
 - [Edgy Vanity Plates Test Limits of Free Speech](https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html?utm_source=lootura.com) — 2026-08-06T16:01:44.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
+
+La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.
+
+Date: 2026-08-07
 
 ### Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella
 
@@ -46,4 +52,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella](https://theobjective.com/internacional/2026-08-06/felipe-vi-colombia-investidura-presidente-espriella/?utm_source=lootura.com) — 2026-08-06T19:14:05.000Z
+- [El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros](https://www.abc.es/summum/living/ocio/viaje-lujo-indiana-jones-america-precio-empieza-20260806022445-nt.html?utm_source=lootura.com) — 2026-08-07T04:59:24.000Z

@@ -28,4 +28,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [The Zelda movie’s Ganondorf casting hints at more movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal?utm_source=lootura.com) — 2026-08-06T18:31:57.000Z
+No public source links.

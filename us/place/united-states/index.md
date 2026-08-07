@@ -3,16 +3,16 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-07T05:38:56.224Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Trump denies U.S. running low on some munitions, says vast resupplies being made
+### U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition
 
-President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
+Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ### Morning news brief
 
@@ -35,6 +35,12 @@ Date: 2026-08-06
 ### Fled to America at 11. Stole at 18. Deported to Vietnam at 44.
 
 The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.
+
+Date: 2026-08-06
+
+### Trump denies U.S. running low on some munitions, says vast resupplies being made
+
+President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
 
 Date: 2026-08-06
 
@@ -62,15 +68,9 @@ The U.S. Food and Drug Administration has approved a new seasonal flu vaccine fr
 
 Date: 2026-08-06
 
-### A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine
-
-Plus, what happens when you have an A.I. boss.
-
-Date: 2026-08-06
-
 ## Sources
 
-- [Trump denies U.S. running low on some munitions, says vast resupplies being made](https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/?utm_source=lootura.com) — 2026-08-06T10:10:44.000Z
+- [U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
 - [Iran Hormuz Deal Advances Amid US Munitions Supply Questions](https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com) — 2026-08-06T11:23:24.000Z
 - [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
 - [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z

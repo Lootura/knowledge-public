@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas](https://www.elindependiente.com/vida-sana/salud/2026/08/06/castilla-la-mancha-invierte-mas-de-370-000-euros-en-renovar-el-servicio-de-anatomia-patologica-del-hospital-de-valdepenas/?utm_source=lootura.com) — 2026-08-06T14:58:56.000Z
+No public source links.

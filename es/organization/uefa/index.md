@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La UEFA no da marcha atrás con la FIFA e Infantino: "Hemos perdido la confianza"](https://www.20minutos.es/deportes/futbol/uefa-no-da-marcha-atras-con-fifa-gianni-infantino-hemos-perdido-confianza_7023413_0.html?utm_source=lootura.com) — 2026-08-06T18:21:35.000Z
+No public source links.

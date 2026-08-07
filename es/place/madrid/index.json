@@ -8,18 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
-      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
-      "date": "2026-08-06"
+      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
+      "summary": "Yan Diomande se ha convertido en el hombre del momento en el planeta fútbol. Este pasado jueves 6 de agosto se oficializó su traspaso al Real Madrid , a cambio de 140 millones de euros, con bonos incluidos, una impresionante cifra económica de la que sacará tajada su antiguo club, el Leganés, gracias a los mecanismos d.",
+      "date": "2026-08-07"
     },
     {
-      "title": "Primer mensaje de Vinícius tras renovar con el Madrid",
-      "summary": "El Real Madrid y Vinícius Jr han llegado a un acuerdo durante este jueves 6 de agosto para extender la vinculación del brasileño hasta el próximo verano del 2032 , tal y como anunció la disciplina merengue en sus perfiles oficiales. \"El Real Madrid C. F. y Vinicius Jr. han acordado la ampliación del contrato de nuestro.",
-      "date": "2026-08-06"
+      "title": "La otra gran pasarela de la Movida, el día que Madrid comenzó a vestir de forma diferente",
+      "summary": "Entre la avalancha editorial que vivimos, es muy posible que se nos pasen publicaciones verdaderamente significativas, que aportan valor a la conversación. Y es eso lo que nos hemos encontrado buceando en Relato sin costuras: Movida madrileña 1977-1988 . Moda, tendencias y tribus urbanas, las memorias de Rafael García.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse",
+      "summary": "Juan Carlos Peinado cumple 72 años el próximo 27 de septiembre y, con ello, llegará a la edad límite que la legislación marca para la jubilación forzosa de los jueces. El titular del Juzgado de Instrucción número 41 de Madrid tiene que cumplir con varios pasos procesales antes de la mencionada fecha (para la que quedan.",
+      "date": "2026-08-07"
     },
     {
       "title": "De Diomande a Jovic: los diez fichajes más caros de la historia del Real Madrid",
@@ -47,26 +57,16 @@
       "date": "2026-08-06"
     },
     {
-      "title": "El juez propone juzgar a la alcaldesa de Alcalá de Henares por filtrar denuncias de agresiones sexuales",
-      "summary": "Un juez de la Sección de Instrucción del Tribunal de Instancia de Alcalá de Henares (Madrid) ha propuesto sentar en el banquillo a la alcaldesa , Judith Piquet, por un presunto delito de infidelidad en la custodia de documentos y revelación de secretos , en el marco de la investigación por la filtración de dos denuncia.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»",
-      "summary": "Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Diomande viaja a Madrid para pasar el reconocimiento médico",
-      "summary": "Lo que estaba siendo el culebrón del verano en el Madrid llega a su fin. La operación se ha desbloqueado en las últimas horas y el futbolista marfileño será jugador blanco, a falta de oficialidad. En la mañana del jueves se ha entrenado con su actual equipo en Austria, donde se encuentran concentrados.Se incorporó en e.",
+      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
+      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
       "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Primer mensaje de Vinícius tras renovar con el Madrid",
-      "url": "https://www.20minutos.es/deportes/futbol/vinicius-tras-renovar-con-real-madrid-ocho-anos-bernabeu-son-muy-cortos-seis-anos-mas-para-siempre_7023421_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T20:05:08.000Z",
+      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
+      "url": "https://www.20minutos.es/deportes/futbol/leganes-se-frota-las-manos-con-fichaje-yan-diomande-por-real-madrid-sacara-una-suculenta-tajada-millonario-traspaso_7023426_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T05:17:42.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
@@ -76,9 +76,21 @@
       "sourceId": "lootura-es-abc"
     },
     {
+      "title": "La otra gran pasarela de la Movida, el día que Madrid comenzó a vestir de forma diferente",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-07/la-otra-gran-pasarela-de-la-movida-el-dia-que-madrid-comenzo-a-vestir-de-forma-diferente_4402179/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Nace un elefante de Sumatra en el Zoo de Madrid y refuerza la conservación de una subespecie que está en peligro crítico de extinción",
       "url": "https://elpais.com/espana/madrid/2026-08-06/nace-un-elefante-de-sumatra-en-el-zoo-de-madrid-y-refuerza-la-conservacion-de-una-subespecie-que-esta-en-peligro-critico-de-extincion.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T16:51:26.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+      "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -100,11 +112,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/el-consejero-encargado-de-explicar-la-compra-del-atico-se-enroca-en-el-mismo-discurso-estan-buscando-un-fantasma.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:30:42.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse",
+      "url": "https://www.larazon.es/espana/cuenta-atras-juez-peinado-llevar-begona-gomez-juicio-antes-jubilarse_202608076a756b0c71b42a0b5de1252c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T05:20:12.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 9
 }

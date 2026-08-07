@@ -3,10 +3,16 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### SpaceX inicia el proceso para poner millones de nuevas acciones en el mercado hasta 2027
+
+Space Exploration Technologies Corporation, conocida como SpaceX, liberó este jueves 911 millones de acciones tras expirar el primer periodo de bloqueo impuesto a los títulos en manos de directivos y trabajadores en la salida a Bolsa del pasado junio. El grupo fundado por Elon Musk en 2002 con el ambicioso objetivo de.
+
+Date: 2026-08-07
 
 ### En imágenes: así ha cambiado la Luna después de que un cohete de Elon Musk impactase contra su superficie
 
@@ -46,4 +52,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [SpaceX inicia el proceso para poner millones de nuevas acciones en el mercado hasta 2027](https://elpais.com/economia/2026-08-07/spacex-inicia-el-proceso-para-poner-millones-de-nuevas-acciones-en-el-mercado-hasta-2027.html?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z

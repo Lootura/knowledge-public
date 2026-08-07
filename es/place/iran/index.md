@@ -3,26 +3,20 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
+### El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos
+
+El Ibex 35 ha marcado su cuarto máximo histórico consecutivo al cerrar este jueves en los 20.180,4 puntos, un 0,62% por encima de la jornada precedente. Los inversores han estado pendientes este jueves de los detalles del acuerdo entre Omán e Irán para gestionar el tránsito marítimo en el estratégico estrecho de Ormuz.
+
+Date: 2026-08-07
+
 ### El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz
 
 La apertura del estrecho de Ormuz y la recuperación del tráfico marítimo se han convertido en la brújula de los mercados. Las noticias sobre las conversaciones entre Omán e Irán para la apertura de este enclave con una nueva ruta de navegación permiten a las Bolsas europeas prolongar las subidas y al Ibex 35 alcanzar n.
-
-Date: 2026-08-06
-
-### El Ibex marca nuevos máximos y roza los 20.300 puntos
-
-Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.
-
-Date: 2026-08-06
-
-### El Ibex marca nuevos máximos por encima de los 20.200 puntos
-
-Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.
 
 Date: 2026-08-06
 
@@ -68,6 +62,13 @@ El Congreso estadounidense recibe una propuesta de ley bipartidista en la que se
 
 Date: 2026-08-05
 
+### El Ibex conquista los 20.000 puntos animado por la caída del petróleo
+
+El selectivo español repunta un 0,21%, hasta los 20.023,6 puntos, favorecido por los avances en el terreno geopolítico. EEUU espera alcanzar "entre hoy y mañana" un acuerdo con Irán para reabrir Ormuz, lo que lleva al barril de Brent a caer más de un 4% y perder los 80 dólares.
+
+Date: 2026-08-04
+
 ## Fuentes
 
+- [El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos](https://www.abc.es/economia/ibex-sigue-subiendo-acaba-jornada-crecida-062-20260806181325-nt.html?utm_source=lootura.com) — 2026-08-07T04:57:52.000Z
 - [El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T20:15:32.000Z

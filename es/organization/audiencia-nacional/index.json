@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T00:52:00.771Z",
+  "updatedAt": "2026-08-07T05:38:36.358Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -78,13 +78,7 @@
       "url": "https://www.elcorreo.com/gente-estilo/comunicado-urgente-isabel-pantoja-tras-perder-dos-20260806081324-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T06:13:24.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias",
-      "url": "https://www.larazon.es/espana/interior-teme-que-informes-policiales-ceuta-desmientan-version-oficial-mafias_202608076a7511fda5690f04736b77e4.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T23:00:13.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

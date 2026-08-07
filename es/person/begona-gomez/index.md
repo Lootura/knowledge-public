@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-07T05:38:36.358Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse
+
+Juan Carlos Peinado cumple 72 años el próximo 27 de septiembre y, con ello, llegará a la edad límite que la legislación marca para la jubilación forzosa de los jueces. El titular del Juzgado de Instrucción número 41 de Madrid tiene que cumplir con varios pasos procesales antes de la mencionada fecha (para la que quedan.
+
+Date: 2026-08-07
 
 ### El CGPJ estudia una queja de Manos Limpias al juez Peinado
 
@@ -62,12 +68,6 @@ La falta de acuerdo en el Consejo General del Poder Judicial (CGPJ) ha obligado 
 
 Date: 2026-07-21
 
-### Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos
-
-El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse](https://www.larazon.es/espana/cuenta-atras-juez-peinado-llevar-begona-gomez-juicio-antes-jubilarse_202608076a756b0c71b42a0b5de1252c.html?utm_source=lootura.com) — 2026-08-07T05:20:12.000Z
