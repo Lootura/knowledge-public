@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
+
+Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
+
+Date: 2026-08-07
+
+### Senate finalizes deal on Russia sanctions
+
+The Senate is back in session today after senators made progress on a voting deal to go on August recess — but didn’t fully clinch it. That means a rare Friday session, when the Senate will finish its saga on Russia sanctions after wrestling with the issue for more than a year. First, though, Sen. Rand Paul, R-Ky., wil.
+
+Date: 2026-08-07
 
 ### U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition
 
@@ -56,18 +68,7 @@ Russia and Ukraine are producing ever larger numbers of innovative aerial weapon
 
 Date: 2026-08-05
 
-### Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses
-
-At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.
-
-Date: 2026-08-05
-
-### White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says
-
-The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
+- [U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
+- [Senate finalizes deal on Russia sanctions](https://www.semafor.com/article/08/06/2026/senate-finalizes-deal-on-russia-sanctions?utm_source=lootura.com) — 2026-08-07T08:53:06.000Z

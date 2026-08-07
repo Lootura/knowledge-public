@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
+
+Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.
+
+Date: 2026-08-07
+
+### Desarticulada una red de tráfico de personas y droga en España con 78 detenidos
+
+Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.
+
+Date: 2026-08-07
 
 ### Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias
 
@@ -56,18 +68,7 @@ La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la G
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta
-
-La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.
-
-Date: 2026-08-05
-
-### Una guardia civil asesinada a tiros por su ex marido en el cuartel de Llanes (Asturias)
-
-Una agente de la Guardia Civil ha fallecido este miércoles en un tiroteo registrado en el cuartel del Instituto Armado en la localidad asturiana de Llanes, en el que se ha producido además otro herido. El autor de los hechos ha sido otro guardia civil que había sido pareja de la fallecida y que, tras acceder al interio.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes](https://www.larazon.es/espana/ganancias-mafias-inmigracion-24-millones-euros-introducir-2000-inmigrantes_202608076a759381a5690f04736c16af.html?utm_source=lootura.com) — 2026-08-07T08:25:50.000Z
+- [Desarticulada una red de tráfico de personas y droga en España con 78 detenidos](https://theobjective.com/sociedad/suceso/2026-08-07/desarticulada-red-trafico-personas-droga-78-detendios/?utm_source=lootura.com) — 2026-08-07T08:28:13.000Z

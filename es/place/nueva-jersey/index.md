@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU](https://www.larazon.es/actualidad/muere-relacion-sexual-esposa-caso-acaba-impulsando-nueva-ley-eeuu-b50m_202608076a756941a5690f04736bd9c3.html?utm_source=lootura.com) — 2026-08-07T05:12:33.000Z
+No public source links.

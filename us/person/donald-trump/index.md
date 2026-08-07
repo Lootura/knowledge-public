@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -44,29 +44,29 @@ The move ends the criminal case for David Hearn, a former Olympic canoeist, afte
 
 Date: 2026-08-07
 
-### Trump signs new orders targeting birthright citizenship
+### Morning news brief
 
-Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.
+Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.
 
 Date: 2026-08-07
 
-### Morning news brief
+### Is the Iran war at risk of becoming a quagmire?
 
-Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.
+NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### The park service says Trump's arch would obstruct historic sites. Could it be moved?
+### Trump's Gaza peace plan appears to be stalling as parties debate logistics
 
-President Trump's proposed arch in Memorial Circle would intrude on dozens of nearby sites, says the National Park Service. But there's been minimal discussion of alternate locations. (Image credit: Andrew Caballero-Reynolds).
+President Trump announced a breakthrough on his Gaza peace plan last week, but the logistics remain daunting.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship
+### Despite Trump's talk of a deal being close, little has changed to end the Iran war
 
-Additional details weren't provided, but Trump said he thought his latest actions would be constitutional. (Image credit: Alex Brandon).
+President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ## Sources
 
@@ -74,9 +74,9 @@ Date: 2026-08-06
 - [Trump issues new executive orders aimed at birthright citizenship](https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T00:15:00.000Z
 - [Andy Ogles defeated in Tennessee House GOP primary, NBC News projects](https://www.nbcnews.com/now/video/andy-ogles-defeated-in-tennessee-house-gop-primary-nbc-news-projects-267920965619?utm_source=lootura.com) — 2026-08-07T02:45:48.000Z
 - [Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects](https://www.nbcnews.com/now/video/marsha-blackburn-wins-gop-primary-for-tennessee-governor-nbc-news-projects-267918405516?utm_source=lootura.com) — 2026-08-07T01:50:52.000Z
-- [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
+- [Morning news brief](https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com) — 2026-08-07T08:41:55.000Z
 - [The park service says Trump's arch would obstruct historic sites. Could it be moved?](https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps?utm_source=lootura.com) — 2026-08-06T18:19:47.000Z
 - [Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship](https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com) — 2026-08-06T22:06:35.000Z
-- [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z
-- [Plane takeoff during Marine One flight renews concerns about D.C.'s busy airspace](https://www.pbs.org/newshour/show/plane-takeoff-during-marine-one-flight-renews-concerns-about-d-c-s-busy-airspace?utm_source=lootura.com) — 2026-08-06T22:45:46.000Z
-- [Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case](https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism?utm_source=lootura.com) — 2026-08-06T22:51:12.000Z
+- [Is the Iran war at risk of becoming a quagmire?](https://www.npr.org/2026/08/07/nx-s1-5923958/is-the-iran-war-at-risk-of-becoming-a-quagmire?utm_source=lootura.com) — 2026-08-07T08:40:47.000Z
+- [Trump's Gaza peace plan appears to be stalling as parties debate logistics](https://www.npr.org/2026/08/07/nx-s1-5921344/trumps-gaza-peace-plan-appears-to-be-stalling-as-parties-debate-logistics?utm_source=lootura.com) — 2026-08-07T08:41:27.000Z
+- [Despite Trump's talk of a deal being close, little has changed to end the Iran war](https://www.npr.org/2026/08/07/nx-s1-5923413/despite-trumps-talk-of-a-deal-being-close-little-has-changed-to-end-the-iran-war?utm_source=lootura.com) — 2026-08-07T08:40:55.000Z

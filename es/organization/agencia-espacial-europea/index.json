@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.json",
   "description": "Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "Agencia Europea del Espacio",
     "European Space Research Organization"
   ],
   "changes": [
     {
-      "title": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
-      "summary": "Llamas en las proximidades de la estación de la DSN de Robledo de Chavela – vía Ignacio Villaverde [Anotación en actualización] Los incendios forestales que están arrasando las provincias de Ávila y de Madrid obligaron a la Agencia Espacial Europea (ESA) y a la NASA a evacuar sus estaciones de espacio profundo en Cebre.",
-      "date": "2026-07-25"
+      "title": "Hispasat se adjudica el mayor contrato del programa satelital Iris² por 1.600 millones",
+      "summary": "La Comisión Europea, la Agencia Espacial Europea (ESA) y el consorcio industrial SpaceRISE —integrado por la española Hispasat, la francesa Eutelsat y la luxemburguesa SES— han concluido las negociaciones para el desarrollo y despliegue de la constelación de satélites Iris ². En el marco del acuerdo, Hispasat ha sido d.",
+      "date": "2026-08-07"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Agencia Espacial Europea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-25"
+    },
+    {
+      "title": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
+      "summary": "Llamas en las proximidades de la estación de la DSN de Robledo de Chavela – vía Ignacio Villaverde [Anotación en actualización] Los incendios forestales que están arrasando las provincias de Ávila y de Madrid obligaron a la Agencia Espacial Europea (ESA) y a la NASA a evacuar sus estaciones de espacio profundo en Cebre.",
       "date": "2026-07-25"
     },
     {
@@ -35,6 +40,13 @@
       "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Hispasat se adjudica el mayor contrato del programa satelital Iris² por 1.600 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/hispasat-se-adjudica-el-mayor-contrato-del-programa-satelital-iris-por-1600-millones.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:35:27.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

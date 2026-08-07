@@ -3,7 +3,7 @@
 > Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/person/anthony-fauci
 
 ## Recent changes
@@ -54,4 +54,3 @@ Date: 2026-08-06
 
 - [Senate committee votes to hold Fauci in contempt of Congress](https://www.cbsnews.com/news/anthony-fauci-senate-committee-contempt-of-congress-rand-paul/?utm_source=lootura.com) — 2026-08-07T00:15:50.000Z
 - [Senate Republicans vote to hold Fauci in contempt of Congress](https://www.nbcnews.com/nightly-news/video/senate-republicans-vote-to-hold-fauci-in-contempt-of-congress-267908677598?utm_source=lootura.com) — 2026-08-06T23:00:25.000Z
-- [A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?](https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/?utm_source=lootura.com) — 2026-08-06T22:07:06.000Z

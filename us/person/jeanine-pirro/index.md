@@ -64,4 +64,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case](https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism?utm_source=lootura.com) — 2026-08-06T22:51:12.000Z
+No public source links.

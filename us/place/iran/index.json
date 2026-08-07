@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T05:38:56.224Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,21 @@
     {
       "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
       "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Is the Iran war at risk of becoming a quagmire?",
+      "summary": "NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
+      "summary": "President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.",
       "date": "2026-08-07"
     },
     {
@@ -50,40 +65,25 @@
       "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
       "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
-      "summary": "In our news wrap Wednesday, the Senate confirmed Dr. Erica Schwartz as the new director of the CDC, FAA officials are investigating an incident involving President Trump's helicopter and a commercial aircraft, Iran says it's in the final stage of drafting a deal with Oman that would reopen the Strait of Hormuz and UK a.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "summary": "Iran and Oman inched toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring an end to the war.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Trump claims Strait of Hormuz deal could happen soon as Iran and Oman engage in talks",
-      "summary": "President Trump told reporters \"a lot of progress had been made\" on reopening the Strait of Hormuz and suggested a deal could be announced as early as Wednesday. CBS News' Natalie Brand has the details.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
-      "url": "https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:23:24.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:43:07.000Z",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:41:55.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T20:58:56.000Z",
+      "title": "Is the Iran war at risk of becoming a quagmire?",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5923958/is-the-iran-war-at-risk-of-becoming-a-quagmire?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:40:47.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5923413/despite-trumps-talk-of-a-deal-being-close-little-has-changed-to-end-the-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:40:55.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {

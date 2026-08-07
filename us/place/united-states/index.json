@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T05:38:56.224Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,9 +35,19 @@
   ],
   "changes": [
     {
+      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
+      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
+      "date": "2026-08-07"
+    },
+    {
       "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
+      "summary": "The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.",
+      "date": "2026-08-06"
     },
     {
       "title": "Morning news brief",
@@ -52,11 +62,6 @@
     {
       "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
       "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
-      "summary": "The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.",
       "date": "2026-08-06"
     },
     {
@@ -78,37 +83,20 @@
       "title": "America Is Finally Taking Extraterrestrials Seriously",
       "summary": "There was nothing much happening in Jerome and Benno Leuer’s yard in Hamel, Minn. on August 11, 1948. It was noontime in the thick of summer and the boys, 10 and 8, were idly playing when, as they later described it, something overhead caught their eyes. They looked up and their jaws dropped. Roughly 12 ft. up in the a.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback",
-      "summary": "The U.S. Food and Drug Administration has approved a new seasonal flu vaccine from Moderna that uses mRNA technology, the drugmaker announced.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
-      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T02:45:44.000Z",
+      "title": "U.S. hit with more foodborne illnesses as Chipotle, Qdoba remove salmonella-linked jalapeños",
+      "url": "https://www.cbsnews.com/video/us-hit-with-more-foodborne-illnesses-as-chipotle-qdoba-remove-salmonella-linked-jalapeos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T13:35:10.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
-      "url": "https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T11:23:24.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T08:43:07.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T20:58:56.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
+      "url": "https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T02:45:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
@@ -117,5 +105,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

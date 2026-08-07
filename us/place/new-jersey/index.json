@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T05:38:56.224Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -24,13 +24,13 @@
   ],
   "changes": [
     {
-      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
+      "title": "Voter-Registration Error Could Cost Immigrants a Shot at a Green Card",
+      "summary": "New Jersey improperly added as many as 6,600 noncitizens to its voter rolls. Those people could now be forced out of the country.",
       "date": "2026-08-06"
     },
     {
-      "title": "Voter-Registration Error Could Cost Immigrants a Shot at a Green Card",
-      "summary": "New Jersey improperly added as many as 6,600 noncitizens to its voter rolls. Those people could now be forced out of the country.",
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
       "date": "2026-08-06"
     },
     {
@@ -76,17 +76,11 @@
   ],
   "sources": [
     {
-      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-      "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:13:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Voter-Registration Error Could Cost Immigrants a Shot at a Green Card",
       "url": "https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html?utm_source=lootura.com",
       "publishedAt": "2026-08-06T22:21:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

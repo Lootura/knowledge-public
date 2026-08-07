@@ -28,5 +28,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Más que seis silencios](https://www.abc.es/cultura/toros/seis-silencios-20260806235121-nt.html?utm_source=lootura.com) — 2026-08-06T23:21:19.000Z
-- [Alejandro Peñaranda saluda la única ovación en una noche de desclasada mansedumbre en Las Ventas](https://www.larazon.es/cultura/toros/alejandro-penaranda-saluda-unica-ovacion-noche-desclasada-mansedumbre-ventas_202608076a751b5d71b42a0b5de0cc37.html?utm_source=lootura.com) — 2026-08-06T23:40:13.000Z
+No public source links.

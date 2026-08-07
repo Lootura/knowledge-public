@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
+
+Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.
+
+Date: 2026-08-07
 
 ### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
 
@@ -62,14 +68,7 @@ El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la últi
 
 Date: 2026-08-06
 
-### ¿Por qué algunas personas se enamoran de asesinos? La ciencia empieza a encontrar respuestas
-
-En la película _Extremadamente cruel, malvado y perverso_, el actor Zac Efron (izquierda) encarnaba al asesino en serie Ted Bundy. Netflix En pleno juicio contra Ted Bundy , uno de los asesinos en serie más conocidos de Estados Unidos, muchas mujeres comenzaron a enviarle cartas de contenido romántico. Eran los años 70.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros](https://www.abc.es/summum/living/ocio/viaje-lujo-indiana-jones-america-precio-empieza-20260806022445-nt.html?utm_source=lootura.com) — 2026-08-07T04:59:24.000Z
-- [Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU](https://www.larazon.es/actualidad/muere-relacion-sexual-esposa-caso-acaba-impulsando-nueva-ley-eeuu-b50m_202608076a756941a5690f04736bd9c3.html?utm_source=lootura.com) — 2026-08-07T05:12:33.000Z
-- [El Ejército de EE. UU. busca un misil antidron de menos de 150.000 dólares que alcance 25 km y pueda salir del lanzador en menos de cinco segundos](https://www.larazon.es/tecnologia-consumo/ejercito-ee-uu-busca-misil-antidron-menos-150000-dolares-alcance-25-km-pueda-salir-lanzador-menos-cinco-segundos_202608076a74d96f71b42a0b5de068d9.html?utm_source=lootura.com) — 2026-08-07T04:30:00.000Z
+- [Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein](https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z
+- [Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes](https://theobjective.com/tecnologia/2026-08-07/meta-567-millones-salud-mental-jovenes/?utm_source=lootura.com) — 2026-08-07T07:46:38.000Z

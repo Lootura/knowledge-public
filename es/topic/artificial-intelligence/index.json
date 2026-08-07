@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Telefónica integra la IA generativa en su servicio de voz para empresas",
-      "url": "https://cincodias.elpais.com/companias/2026-08-07/telefonica-integra-la-ia-generativa-en-su-servicio-de-voz-para-empresas.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Argentina se desmarca del resto del mundo del fútbol y sí apoya a Infantino: «El camino es seguir trabajando bajo su liderazgo»",
+      "url": "https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:42:23.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

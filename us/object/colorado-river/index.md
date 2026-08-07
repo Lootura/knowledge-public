@@ -3,20 +3,20 @@
 > Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-01T16:56:58.471Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/object/colorado-river
 
 ## Recent changes
 
-### Arizona, California and Nevada would share cuts under federal proposal for Colorado River
-
-The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.
-
-Date: 2026-08-01
-
 ### Discovered by Atlas
 
 Colorado River first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-01
+
+### Arizona, California and Nevada would share cuts under federal proposal for Colorado River
+
+The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.
 
 Date: 2026-08-01
 
@@ -28,4 +28,4 @@ Date: 2026-07-31
 
 ## Sources
 
-No public source links.
+- [Officials will not release cool water from a Colorado River reservoir to protect threatened fish](https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html?utm_source=lootura.com) — 2026-08-07T07:40:01.000Z

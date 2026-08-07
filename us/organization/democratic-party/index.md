@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -14,12 +14,6 @@ More states will hold primary elections next week, including Wisconsin, where de
 
 Date: 2026-08-07
 
-### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
-
-New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
-
-Date: 2026-08-06
-
 ### Moderate Democrats Prepare for ‘War’ Against an Ascendant Left
 
 One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.
@@ -29,6 +23,12 @@ Date: 2026-08-06
 ### After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin
 
 In a year where voters upset with the Democratic Party mainstream have propelled outsider candidates to victory across the country, this candidate is hoping to buck the trend in Wisconsin.
+
+Date: 2026-08-06
+
+### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
+
+New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
 
 Date: 2026-08-06
 
@@ -70,7 +70,6 @@ Date: 2026-08-05
 
 ## Sources
 
-- [New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans](https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com) — 2026-08-06T10:13:37.000Z
 - [What's at stake for Democrats in next week's Wisconsin primary](https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com) — 2026-08-07T00:15:45.000Z
 - [After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin](https://www.pbs.org/newshour/politics/after-michigan-democrats-next-battleground-over-the-partys-future-shifts-to-wisconsin?utm_source=lootura.com) — 2026-08-06T21:42:41.000Z
 - [Moderate Democrats Prepare for ‘War’ Against an Ascendant Left](https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html?utm_source=lootura.com) — 2026-08-06T13:56:26.000Z

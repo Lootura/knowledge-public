@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento
+
+Queda alrededor de un mes para conocer todos los detalles del iPhone 18 Pro. Y aunque ya se han filtrado casi todos los detalles importantes del nuevo terminal de Apple, ahora un informe de última hora apunta a que la disponibilidad del nuevo iPhone de Apple va a ser muy limitada en su lanzamiento. Si bien no es algo n.
+
+Date: 2026-08-07
 
 ### Apple: la apuesta en IA que llega tarde
 
@@ -62,12 +68,6 @@ Apple ha acusado a más extrabajadores de filtrar información confidencial a Op
 
 Date: 2026-08-04
 
-### ¿A qué hora se estrena la temporada 4 de ‘Ted Lasso’ en Apple TV?
-
-Ted Lasso por fin está de vuelta con el estreno de su temporada 4. La serie es una de las comedias más aclamadas del siglo XXI, con infinidad de premios, muy buenas valoraciones y un gigantesco séquito de fans. Sin embargo, con el final de su tercera entrega parecía que el título se despedía definitivamente allá por 20.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Apple: la apuesta en IA que llega tarde](https://www.expansion.com/directivos/2026/08/07/6a745f0ee5fdea77598b4584.html?utm_source=lootura.com) — 2026-08-06T22:58:33.000Z
+- [Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento](https://hipertextual.com/apple/va-a-ser-muy-complicado-hacerte-con-un-iphone-18-pro-en-su-lanzamiento/?utm_source=lootura.com) — 2026-08-07T08:05:59.000Z

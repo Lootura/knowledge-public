@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU
+
+La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.
+
+Date: 2026-08-07
 
 ### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
 
@@ -62,12 +68,6 @@ La cautela se impone en el mercado por la subida de los precios del petróleo po
 
 Date: 2026-07-15
 
-### Las Bolsas mantienen la cautela con el petróleo al alza por tercer día consecutivo
-
-Mejora el sentimiento del mercado, aunque prevalece la cautela por la subida de los precios del petróleo por tercer día consecutivo. El barril de Brent aumenta más del 1% hasta acercarse a los 86 dólares el barril. Los operadores reducen sus apuestas sobre subidas de tipos de interés por parte de la Reserva Federal, tr.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T08:24:35.000Z

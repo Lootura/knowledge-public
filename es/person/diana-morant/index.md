@@ -3,10 +3,16 @@
 > Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/person/diana-morant
 
 ## Cambios recientes
+
+### El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”
+
+No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.
+
+Date: 2026-08-07
 
 ### Diana Morant pelotea a Sánchez en pleno aluvión de críticas por la invasión de Ceuta: «Lo solucionó en 48 horas»
 
@@ -46,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”](https://www.larazon.es/comunidad-valenciana/ppcv-acusa-diana-morant-asfixiar-financiacion-universidades-publicas-valencianas_202608076a759c83a046ad6ebca34dc5.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T08:51:15.000Z

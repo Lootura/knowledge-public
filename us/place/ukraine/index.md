@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Blinded by War: documenting the aftermath of injury in Ukraine – photo essay
+
+Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places overlooked by the wider world, including countries scarred by war, such as Afghanista.
+
+Date: 2026-08-07
 
 ### Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat
 
@@ -62,12 +68,6 @@ Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldi
 
 Date: 2026-08-05
 
-### At least 17 people killed after fatal overnight Russian strikes in Ukraine
-
-Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [Blinded by War: documenting the aftermath of injury in Ukraine – photo essay](https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay?utm_source=lootura.com) — 2026-08-07T06:00:11.000Z

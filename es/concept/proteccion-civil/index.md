@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112
+
+Protección Civil ha desactivado la alerta del plan especial de emergencias por inundaciones de Cataluña (Inuncat) una vez finalizados los avisos por intensidad de lluvia del Servicio Meteorológico de Cataluña, que ha dejado 410 llamadas al teléfono de emergencias 112. Algunos de los registros más destacados del día han.
+
+Date: 2026-08-07
 
 ### Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña
 
@@ -62,12 +68,6 @@ Primera mañana de verano en Burgos, con un sol intenso en el cielo azul y las m
 
 Date: 2026-07-24
 
-### Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos
-
-Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112](https://theobjective.com/sociedad/2026-08-07/cataluna-desactiva-alerta-lluvias-incidencias/?utm_source=lootura.com) — 2026-08-07T07:38:50.000Z

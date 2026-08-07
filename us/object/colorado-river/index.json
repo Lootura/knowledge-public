@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/colorado-river/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/colorado-river/index.json",
   "description": "Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-01T16:56:58.471Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "Ahan Yava Kothickwa",
     "Ancon de San Andres",
@@ -62,13 +62,13 @@
   ],
   "changes": [
     {
-      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
-      "summary": "The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.",
+      "title": "Discovered by Atlas",
+      "summary": "Colorado River first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Colorado River first entered the public knowledge record with source-backed evidence.",
+      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
+      "summary": "The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.",
       "date": "2026-08-01"
     },
     {
@@ -77,6 +77,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
+      "url": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T07:40:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
   "evidenceCount": 0
 }

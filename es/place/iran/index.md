@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos](https://www.abc.es/economia/ibex-sigue-subiendo-acaba-jornada-crecida-062-20260806181325-nt.html?utm_source=lootura.com) — 2026-08-07T04:57:52.000Z
-- [El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-08-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-06T20:15:32.000Z
+No public source links.

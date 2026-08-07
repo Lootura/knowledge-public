@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T14:02:15.712Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "China’s Export Boom Rolls On Despite Trade Backlash",
+      "summary": "China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
@@ -64,13 +69,15 @@
       "title": "China evacuates 340,000 people as Typhoon Noul approaches",
       "summary": "Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in Hong Kong.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "China Has Come Through Trump’s Trade War in a Good Position",
-      "summary": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China’s Export Boom Rolls On Despite Trade Backlash",
+      "url": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T07:20:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

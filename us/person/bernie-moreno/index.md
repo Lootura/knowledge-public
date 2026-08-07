@@ -28,4 +28,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Ohio Rep. Max Miller faces a growing number of calls to resign from fellow Republicans](https://www.nbcnews.com/politics/congress/ohio-max-miller-calls-resign-republicans-moreno-abuse-allegations-rcna591199?utm_source=lootura.com) — 2026-08-06T20:31:01.000Z
+No public source links.

@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
-      "summary": "Yan Diomande se ha convertido en el hombre del momento en el planeta fútbol. Este pasado jueves 6 de agosto se oficializó su traspaso al Real Madrid , a cambio de 140 millones de euros, con bonos incluidos, una impresionante cifra económica de la que sacará tajada su antiguo club, el Leganés, gracias a los mecanismos d.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "La otra gran pasarela de la Movida, el día que Madrid comenzó a vestir de forma diferente",
-      "summary": "Entre la avalancha editorial que vivimos, es muy posible que se nos pasen publicaciones verdaderamente significativas, que aportan valor a la conversación. Y es eso lo que nos hemos encontrado buceando en Relato sin costuras: Movida madrileña 1977-1988 . Moda, tendencias y tribus urbanas, las memorias de Rafael García.",
-      "date": "2026-08-07"
-    },
     {
       "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
       "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
@@ -29,6 +19,21 @@
     {
       "title": "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse",
       "summary": "Juan Carlos Peinado cumple 72 años el próximo 27 de septiembre y, con ello, llegará a la edad límite que la legislación marca para la jubilación forzosa de los jueces. El titular del Juzgado de Instrucción número 41 de Madrid tiene que cumplir con varios pasos procesales antes de la mencionada fecha (para la que quedan.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Una actriz de ‘Campeones’ busca el amor en ‘First Dates’ pero no sale como esperaba: «Me ha parecido…»",
+      "summary": "El pasado jueves, 6 de agosto, los espectadores de Telecinco tuvieron la oportunidad de ser testigos de una nueva entrega de First Dates . El popular formato continúa uniendo corazones. Por ello, en esta ocasión, el público tuvo la oportunidad de conocer a Paloma . La soltera, de 27 años , es originaria de Madrid y tie.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
+      "summary": "Yan Diomande se ha convertido en el hombre del momento en el planeta fútbol. Este pasado jueves 6 de agosto se oficializó su traspaso al Real Madrid , a cambio de 140 millones de euros, con bonos incluidos, una impresionante cifra económica de la que sacará tajada su antiguo club, el Leganés, gracias a los mecanismos d.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La otra gran pasarela de la Movida, el día que Madrid comenzó a vestir de forma diferente",
+      "summary": "Entre la avalancha editorial que vivimos, es muy posible que se nos pasen publicaciones verdaderamente significativas, que aportan valor a la conversación. Y es eso lo que nos hemos encontrado buceando en Relato sin costuras: Movida madrileña 1977-1988 . Moda, tendencias y tribus urbanas, las memorias de Rafael García.",
       "date": "2026-08-07"
     },
     {
@@ -55,38 +60,9 @@
       "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
       "summary": "Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El consejero señalado por Ayuso para explicar la compra del ático se enroca en el mismo discurso: “Están buscando un fantasma”",
-      "summary": "Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien dé las explicaciones pertinentes sobre la compra del ático de 6,3 millones que supuestamente iba a fungir como despacho temporal de la presidenta de Madrid mientras se realizaban unas obras en su sede actual en el último trimestre de este año.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
-    {
-      "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
-      "url": "https://www.20minutos.es/deportes/futbol/leganes-se-frota-las-manos-con-fichaje-yan-diomande-por-real-madrid-sacara-una-suculenta-tajada-millonario-traspaso_7023426_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T05:17:42.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "De Diomande a Jovic: los diez fichajes más caros de la historia del Real Madrid",
-      "url": "https://www.abc.es/deportes/futbol/diomande-jovic-diez-fichajes-caros-historia-real-20260806010417-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T23:21:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La otra gran pasarela de la Movida, el día que Madrid comenzó a vestir de forma diferente",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-07/la-otra-gran-pasarela-de-la-movida-el-dia-que-madrid-comenzo-a-vestir-de-forma-diferente_4402179/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Nace un elefante de Sumatra en el Zoo de Madrid y refuerza la conservación de una subespecie que está en peligro crítico de extinción",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/nace-un-elefante-de-sumatra-en-el-zoo-de-madrid-y-refuerza-la-conservacion-de-una-subespecie-que-esta-en-peligro-critico-de-extincion.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T16:51:26.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
     {
       "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
       "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
@@ -94,29 +70,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Vinicius renueva con el Real Madrid hasta 2032",
-      "url": "https://elpais.com/deportes/futbol/2026-08-06/vinicius-renueva-con-el-real-madrid-hasta-2032.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T18:21:21.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Real Madrid convierte a Yan Diomande en el fichaje más caro de su historia al desembolsar 125 millones de euros",
-      "url": "https://elpais.com/deportes/futbol/2026-08-06/el-real-madrid-ficha-a-yan-diomande-el-extremo-al-que-nadie-le-daba-la-oportunidad-hasta-que-el-leganes-lo-rescato-con-18-anos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T14:15:37.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T18:07:34.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse",
       "url": "https://www.larazon.es/espana/cuenta-atras-juez-peinado-llevar-begona-gomez-juicio-antes-jubilarse_202608076a756b0c71b42a0b5de1252c.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T05:20:12.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Una actriz de ‘Campeones’ busca el amor en ‘First Dates’ pero no sale como esperaba: «Me ha parecido…»",
+      "url": "https://okdiario.com/happyfm/actriz-campeones-busca-amor-first-dates-pero-no-sale-como-esperaba-parecido-19141089?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:20:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 3
 }

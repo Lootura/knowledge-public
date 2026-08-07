@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
+
+Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.
+
+Date: 2026-08-07
 
 ### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
 
@@ -62,12 +68,6 @@ El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugab
 
 Date: 2026-07-11
 
-### La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido
-
-Bonnie Tyler, la cantante que dio voz a unos de los temas más conocidos del mundo de la música, 'Total Eclipse of the Heart', falleció de forma inesperada en la noche del miércoles tras ser hospitalizada el pasado mayo en un hospital de Faro, al sur de Portugal.Tras ser sometida a una cirugía intestinal, permaneció en.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Por qué no se puede excluir directamente a Marruecos de la organización del Mundial 2030 y qué puede solicitar España](https://www.20minutos.es/deportes/futbol/por-que-no-se-puede-excluir-directamente-marruecos-organizacion-mundial-2030-que-puede-solicitar-espana_7023093_0.html?utm_source=lootura.com) — 2026-08-07T05:09:56.000Z
+- [Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes](https://www.larazon.es/espana/ganancias-mafias-inmigracion-24-millones-euros-introducir-2000-inmigrantes_202608076a759381a5690f04736c16af.html?utm_source=lootura.com) — 2026-08-07T08:25:50.000Z

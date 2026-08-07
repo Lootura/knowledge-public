@@ -3,20 +3,20 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
 
-### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
-
-New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
-
-Date: 2026-08-06
-
 ### Voter-Registration Error Could Cost Immigrants a Shot at a Green Card
 
 New Jersey improperly added as many as 6,600 noncitizens to its voter rolls. Those people could now be forced out of the country.
+
+Date: 2026-08-06
+
+### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
+
+New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
 
 Date: 2026-08-06
 
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans](https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com) — 2026-08-06T10:13:37.000Z
 - [Voter-Registration Error Could Cost Immigrants a Shot at a Green Card](https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html?utm_source=lootura.com) — 2026-08-06T22:21:53.000Z

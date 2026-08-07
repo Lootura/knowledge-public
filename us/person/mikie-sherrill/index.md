@@ -46,4 +46,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans](https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com) — 2026-08-06T10:13:37.000Z
+No public source links.

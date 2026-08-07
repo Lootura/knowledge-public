@@ -52,4 +52,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”](https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com) — 2026-08-06T17:40:22.000Z
+No public source links.

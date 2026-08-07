@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Telefónica integra la IA generativa en su servicio de voz para empresas](https://cincodias.elpais.com/companias/2026-08-07/telefonica-integra-la-ia-generativa-en-su-servicio-de-voz-para-empresas.html?utm_source=lootura.com) — 2026-08-07T03:15:00.000Z
+- [Argentina se desmarca del resto del mundo del fútbol y sí apoya a Infantino: «El camino es seguir trabajando bajo su liderazgo»](https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt_amp.html?utm_source=lootura.com) — 2026-08-07T08:42:23.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros](https://www.abc.es/summum/living/ocio/viaje-lujo-indiana-jones-america-precio-empieza-20260806022445-nt.html?utm_source=lootura.com) — 2026-08-07T04:59:24.000Z
+- [De la Espriella asume el mando con el reto de la crisis económica y de seguridad que deja Petro](https://www.abc.es/internacional/espriella-asume-mando-ante-severos-desafios-economicos-20260806010624-nt.html?utm_source=lootura.com) — 2026-08-07T06:58:09.000Z

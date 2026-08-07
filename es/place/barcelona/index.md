@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El Barcelona entra de lleno en la puja por fichar a Rodri](https://elpais.com/deportes/futbol/2026-08-06/el-barcelona-entra-de-lleno-en-la-puja-por-fichar-a-rodri.html?utm_source=lootura.com) — 2026-08-06T16:40:29.000Z
-- [El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»](https://theobjective.com/deportes/2026-08-06/fc-barcelona-amistoso-marruecos-incertidumbre/?utm_source=lootura.com) — 2026-08-06T19:27:42.000Z
+- [Así es Explora III, el nuevo crucero de lujo estrenado en Barcelona que lleva la experiencia de un hotel 'boutique' al mar](https://www.elconfidencial.com/espana/cataluna/2026-08-07/explora-iii-nuevo-crucero-lujo-barcelona-1tna-1qrt_4402097/?utm_source=lootura.com) — 2026-08-07T07:32:00.000Z

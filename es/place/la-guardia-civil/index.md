@@ -3,10 +3,40 @@
 > Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/place/la-guardia-civil
 
 ## Cambios recientes
+
+### Muere un migrante al caer al mar cuando intentaba entrar a Ceuta en parapente
+
+La Guardia Civil de Ceuta ha recuperado este viernes el cuerpo sin vida de un joven migrante subsahariano que se había precipitado al mar con un parapente con el que había pretendido la entrada ilegal en Ceuta , según han confirmado a EFE fuentes del instituto armado. El suceso se ha producido alrededor de las 08:00 ho.
+
+Date: 2026-08-07
+
+### Siete detenidos por once delitos de robo con fuerza en empresas en Huesca, Zaragoza y Lérida
+
+La Guardia Civil ha detenido a siete personas por su presunta implicación en un delito continuado de once robos con fuerza de cobre, otro de robo o hurto de uso de vehículo y un tercero de pertenencia a grupo criminal . Los hechos se habrían cometido en empresas de las comarcas del Bajo Cinca , Ribera Baja del Ebro (Za.
+
+Date: 2026-08-07
+
+### Muere un inmigrante que intentaba entrar a Ceuta en un parapente y cayó al mar
+
+La Guardia Civil de Ceuta ha recuperado este viernes el cuerpo sin vida de un joven migrante subsahariano que se había precipitado al mar con un parapente con el que había pretendido la entrada ilegal en Ceuta, según han confirmado a Efe fuentes del Instituto Armado. El suceso se ha producido alrededor de las 08:00 hor.
+
+Date: 2026-08-07
+
+### Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera
+
+La Guardia Civil y Salvamento Marítimo han rescatado a 57 personas migrantes llegados en cuatro pateras distintas a las costas de Baleares, una de ellas al sureste de Cabrera y las demás en dirección hacia Formentera o ya en tierra en esa isla. Seguir leyendo...
+
+Date: 2026-08-07
+
+### Detenidos dos ladrones tras ser sorprendidos robando catalizadores en plena madrugada en un pueblo de Sevilla
+
+La Guardia Civil ha detenido a dos hombres como autores de varios robos de catalizadores en la localidad sevillana de Fuentes de Andalucía.
+
+Date: 2026-08-07
 
 ### Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’
 
@@ -38,36 +68,10 @@ Una semana después de iniciarse la crisis humanitaria sin precedentes con la en
 
 Date: 2026-08-06
 
-### La Guardia Civil busca a los 6.000 inmigrantes que "deambulan" por Ceuta para devolverlos por la fuerza a Marruecos
-
-El Gobierno de la ciudad autónoma sostiene que entraron 80.000 personas, 8.000 más de las contabilizadas por el Ministerio del Interior, y que han sido devueltas 73.000 Leer.
-
-Date: 2026-08-05
-
-### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
-
-La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.
-
-Date: 2026-08-05
-
-### La Guardia Civil, ante el nuevo llamado para otra entrada de inmigrantes en Ceuta: "Los protocolos no sustituyen la falta de medios"
-
-El Gobierno de Ceuta ha reconocido este martes que está "preocupado" por la difusión de un nuevo llamamiento en redes sociales para otra entrada masiva de migrantes de cara al 15 de agosto que podría agravar la crisis desatada la semana pasada en la ciudad autónoma. La Guardia Civil ha señalado este miércoles que está.
-
-Date: 2026-08-05
-
-### Seis detenidos por tres intentos de homicidio en Gerindote (Toledo): cuatro de ellos ya están en prisión
-
-La Guardia Civil ha arrestado a seis integrantes de un mismo clan familiar por su presunta implicación en tres intentos de homicidio en Gerindote (Toledo), tras efectuar disparos contra una vivienda. Tras ser puestos a disposición judicial, cuatro de los detenidos han ingresado en prisión provisional . La operación se.
-
-Date: 2026-08-05
-
-### Investigadas dos personas por maltrato animal tras abatir a un toro fugado en festejos de Gátova (Valencia)
-
-La Guardia Civil mantiene abiertas diligencias por presunto maltrato animal y prevaricación administrativa contra el director del festejo de ‘bous al carrer’ de Gátova (Valencia), celebrado el pasado julio, y contra un vecino del municipio que abatió a una de las siete reses que se escaparon durante el evento. Los hech.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Muere un migrante al caer al mar cuando intentaba entrar a Ceuta en parapente](https://www.20minutos.es/ceuta/muere-un-migrante-caer-mar-cuando-intentaba-entrar-ceuta-parapente_7023497_0.html?utm_source=lootura.com) — 2026-08-07T08:36:01.000Z
+- [Siete detenidos por once delitos de robo con fuerza en empresas en Huesca, Zaragoza y Lérida](https://www.elconfidencial.com/espana/2026-08-07/robo-cobre-plantas-fotovoltaicas-1tps_4402461/?utm_source=lootura.com) — 2026-08-07T07:46:00.000Z
+- [Muere un inmigrante que intentaba entrar a Ceuta en un parapente y cayó al mar](https://www.larazon.es/espana/muere-inmigrante-que-intentaba-entrar-ceuta-parapente-cayo-mar_202608076a759886a5690f04736c20f7.html?utm_source=lootura.com) — 2026-08-07T08:35:42.000Z
+- [Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera](https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html?utm_source=lootura.com) — 2026-08-07T06:42:26.000Z
+- [Detenidos dos ladrones tras ser sorprendidos robando catalizadores en plena madrugada en un pueblo de Sevilla](https://okdiario.com/andalucia/detenidos-dos-ladrones-ser-sorprendidos-robando-catalizadores-plena-madrugada-pueblo-sevilla-19141920/amp?utm_source=lootura.com) — 2026-08-07T08:49:14.000Z

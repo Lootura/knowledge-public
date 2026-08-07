@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T05:52:01.535Z",
+  "generatedAt": "2026-08-07T09:12:11.480Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|84|1786081136224",
+    "signature": "1.18.0|85|1786093016836",
     "version": "1.18.0",
-    "build": 84,
-    "latestEntityUpdatedAt": "2026-08-07T05:38:56.224Z"
+    "build": 85,
+    "latestEntityUpdatedAt": "2026-08-07T08:56:56.836Z"
   },
   "atlas": {
     "hero": {
@@ -20,26 +20,13 @@
       "title": "Morning news brief",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-08-07T05:38:56.224Z",
-      "score": 1698,
-      "sourceCount": 326,
+      "updatedAt": "2026-08-07T08:56:56.836Z",
+      "score": 1700,
+      "sourceCount": 329,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-anthony-fauci",
-        "name": "Anthony Fauci",
-        "type": "person",
-        "title": "Senate committee votes to hold Fauci in contempt of Congress",
-        "url": "https://atlas.lootura.com/us/person/anthony-fauci",
-        "path": "/us/person/anthony-fauci",
-        "updatedAt": "2026-08-07T05:38:56.224Z",
-        "score": 1678,
-        "sourceCount": 6,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
@@ -47,9 +34,9 @@
         "title": "Trump signs new orders targeting birthright citizenship",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-07T05:38:56.224Z",
-        "score": 1673,
-        "sourceCount": 603,
+        "updatedAt": "2026-08-07T08:56:56.836Z",
+        "score": 1668,
+        "sourceCount": 607,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,22 @@
         "title": "Trump signs new orders targeting birthright citizenship",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-07T05:38:56.224Z",
-        "score": 1636,
+        "updatedAt": "2026-08-07T08:56:56.836Z",
+        "score": 1631,
         "sourceCount": 24,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-russia",
+        "name": "Russia",
+        "type": "place",
+        "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
+        "url": "https://atlas.lootura.com/us/place/russia",
+        "path": "/us/place/russia",
+        "updatedAt": "2026-08-07T08:56:56.836Z",
+        "score": 1629,
+        "sourceCount": 71,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-07T05:38:56.224Z",
+        "updatedAt": "2026-08-07T08:56:56.836Z",
         "score": 1625,
-        "sourceCount": 609,
+        "sourceCount": 611,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 116
+    "publicEntityCount": 115
   }
 }

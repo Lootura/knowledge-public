@@ -3,7 +3,7 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-06
 ## Fuentes
 
 - [Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"](https://www.elmundo.es/espana/2026/08/06/6a74d158fdddffe62d8b4599.html?utm_source=lootura.com) — 2026-08-06T21:36:13.000Z
-- [Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”](https://elpais.com/espana/2026-08-06/juan-jesus-vivas-ante-el-parlamento-europeo-la-seguridad-de-ceuta-esta-en-manos-de-un-tercero-marruecos-que-no-reconoce-nuestra-soberania.html?utm_source=lootura.com) — 2026-08-06T17:40:22.000Z

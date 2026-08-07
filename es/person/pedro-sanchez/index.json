@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
-      "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
-      "summary": "A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.",
+      "title": "Lo de Ceuta y los submarinos S-80",
+      "summary": "Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.",
       "date": "2026-08-07"
     },
     {
-      "title": "Lo de Ceuta y los submarinos S-80",
-      "summary": "Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.",
+      "title": "El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”",
+      "summary": "No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
+      "summary": "A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.",
       "date": "2026-08-07"
     },
     {
@@ -58,11 +63,6 @@
       "date": "2026-08-06"
     },
     {
-      "title": "El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna \"cumplirán con la ley\"",
-      "summary": "Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: \"Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente \" en el Congreso para hablar de la crisis de Ceuta. \"Mientras el rey se reúne.",
-      "date": "2026-08-06"
-    },
-    {
       "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
       "summary": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.",
       "date": "2026-08-06"
@@ -76,9 +76,9 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
-      "url": "https://www.larazon.es/espana/reintegro-salario-david-sanchez-moviliza-acusaciones-varios-frentes_202608076a74b932a5690f04736adcc7.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-07T00:00:14.000Z",
+      "title": "El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”",
+      "url": "https://www.larazon.es/comunidad-valenciana/ppcv-acusa-diana-morant-asfixiar-financiacion-universidades-publicas-valencianas_202608076a759c83a046ad6ebca34dc5.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:51:15.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T05:38:56.224Z",
+  "updatedAt": "2026-08-07T08:56:56.836Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,11 +19,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
-      "date": "2026-08-06"
-    },
-    {
       "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
       "summary": "One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.",
       "date": "2026-08-06"
@@ -31,6 +26,11 @@
     {
       "title": "After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin",
       "summary": "In a year where voters upset with the Democratic Party mainstream have propelled outsider candidates to victory across the country, this candidate is hoping to buck the trend in Wisconsin.",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
+      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
       "date": "2026-08-06"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-      "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T10:13:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "What's at stake for Democrats in next week's Wisconsin primary",
       "url": "https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T00:15:45.000Z",
@@ -90,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

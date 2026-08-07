@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Heat waves have killed millions. Here’s how scientists tally lives lost
 
 Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-07
+
+### Extreme heat breaks temperature records in central and eastern Europe
+
+Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plants Europe’s dry riverbeds and scorched earth – in pictures Temperature records have been broken in several countries across central and eastern Europe as the extreme weather that has caused wildfires and droug.
 
 Date: 2026-08-07
 
@@ -62,12 +68,7 @@ The four crew members were recovered after the collision, the Greek fire departm
 
 Date: 2026-08-02
 
-### Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
-
-Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Heat waves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T05:38:59.610Z
+- [Heat waves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-07T08:57:02.308Z
+- [Extreme heat breaks temperature records in central and eastern Europe](https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe?utm_source=lootura.com) — 2026-08-07T05:00:08.000Z

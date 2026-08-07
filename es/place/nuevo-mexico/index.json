@@ -1,0 +1,54 @@
+{
+  "id": "es-nuevo-mexico",
+  "name": "Nuevo México",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/nuevo-mexico",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/nuevo-mexico",
+  "markdownUrl": "https://atlas.lootura.com/es/place/nuevo-mexico/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/nuevo-mexico/index.json",
+  "description": "Sigue la actividad de Nuevo México en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "aliases": [
+    "Nuevo México, Estados Unidos",
+    "Estado de Nuevo México",
+    "N. Mex.",
+    "N.M.",
+    "Tierra de Encanto",
+    "New Mexico, United States",
+    "State of New Mexico",
+    "Land of Enchantment"
+  ],
+  "changes": [
+    {
+      "title": "Condenan a Meta a pagar 567 millones de dólares y a limitar el uso de Instagram y Facebook por los adolescentes",
+      "summary": "Un juez estadounidense de Nuevo México ha condenado a Meta -matriz de Facebook, Instagram o WhatsApp- a pagar 567 millones de dólares a un fondo para la salud mental de los adolescentes; además, la ha ordenado realizar cambios en el funcionamiento de sus redes sociales para proteger a los menores del estado y evitar qu.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes",
+      "summary": "Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nuevo México first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Condenan a Meta a pagar 567 millones de dólares y a limitar el uso de Instagram y Facebook por los adolescentes",
+      "url": "https://www.abc.es/tecnologia/condenan-meta-pagar-567-millones-dolares-limitar-20260807093918-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T07:39:18.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes",
+      "url": "https://theobjective.com/tecnologia/2026-08-07/meta-567-millones-salud-mental-jovenes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T07:46:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

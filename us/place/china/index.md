@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China’s Export Boom Rolls On Despite Trade Backlash
+
+China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.
+
+Date: 2026-08-07
 
 ### Developer ecosystem expanded
 
@@ -62,12 +68,6 @@ Authorities have evacuated more than 340,000 people and suspended work and rail 
 
 Date: 2026-07-25
 
-### China Has Come Through Trump’s Trade War in a Good Position
-
-Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [China’s Export Boom Rolls On Despite Trade Backlash](https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com) — 2026-08-07T07:20:24.000Z

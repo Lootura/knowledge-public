@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos",
+      "summary": "La Confederación Africana de Fútbol (CAF) expresó su respaldo unánime al presidente de la FIFA , Gianni Infantino , en un momento en el que enfrenta cuestionamientos por parte de varias federaciones y confederaciones internacionales. El apoyo fue manifestado durante una reunión oficial celebrada en Marruecos . El presi.",
+      "date": "2026-08-07"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "La UEFA expresó este pasado jueves 6 de agosto, tras el comité de crisis de FIFA celebrado en Rabat, que el organismo europeo \"dejó muy claro en su comunicado del sábado que ha perdido la confianza en la presidencia de Gianni Infantino \" . \"Esa postura se mantiene\", afirma la mayor institución del fútbol europeo al ser.",
@@ -52,11 +57,11 @@
   ],
   "sources": [
     {
-      "title": "Por qué no se puede excluir directamente a Marruecos de la organización del Mundial 2030 y qué puede solicitar España",
-      "url": "https://www.20minutos.es/deportes/futbol/por-que-no-se-puede-excluir-directamente-marruecos-organizacion-mundial-2030-que-puede-solicitar-espana_7023093_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T05:09:56.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos",
+      "url": "https://www.larazon.es/deportes/infantino-recibe-apoyo-confederacion-africana-fifa-liderada-marruecos_202608076a759669a5690f04736c1c3e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:25:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

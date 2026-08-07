@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [La mitad de los coches que circulan por España supera ya los 15 años de antigüedad](https://www.abc.es/motor/economia/mitad-coches-circulan-espana-supera-anos-edad-20260806125447-nt.html?utm_source=lootura.com) — 2026-08-07T04:58:15.000Z
+No public source links.

@@ -3,16 +3,28 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
+
+### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
+
+Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
+
+Date: 2026-08-07
 
 ### U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition
 
 Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
 
 Date: 2026-08-07
+
+### Fled to America at 11. Stole at 18. Deported to Vietnam at 44.
+
+The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.
+
+Date: 2026-08-06
 
 ### Morning news brief
 
@@ -29,12 +41,6 @@ Date: 2026-08-06
 ### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
 
 Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
-
-Date: 2026-08-06
-
-### Fled to America at 11. Stole at 18. Deported to Vietnam at 44.
-
-The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.
 
 Date: 2026-08-06
 
@@ -62,16 +68,8 @@ There was nothing much happening in Jerome and Benno Leuer’s yard in Hamel, Mi
 
 Date: 2026-08-06
 
-### FDA approves Moderna's mRNA flu vaccine after initial pushback
-
-The U.S. Food and Drug Administration has approved a new seasonal flu vaccine from Moderna that uses mRNA technology, the drugmaker announced.
-
-Date: 2026-08-06
-
 ## Sources
 
-- [U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
-- [Iran Hormuz Deal Advances Amid US Munitions Supply Questions](https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713?utm_source=lootura.com) — 2026-08-06T11:23:24.000Z
-- [Morning news brief](https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief?utm_source=lootura.com) — 2026-08-06T08:43:07.000Z
-- [Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll](https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban?utm_source=lootura.com) — 2026-08-06T20:58:56.000Z
+- [U.S. hit with more foodborne illnesses as Chipotle, Qdoba remove salmonella-linked jalapeños](https://www.cbsnews.com/video/us-hit-with-more-foodborne-illnesses-as-chipotle-qdoba-remove-salmonella-linked-jalapeos/?utm_source=lootura.com) — 2026-08-06T13:35:10.000Z
+- [U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
 - [Fled to America at 11. Stole at 18. Deported to Vietnam at 44.](https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html?utm_source=lootura.com) — 2026-08-06T18:00:44.000Z

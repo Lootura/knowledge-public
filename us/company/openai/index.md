@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker](https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor?utm_source=lootura.com) — 2026-08-06T20:55:39.000Z
+No public source links.

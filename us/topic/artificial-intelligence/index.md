@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T08:56:56.836Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-07
 ### Operational Tropical Cyclone Forecasting with AI
 
 Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.
+
+Date: 2026-08-07
+
+### Opinion: AI won’t enhance physician autonomy. It will further diminish it
+
+Keep your head down. Don’t ask too many questions. Just finish your note and move on. I heard a version of this command at every level of training and well into my attending practice, from colleagues, seniors, teachers, and administration. Most delivered the advice like it was some sort of hard-won wisdom, though it wa.
 
 Date: 2026-08-07
 
@@ -62,14 +68,9 @@ In African tech hubs, developers are picking China’s cheap, freely available a
 
 Date: 2026-08-05
 
-### Why increased AI spending caused SpaceX shares to fall
-
-CBS News business contributor Javier David breaks down why SpaceX shares fell on Wednesday after the company announced higher spending on AI in its earnings report.
-
-Date: 2026-08-05
-
 ## Sources
 
 - [FAA orders inspections of 737 Max jets after cracks found in older planes](https://www.cbsnews.com/news/faa-inspections-boeing-737-max-jets-cracks-found-some-older-planes/?utm_source=lootura.com) — 2026-08-07T02:04:07.000Z
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T05:38:59.610Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T05:38:59.609Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T08:57:02.309Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T08:57:02.308Z
+- [Opinion: AI won’t enhance physician autonomy. It will further diminish it](https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_source=lootura.com) — 2026-08-07T08:30:00.000Z

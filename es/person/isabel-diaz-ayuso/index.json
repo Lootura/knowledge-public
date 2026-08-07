@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -72,13 +72,7 @@
       "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
-      "url": "https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T18:07:34.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -52,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios](https://amp.expansion.com/empresas/banca/2026/08/07/6a74c650e5fdeac1748b45a2.html?utm_source=lootura.com) — 2026-08-06T22:57:11.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos
+
+La Confederación Africana de Fútbol (CAF) expresó su respaldo unánime al presidente de la FIFA , Gianni Infantino , en un momento en el que enfrenta cuestionamientos por parte de varias federaciones y confederaciones internacionales. El apoyo fue manifestado durante una reunión oficial celebrada en Marruecos . El presi.
+
+Date: 2026-08-07
 
 ### European criticism of FIFA ruling grew
 
@@ -62,12 +68,6 @@ Claudio Chiqui Tapia, el presidente de la Asociación de Fútbol Argentino (AFA)
 
 Date: 2026-07-19
 
-### La posible sanción de FIFA a Argentina por una pancarta: "Las Malvinas son argentinas"
-
-El gobierno británico pide a la FIFA que abra una investigación: "Uno de los principios fundamentales de la Copa del Mundo es que la política esté separada del fútbol" Leer.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Por qué no se puede excluir directamente a Marruecos de la organización del Mundial 2030 y qué puede solicitar España](https://www.20minutos.es/deportes/futbol/por-que-no-se-puede-excluir-directamente-marruecos-organizacion-mundial-2030-que-puede-solicitar-espana_7023093_0.html?utm_source=lootura.com) — 2026-08-07T05:09:56.000Z
+- [Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos](https://www.larazon.es/deportes/infantino-recibe-apoyo-confederacion-africana-fifa-liderada-marruecos_202608076a759669a5690f04736c1c3e.html?utm_source=lootura.com) — 2026-08-07T08:25:13.000Z

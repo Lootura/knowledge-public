@@ -3,20 +3,26 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes
-
-A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.
-
-Date: 2026-08-07
-
 ### Lo de Ceuta y los submarinos S-80
 
 Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.
+
+Date: 2026-08-07
+
+### El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”
+
+No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.
+
+Date: 2026-08-07
+
+### El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes
+
+A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.
 
 Date: 2026-08-07
 
@@ -56,12 +62,6 @@ Las mafias dedicadas al tráfico de personas han comenzado a hacer negocio con l
 
 Date: 2026-08-06
 
-### El PP pide la comparecencia urgente de Pedro Sánchez y cuatro ministros y dice que las autonomías que gobierna "cumplirán con la ley"
-
-Elías Bendodo, vicesecretario de Política Autonómica del PP, ha comparecido este jueves ante los medios con un mensaje muy claro: "Pedimos al presidente Pedro Sánchez y a los ministros de Defensa, Interior y Justicia la comparecencia urgente " en el Congreso para hablar de la crisis de Ceuta. "Mientras el rey se reúne.
-
-Date: 2026-08-06
-
 ### Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones
 
 No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.
@@ -71,5 +71,5 @@ Date: 2026-08-06
 ## Fuentes
 
 - [Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después](https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com) — 2026-08-06T23:44:59.000Z
-- [El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes](https://www.larazon.es/espana/reintegro-salario-david-sanchez-moviliza-acusaciones-varios-frentes_202608076a74b932a5690f04736adcc7.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T00:00:14.000Z
+- [El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”](https://www.larazon.es/comunidad-valenciana/ppcv-acusa-diana-morant-asfixiar-financiacion-universidades-publicas-valencianas_202608076a759c83a046ad6ebca34dc5.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T08:51:15.000Z
 - [Lo de Ceuta y los submarinos S-80](https://theobjective.com/elsubjetivo/opinion/2026-08-07/ceuta-submarinos-s80-articulo-gonzalez-quiros/?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z

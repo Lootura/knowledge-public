@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-07T08:56:34.263Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU",
+      "summary": "La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El Ibex marca nuevos máximos y roza los 20.300 puntos",
       "summary": "Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.",
@@ -60,13 +65,15 @@
       "title": "¿Quién teme el crudo a 100 dólares?",
       "summary": "El precio del Brent , la referencia más utilizada en los mercados globales, ha escalado esta semana de nuevo a los 100 dólares por barril . Su vuelta a los niveles más altos desde principios de junio se produce en plena escalada del conflicto de Oriente Próximo. Seguir leyendo.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco",
-      "summary": "El reciente alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial han mermado la confianza de los inversores. El riesgo d.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:24:35.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T08:56:34.263Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-04
 ## Fuentes
 
 - [La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí](https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
-- [El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial](https://elpais.com/espana/madrid/2026-08-06/el-atico-de-lujo-del-gobierno-de-ayuso-tampoco-podria-usarse-como-residencia-oficial.html?utm_source=lootura.com) — 2026-08-06T18:07:34.000Z
