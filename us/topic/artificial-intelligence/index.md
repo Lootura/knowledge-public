@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,6 +71,5 @@ Date: 2026-08-05
 ## Sources
 
 - [FAA orders inspections of 737 Max jets after cracks found in older planes](https://www.cbsnews.com/news/faa-inspections-boeing-737-max-jets-cracks-found-some-older-planes/?utm_source=lootura.com) — 2026-08-07T02:04:07.000Z
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T08:57:02.309Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T08:57:02.308Z
-- [Opinion: AI won’t enhance physician autonomy. It will further diminish it](https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_source=lootura.com) — 2026-08-07T08:30:00.000Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T12:57:19.938Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T12:57:19.937Z

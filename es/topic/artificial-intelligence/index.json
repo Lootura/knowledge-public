@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Argentina se desmarca del resto del mundo del fútbol y sí apoya a Infantino: «El camino es seguir trabajando bajo su liderazgo»",
-      "url": "https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:42:23.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face",
+      "url": "https://hipertextual.com/tecnologia/los-agentes-de-ia-de-openai-crearon-un-foro-secreto-para-rebelarse-y-coordinar-hackeos-de-hugging-face/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:00:29.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

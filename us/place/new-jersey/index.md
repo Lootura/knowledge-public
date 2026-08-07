@@ -3,7 +3,7 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes

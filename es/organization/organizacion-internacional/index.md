@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización internacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/organizacion-internacional
 
 ## Cambios recientes
+
+### El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países
+
+La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha presentado formalmente su candidatura a la dirección general de la Organización Internacional del Trabajo (OIT) , donde ya ha quedado registrada junto a la del que, de momento, es su único rival: el actual director general, el africano Gilbert F. Houngbo.
+
+Date: 2026-08-07
 
 ### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
 
@@ -62,12 +68,6 @@ El Gobierno propone a Yolanda Díaz como directora general de la Organización I
 
 Date: 2026-07-23
 
-### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
-
-Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países](https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html?utm_source=lootura.com) — 2026-08-07T11:31:00.000Z

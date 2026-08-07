@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
-      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
-      "date": "2026-08-07"
-    },
     {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
@@ -37,37 +32,48 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz. (Image credit: Aaron Schwartz).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
+      "summary": "US president’s complaint industry ‘making too much money’ comes after his policies boosted corporations Donald Trump’s statement that oil companies have made “too much money” from the Iran war has angered environmentalists, who say that his policies were designed to benefit those very corporations. If he really believe.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "The State of Iran’s Three Key Nuclear Sites",
+      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
+      "summary": "Arleigh Burke-class guided-missile destroyer USS Thomas Hudner (DDG 116) fires a Tomahawk land attack missile in the Mediterranean Sea on March 5, 2026. —U.S. Navy/Getty Images President Donald Trump refuted reports that the U.S. is experiencing a munitions shortage from the U.S.-Israeli war against Iran, vowing to jai.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
+      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Morning news brief",
       "summary": "Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
-      "summary": "A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Trump denies U.S. running low on some munitions, says vast resupplies being made",
-      "summary": "President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
-      "summary": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "Iran Says Hormuz Deal is Close; Trump Denies Munitions Shortage",
+      "url": "https://www.today.com/video/iran-says-hormuz-deal-is-close-trump-denies-munitions-shortage-267930693641?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:24:46.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com",
@@ -87,11 +93,35 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
-      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T02:17:45.000Z",
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:56:19.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-windfall-tax-big-oil-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T09:00:13.000Z",
       "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:45:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "The State of Iran’s Three Key Nuclear Sites",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:46:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
+      "url": "https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:45:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 9
 }

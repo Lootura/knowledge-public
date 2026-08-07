@@ -8,15 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.json",
   "description": "Sigue la actividad de Yan Diomande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "Diomande"
   ],
   "changes": [
     {
+      "title": "Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...",
+      "summary": "El Real Madrid ha vuelto a romper la banca en el mercado de fichajes tras la incorporación de Yan Diomande . Después de varios días de incertidumbre y duras negociaciones con el Leipzig alemán, el costamarfileño ha firmado un contrato de siete temporadas, hasta 2032, a cambio de unos 140 millones de euros, con bonos in.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "El Leganés se frota las manos con el fichaje de Diomande por el Real Madrid: sacará una suculenta tajada",
       "summary": "Yan Diomande se ha convertido en el hombre del momento en el planeta fútbol. Este pasado jueves 6 de agosto se oficializó su traspaso al Real Madrid , a cambio de 140 millones de euros, con bonos incluidos, una impresionante cifra económica de la que sacará tajada su antiguo club, el Leganés, gracias a los mecanismos d.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Yan Diomande first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-06"
     },
     {
       "title": "De Diomande a Jovic: los diez fichajes más caros de la historia del Real Madrid",
@@ -32,13 +42,15 @@
       "title": "El Real Madrid convierte a Yan Diomande en el fichaje más caro de su historia al desembolsar 125 millones de euros",
       "summary": "Yan Diomande firmó por primera vez por un club europeo el 14 de noviembre de 2024, el día que cumplió 18 años. El extremo costamarfileño se incorporó en el mercado de invierno de 2025 al CD Leganés, que entonces militaba en Primera División, aunque su contrato establecía que él formaría parte del filial. 21 meses despu.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Yan Diomande first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...",
+      "url": "https://www.20minutos.es/deportes/futbol/los-10-fichajes-mas-caros-historia-real-madrid-desde-diomande-jovic-pasando-por-cristiano-kaka-bale-hazard_7023397_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:12:52.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

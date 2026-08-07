@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí
+
+El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
+
+Date: 2026-08-07
+
+### El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático
+
+El ministro y líder de los socialistas madrileños, Óscar López, ha adelantado que el partido tomará acciones legales tras la polémica por la compra del ático de seis millones de euros por parte de la Comunidad: "Es un hecho tan lamentable, como vergonzoso, como inexplicable" El ático que compró el Gobierno de Ayuso en.
+
+Date: 2026-08-07
 
 ### Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta
 
@@ -56,18 +68,7 @@ La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y 
 
 Date: 2026-08-03
 
-### El PSOE crítico con Sánchez alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta
-
-El PSOE crítico con el presidente del Gobierno, Pedro Sánchez, alerta de "censura y presiones" contra quienes denuncian la invasión de Ceuta.
-
-Date: 2026-08-03
-
-### Elena Valenciano: "¿Qué costaba dejar dos diputados a Moreno Bonilla en Andalucía y condicionarle nosotros en vez de Vox?"
-
-Con la misma fuerza y energía de siempre, Elena Valenciano (Madrid, 1960) muestra un rostro más relajado y tranquilo que en los turbulentos años en los que dirigió el PSOE (2012-2014), a pesar de que "teníamos la mitad de lo que pasa ahora". Declara "absolutamente cerrada" su etapa en política, de la que salió no por v.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí](https://www.abc.es/espana/madrid/psoe-madrid-llevara-fiscalia-compra-polemico-atico-20260807114642-nt.html?utm_source=lootura.com) — 2026-08-07T12:28:43.000Z
+- [El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático](https://www.eldiario.es/madrid/psoe-denunciara-fiscalia-consejo-administracion-planifica-madrid-escandalo-atico_1_13433803.html?utm_source=lootura.com) — 2026-08-07T09:24:33.000Z

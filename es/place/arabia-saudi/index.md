@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio
+
+Movimiento de calado en Oriente Medio. Turquía, Arabia Saudí y Pakistán han firmado hoy un pacto de defensa con el objetivo de “fortalecer la disuasión colectiva contra cualquier acto de agresión”, según reza un comunicado conjunto. Seguir leyendo...
+
+Date: 2026-08-07
 
 ### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
 
@@ -62,12 +68,6 @@ Arabia Saudita first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-22
 
-### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
-
-De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio](https://www.lavanguardia.com/internacional/20260807/11609650/turquia-arabia-saudita-pakistan-forjan-nuevo-pacto-defensa-plenas-tensiones-oriente-medio.html?utm_source=lootura.com) — 2026-08-07T10:04:41.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)
+
+Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.
+
+Date: 2026-08-07
+
+### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
+
+El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
+
+Date: 2026-08-07
 
 ### El Barcelona entra de lleno en la puja por fichar a Rodri
 
@@ -56,18 +68,7 @@ Entre la vegetación del parque de la Ciutadella emerge una elegante estructura 
 
 Date: 2026-08-06
 
-### Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella
-
-Las vibraciones provocadas por los trabajos de una compactadora han obligado a evacuar a los vecinos de dos edificios del barrio de la Trinitat Vella de Barcelona, en el distrito de Sant Andreu, durante la madrugada de este jueves. Así lo ha explicado en una atención a la prensa el teniente de alcaldía de Economía, Hac.
-
-Date: 2026-08-06
-
-### Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella
-
-Los vecinos de dos bloques de pisos del barrio de la Trinitat Vella de Barcelona han sido desalojados esta madrugada de sus domicilios por los Bombers de Barcelona al sentir que sus bloques temblaban. Seguir leyendo...
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Así es Explora III, el nuevo crucero de lujo estrenado en Barcelona que lleva la experiencia de un hotel 'boutique' al mar](https://www.elconfidencial.com/espana/cataluna/2026-08-07/explora-iii-nuevo-crucero-lujo-barcelona-1tna-1qrt_4402097/?utm_source=lootura.com) — 2026-08-07T07:32:00.000Z
+- [Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)](https://www.elconfidencial.com/espana/cataluna/2026-08-07/robo-violencia-menores-olesa-barcelona-1tna-1tps_4402711/?utm_source=lootura.com) — 2026-08-07T12:04:00.000Z
+- [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z

@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Republicans accuse Michigan's El-Sayed of being "too extreme" after Senate primary win](https://www.cbsnews.com/video/republicans-accuse-michigans-el-sayed-of-being-too-extreme-after-senate-primary-win/?utm_source=lootura.com) — 2026-08-06T13:47:17.000Z
+No public source links.

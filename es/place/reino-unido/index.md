@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística
+
+Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.
+
+Date: 2026-08-07
 
 ### Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2
 
@@ -62,12 +68,6 @@ Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decor
 
 Date: 2026-08-01
 
-### Europa tiene petróleo pero decidió no tenerlo
-
-Europa habla de su energía como si la geología la hubiera condenado, y es falso. El continente tiene petróleo y gas en cantidades relevantes. Lo que no tiene es voluntad política de producirlos. El Reino Unido y Noruega producen entre 2,7 y 3 millones de barriles diarios en el mar del Norte, y aunque la cuenca es madur.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística](https://cincodias.elpais.com/companias/2026-08-07/aldi-y-lidl-ya-no-podran-alejar-a-sus-competidores-reino-unido-endurecera-la-normativa-urbanistica.html?utm_source=lootura.com) — 2026-08-07T11:22:28.000Z

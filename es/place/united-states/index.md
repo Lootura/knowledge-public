@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
 
 Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.
+
+Date: 2026-08-07
+
+### EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"
+
+Estados Unidos ha vuelto a cargar contra el Gobierno de España a cuenta de la crisis migratoria en Ceuta. En un post en X, el Departamento de Estado de EEUU ha asegurado que lo ocurrido en Ceuta se trató de una "invasión de decenas de miles de migrantes", que se produjo como "consecuencia directa del vergonzoso rechazo.
+
+Date: 2026-08-07
+
+### El Ibex tantea nuevos máximos tras el dato de empleo de EE UU
+
+La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.
+
+Date: 2026-08-07
+
+### EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»
+
+El Departamento de Estado de Estados Unidos salió este jueves al paso de los temores generados en España sobre una posible rectificación de Washington respecto a la soberanía española sobre Ceuta y Melilla. Fue el portavoz Tommy Pigott quien defendió la integridad territorial de España durante unas declaraciones en las.
+
+Date: 2026-08-07
+
+### Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla
+
+El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.
 
 Date: 2026-08-07
 
@@ -44,31 +68,10 @@ La cabina de pasaje de un 737 MAX - Boeing Lo de Boeing es impresionante. A este
 
 Date: 2026-08-06
 
-### Santander ficha al CEO de UBS en Brasil para su banca de inversión
-
-Santander ha fichado a Daniel Bassan, CEO de UBS en Brasil y responsable regional de América Latina, para dirigir la banca de inversión de su filial carioca. Bassan estaba ligado...
-
-Date: 2026-08-06
-
-### EE.UU. se convierte en un ejemplo para España: Arizona construye 27 cruces de fauna y reduce un 90% los accidentes de tráfico con animales
-
-Las obras de ingeniería ayudan a los animales a desplazarse mejor y también sirven para reducir los peligros en carretera y los accidentes provocados por la entrada de fauna a la vía. En Arizona, Estados Unidos (EE.UU.) lo están experimentando. Hay que entender que para muchos animales las carreteras son una barrera qu.
-
-Date: 2026-08-06
-
-### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
-
-La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
-
-Date: 2026-08-06
-
-### El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster
-
-El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la última que necesitaba, para convertirse en un gigante bancario en Estados Unidos gracias a Webster. Sus activos alcanzan los 253.600 millones de dólares (unos 220.000 millones de euros), con una posición dominante en el estado de Connecticut y no.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein](https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z
+- [EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"](https://www.20minutos.es/internacional/eeuu-vuelve-atacar-gobierno-espanol-por-crisis-ceuta-es-consecuencia-su-rechazo-asegurar-sus-fronteras_7023640_0.html?utm_source=lootura.com) — 2026-08-07T12:42:49.000Z
+- [El Ibex tantea nuevos máximos tras el dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T11:08:55.000Z
+- [EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»](https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com) — 2026-08-07T12:41:35.000Z
 - [Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes](https://theobjective.com/tecnologia/2026-08-07/meta-567-millones-salud-mental-jovenes/?utm_source=lootura.com) — 2026-08-07T07:46:38.000Z
+- [Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla](https://theobjective.com/internacional/2026-08-07/estados-unidos-inequivocamente-espanolidad-ceuta-melilla/?amp=&utm_source=lootura.com) — 2026-08-07T12:30:40.000Z

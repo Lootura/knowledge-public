@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -14,62 +14,69 @@ Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eri
 
 Date: 2026-08-07
 
-### U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition
+### Warren presses U.S. companies to share tariff refunds with customers
 
-Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
+Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
 
 Date: 2026-08-07
 
-### Fled to America at 11. Stole at 18. Deported to Vietnam at 44.
+### When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'
 
-The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.
+Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They've also raised questions about policies and priorities amid an intense wildfire season. (Image credit: Gretel Daugherty via AP).
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Morning news brief
+### Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz
 
-Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.
+President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz. (Image credit: Aaron Schwartz).
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Iran Hormuz Deal Advances Amid US Munitions Supply Questions
+### What makes companies dodge taxes?
 
-A deal on the Strait of Hormuz could come as early as Thursday, with the Iranian foreign ministry saying a draft agreement between Iran and Oman is under review. It comes as there are new concerns over a potential shortage of U.S. weaponry. NBC’s Keir Simmons reports for TODAY.
+Few tax issues generate more public frustration than big corporations paying little, or sometimes nothing, in federal income tax. Since 2018, U.S. corporations have faced a 21% federal corporate income tax rate, the lowest rate in decades and down from a top rate of 53% in 1969.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
+### With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller
 
-Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
+The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning. While plenty of countries have harmed universities by imposing neoliberal logics o.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Trump denies U.S. running low on some munitions, says vast resupplies being made
+### Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers
 
-President Trump is taking issue with recent reports of significant U.S. munitions shortages due to the war with Iran.
+The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### Pacific islands alarmed by Trump-backed push for deep-sea mining
+### Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica
 
-A Pacific island leader says there were "no consultations" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his people.
+An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### FDA Approves the First mRNA Flu Vaccine
+### Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks
 
-—NurPhoto / Contributor—Getty Images On Aug. 5, the U.S. Food and Drug Administration (FDA) approved the first mRNA-based vaccine for influenza. Health experts say the shot, made by Moderna, could have several advantages over traditional flu vaccines, but its approval comes at a time when federal health agencies have w.
+Arleigh Burke-class guided-missile destroyer USS Thomas Hudner (DDG 116) fires a Tomahawk land attack missile in the Mediterranean Sea on March 5, 2026. —U.S. Navy/Getty Images President Donald Trump refuted reports that the U.S. is experiencing a munitions shortage from the U.S.-Israeli war against Iran, vowing to jai.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
-### America Is Finally Taking Extraterrestrials Seriously
+### Trump Seeks to Restrict Birthright Citizenship With New Orders
 
-There was nothing much happening in Jerome and Benno Leuer’s yard in Hamel, Minn. on August 11, 1948. It was noontime in the thick of summer and the boys, 10 and 8, were idly playing when, as they later described it, something overhead caught their eyes. They looked up and their jaws dropped. Roughly 12 ft. up in the a.
+US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ## Sources
 
-- [U.S. hit with more foodborne illnesses as Chipotle, Qdoba remove salmonella-linked jalapeños](https://www.cbsnews.com/video/us-hit-with-more-foodborne-illnesses-as-chipotle-qdoba-remove-salmonella-linked-jalapeos/?utm_source=lootura.com) — 2026-08-06T13:35:10.000Z
+- [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T12:14:32.000Z
 - [U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
-- [Fled to America at 11. Stole at 18. Deported to Vietnam at 44.](https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html?utm_source=lootura.com) — 2026-08-06T18:00:44.000Z
+- [When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'](https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season?utm_source=lootura.com) — 2026-08-07T09:00:00.000Z
+- [Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling](https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com) — 2026-08-06T22:06:35.000Z
+- [Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz](https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell?utm_source=lootura.com) — 2026-08-07T10:56:19.000Z
+- [What makes companies dodge taxes?](https://phys.org/news/2026-08-companies-dodge-taxes.html?utm_source=lootura.com) — 2026-08-07T11:00:03.000Z
+- [With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller](https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities?utm_source=lootura.com) — 2026-08-07T10:00:14.000Z
+- [Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers](https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html?utm_source=lootura.com) — 2026-08-07T09:02:00.000Z
+- [Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica](https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html?utm_source=lootura.com) — 2026-08-07T10:04:01.000Z
+- [Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks](https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump/?utm_source=lootura.com) — 2026-08-07T10:45:00.000Z

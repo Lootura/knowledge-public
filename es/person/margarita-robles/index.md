@@ -3,10 +3,16 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska
+
+El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.
+
+Date: 2026-08-07
 
 ### Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta
 
@@ -46,4 +52,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta](https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html?utm_source=lootura.com) — 2026-08-07T08:54:32.000Z
+- [Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska](https://www.abc.es/espana/sanchez-comparecera-crisis-ceuta-moncloa-evita-careo-20260807111545-nt.html?utm_source=lootura.com) — 2026-08-07T12:16:15.000Z

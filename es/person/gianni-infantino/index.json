@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "Ni la UEFA , ni la Conmebol, ni la Concacaf, ni la AFC: la gestión de Gianni Infantino al frente de la FIFA ha sido condenada por prácticamente todo el mundo del fútbol, y de las 211 federaciones nacionales que la componen apenas hay un puñado que no se han posicionado o bien en su contra o han guardado un elocuente si.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos",
       "summary": "La Confederación Africana de Fútbol (CAF) expresó su respaldo unánime al presidente de la FIFA , Gianni Infantino , en un momento en el que enfrenta cuestionamientos por parte de varias federaciones y confederaciones internacionales. El apoyo fue manifestado durante una reunión oficial celebrada en Marruecos . El presi.",
@@ -57,10 +62,10 @@
   ],
   "sources": [
     {
-      "title": "Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos",
-      "url": "https://www.larazon.es/deportes/infantino-recibe-apoyo-confederacion-africana-fifa-liderada-marruecos_202608076a759669a5690f04736c1c3e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:25:13.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Argentina se desmarca del resto del mundo y sí apoya a Infantino: «El camino es seguir bajo su liderazgo»",
+      "url": "https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:27:13.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

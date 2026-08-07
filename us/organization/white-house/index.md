@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump Seeks to Restrict Birthright Citizenship With New Orders
+
+US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
+
+Date: 2026-08-07
 
 ### Funding milestone detected
 
@@ -62,12 +68,6 @@ The White House has declassified information claiming the FBI probed whether Pre
 
 Date: 2026-08-05
 
-### Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case
-
-President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Hemp Fight Snarls Speedy Passage of Government Funding Bill](https://www.nytimes.com/2026/08/06/us/politics/hemp-government-funding-bill.html?utm_source=lootura.com) — 2026-08-06T19:41:40.000Z
+- [Trump Seeks to Restrict Birthright Citizenship With New Orders](https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T10:15:08.000Z

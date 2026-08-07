@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+Ni la UEFA , ni la Conmebol, ni la Concacaf, ni la AFC: la gestión de Gianni Infantino al frente de la FIFA ha sido condenada por prácticamente todo el mundo del fútbol, y de las 211 federaciones nacionales que la componen apenas hay un puñado que no se han posicionado o bien en su contra o han guardado un elocuente si.
+
+Date: 2026-08-07
 
 ### Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos
 
@@ -58,4 +64,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Infantino recibe el apoyo de la Confederación Africana en la FIFA liderada por Marruecos](https://www.larazon.es/deportes/infantino-recibe-apoyo-confederacion-africana-fifa-liderada-marruecos_202608076a759669a5690f04736c1c3e.html?utm_source=lootura.com) — 2026-08-07T08:25:13.000Z
+- [Argentina se desmarca del resto del mundo y sí apoya a Infantino: «El camino es seguir bajo su liderazgo»](https://www.abc.es/deportes/futbol/argentina-desmarca-resto-mundo-futbol-apoya-infantino-20260807104222-nt.html?utm_source=lootura.com) — 2026-08-07T12:27:13.000Z

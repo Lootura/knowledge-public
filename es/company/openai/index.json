@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face",
+      "summary": "Sabemos que en varias ocasiones los agentes de IA de las diferentes compañías se han salido de sus raíles y han hecho cosas que no deberían haber hecho. Incluyendo hackeos. Y que desde luego no es la primera vez que las IA conspiran en foros, pero lo que ha contado OpenAI en la Black Hat supera todo lo que hemos visto.",
+      "date": "2026-08-07"
+    },
     {
       "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
       "summary": "SoftBank Group se anotó un beneficio neto atribuido de 347.330 millones de yenes (1.908 millones de euros) al cierre de su primer trimestre fiscal, entre los meses de abril y junio, lo que representa una caída del 17,7% respecto del resultado contabilizado por el conglomerado japonés en el mismo periodo de su anterior.",
@@ -59,6 +64,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face",
+      "url": "https://hipertextual.com/tecnologia/los-agentes-de-ia-de-openai-crearon-un-foro-secreto-para-rebelarse-y-coordinar-hackeos-de-hugging-face/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:00:29.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

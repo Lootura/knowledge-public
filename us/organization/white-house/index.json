@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.",
@@ -62,19 +67,14 @@
       "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
       "summary": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
-      "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Hemp Fight Snarls Speedy Passage of Government Funding Bill",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/hemp-government-funding-bill.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:41:40.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "url": "https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:15:08.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 1

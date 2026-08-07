@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"
+
+La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.
+
+Date: 2026-08-07
 
 ### Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»
 
@@ -62,12 +68,6 @@ Date: 2026-07-21
 
 Date: 2026-07-20
 
-### Discovered by Atlas
-
-Ferran Torres first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"](https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T12:56:29.000Z

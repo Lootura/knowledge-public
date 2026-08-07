@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T09:12:11.480Z",
+  "generatedAt": "2026-08-07T13:12:38.072Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|85|1786093016836",
+    "signature": "1.18.0|86|1786107436248",
     "version": "1.18.0",
-    "build": 85,
-    "latestEntityUpdatedAt": "2026-08-07T08:56:56.836Z"
+    "build": 86,
+    "latestEntityUpdatedAt": "2026-08-07T12:57:16.248Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Morning news brief",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-08-07T08:56:56.836Z",
-      "score": 1700,
-      "sourceCount": 329,
+      "updatedAt": "2026-08-07T12:57:16.248Z",
+      "score": 1728,
+      "sourceCount": 335,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,12 +31,12 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump signs new orders targeting birthright citizenship",
+        "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-07T08:56:56.836Z",
-        "score": 1668,
-        "sourceCount": 607,
+        "updatedAt": "2026-08-07T12:57:16.248Z",
+        "score": 1714,
+        "sourceCount": 616,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,25 +44,12 @@
         "id": "usa-supreme-court",
         "name": "Supreme court",
         "type": "organization",
-        "title": "Trump signs new orders targeting birthright citizenship",
+        "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-07T08:56:56.836Z",
-        "score": 1631,
-        "sourceCount": 24,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-russia",
-        "name": "Russia",
-        "type": "place",
-        "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
-        "url": "https://atlas.lootura.com/us/place/russia",
-        "path": "/us/place/russia",
-        "updatedAt": "2026-08-07T08:56:56.836Z",
-        "score": 1629,
-        "sourceCount": 71,
+        "updatedAt": "2026-08-07T12:57:16.248Z",
+        "score": 1702,
+        "sourceCount": 28,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +60,26 @@
         "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-07T08:56:56.836Z",
-        "score": 1625,
-        "sourceCount": 611,
+        "updatedAt": "2026-08-07T12:57:16.248Z",
+        "score": 1666,
+        "sourceCount": 620,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-08-07T12:57:16.248Z",
+        "score": 1643,
+        "sourceCount": 47,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 115
+    "publicEntityCount": 118
   }
 }

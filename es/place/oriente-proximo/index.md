@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Ibex tantea nuevos máximos tras el dato de empleo de EE UU
+
+La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.
+
+Date: 2026-08-07
 
 ### El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU
 
@@ -62,12 +68,6 @@ El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resi
 
 Date: 2026-08-01
 
-### ¿Quién teme el crudo a 100 dólares?
-
-El precio del Brent , la referencia más utilizada en los mercados globales, ha escalado esta semana de nuevo a los 100 dólares por barril . Su vuelta a los niveles más altos desde principios de junio se produce en plena escalada del conflicto de Oriente Próximo. Seguir leyendo.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T08:24:35.000Z
+- [El Ibex tantea nuevos máximos tras el dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T11:08:55.000Z

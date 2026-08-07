@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
+      "summary": "La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.",
+      "date": "2026-08-07"
+    },
     {
       "title": "España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera",
       "summary": "Las principales nacionalidades de los inmigrantes fueron la colombiana, la venezolana y la marroquí, con Comunidad Valenciana, Baleares y Asturias encabezando los mayores aumentos...",
@@ -64,13 +69,15 @@
       "title": "Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros",
       "summary": "El portavoz de Vivienda de Sumar en el Congreso , Alberto Ibáñez , ha cargado este martes contra el futbolista de la Selección Española, Ferran Torres , al que ha acusado de «especular» con la vivienda en la Comunidad Valenciana a través de una sociedad de inversión inmobiliaria, que ha tildado abiertamente de « fondo.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "La Generalitat eleva el tono con la prórroga de la nuclear de Cofrentes tras el aval del CSN a Almaraz",
-      "summary": "El informe del Consejo de Seguridad Nuclear que avala técnicamente la posible prórroga en el funcionamiento de la central de Almaraz (Badajoz) ha dado argumentos a quienes defienden en la Comunidad Valenciana una revisión del calendario de cierre de la planta de Cofrentes, previsto para 2030 . El vicepresidente tercero.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
+      "url": "https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:56:29.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

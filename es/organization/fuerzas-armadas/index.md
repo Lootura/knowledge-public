@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T21:09:57.077Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal
+
+El Grupo Parlamentario Vox ha registrado este viernes una proposición no de ley en el Congreso de los Diputados en la que solicita el despliegue general de las Fuerzas Armadas y las Fuerzas y Cuerpos de Seguridad del Estado para la protección del perímetro de las ciudades de Ceuta y Melilla . El texto recuerda que la c.
+
+Date: 2026-08-07
 
 ### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
 
@@ -64,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal](https://theobjective.com/espana/politica/2026-08-07/vox-desplegar-fuerzas-armadas-ceuta-melilla/?utm_source=lootura.com) — 2026-08-07T11:15:26.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-el-departamento",
+  "name": "El Departamento",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/el-departamento",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/el-departamento",
+  "markdownUrl": "https://atlas.lootura.com/es/place/el-departamento/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/el-departamento/index.json",
+  "description": "Sigue la actividad de El Departamento en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»",
+      "summary": "El Departamento de Estado de Estados Unidos salió este jueves al paso de los temores generados en España sobre una posible rectificación de Washington respecto a la soberanía española sobre Ceuta y Melilla. Fue el portavoz Tommy Pigott quien defendió la integridad territorial de España durante unas declaraciones en las.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
+      "summary": "El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Departamento first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»",
+      "url": "https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:41:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
+      "url": "https://theobjective.com/internacional/2026-08-07/estados-unidos-inequivocamente-espanolidad-ceuta-melilla/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:30:40.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

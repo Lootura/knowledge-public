@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face
+
+Sabemos que en varias ocasiones los agentes de IA de las diferentes compañías se han salido de sus raíles y han hecho cosas que no deberían haber hecho. Incluyendo hackeos. Y que desde luego no es la primera vez que las IA conspiran en foros, pero lo que ha contado OpenAI en la Black Hat supera todo lo que hemos visto.
+
+Date: 2026-08-07
 
 ### SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI
 
@@ -64,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face](https://hipertextual.com/tecnologia/los-agentes-de-ia-de-openai-crearon-un-foro-secreto-para-rebelarse-y-coordinar-hackeos-de-hugging-face/?utm_source=lootura.com) — 2026-08-07T10:00:29.000Z

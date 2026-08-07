@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -71,13 +71,7 @@
       "url": "https://www.cbsnews.com/news/anthony-fauci-senate-committee-contempt-of-congress-rand-paul/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T00:15:50.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Senate Republicans vote to hold Fauci in contempt of Congress",
-      "url": "https://www.nbcnews.com/nightly-news/video/senate-republicans-vote-to-hold-fauci-in-contempt-of-congress-267908677598?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T23:00:25.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

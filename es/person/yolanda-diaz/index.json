@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
+      "summary": "La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha presentado formalmente su candidatura a la dirección general de la Organización Internacional del Trabajo (OIT) , donde ya ha quedado registrada junto a la del que, de momento, es su único rival: el actual director general, el africano Gilbert F. Houngbo.",
+      "date": "2026-08-07"
+    },
     {
       "title": "La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores",
       "summary": "La Inspección de Trabajo se ha consolidado como uno de los principales organismos encargados de velar por el cumplimiento de la normativa laboral y de Seguridad Social en España. Según los datos facilitados en marzo por la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, durante 2025 se llevaron a cabo alred.",
@@ -61,13 +66,15 @@
       "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
       "summary": "El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El rechazo de las patronales complica su llegada a la dirección del organismo",
-      "summary": "Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
+      "url": "https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:31:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

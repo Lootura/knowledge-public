@@ -3,20 +3,26 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
 
-### Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año
+### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
 
-Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.
+Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.
 
-Date: 2026-08-06
+Date: 2026-08-07
 
 ### Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos
 
 Bizkaia y Navarra implementan restricciones en San Juan de Gaztelugatxe y las Bardenas Reales, mientras Gipuzkoa no contempla medidas especiales por el momento.
+
+Date: 2026-08-06
+
+### Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año
+
+Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.
 
 Date: 2026-08-06
 
@@ -62,13 +68,7 @@ Los grupos del Ibex baten su récord de adquisiciones internacionales de los úl
 
 Date: 2026-08-03
 
-### «Las mujeres en Afganistán no tenemos derecho a vivir y hemos tenido que huir»
-
-Euskadi recibe a un grupo de chicas afganas que buscan labrarse un futuro lejos de los talibanes, que llevan al frente de su país desde 2021.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año](https://www.elcorreo.com/sociedad/cerca-2200-mujeres-denuncian-euskadi-agresiones-pareja-20260806120055-nt_amp.html?utm_source=lootura.com) — 2026-08-06T10:00:55.000Z
+- [Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía](https://www.elcorreo.com/alava/araba/euskadi-comprara-forrajes-forma-conjunta-ante-escasez-pastos-sequia-20260807143200-nt_amp.html?utm_source=lootura.com) — 2026-08-07T12:44:45.000Z
 - [Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos](https://www.diariovasco.com/sociedad/primer-cierre-euskadi-eclipse-san-juan-gaztelugatxe-20260806152402-nt_amp.html?utm_source=lootura.com) — 2026-08-06T13:34:23.000Z

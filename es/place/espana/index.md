@@ -3,56 +3,14 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### La práctica para ganar un ingreso extra de miles de euros este verano que crece en España: "Nos ayuda incluso con la hipoteca"
-
-En esta época de calor y altas temperaturas apetecen mucho más los planes al aire libre con amigos y familiares. El problema es que ya en estas fechas y durante el verano el termómetro se dispara hasta unos niveles que en ocasiones son difíciles de soportar. Un refugio habitual para combatir la canícula son las piscina.
-
-Date: 2026-08-07
-
-### ¿Es fácil hacer trampas en un contrato público?
-
-En España, pocas expresiones resumen tan bien cierta forma de relacionarnos con las normas como el conocido “hecha la ley, hecha la trampa”. Una lente cultural que revela nuestra tendencia a la picardía y a buscar resquicios cuando aparece margen para el atajo. La frase surge en conversaciones cotidianas, como una mezc.
-
-Date: 2026-08-07
-
-### Desmantelada una gran red de tráfico de migrantes y drogas: hay al menos 77 detenidos
-
-Una macrooperación internacional liderada por la Policía Nacional y coordinada por Europol ha culminado en España con la detención de al menos 77 personas y el desmantelamiento de una de las mayores organizaciones dedicadas al tráfico de migrantes, drogas y armas en el Mediterráneo , según confirmaron a EFE fuentes de.
-
-Date: 2026-08-07
-
 ### El chiringuito, elogio y reivindicación de una institución popular
 
 Les propongo un viaje para el que no necesitarán billetes, protección solar ni siquiera una toalla. Iremos a un lugar que probablemente conozcan bien, aunque tal vez no se hayan detenido aún a pensar en él. Primera parada: una playa cualquiera de España , hace 40 años. Pónganse el traje que les resulte más cómodo: pued.
-
-Date: 2026-08-07
-
-### La Primera de Expansión sobre MG, BYD, Sabadell y bajas en España
-
-MG y BYD dan el 'sorpasso' a Citroën, Nissan, Opel y Ford . El cliente español ha dado una gran acogida a las más de 30 marcas chinas que han desembarcado en el mercado nacional, donde ya tienen una penetración de cerca del 15%.
-
-Date: 2026-08-07
-
-### Estas son las zonas de España que esquivan el calor extremo de este viernes: la AEMET prevé 40 grados en el sur y tormentas con granizo en el este
-
-La Agencia Estatal de Meteorología anuncia una jornada de fuertes contrastes, con el Guadalquivir rozando los 40 grados, noches tropicales en el Mediterráneo y chubascos tormentosos con granizo en el interior oriental, mientras la franja cantábrica y Galicia se mantienen al margen del episodio cálido.
-
-Date: 2026-08-07
-
-### La quinta columna marroquí en España
-
-Las políticas de apaciguamiento nunca han servido para resolver satisfactoriamente ningún conflicto político . Al contrario, son el termómetro del miedo, el estímulo del que se sirven los tiranos para extorsionar y seguir chantajeando ilimitadamente a sus víctimas. «Habéis elegido el deshonor frente a la guerra y al fi.
-
-Date: 2026-08-07
-
-### España, una casa sin padre
-
-Escribimos esto desde una casa poco corriente: una alemana y un argentino que llevamos 20 años juntos, formamos nuestra familia en España y hemos criado aquí a tres hijos madrileños. No vivimos el franquismo , y esa es nuestra ventaja para escribir lo que sigue. Ningún país discute con su dictadura durante 50 años sin.
 
 Date: 2026-08-07
 
@@ -68,15 +26,57 @@ Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjun
 
 Date: 2026-08-07
 
+### EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"
+
+Estados Unidos ha vuelto a cargar contra el Gobierno de España a cuenta de la crisis migratoria en Ceuta. En un post en X, el Departamento de Estado de EEUU ha asegurado que lo ocurrido en Ceuta se trató de una "invasión de decenas de miles de migrantes", que se produjo como "consecuencia directa del vergonzoso rechazo.
+
+Date: 2026-08-07
+
+### El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península "en pocas semanas"
+
+Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.
+
+Date: 2026-08-07
+
+### España insta a Italia a levantar la suspensión del espacio Schengen en dos días o tomará "medidas proporcionales"
+
+El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio Schengen' impuesta tras la crisis migratoria en Ceuta de hace más de una semana y le ha dado un plazo de dos días, hasta el domingo 9 de agosto, para que lo haga o, si no, " España se verá obligada a adoptar medidas proporcionales para proteg.
+
+Date: 2026-08-07
+
+### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
+
+El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
+
+Date: 2026-08-07
+
+### Un diputado de Compromís denuncia a Figaredo ante la Fiscalía del Supremo por llamar a “cazar a los inmigrantes” de Ceuta
+
+Alberto Ibáñez pide que se investiguen las declaraciones en televisión del parlamentario de Vox y afirma que "no fueron fruto de un lapsus" e implican "una deshumanización explícita del colectivo migrante" España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la front.
+
+Date: 2026-08-07
+
+### La Justicia da la razón a un trabajador al que se le rechazó su incapacidad en 2023: cobrará la pensión máxima más 90.675 euros
+
+Un hombre de 49 años ha conseguido que la Justicia reconozca su derecho a una pensión por incapacidad permanente absoluta después de iniciar una batalla judicial contra la Seguridad Social en España. El trabajador padece enfermedad de Crohn , artritis psoriásica y una depresión grave, un conjunto de patologías que, seg.
+
+Date: 2026-08-07
+
+### EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»
+
+El Departamento de Estado de Estados Unidos salió este jueves al paso de los temores generados en España sobre una posible rectificación de Washington respecto a la soberanía española sobre Ceuta y Melilla. Fue el portavoz Tommy Pigott quien defendió la integridad territorial de España durante unas declaraciones en las.
+
+Date: 2026-08-07
+
 ## Fuentes
 
-- [La práctica para ganar un ingreso extra de miles de euros este verano que crece en España: "Nos ayuda incluso con la hipoteca"](https://www.20minutos.es/lainformacion/economia-y-finanzas/practica-para-ganar-un-ingreso-extra-miles-euros-este-verano-que-crece-espana-nos-ayuda-incluso-con-hipoteca_7015456_0.html?utm_source=lootura.com) — 2026-08-07T05:20:23.000Z
-- [¿Es fácil hacer trampas en un contrato público?](https://cincodias.elpais.com/opinion/2026-08-07/es-facil-hacer-trampas-en-un-contrato-publico.html?utm_source=lootura.com) — 2026-08-07T03:40:00.000Z
-- [Desmantelada una gran red de tráfico de migrantes y drogas: hay al menos 77 detenidos](https://www.elconfidencial.com/espana/2026-08-07/trafico-migrantes-drogas-mediterraneo-red-1tna-1tps_4402371/?utm_source=lootura.com) — 2026-08-07T05:28:00.000Z
-- [Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"](https://www.elmundo.es/espana/2026/08/06/6a74d158fdddffe62d8b4599.html?utm_source=lootura.com) — 2026-08-06T21:36:13.000Z
+- [España amenaza a Italia con medidas "proporcionales" si no retira los controles en la frontera](https://www.20minutos.es/nacional/espana-insta-italia-levantar-las-medidas-control-su-frontera-contra-los-espanoles-tomara-medidas-proporcionales_7023609_0.html?utm_source=lootura.com) — 2026-08-07T10:59:35.000Z
+- [EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"](https://www.20minutos.es/internacional/eeuu-vuelve-atacar-gobierno-espanol-por-crisis-ceuta-es-consecuencia-su-rechazo-asegurar-sus-fronteras_7023640_0.html?utm_source=lootura.com) — 2026-08-07T12:42:49.000Z
+- [El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península "en pocas semanas"](https://www.20minutos.es/nacional/gobierno-eleva-1-342-los-menores-ceuta-fija-su-reubicacion-peninsula-pocas-semanas_7023588_0.html?utm_source=lootura.com) — 2026-08-07T10:29:02.000Z
+- [España insta a Italia a levantar la suspensión del espacio Schengen en dos días o tomará "medidas proporcionales"](https://www.elconfidencial.com/espana/2026-08-07/espana-insta-a-italia-a-levantar-la-suspension-del-espacio-schengen-en-dos-dias-o-tomara_4402659/?utm_source=lootura.com) — 2026-08-07T11:16:00.000Z
+- [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
 - [El chiringuito, elogio y reivindicación de una institución popular](https://elpais.com/eps/2026-08-07/el-chiringuito-elogio-y-reivindicacion-de-una-institucion-popular.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
-- [Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”](https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T19:31:23.000Z
-- [La Primera de Expansión sobre MG, BYD, Sabadell y bajas en España](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/07/6a7561d5e5fdeae8238b458b.html?utm_source=lootura.com) — 2026-08-07T05:20:02.000Z
-- [Estas son las zonas de España que esquivan el calor extremo de este viernes: la AEMET prevé 40 grados en el sur y tormentas con granizo en el este](https://www.larazon.es/el-tiempo/estas-son-zonas-espana-que-esquivan-calor-extremo-este-viernes-aemet-preve-40-grados-sur-tormentas-granizo-este-b50m_202608076a74d4d8a5690f04736b1a0b.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T05:20:13.000Z
+- [Un diputado de Compromís denuncia a Figaredo ante la Fiscalía del Supremo por llamar a “cazar a los inmigrantes” de Ceuta](https://www.eldiario.es/politica/diputado-compromis-denuncia-figaredo-fiscalia-supremo-llamar-cazar-inmigrantes-ceuta_1_13434479.html?utm_source=lootura.com) — 2026-08-07T12:17:05.000Z
+- [La Justicia da la razón a un trabajador al que se le rechazó su incapacidad en 2023: cobrará la pensión máxima más 90.675 euros](https://www.larazon.es/actualidad/justicia-razon-trabajador-que-rechazo-incapacidad-2023-cobrara-pension-maxima-mas-90675-euros-b50m_202608076a75cdeea5690f04736c8131.html?utm_source=lootura.com) — 2026-08-07T12:22:06.000Z
+- [EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»](https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com) — 2026-08-07T12:41:35.000Z
 - [Vox pide en el Congreso el retorno a Marruecos de los menas y la paralización de su reparto](https://theobjective.com/espana/politica/2026-08-07/vox-congreso-retorno-marruecos-menas-paralizacion-reparto/?amp=&utm_source=lootura.com) — 2026-08-07T08:52:33.000Z
-- [La quinta columna marroquí en España](https://theobjective.com/elsubjetivo/opinion/2026-08-07/quinta-columna-marroqui-espana-articulo-paulino-guerra/?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z

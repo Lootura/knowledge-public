@@ -1,0 +1,47 @@
+{
+  "id": "es-sira-rego",
+  "name": "Sira Rego",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/sira-rego",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/sira-rego",
+  "markdownUrl": "https://atlas.lootura.com/es/person/sira-rego/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/sira-rego/index.json",
+  "description": "Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "aliases": [
+    "Sira Abed Rego"
+  ],
+  "changes": [
+    {
+      "title": "El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península \"en pocas semanas\"",
+      "summary": "Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta",
+      "summary": "La ministra de Juventud e Infancia, Sira Rego, ha cifrado en 1.342 los menores acogidos hasta el momento en Ceuta, pero ha explicado que se sigue filiando a decenas de menores de los que entraron irregularmente a nado el pasado 30 de julio. Seguir leyendo...",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sira Rego first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península \"en pocas semanas\"",
+      "url": "https://www.20minutos.es/nacional/gobierno-eleva-1-342-los-menores-ceuta-fija-su-reubicacion-peninsula-pocas-semanas_7023588_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:29:02.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260807/11609669/gobierno-cifra-1-342-menores-acogidos-momento-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:04:05.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,10 +3,16 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
+
+### Trump Seeks to Restrict Birthright Citizenship With New Orders
+
+US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
+
+Date: 2026-08-07
 
 ### These 25 U.S. States Are Suing the Trump Administration. Here's Why
 
@@ -52,4 +58,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [Trump Seeks to Restrict Birthright Citizenship With New Orders](https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T10:15:08.000Z

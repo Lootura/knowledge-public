@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-05
 ## Sources
 
 - [U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition](https://www.cbsnews.com/news/robert-gilman-marine-veteran-russia-hospitalized/?utm_source=lootura.com) — 2026-08-07T02:45:44.000Z
-- [Senate finalizes deal on Russia sanctions](https://www.semafor.com/article/08/06/2026/senate-finalizes-deal-on-russia-sanctions?utm_source=lootura.com) — 2026-08-07T08:53:06.000Z

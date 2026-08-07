@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Who or what is 'taking a step back from visibility'? The quiz knows
+
+Plus, if you know what "TMZ" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).
+
+Date: 2026-08-07
 
 ### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
 
@@ -62,12 +68,6 @@ Democrats chose South Carolina for the first 2028 presidential primary, then Nev
 
 Date: 2026-07-24
 
-### Meet Me in the Notes App
-
-—NurPhoto—Getty Images “What’s the oldest note in your phone?” my younger sister asked, in the same tone one might use to share gossip. She was explaining what she called “notes app digest,” rereading notes like a kind of personal magazine of one’s own insight and nonsense. I immediately scrolled. For better or worse,.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Who or what is 'taking a step back from visibility'? The quiz knows](https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz?utm_source=lootura.com) — 2026-08-07T09:00:00.000Z

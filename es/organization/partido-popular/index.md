@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -32,6 +32,18 @@ El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y 
 
 Date: 2026-08-07
 
+### Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal
+
+La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callejero municipal. El equipo de Gobierno del PP plantea modificar el nombre de la Avenida San Miguel, una de las principales de la localidad, para pasar a llamarse Avenida Evaristo Domínguez , que es el actual alcalde. Domínguez ha sido el único.
+
+Date: 2026-08-07
+
+### El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta
+
+Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.
+
+Date: 2026-08-07
+
 ### Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”
 
 La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.
@@ -56,22 +68,11 @@ La pregunta planea cada rueda de prensa que ofrece un dirigente del Partido Popu
 
 Date: 2026-08-06
 
-### En Sumario de tarde: de la «negligencia» de Marlaska al sí del PP al reparto de menores
-
-Los servicios de inteligencia achacan el asalto a Ceuta a la «negligencia de Marlaska»; El PP insiste en que «cumplirá la ley» en el reparto de los menores inmigrantes de Ceuta; Frontex advirtió en junio del auge de la ruta de Ceuta y destacó la escasa actuación de mafias; y aislado en España un turista positivo de han.
-
-Date: 2026-08-06
-
-### La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades
-
-Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal](https://www.elconfidencial.com/espana/2026-08-07/bronca-en-un-pueblo-de-cantabria-el-alcalde-quiere-poner-su-nombre-a-la-avenida-principal_4402132/?utm_source=lootura.com) — 2026-08-07T10:41:00.000Z
 - [El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene](https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T07:11:33.000Z
 - [El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta](https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html?utm_source=lootura.com) — 2026-08-07T08:24:55.000Z
 - [El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP](https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
 - [La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí](https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html?utm_source=lootura.com) — 2026-08-07T03:30:01.000Z
-- [Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”](https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html?utm_source=lootura.com) — 2026-08-06T19:31:23.000Z
+- [El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta](https://www.eldiario.es/politica/pp-contraprograma-gobierno-cita-marlaska-robles-senado-semana-viene_1_13433588.html?utm_source=lootura.com) — 2026-08-07T08:58:55.000Z

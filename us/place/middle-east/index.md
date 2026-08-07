@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com) — 2026-08-07T02:17:45.000Z
+No public source links.

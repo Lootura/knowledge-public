@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -27,9 +27,29 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Warren presses U.S. companies to share tariff refunds with customers",
+      "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
+      "summary": "President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Trump signs new orders targeting birthright citizenship",
       "summary": "Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
+      "summary": "President Trump is once again attempting to put restrictions on who is automatically guaranteed citizenship after being born in the U.S., just weeks after the Supreme Court struck down his attempt to end birthright citizenship. (Image credit: Alex Brandon).",
+      "date": "2026-08-06"
     },
     {
       "title": "Edgy Vanity Plates Test Limits of Free Speech",
@@ -45,29 +65,15 @@
       "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
       "summary": "The New Mexico Supreme Court ruled that the body camera footage of a woman confessing to hiding her newborn baby in a hospital trash can in an attempt to conceal her pregnancy cannot be used by prosecutors in her murder case because of doctor-patient confidentiality. Alexee Trevizo, who was 19 when she was arrested and.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-      "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
-      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday",
-      "summary": "President Donald Trump is going ahead with new double-digit tariffs on dozens of U.S. trading partners just as the clock runs out Friday on stopgap levies he imposed after a stinging defeat at the Supreme Court.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Warren presses U.S. companies to share tariff refunds with customers",
+      "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:14:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump issues new executive orders aimed at birthright citizenship",
       "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com",
@@ -75,17 +81,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
+      "url": "https://www.today.com/video/trump-targets-birth-tourism-with-two-new-executive-orders-267926085880?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:26:10.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com",
+      "publishedAt": "2026-08-06T22:06:35.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T01:03:06.000Z",
+      "publishedAt": "2026-08-07T12:10:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Edgy Vanity Plates Test Limits of Free Speech",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T16:01:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "url": "https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:15:08.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

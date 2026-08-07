@@ -1,12 +1,18 @@
-# Agencia Estatal
+# Agencia estatal (España)
 
-> Sigue la actividad de Agencia Estatal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Agencia Estatal first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-05
 
 ### Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades
 
@@ -20,12 +26,6 @@ La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de 
 
 Date: 2026-08-05
 
-### Discovered by Atlas
-
-Agencia Estatal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El primer parte meteorológico para el día del eclipse: calor intenso y posibles nubes en zonas de montaña](https://www.abc.es/ciencia/primer-parte-meteorologico-aemet-dia-eclipse-calor-20260807114222-nt.html?utm_source=lootura.com) — 2026-08-07T12:27:45.000Z

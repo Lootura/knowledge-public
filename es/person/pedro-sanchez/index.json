@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,26 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska",
+      "summary": "El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Incluyen a la falsa médico coruñesa Andrea Sánchez entre los más buscados de Europa",
+      "summary": "La lista de delincuentes más buscados de Europa se actualizó este viernes con una nueva incorporación. Se trata de la falsa médico coruñesa Andrea Sánchez Antelo, de 32 años . Según la ficha de la Europol, esta fugitiva desapareció tras practicar la medicina sin ningún tipo de titulación, dejando a su paso «un importan.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»",
+      "summary": "El Departamento de Estado de Estados Unidos salió este jueves al paso de los temores generados en España sobre una posible rectificación de Washington respecto a la soberanía española sobre Ceuta y Melilla. Fue el portavoz Tommy Pigott quien defendió la integridad territorial de España durante unas declaraciones en las.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Los ceutíes, indignados: «¿Por qué los 25 millones van para los menas y no para nuestros niños con necesidades especiales?»",
+      "summary": "La indignación entre los vecinos de Ceuta es palpable. OKDIARIO ha recogido el testimonio de varias ceutíes que asisten impotentes a la situación que vive su ciudad y que no entienden las prioridades del Gobierno de Pedro Sánchez . «¿Por qué no donan esos millones al Ministerio de Educación, para más aulas de niños esp.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Lo de Ceuta y los submarinos S-80",
       "summary": "Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.",
@@ -46,29 +66,21 @@
       "title": "La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican",
       "summary": "La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Los inmigrantes ilegales que deambulan por las calles de Ceuta: «Pedro Sánchez es buena gente»",
-      "summary": "Los inmigrantes ilegales que aún quedan en Ceuta tras la invasión del pasado jueves pasan los días deambulando por la ciudad autónoma , recogen sus kits de comida , entregados por la Cruz Roja, y vuelven a ver pasar el tiempo tirados en la playa. Mientras trascurren los días en esta rutina, muchos de ellos defienden qu.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: \"¡Corrupto!, ¡Sinvergüenza!, ¡Ladrón!\"",
-      "summary": "Hazte Oir organiza una protesta contra Sánchez frente a La Mareta: \"¡Corrupto! ,¡Sinvergüenza!, ¡Ladrón!\".",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las mafias aprovechan el coladero de Ceuta para trasladar inmigrantes a otras costas españolas",
-      "summary": "Las mafias dedicadas al tráfico de personas han comenzado a hacer negocio con los inmigrantes ilegales que han invadido Ceuta en las últimas semanas, según ha podido saber OKDIARIO. Ahora sí y no antes, como sostenía el presidente del Gobierno, Pedro Sánchez, quien viene culpando a las organizaciones criminales de esta.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
-      "summary": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
+    {
+      "title": "Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska",
+      "url": "https://www.abc.es/espana/sanchez-comparecera-crisis-ceuta-moncloa-evita-careo-20260807111545-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:16:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Incluyen a la falsa médico coruñesa Andrea Sánchez entre los más buscados de Europa",
+      "url": "https://www.abc.es/espana/galicia/incluyen-falsa-medico-corunesa-andrea-sanchez-buscados-20260807112800-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:30:58.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Apagón de Moncloa en Ceuta: cuatro días sin ministros y Sánchez los convoca una semana después",
       "url": "https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html?utm_source=lootura.com",
@@ -76,17 +88,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”",
-      "url": "https://www.larazon.es/comunidad-valenciana/ppcv-acusa-diana-morant-asfixiar-financiacion-universidades-publicas-valencianas_202608076a759c83a046ad6ebca34dc5.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:51:15.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»",
+      "url": "https://okdiario.com/internacional/eeuu-apoya-soberania-espana-sobre-ceuta-pero-culpa-sanchez-invasion-no-defendido-pueblo-19143934?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:41:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "Lo de Ceuta y los submarinos S-80",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-07/ceuta-submarinos-s80-articulo-gonzalez-quiros/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Los ceutíes, indignados: «¿Por qué los 25 millones van para los menas y no para nuestros niños con necesidades especiales?»",
+      "url": "https://okdiario.com/espana/ceuties-indignados-que-25-millones-van-menas-no-nuestros-ninos-necesidades-especiales-19142128?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:35:58.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

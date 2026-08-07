@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -20,11 +20,35 @@ The orders come after the Supreme Court ruled June 30 that President Trump’s p
 
 Date: 2026-08-07
 
+### Warren presses U.S. companies to share tariff refunds with customers
+
+Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
+
+Date: 2026-08-07
+
+### Trump Targets 'Birth Tourism' With Two New Executive Orders
+
+President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.
+
+Date: 2026-08-07
+
+### Trump Seeks to Restrict Birthright Citizenship With New Orders
+
+US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
+
+Date: 2026-08-07
+
 ### Trump signs new orders targeting birthright citizenship
 
 Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.
 
 Date: 2026-08-07
+
+### Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling
+
+President Trump is once again attempting to put restrictions on who is automatically guaranteed citizenship after being born in the U.S., just weeks after the Supreme Court struck down his attempt to end birthright citizenship. (Image credit: Alex Brandon).
+
+Date: 2026-08-06
 
 ### Edgy Vanity Plates Test Limits of Free Speech
 
@@ -44,32 +68,11 @@ The New Mexico Supreme Court ruled that the body camera footage of a woman confe
 
 Date: 2026-08-02
 
-### She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.
-
-Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
-
-Date: 2026-08-01
-
-### Trump’s Global Tariffs: What’s the Latest on the Trade War
-
-The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.
-
-Date: 2026-07-24
-
-### Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners
-
-The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.
-
-Date: 2026-07-24
-
-### Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday
-
-President Donald Trump is going ahead with new double-digit tariffs on dozens of U.S. trading partners just as the clock runs out Friday on stopgap levies he imposed after a stinging defeat at the Supreme Court.
-
-Date: 2026-07-23
-
 ## Sources
 
+- [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T12:14:32.000Z
 - [Trump issues new executive orders aimed at birthright citizenship](https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T00:15:00.000Z
-- [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T01:03:06.000Z
-- [Edgy Vanity Plates Test Limits of Free Speech](https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html?utm_source=lootura.com) — 2026-08-06T16:01:44.000Z
+- [Trump Targets 'Birth Tourism' With Two New Executive Orders](https://www.today.com/video/trump-targets-birth-tourism-with-two-new-executive-orders-267926085880?utm_source=lootura.com) — 2026-08-07T11:26:10.000Z
+- [Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling](https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb?utm_source=lootura.com) — 2026-08-06T22:06:35.000Z
+- [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T12:10:58.000Z
+- [Trump Seeks to Restrict Birthright Citizenship With New Orders](https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com) — 2026-08-07T10:15:08.000Z

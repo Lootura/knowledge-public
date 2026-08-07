@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "PP",
     "populares"
@@ -35,6 +35,16 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal",
+      "summary": "La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callejero municipal. El equipo de Gobierno del PP plantea modificar el nombre de la Avenida San Miguel, una de las principales de la localidad, para pasar a llamarse Avenida Evaristo Domínguez , que es el actual alcalde. Domínguez ha sido el único.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta",
+      "summary": "Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
       "summary": "La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.",
       "date": "2026-08-06"
@@ -53,19 +63,15 @@
       "title": "El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”",
       "summary": "La pregunta planea cada rueda de prensa que ofrece un dirigente del Partido Popular desde el jueves pasado, cuando 72.000 personas entraron a Ceuta . ¿Acogerán las comunidades, en su mayoría gobernadas por el PP, a los menores llegados aquel día? ¿Y aquellas que comparten el Ejecutivo con Vox después de haber firmado a.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "En Sumario de tarde: de la «negligencia» de Marlaska al sí del PP al reparto de menores",
-      "summary": "Los servicios de inteligencia achacan el asalto a Ceuta a la «negligencia de Marlaska»; El PP insiste en que «cumplirá la ley» en el reparto de los menores inmigrantes de Ceuta; Frontex advirtió en junio del auge de la ruta de Ceuta y destacó la escasa actuación de mafias; y aislado en España un turista positivo de han.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
-      "summary": "Los cuatro últimos pactos de gobierno de PP y Vox en las comunidades donde se han celebrado elecciones comparten un mismo punto. “No más menores no acompañados”. Así lo acordaron ambas formaciones en Extremadura, Aragón, Castilla y León y Andalucía. En el resto de territorios donde los populares mandan en solitario, ad.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
+    {
+      "title": "Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal",
+      "url": "https://www.elconfidencial.com/espana/2026-08-07/bronca-en-un-pueblo-de-cantabria-el-alcalde-quiere-poner-su-nombre-a-la-avenida-principal_4402132/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:41:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
       "url": "https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com",
@@ -91,11 +97,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
-      "url": "https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-06T19:31:23.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta",
+      "url": "https://www.eldiario.es/politica/pp-contraprograma-gobierno-cita-marlaska-robles-senado-semana-viene_1_13433588.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T08:58:55.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

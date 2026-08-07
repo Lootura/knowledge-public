@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
+      "date": "2026-08-07"
+    },
     {
       "title": "La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican",
       "summary": "La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.",
@@ -85,20 +90,15 @@
       "title": "Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”",
       "summary": "Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York, a diferencia de otros lugares de Estados Unidos, se permitía fotografiar desnudos en las calles, siempre que fuera con fines artísticos. De ese modo, él aprovechaba las primeras horas del día, cuando la ciudad se estaba desperezando y las.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "La Reina Letizia, de rojo, y sus hijas, con la camiseta, para recibir a la selección",
-      "summary": "Don Felipe VI y Doña Letizia , acompañados de sus hijas, la Princesa Leonor y la Infanta Sofía fueron testigos de la victoria de la selección española en Nueva York frente a Argentina. Solo unas horas después han vuelto a reencontrarse en Madrid, en los jardines de la Zarzuela, donde los jugadores de la Roja han acudid.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "url": "https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T09:48:14.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

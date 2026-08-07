@@ -1,0 +1,47 @@
+{
+  "id": "es-laureano-oubina",
+  "name": "Laureano Oubiña",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/laureano-oubina",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/laureano-oubina",
+  "markdownUrl": "https://atlas.lootura.com/es/person/laureano-oubina/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/laureano-oubina/index.json",
+  "description": "Sigue la actividad de Laureano Oubiña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "aliases": [
+    "El Pajarito"
+  ],
+  "changes": [
+    {
+      "title": "La Xunta veta el 'narcotour' de Laureano Oubiña por incumplir la normativa",
+      "summary": "La Xunta ha vetado el 'narcotour' que el excontrabandista y traficante de hachís Laureano Oubiña pretendía organizar el próximo 29 de agosto para recorrer en barco la denominada 'ruta del narcotráfico' por la ría de Arousa. La administración autonómica ha acreditado que no consta que la excursión esté organizada por ni.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La Xunta prohíbe una ‘ruta del narcotráfico’ en barco que promovía Laureano Oubiña",
+      "summary": "La Xunta de Galicia ha prohibido al narcotraficante Laureano Oubiña hacer su pretendida «ruta del narcotráfico» , un recorrido en barco por la Ría de Arousa que estaba promoviendo en redes y que pensaba hacer el próximo 29 de agosto. Según ha asegurado este viernes el conselleiro de Presidencia, Diego Calvo, desde Turi.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Laureano Oubiña first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Xunta veta el 'narcotour' de Laureano Oubiña por incumplir la normativa",
+      "url": "https://www.abc.es/espana/galicia/xunta-veta-narcotour-laureano-oubina-ria-arousa-20260807123417-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:01:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La Xunta prohíbe una ‘ruta del narcotráfico’ en barco que promovía Laureano Oubiña",
+      "url": "https://theobjective.com/espana/politica/2026-08-07/xunta-ruta-narcotrafico-barco-laureano-oubina/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:47:17.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

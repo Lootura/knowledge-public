@@ -3,20 +3,20 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
 
-### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
-
-Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.
-
-Date: 2026-08-07
-
 ### Desarticulada una red de tráfico de personas y droga en España con 78 detenidos
 
 Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.
+
+Date: 2026-08-07
+
+### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
+
+Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.
 
 Date: 2026-08-07
 
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes](https://www.larazon.es/espana/ganancias-mafias-inmigracion-24-millones-euros-introducir-2000-inmigrantes_202608076a759381a5690f04736c16af.html?utm_source=lootura.com) — 2026-08-07T08:25:50.000Z
 - [Desarticulada una red de tráfico de personas y droga en España con 78 detenidos](https://theobjective.com/sociedad/suceso/2026-08-07/desarticulada-red-trafico-personas-droga-78-detendios/?utm_source=lootura.com) — 2026-08-07T08:28:13.000Z

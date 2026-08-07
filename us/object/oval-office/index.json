@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/oval-office/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/oval-office/index.json",
   "description": "Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T14:05:13.908Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
+      "date": "2026-08-07"
+    },
     {
       "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
       "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
@@ -47,6 +52,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
+      "url": "https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T10:15:08.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

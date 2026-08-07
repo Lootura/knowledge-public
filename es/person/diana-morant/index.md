@@ -52,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”](https://www.larazon.es/comunidad-valenciana/ppcv-acusa-diana-morant-asfixiar-financiacion-universidades-publicas-valencianas_202608076a759c83a046ad6ebca34dc5.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T08:51:15.000Z
+No public source links.

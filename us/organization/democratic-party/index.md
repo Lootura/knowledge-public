@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### What's at stake for Democrats in next week's Wisconsin primary
 
 More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.
+
+Date: 2026-08-07
+
+### Orange County residents say the American dream is slipping away
+
+Republicans and Democrats, renters and homeowners, rich and poor—agree on at least one thing: Buying a home is harder today than it was for their parents. The latest UCI-OC Poll suggests that's just the beginning of the problem.
 
 Date: 2026-08-07
 
@@ -62,14 +68,7 @@ Progressives notched major wins in Michigan, while voters in Missouri and Washin
 
 Date: 2026-08-05
 
-### Progressives didn’t get the big election night they wanted
-
-Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.
-
-Date: 2026-08-05
-
 ## Sources
 
 - [What's at stake for Democrats in next week's Wisconsin primary](https://www.cbsnews.com/video/whats-at-stake-for-democrats-in-next-weeks-wisconsin-primary/?utm_source=lootura.com) — 2026-08-07T00:15:45.000Z
-- [After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin](https://www.pbs.org/newshour/politics/after-michigan-democrats-next-battleground-over-the-partys-future-shifts-to-wisconsin?utm_source=lootura.com) — 2026-08-06T21:42:41.000Z
-- [Moderate Democrats Prepare for ‘War’ Against an Ascendant Left](https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html?utm_source=lootura.com) — 2026-08-06T13:56:26.000Z
+- [Orange County residents say the American dream is slipping away](https://phys.org/news/2026-08-orange-county-residents-american.html?utm_source=lootura.com) — 2026-08-07T12:00:04.000Z

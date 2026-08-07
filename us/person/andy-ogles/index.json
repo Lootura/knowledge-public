@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-ogles/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-ogles/index.json",
   "description": "Follow Andy Ogles, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "Andy Ogles IV",
     "Ogles",
@@ -21,13 +21,13 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Andy Ogles defeated in Tennessee House GOP primary, NBC News projects",
-      "summary": "Rep. Andy Ogles lost despite having President Trump’s endorsement, NBC News projects. Former state Agriculture Commissioner Charlie Hatcher will be the GOP nominee.",
+      "title": "Discovered by Atlas",
+      "summary": "Andy Ogles first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-07"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Andy Ogles first entered the public knowledge record with source-backed evidence.",
+      "title": "Andy Ogles defeated in Tennessee House GOP primary, NBC News projects",
+      "summary": "Rep. Andy Ogles lost despite having President Trump’s endorsement, NBC News projects. Former state Agriculture Commissioner Charlie Hatcher will be the GOP nominee.",
       "date": "2026-08-07"
     }
   ],
@@ -37,13 +37,7 @@
       "url": "https://www.cbsnews.com/news/trump-endorsed-rep-andy-ogles-loses-gop-primary-in-tennessee-charlie-hatcher/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T03:29:15.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Andy Ogles defeated in Tennessee House GOP primary, NBC News projects",
-      "url": "https://www.nbcnews.com/now/video/andy-ogles-defeated-in-tennessee-house-gop-primary-nbc-news-projects-267920965619?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T02:45:48.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

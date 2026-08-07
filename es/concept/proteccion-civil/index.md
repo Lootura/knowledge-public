@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112](https://theobjective.com/sociedad/2026-08-07/cataluna-desactiva-alerta-lluvias-incidencias/?utm_source=lootura.com) — 2026-08-07T07:38:50.000Z
+No public source links.

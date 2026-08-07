@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T05:38:56.224Z",
+  "updatedAt": "2026-08-07T12:57:16.248Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+      "summary": "Plus, if you know what \"TMZ\" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).",
+      "date": "2026-08-07"
+    },
     {
       "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
       "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
@@ -59,13 +64,15 @@
       "title": "Democrats approve new primary election calendar, putting South Carolina first",
       "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Meet Me in the Notes App",
-      "summary": "—NurPhoto—Getty Images “What’s the oldest note in your phone?” my younger sister asked, in the same tone one might use to share gossip. She was explaining what she called “notes app digest,” rereading notes like a kind of personal magazine of one’s own insight and nonsense. I immediately scrolled. For better or worse,.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

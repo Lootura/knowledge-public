@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
+      "summary": "Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El Barcelona entra de lleno en la puja por fichar a Rodri",
       "summary": "El Barcelona ha ganado terreno en las últimas horas en la carrera por Rodri Hernández . Fuentes del entorno del club señalan que el conjunto azulgrana tiene ahora el camino despejado para negociar directamente con el Manchester City por el centrocampista español, algo que no ocurría ni el miércoles ni la mañana de ayer.",
@@ -60,25 +70,21 @@
       "title": "Así puedes visitar gratis el invernadero modernista de Barcelona construido para la Exposición Universal de 1888: fechas y cómo reservar",
       "summary": "Entre la vegetación del parque de la Ciutadella emerge una elegante estructura de hierro y cristal, diseñada para regular la luz y la humedad necesarias para albergar especies vegetales exóticas, que ha sobrevivido a más de un siglo de transformaciones. Concebida para deslumbrar durante la Exposición Universal de 1888.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Las vibraciones de una compactadora obligan a evacuar dos edificios de Trinitat Vella",
-      "summary": "Las vibraciones provocadas por los trabajos de una compactadora han obligado a evacuar a los vecinos de dos edificios del barrio de la Trinitat Vella de Barcelona, en el distrito de Sant Andreu, durante la madrugada de este jueves. Así lo ha explicado en una atención a la prensa el teniente de alcaldía de Economía, Hac.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella",
-      "summary": "Los vecinos de dos bloques de pisos del barrio de la Trinitat Vella de Barcelona han sido desalojados esta madrugada de sus domicilios por los Bombers de Barcelona al sentir que sus bloques temblaban. Seguir leyendo...",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Así es Explora III, el nuevo crucero de lujo estrenado en Barcelona que lleva la experiencia de un hotel 'boutique' al mar",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-07/explora-iii-nuevo-crucero-lujo-barcelona-1tna-1qrt_4402097/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T07:32:00.000Z",
+      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-07/robo-violencia-menores-olesa-barcelona-1tna-1tps_4402711/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:04:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
+      "url": "https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T09:48:14.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

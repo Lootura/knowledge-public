@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### La nueva temporada de 'Los Anillos del Poder' en Prime Video recordará quién es el verdadero protagonista
+
+Todo indica que la nueva temporada de Los Anillos de Poder será clave para que el público recuerde quién es el protagonista más relevante. Para empezar, el emocionante final de la segunda dejó el destino de la Tierra Media en el aire, sobre todo porque se ve el momento en que Sauron forja los Anillos para los Elfos , l.
+
+Date: 2026-08-07
 
 ### Prime Video recibe este anime de fantasía que se estrenó en 2018 y fue nominado a un premio Óscar
 
@@ -58,4 +64,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [La nueva temporada de 'Los Anillos del Poder' en Prime Video recordará quién es el verdadero protagonista](https://www.larazon.es/videojuegos/series/nueva-temporada-anillos-poder-prime-video-recordara-quien-es-verdadero-protagonista_202608076a75a549a046ad6ebca35ba1.html?utm_source=lootura.com) — 2026-08-07T12:30:00.000Z

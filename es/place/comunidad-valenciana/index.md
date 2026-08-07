@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"
+
+La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.
+
+Date: 2026-08-07
 
 ### España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera
 
@@ -62,12 +68,6 @@ El portavoz de Vivienda de Sumar en el Congreso , Alberto Ibáñez , ha cargado 
 
 Date: 2026-07-21
 
-### La Generalitat eleva el tono con la prórroga de la nuclear de Cofrentes tras el aval del CSN a Almaraz
-
-El informe del Consejo de Seguridad Nuclear que avala técnicamente la posible prórroga en el funcionamiento de la central de Almaraz (Badajoz) ha dado argumentos a quienes defienden en la Comunidad Valenciana una revisión del calendario de cierre de la planta de Cofrentes, previsto para 2030 . El vicepresidente tercero.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"](https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T12:56:29.000Z

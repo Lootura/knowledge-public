@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T10:35:48.254Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -17,6 +17,11 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
+      "summary": "La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
       "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
@@ -61,13 +66,15 @@
       "title": "En Foios, el pueblo de Ferran Torres: “Es un ‘bon xiquet’, el mejor del mundo y el más guapo”",
       "summary": "“Es muy buen chico y su familia, también”, dice una vecina, apostada en la acera donde el sol no cae a plomo. “Dejen pasar, que están molestando”, pide otra mujer sonriendo mientras empuja un carro de la compra. Al enterarse de que la comidilla de la charla es Ferran Torres se une al coro: “Sí, sí, siempre ha sido un b.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Ferran Torres first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
+      "url": "https://www.larazon.es/comunidad-valenciana/ferran-torres-embajador-comunitat-valenciana-orgullo-responsabilidad_202608076a75d5fd71b42a0b5de1db4b.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:56:29.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

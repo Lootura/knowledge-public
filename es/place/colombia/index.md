@@ -3,7 +3,7 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [De la Espriella asume el mando con el reto de la crisis económica y de seguridad que deja Petro](https://www.abc.es/internacional/espriella-asume-mando-ante-severos-desafios-economicos-20260806010624-nt.html?utm_source=lootura.com) — 2026-08-07T06:58:09.000Z
+- [La ruta de lujo de Lamine Yamal y sus amigos por Colombia: de la belleza de Cartagena de Indias a la música en la Comuna 13 de Medellín](https://theobjective.com/gente/2026-08-07/ruta-lujo-lamine-yamal-amigos-colombia-belleza-cartagena-medellin/?utm_source=lootura.com) — 2026-08-07T12:00:00.000Z

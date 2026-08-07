@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Blinded by War: documenting the aftermath of injury in Ukraine – photo essay](https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay?utm_source=lootura.com) — 2026-08-07T06:00:11.000Z
+No public source links.

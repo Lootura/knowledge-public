@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Trump voter pleads for fiancée's release after ICE arrest: "They're destroying families"](https://www.cbsnews.com/news/trump-voter-fiancee-ice-arrest-texas/?utm_source=lootura.com) — 2026-08-06T13:31:06.000Z
+- [Trump voter pleads for fiancée's release after ICE arrest: "They're destroying families"](https://www.cbsnews.com/news/trump-voter-fiancee-ice-arrest-texas/?utm_source=lootura.com) — 2026-08-07T12:41:38.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-santa-maria",
+  "name": "Santa María",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/santa-maria",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/santa-maria",
+  "markdownUrl": "https://atlas.lootura.com/es/place/santa-maria/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/santa-maria/index.json",
+  "description": "Sigue la actividad de Santa María en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La Armada sigue reforzando su presencia en Ceuta con la llegada de dos nuevas fragatas tras la crisis migratoria",
+      "summary": "La Armada española ha incrementado su presencia en Ceuta con la llegada de las fragatas F‑81 ‘Santa María’ y F‑85 ‘Navarra’ , que atracaron en el puerto de la ciudad autónoma tras partir esta semana desde la Base Naval de Rota (Cádiz) . Ambos buques se suman al dispositivo excepcional activado tras la crisis migratoria.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "La Armada refuerza su despliegue en Ceuta con dos fragatas y la Policía envía más antidisturbios",
+      "summary": "La Armada ha reforzado su despliegue en Ceuta con la llegada de las fragatas Santa María y Navarra, que ya operan en la bahía sur de la ciudad como parte del dispositivo extraordinario activado por el Ministerio de Defensa para hacer frente a la crisis migratoria desencadenada tras la entrada masiva registrada la pasad.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Santa María first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Armada sigue reforzando su presencia en Ceuta con la llegada de dos nuevas fragatas tras la crisis migratoria",
+      "url": "https://www.larazon.es/espana/defensa/armada-sigue-reforzando-presencia-ceuta-llegada-dos-nuevas-fragatas-crisis-migratoria_202608076a75cd0fa046ad6ebca3aabf.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T12:18:23.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La Armada refuerza su despliegue en Ceuta con dos fragatas y la Policía envía más antidisturbios",
+      "url": "https://www.lavanguardia.com/politica/20260807/11609766/armada-refuerza-despliegue-ceuta-llegada-fragatas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:45:18.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
+}

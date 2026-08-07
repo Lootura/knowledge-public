@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-07T12:56:57.543Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística",
+      "summary": "Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2",
       "summary": "Telefónica y su socio Liberty Global han abierto la puerta a acometer un plan de reducción de costes en Virgin Media O2 (VMO2), su operadora conjunta en Reino Unido, que puede incluir un ajuste de plantilla similar al anunciado recientemente por Telefónica en Alemania para 1.100 trabajadores. El consejero delegado de L.",
@@ -67,13 +72,15 @@
       "title": "Hallazgo insólito: arqueólogos del Reino Unido encuentran un sarcófago romano de plomo de 1.700 años con los restos de una dama de la nobleza",
       "summary": "Un equipo del Colchester Archaeological Trust encontró un ataúd de plomo decorado de época romana en Colchester , Reino Unido , durante obras de reurbanización en el antiguo Hospital de Essex. Dentro, los arqueólogos hallaron los restos de una mujer de alto estatus social que vivió hace unos 1.700 años, hacia el final.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Europa tiene petróleo pero decidió no tenerlo",
-      "summary": "Europa habla de su energía como si la geología la hubiera condenado, y es falso. El continente tiene petróleo y gas en cantidades relevantes. Lo que no tiene es voluntad política de producirlos. El Reino Unido y Noruega producen entre 2,7 y 3 millones de barriles diarios en el mar del Norte, y aunque la cuenca es madur.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/aldi-y-lidl-ya-no-podran-alejar-a-sus-competidores-reino-unido-endurecera-la-normativa-urbanistica.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T11:22:28.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

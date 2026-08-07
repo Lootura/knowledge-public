@@ -40,4 +40,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Perez Hilton’s family says his children ‘fled’ their home before his reported self-harm livestream](https://www.nbcnews.com/news/us-news/perez-hilton-family-kids-fled-before-livestream-rcna591224?utm_source=lootura.com) — 2026-08-06T19:09:43.000Z
+No public source links.

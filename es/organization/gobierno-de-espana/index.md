@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"
+
+Estados Unidos ha vuelto a cargar contra el Gobierno de España a cuenta de la crisis migratoria en Ceuta. En un post en X, el Departamento de Estado de EEUU ha asegurado que lo ocurrido en Ceuta se trató de una "invasión de decenas de miles de migrantes", que se produjo como "consecuencia directa del vergonzoso rechazo.
+
+Date: 2026-08-07
 
 ### La UE no ve relación entre la regularización y la crisis pero avisa de que la medida "no es una buena señal"
 
@@ -62,12 +68,6 @@ La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este 
 
 Date: 2026-08-03
 
-### Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta
-
-Con los ojos de España entera pendientes de la invasión de Ceuta por parte de miles y miles de ilegales procedentes de Marruecos, el Gobierno de España prepara en la Comunidad Valenciana un dispositivo especial de seguridad para el eclipse del 12 de agosto, el día del eclipse , que estará integrado por 2.500 efectivos.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"](https://www.20minutos.es/internacional/eeuu-vuelve-atacar-gobierno-espanol-por-crisis-ceuta-es-consecuencia-su-rechazo-asegurar-sus-fronteras_7023640_0.html?utm_source=lootura.com) — 2026-08-07T12:42:49.000Z

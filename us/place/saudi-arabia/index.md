@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
+
+The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.
+
+Date: 2026-08-07
 
 ### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
 
@@ -62,12 +68,6 @@ Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes
 
 Date: 2026-07-25
 
-### Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses
-
-Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis?utm_source=lootura.com) — 2026-08-07T02:17:45.000Z
+- [Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact](https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html?utm_source=lootura.com) — 2026-08-07T12:45:00.000Z

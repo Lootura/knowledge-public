@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-07T12:57:16.248Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Trying to explain One Night Only’s tech-enforced sex dystopia
+
+From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not do t.
+
+Date: 2026-08-07
 
 ### New York woman learns ex-boyfriend who attacked her killed a young mother years later
 
@@ -62,12 +68,6 @@ Organizations that advocate on behalf of property owners called out New York Cit
 
 Date: 2026-08-01
 
-### Upper West Side double stabbing suspect facing hate crime charges
-
-The suspect in Thursday's double stabbing​ on New York City's Upper West Side has been charged with attempted murder as a hate crime, among other things.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Trying to explain One Night Only’s tech-enforced sex dystopia](https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech?utm_source=lootura.com) — 2026-08-07T10:30:00.000Z

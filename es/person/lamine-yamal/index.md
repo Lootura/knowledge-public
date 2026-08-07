@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T14:33:29.026Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [La ruta de lujo de Lamine Yamal y sus amigos por Colombia: de la belleza de Cartagena de Indias a la música en la Comuna 13 de Medellín](https://theobjective.com/gente/2026-08-07/ruta-lujo-lamine-yamal-amigos-colombia-belleza-cartagena-medellin/?utm_source=lootura.com) — 2026-08-07T12:00:00.000Z

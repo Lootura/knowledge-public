@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
+
+El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
+
+Date: 2026-08-07
 
 ### La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican
 
@@ -62,12 +68,6 @@ Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York
 
 Date: 2026-07-21
 
-### La Reina Letizia, de rojo, y sus hijas, con la camiseta, para recibir a la selección
-
-Don Felipe VI y Doña Letizia , acompañados de sus hijas, la Princesa Leonor y la Infanta Sofía fueron testigos de la victoria de la selección española en Nueva York frente a Argentina. Solo unas horas después han vuelto a reencontrarse en Madrid, en los jardines de la Zarzuela, donde los jugadores de la Roja han acudid.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein](https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html?utm_source=lootura.com) — 2026-08-07T03:25:00.000Z
+- [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z

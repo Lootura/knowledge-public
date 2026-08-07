@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-07T08:24:35.000Z
+No public source links.

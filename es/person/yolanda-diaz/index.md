@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-07T12:56:57.543Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países
+
+La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha presentado formalmente su candidatura a la dirección general de la Organización Internacional del Trabajo (OIT) , donde ya ha quedado registrada junto a la del que, de momento, es su único rival: el actual director general, el africano Gilbert F. Houngbo.
+
+Date: 2026-08-07
 
 ### La Inspección de Trabajo avala la jubilación anticipada de los transportistas y conductores con coeficientes reductores
 
@@ -62,12 +68,6 @@ El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la direcc
 
 Date: 2026-07-23
 
-### El rechazo de las patronales complica su llegada a la dirección del organismo
-
-Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países](https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html?utm_source=lootura.com) — 2026-08-07T11:31:00.000Z
