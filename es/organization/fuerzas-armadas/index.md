@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [La inteligencia militar avisó de un asalto masivo tres días antes del de Ceuta](https://www.abc.es/espana/centro-inteligencia-fuerzas-armadas-aviso-tres-dias-20260807195355-nt.html?utm_source=lootura.com) — 2026-08-07T19:22:31.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.json",
   "description": "Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "Corte Ingles",
     "Corte Inglés",
@@ -20,6 +20,11 @@
     "Viajes El Corte Inglés"
   ],
   "changes": [
+    {
+      "title": "El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena",
+      "summary": "Viajes El Corte Inglés vuelve a adjudicarse un contrato para gestionar los desplazamientos de una empresa pública. La filial del grupo de distribución ha sido la escogida para convertirse en la agencia de viajes corporativos de Ineco, la ingeniería y consultora dependiente del Ministerio de Transportes, por un periodo.",
+      "date": "2026-08-08"
+    },
     {
       "title": "De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea",
       "summary": "Sus vecinos de Bera reconocen su voz grave en audiolibros o en cuñas de El Corte Inglés y ahora también le ven en series y películas.",
@@ -46,6 +51,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena",
+      "url": "https://cincodias.elpais.com/companias/2026-08-08/el-corte-ingles-vuelve-a-adjudicarse-el-contrato-de-viajes-de-ineco-tras-conseguir-el-de-aena.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

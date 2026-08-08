@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros",
+      "summary": "Un convenio firmado en 2010 entre la Ministra de Ciencia e Innovación, Cristina Garmendia , y el entonces consejero de Economía, Innovación y Ciencia de la Junta de Andalucía, Antonio Ávila , ha acabado generando una deuda de la administración andaluza con el Gobierno de España que acabará resolviéndose con el pago de.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta",
       "summary": "“La invasión de decenas de miles de migrantes a Ceuta es consecuencia directa de la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”, señalaba ayer un mensaje de la cuenta de X del Departamento de Estado de los Estados Unidos, en relación con la entrada.",
@@ -58,20 +63,15 @@
       "title": "El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun",
       "summary": "Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios",
-      "summary": "Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno ha registrado ya a 1.342 menores en Ceuta: “Van a ser atendidos todos”",
-      "url": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:32:53.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros",
+      "url": "https://www.larazon.es/andalucia/convenio-2010-deja-junta-andalucia-agujero-25-millones-euros_202608086a76a9eaa5690f04736dcd20.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:00:42.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

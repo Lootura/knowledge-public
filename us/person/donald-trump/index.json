@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T01:21:31.407Z",
+  "updatedAt": "2026-08-08T04:54:08.151Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -50,11 +50,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
       "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
       "date": "2026-08-07"
@@ -72,6 +67,11 @@
     {
       "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
       "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
       "date": "2026-08-07"
     }
   ],
@@ -131,11 +131,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "url": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T15:10:06.000Z",
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:39:59.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 19
 }

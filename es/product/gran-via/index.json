@@ -1,0 +1,45 @@
+{
+  "id": "es-gran-via",
+  "name": "Gran Vía",
+  "type": "product",
+  "locale": "es",
+  "canonicalPath": "/es/product/gran-via",
+  "canonicalUrl": "https://atlas.lootura.com/es/product/gran-via",
+  "markdownUrl": "https://atlas.lootura.com/es/product/gran-via/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/product/gran-via/index.json",
+  "description": "Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "aliases": [
+    "Calle Gran Vía",
+    "Gran Vía de Madrid",
+    "Calle Gran Via",
+    "Gran Via de Madrid",
+    "Gran Vía, Madrid"
+  ],
+  "changes": [
+    {
+      "title": "La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles",
+      "summary": "La Comunidad de Madrid , a través de la empresa pública Planifica Madrid, ha sacado a la venta el ático adquirido por el Ejecutivo autonómico por un precio de salida de 6,7 millones de euros, situado en el paseo del General Martínez Campos, en el distrito de Chamberí, además de cuatro inmuebles ubicados en Gran Vía , q.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Gran Vía first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Las fichas con imágenes y planos del ático de Chamberí y el piso de Gran Vía puestos a la venta por la Comunidad de Madrid",
+      "summary": "Planifica Madrid pone a la venta el ático de lujo por 6,7 millones de euros y el inmueble de Gran Vía, para el que ya intentó encontrar comprador sin éxito en el pasado, por 11,8 millones La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones La Comunidad de Madrid ha puesto a la venta el.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles",
+      "url": "https://theobjective.com/espana/madrid/2026-08-07/comunidad-madrid-67-millones-atico-chamberi/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:44:34.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
+}

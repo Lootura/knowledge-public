@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Colombia abre la era De la Espriella con una investidura histórica en Cali](https://www.larazon.es/internacional/colombia-abre-era-espriella-investidura-historica-cali_202608076a763268a5690f04736d3233.html?utm_source=lootura.com) — 2026-08-07T19:30:48.000Z
-- [Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad](https://okdiario.com/internacional/colombia-deja-atras-era-petro-espriella-toma-posesion-como-presidente-seguridad-como-prioridad-19146653/amp?utm_source=lootura.com) — 2026-08-07T22:18:47.000Z
+No public source links.

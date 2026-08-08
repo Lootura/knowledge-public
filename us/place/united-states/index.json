@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T01:21:31.407Z",
+  "updatedAt": "2026-08-08T04:54:08.151Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -34,6 +34,16 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+      "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
@@ -73,16 +83,6 @@
       "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
       "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership",
-      "summary": "Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-      "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -90,6 +90,12 @@
       "title": "Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?",
       "url": "https://www.cbsnews.com/video/ted-cruz-says-us-should-arm-iranian-protesters-for-an-uprising-is-that-plan-realistic/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:56:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+      "url": "https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:31:05.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -139,13 +145,7 @@
       "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
       "publishedAt": "2026-08-07T23:41:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Why Mexican avocado exports to the U.S. have once again been stopped",
-      "url": "https://www.pbs.org/newshour/world/why-mexican-avocado-exports-to-the-u-s-have-once-again-been-stopped?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T15:41:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 18
 }

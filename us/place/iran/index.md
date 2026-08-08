@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T01:21:31.407Z
+- Updated: 2026-08-08T04:54:08.151Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.
+
+The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
+
+Date: 2026-08-08
 
 ### Morning news brief
 
@@ -62,17 +68,12 @@ NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General f
 
 Date: 2026-08-07
 
-### Despite Trump's talk of a deal being close, little has changed to end the Iran war
-
-President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Morning news brief](https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com) — 2026-08-07T08:41:55.000Z
 - [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z
 - [A deal with Iran over the Strait of Hormuz may require a compromise from Trump](https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com) — 2026-08-07T16:39:59.000Z
+- [Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.](https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com) — 2026-08-08T04:01:31.000Z
 - [Houthis Claim Attack on Yemeni Military Camp](https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com) — 2026-08-07T20:44:46.000Z
 - [Senate Passes Sanctions Bill Targeting Russia and Iran](https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com) — 2026-08-07T19:42:33.000Z
 - [Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com) — 2026-08-07T18:56:02.000Z

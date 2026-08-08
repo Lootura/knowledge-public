@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T01:21:31.407Z
+- Updated: 2026-08-08T04:54:08.151Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’
+
+Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.
+
+Date: 2026-08-08
 
 ### They’re Battle-Tested Democrats. Do Voters Care?
 
@@ -62,12 +68,7 @@ In Virginia, Democratic primary voters have a history of rewarding moderate cand
 
 Date: 2026-08-05
 
-### Takeaways from Tuesday's elections in Michigan and more
-
-Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.
-
-Date: 2026-08-05
-
 ## Sources
 
+- [Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’](https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com) — 2026-08-08T02:10:38.000Z
 - [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z

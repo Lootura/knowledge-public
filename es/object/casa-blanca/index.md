@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z
+No public source links.

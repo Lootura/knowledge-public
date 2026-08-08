@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
-- [Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán](https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com) — 2026-08-07T15:20:44.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos
+
+Del miedo a la euforia en apenas unos días. Agosto suele ser sinónimo de apatía bursátil, pero este año los mercados están empeñados en desafiar esa tradición. El sentimiento de los inversores ha dado un vuelco en las últimas jornadas. Si la escalada de las tensiones en Oriente Próximo reavivó los temores a una crisis.
+
+Date: 2026-08-08
 
 ### El alza del euríbor incentiva las renegociaciones de hipotecas
 
@@ -62,12 +68,7 @@ El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha 
 
 Date: 2026-08-02
 
-### Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.
-
-Date: 2026-08-02
-
 ## Fuentes
 
+- [Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-08/los-mercados-prolongan-el-rally-y-culminan-una-semana-historica-con-las-bolsas-en-maximos.html?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
 - [El alza del euríbor incentiva las renegociaciones de hipotecas](https://www.expansion.com/empresas/banca/2026/08/07/6a7632e7e5fdeac5518b459c.html?utm_source=lootura.com) — 2026-08-07T21:45:09.000Z

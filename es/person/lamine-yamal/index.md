@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda
+
+Lamine Yamal ya no solo marca tendencia dentro del campo. Fuera de él, cada fotografía, cada llegada a un estadio y cada publicación en redes sociales se.
+
+Date: 2026-08-08
 
 ### Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»
 
@@ -62,12 +68,6 @@ El ministro de Exteriores ha cargado contra el "veneno del racismo y la xenofobi
 
 Date: 2026-07-14
 
-### Lamine Yamal: "Francia y nosotros somos ejemplo de integración para la sociedad"
-
-Un enorme collar dorado colgaba del cuello de Lamine Yamal cuando apareció en la sala de prensa del estadio de Dallas. Un collar digno de un campeón de los pesos pesados. Un regalo por los 19 años que cumple en el día previo al enfrentamiento contra Francia, aunque con matices. " No es un regalo porque lo he pagado yo.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda](https://theobjective.com/lifestyle/moda/2026-08-08/nadie-habla-del-verdadero-secreto-de-lamine-yamal-asi-se-esta-convirtiendo-en-el-nuevo-rey-de-la-moda/?amp=&utm_source=lootura.com) — 2026-08-08T04:30:00.000Z

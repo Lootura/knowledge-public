@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros
+
+Un convenio firmado en 2010 entre la Ministra de Ciencia e Innovación, Cristina Garmendia , y el entonces consejero de Economía, Innovación y Ciencia de la Junta de Andalucía, Antonio Ávila , ha acabado generando una deuda de la administración andaluza con el Gobierno de España que acabará resolviéndose con el pago de.
+
+Date: 2026-08-08
 
 ### Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta
 
@@ -62,12 +68,6 @@ Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenam
 
 Date: 2026-08-03
 
-### Los empresarios avisan de daños para el empleo y la inversión por la crisis en Ceuta: piden ayudas para los negocios
-
-Con más de 2.500 inmigrantes, procedentes de la entrada masiva en Ceuta de la pasada semana, aún por las calles de la ciudad, desde CEOE exigen al Gobierno de España que garantice la seguridad para que las empresas puedan volver cuanto antes a la normalidad . Tras dos días de cierre casi total de la actividad comercial.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno ha registrado ya a 1.342 menores en Ceuta: “Van a ser atendidos todos”](https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html?utm_source=lootura.com) — 2026-08-07T12:32:53.000Z
+- [Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros](https://www.larazon.es/andalucia/convenio-2010-deja-junta-andalucia-agujero-25-millones-euros_202608086a76a9eaa5690f04736dcd20.html?utm_source=lootura.com) — 2026-08-08T04:00:42.000Z

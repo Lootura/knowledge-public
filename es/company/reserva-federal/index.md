@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El silencio de Kevin Warsh se vuelve en su contra
+
+El aterrizaje de Kevin Warsh en el edificio Marriner S. Eccles de la Reserva Federal de Washington ha desatado el nerviosismo entre analistas e inversores. El presidente de la Reserva Federal ha anunciado que reducirá los mensajes y la información que hasta ahora enviaba al mercado para que intuyera sus próximos pasos.
+
+Date: 2026-08-08
 
 ### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
 
@@ -62,12 +68,6 @@ Los datos de inflación en EE UU más suaves de lo esperado han disipado las pre
 
 Date: 2026-07-16
 
-### Discovered by Atlas
-
-Sistema de la Reserva Federal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z
+- [El silencio de Kevin Warsh se vuelve en su contra](https://cincodias.elpais.com/mercados-financieros/2026-08-08/el-silencio-de-kevin-warsh-se-vuelve-en-su-contra.html?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z

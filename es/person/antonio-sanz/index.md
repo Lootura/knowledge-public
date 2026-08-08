@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- ["Extrema complejidad" en el incendio de Niebla: el fuego salta a nivel 2, moviliza a la UME y fuerza 66 evacuaciones](https://www.elconfidencial.com/espana/andalucia/2026-08-07/incendio-forestal-niebla-huelva-emergencia-1hms-1tna_4402868/?utm_source=lootura.com) — 2026-08-07T16:24:00.000Z
-- [El incendio de Huelva entra en fase de «extrema complejidad» por los cambios de viento](https://theobjective.com/sociedad/2026-08-07/incendio-huelva-extrema-complejidad/?utm_source=lootura.com) — 2026-08-07T19:02:36.000Z
+No public source links.

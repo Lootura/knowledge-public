@@ -3,10 +3,16 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes
+
+### El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena
+
+Viajes El Corte Inglés vuelve a adjudicarse un contrato para gestionar los desplazamientos de una empresa pública. La filial del grupo de distribución ha sido la escogida para convertirse en la agencia de viajes corporativos de Ineco, la ingeniería y consultora dependiente del Ministerio de Transportes, por un periodo.
+
+Date: 2026-08-08
 
 ### De poner voz en euskera a El Corte Inglés a actuar en la serie de moda: el giro del beratarra Óscar Goikoetxea
 
@@ -40,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena](https://cincodias.elpais.com/companias/2026-08-08/el-corte-ingles-vuelve-a-adjudicarse-el-contrato-de-viajes-de-ineco-tras-conseguir-el-de-aena.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z

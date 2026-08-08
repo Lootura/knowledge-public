@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T01:21:31.407Z
+- Updated: 2026-08-08T04:54:08.151Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -78,4 +78,4 @@ Date: 2026-08-07
 - [Appeals court rules Trump can't build White House ballroom without congressional approval](https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com) — 2026-08-07T18:34:25.000Z
 - [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
 - [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T12:10:58.000Z
-- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:26.000Z
+- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:27.000Z

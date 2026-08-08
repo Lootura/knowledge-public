@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
+      "summary": "La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición",
       "summary": "En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.",
@@ -63,19 +68,14 @@
       "title": "Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51",
       "summary": "El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta",
-      "summary": "Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición",
-      "url": "https://www.larazon.es/internacional/chavismo-oposicion-conversan-segundo-dia-iniciar-dialogo-transicion_202608076a76401171b42a0b5de29785.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:29:05.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
+      "url": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

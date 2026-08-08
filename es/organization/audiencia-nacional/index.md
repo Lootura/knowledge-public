@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,13 +19,13 @@
   ],
   "changes": [
     {
-      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
-      "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
+      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+      "summary": "Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.",
       "date": "2026-08-07"
     },
     {
-      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
-      "summary": "Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.",
+      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
+      "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
       "date": "2026-08-07"
     },
     {
@@ -75,13 +75,7 @@
       "url": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T21:45:40.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
-      "url": "https://www.larazon.es/internacional/senado-aprueba-amplia-mayoria-proyecto-ley-sanciones-rusia-iran_202608076a763f1071b42a0b5de295e5.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:24:48.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

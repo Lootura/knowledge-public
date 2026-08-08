@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -98,13 +98,7 @@
       "url": "https://www.elcorreo.com/deportes/golf/mal-rahm-altera-nueva-york-anillo-campeon-20260807210605-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T19:06:06.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
-      "url": "https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T09:48:14.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

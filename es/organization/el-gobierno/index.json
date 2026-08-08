@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [],
   "changes": [
     {
       "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
       "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "No molestar a Marruecos",
+      "summary": "El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.",
       "date": "2026-08-08"
     },
     {
@@ -55,19 +60,14 @@
       "title": "España insta a Italia a levantar la suspensión del espacio Schengen en dos días o tomará \"medidas proporcionales\"",
       "summary": "El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio Schengen' impuesta tras la crisis migratoria en Ceuta de hace más de una semana y le ha dado un plazo de dos días, hasta el domingo 9 de agosto, para que lo haga o, si no, \" España se verá obligada a adoptar medidas proporcionales para proteg.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta",
-      "summary": "Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles",
-      "url": "https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:40:00.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos",
+      "url": "https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:39:33.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
@@ -86,7 +86,13 @@
       "url": "https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T01:12:23.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "No molestar a Marruecos",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

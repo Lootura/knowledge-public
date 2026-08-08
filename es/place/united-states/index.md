@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»
+
+El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.
+
+Date: 2026-08-08
+
+### ¿Menores sin fronteras?
+
+¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.
+
+Date: 2026-08-08
+
+### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
+
+Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
+
+Date: 2026-08-07
 
 ### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
 
@@ -23,12 +41,6 @@ Date: 2026-08-07
 ### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
 
 El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
-
-Date: 2026-08-07
-
-### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
-
-Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
 
 Date: 2026-08-07
 
@@ -56,21 +68,9 @@ Las Bolsas han encarado la sesión final de la semana con la vista puesta en dos
 
 Date: 2026-08-07
 
-### Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta
-
-“La invasión de decenas de miles de migrantes a Ceuta es consecuencia directa de la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”, señalaba ayer un mensaje de la cuenta de X del Departamento de Estado de los Estados Unidos, en relación con la entrada.
-
-Date: 2026-08-07
-
-### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
-
-Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z
+- [El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior](https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html?utm_source=lootura.com) — 2026-08-08T03:30:00.000Z
 - [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
-- [El telescopio Inouye capta por primera vez remolinos en la superficie del Sol con las imágenes solares de mayor resolución de la historia](https://www.larazon.es/tecnologia-consumo/ciencia/telescopio-inouye-capta-primera-vez-remolinos-superficie-sol-imagenes-solares-mayor-resolucion-historia_202608076a75817ca5690f04736bfaa8.html?utm_source=lootura.com) — 2026-08-07T20:00:00.000Z
-- [El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán](https://www.larazon.es/internacional/senado-aprueba-amplia-mayoria-proyecto-ley-sanciones-rusia-iran_202608076a763f1071b42a0b5de295e5.html?utm_source=lootura.com) — 2026-08-07T20:24:48.000Z
+- [Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»](https://okdiario.com/cool/famosos/montoya-hay-que-ser-fiel-principios-uno-mismo-que-nadie-te-calle-19146029?utm_source=lootura.com) — 2026-08-08T03:45:45.000Z
+- [¿Menores sin fronteras?](https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z

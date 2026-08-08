@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gustavo-petro/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gustavo-petro/index.json",
   "description": "Sigue la actividad de Gustavo Petro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "Gustavo",
     "Gustavo Francisco Petro Urrego",
@@ -16,6 +16,11 @@
     "Petro"
   ],
   "changes": [
+    {
+      "title": "El giro de Colombia",
+      "summary": "Colombia se suma al giro a la derecha que está cambiando gobiernos uno detrás de otro en el continente americano. Abelardo de la Espriella, un abogado sin trayectoria política previa, es desde este viernes el nuevo presidente. Sucede en el cargo a Gustavo Petro, que ha sido el primer presidente de izquierdas de la demo.",
+      "date": "2026-08-08"
+    },
     {
       "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
       "summary": "Colombia vive este viernes el traspaso de mandato presidencial entre Gustavo Petro y Abelardo de la Espriella . Con los puentes rotos entre el Gobierno saliente y el entrante, el abogado ultraderechista de 48 años, vencedor del senador de izquierda Iván Cepeda en las elecciones del 21 de junio pasado, recibe la banda p.",
@@ -29,11 +34,17 @@
   ],
   "sources": [
     {
+      "title": "El giro de Colombia",
+      "url": "https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
       "url": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:10:39.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

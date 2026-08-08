@@ -3,20 +3,20 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
-
-El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
-
-Date: 2026-08-07
-
 ### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
 
 Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
+
+Date: 2026-08-07
+
+### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
+
+El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
 
 Date: 2026-08-07
 
@@ -71,4 +71,3 @@ Date: 2026-08-05
 ## Fuentes
 
 - [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
-- [El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán](https://www.larazon.es/internacional/senado-aprueba-amplia-mayoria-proyecto-ley-sanciones-rusia-iran_202608076a763f1071b42a0b5de295e5.html?utm_source=lootura.com) — 2026-08-07T20:24:48.000Z

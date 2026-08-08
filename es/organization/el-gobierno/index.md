@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
 
 Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
+
+Date: 2026-08-08
+
+### No molestar a Marruecos
+
+El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.
 
 Date: 2026-08-08
 
@@ -62,15 +68,10 @@ El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio S
 
 Date: 2026-08-07
 
-### El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta
-
-Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles](https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html?utm_source=lootura.com) — 2026-08-07T19:40:00.000Z
+- [El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos](https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:39:33.000Z
 - [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
 - [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z
 - [El Gobierno se interpone en el deseo del Rey de visitar Ceuta](https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com) — 2026-08-08T01:12:23.000Z
+- [No molestar a Marruecos](https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z

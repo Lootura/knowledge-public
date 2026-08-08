@@ -12,6 +12,7 @@
 
 ## Latest entities — US
 
+- [Air Force One](https://atlas.lootura.com/us/concept/air-force-one): Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Amna Nawaz](https://atlas.lootura.com/us/person/amna-nawaz): Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Attorney general](https://atlas.lootura.com/us/person/attorney-general): Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -21,20 +22,19 @@
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Colombia](https://atlas.lootura.com/us/place/colombia): Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
-- [Agencia estatal (España)](https://atlas.lootura.com/es/organization/agencia-estatal): Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Antonio Sanz](https://atlas.lootura.com/es/person/antonio-sanz): Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Apple](https://atlas.lootura.com/es/company/apple): Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Bélgica](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [mansión exclusiva](https://atlas.lootura.com/es/object/casa-blanca): Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Ciudad Lineal](https://atlas.lootura.com/es/place/ciudad-lineal): Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República de Colombia](https://atlas.lootura.com/es/place/colombia): Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [País Valenciano](https://atlas.lootura.com/es/place/comunidad-valenciana): Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Correos](https://atlas.lootura.com/es/organization/correos): Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Costa Brava](https://atlas.lootura.com/es/object/costa-brava): Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [El Corte Inglés](https://atlas.lootura.com/es/company/el-corte-ingles): Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Asociación del Fútbol Argentino apoya a Infantino y su «solidez institucional»](https://theobjective.com/deportes/futbol/2026-08-07/federacion-argentina-futbol-infantino/?amp=&utm_source=lootura.com) — 2026-08-07T16:44:09.000Z
+No public source links.

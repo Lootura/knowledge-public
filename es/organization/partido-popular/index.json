@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Podcast | Entrevista a Esther Martínez",
+      "summary": "Paloma Cervilla entrevista a Esther Martínez , líder del PP vasco.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
       "summary": "Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y reclama también la de Bolaños después de que el Ejecutivo anunciara su presencia en el Congreso a finales de agosto.",
@@ -58,11 +63,6 @@
       "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
       "summary": "La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Vox no romperá los gobiernos autonómicos con el PP aunque acepten el reparto de menores extranjeros",
-      "summary": "Vox no romperá sus pactos de gobierno con el PP en Extremadura, Aragón, Castilla y León y Andalucía aunque estas comunidades autónomas acepten el reparto de los más de 1.100 menores extranjeros no acompañados llegados a Ceuta, que desbordan con creces la capacidad de acogida de la ciudad autónoma. El partido ultra no p.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -79,10 +79,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Los menores de Ceuta no son ilegales",
-      "url": "https://www.lavanguardia.com/politica/20260808/11609990/menores-ceuta-son-ilegales.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:05:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Podcast | Entrevista a Esther Martínez",
+      "url": "https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-esther-martinez/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:25:17.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 3

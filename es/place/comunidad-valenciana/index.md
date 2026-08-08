@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Una cena benéfica en Gandía para construir una gran escuela en África: "Cambia la vida de los niños y de todo un pueblo"
+
+El padre Hervé Chanhoun tiene 44 años, los mismos que lleva vinculado a la religión. Es natural de Benin, un país del oeste de África, pero está altamente vinculado con la Comunitat Valenciana porque aquí estudia Teología. Gracias a ello, y a las relaciones que ha construido en Valencia, ha podido construir también una.
+
+Date: 2026-08-08
 
 ### Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana
 
@@ -62,12 +68,6 @@ La Agencia Valenciana Antifraude ha instado al Ayuntamiento de Valencia a abrir 
 
 Date: 2026-07-22
 
-### Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas
-
-La Agencia Estatal de Meteorología (AEMET) ha activado este martes el aviso naranja por riesgo importante en siete comunidades autónomas debido al inicio de un nuevo episodio de temperaturas extremas . Comunidades como Andalucía, Aragón, Baleares, Castilla-La Mancha, Cataluña, Región de Murcia y la Comunidad Valenciana.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana](https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com) — 2026-08-07T19:56:07.000Z
+- [Una cena benéfica en Gandía para construir una gran escuela en África: "Cambia la vida de los niños y de todo un pueblo"](https://www.larazon.es/comunidad-valenciana/cena-benefica-gandia-construir-gran-escuela-africa-cambia-vida-ninos-todo-pueblo_202608086a75b81871b42a0b5de1a7ba.html?utm_source=lootura.com) — 2026-08-08T04:00:41.000Z

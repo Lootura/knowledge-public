@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-08T04:54:08.151Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### Pentagon revokes security clearance of former Air Force chief for disclosing "classified information regarding Air Force One's capabilities"
+
+The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.
+
+Date: 2026-08-08
 
 ### In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process
 
@@ -62,12 +68,6 @@ The new Air Force One is going out of commission to receive safety upgrades. Wha
 
 Date: 2026-07-21
 
-### Discovered by Atlas
-
-New Air Force first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Pentagon revokes security clearance of former Air Force chief for disclosing "classified information regarding Air Force One's capabilities"](https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com) — 2026-08-08T03:31:05.000Z

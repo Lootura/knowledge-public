@@ -17,6 +17,7 @@
 - [Protección civil](https://atlas.lootura.com/es/concept/proteccion-civil): Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Startups](https://atlas.lootura.com/es/market/startups): Sigue la actividad de Startups en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [mansión exclusiva](https://atlas.lootura.com/es/object/casa-blanca): Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Costa Brava](https://atlas.lootura.com/es/object/costa-brava): Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Palacio de la Moncloa](https://atlas.lootura.com/es/object/la-moncloa): Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Agencia Espacial Europea](https://atlas.lootura.com/es/organization/agencia-espacial-europea): Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Agencia estatal (España)](https://atlas.lootura.com/es/organization/agencia-estatal): Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -83,6 +84,7 @@
 - [Francis Ford Coppola](https://atlas.lootura.com/es/person/francis-ford-coppola): Sigue la actividad de Francis Ford Coppola en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Georgina Rodríguez](https://atlas.lootura.com/es/person/georgina-rodriguez): Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Gianni Infantino](https://atlas.lootura.com/es/person/gianni-infantino): Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Giorgia Meloni](https://atlas.lootura.com/es/person/giorgia-meloni): Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Gustavo Petro](https://atlas.lootura.com/es/person/gustavo-petro): Sigue la actividad de Gustavo Petro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Ibai Llanos](https://atlas.lootura.com/es/person/ibai-llanos): Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Iris Tió](https://atlas.lootura.com/es/person/iris-tio): Sigue la actividad de Iris Tió en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -145,12 +147,10 @@
 - [Ciudad Real](https://atlas.lootura.com/es/place/ciudad-real): Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República de Colombia](https://atlas.lootura.com/es/place/colombia): Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [País Valenciano](https://atlas.lootura.com/es/place/comunidad-valenciana): Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Costa Brava](https://atlas.lootura.com/es/place/costa-brava): Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Consejo](https://atlas.lootura.com/es/place/el-consejo): Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Valle](https://atlas.lootura.com/es/place/el-valle): Sigue la actividad de El Valle en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [España](https://atlas.lootura.com/es/place/espana): Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Europe](https://atlas.lootura.com/es/place/europe): Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Gran Vía](https://atlas.lootura.com/es/place/gran-via): Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Irán](https://atlas.lootura.com/es/place/iran): Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Adrada](https://atlas.lootura.com/es/place/la-adrada): Sigue la actividad de La Adrada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Mancha](https://atlas.lootura.com/es/place/la-mancha): Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -173,6 +173,7 @@
 - [Trinitat Vella](https://atlas.lootura.com/es/place/trinitat-vella): Sigue la actividad de Trinitat Vella en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Estados Unidos](https://atlas.lootura.com/es/place/united-states): Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Estados Unidos de Venezuela](https://atlas.lootura.com/es/place/venezuela): Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Gran Vía](https://atlas.lootura.com/es/product/gran-via): Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Las Ventas](https://atlas.lootura.com/es/product/las-ventas): Sigue la actividad de Las Ventas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Wall Street](https://atlas.lootura.com/es/product/wall-street): Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.

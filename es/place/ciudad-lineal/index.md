@@ -58,4 +58,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal](https://theobjective.com/sociedad/suceso/2026-08-07/muere-hombre-estrangulado-vivienda-ciudad-lineal/?utm_source=lootura.com) — 2026-08-07T15:36:14.000Z
+No public source links.

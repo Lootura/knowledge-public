@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T01:21:31.407Z",
+  "updatedAt": "2026-08-08T04:54:08.151Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -20,13 +20,13 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
       "date": "2026-08-07"
     },
     {
-      "title": "Blanche on track for narrow Senate confirmation as attorney general",
-      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
+      "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+      "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
       "date": "2026-08-07"
     },
     {
@@ -73,17 +73,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "url": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T15:10:06.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Blanche on track for narrow Senate confirmation as attorney general",
       "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:45:40.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

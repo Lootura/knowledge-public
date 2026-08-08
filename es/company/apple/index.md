@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una "maldición" de la fantasía
+
+La adaptación de Mistborn continúa sumando avances que reflejan el compromiso de Apple TV con una de las sagas de fantasía más populares.
+
+Date: 2026-08-08
 
 ### Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora
 
@@ -62,12 +68,6 @@ Han pasado tres largos años, pero la temporada 4 de Ted Lasso por fin ha llegad
 
 Date: 2026-08-05
 
-### Pável Dúrov explica por qué Apple eliminó Telegram de la App Store
-
-Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso . La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas de la tienda de aplicaciones. Luego de unas horas, la App Store restauró el ac.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una "maldición" de la fantasía](https://www.larazon.es/videojuegos/cine/nueva-serie-apple-tv-destinada-superar-juego-tronos-ya-ha-roto-maldicion-fantasia_202608086a70a5cfa5690f04736282ec.html?utm_source=lootura.com) — 2026-08-08T04:50:00.000Z

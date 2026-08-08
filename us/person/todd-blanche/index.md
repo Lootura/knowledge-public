@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T01:21:31.407Z
+- Updated: 2026-08-08T04:54:08.151Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -14,15 +14,15 @@ A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Bla
 
 Date: 2026-08-07
 
-### Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general
-
-Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.
-
-Date: 2026-08-07
-
 ### Blanche on track for narrow Senate confirmation as attorney general
 
 At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.
+
+Date: 2026-08-07
+
+### Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general
+
+Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.
 
 Date: 2026-08-07
 
@@ -71,5 +71,4 @@ Date: 2026-08-04
 ## Sources
 
 - [Blanche's path to confirmation appears clear after winning key Republican's support](https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com) — 2026-08-07T14:12:59.000Z
-- [WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general](https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general?utm_source=lootura.com) — 2026-08-07T15:10:06.000Z
 - [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z

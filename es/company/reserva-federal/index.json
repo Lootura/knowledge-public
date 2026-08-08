@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "El silencio de Kevin Warsh se vuelve en su contra",
+      "summary": "El aterrizaje de Kevin Warsh en el edificio Marriner S. Eccles de la Reserva Federal de Washington ha desatado el nerviosismo entre analistas e inversores. El presidente de la Reserva Federal ha anunciado que reducirá los mensajes y la información que hasta ahora enviaba al mercado para que intuyera sus próximos pasos.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "summary": "Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.",
@@ -62,18 +67,13 @@
       "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
       "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Sistema de la Reserva Federal first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
-      "url": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:49:18.000Z",
+      "title": "El silencio de Kevin Warsh se vuelve en su contra",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-08/el-silencio-de-kevin-warsh-se-vuelve-en-su-contra.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T03:25:00.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],

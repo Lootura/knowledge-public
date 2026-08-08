@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T01:21:31.407Z",
+  "updatedAt": "2026-08-08T04:54:08.151Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
@@ -60,11 +65,6 @@
       "title": "Is the Iran war at risk of becoming a quagmire?",
       "summary": "NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
-      "summary": "President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -87,6 +87,12 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:01:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "Houthis Claim Attack on Yemeni Military Camp",
       "url": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:44:46.000Z",
@@ -105,5 +111,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

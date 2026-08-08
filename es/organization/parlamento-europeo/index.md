@@ -58,4 +58,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [España, en almoneda por el Pegasus a Sánchez](https://www.larazon.es/opinion/espana-almoneda-pegasus-sanchez_202608086a765c79a5690f04736d6e6e.html?utm_source=lootura.com) — 2026-08-07T22:30:17.000Z
+No public source links.

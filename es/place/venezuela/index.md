@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”
+
+La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.
+
+Date: 2026-08-08
 
 ### El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición
 
@@ -62,12 +68,6 @@ El presidente de Estados, Donald Trump , compartió este sábado en un mensaje d
 
 Date: 2026-08-01
 
-### Al menos once heridos en un atentado terrorista en la ciudad colombiana de Cúcuta
-
-Al menos ocho policías y otras tres personas resultaron heridas este sábado por la explosión de un vehículo bomba en Colombia cerca del comando de la Policía del Departamento de Norte de Santander, en la ciudad colombiana de Cúcuta, fronteriza con Venezuela , que fue seguida de otras detonaciones. Los heridos son «ocho.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición](https://www.larazon.es/internacional/chavismo-oposicion-conversan-segundo-dia-iniciar-dialogo-transicion_202608076a76401171b42a0b5de29785.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T20:29:05.000Z
+- [Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”](https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana](https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com) — 2026-08-07T19:56:07.000Z
+No public source links.

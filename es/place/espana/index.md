@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,68 +14,69 @@
 
 Date: 2026-08-08
 
-### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
+### Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”
 
-El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
+A Xandra Falcó no le importa decir su año de nacimiento, 1967. Todo lo contrario, se muestra contenta de soplar velas y disfrutar de la vida. No en vano, para ella el lujo es “el tiempo compartido alrededor de una mesa, o de una botella de vino, con familia y amigos”. Esta empresaria vitivinícola se puso al frente de C.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### Aemet pronostica para el día del eclipse cielos poco nubosos o despejados en la mayor parte de España
+### El interés compuesto también ayuda a comprar una casa: cómo invertir para ahorrar el dinero de la entrada
 
-La Agencia de Meteorología sólo prevé predominio de cielos nubosos en el área cantábrica, y en zonas del litoral gallego y de Alborán Leer.
+Comprar una vivienda en España se ha convertido en una misión cada vez más complicada para muchas familias. La escasez de oferta, unida a la subida de los precios, impide a muchas personas, y especialmente a los más jóvenes, ahorrar el dinero necesario para la entrada a una casa. La mayoría de los bancos piden contar c.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad
+### España, epicentro hotelero: apunta a año récord en inversión pendiente de la venta de HIP por Blackstone
 
-Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.
+En estos dos últimos años, España se ha convertido en el destino favorito del capital internacional en el mercado europeo debido a los sólidos fundamentales económicos y al crecimiento demográfico. Durante algunos años más, el país ya estaba siendo además el epicentro de la compra de hoteles debido al fuerte incremento.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### En las tripas del Sonorama, el gran festival indie de España: "Quien entra en nuestra familia ya nunca sale"
+### Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla
 
-Nos colamos en una de las citas musicales del verano. Nació hace 29 años en Aranda de Duero para 200 personas y hoy es una referencia sin renunciar a sus principios Leer.
+Huawei España cerró el ejercicio fiscal 2025 con un beneficio neto de 22,3 millones de euros, superando los números rojos de 4 millones registrados en 2024 debido a una inspección tributaria. La vuelta al resultado positivo de la filial del grupo tecnológico chino se produce en paralelo a un proceso de reestructuración.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables
+### Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros
 
-En 2025 destacó el escaso número de viviendas iniciadas (134.685 unidades), la reducida participación de la VPO en la nueva oferta (10,6%), el elevado aumento del precio de los pisos (12,9%) y la disminución de las viviendas de alquiler disponibles (4,7%). No obstante, en este último caso, si analizamos el período 2021.
+Un convenio firmado en 2010 entre la Ministra de Ciencia e Innovación, Cristina Garmendia , y el entonces consejero de Economía, Innovación y Ciencia de la Junta de Andalucía, Antonio Ávila , ha acabado generando una deuda de la administración andaluza con el Gobierno de España que acabará resolviéndose con el pago de.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
+### ¿En cuánto tiempo podría responder España a un ataque realizado por un país vecino?
 
-Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
+Vivimos tiempos convulsos en el plano geopolítico. Los conflictos y las tensiones se diversifican y extienden. Además, se adoptan formas no convencionales en las que se utiliza tecnología militar para atacar al enemigo: desde la informática hasta el espacio, las telecomunicaciones y las acciones con drones y armas hipe.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### España, en almoneda por el Pegasus a Sánchez
+### Los OK y KO del sábado, 8 de agosto de 2026
 
-El gravísimo e inconcebible suceso ocurrido la pasada semana en Ceuta, con la virtual invasión de más de 70.000 inmigrantes desde Marruecos, está dando lugar a muchos análisis en torno a los motivos y las posibles consecuencias del mismo. Análisis y debates en todos los medios y cancillerías y en el Parlamento Europeo,.
+OK: Abelardo de la EspriellaPorque ha tomado posesión como presidente de Colombia, poniendo fin a la oscura era de Petro.OK: Tommy PigottPorque EEUU respalda la soberanía de España sobre Ceuta y culpa a Sánchez de la invasión por «no defender a su pueblo».OK: Víctor MartínezPorque Indra dotará al nuevo aeropuerto de He.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### Italia recibe, pese a todo, más inmigrantes que España
+### Las vacaciones estivales
 
-Millones de personas tratan de llegar a Europa, convertida ahora en una suerte de tierra prometida fortificada y defendida por alambradas o por miles de millas de mares inciertos donde hallar la muerte es muy común. Seguir leyendo...
+Las vacaciones estivales son el periodo de descanso anual que se disfruta durante el verano, generalmente entre los meses de julio a septiembre. Aunque habría que apostillar que existen veranos más o menos sin problemas y otros, como este que nos ocupa, que deberíamos calificarlo de aciago. ¿Las razones? España ardiend.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
-### La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta
+### Sube & Baja, por Jaime Peñafiel: semana del 31 de julio al 6 de agosto
 
-La fiscal general del Estado, Teresa Peramato, ha dictado un decreto con pautas de actuación para los fiscales a fin de «garantizar» la « protección de todos los menores extranjeros no acompañados en situación de contingencia migratoria extraordinaria» que se encuentren en España, y ya avisa de que actuará si las comun.
+¿BAJA?: Letizia, Reina consorte de España Lo siento, pero una Reina reinante no puede aparecer nada menos que presidiendo la gala de clausura del Atlántida Mallorca Festival en Palma con ese vestido de color rojo burdeos de Carolina Herrera con hombro al aire, gran abertura y una tentadora cremallera que recorría todo.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
 ## Fuentes
 
-- [Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad](https://www.20minutos.es/nacional/calor-lluvias-ponen-alerta-diferentes-zonas-espana-las-proximas-horas-esta-es-prevision-cada-comunidad_7023783_0.html?utm_source=lootura.com) — 2026-08-07T20:22:19.000Z
+- [Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”](https://cincodias.elpais.com/fortunas/2026-08-08/xandra-falco-circulo-fortuny-en-espana-todavia-hay-cierto-tabu-para-hablar-de-lujo-y-de-dinero.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
+- [El interés compuesto también ayuda a comprar una casa: cómo invertir para ahorrar el dinero de la entrada](https://cincodias.elpais.com/mercados-financieros/2026-08-08/el-interes-compuesto-tambien-ayuda-a-comprar-una-casa-como-invertir-para-ahorrar-el-dinero-de-la-entrada.html?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
+- [España, epicentro hotelero: apunta a año récord en inversión pendiente de la venta de HIP por Blackstone](https://cincodias.elpais.com/companias/2026-08-08/espana-epicentro-hotelero-apunta-a-ano-record-en-inversion-pendiente-de-la-venta-de-hip-por-blackstone.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z
+- [Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla](https://cincodias.elpais.com/companias/2026-08-08/huawei-recupera-la-rentabilidad-en-espana-a-costa-de-reducir-el-negocio-y-la-plantilla.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z
 - [En las tripas del Sonorama, el gran festival indie de España: "Quien entra en nuestra familia ya nunca sale"](https://www.elmundo.es/papel/historias/2026/08/07/6a75a732e9cf4ac55a8b4596.html?utm_source=lootura.com) — 2026-08-07T20:50:27.000Z
 - [Aemet pronostica para el día del eclipse cielos poco nubosos o despejados en la mayor parte de España](https://www.elmundo.es/ciencia/2026/08/07/6a75c07afc6c83d0588b4586.html?utm_source=lootura.com) — 2026-08-07T15:00:59.000Z
 - [Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni](https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com) — 2026-08-08T00:51:49.000Z
-- [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
 - [Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables](https://www.expansion.com/opinion/2026/08/07/6a76207a468aebb51b8b4598.html?utm_source=lootura.com) — 2026-08-07T21:55:22.000Z
 - [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
-- [España, en almoneda por el Pegasus a Sánchez](https://www.larazon.es/opinion/espana-almoneda-pegasus-sanchez_202608086a765c79a5690f04736d6e6e.html?utm_source=lootura.com) — 2026-08-07T22:30:17.000Z
-- [Italia recibe, pese a todo, más inmigrantes que España](https://www.lavanguardia.com/politica/20260808/11610014/italia-recibe-pese-mas-inmigrantes-espana.html?utm_source=lootura.com) — 2026-08-07T22:05:00.000Z
+- [Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros](https://www.larazon.es/andalucia/convenio-2010-deja-junta-andalucia-agujero-25-millones-euros_202608086a76a9eaa5690f04736dcd20.html?utm_source=lootura.com) — 2026-08-08T04:00:42.000Z

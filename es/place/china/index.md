@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T04:53:47.542Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Muere un segundo niño tratado en China con una terapia de edición genética
 
 En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.
+
+Date: 2026-08-08
+
+### Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”
+
+La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.
 
 Date: 2026-08-08
 
@@ -62,12 +68,7 @@ La nueva máquina de helados de Xiaomi llega para solucionar los dos problemas m
 
 Date: 2026-08-01
 
-### Fragmento del día: Eclipse solar del 1 de agosto de 2008
-
-segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].
-
-Date: 2026-08-01
-
 ## Fuentes
 
 - [Muere un segundo niño tratado en China con una terapia de edición genética](https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt.html?utm_source=lootura.com) — 2026-08-08T00:39:15.000Z
+- [Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”](https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z

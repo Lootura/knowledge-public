@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
     "Lamine",
     "Lamine Yamal Nasraoui",
@@ -16,6 +16,11 @@
     "Yamal"
   ],
   "changes": [
+    {
+      "title": "Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda",
+      "summary": "Lamine Yamal ya no solo marca tendencia dentro del campo. Fuera de él, cada fotografía, cada llegada a un estadio y cada publicación en redes sociales se.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
       "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
@@ -60,13 +65,15 @@
       "title": "Albares, a Rajoy: \"Señalar por el color de la piel quién puede ser ciudadano o quién no encubre cosas muy peligrosas\"",
       "summary": "El ministro de Exteriores ha cargado contra el \"veneno del racismo y la xenofobia\" y ha defendido el fútbol como vehículo de diversidad y tolerancia Lamine Yamal responde a Rajoy: “Francia y nosotros somos ejemplo de integración” El ministro de Asuntos Exteriores, José Manuel Albares, ha criticado las declaraciones rac.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Lamine Yamal: \"Francia y nosotros somos ejemplo de integración para la sociedad\"",
-      "summary": "Un enorme collar dorado colgaba del cuello de Lamine Yamal cuando apareció en la sala de prensa del estadio de Dallas. Un collar digno de un campeón de los pesos pesados. Un regalo por los 19 años que cumple en el día previo al enfrentamiento contra Francia, aunque con matices. \" No es un regalo porque lo he pagado yo.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda",
+      "url": "https://theobjective.com/lifestyle/moda/2026-08-08/nadie-habla-del-verdadero-secreto-de-lamine-yamal-asi-se-esta-convirtiendo-en-el-nuevo-rey-de-la-moda/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:30:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

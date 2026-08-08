@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Un acertante de Euromillones gana el bote de más de 111 millones](https://www.20minutos.es/internacional/un-acertante-euromillones-gana-bote-mas-111-millones-euros_7023793_0.html?utm_source=lootura.com) — 2026-08-07T21:11:15.000Z
+No public source links.
