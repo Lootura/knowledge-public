@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T12:55:19.563Z",
+  "generatedAt": "2026-08-08T14:16:07.429Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|94|1786192891837",
+    "signature": "1.18.0|95|1786192891837",
     "version": "1.18.0",
-    "build": 94,
+    "build": 95,
     "latestEntityUpdatedAt": "2026-08-08T12:41:31.837Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-08-08T12:41:31.837Z",
-      "score": 1719,
+      "score": 1713,
       "sourceCount": 918,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-08-08T12:41:31.837Z",
-        "score": 1707,
+        "score": 1701,
         "sourceCount": 335,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/barcelona",
         "path": "/es/place/barcelona",
         "updatedAt": "2026-08-08T12:41:31.837Z",
-        "score": 1683,
+        "score": 1677,
         "sourceCount": 118,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-08T12:41:31.837Z",
-        "score": 1683,
+        "score": 1677,
         "sourceCount": 642,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/organization/seguridad-nacional",
         "path": "/es/organization/seguridad-nacional",
         "updatedAt": "2026-08-08T12:41:31.837Z",
-        "score": 1658,
+        "score": 1652,
         "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
