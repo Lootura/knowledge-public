@@ -1,0 +1,39 @@
+{
+  "id": "es-gustavo-petro",
+  "name": "Gustavo Petro",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/gustavo-petro",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/gustavo-petro",
+  "markdownUrl": "https://atlas.lootura.com/es/person/gustavo-petro/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/gustavo-petro/index.json",
+  "description": "Sigue la actividad de Gustavo Petro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "aliases": [
+    "Gustavo",
+    "Gustavo Francisco Petro Urrego",
+    "Gustavo Petro Urrego",
+    "Petro"
+  ],
+  "changes": [
+    {
+      "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
+      "summary": "Colombia vive este viernes el traspaso de mandato presidencial entre Gustavo Petro y Abelardo de la Espriella . Con los puentes rotos entre el Gobierno saliente y el entrante, el abogado ultraderechista de 48 años, vencedor del senador de izquierda Iván Cepeda en las elecciones del 21 de junio pasado, recibe la banda p.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Gustavo Petro first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali",
+      "url": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:10:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
+}
