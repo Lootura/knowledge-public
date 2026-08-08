@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano
+
+El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.
+
+Date: 2026-08-08
 
 ### Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana
 
@@ -62,12 +68,6 @@ Un grupo de vándalos ha destrozado el mural que un conocido artista callejero h
 
 Date: 2026-07-22
 
-### Ferran Torres, como símbolo del secreto de Luis de la Fuente
-
-A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z

@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,18 +11,6 @@
 ### Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’
 
 The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
-
-Date: 2026-08-07
-
-### Warren presses U.S. companies to share tariff refunds with customers
-
-Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
-
-Date: 2026-08-07
-
-### Appeals Court Upholds Block on Trump Ballroom Construction
-
-A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
 
 Date: 2026-08-07
 
@@ -50,32 +38,42 @@ The Trump administration is moving ahead with its efforts to fire Federal Reserv
 
 Date: 2026-08-07
 
-### Appeals court rules Trump can't build White House ballroom without congressional approval
-
-Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
-
-Date: 2026-08-07
-
 ### Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook
 
 The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
 
 Date: 2026-08-07
 
-### Trump issues new executive orders aimed at birthright citizenship
+### Appeals Court Upholds Block on Trump Ballroom Construction
 
-The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
+A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
+
+Date: 2026-08-07
+
+### Warren presses U.S. companies to share tariff refunds with customers
+
+Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
+
+Date: 2026-08-07
+
+### Appeals Court Upholds Block on Trump Ballroom Construction
+
+A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
+
+Date: 2026-08-07
+
+### Appeals court rules Trump can't build White House ballroom without congressional approval
+
+Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
 
 Date: 2026-08-07
 
 ## Sources
 
-- [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T16:19:17.000Z
 - [Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling](https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com) — 2026-08-07T19:06:37.000Z
 - [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
 - [Another court blocks White House ballroom work, teeing up a Supreme Court review](https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com) — 2026-08-07T18:10:37.000Z
 - [Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook](https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com) — 2026-08-07T19:45:45.000Z
-- [Appeals court rules Trump can't build White House ballroom without congressional approval](https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com) — 2026-08-07T18:34:25.000Z
+- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:27.000Z
 - [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
 - [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T12:10:58.000Z
-- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:27.000Z

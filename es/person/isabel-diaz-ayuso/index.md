@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
+No public source links.

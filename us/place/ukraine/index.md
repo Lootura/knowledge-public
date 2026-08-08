@@ -3,10 +3,28 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Child among three people killed in Russian attacks on Ukraine
+
+Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people.
+
+Date: 2026-08-08
+
+### What to Know About Wildberries, the Company in Ukraine’s Cross Hairs
+
+Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.
+
+Date: 2026-08-08
+
+### She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.
+
+As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
+
+Date: 2026-08-08
 
 ### Blinded by War: documenting the aftermath of injury in Ukraine – photo essay
 
@@ -50,24 +68,8 @@ Russia struck Ukraine with a series of missiles overnight, killing at least 17 p
 
 Date: 2026-08-05
 
-### Ukraine says missile interceptors may have saved lives in Russian attack
-
-At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.
-
-Date: 2026-08-05
-
-### Kyiv residents face attacks with fewer defenses overhead
-
-Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.
-
-Date: 2026-08-05
-
-### Video shows drone attacking a street vendor in Ukraine
-
-Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers "take pleasure in killing" civilians.
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [Child among three people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T06:01:42.000Z
+- [What to Know About Wildberries, the Company in Ukraine’s Cross Hairs](https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html?utm_source=lootura.com) — 2026-08-08T04:01:17.000Z
+- [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z

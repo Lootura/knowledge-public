@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor
+
+España podría ser multada por la Comisión Europea por hacer algo a lo que lleva años resistiéndose con la justificación, precisamente, de no quebrar el Derecho comunitario. Bruselas anunció el marte de esta semana la apertura de una "investigación en profundidad" sobre la única vez que el Gobierno ha pagado una de las.
+
+Date: 2026-08-08
 
 ### Bruselas avala la adenda final a los fondos europeos del plan de recuperación
 
@@ -62,12 +68,6 @@ A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europ
 
 Date: 2026-08-02
 
-### Veintidós países europeos señalan a España y reprochan la regularización
-
-El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor](https://www.20minutos.es/nacional/ce-abre-un-nuevo-capitulo-folletin-por-hachazo-renovables-investigar-espana-por-unica-vez-que-ha-pagado-un-acreedor_7022564_0.html?utm_source=lootura.com) — 2026-08-08T05:47:12.000Z

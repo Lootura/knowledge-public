@@ -3,7 +3,7 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
@@ -22,5 +22,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El Gobierno establece controles en la frontera para los italianos después de que Meloni se niegue a eliminar los suyos para los españoles](https://elpais.com/espana/2026-08-07/el-gobierno-amenaza-con-represalias-a-italia-si-no-retira-los-controles-fronterizos-a-viajeros-procedentes-de-espana.html?utm_source=lootura.com) — 2026-08-07T19:14:12.000Z
+- [¿Hay que llevar el pasaporte para ir a Italia tras la suspensión de Schengen con España? Estos son los requisitos para viajar](https://www.20minutos.es/internacional/hay-que-llevar-pasaporte-para-ir-italia-tras-suspension-schengen-con-espana-estos-son-los-requisitos-para-viajar_7023745_0.html?utm_source=lootura.com) — 2026-08-08T05:45:11.000Z
 - [Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid](https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z

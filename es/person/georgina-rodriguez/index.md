@@ -3,20 +3,20 @@
 > Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/person/georgina-rodriguez
 
 ## Cambios recientes
 
-### Las redes se ‘ceban’ con el físico de Georgina y ella responde tajante: «¿De verdad seguimos pensando que la felicidad tiene una talla?»
-
-Georgina Rodríguez siempre ha estado muy orgullosa de sus curvas y es por eso que nunca ha intentado ocultarlas. Algo que parece ser que no gusta mucho a los usuarios de las redes sociales, quienes han criticado, con cierto fervor, a la empresaria. Unas críticas de las que ella misma se ha hecho eco, reafirmándose en s.
-
-Date: 2026-08-05
-
 ### Discovered by Atlas
 
 Georgina Rodríguez first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-05
+
+### Las redes se ‘ceban’ con el físico de Georgina y ella responde tajante: «¿De verdad seguimos pensando que la felicidad tiene una talla?»
+
+Georgina Rodríguez siempre ha estado muy orgullosa de sus curvas y es por eso que nunca ha intentado ocultarlas. Algo que parece ser que no gusta mucho a los usuarios de las redes sociales, quienes han criticado, con cierto fervor, a la empresaria. Unas críticas de las que ella misma se ha hecho eco, reafirmándose en s.
 
 Date: 2026-08-05
 
@@ -28,4 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Los trucos de belleza de Georgina Rodríguez: del retinal a los parches para ojeras y la tecnología coreana](https://www.abc.es/estilo/belleza/trucos-belleza-georgina-rodriguez-retinal-parches-ojeras-20260807180756-nt.html?utm_source=lootura.com) — 2026-08-08T07:09:53.000Z

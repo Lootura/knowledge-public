@@ -3,7 +3,7 @@
 > Follow Haley Stevens, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/person/haley-stevens
 
 ## Recent changes
@@ -22,5 +22,5 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Haley Stevens says there’s ‘no drama’ after primary loss to Abdul El-Sayed: Full interview](https://www.nbcnews.com/meet-the-press/video/michigan-rep-haley-stevens-says-there-s-no-drama-after-primary-loss-to-el-sayed-267962437902?utm_source=lootura.com) — 2026-08-07T20:41:45.000Z
+- [SEE IT: Dem senators rally behind El-Sayed but duck questions on progressive agenda](https://www.foxnews.com/politics/see-it-dem-senators-rally-behind-el-sayed-duck-questions-progressive-agenda?utm_source=lootura.com) — 2026-08-08T08:00:21.000Z
 - [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z

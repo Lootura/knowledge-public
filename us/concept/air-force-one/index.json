@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "Pentagon revokes security clearance of former Air Force chief",
+      "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
@@ -59,16 +64,11 @@
       "title": "New Air Force One going out of commission to get safety upgrades",
       "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
       "date": "2026-07-21"
-    },
-    {
-      "title": "New Air Force One going out of commission to get safety upgrades",
-      "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+      "title": "Pentagon revokes security clearance of former Air Force chief",
       "url": "https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T03:31:05.000Z",
       "sourceId": "lootura-us-cbs-news"

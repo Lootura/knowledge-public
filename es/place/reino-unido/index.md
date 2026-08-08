@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales](https://elpais.com/clima-y-medio-ambiente/2026-08-07/hyde-park-parece-el-desierto-de-dubai-la-sequia-transforma-los-verdes-parques-de-londres-en-secarrales.html?utm_source=lootura.com) — 2026-08-07T16:27:44.000Z
+No public source links.

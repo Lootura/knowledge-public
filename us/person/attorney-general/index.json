@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/attorney-general/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/attorney-general/index.json",
   "description": "Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "AG",
     "Attorney",
@@ -17,7 +17,7 @@
   "changes": [
     {
       "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
+      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
       "date": "2026-08-08"
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T01:06:56.000Z",
+      "publishedAt": "2026-08-08T08:34:06.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
-
-President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
-
-Date: 2026-08-07
 
 ### Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling
 
@@ -26,12 +20,6 @@ A federal appeals court says above-ground construction cannot continue without a
 
 Date: 2026-08-07
 
-### Appeals court rules Trump can't build White House ballroom without congressional approval
-
-Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
-
-Date: 2026-08-07
-
 ### Appeals court deals major setback to Trump's White House ballroom
 
 A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.
@@ -41,6 +29,18 @@ Date: 2026-08-07
 ### News Wrap: Court rules Trump needs Congress to approve White House ballroom
 
 In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.
+
+Date: 2026-08-07
+
+### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
+
+President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
+
+Date: 2026-08-07
+
+### Appeals court rules Trump can't build White House ballroom without congressional approval
+
+Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
 
 Date: 2026-08-07
 
@@ -74,5 +74,3 @@ Date: 2026-08-05
 - [Appeals court deals major setback to Trump's White House ballroom](https://www.nbcnews.com/nightly-news/video/appeals-court-deals-major-setback-to-trump-s-white-house-ballroom-267969605589?utm_source=lootura.com) — 2026-08-07T22:46:05.000Z
 - [Another court blocks White House ballroom work, teeing up a Supreme Court review](https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com) — 2026-08-07T18:10:37.000Z
 - [News Wrap: Court rules Trump needs Congress to approve White House ballroom](https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com) — 2026-08-07T22:50:55.000Z
-- ['I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics](https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics?utm_source=lootura.com) — 2026-08-07T16:19:26.000Z
-- [Appeals court rules Trump can't build White House ballroom without congressional approval](https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com) — 2026-08-07T18:34:25.000Z

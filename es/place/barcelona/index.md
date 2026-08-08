@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta
+
+En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas, tejados y esculturas se puede ver la huella del paso del tiempo. Y en Buenos Aires , donde todo recuerda a ciudades como París, Madrid o Barcelona, uno de sus edificios esconde el tesoro más enigmático de la ciudad. En la capital argentina.
+
+Date: 2026-08-08
+
+### Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia
+
+Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.
+
+Date: 2026-08-08
+
+### Araújo jugará cedido en el Liverpool
+
+Operación relámpago por Ronald Araújo. El central uruguayo del FC Barcelona jugará una temporada cedido en el Liverpool tras un acuerdo alcanzado entre ambos clubs en la noche del viernes. El pacto ha sido aprobado por el director deportivo barcelonista, Deco, y fue desvelado por el periodista especializado en mercado.
+
+Date: 2026-08-08
 
 ### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
 
@@ -50,24 +68,8 @@ El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6
 
 Date: 2026-08-06
 
-### Los ojos de Copito de Nieve
-
-Copito de Nieve, en el zoo de Barcelona en 2003. aTarom/Wikimedia Commons Ser prácticamente coetáneo de un animal singular imprime carácter. O al menos, yo lo he vivido así. Me estoy refiriendo a Copito de Nieve, el primer y único gorila albino conocido, que probablemente influyó en que eligiera el tema de investigació.
-
-Date: 2026-08-06
-
-### Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»
-
-Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.
-
-Date: 2026-08-06
-
-### La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner
-
-Una pareja de la Guardia Urbana de paisano detuvo el miércoles por la noche a uno de los individuos que viven en el conflictivo piso de un bloque de la calle Muntaner de Barcelona, que han convertido en un espacio “inseguro” para el resto de vecinos. El individuo fue acusado de un hurto después de que se presentara por.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta](https://www.20minutos.es/internacional/casita-cielo-misterioso-chalet-tejado-un-edificio-buenos-aires-que-un-espanol-queria-dormir-siesta_7023663_0.html?utm_source=lootura.com) — 2026-08-08T05:54:57.000Z
+- [Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia](https://www.elconfidencial.com/espana/cataluna/2026-08-08/sagrada-familia-lluis-bonet-gaudi-1tps_4402971/?utm_source=lootura.com) — 2026-08-08T08:26:00.000Z
+- [Araújo jugará cedido en el Liverpool](https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610242/araujo-jugara-cedido-liverpool.html?utm_source=lootura.com) — 2026-08-08T05:03:31.000Z

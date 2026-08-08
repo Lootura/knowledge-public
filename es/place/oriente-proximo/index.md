@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-08/los-mercados-prolongan-el-rally-y-culminan-una-semana-historica-con-las-bolsas-en-maximos.html?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
-- [El alza del euríbor incentiva las renegociaciones de hipotecas](https://www.expansion.com/empresas/banca/2026/08/07/6a7632e7e5fdeac5518b459c.html?utm_source=lootura.com) — 2026-08-07T21:45:09.000Z

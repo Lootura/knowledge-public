@@ -10,10 +10,10 @@
   "description": "Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-08T04:53:47.542Z",
   "aliases": [
-    "Calle Gran Vía",
-    "Gran Vía de Madrid",
     "Calle Gran Via",
+    "Calle Gran Vía",
     "Gran Via de Madrid",
+    "Gran Vía de Madrid",
     "Gran Vía, Madrid"
   ],
   "changes": [
@@ -33,13 +33,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles",
-      "url": "https://theobjective.com/espana/madrid/2026-08-07/comunidad-madrid-67-millones-atico-chamberi/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:44:34.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

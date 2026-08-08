@@ -1,0 +1,62 @@
+{
+  "id": "usa-the-senate",
+  "name": "The Senate",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/the-senate",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/the-senate",
+  "markdownUrl": "https://atlas.lootura.com/us/person/the-senate/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/the-senate/index.json",
+  "description": "Follow The Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+      "summary": "The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "WASHINGTON — The Senate voted 90-6 to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "The Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Senate confirms Todd Blanche, Trump's former defense lawyer, as attorney general",
+      "url": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:35:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+      "url": "https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:01:22.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:00:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:45:40.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 4
+}

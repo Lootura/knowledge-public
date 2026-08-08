@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -19,16 +19,6 @@
     {
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Warren presses U.S. companies to share tariff refunds with customers",
-      "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
       "date": "2026-08-07"
     },
     {
@@ -52,28 +42,32 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
-      "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
       "date": "2026-08-07"
     },
     {
-      "title": "Trump issues new executive orders aimed at birthright citizenship",
-      "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
+      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Warren presses U.S. companies to share tariff refunds with customers",
+      "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
+      "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
       "date": "2026-08-07"
     }
   ],
   "sources": [
-    {
-      "title": "Warren presses U.S. companies to share tariff refunds with customers",
-      "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:19:17.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
       "url": "https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com",
@@ -99,10 +93,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
-      "url": "https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:34:25.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:06:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
@@ -115,13 +109,7 @@
       "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T12:10:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:06:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 7
 }

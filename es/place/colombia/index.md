@@ -3,7 +3,7 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
@@ -76,4 +76,3 @@ Date: 2026-08-06
 - [Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”](https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html?utm_source=lootura.com) — 2026-08-08T01:45:10.000Z
 - [La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali](https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com) — 2026-08-07T20:10:39.000Z
 - [Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares](https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html?utm_source=lootura.com) — 2026-08-08T01:26:06.000Z
-- [Los OK y KO del sábado, 8 de agosto de 2026](https://okdiario.com/ok-vs-ko/ok-ko-del-sabado-8-agosto-2026-19145786/amp?utm_source=lootura.com) — 2026-08-08T03:50:17.000Z

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-08-08
 
 ### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
 
-The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.
+Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
 
 Date: 2026-08-08
 
@@ -29,24 +29,6 @@ Date: 2026-08-07
 ### Morning news brief
 
 Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.
-
-Date: 2026-08-07
-
-### Trump's firings of federal officials set stage for next presidential power test
-
-A federal appeals court is set to consider President Trump's effort to fire two immigration judges this fall, a case that could have significant implications for federal workers.
-
-Date: 2026-08-07
-
-### A deal with Iran over the Strait of Hormuz may require a compromise from Trump
-
-To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.
-
-Date: 2026-08-07
-
-### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
-
-President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
 
 Date: 2026-08-07
 
@@ -68,15 +50,33 @@ Trump is once again threatening to fire Cook over unproven allegations of mortga
 
 Date: 2026-08-07
 
+### Redistricting played a part in Tennessee's primary election results
+
+Tennessee's primary election put its redistricting from earlier this year on display at the ballot box as results questioned President Trump's endorsement.
+
+Date: 2026-08-07
+
+### Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook
+
+The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.
+
+Date: 2026-08-07
+
+### Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook
+
+The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
+
+Date: 2026-08-07
+
 ## Sources
 
 - [Astrophysicist Avi Loeb breaks down Pentagon's 5th batch of UFO files](https://www.cbsnews.com/video/astrophysicist-avi-loeb-pentagon-5th-batch-ufo-files/?utm_source=lootura.com) — 2026-08-08T00:19:08.000Z
 - [Trump announces $180 million to boost mining education](https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/?utm_source=lootura.com) — 2026-08-08T01:13:32.000Z
-- [Trump's firings of federal officials set stage for next presidential power test](https://www.cbsnews.com/news/trump-firings-federal-workers-presidential-power/?utm_source=lootura.com) — 2026-08-07T16:18:20.000Z
 - [Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling](https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com) — 2026-08-07T19:06:37.000Z
 - [Appeals court deals major setback to Trump's White House ballroom](https://www.nbcnews.com/nightly-news/video/appeals-court-deals-major-setback-to-trump-s-white-house-ballroom-267969605589?utm_source=lootura.com) — 2026-08-07T22:46:05.000Z
 - [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
 - [Morning news brief](https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com) — 2026-08-07T08:41:55.000Z
 - [Redistricting played a part in Tennessee's primary election results](https://www.npr.org/2026/08/07/nx-s1-5924830/redistricting-played-a-part-in-tennessees-primary-election-results?utm_source=lootura.com) — 2026-08-07T20:24:47.000Z
-- [Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out](https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out?utm_source=lootura.com) — 2026-08-07T17:36:45.000Z
-- [A deal with Iran over the Strait of Hormuz may require a compromise from Trump](https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com) — 2026-08-07T16:39:59.000Z
+- [News Wrap: Court rules Trump needs Congress to approve White House ballroom](https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com) — 2026-08-07T22:50:55.000Z
+- [Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook](https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com) — 2026-08-07T19:45:45.000Z
+- [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T08:34:06.000Z

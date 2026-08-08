@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -13,6 +13,18 @@
 Paloma Cervilla entrevista a Esther Martínez , líder del PP vasco.
 
 Date: 2026-08-08
+
+### Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP
+
+El problema de la vivienda es un tema recurrente en el Congreso de los Diputados . Menos frecuente es la convergencia de los distintos partidos para sacar adelante medidas concretas con las que atajar el que es, según el CIS, la principal preocupación de los españoles. A lo largo del curso político que acaba de termina.
+
+Date: 2026-08-08
+
+### Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»
+
+El exlíder socialista critica «la obsesión» de la derecha en España que «cree que vale todo para volver al poder».
+
+Date: 2026-08-07
 
 ### El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene
 
@@ -56,20 +68,8 @@ La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callej
 
 Date: 2026-08-07
 
-### El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta
-
-Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.
-
-Date: 2026-08-07
-
-### Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”
-
-La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene](https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T07:11:33.000Z
-- [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
+- [Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP](https://www.20minutos.es/nacional/un-curso-bloqueo-para-vivienda-congreso-no-parar-desahucios-prorrogar-alquileres-los-envites-pp_7021387_0.html?utm_source=lootura.com) — 2026-08-08T05:46:31.000Z
+- [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
 - [Podcast | Entrevista a Esther Martínez](https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-esther-martinez/?utm_source=lootura.com) — 2026-08-08T03:25:17.000Z

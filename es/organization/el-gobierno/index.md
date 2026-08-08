@@ -3,16 +3,10 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
-
-### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
-
-Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
-
-Date: 2026-08-08
 
 ### No molestar a Marruecos
 
@@ -20,15 +14,27 @@ El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene 
 
 Date: 2026-08-08
 
-### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
+### El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...
 
-La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
+El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceuta el próximo 15 de agosto después de que tanto la Guardia Civil como el CNI diesen plena credibilidad a las convocatorias que para tal fin se están organizando en las redes sociales. Así, desde qu e el pasado 30 de julio 72.000 migrantes il.
 
-Date: 2026-08-07
+Date: 2026-08-08
+
+### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
+
+Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
+
+Date: 2026-08-08
 
 ### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
 
 La justificación oficial fue la necesidad de buscar un espacio alternativo durante las obras previstas en la Real Casa de Correos. Con ese argumento, el Gobierno regional adquirió, a través de la empresa pública Planifica Madrid, un ático en Chamberí por 6,3 millones de euros y de dimensiones poco habituales para un us.
+
+Date: 2026-08-07
+
+### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
+
+La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
 
 Date: 2026-08-07
 
@@ -62,16 +68,8 @@ El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Di
 
 Date: 2026-08-07
 
-### España insta a Italia a levantar la suspensión del espacio Schengen en dos días o tomará "medidas proporcionales"
-
-El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio Schengen' impuesta tras la crisis migratoria en Ceuta de hace más de una semana y le ha dado un plazo de dos días, hasta el domingo 9 de agosto, para que lo haga o, si no, " España se verá obligada a adoptar medidas proporcionales para proteg.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos](https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:39:33.000Z
-- [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
+- [El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...](https://www.20minutos.es/nacional/gobierno-blinda-ceuta-ante-posible-entrada-masiva-15-agosto-casi-300-antidisturbios-2-000-soldados-drones_7023647_0.html?utm_source=lootura.com) — 2026-08-08T05:42:03.000Z
 - [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z
-- [El Gobierno se interpone en el deseo del Rey de visitar Ceuta](https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com) — 2026-08-08T01:12:23.000Z
 - [No molestar a Marruecos](https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z

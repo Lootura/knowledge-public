@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury](https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com) — 2026-08-07T17:17:10.000Z
+No public source links.

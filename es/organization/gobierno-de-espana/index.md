@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros](https://www.larazon.es/andalucia/convenio-2010-deja-junta-andalucia-agujero-25-millones-euros_202608086a76a9eaa5690f04736dcd20.html?utm_source=lootura.com) — 2026-08-08T04:00:42.000Z
+No public source links.

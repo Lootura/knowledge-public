@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio
+
+Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).
+
+Date: 2026-08-08
 
 ### Vuelve el fútbol a Ceuta tras la invasión: "Esto nos sirve para desinhibirnos"
 
@@ -62,12 +68,6 @@ El hombre detenido el pasado 28 de julio por su presunta implicación en la muer
 
 Date: 2026-08-03
 
-### Los actores de Los Serrano se reencontrarán en octubre durante la San Diego Comic-Con Málaga 2026
-
-El festival celebrado en la ciudad de Málaga del 1 a 4 de octubre ha revelado con siete actores de 'Los Serrano' participarán durante la convención.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio](https://www.20minutos.es/nacional/verano-negro-violencia-machista-menos-13-mujeres-han-sido-asesinadas-desde-junio_7023222_0.html?utm_source=lootura.com) — 2026-08-08T05:48:19.000Z

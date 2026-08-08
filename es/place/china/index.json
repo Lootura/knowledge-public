@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
-      "summary": "En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.",
+      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
+      "summary": "La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.",
       "date": "2026-08-08"
     },
     {
-      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
-      "summary": "La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.",
+      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
+      "summary": "En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.",
       "date": "2026-08-08"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
-      "url": "https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T00:39:15.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
       "url": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...
+
+El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceuta el próximo 15 de agosto después de que tanto la Guardia Civil como el CNI diesen plena credibilidad a las convocatorias que para tal fin se están organizando en las redes sociales. Así, desde qu e el pasado 30 de julio 72.000 migrantes il.
+
+Date: 2026-08-08
+
+### Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»
+
+«No son suficientes» . Así definen las distintas asociaciones que representan a los agentes de Guardia Civil y Policía Nacional al número de efectivos y medios que actualmente se mantiene en Ceuta tras las crisis migratoria de la pasada semana. Lo hacen tras la nueva alerta de la que se viene informando durante los últ.
+
+Date: 2026-08-08
+
+### Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos
+
+Un joven de origen subsahariano ha fallecido este viernes tras precipitarse al mar cuando intentaba acceder a Ceuta desde Marruecos utilizando un parapente en las inmediaciones del espigón de Benzú, según han informado fuentes de la Guardia Civil.El suceso se ha producido en torno a las 08.00 horas , momento en el que.
+
+Date: 2026-08-08
 
 ### Desarticulada una red de tráfico de personas y droga en España con 78 detenidos
 
@@ -50,24 +68,8 @@ Una agente de la Guardia Civil destinada en Llanes ha muerto este miércoles tra
 
 Date: 2026-08-05
 
-### El guardia civil que asesinó a su expareja en el cuartel de Llanes robó el arma a un compañero tras ser apartado del servicio
-
-El autor del crimen machista en Llanes ( Asturias ) había sustraído el arma con la que ha matado a su expareja a un compañero después de que la Guardia Civil le comunicara esta semana que le apartaba del servicio, según informan fuentes del Instituto Armado. El agente, de 49 años, llevaba nueve años destinado en la Com.
-
-Date: 2026-08-05
-
-### Pillados mientras mantenían relaciones al volante en la A-7
-
-Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.
-
-Date: 2026-08-05
-
-### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
-
-La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...](https://www.20minutos.es/nacional/gobierno-blinda-ceuta-ante-posible-entrada-masiva-15-agosto-casi-300-antidisturbios-2-000-soldados-drones_7023647_0.html?utm_source=lootura.com) — 2026-08-08T05:42:03.000Z
+- [Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»](https://www.abc.es/espana/policias-guardias-civiles-avisan-refuerzos-enviados-ceuta-20260807010924-nt.html?utm_source=lootura.com) — 2026-08-08T07:21:52.000Z
+- [Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos](https://www.abc.es/espana/muere-joven-caer-mar-intentaba-entrar-ceuta-20260807185901-nt.html?utm_source=lootura.com) — 2026-08-08T07:13:26.000Z

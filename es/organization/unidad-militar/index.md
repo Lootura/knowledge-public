@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»](https://theobjective.com/sociedad/2026-08-07/nivel-2-incendio-niebla-huelva-inestabilidad/?amp=&utm_source=lootura.com) — 2026-08-07T21:43:39.000Z
+No public source links.

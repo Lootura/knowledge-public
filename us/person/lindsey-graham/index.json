@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
@@ -71,13 +71,7 @@
       "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
       "publishedAt": "2026-08-07T17:33:40.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-      "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:05:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

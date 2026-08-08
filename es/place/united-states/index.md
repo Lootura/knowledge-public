@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»
-
-El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.
-
-Date: 2026-08-08
-
 ### ¿Menores sin fronteras?
 
 ¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.
+
+Date: 2026-08-08
+
+### Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»
+
+El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.
 
 Date: 2026-08-08
 
@@ -71,6 +71,4 @@ Date: 2026-08-07
 ## Fuentes
 
 - [El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior](https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html?utm_source=lootura.com) — 2026-08-08T03:30:00.000Z
-- [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
-- [Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»](https://okdiario.com/cool/famosos/montoya-hay-que-ser-fiel-principios-uno-mismo-que-nadie-te-calle-19146029?utm_source=lootura.com) — 2026-08-08T03:45:45.000Z
 - [¿Menores sin fronteras?](https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z

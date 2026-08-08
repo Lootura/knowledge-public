@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano
+
+El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.
+
+Date: 2026-08-08
 
 ### Una cena benéfica en Gandía para construir una gran escuela en África: "Cambia la vida de los niños y de todo un pueblo"
 
@@ -62,12 +68,6 @@ La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las 
 
 Date: 2026-07-22
 
-### Lío con la Federación Valenciana de Hockey: Antifraude pide a Catalá que expediente a su presidente por conflicto de interés
-
-La Agencia Valenciana Antifraude ha instado al Ayuntamiento de Valencia a abrir un expediente disciplinario contra el presidente de la Federación de Hockey de la Comunitat Valenciana (FHCV), Jesús Gracia , al considerar que incumplió su deber de abstención en varios procedimientos de contratación pública mientras desem.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Una cena benéfica en Gandía para construir una gran escuela en África: "Cambia la vida de los niños y de todo un pueblo"](https://www.larazon.es/comunidad-valenciana/cena-benefica-gandia-construir-gran-escuela-africa-cambia-vida-ninos-todo-pueblo_202608086a75b81871b42a0b5de1a7ba.html?utm_source=lootura.com) — 2026-08-08T04:00:41.000Z
+- [Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z

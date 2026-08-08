@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta",
+      "summary": "En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas, tejados y esculturas se puede ver la huella del paso del tiempo. Y en Buenos Aires , donde todo recuerda a ciudades como París, Madrid o Barcelona, uno de sus edificios esconde el tesoro más enigmático de la ciudad. En la capital argentina.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia",
+      "summary": "Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Araújo jugará cedido en el Liverpool",
+      "summary": "Operación relámpago por Ronald Araújo. El central uruguayo del FC Barcelona jugará una temporada cedido en el Liverpool tras un acuerdo alcanzado entre ambos clubs en la noche del viernes. El pacto ha sido aprobado por el director deportivo barcelonista, Deco, y fue desvelado por el periodista especializado en mercado.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
       "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
@@ -55,23 +70,27 @@
       "title": "El Barça suspende su partido amistoso en Marruecos tras la crisis: \"No se cumplen las condiciones adecuadas\"",
       "summary": "El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6 de agosto que descarta por completo la posibilidad de disputar el partido amistoso en Tánger, Marruecos, previsto para el próximo día 15. \"El FC Barcelona informa que el partido amistoso del primer equipo masculino que estaba previsto para.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Los ojos de Copito de Nieve",
-      "summary": "Copito de Nieve, en el zoo de Barcelona en 2003. aTarom/Wikimedia Commons Ser prácticamente coetáneo de un animal singular imprime carácter. O al menos, yo lo he vivido así. Me estoy refiriendo a Copito de Nieve, el primer y único gorila albino conocido, que probablemente influyó en que eligiera el tema de investigació.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las vacaciones de Ester Expósito y Mbappé entre Cerdeña y Barcelona: «Sí que parece que están enamorados»",
-      "summary": "Ester Expósito y Kylian Mbappé comenzaron su relación hace un par de meses. En un primer momento, el jugador del Real Madrid y la actriz, intentaron llevar su noviazgo de la forma más discreta posible, pero tanto la prensa como sus propios fans complicaron el asunto. Ahora, después de un tiempo prudencial, ninguno de l.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "La Guardia Urbana detiene a uno de los inquilinos del piso de los horrores de Muntaner",
-      "summary": "Una pareja de la Guardia Urbana de paisano detuvo el miércoles por la noche a uno de los individuos que viven en el conflictivo piso de un bloque de la calle Muntaner de Barcelona, que han convertido en un espacio “inseguro” para el resto de vecinos. El individuo fue acusado de un hurto después de que se presentara por.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta",
+      "url": "https://www.20minutos.es/internacional/casita-cielo-misterioso-chalet-tejado-un-edificio-buenos-aires-que-un-espanol-queria-dormir-siesta_7023663_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:54:57.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-08/sagrada-familia-lluis-bonet-gaudi-1tps_4402971/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:26:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Araújo jugará cedido en el Liverpool",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610242/araujo-jugara-cedido-liverpool.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:03:31.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 3
 }

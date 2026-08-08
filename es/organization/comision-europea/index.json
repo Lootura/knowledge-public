@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor",
+      "summary": "España podría ser multada por la Comisión Europea por hacer algo a lo que lleva años resistiéndose con la justificación, precisamente, de no quebrar el Derecho comunitario. Bruselas anunció el marte de esta semana la apertura de una \"investigación en profundidad\" sobre la única vez que el Gobierno ha pagado una de las.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Bruselas avala la adenda final a los fondos europeos del plan de recuperación",
       "summary": "La adenda de cierre al Plan de Recuperación ha recibido la evaluación preliminar positiva por parte de la Comisión Europea. Así lo ha confirmado a través de sus redes sociales el ministro de Economía, Comercio y Empresa, Carlos Cuerpo, que ha apuntado que esta adenda permitirá \"el máximo aprovechamiento de los recursos.",
@@ -59,13 +64,15 @@
       "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
       "summary": "A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, remitió ayer una carta a la presidenta de la Comisión Europea, Úrsula von der Leyen, en la que urge a la presidencia irlandesa, de turno este semestre, a convocar una reunión de urgencia por la reacción que calificó de “egoísta, polarizadora e ilegal” de países como Italia ant.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor",
+      "url": "https://www.20minutos.es/nacional/ce-abre-un-nuevo-capitulo-folletin-por-hachazo-renovables-investigar-espana-por-unica-vez-que-ha-pagado-un-acreedor_7022564_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:47:12.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

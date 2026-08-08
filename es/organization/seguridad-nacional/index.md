@@ -3,10 +3,16 @@
 > Sigue la actividad de Seguridad nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/organization/seguridad-nacional
 
 ## Cambios recientes
+
+### Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los "agujeros negros" en la crisis de Ceuta
+
+Exige un "giro estratégico" en las relaciones con Marruecos: la senda del "apaciguamiento" es un "fracaso".
+
+Date: 2026-08-08
 
 ### En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional
 
@@ -62,12 +68,6 @@ El Ministerio de Presidencia ha procedido al cese fulminante de la responsable d
 
 Date: 2026-08-03
 
-### El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta
-
-El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Seguir leyendo...
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los "agujeros negros" en la crisis de Ceuta](https://www.larazon.es/espana/maillo-reclama-sanchez-que-convoque-consejo-seguridad-nacional-agujeros-negros-crisis-ceuta_202608086a76ea76a5690f04736e1003.html?outputType=amp&utm_source=lootura.com) — 2026-08-08T08:36:06.000Z

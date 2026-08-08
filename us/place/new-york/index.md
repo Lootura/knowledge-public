@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-02
 ## Sources
 
 - [How a duck's friendship helped a golden retriever overcome health issues](https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com) — 2026-08-08T00:23:51.000Z
-- [Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury](https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com) — 2026-08-07T17:17:10.000Z

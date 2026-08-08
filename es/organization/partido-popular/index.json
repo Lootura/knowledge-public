@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "PP",
     "populares"
@@ -18,6 +18,16 @@
       "title": "Podcast | Entrevista a Esther Martínez",
       "summary": "Paloma Cervilla entrevista a Esther Martínez , líder del PP vasco.",
       "date": "2026-08-08"
+    },
+    {
+      "title": "Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP",
+      "summary": "El problema de la vivienda es un tema recurrente en el Congreso de los Diputados . Menos frecuente es la convergencia de los distintos partidos para sacar adelante medidas concretas con las que atajar el que es, según el CIS, la principal preocupación de los españoles. A lo largo del curso político que acaba de termina.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»",
+      "summary": "El exlíder socialista critica «la obsesión» de la derecha en España que «cree que vale todo para volver al poder».",
+      "date": "2026-08-07"
     },
     {
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
@@ -53,30 +63,20 @@
       "title": "Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal",
       "summary": "La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callejero municipal. El equipo de Gobierno del PP plantea modificar el nombre de la Avenida San Miguel, una de las principales de la localidad, para pasar a llamarse Avenida Evaristo Domínguez , que es el actual alcalde. Domínguez ha sido el único.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Gobierno rechaza el intento del PP de que los ministros acudan al Senado en agosto por la crisis de Ceuta",
-      "summary": "Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Congreso para la última semana de agosto e ignorarán el intento de los populares de que acudiesen antes a la Cámara Alta Cuatro ministros comparecerán en el Congreso a finales de agosto para explicar la gestión de la crisis en Ceuta El Gobierno.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
-      "summary": "La ministra de Juventud e Infancia, Sira Rego (52 años, Valencia) ha llegado a Ceuta este jueves para gestionar una de las mayores crisis migratorias de España . Rego ha atendido a EL PAÍS por teléfono y anuncia que el traslado de los menores migrantes a las comunidades autónomas se hará en “unas semanas”. Reconoce que.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
-      "url": "https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T07:11:33.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP",
+      "url": "https://www.20minutos.es/nacional/un-curso-bloqueo-para-vivienda-congreso-no-parar-desahucios-prorrogar-alquileres-los-envites-pp_7021387_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:46:31.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
-      "url": "https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:56:58.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»",
+      "url": "https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:01:43.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     },
     {
       "title": "Podcast | Entrevista a Esther Martínez",

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,13 +43,13 @@
   ],
   "changes": [
     {
-      "title": "Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»",
-      "summary": "El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.",
+      "title": "¿Menores sin fronteras?",
+      "summary": "¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.",
       "date": "2026-08-08"
     },
     {
-      "title": "¿Menores sin fronteras?",
-      "summary": "¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.",
+      "title": "Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»",
+      "summary": "El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.",
       "date": "2026-08-08"
     },
     {
@@ -101,23 +101,11 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
-      "url": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T21:45:40.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»",
-      "url": "https://okdiario.com/cool/famosos/montoya-hay-que-ser-fiel-principios-uno-mismo-que-nadie-te-calle-19146029?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:45:45.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "¿Menores sin fronteras?",
       "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T03:25:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

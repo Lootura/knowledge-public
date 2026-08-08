@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
       "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+      "summary": "The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.",
       "date": "2026-08-08"
     },
     {
@@ -57,14 +62,15 @@
       "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
       "summary": "The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Virginia Democrats pick establishment nominees for 2 House seats they hope to flip",
-      "summary": "In Virginia, Democratic primary voters have a history of rewarding moderate candidates, a trend that continued on Tuesday.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+      "url": "https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:01:22.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
     {
       "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
       "url": "https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com",
@@ -78,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

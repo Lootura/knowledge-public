@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -14,15 +14,15 @@ An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills 
 
 Date: 2026-08-08
 
+### She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.
+
+As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
+
+Date: 2026-08-08
+
 ### Senate passes Russia sanctions bill that was long championed by Lindsey Graham
 
 The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).
-
-Date: 2026-08-07
-
-### Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham
-
-The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.
 
 Date: 2026-08-07
 
@@ -50,6 +50,12 @@ A former U.S. Marine held in Russia for more than four years on disputed charges
 
 Date: 2026-08-07
 
+### Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham
+
+The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.
+
+Date: 2026-08-07
+
 ### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
 
 Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
@@ -62,18 +68,12 @@ The Senate is back in session today after senators made progress on a voting dea
 
 Date: 2026-08-07
 
-### U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition
-
-Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Daily fragment: Nyonoksa radiation accident](https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com) — 2026-08-08T04:00:00.000Z
 - [Senate passes Russia sanctions bill that was long championed by Lindsey Graham](https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com) — 2026-08-07T17:33:40.000Z
-- [Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham](https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com) — 2026-08-07T18:05:23.000Z
 - [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z
 - [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
 - [Senate Passes Sanctions Bill Targeting Russia and Iran](https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com) — 2026-08-07T19:42:33.000Z
 - [Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition](https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com) — 2026-08-07T18:52:20.000Z
+- [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z

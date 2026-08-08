@@ -3,10 +3,16 @@
 > Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/object/costa-brava
 
 ## Cambios recientes
+
+### Tres mágicos enclaves de la Costa Brava para descubrir con una ruta en kayak
+
+Situada en la confluencia de los Pirineos con el Mediterráneo, la Costa Brava es conocida por sus coquetas villas marineras, sus playas de aguas cristalinas y por sus hipnóticos paisajes , entre los que se cuentan varios parques naturales de gran valor ecológico. Más allá de caminar por sus senderos o de recorrer en co.
+
+Date: 2026-08-08
 
 ### Las restricciones agravan el conflicto por el fondeo en la Costa Brava
 
@@ -34,4 +40,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Las restricciones agravan el conflicto por el fondeo en la Costa Brava](https://www.lavanguardia.com/local/barcelona/20260808/11610020/restricciones-agravan-conflicto-fondeo-costa-brava.html?utm_source=lootura.com) — 2026-08-08T04:00:00.000Z
+- [Tres mágicos enclaves de la Costa Brava para descubrir con una ruta en kayak](https://www.abc.es/viajar/destinos/espana/tres-magicos-enclaves-costa-brava-descubrir-ruta-20260807012154-nt.html?utm_source=lootura.com) — 2026-08-08T07:10:03.000Z

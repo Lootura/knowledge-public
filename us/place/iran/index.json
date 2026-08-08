@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,13 +22,13 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
-      "date": "2026-08-07"
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "date": "2026-08-08"
     },
     {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
+      "title": "Morning news brief",
+      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
       "date": "2026-08-07"
     },
     {
@@ -52,6 +52,11 @@
       "date": "2026-08-07"
     },
     {
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
       "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
       "date": "2026-08-07"
@@ -59,11 +64,6 @@
     {
       "title": "The State of Iran’s Three Key Nuclear Sites",
       "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Is the Iran war at risk of becoming a quagmire?",
-      "summary": "NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.",
       "date": "2026-08-07"
     }
   ],
@@ -79,18 +79,6 @@
       "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:40:21.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:39:59.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T04:01:31.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Houthis Claim Attack on Yemeni Military Camp",
@@ -109,7 +97,13 @@
       "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:56:02.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:01:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

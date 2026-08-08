@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,21 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Child among three people killed in Russian attacks on Ukraine",
+      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
+      "summary": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "summary": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
       "summary": "Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places overlooked by the wider world, including countries scarred by war, such as Afghanista.",
@@ -51,23 +66,27 @@
       "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
       "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
-      "summary": "At least 17 people were killed after Russia hit Ukraine with a barrage of missiles, Ukrainian authorities said. CBS News' Aidan Stretch reports.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Kyiv residents face attacks with fewer defenses overhead",
-      "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Video shows drone attacking a street vendor in Ukraine",
-      "summary": "Ukrainian President Volodymyr Zelenskyy says the footage shows how Russian soldiers \"take pleasure in killing\" civilians.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Child among three people killed in Russian attacks on Ukraine",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T06:01:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:01:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:01:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
 }

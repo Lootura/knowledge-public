@@ -3,16 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni
-
-"Quienes se determine que no tienen derecho a permanecer deberán ser retornados sin excepción, de forma rápida y efectiva", afirma a EL MUNDO el comisario Brunner Leer.
-
-Date: 2026-08-08
 
 ### Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”
 
@@ -38,45 +32,51 @@ Huawei España cerró el ejercicio fiscal 2025 con un beneficio neto de 22,3 mil
 
 Date: 2026-08-08
 
-### Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros
+### La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor
 
-Un convenio firmado en 2010 entre la Ministra de Ciencia e Innovación, Cristina Garmendia , y el entonces consejero de Economía, Innovación y Ciencia de la Junta de Andalucía, Antonio Ávila , ha acabado generando una deuda de la administración andaluza con el Gobierno de España que acabará resolviéndose con el pago de.
-
-Date: 2026-08-08
-
-### ¿En cuánto tiempo podría responder España a un ataque realizado por un país vecino?
-
-Vivimos tiempos convulsos en el plano geopolítico. Los conflictos y las tensiones se diversifican y extienden. Además, se adoptan formas no convencionales en las que se utiliza tecnología militar para atacar al enemigo: desde la informática hasta el espacio, las telecomunicaciones y las acciones con drones y armas hipe.
+España podría ser multada por la Comisión Europea por hacer algo a lo que lleva años resistiéndose con la justificación, precisamente, de no quebrar el Derecho comunitario. Bruselas anunció el marte de esta semana la apertura de una "investigación en profundidad" sobre la única vez que el Gobierno ha pagado una de las.
 
 Date: 2026-08-08
 
-### Los OK y KO del sábado, 8 de agosto de 2026
+### Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio
 
-OK: Abelardo de la EspriellaPorque ha tomado posesión como presidente de Colombia, poniendo fin a la oscura era de Petro.OK: Tommy PigottPorque EEUU respalda la soberanía de España sobre Ceuta y culpa a Sánchez de la invasión por «no defender a su pueblo».OK: Víctor MartínezPorque Indra dotará al nuevo aeropuerto de He.
-
-Date: 2026-08-08
-
-### Las vacaciones estivales
-
-Las vacaciones estivales son el periodo de descanso anual que se disfruta durante el verano, generalmente entre los meses de julio a septiembre. Aunque habría que apostillar que existen veranos más o menos sin problemas y otros, como este que nos ocupa, que deberíamos calificarlo de aciago. ¿Las razones? España ardiend.
+Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).
 
 Date: 2026-08-08
 
-### Sube & Baja, por Jaime Peñafiel: semana del 31 de julio al 6 de agosto
+### El pueblo de Cantabria que muchos comparan ya con Benidorm por la llegada masiva de turistas
 
-¿BAJA?: Letizia, Reina consorte de España Lo siento, pero una Reina reinante no puede aparecer nada menos que presidiendo la gala de clausura del Atlántida Mallorca Festival en Palma con ese vestido de color rojo burdeos de Carolina Herrera con hombro al aire, gran abertura y una tentadora cremallera que recorría todo.
+Cantabria se ha consolidado en los últimos años como uno de los destinos turísticos más atractivos de España. La región cerró el año 2025 con un nuevo récord de visitantes, con casi, 2,2 millones de viajeros, además de seis millones de pernoctaciones.La comunidad cántabra se ha convertido en un referente del turismo es.
+
+Date: 2026-08-08
+
+### Así afectará el eclipse solar al sistema eléctrico y la producción fotovoltaica
+
+El operador del sistema eléctrico español afronta el inminente eclipse total de sol -el primero visible en España en más de cien años- con protocolos probados en eventos astronómicos previos y en estrecha coordinación con homólogos europeos , pese a que su magnitud no será comparable a la de otros episodios. Fuentes de.
+
+Date: 2026-08-08
+
+### Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”
+
+Lourdes Reyzábal (Madrid, 53 años), psicóloga de formación, creó hace tres décadas la Fundación Raíces, que ha atendido a más de 5.000 niños sin protección familiar, la mayoría de los cuales arriesgaron sus vidas para llegar a España. En 2008, su marido, el abogado Nacho de la Mata, logró dos sentencias clave del Tribu.
+
+Date: 2026-08-08
+
+### Muere tras sufrir una brutal paliza el futbolista David Owori, que jugó una temporada en España
+
+El mundo del fútbol está de luto por la muerte de David Owori, futbolista de 27 años y capitán del histórico SC Villa de Uganda, que jugó en España.
 
 Date: 2026-08-08
 
 ## Fuentes
 
+- [La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor](https://www.20minutos.es/nacional/ce-abre-un-nuevo-capitulo-folletin-por-hachazo-renovables-investigar-espana-por-unica-vez-que-ha-pagado-un-acreedor_7022564_0.html?utm_source=lootura.com) — 2026-08-08T05:47:12.000Z
+- [Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio](https://www.20minutos.es/nacional/verano-negro-violencia-machista-menos-13-mujeres-han-sido-asesinadas-desde-junio_7023222_0.html?utm_source=lootura.com) — 2026-08-08T05:48:19.000Z
+- [El pueblo de Cantabria que muchos comparan ya con Benidorm por la llegada masiva de turistas](https://www.abc.es/espana/cantabria/pueblo-cantabria-comparan-benidorm-llegada-masiva-turistas-20260808093000-nt.html?utm_source=lootura.com) — 2026-08-08T07:30:00.000Z
 - [Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”](https://cincodias.elpais.com/fortunas/2026-08-08/xandra-falco-circulo-fortuny-en-espana-todavia-hay-cierto-tabu-para-hablar-de-lujo-y-de-dinero.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
 - [El interés compuesto también ayuda a comprar una casa: cómo invertir para ahorrar el dinero de la entrada](https://cincodias.elpais.com/mercados-financieros/2026-08-08/el-interes-compuesto-tambien-ayuda-a-comprar-una-casa-como-invertir-para-ahorrar-el-dinero-de-la-entrada.html?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
 - [España, epicentro hotelero: apunta a año récord en inversión pendiente de la venta de HIP por Blackstone](https://cincodias.elpais.com/companias/2026-08-08/espana-epicentro-hotelero-apunta-a-ano-record-en-inversion-pendiente-de-la-venta-de-hip-por-blackstone.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z
 - [Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla](https://cincodias.elpais.com/companias/2026-08-08/huawei-recupera-la-rentabilidad-en-espana-a-costa-de-reducir-el-negocio-y-la-plantilla.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z
+- [Así afectará el eclipse solar al sistema eléctrico y la producción fotovoltaica](https://www.elconfidencial.com/espana/2026-08-08/eclipse-solar-espana-generacion-electrica-1tps_4402943/?utm_source=lootura.com) — 2026-08-08T07:08:00.000Z
+- [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
 - [En las tripas del Sonorama, el gran festival indie de España: "Quien entra en nuestra familia ya nunca sale"](https://www.elmundo.es/papel/historias/2026/08/07/6a75a732e9cf4ac55a8b4596.html?utm_source=lootura.com) — 2026-08-07T20:50:27.000Z
-- [Aemet pronostica para el día del eclipse cielos poco nubosos o despejados en la mayor parte de España](https://www.elmundo.es/ciencia/2026/08/07/6a75c07afc6c83d0588b4586.html?utm_source=lootura.com) — 2026-08-07T15:00:59.000Z
-- [Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni](https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com) — 2026-08-08T00:51:49.000Z
-- [Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables](https://www.expansion.com/opinion/2026/08/07/6a76207a468aebb51b8b4598.html?utm_source=lootura.com) — 2026-08-07T21:55:22.000Z
-- [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
-- [Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros](https://www.larazon.es/andalucia/convenio-2010-deja-junta-andalucia-agujero-25-millones-euros_202608086a76a9eaa5690f04736dcd20.html?utm_source=lootura.com) — 2026-08-08T04:00:42.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -31,7 +31,7 @@
     },
     {
       "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
+      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
       "date": "2026-08-08"
     },
     {
@@ -42,21 +42,6 @@
     {
       "title": "Morning news brief",
       "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump's firings of federal officials set stage for next presidential power test",
-      "summary": "A federal appeals court is set to consider President Trump's effort to fire two immigration judges this fall, a case that could have significant implications for federal workers.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
-      "summary": "President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.",
       "date": "2026-08-07"
     },
     {
@@ -73,6 +58,21 @@
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
       "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Redistricting played a part in Tennessee's primary election results",
+      "summary": "Tennessee's primary election put its redistricting from earlier this year on display at the ballot box as results questioned President Trump's endorsement.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
+      "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -86,12 +86,6 @@
       "title": "Trump announces $180 million to boost mining education",
       "url": "https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T01:13:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump's firings of federal officials set stage for next presidential power test",
-      "url": "https://www.cbsnews.com/news/trump-firings-federal-workers-presidential-power/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:18:20.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -125,17 +119,23 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out",
-      "url": "https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T17:36:45.000Z",
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:50:55.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:39:59.000Z",
+      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:45:45.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:34:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 14
 }

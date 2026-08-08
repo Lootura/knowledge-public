@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,8 +18,23 @@
   ],
   "changes": [
     {
-      "title": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
-      "summary": "\"Quienes se determine que no tienen derecho a permanecer deberán ser retornados sin excepción, de forma rápida y efectiva\", afirma a EL MUNDO el comisario Brunner Leer.",
+      "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
+      "summary": "La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Escondido en la playa",
+      "summary": "La sorpresa por el comportamiento de Pedro Sánchez ante los acontecimientos de Ceuta supera cualquier pesadilla. Su parálisis activa ante la invasión de la ciudad autónoma resulta incompatible con cualquier gestión racional, segura, previsible y humanitaria en un Gobierno digno de tal nombre. Hasta el Departamento de E.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "No molestar a Marruecos",
+      "summary": "El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
+      "summary": "Exige un \"giro estratégico\" en las relaciones con Marruecos: la senda del \"apaciguamiento\" es un \"fracaso\".",
       "date": "2026-08-08"
     },
     {
@@ -38,11 +53,6 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
-      "summary": "La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "OKDIARIO localiza a Sánchez buceando en las aguas de Lanzarote mientras Ceuta sigue colapsada por 6.000 inmigrantes ilegales",
       "summary": "Pedro Sánchez presidió este viernes una videoconferencia con sus ministros sobre la invasión migratoria de Ceuta y acto seguido se fue a hacer buceo. OKDIARIO ha captado al presidente del Gobierno saliendo de Puerto Rubicón , en Lanzarote, a las 11:16 horas a bordo de una lancha flanqueada por otra embarcación de escol.",
       "date": "2026-08-08"
@@ -53,16 +63,6 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Escondido en la playa",
-      "summary": "La sorpresa por el comportamiento de Pedro Sánchez ante los acontecimientos de Ceuta supera cualquier pesadilla. Su parálisis activa ante la invasión de la ciudad autónoma resulta incompatible con cualquier gestión racional, segura, previsible y humanitaria en un Gobierno digno de tal nombre. Hasta el Departamento de E.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "No molestar a Marruecos",
-      "summary": "El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
       "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
       "date": "2026-08-07"
@@ -70,16 +70,16 @@
   ],
   "sources": [
     {
-      "title": "Sánchez esconde sus pactos con Marruecos sobre «avalanchas migratorias» tras firmar 14 acuerdos con Rabat",
-      "url": "https://www.eldebate.com/espana/20260808/sanchez-esconde-pactos-marruecos-sobre-avalanchas-migratorias-firmar-14-acuerdos-rabat_447120.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T02:30:00.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "¿Hay que llevar el pasaporte para ir a Italia tras la suspensión de Schengen con España? Estos son los requisitos para viajar",
+      "url": "https://www.20minutos.es/internacional/hay-que-llevar-pasaporte-para-ir-italia-tras-suspension-schengen-con-espana-estos-son-los-requisitos-para-viajar_7023745_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:45:11.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
-      "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T00:51:49.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»",
+      "url": "https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:01:43.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     },
     {
       "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
@@ -88,28 +88,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Cosas que ocurren",
-      "url": "https://www.larazon.es/espana/cosas-que-ocurren_202608086a75cf73a5690f04736c833d.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-08T01:15:26.000Z",
+      "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
+      "url": "https://www.larazon.es/espana/maillo-reclama-sanchez-que-convoque-consejo-seguridad-nacional-agujeros-negros-crisis-ceuta_202608086a76ea76a5690f04736e1003.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:36:06.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
-      "url": "https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T01:12:23.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "OKDIARIO localiza a Sánchez buceando en las aguas de Lanzarote mientras Ceuta sigue colapsada por 6.000 inmigrantes ilegales",
-      "url": "https://okdiario.com/espana/okdiario-localiza-sanchez-buceando-aguas-lanzarote-mientras-ceuta-sigue-colapsada-6-000-inmigrantes-ilegales-19145266?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:46:59.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Los OK y KO del sábado, 8 de agosto de 2026",
-      "url": "https://okdiario.com/ok-vs-ko/ok-ko-del-sabado-8-agosto-2026-19145786/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:50:17.000Z",
-      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Escondido en la playa",
@@ -130,5 +112,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 6
 }

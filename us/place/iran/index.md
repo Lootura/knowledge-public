@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,15 +14,15 @@ The inhabitants of the Chagos Islands were expelled by the British 60 years ago.
 
 Date: 2026-08-08
 
+### Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.
+
+The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
+
+Date: 2026-08-08
+
 ### Morning news brief
 
 Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.
-
-Date: 2026-08-07
-
-### A deal with Iran over the Strait of Hormuz may require a compromise from Trump
-
-To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.
 
 Date: 2026-08-07
 
@@ -50,6 +50,12 @@ There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turk
 
 Date: 2026-08-07
 
+### A deal with Iran over the Strait of Hormuz may require a compromise from Trump
+
+To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.
+
+Date: 2026-08-07
+
 ### U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%
 
 U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.
@@ -62,18 +68,11 @@ The conflict may have slowed, but not stopped, Iran’s nuclear program, officia
 
 Date: 2026-08-07
 
-### Is the Iran war at risk of becoming a quagmire?
-
-NPR's Leila Fadel talks to John Sopko, who served as Special Inspector General for Afghanistan under Obama, Trump and Biden, about the back-and-forth around bringing the Iran war to an end.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Morning news brief](https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com) — 2026-08-07T08:41:55.000Z
 - [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z
-- [A deal with Iran over the Strait of Hormuz may require a compromise from Trump](https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump?utm_source=lootura.com) — 2026-08-07T16:39:59.000Z
-- [Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.](https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com) — 2026-08-08T04:01:31.000Z
 - [Houthis Claim Attack on Yemeni Military Camp](https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com) — 2026-08-07T20:44:46.000Z
 - [Senate Passes Sanctions Bill Targeting Russia and Iran](https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com) — 2026-08-07T19:42:33.000Z
 - [Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com) — 2026-08-07T18:56:02.000Z
+- [Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.](https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com) — 2026-08-08T04:01:31.000Z

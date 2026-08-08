@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Why finance jobs are widening income inequality in cities around the world
+
+Skyscrapers in the City of London, United Kingdom. Mistervlad/Shutterstock Try to imagine the history of New York without Wall Street, or London without the City. It’s not easy. Hosting a country’s main financial markets shapes a city’s identity, raises its profile and creates jobs. But there are trade-offs. By acting.
+
+Date: 2026-08-08
 
 ### El Ibex sube un 2% en la semana de los 20.000 puntos
 
@@ -40,4 +46,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Ibex sube un 2% en la semana de los 20.000 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/07/6a75706de5fdea9d2d8b458d.html?utm_source=lootura.com) — 2026-08-07T20:15:43.000Z
+- [Why finance jobs are widening income inequality in cities around the world](https://theconversation.com/why-finance-jobs-are-widening-income-inequality-in-cities-around-the-world-287548?utm_source=lootura.com) — 2026-08-08T05:45:01.000Z

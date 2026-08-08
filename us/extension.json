@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T05:07:04.181Z",
+  "generatedAt": "2026-08-08T08:50:10.223Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|92|1786164848151",
+    "signature": "1.18.0|93|1786178259721",
     "version": "1.18.0",
-    "build": 92,
-    "latestEntityUpdatedAt": "2026-08-08T04:54:08.151Z"
+    "build": 93,
+    "latestEntityUpdatedAt": "2026-08-08T08:37:39.721Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "url": "https://atlas.lootura.com/us/organization/supreme-court",
       "path": "/us/organization/supreme-court",
-      "updatedAt": "2026-08-08T04:54:08.151Z",
-      "score": 1738,
-      "sourceCount": 35,
+      "updatedAt": "2026-08-08T08:37:39.721Z",
+      "score": 1722,
+      "sourceCount": 36,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,8 +34,8 @@
         "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-08T04:54:08.151Z",
-        "score": 1735,
+        "updatedAt": "2026-08-08T08:37:39.721Z",
+        "score": 1719,
         "sourceCount": 109,
         "isBreaking": false,
         "isPinned": false
@@ -44,12 +44,12 @@
         "id": "usa-todd-blanche",
         "name": "Todd Blanche",
         "type": "person",
-        "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
+        "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
         "url": "https://atlas.lootura.com/us/person/todd-blanche",
         "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-08T04:54:08.151Z",
+        "updatedAt": "2026-08-08T08:37:39.721Z",
         "score": 1704,
-        "sourceCount": 50,
+        "sourceCount": 52,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
         "url": "https://atlas.lootura.com/us/person/lisa-cook",
         "path": "/us/person/lisa-cook",
-        "updatedAt": "2026-08-08T04:54:08.151Z",
-        "score": 1699,
+        "updatedAt": "2026-08-08T08:37:39.721Z",
+        "score": 1683,
         "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump announces $180 million to boost mining education",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-08T04:54:08.151Z",
-        "score": 1678,
-        "sourceCount": 630,
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-08T08:37:39.721Z",
+        "score": 1674,
+        "sourceCount": 342,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 127
+    "publicEntityCount": 128
   }
 }

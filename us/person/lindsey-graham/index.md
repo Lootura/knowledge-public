@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-20
 ## Sources
 
 - [Senate passes Russia sanctions bill that was long championed by Lindsey Graham](https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com) — 2026-08-07T17:33:40.000Z
-- [Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham](https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com) — 2026-08-07T18:05:23.000Z

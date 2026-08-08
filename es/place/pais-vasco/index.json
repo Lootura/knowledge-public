@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "El refugio de Anne Igartiburu en el País Vasco perfecto para verano",
+      "summary": "En los últimos tiempos la parrilla de TVE ha experimentado diversos cambios, aunque ahí se mantiene Anne Igartiburu , en la cadena pública desde 1997. La presentadora vasca, que conduce actualmente 'D Corazón', el espacio de crónica social, junto a Javi de Hoyos, está a las puertas de cumplir tres décadas en Televisión.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía",
       "summary": "Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.",
@@ -67,14 +72,15 @@
       "title": "El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi",
       "summary": "La Ertzaintza «se tomó muy en serio» los mensajes intimidatorios y desplegó «operativos preventivos» en los centros escolares.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Euskadi reforzará la prevención de la soledad no deseada a través de betiON",
-      "summary": "El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
+    {
+      "title": "El refugio de Anne Igartiburu en el País Vasco perfecto para verano",
+      "url": "https://www.abc.es/gente/refugio-anne-igartiburu-pais-vasco-perfecto-verano-pueblo-20260808223637-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:00:01.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi",
       "url": "https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
@@ -58,18 +63,13 @@
       "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
       "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK",
-      "summary": "Wildfires west of Athens jumped containment lines, a day after a midair collision between two helicopters killed two crew members.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:38:03.786Z",
+      "publishedAt": "2026-08-08T08:37:43.756Z",
       "sourceId": "lootura-us-nature"
     }
   ],

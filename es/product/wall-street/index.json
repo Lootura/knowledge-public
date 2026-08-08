@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Why finance jobs are widening income inequality in cities around the world",
+      "summary": "Skyscrapers in the City of London, United Kingdom. Mistervlad/Shutterstock Try to imagine the history of New York without Wall Street, or London without the City. It’s not easy. Hosting a country’s main financial markets shapes a city’s identity, raises its profile and creates jobs. But there are trade-offs. By acting.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El Ibex sube un 2% en la semana de los 20.000 puntos",
       "summary": "El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos histórico.",
@@ -41,10 +46,10 @@
   ],
   "sources": [
     {
-      "title": "El Ibex sube un 2% en la semana de los 20.000 puntos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/07/6a75706de5fdea9d2d8b458d.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:15:43.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Why finance jobs are widening income inequality in cities around the world",
+      "url": "https://theconversation.com/why-finance-jobs-are-widening-income-inequality-in-cities-around-the-world-287548?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T05:45:01.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
   "evidenceCount": 1

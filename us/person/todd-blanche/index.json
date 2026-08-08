@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
+    {
+      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).",
@@ -58,14 +63,15 @@
       "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
       "summary": "NPR's Steve Inskeep speaks with Sen. Alex Padilla, D-Calif., about the Senate Judiciary Committee's anticipated vote on Todd Blanche's nomination for attorney general.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
-      "summary": "Todd Blanche’s nomination now advances to the Senate floor, where he is expected to be confirmed, even though several Republicans have not yet committed to supporting him.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
+    {
+      "title": "The Senate confirms Todd Blanche, Trump's former defense lawyer, as attorney general",
+      "url": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:35:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com",
@@ -77,7 +83,13 @@
       "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:45:40.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:34:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

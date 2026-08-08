@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’
 
 Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.
+
+Date: 2026-08-08
+
+### Schumer caves, hands Republicans shutdown win after months of uncertainty
+
+The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.
 
 Date: 2026-08-08
 
@@ -62,13 +68,8 @@ The move brings the Democratic Congressional Campaign Committee's list of target
 
 Date: 2026-08-05
 
-### Virginia Democrats pick establishment nominees for 2 House seats they hope to flip
-
-In Virginia, Democratic primary voters have a history of rewarding moderate candidates, a trend that continued on Tuesday.
-
-Date: 2026-08-05
-
 ## Sources
 
+- [Schumer caves, hands Republicans shutdown win after months of uncertainty](https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty?utm_source=lootura.com) — 2026-08-08T08:01:22.000Z
 - [Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’](https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com) — 2026-08-08T02:10:38.000Z
 - [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z

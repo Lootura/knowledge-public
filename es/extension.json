@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T05:07:08.393Z",
+  "generatedAt": "2026-08-08T08:50:14.260Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|92|1786164827542",
+    "signature": "1.18.0|93|1786178228695",
     "version": "1.18.0",
-    "build": 92,
-    "latestEntityUpdatedAt": "2026-08-08T04:53:47.542Z"
+    "build": 93,
+    "latestEntityUpdatedAt": "2026-08-08T08:37:08.695Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-pedro-sanchez",
-      "name": "Pedro Sánchez",
-      "type": "person",
-      "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
-      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-      "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-08T04:53:47.542Z",
-      "score": 1714,
-      "sourceCount": 340,
+      "id": "es-colombia",
+      "name": "República de Colombia",
+      "type": "place",
+      "title": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
+      "url": "https://atlas.lootura.com/es/place/colombia",
+      "path": "/es/place/colombia",
+      "updatedAt": "2026-08-08T08:37:08.695Z",
+      "score": 1670,
+      "sourceCount": 14,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-colombia",
-        "name": "República de Colombia",
-        "type": "place",
-        "title": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
-        "url": "https://atlas.lootura.com/es/place/colombia",
-        "path": "/es/place/colombia",
-        "updatedAt": "2026-08-08T04:53:47.542Z",
-        "score": 1690,
-        "sourceCount": 14,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-08-08T04:53:47.542Z",
-        "score": 1684,
-        "sourceCount": 898,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-08-08T04:53:47.542Z",
-        "score": 1657,
-        "sourceCount": 226,
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-08T08:37:08.695Z",
+        "score": 1647,
+        "sourceCount": 332,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +47,39 @@
         "title": "De origen germánico y muy popular en la Edad Media: el nombre de niño que vuelve a estar de moda en Madrid",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-08-08T04:53:47.542Z",
-        "score": 1633,
-        "sourceCount": 632,
+        "updatedAt": "2026-08-08T08:37:08.695Z",
+        "score": 1632,
+        "sourceCount": 638,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-08-08T08:37:08.695Z",
+        "score": 1627,
+        "sourceCount": 905,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-08-08T08:37:08.695Z",
+        "score": 1619,
+        "sourceCount": 226,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 173
+    "publicEntityCount": 175
   }
 }

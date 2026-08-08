@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -103,13 +103,7 @@
       "url": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T01:26:06.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Los OK y KO del sábado, 8 de agosto de 2026",
-      "url": "https://okdiario.com/ok-vs-ko/ok-ko-del-sabado-8-agosto-2026-19145786/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:50:17.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

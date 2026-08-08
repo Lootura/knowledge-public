@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-08T08:37:39.721Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -23,13 +23,13 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
-      "date": "2026-08-07"
+      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "summary": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
+      "date": "2026-08-08"
     },
     {
-      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
+      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
       "date": "2026-08-07"
     },
     {
@@ -53,6 +53,11 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
@@ -60,11 +65,6 @@
     {
       "title": "Senate finalizes deal on Russia sanctions",
       "summary": "The Senate is back in session today after senators made progress on a voting deal to go on August recess — but didn’t fully clinch it. That means a rare Friday session, when the Senate will finish its saga on Russia sanctions after wrestling with the issue for more than a year. First, though, Sen. Rand Paul, R-Ky., wil.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
-      "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
     }
   ],
@@ -80,12 +80,6 @@
       "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
       "publishedAt": "2026-08-07T17:33:40.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-      "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:05:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Blanche on track for narrow Senate confirmation as attorney general",
@@ -110,6 +104,12 @@
       "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:52:20.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:01:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 7

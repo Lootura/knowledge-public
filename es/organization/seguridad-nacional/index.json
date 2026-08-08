@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/seguridad-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/seguridad-nacional/index.json",
   "description": "Sigue la actividad de Seguridad nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T02:22:17.328Z",
+  "updatedAt": "2026-08-08T08:37:08.695Z",
   "aliases": [
     "natsec"
   ],
   "changes": [
+    {
+      "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
+      "summary": "Exige un \"giro estratégico\" en las relaciones con Marruecos: la senda del \"apaciguamiento\" es un \"fracaso\".",
+      "date": "2026-08-08"
+    },
     {
       "title": "En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional",
       "summary": "Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número de inmigrantes que entró a Ceuta; Moncloa abre una crisis en Seguridad Nacional : nadie quiere sustituir a la funcionaria destituida; y un guardia civil mata a su expareja , t.",
@@ -57,13 +62,15 @@
       "title": "Moncloa fulmina a la funcionaria de Seguridad Nacional que dio el dato de las llegadas a Ceuta",
       "summary": "El Ministerio de Presidencia ha procedido al cese fulminante de la responsable de comunicación del Departamento de Seguridad Nacional (DSN), según ha adelantado El País y confirman fuentes militares a THE OBJECTIVE . La destitución se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
-      "summary": "El Gobierno ha cesado de su cargo a una funcionaria del departamento de Seguridad Nacional tras publicar el pasado viernes la cifra de unas 49.000 personas que habrían entrado en Ceuta la pasada semana procedentes de Marruecos. Seguir leyendo...",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
+      "url": "https://www.larazon.es/espana/maillo-reclama-sanchez-que-convoque-consejo-seguridad-nacional-agujeros-negros-crisis-ceuta_202608086a76ea76a5690f04736e1003.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:36:06.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

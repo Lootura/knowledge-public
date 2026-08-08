@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia
+
+Este domingo se cumple un mes del inicio del incendio forestal de Los Gallardos (Almería) , que dejó 14 muertos y 5.200 hectáreas quemadas, una tragedia ante la que la sociedad civil ha decidido dar un paso al frente con la creación del Grupo de Trabajo sobre el fuego en Bédar para ayudar a los afectados. Su objetivo e.
+
+Date: 2026-08-08
 
 ### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
 
@@ -62,12 +68,6 @@ La portavoz de Vox en el Congreso, Pepa Millán , ha acusado a los presidentes d
 
 Date: 2026-07-14
 
-### Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox
-
-Juanma Moreno anunció una "revolución verde" cuando logró su mayoría absoluta en 2022. Puso el foco en el impulso a las energías renovables y creó una consejería de Sostenibilidad que acabó asociando a la portavocía en sus primeros dos años. Una legislatura después, el pacto con Vox para seguir como inquilino en el pal.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia](https://www.larazon.es/andalucia/victimas-incendio-gallardos-siguen-pidiendo-ayuda-mes-despues-tragedia_202608086a76e72ba046ad6ebca5430d.html?utm_source=lootura.com) — 2026-08-08T08:22:03.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El refugio de Anne Igartiburu en el País Vasco perfecto para verano
+
+En los últimos tiempos la parrilla de TVE ha experimentado diversos cambios, aunque ahí se mantiene Anne Igartiburu , en la cadena pública desde 1997. La presentadora vasca, que conduce actualmente 'D Corazón', el espacio de crónica social, junto a Javi de Hoyos, está a las puertas de cumplir tres décadas en Televisión.
+
+Date: 2026-08-08
 
 ### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
 
@@ -62,13 +68,8 @@ La Ertzaintza «se tomó muy en serio» los mensajes intimidatorios y desplegó 
 
 Date: 2026-08-03
 
-### Euskadi reforzará la prevención de la soledad no deseada a través de betiON
-
-El Gobierno Vasco comenzará a desarrollar planes personalizados con 100 personas usuarias del servicio público de teleasistencia para abordar estas situaciones y ofrecerá apoyo psicológico y acompañamiento a 1.500 familiares cuidadores inicialmente.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [El refugio de Anne Igartiburu en el País Vasco perfecto para verano](https://www.abc.es/gente/refugio-anne-igartiburu-pais-vasco-perfecto-verano-pueblo-20260808223637-nt.html?utm_source=lootura.com) — 2026-08-08T08:00:01.000Z
 - [Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:32:46.000Z
 - [Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía](https://www.elcorreo.com/alava/araba/euskadi-comprara-forrajes-forma-conjunta-ante-escasez-pastos-sequia-20260807143200-nt_amp.html?utm_source=lootura.com) — 2026-08-07T12:44:45.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-08T08:37:08.695Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera
+
+Un varón de 20 años ha resultado gravemente herido tras una reyerta ocurrida pocos minutos antes de la medianoche en la calle Amor Hermoso , en el distrito madrileño de Usera , según han señalado fuentes de Emergencias Madrid a Europa Press . La víctima sufría una lesión en una pierna que provocó una hemorragia profusa.
+
+Date: 2026-08-08
 
 ### Baleares cesa a la directora general de Costas, que denunció un intento de soborno
 
@@ -46,4 +52,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera](https://www.elconfidencial.com/espana/madrid/2026-08-08/reyerta-usera-joven-herido-grave-1tps_4402945/?utm_source=lootura.com) — 2026-08-08T07:16:00.000Z

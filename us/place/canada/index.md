@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T08:37:39.721Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### ‘I couldn’t breathe’: the deadly health burden of wildfire smoke
+
+Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canada’s biggest city turn an “almost post-apocalyptic” orange as it filled with light-s.
+
+Date: 2026-08-08
 
 ### Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership
 
@@ -62,13 +68,6 @@ Despite threats from President Trump, the overall average weighted tariff on Chi
 
 Date: 2026-07-24
 
-### Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs
-
-Ontario Premier Doug Ford spoke with CBS News senior White House and political correspondent Ed O'Keefe about the upcoming opening of the Gordie Howe Bridge and President Trump's new tariffs on Canada. "We didn't start this trade war. President Trump decided to go after his close ally and friend, his number one custome.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Climate change created conditions for Canada fires, scientists say, as Trump blames mismanagement](https://www.pbs.org/newshour/world/climate-change-created-conditions-for-canada-fires-scientists-say-as-trump-blames-mismanagement?utm_source=lootura.com) — 2026-08-07T17:08:42.000Z
-- [Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership](https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com) — 2026-08-07T17:47:42.000Z
+- [‘I couldn’t breathe’: the deadly health burden of wildfire smoke](https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts?utm_source=lootura.com) — 2026-08-08T05:00:37.000Z
