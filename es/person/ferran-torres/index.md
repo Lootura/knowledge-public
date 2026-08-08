@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Ferran Torres y Enzo Fernández coinciden en su capricho más exclusivo: un reloj de más de 50.000 €](https://okdiario.com/cool/lifestyle/ferran-torres-enzo-fernandez-coinciden-capricho-mas-exclusivo-reloj-mas-50-000-19147738?utm_source=lootura.com) — 2026-08-08T11:39:13.000Z
-- [Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z
+No public source links.

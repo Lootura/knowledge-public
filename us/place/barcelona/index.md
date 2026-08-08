@@ -3,10 +3,16 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-03T14:33:52.036Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes
+
+### Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68
+
+Jorge Messi served as his son's agent and accompanied him to Europe when he signed with Barcelona as a teenager.
+
+Date: 2026-08-08
 
 ### Product availability changed in Europe
 
@@ -34,4 +40,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68](https://www.cbsnews.com/news/jorge-messi-father-of-argentina-great-lionel-messi-dies-at-68/?utm_source=lootura.com) — 2026-08-08T16:06:21.000Z

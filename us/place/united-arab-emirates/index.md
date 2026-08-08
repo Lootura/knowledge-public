@@ -3,7 +3,7 @@
 > Follow United Arab Emirates, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/united-arab-emirates
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [Iran says deal on Strait of Hormuz is close but will not open the waterway by itself](https://www.nbcnews.com/world/iran/iran-says-deal-strait-hormuz-close-will-not-open-waterway-rcna591476?utm_source=lootura.com) — 2026-08-08T13:17:41.000Z

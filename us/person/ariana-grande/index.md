@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Is it OK to talk about Ariana Grande’s body? There is no right answer](https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders?utm_source=lootura.com) — 2026-08-08T09:00:43.000Z
+No public source links.

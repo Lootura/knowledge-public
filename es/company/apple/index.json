@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa",
+      "summary": "Apple está trabajando en una nueva función del iPhone llamada \"Copiar a Windows\" , que podría estar disponible el próximo año. Como te habrás dado cuenta por su nombre, se trata de una característica pensada para compartir el portapapeles de un móvil con iOS directamente con un PC con el sistema operativo de Microsoft,.",
+      "date": "2026-08-08"
+    },
     {
       "title": "La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una \"maldición\" de la fantasía",
       "summary": "La adaptación de Mistborn continúa sumando avances que reflejan el compromiso de Apple TV con una de las sagas de fantasía más populares.",
@@ -58,13 +63,15 @@
       "title": "Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos",
       "summary": "Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes de IA. Su nombre e.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo",
-      "summary": "Han pasado tres largos años, pero la temporada 4 de Ted Lasso por fin ha llegado. Durante muchos meses, tanto Apple TV como el resto del equipo se mostraron favorables a continuar con la exitosa serie de comedia y fútbol. Pero la condición indispensable era que Jason Sudeikis , su creador y protagonista, encontrase la.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa",
+      "url": "https://hipertextual.com/apple/iphone-copiar-a-windows-funcion-a-ios/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T16:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

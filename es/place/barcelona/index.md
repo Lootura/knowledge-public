@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia
-
-Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.
-
-Date: 2026-08-08
-
 ### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
 
 Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
+
+Date: 2026-08-08
+
+### El Barcelona cambia el amistoso cancelado en Marruecos por uno en Suiza
+
+El Barcelona ya tiene partido amistoso para sustituir al que canceló en Marruecos tras la invasión de Ceuta . El conjunto azulgrana jugará ante el Basilea , en territorio suizo, el próximo 16 de agosto, a las 16:30 horas, en lugar de hacerlo un día antes, el sábado 15, en Tánger. El club catalán descartó jugar en Marru.
+
+Date: 2026-08-08
+
+### Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia
+
+Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.
 
 Date: 2026-08-08
 
@@ -62,14 +68,8 @@ Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunt
 
 Date: 2026-08-07
 
-### El Barcelona entra de lleno en la puja por fichar a Rodri
-
-El Barcelona ha ganado terreno en las últimas horas en la carrera por Rodri Hernández . Fuentes del entorno del club señalan que el conjunto azulgrana tiene ahora el camino despejado para negociar directamente con el Manchester City por el centrocampista español, algo que no ocurría ni el miércoles ni la mañana de ayer.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia](https://www.elconfidencial.com/espana/cataluna/2026-08-08/sagrada-familia-lluis-bonet-gaudi-1tps_4402971/?utm_source=lootura.com) — 2026-08-08T08:26:00.000Z
+- [Los controles de viajeros de Italia empezaron sólo en Madrid y Barcelona y se han ido extendiendo a cinco aeropuertos](https://amp.elmundo.es/espana/2026/08/08/6a773461fdddffcf728b457e.html?utm_source=lootura.com) — 2026-08-08T13:55:13.000Z
 - [¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?](https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com) — 2026-08-08T12:30:13.000Z
-- [La prensa inglesa se burla del Barcelona por su primera oferta por Rodri: «Métetelos por donde te quepa»](https://okdiario.com/deportes/prensa-inglesa-burla-del-barcelona-primera-oferta-rodri-metetelos-donde-te-quepa-19147744?utm_source=lootura.com) — 2026-08-08T11:55:24.000Z
+- [El Barcelona cambia el amistoso cancelado en Marruecos por uno en Suiza](https://okdiario.com/deportes/barcelona-cambia-amistoso-cancelado-marruecos-uno-suiza-19147888?utm_source=lootura.com) — 2026-08-08T15:39:37.000Z

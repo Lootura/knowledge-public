@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -14,15 +14,39 @@ The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclose
 
 Date: 2026-08-08
 
-### Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.
-
-The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
-
-Date: 2026-08-08
-
 ### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
 
 The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
+
+Date: 2026-08-08
+
+### These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires
+
+As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable "super scooper" amphibious aircraft.
+
+Date: 2026-08-08
+
+### How winter canola could profit Illinois farmers, improve sustainability
+
+A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-soy rotation in the U.S. Midwest.
+
+Date: 2026-08-08
+
+### Why Rhode Island may oust a sitting governor over a bridge
+
+Rhode Island Gov. Dan McKee has a month to turn around primary challenger Helena Foulkes’ 20-point lead or become the first sitting U.S. governor to lose a primary in eight years. The race represents another crest in the world’s post-pandemic anti-incumbent wave, which has transcended ideological lines as voters expres.
+
+Date: 2026-08-08
+
+### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
+
+The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
+
+Date: 2026-08-08
+
+### Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.
+
+The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
 
 Date: 2026-08-08
 
@@ -38,45 +62,19 @@ The inhabitants of the Chagos Islands were expelled by the British 60 years ago.
 
 Date: 2026-08-08
 
-### Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market
+### Advocates for former U.S. Marine held for years in Russia say he is near death
 
-U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department. (Image credit: Joe Raedle).
-
-Date: 2026-08-07
-
-### Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On
-
-As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
-
-Date: 2026-08-07
-
-### Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition
-
-Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.
-
-Date: 2026-08-07
-
-### U.S. loses jobs while unemployment rate drops
-
-A jobs report came in weaker than expected as stocks hit a record high. NBC News’ Gabe Gutierrez reports.
-
-Date: 2026-08-07
-
-### Blanche on track for narrow Senate confirmation as attorney general
-
-At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.
+A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.
 
 Date: 2026-08-07
 
 ## Sources
 
 - [Pentagon revokes security clearance of former Air Force chief](https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com) — 2026-08-08T03:31:05.000Z
-- [U.S. loses jobs while unemployment rate drops](https://www.nbcnews.com/nightly-news/video/-u-s-loses-jobs-while-unemployment-rate-drops-267969605549?utm_source=lootura.com) — 2026-08-07T22:42:43.000Z
+- [These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires](https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com) — 2026-08-08T15:39:11.000Z
 - [Senate confirms Todd Blanche as attorney general after weeks of uncertainty](https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com) — 2026-08-08T08:33:50.000Z
-- [Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market](https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve?utm_source=lootura.com) — 2026-08-07T13:10:10.000Z
-- [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z
 - [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
-- [What the July jobs report reveals about the strength of the economy](https://www.pbs.org/newshour/show/what-the-july-jobs-report-reveals-about-the-strength-of-the-economy?utm_source=lootura.com) — 2026-08-07T22:55:24.000Z
-- [How Lahaina is recovering 3 years after the devastating fires](https://www.pbs.org/newshour/show/why-so-many-in-maui-are-still-displaced-unable-to-rebuild-3-years-after-wildfires?utm_source=lootura.com) — 2026-08-07T22:25:06.000Z
-- [Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition](https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com) — 2026-08-07T18:52:20.000Z
-- [Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com) — 2026-08-07T18:56:02.000Z
+- [How winter canola could profit Illinois farmers, improve sustainability](https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html?utm_source=lootura.com) — 2026-08-08T14:40:01.000Z
+- [Why Rhode Island may oust a sitting governor over a bridge](https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024?utm_source=lootura.com) — 2026-08-08T14:00:38.000Z
+- [U.S. Squeezes Cuba Even as It Searches for a New Regime Leader](https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html?utm_source=lootura.com) — 2026-08-07T22:35:20.000Z
+- [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com) — 2026-08-08T16:12:26.000Z

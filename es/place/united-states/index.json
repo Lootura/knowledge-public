@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,16 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
+      "summary": "Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
+      "summary": "El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel",
       "summary": "Por primera vez en la historia de Estados Unidos, un musulmán tiene opciones reales de llegar al Senado. Abdulrahman Mohamed el Sayed, candidato demócrata por Míchigan, de 41 años, ha construido su campaña sobre una crítica frontal, íntegra a Israel. Acusa a su Gobierno de cometer un genocidio en Gaza, propone poner fi.",
@@ -81,25 +91,21 @@
       "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
       "summary": "El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010",
-      "summary": "Estados Unidos destruyó 23.000 puestos de trabajo durante el pasado mes de julio, según los datos difundidos este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas inglesas). Se trata del peor mes de julio para el empleo desde 2010, según los registros oficiales. El dato enciende las alarmas sobre la.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
-      "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel",
-      "url": "https://www.abc.es/internacional/auge-politicos-musulmanes-eeuu-acelera-giro-israel-20260806010615-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:11:24.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
+      "url": "https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T16:02:05.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
+      "url": "https://theobjective.com/internacional/2026-08-08/abogado-personal-trump-todd-blanche-fiscal-general-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T13:32:49.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

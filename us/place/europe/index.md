@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -32,6 +32,24 @@ Red high-temperature warnings remained in effect for much of southern and wester
 
 Date: 2026-08-08
 
+### Europeans face energy crisis as heat wave brings wildfires and drought
+
+The Danube River hasn't been this low in over 200 years. Wildfires are scorching multiple countries in Europe. Less water means less nuclear energy generation, bringing an energy crisis. Ramy Inocencio details Europe's heat wave struggles.
+
+Date: 2026-08-08
+
+### Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68
+
+Jorge Messi served as his son's agent and accompanied him to Europe when he signed with Barcelona as a teenager.
+
+Date: 2026-08-08
+
+### These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires
+
+As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable "super scooper" amphibious aircraft.
+
+Date: 2026-08-08
+
 ### Heatwaves have killed millions. Here’s how scientists tally lives lost
 
 Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
@@ -50,27 +68,12 @@ Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two ver
 
 Date: 2026-08-07
 
-### Extreme heat breaks temperature records in central and eastern Europe
-
-Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plants Europe’s dry riverbeds and scorched earth – in pictures Temperature records have been broken in several countries across central and eastern Europe as the extreme weather that has caused wildfires and droug.
-
-Date: 2026-08-07
-
-### Funding milestone detected
-
-Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02389-5 Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.
-
-Date: 2026-08-04
-
-### Europe heat wave fuels drought, fires and energy fears
-
-Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires. (Image credit: Darko Vojinovic).
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-08T12:42:01.947Z
+- [Europeans face energy crisis as heat wave brings wildfires and drought](https://www.cbsnews.com/video/europeans-face-energy-crisis-as-heat-wave-brings-wildfires-and-drought/?utm_source=lootura.com) — 2026-08-08T15:59:14.000Z
+- [Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68](https://www.cbsnews.com/news/jorge-messi-father-of-argentina-great-lionel-messi-dies-at-68/?utm_source=lootura.com) — 2026-08-08T16:06:21.000Z
+- [These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires](https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com) — 2026-08-08T15:39:11.000Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-08T16:30:15.385Z
 - [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z
 - [The Bond effect? How MI6 fascinates spy watchers around the world](https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
 - [Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse](https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

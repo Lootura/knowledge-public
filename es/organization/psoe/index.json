@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,13 +22,13 @@
   ],
   "changes": [
     {
-      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
-      "summary": "La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una \"confrontación partidista, alejada de la realidad\" con \"ruido político\" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.",
+      "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
+      "summary": "El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.",
       "date": "2026-08-08"
     },
     {
-      "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
-      "summary": "El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.",
+      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
+      "summary": "La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una \"confrontación partidista, alejada de la realidad\" con \"ruido político\" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.",
       "date": "2026-08-08"
     },
     {
@@ -74,17 +74,11 @@
   ],
   "sources": [
     {
-      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
-      "url": "https://www.larazon.es/andalucia/junta-lamenta-que-psoe-convierta-tragedia-gallardos-ruido-politico_202608086a771e2071b42a0b5de3bdde.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:16:33.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
       "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
       "url": "https://theobjective.com/espana/politica/2026-08-08/psoe-moreno-familias-victimas-incendio-gallardos/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T10:15:44.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

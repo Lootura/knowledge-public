@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande
 
 Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.
+
+Date: 2026-08-08
+
+### Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián
+
+El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.
 
 Date: 2026-08-08
 
@@ -62,13 +68,7 @@ El Juez Único les ha incoado por su decisión de negarse a participar en una re
 
 Date: 2026-08-03
 
-### El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»
-
-La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»](https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com) — 2026-08-07T15:03:20.000Z
+- [Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián](https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:03:49.000Z
 - [Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande](https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com) — 2026-08-08T12:05:18.000Z

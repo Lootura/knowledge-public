@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Colombia's new president reflects Latin America's right-wing shift](https://www.pbs.org/newshour/show/colombias-new-president-reflects-latin-americas-right-wing-shift?utm_source=lootura.com) — 2026-08-07T22:35:21.000Z
+No public source links.

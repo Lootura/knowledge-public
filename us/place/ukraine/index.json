@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
-      "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
-      "summary": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
+      "title": "Child among 4 people killed in Russian attacks on Ukraine",
+      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.",
       "date": "2026-08-08"
     },
     {
-      "title": "Child among 4 people killed in Russian attacks on Ukraine",
-      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.",
+      "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+      "summary": "Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
+      "summary": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
       "date": "2026-08-08"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?",
       "summary": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -76,23 +76,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+      "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com",
       "publishedAt": "2026-08-08T11:00:44.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T04:01:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T04:01:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

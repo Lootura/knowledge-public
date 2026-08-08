@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda](https://theobjective.com/lifestyle/moda/2026-08-08/nadie-habla-del-verdadero-secreto-de-lamine-yamal-asi-se-esta-convirtiendo-en-el-nuevo-rey-de-la-moda/?amp=&utm_source=lootura.com) — 2026-08-08T04:30:00.000Z
+No public source links.

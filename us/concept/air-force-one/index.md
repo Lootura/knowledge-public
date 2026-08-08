@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes

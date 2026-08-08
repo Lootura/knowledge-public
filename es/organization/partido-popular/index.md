@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
+
+Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
+
+Date: 2026-08-08
 
 ### Podcast | Entrevista a Esther Martínez
 
@@ -62,12 +68,7 @@ Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel 
 
 Date: 2026-08-07
 
-### Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal
-
-La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callejero municipal. El equipo de Gobierno del PP plantea modificar el nombre de la Avenida San Miguel, una de las principales de la localidad, para pasar a llamarse Avenida Evaristo Domínguez , que es el actual alcalde. Domínguez ha sido el único.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
+- [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z

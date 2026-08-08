@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”
+
+Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.
+
+Date: 2026-08-08
+
+### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
+
+El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.
+
+Date: 2026-08-08
 
 ### El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel
 
@@ -56,18 +68,7 @@ El Departamento de Estado de Estados Unidos defendió este jueves «inequívocam
 
 Date: 2026-08-07
 
-### Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010
-
-Estados Unidos destruyó 23.000 puestos de trabajo durante el pasado mes de julio, según los datos difundidos este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas inglesas). Se trata del peor mes de julio para el empleo desde 2010, según los registros oficiales. El dato enciende las alarmas sobre la.
-
-Date: 2026-08-07
-
-### El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos
-
-El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel](https://www.abc.es/internacional/auge-politicos-musulmanes-eeuu-acelera-giro-israel-20260806010615-nt.html?utm_source=lootura.com) — 2026-08-08T12:11:24.000Z
+- [Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”](https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com) — 2026-08-08T16:02:05.000Z
+- [El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU](https://theobjective.com/internacional/2026-08-08/abogado-personal-trump-todd-blanche-fiscal-general-eeuu/?utm_source=lootura.com) — 2026-08-08T13:32:49.000Z

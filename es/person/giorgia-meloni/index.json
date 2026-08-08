@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
@@ -28,17 +28,11 @@
   ],
   "sources": [
     {
-      "title": "El choque entre Sánchez y Meloni se recrudece: España inicia los controles a los viajeros procedentes de Italia",
-      "url": "https://www.elconfidencial.com/espana/2026-08-08/crisis-ceuta-escala-europa-meloni-italia-espana-controles_4403054/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:20:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
       "url": "https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

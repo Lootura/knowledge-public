@@ -3,20 +3,26 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
 
-### De la Espriella, nuevo presidente de Colombia, tras tomar posesión: "Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad"
-
-El nuevo presidente promete una "patria milagro" capaz de superar la era Petro Leer.
-
-Date: 2026-08-08
-
 ### El giro de Colombia
 
 Colombia se suma al giro a la derecha que está cambiando gobiernos uno detrás de otro en el continente americano. Abelardo de la Espriella, un abogado sin trayectoria política previa, es desde este viernes el nuevo presidente. Sucede en el cargo a Gustavo Petro, que ha sido el primer presidente de izquierdas de la demo.
+
+Date: 2026-08-08
+
+### Felipe VI y Milei coinciden en la toma de posesión de De la Espriella y protagonizan un singular momento
+
+El Rey pudo saludar y conversar con el presidente argentino en Cali (Colombia) Leer.
+
+Date: 2026-08-08
+
+### De la Espriella, nuevo presidente de Colombia, tras tomar posesión: "Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad"
+
+El nuevo presidente promete una "patria milagro" capaz de superar la era Petro Leer.
 
 Date: 2026-08-08
 
@@ -29,12 +35,6 @@ Date: 2026-08-08
 ### Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares
 
 Cali amaneció este viernes vigilada por más de 11.000 uniformados y con las calles engalanadas con banderas de Colombia. La tercera ciudad más poblada del país se vistió de fiesta para la toma de posesión de Abelardo de la Espriella como presidente , un hito sin precedentes: por primera vez, un mandatario jura el cargo.
-
-Date: 2026-08-08
-
-### Felipe VI y Milei coinciden en la toma de posesión de De la Espriella y protagonizan un singular momento
-
-El Rey pudo saludar y conversar con el presidente argentino en Cali (Colombia) Leer.
 
 Date: 2026-08-08
 
@@ -72,7 +72,4 @@ Date: 2026-08-07
 
 - [La oposición recibe a De la Espriella como una «amenaza a la democracia»](https://www.elcorreo.com/internacional/america-latina/oposicion-recibe-espriella-amenaza-democracia-20260807215317-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T19:53:18.000Z
 - [Felipe VI y Milei coinciden en la toma de posesión de De la Espriella y protagonizan un singular momento](https://www.elmundo.es/internacional/2026/08/08/6a77070ae9cf4a4e4c8b4585.html?utm_source=lootura.com) — 2026-08-08T10:54:46.000Z
-- [De la Espriella, nuevo presidente de Colombia, tras tomar posesión: "Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad"](https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html?utm_source=lootura.com) — 2026-08-08T01:06:42.000Z
 - [El giro de Colombia](https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
-- [Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”](https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html?utm_source=lootura.com) — 2026-08-08T01:45:10.000Z
-- [Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares](https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html?utm_source=lootura.com) — 2026-08-08T01:26:06.000Z

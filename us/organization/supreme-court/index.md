@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -14,15 +14,15 @@ The lack of visible raids aggressively targeting Haitians who lost temporary sta
 
 Date: 2026-08-08
 
+### What to know about Trump's new attempt to limit birthright citizenship
+
+A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with "adjustments" keeping the decision in mind, President Donald Trump said.
+
+Date: 2026-08-08
+
 ### Trump renews push to fire Fed Governor Lisa Cook
 
 Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).
-
-Date: 2026-08-07
-
-### Another court blocks White House ballroom work, teeing up a Supreme Court review
-
-A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).
 
 Date: 2026-08-07
 
@@ -35,6 +35,12 @@ Date: 2026-08-07
 ### Appeals Court Upholds Block on Trump Ballroom Construction
 
 A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
+
+Date: 2026-08-07
+
+### Another court blocks White House ballroom work, teeing up a Supreme Court review
+
+A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).
 
 Date: 2026-08-07
 
@@ -62,16 +68,10 @@ Companies receiving billions in refunds for U.S. tariffs struck down by the Supr
 
 Date: 2026-08-07
 
-### Appeals Court Upholds Block on Trump Ballroom Construction
-
-A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
-- [Another court blocks White House ballroom work, teeing up a Supreme Court review](https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com) — 2026-08-07T18:10:37.000Z
+- [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
 - [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:27.000Z
 - [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
 - [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:15.000Z

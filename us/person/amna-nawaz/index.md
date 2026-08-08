@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [What the July jobs report reveals about the strength of the economy](https://www.pbs.org/newshour/show/what-the-july-jobs-report-reveals-about-the-strength-of-the-economy?utm_source=lootura.com) — 2026-08-07T22:55:24.000Z
+No public source links.

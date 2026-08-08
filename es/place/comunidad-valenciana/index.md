@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z
+No public source links.

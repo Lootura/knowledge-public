@@ -46,4 +46,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Why finance jobs are widening income inequality in cities around the world](https://theconversation.com/why-finance-jobs-are-widening-income-inequality-in-cities-around-the-world-287548?utm_source=lootura.com) — 2026-08-08T05:45:01.000Z
+No public source links.

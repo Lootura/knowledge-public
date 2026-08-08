@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "CA",
     "CAN",
@@ -18,6 +18,11 @@
     {
       "title": "Canada tries to adapt to a future of wildfires",
       "summary": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
+      "summary": "The Bald Range wildfire was first reported on Friday evening.",
       "date": "2026-08-08"
     },
     {
@@ -59,14 +64,15 @@
       "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
       "summary": "Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
+      "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T16:08:46.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Canada tries to adapt to a future of wildfires",
       "url": "https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com",
@@ -74,5 +80,5 @@
       "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

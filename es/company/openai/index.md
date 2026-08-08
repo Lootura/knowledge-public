@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»](https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com) — 2026-08-08T11:47:34.000Z
+No public source links.

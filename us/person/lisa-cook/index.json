@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.json",
   "description": "Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Dr. Cook",
     "Dr. Lisa Cook",
@@ -29,13 +29,13 @@
       "date": "2026-08-07"
     },
     {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
       "date": "2026-08-07"
     },
     {
-      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
-      "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
       "date": "2026-08-07"
     },
     {
@@ -57,17 +57,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:50:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:54:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

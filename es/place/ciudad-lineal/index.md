@@ -3,7 +3,7 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Estrangula a su anciano suegro mientras su novio hacía una videoconferencia](https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html?utm_source=lootura.com) — 2026-08-08T11:17:05.000Z
+- [Estrangula a su anciano suegro mientras su novio hacía una videoconferencia](https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html?utm_source=lootura.com) — 2026-08-08T13:23:32.000Z

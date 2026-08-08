@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa
+
+Apple está trabajando en una nueva función del iPhone llamada "Copiar a Windows" , que podría estar disponible el próximo año. Como te habrás dado cuenta por su nombre, se trata de una característica pensada para compartir el portapapeles de un móvil con iOS directamente con un PC con el sistema operativo de Microsoft,.
+
+Date: 2026-08-08
 
 ### La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una "maldición" de la fantasía
 
@@ -62,12 +68,6 @@ Si antes de los agentes de IA para automatizar compras los bots normales eran un
 
 Date: 2026-08-05
 
-### ‘Ted Lasso’ temporada 4 (★★★½☆), un regreso placentero al que le falta colmillo
-
-Han pasado tres largos años, pero la temporada 4 de Ted Lasso por fin ha llegado. Durante muchos meses, tanto Apple TV como el resto del equipo se mostraron favorables a continuar con la exitosa serie de comedia y fútbol. Pero la condición indispensable era que Jason Sudeikis , su creador y protagonista, encontrase la.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa](https://hipertextual.com/apple/iphone-copiar-a-windows-funcion-a-ios/?utm_source=lootura.com) — 2026-08-08T16:00:00.000Z

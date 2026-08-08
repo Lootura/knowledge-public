@@ -3,7 +3,7 @@
 > Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/puerto-rico
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-08
 ### Discovered by Atlas
 
 Puerto Rico first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-08
+
+### Puerto Rico's mismanaged, broken infrastructure worsens drought impact
+
+Puerto Rico has entered a period of water rationing as existing infrastructure issues worsen the impact of an ongoing drought. While government officials focus on the lack of rain, residents point to government mismanagement and underfunded, aging infrastructure as the source of many ongoing issues, from water shortage.
 
 Date: 2026-08-08
 
@@ -34,6 +40,6 @@ Date: 2026-08-07
 
 ## Sources
 
+- [Puerto Rico's mismanaged, broken infrastructure worsens drought impact](https://www.cbsnews.com/video/puerto-ricos-mismanaged-broken-infrastructure-worsens-drought-impact/?utm_source=lootura.com) — 2026-08-08T15:33:08.000Z
 - [Water rationing begins in Puerto Rico amid drought crisis: "It's brutal"](https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/?utm_source=lootura.com) — 2026-08-08T00:25:57.000Z
 - [Hundreds of thousands without water in Puerto Rico](https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910?utm_source=lootura.com) — 2026-08-07T23:33:33.000Z
-- [Drought and aging infrastructure plunge Puerto Rico into a water crisis](https://www.pbs.org/newshour/show/drought-and-aging-infrastructure-plunge-puerto-rico-into-a-water-crisis?utm_source=lootura.com) — 2026-08-07T22:30:57.000Z

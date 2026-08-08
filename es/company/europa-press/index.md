@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta
+
+Un juzgado de Ceuta investiga seis presuntos casos de agresión sexual a inmigrantes tras su acceso a la ciudad autónoma el pasado 30 de julio. La información ha sido confirmada por la Delegación del Gobierno, que no ha ofrecido por el momento más detalles. Fuentes judiciales y sanitarias consultadas por Europa Press ha.
+
+Date: 2026-08-08
 
 ### Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera
 
@@ -52,4 +58,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera](https://www.elconfidencial.com/espana/madrid/2026-08-08/reyerta-usera-joven-herido-grave-1tps_4402945/?utm_source=lootura.com) — 2026-08-08T07:16:00.000Z
+- [Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta](https://theobjective.com/espana/2026-08-08/juzgado-investiga-seis-presuntas-agresiones-sexuales-a-inmigrantes-entrada-masiva/?utm_source=lootura.com) — 2026-08-08T14:50:26.000Z

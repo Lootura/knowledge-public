@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -73,17 +73,11 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Blanche on track for narrow Senate confirmation as attorney general",
-      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:45:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:38:06.000Z",
+      "publishedAt": "2026-08-08T09:38:07.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

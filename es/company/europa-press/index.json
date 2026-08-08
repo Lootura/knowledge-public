@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta",
+      "summary": "Un juzgado de Ceuta investiga seis presuntos casos de agresión sexual a inmigrantes tras su acceso a la ciudad autónoma el pasado 30 de julio. La información ha sido confirmada por la Delegación del Gobierno, que no ha ofrecido por el momento más detalles. Fuentes judiciales y sanitarias consultadas por Europa Press ha.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera",
       "summary": "Un varón de 20 años ha resultado gravemente herido tras una reyerta ocurrida pocos minutos antes de la medianoche en la calle Amor Hermoso , en el distrito madrileño de Usera , según han señalado fuentes de Emergencias Madrid a Europa Press . La víctima sufría una lesión en una pierna que provocó una hemorragia profusa.",
@@ -56,10 +61,10 @@
   ],
   "sources": [
     {
-      "title": "Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-08/reyerta-usera-joven-herido-grave-1tps_4402945/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T07:16:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta",
+      "url": "https://theobjective.com/espana/2026-08-08/juzgado-investiga-seis-presuntas-agresiones-sexuales-a-inmigrantes-entrada-masiva/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T14:50:26.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

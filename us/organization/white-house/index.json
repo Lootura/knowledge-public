@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -71,17 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:10:37.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:50:55.000Z",
+      "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+      "url": "https://www.pbs.org/newshour/politics/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:18:05.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

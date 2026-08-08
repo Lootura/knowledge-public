@@ -3,7 +3,7 @@
 > Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/person/lisa-cook
 
 ## Recent changes
@@ -20,15 +20,15 @@ Trump is once again threatening to fire Cook over unproven allegations of mortga
 
 Date: 2026-08-07
 
-### News Wrap: Court rules Trump needs Congress to approve White House ballroom
-
-In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.
-
-Date: 2026-08-07
-
 ### Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook
 
 The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
+
+Date: 2026-08-07
+
+### News Wrap: Court rules Trump needs Congress to approve White House ballroom
+
+In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.
 
 Date: 2026-08-07
 
@@ -47,5 +47,4 @@ Date: 2026-08-07
 ## Sources
 
 - [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
-- [News Wrap: Court rules Trump needs Congress to approve White House ballroom](https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com) — 2026-08-07T22:50:55.000Z
 - [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z

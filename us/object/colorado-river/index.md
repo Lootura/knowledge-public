@@ -3,10 +3,16 @@
 > Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/object/colorado-river
 
 ## Recent changes
+
+### Lake Mead hits historic low water level as Colorado River struggles
+
+The record follows a winter that produced the worst snowpack on record in the Colorado River Basin.
+
+Date: 2026-08-08
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-07-31
 
 ## Sources
 
-No public source links.
+- [Lake Mead hits historic low water level as Colorado River struggles](https://www.pbs.org/newshour/nation/lake-mead-hits-historic-low-water-level-as-colorado-river-struggles?utm_source=lootura.com) — 2026-08-08T16:07:11.000Z

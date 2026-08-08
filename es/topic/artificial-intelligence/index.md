@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas
+
+Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.
+
+Date: 2026-08-08
 
 ### Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8
 
@@ -46,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»](https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com) — 2026-08-08T11:47:34.000Z
+- [Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas](https://www.20minutos.es/deportes/deportes_motor/motogp/carrera-sprint-gp-gran-bretana-motogp-directo-ultima-hora-marc-marquez-jorge-martin-pedro-acosta-silverstone_7023875_6.html?utm_source=lootura.com) — 2026-08-08T14:28:14.000Z

@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -25,6 +25,12 @@ Date: 2026-08-08
 As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
 
 Date: 2026-08-08
+
+### Advocates for former U.S. Marine held for years in Russia say he is near death
+
+A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.
+
+Date: 2026-08-07
 
 ### Senate passes Russia sanctions bill that was long championed by Lindsey Graham
 
@@ -50,12 +56,6 @@ At the U.S. Capitol, it was a wild day of decision and indecision. The Senate pa
 
 Date: 2026-08-07
 
-### Advocates for former U.S. Marine held for years in Russia say he is near death
-
-A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.
-
-Date: 2026-08-07
-
 ### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
 
 Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
@@ -71,9 +71,4 @@ Date: 2026-08-07
 ## Sources
 
 - [Daily fragment: Nyonoksa radiation accident](https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com) — 2026-08-08T04:00:00.000Z
-- [Senate passes Russia sanctions bill that was long championed by Lindsey Graham](https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com) — 2026-08-07T17:33:40.000Z
-- [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z
 - [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
-- [Senate Passes Sanctions Bill Targeting Russia and Iran](https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com) — 2026-08-07T19:42:33.000Z
-- [Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition](https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com) — 2026-08-07T18:52:20.000Z
-- [As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/margarita-robles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/margarita-robles/index.json",
   "description": "Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Margarita",
     "Margarita Robles Fernández",
@@ -16,6 +16,11 @@
     "Robles"
   ],
   "changes": [
+    {
+      "title": "Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta",
+      "summary": "El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska",
       "summary": "El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.",
@@ -52,6 +57,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta",
+      "url": "https://elpais.com/espana/2026-08-08/rollan-amenaza-a-marlaska-robles-y-albares-con-tomar-medidas-si-no-acuden-al-senado-a-informar-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T14:52:11.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

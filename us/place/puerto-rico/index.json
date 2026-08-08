@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/puerto-rico/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/puerto-rico/index.json",
   "description": "Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Borikén",
     "Borinquen",
@@ -33,6 +33,11 @@
       "date": "2026-08-08"
     },
     {
+      "title": "Puerto Rico's mismanaged, broken infrastructure worsens drought impact",
+      "summary": "Puerto Rico has entered a period of water rationing as existing infrastructure issues worsen the impact of an ongoing drought. While government officials focus on the lack of rain, residents point to government mismanagement and underfunded, aging infrastructure as the source of many ongoing issues, from water shortage.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Hundreds of thousands without water in Puerto Rico",
       "summary": "Families and businesses in San Juan, Puerto Rico, and nearby towns now have to make do with whatever water they have on hand amid rolling shutoffs that last for 48 hours at a time. NBC News' George Solis is on the ground.",
       "date": "2026-08-07"
@@ -45,6 +50,12 @@
   ],
   "sources": [
     {
+      "title": "Puerto Rico's mismanaged, broken infrastructure worsens drought impact",
+      "url": "https://www.cbsnews.com/video/puerto-ricos-mismanaged-broken-infrastructure-worsens-drought-impact/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:33:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
       "url": "https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T00:25:57.000Z",
@@ -55,12 +66,6 @@
       "url": "https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910?utm_source=lootura.com",
       "publishedAt": "2026-08-07T23:33:33.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
-      "url": "https://www.pbs.org/newshour/show/drought-and-aging-infrastructure-plunge-puerto-rico-into-a-water-crisis?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:30:57.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 3

@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo](https://www.larazon.es/economia/detectados-dos-casos-aceitunas-deshuesadas-marroquies-alemania-holanda-altos-niveles-plomo_202608086a76e74ba5690f04736e0b90.html?utm_source=lootura.com) — 2026-08-08T08:22:35.000Z
+- [Marlaska comunica a la UE el establecimiento de España de controles fronterizos en conexiones aéreas y marítimas con Italia](https://www.20minutos.es/nacional/marlaska-comunica-ue-establecimiento-espana-controles-fronterizos-conexiones-aereas-maritimas-con-italia_7023861_0.html?utm_source=lootura.com) — 2026-08-08T12:17:49.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -25,6 +25,16 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Muere Jorge Messi, padre y mentor del astro argentino",
+      "summary": "La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
+      "summary": "El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias",
       "summary": "La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.",
@@ -64,18 +74,21 @@
       "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
       "summary": "Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Inglaterra se lleva la medalla de bronce tras un festival de goles",
-      "summary": "Los de Tuchel logran su mejor clasificación desde 1966 a costa de una Francia bochornosa en la primera parte y que tiró de orgullo para que Mbappé sume diez goles y supere en dos a Messi.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Messi se pronuncia sobre su foto con Yamal de bebé: \"Es una locura...\"",
-      "summary": "El capitán de la selección de Argentina, Lionel Messi, confesó que es «una locura» la historia de su fotografía hace casi 20 años con un bebé Lamine.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere Jorge Messi, padre y mentor del astro argentino",
+      "url": "https://www.abc.es/deportes/futbol/muere-jorge-messi-padre-leo-messi-anos-20260808152044-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:43:04.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
+      "url": "https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T13:26:20.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
 }

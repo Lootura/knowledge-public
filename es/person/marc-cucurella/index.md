@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El nuevo hogar de Cucurella en Madrid: una exclusiva zona con un palacio neoclásico y casas de más de 4.000 euros/m²](https://www.elconfidencial.com/espana/madrid/2026-08-08/nuevo-hogar-cucurella-madrid-alto-nivel-1tna-1qrt_4401446/?utm_source=lootura.com) — 2026-08-08T05:00:00.000Z
+No public source links.

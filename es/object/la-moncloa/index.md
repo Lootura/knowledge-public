@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta](https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html?utm_source=lootura.com) — 2026-08-08T11:13:40.000Z
+No public source links.

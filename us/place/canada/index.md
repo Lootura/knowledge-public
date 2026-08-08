@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Canada tries to adapt to a future of wildfires
 
 Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.
+
+Date: 2026-08-08
+
+### Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate
+
+The Bald Range wildfire was first reported on Friday evening.
 
 Date: 2026-08-08
 
@@ -62,12 +68,7 @@ Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinationa
 
 Date: 2026-07-25
 
-### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
-
-After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.
-
-Date: 2026-07-24
-
 ## Sources
 
+- [Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-08T16:08:46.000Z
 - [Canada tries to adapt to a future of wildfires](https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com) — 2026-08-08T11:00:04.000Z

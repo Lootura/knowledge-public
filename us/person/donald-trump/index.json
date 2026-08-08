@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -60,14 +60,14 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
+      "title": "What to know about Trump's new attempt to limit birthright citizenship",
+      "summary": "A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with \"adjustments\" keeping the decision in mind, President Donald Trump said.",
       "date": "2026-08-08"
     },
     {
-      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
-      "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
-      "date": "2026-08-07"
+      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
+      "date": "2026-08-08"
     },
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
@@ -119,15 +119,15 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:50:55.000Z",
+      "title": "What to know about Trump's new attempt to limit birthright citizenship",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:39:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:38:06.000Z",
+      "publishedAt": "2026-08-08T09:38:07.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -137,5 +137,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 13
 }

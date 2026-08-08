@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
+      "summary": "Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8",
       "summary": "Samsung ha presentado su nueva familia de plegables Galaxy Z. Tras meses de rumores y filtraciones, el fabricante reveló los nuevos Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra y Galaxy Z Flip 8 , cada uno enfocado a un público particular. Aunque sus funciones han acaparado los reflectores, los móviles incluyen un beneficio.",
@@ -47,11 +52,11 @@
   ],
   "sources": [
     {
-      "title": "OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»",
-      "url": "https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:47:34.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
+      "url": "https://www.20minutos.es/deportes/deportes_motor/motogp/carrera-sprint-gp-gran-bretana-motogp-directo-ultima-hora-marc-marquez-jorge-martin-pedro-acosta-silverstone_7023875_6.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T14:28:14.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

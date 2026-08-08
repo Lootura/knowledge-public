@@ -3,7 +3,7 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
@@ -22,5 +22,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El choque entre Sánchez y Meloni se recrudece: España inicia los controles a los viajeros procedentes de Italia](https://www.elconfidencial.com/espana/2026-08-08/crisis-ceuta-escala-europa-meloni-italia-espana-controles_4403054/?utm_source=lootura.com) — 2026-08-08T11:20:00.000Z
 - [Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid](https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z

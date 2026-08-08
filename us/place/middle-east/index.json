@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:40:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
       "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:14:24.000Z",
+      "publishedAt": "2026-08-08T14:57:24.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

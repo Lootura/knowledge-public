@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Senate passes Russia sanctions bill that was long championed by Lindsey Graham](https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com) — 2026-08-07T17:33:40.000Z
+No public source links.

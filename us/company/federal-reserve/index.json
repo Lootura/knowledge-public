@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.json",
   "description": "Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "FRS",
     "Fed",
     "The Fed"
   ],
   "changes": [
-    {
-      "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
-      "summary": "Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.",
-      "date": "2026-08-07"
-    },
     {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
@@ -31,6 +26,11 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
+      "summary": "Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
       "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
       "date": "2026-08-07"
@@ -38,17 +38,11 @@
   ],
   "sources": [
     {
-      "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
-      "url": "https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:24:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:54:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

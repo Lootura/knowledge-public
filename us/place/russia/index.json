@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -33,6 +33,11 @@
       "date": "2026-08-08"
     },
     {
+      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
+      "summary": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
       "date": "2026-08-07"
@@ -50,11 +55,6 @@
     {
       "title": "Blanche on track for narrow Senate confirmation as attorney general",
       "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
-      "summary": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
       "date": "2026-08-07"
     },
     {
@@ -76,41 +76,11 @@
       "sourceId": "lootura-us-lootura-daily"
     },
     {
-      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T17:33:40.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Blanche on track for narrow Senate confirmation as attorney general",
-      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:45:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
       "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
       "publishedAt": "2026-08-07T23:41:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:42:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-      "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:52:20.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T04:01:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 2
 }

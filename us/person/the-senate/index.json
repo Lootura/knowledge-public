@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/the-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/the-senate/index.json",
   "description": "Follow The Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [],
   "changes": [
     {
@@ -49,13 +49,7 @@
       "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
       "publishedAt": "2026-08-08T08:33:50.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Blanche on track for narrow Senate confirmation as attorney general",
-      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:45:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

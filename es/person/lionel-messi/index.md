@@ -3,10 +3,22 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Muere Jorge Messi, padre y mentor del astro argentino
+
+La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.
+
+Date: 2026-08-08
+
+### El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo
+
+El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud.
+
+Date: 2026-08-08
 
 ### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
 
@@ -56,18 +68,7 @@ Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante I
 
 Date: 2026-07-19
 
-### Inglaterra se lleva la medalla de bronce tras un festival de goles
-
-Los de Tuchel logran su mejor clasificación desde 1966 a costa de una Francia bochornosa en la primera parte y que tiró de orgullo para que Mbappé sume diez goles y supere en dos a Messi.
-
-Date: 2026-07-18
-
-### Messi se pronuncia sobre su foto con Yamal de bebé: "Es una locura..."
-
-El capitán de la selección de Argentina, Lionel Messi, confesó que es «una locura» la historia de su fotografía hace casi 20 años con un bebé Lamine.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Muere Jorge Messi, padre y mentor del astro argentino](https://www.abc.es/deportes/futbol/muere-jorge-messi-padre-leo-messi-anos-20260808152044-nt.html?utm_source=lootura.com) — 2026-08-08T15:43:04.000Z
+- [El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo](https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html?utm_source=lootura.com) — 2026-08-08T13:26:20.000Z

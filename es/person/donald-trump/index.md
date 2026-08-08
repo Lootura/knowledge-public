@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
+
+El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.
+
+Date: 2026-08-08
 
 ### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
 
@@ -62,12 +68,6 @@ Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo e
 
 Date: 2026-08-05
 
-### Las sanciones de Trump a Cuba dejan en el punto de mira al Sabadell y al banco de Javier Botín
-
-El nuevo régimen reforzado de sanciones de Estados Unidos a Cuba pone en jaque la posición allí de las entidades financieras españolas. Concretamente, de Banco Sabadell y Alto Cedro , propiedad de Javier Botín (hermano de la presidenta del Banco Santander). Y la evolución de las sanciones ha supuesto un punto más de pr.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU](https://theobjective.com/internacional/2026-08-08/abogado-personal-trump-todd-blanche-fiscal-general-eeuu/?utm_source=lootura.com) — 2026-08-08T13:32:49.000Z

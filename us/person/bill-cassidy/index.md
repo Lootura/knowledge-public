@@ -40,4 +40,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- ["Face the Nation with Margaret Brennan" guests for Aug. 9, 2026](https://www.cbsnews.com/news/face-the-nation-guests-aug-9-2026/?utm_source=lootura.com) — 2026-08-07T20:28:20.000Z
+No public source links.

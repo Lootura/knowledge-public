@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
+      "summary": "Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».",
+      "date": "2026-08-08"
+    },
     {
       "title": "Podcast | Entrevista a Esther Martínez",
       "summary": "Paloma Cervilla entrevista a Esther Martínez , líder del PP vasco.",
@@ -58,11 +63,6 @@
       "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
       "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Bronca en un pueblo de Cantabria: el alcalde quiere poner su nombre a la avenida principal",
-      "summary": "La bronca está servida en Meruelo (Cantabria) a raíz de un cambio en el callejero municipal. El equipo de Gobierno del PP plantea modificar el nombre de la Avenida San Miguel, una de las principales de la localidad, para pasar a llamarse Avenida Evaristo Domínguez , que es el actual alcalde. Domínguez ha sido el único.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:01:43.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:31:39.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

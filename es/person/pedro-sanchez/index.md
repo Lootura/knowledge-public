@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
 
 La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
+
+Date: 2026-08-08
+
+### Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas
+
+Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.
+
+Date: 2026-08-08
+
+### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
+
+Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
 
 Date: 2026-08-08
 
@@ -38,12 +50,6 @@ El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a ca
 
 Date: 2026-08-08
 
-### Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas
-
-Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.
-
-Date: 2026-08-08
-
 ### Escondido en la playa
 
 La sorpresa por el comportamiento de Pedro Sánchez ante los acontecimientos de Ceuta supera cualquier pesadilla. Su parálisis activa ante la invasión de la ciudad autónoma resulta incompatible con cualquier gestión racional, segura, previsible y humanitaria en un Gobierno digno de tal nombre. Hasta el Departamento de E.
@@ -62,18 +68,10 @@ En el afán por cargarle la culpa a otro, el Ejecutivo de Pedro Sánchez se la h
 
 Date: 2026-08-08
 
-### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
-
-Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [La crisis de Ceuta lleva al límite el pulso entre Sánchez y Meloni](https://www.abc.es/espana/crisis-ceuta-lleva-limite-pulso-sanchez-meloni-20260808133544-nt.html?utm_source=lootura.com) — 2026-08-08T11:41:41.000Z
+- [Aterriza en Loiu el primer vuelo de Italia tras la crisis entre Sánchez y Meloni: «No nos esperábamos este control»](https://www.elcorreo.com/politica/aterriza-aeropuerto-bilbao-primer-vuelo-italia-guardia-20260808171739-nt_amp.html?utm_source=lootura.com) — 2026-08-08T15:17:40.000Z
 - [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
 - [Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid](https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
-- [Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los "agujeros negros" en la crisis de Ceuta](https://www.larazon.es/espana/maillo-reclama-sanchez-que-convoque-consejo-seguridad-nacional-agujeros-negros-crisis-ceuta_202608086a76ea76a5690f04736e1003.html?outputType=amp&utm_source=lootura.com) — 2026-08-08T08:36:06.000Z
-- [El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta](https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html?utm_source=lootura.com) — 2026-08-08T11:13:40.000Z
-- [Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil](https://okdiario.com/economia/sanchez-derrocha-ayudas-menores-familias-rentas-50-000-mientras-espana-lidera-ue-pobreza-infantil-19146590?utm_source=lootura.com) — 2026-08-08T12:00:30.000Z
 - [Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas](https://theobjective.com/espana/politica/2026-08-08/vox-movimientos-espanolidad-ceuta-culpables-sanchez-vivas/?utm_source=lootura.com) — 2026-08-08T10:55:02.000Z
+- [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z

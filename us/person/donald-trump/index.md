@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-08T16:30:11.933Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -50,17 +50,17 @@ The lack of visible raids aggressively targeting Haitians who lost temporary sta
 
 Date: 2026-08-08
 
+### What to know about Trump's new attempt to limit birthright citizenship
+
+A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with "adjustments" keeping the decision in mind, President Donald Trump said.
+
+Date: 2026-08-08
+
 ### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
 
 Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
 
 Date: 2026-08-08
-
-### Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On
-
-As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
-
-Date: 2026-08-07
 
 ### Trump renews push to fire Fed Governor Lisa Cook
 
@@ -77,6 +77,6 @@ Date: 2026-08-07
 - [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
 - [Redistricting played a part in Tennessee's primary election results](https://www.npr.org/2026/08/07/nx-s1-5924830/redistricting-played-a-part-in-tennessees-primary-election-results?utm_source=lootura.com) — 2026-08-07T20:24:47.000Z
 - [Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination](https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination?utm_source=lootura.com) — 2026-08-08T11:43:50.000Z
-- [News Wrap: Court rules Trump needs Congress to approve White House ballroom](https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com) — 2026-08-07T22:50:55.000Z
-- [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:06.000Z
+- [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
+- [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:07.000Z
 - [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z

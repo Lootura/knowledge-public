@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-08T16:30:11.933Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -22,13 +22,13 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
-      "date": "2026-08-07"
+      "title": "What to know about Trump's new attempt to limit birthright citizenship",
+      "summary": "A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with \"adjustments\" keeping the decision in mind, President Donald Trump said.",
+      "date": "2026-08-08"
     },
     {
-      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-      "summary": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).",
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
       "date": "2026-08-07"
     },
     {
@@ -39,6 +39,11 @@
     {
       "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
       "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "summary": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).",
       "date": "2026-08-07"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Warren presses U.S. companies to share tariff refunds with customers",
       "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -75,10 +75,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:10:37.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "What to know about Trump's new attempt to limit birthright citizenship",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:39:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Appeals Court Upholds Block on Trump Ballroom Construction",

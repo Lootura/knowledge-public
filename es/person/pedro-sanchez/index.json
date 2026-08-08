@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,16 @@
     {
       "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
       "summary": "La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas",
+      "summary": "Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
+      "summary": "Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».",
       "date": "2026-08-08"
     },
     {
@@ -43,11 +53,6 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas",
-      "summary": "Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "Escondido en la playa",
       "summary": "La sorpresa por el comportamiento de Pedro Sánchez ante los acontecimientos de Ceuta supera cualquier pesadilla. Su parálisis activa ante la invasión de la ciudad autónoma resulta incompatible con cualquier gestión racional, segura, previsible y humanitaria en un Gobierno digno de tal nombre. Hasta el Departamento de E.",
       "date": "2026-08-08"
@@ -61,19 +66,14 @@
       "title": "Cosas que ocurren",
       "summary": "En el afán por cargarle la culpa a otro, el Ejecutivo de Pedro Sánchez se la ha terminado echando a sí mismo.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
-      "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "La crisis de Ceuta lleva al límite el pulso entre Sánchez y Meloni",
-      "url": "https://www.abc.es/espana/crisis-ceuta-lleva-limite-pulso-sanchez-meloni-20260808133544-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:41:41.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Aterriza en Loiu el primer vuelo de Italia tras la crisis entre Sánchez y Meloni: «No nos esperábamos este control»",
+      "url": "https://www.elcorreo.com/politica/aterriza-aeropuerto-bilbao-primer-vuelo-italia-guardia-20260808171739-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:17:40.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»",
@@ -88,29 +88,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los \"agujeros negros\" en la crisis de Ceuta",
-      "url": "https://www.larazon.es/espana/maillo-reclama-sanchez-que-convoque-consejo-seguridad-nacional-agujeros-negros-crisis-ceuta_202608086a76ea76a5690f04736e1003.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:36:06.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
-      "url": "https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:13:40.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil",
-      "url": "https://okdiario.com/economia/sanchez-derrocha-ayudas-menores-familias-rentas-50-000-mientras-espana-lidera-ue-pobreza-infantil-19146590?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:00:30.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas",
       "url": "https://theobjective.com/espana/politica/2026-08-08/vox-movimientos-espanolidad-ceuta-culpables-sanchez-vivas/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T10:55:02.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:31:39.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

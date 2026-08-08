@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria
 
 La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga y Sevilla haya golpeado una catenaría desprendida por una incidencia en obras programadas. En este sentido.
+
+Date: 2026-08-08
+
+### Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”
+
+Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.
 
 Date: 2026-08-08
 
@@ -62,12 +68,8 @@ La Guardia Civil ha desmantelado una red criminal internacional especializada en
 
 Date: 2026-08-05
 
-### Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga
-
-La Policía ha detenido a 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga (Málaga) -que en ediciones anteriores se ha celebrado en Almería- por su presunta implicación en delitos contra la salud pública, alteración del orden público y reclamación judicial. El festival, que reunió a miles de a.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [El Gobierno extiende a los aeropuertos de Málaga y Sevilla los controles a pasajeros procedentes de Italia](https://www.larazon.es/andalucia/gobierno-extiende-aeropuertos-malaga-sevilla-controles-pasajeros-procedentes-italia_202608086a7758ea71b42a0b5de41b76.html?outputType=amp&utm_source=lootura.com) — 2026-08-08T16:27:22.000Z
+- [Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”](https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com) — 2026-08-08T16:02:05.000Z
 - [Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria](https://theobjective.com/economia/transporte/2026-08-08/interrumpida-c-2-malaga-golpear-tren-catenaria/?utm_source=lootura.com) — 2026-08-08T08:41:19.000Z

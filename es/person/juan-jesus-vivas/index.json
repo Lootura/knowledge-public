@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T04:53:47.542Z",
+  "updatedAt": "2026-08-08T16:29:47.813Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Vivas desmiente las cifras del Gobierno y denuncia que aún quedan entre 8.000 y 11.000 inmigrantes",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha desmentido los datos del Gobierno, que estima que en la ciudad autónoma se encuentran 2.500 inmigrantes, y ha señalado que los informes sitúan entre 8.000 y 11.000 las personas que aún quedan por volver , aunque no saben cuántos menores hay exactamente. El dirigente popular.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: \"Aquí no va a haber papeles\"",
+      "summary": "El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como \"absolutamente insostenible\" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes",
+      "summary": "«Contemos la verdad de lo que está pasando» . Así se tajante se ha expresado el presidente de Ceuta, Juan Jesús Vivas , que ha comparecido ante los medios de comunicación para desmentir al Gobierno. Según los datos que maneja la ciudad autónoma, aún quedan entre 8.000 y 11.000 inmigrantes de los 72.000 que asaltaron la.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
       "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
@@ -49,23 +64,27 @@
       "title": "Vivas afirma que Felipe VI se ha comprometido a visitar Ceuta, \"y el rey cumple sus compromisos\"",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha afirmado este jueves que el rey Felipe VI está comprometido con realizar una visita oficial a la ciudad autónoma , aunque sin fijar una fecha concreta, y se ha mostrado convencido de que el monarca cumplirá su compromiso. Vivas reveló este compromiso tras la reunión mantenid.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Vivas agradece el respaldo del Rey pero avisa de que la crisis en Ceuta no ha acabado",
-      "summary": "El Rey y el presidente de Ceuta, Juan Jesús Vivas, han celebrado, este jueves en el palacio de Marivent, un encuentro en el que, además de analizar la crisis originada a raíz de la entrada ilegal en la ciudad autónoma de más de 70.000 personas procedentes de Marruecos, el jefe del Estado ha trasladado a Vivas el apoyo.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "El Rey traslada al presidente de Ceuta su «compromiso personal» de visitar la ciudad",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha afirmado que el Rey Felipe VI le ha transmitido su «cariño, apoyo y ánimo» para todos los ceutíes y se ha mostrado convencido de que el monarca visitará la ciudad autónoma cuando sea posible. De este modo se ha expresado en declaraciones a los medios de comunicación después.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "El presidente de Ceuta anuncia que Felipe VI visitará la ciudad, pero evita fijar una fecha",
-      "summary": "«El Rey está comprometido con la visita a Ceuta y la hará», ha señalado este jueves el presidente de Ceuta, Juan Jesús Vivas , tras su audiencia con Felipe VI en el Palacio de Marivent, si bien ha preferido no especular con la fecha de ese desplazamiento, que sería el primero del monarca a la ciudad autónoma desde su p.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas desmiente las cifras del Gobierno y denuncia que aún quedan entre 8.000 y 11.000 inmigrantes",
+      "url": "https://www.abc.es/espana/vivas-desmiente-cifras-gobierno-denuncia-quedan-8000-20260808140756-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:04:06.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: \"Aquí no va a haber papeles\"",
+      "url": "https://www.elconfidencial.com/espana/2026-08-08/entrada-masiva-ceuta-marruecos-retorno-1tps_4403112/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T13:13:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes",
+      "url": "https://theobjective.com/espana/2026-08-08/vivas-estima-8000-11000-inmigrantes-ceuta-insostenible/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T14:12:30.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
 }

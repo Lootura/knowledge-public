@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T16:29:47.813Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ En los últimos tiempos la parrilla de TVE ha experimentado diversos cambios, au
 
 Date: 2026-08-08
 
-### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
-
-Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.
-
-Date: 2026-08-07
-
 ### Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi
 
 Trece afectados tuvieron que ser trasladados a un centro sanitario, mientras Salud pide extremar la precaución ante un fin de semana de calor y playas llenas.
+
+Date: 2026-08-07
+
+### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
+
+Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.
 
 Date: 2026-08-07
 
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Fuentes
 
 - [Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:32:46.000Z
-- [Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía](https://www.elcorreo.com/alava/araba/euskadi-comprara-forrajes-forma-conjunta-ante-escasez-pastos-sequia-20260807143200-nt_amp.html?utm_source=lootura.com) — 2026-08-07T12:44:45.000Z
