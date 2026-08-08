@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,14 +22,19 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+      "summary": "Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.",
       "date": "2026-08-08"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
-      "date": "2026-08-07"
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "date": "2026-08-08"
     },
     {
       "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
@@ -52,33 +57,34 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Morning news brief",
+      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
       "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
-      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "The State of Iran’s Three Key Nuclear Sites",
-      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
       "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T08:41:55.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Week in Politics: Blanche confirmed as attorney general; Iran-Oman Strait deal stalls",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5921263/week-in-politics-blanche-confirmed-as-attorney-general-iran-oman-strait-deal-stalls?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:43:48.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
       "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:40:21.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:00:44.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Houthis Claim Attack on Yemeni Military Camp",
@@ -99,11 +105,17 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:14:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
       "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
       "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T04:01:31.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

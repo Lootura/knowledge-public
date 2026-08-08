@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto
+
+Reclaman al Gobierno que concluya primero los "expedientes individualizados" de cada niño y avanzan que impugnarán judicialmente aquellos "que no finalicen con el retorno a Marruecos" Leer.
+
+Date: 2026-08-08
 
 ### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
 
@@ -62,12 +68,6 @@ Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nue
 
 Date: 2026-08-05
 
-### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
-
-Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto](https://www.elmundo.es/espana/2026/08/08/6a76fe0d21efa0fc098b4570.html?utm_source=lootura.com) — 2026-08-08T10:14:57.000Z

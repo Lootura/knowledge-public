@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [De la Espriella, discípulo del trumpismo en Bogotá](https://www.elmundo.es/internacional/2026/08/07/6a760fe3fdddfff2158b45bd.html?utm_source=lootura.com) — 2026-08-07T20:50:58.000Z
+- [OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»](https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com) — 2026-08-08T11:47:34.000Z

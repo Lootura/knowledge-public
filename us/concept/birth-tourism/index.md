@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html?utm_source=lootura.com) — 2026-08-07T12:10:58.000Z
+No public source links.

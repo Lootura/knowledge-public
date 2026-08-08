@@ -3,10 +3,22 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
+
+The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
+
+Date: 2026-08-08
+
+### Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns
+
+Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+
+Date: 2026-08-08
 
 ### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
 
@@ -14,15 +26,15 @@ Todd Blanche, who has served as acting attorney general since April, eked out Se
 
 Date: 2026-08-08
 
-### Blanche's path to confirmation appears clear after winning key Republican's support
-
-A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).
-
-Date: 2026-08-07
-
 ### Blanche on track for narrow Senate confirmation as attorney general
 
 At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.
+
+Date: 2026-08-07
+
+### Blanche's path to confirmation appears clear after winning key Republican's support
+
+A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).
 
 Date: 2026-08-07
 
@@ -56,21 +68,8 @@ The Senate Judiciary Committee voted along party lines to advance Todd Blanche's
 
 Date: 2026-08-05
 
-### Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General
-
-Todd Blanche’s nomination now advances to the Senate floor, where it was not immediately clear whether he would be confirmed given that he can afford to lose only two senators on a party-line vote.
-
-Date: 2026-08-04
-
-### Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination
-
-NPR's Steve Inskeep speaks with Sen. Alex Padilla, D-Calif., about the Senate Judiciary Committee's anticipated vote on Todd Blanche's nomination for attorney general.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [The Senate confirms Todd Blanche, Trump's former defense lawyer, as attorney general](https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com) — 2026-08-08T08:35:15.000Z
-- [Blanche's path to confirmation appears clear after winning key Republican's support](https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com) — 2026-08-07T14:12:59.000Z
+- [Senate confirms Todd Blanche as attorney general after weeks of uncertainty](https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com) — 2026-08-08T08:33:50.000Z
 - [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z
-- [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T08:34:06.000Z
+- [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:06.000Z

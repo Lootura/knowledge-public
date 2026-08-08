@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Heatwaves have killed millions. Here’s how scientists tally lives lost
 
 Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-08
+
+### Opinion: Europe's summer of heat
+
+Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).
+
+Date: 2026-08-08
+
+### The Bond effect? How MI6 fascinates spy watchers around the world
+
+Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that pl.
+
+Date: 2026-08-08
+
+### Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse
+
+Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.
 
 Date: 2026-08-08
 
@@ -50,24 +68,9 @@ Europe's heat wave exposes buried history and new threats — Nazi-era wrecks em
 
 Date: 2026-08-04
 
-### Apple is working on iPhone-to-Windows copy-paste
-
-Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors . The move comes in response to an interoperability request from Microsoft that asks Apple to open up its Universal Clipboard feat.
-
-Date: 2026-08-04
-
-### The Cost of Extreme Heat Is Displacement
-
-—zpagistock—Getty Images This summer, as record-breaking heat sweeps across Europe and the United States , millions of people are searching for a way to cool off. They crowd into public pools, and libraries turned into cooling centers. They run their air conditioners around the clock—if they have them. They flee to the.
-
-Date: 2026-08-04
-
-### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
-
-Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-08T08:37:43.756Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-08T12:42:01.947Z
+- [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z
+- [The Bond effect? How MI6 fascinates spy watchers around the world](https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
+- [Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse](https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

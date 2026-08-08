@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/haley-stevens/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/haley-stevens/index.json",
   "description": "Follow Haley Stevens, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Haley",
     "Haley Maria Stevens",
@@ -28,17 +28,11 @@
   ],
   "sources": [
     {
-      "title": "SEE IT: Dem senators rally behind El-Sayed but duck questions on progressive agenda",
-      "url": "https://www.foxnews.com/politics/see-it-dem-senators-rally-behind-el-sayed-duck-questions-progressive-agenda?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:00:21.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "They’re Battle-Tested Democrats. Do Voters Care?",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:29:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
     {
-      "title": "La crisis de Ceuta pone a prueba la política fronteriza de la UE: \"La cooperación no puede convertirse en dependencia\"",
-      "summary": "Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos \"fronteras exteriores\" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.",
+      "title": "Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo",
+      "summary": "El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.",
       "date": "2026-08-08"
     },
     {
-      "title": "Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo",
-      "summary": "El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.",
+      "title": "La crisis de Ceuta pone a prueba la política fronteriza de la UE: \"La cooperación no puede convertirse en dependencia\"",
+      "summary": "Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos \"fronteras exteriores\" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.",
       "date": "2026-08-08"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "La crisis de Ceuta pone a prueba la política fronteriza de la UE: \"La cooperación no puede convertirse en dependencia\"",
-      "url": "https://www.20minutos.es/nacional/crisis-ceuta-pone-prueba-politica-fronteriza-ue-cooperacion-no-puede-convertirse-dependencia_7022934_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T05:44:16.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo",
       "url": "https://www.larazon.es/economia/detectados-dos-casos-aceitunas-deshuesadas-marroquies-alemania-holanda-altos-niveles-plomo_202608086a76e74ba5690f04736e0b90.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T08:22:35.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

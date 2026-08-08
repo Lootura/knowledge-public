@@ -8,22 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/the-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/the-senate/index.json",
   "description": "Follow The Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
-      "summary": "The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "Funding milestone detected",
-      "summary": "WASHINGTON — The Senate voted 90-6 to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+      "summary": "WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
       "date": "2026-08-08"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "The Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+      "summary": "The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.",
       "date": "2026-08-08"
     },
     {
@@ -34,21 +39,15 @@
   ],
   "sources": [
     {
-      "title": "The Senate confirms Todd Blanche, Trump's former defense lawyer, as attorney general",
-      "url": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:35:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
-      "url": "https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:01:22.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
       "url": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359?utm_source=lootura.com",
       "publishedAt": "2026-08-08T08:00:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:33:50.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {

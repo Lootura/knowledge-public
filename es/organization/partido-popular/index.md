@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP](https://www.20minutos.es/nacional/un-curso-bloqueo-para-vivienda-congreso-no-parar-desahucios-prorrogar-alquileres-los-envites-pp_7021387_0.html?utm_source=lootura.com) — 2026-08-08T05:46:31.000Z
 - [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
-- [Podcast | Entrevista a Esther Martínez](https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-esther-martinez/?utm_source=lootura.com) — 2026-08-08T03:25:17.000Z

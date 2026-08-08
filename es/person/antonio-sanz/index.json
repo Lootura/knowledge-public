@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.json",
   "description": "Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Antonio Sanz Cabello"
   ],
   "changes": [
+    {
+      "title": "El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento",
+      "summary": "El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha señalado que el incendio forestal declarado en el paraje Raboconejo de Niebla ( Huelva ) supera la 4.000 hectáreas de extensión, «aunque no toda la superficie es qu.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Antonio Sanz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    },
     {
       "title": "\"Extrema complejidad\" en el incendio de Niebla: el fuego salta a nivel 2, moviliza a la UME y fuerza 66 evacuaciones",
       "summary": "El incendio forestal declarado en Niebla (Huelva) presenta una situación de \"extrema complejidad\" por los cambios de viento, ha informado este viernes el consejero andaluz de Presidencia, Sanidad y Emergencias de la Junta de Andalucía , Antonio Sanz , quien ha señalado que se ha elevado la emergencia a situación operat.",
@@ -22,13 +32,15 @@
       "title": "El incendio de Huelva entra en fase de «extrema complejidad» por los cambios de viento",
       "summary": "El incendio forestal declarado en Niebla ( Huelva ) presenta una situación de «extrema complejidad» por los cambios de viento, ha informado este viernes el consejero andaluz de Presidencia, Sanidad y Emergencias de la Junta de Andalucía , Antonio Sanz, quien ha señalado que 66 personas han sido evacuadas de forma preve.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Antonio Sanz first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento",
+      "url": "https://theobjective.com/sociedad/2026-08-08/incendio-niebla-4000-hectareas-viento/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T10:50:29.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

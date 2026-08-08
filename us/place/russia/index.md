@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Daily fragment: Nyonoksa radiation accident
 
 An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
+
+Date: 2026-08-08
+
+### As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet
+
+As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
 
 Date: 2026-08-08
 
@@ -50,12 +56,6 @@ A former U.S. Marine held in Russia for more than four years on disputed charges
 
 Date: 2026-08-07
 
-### Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham
-
-The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.
-
-Date: 2026-08-07
-
 ### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
 
 Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
@@ -76,4 +76,4 @@ Date: 2026-08-07
 - [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
 - [Senate Passes Sanctions Bill Targeting Russia and Iran](https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html?utm_source=lootura.com) — 2026-08-07T19:42:33.000Z
 - [Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition](https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com) — 2026-08-07T18:52:20.000Z
-- [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z
+- [As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z

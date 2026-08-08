@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Gallardos"
   ],
   "changes": [
+    {
+      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
+      "summary": "La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una \"confrontación partidista, alejada de la realidad\" con \"ruido político\" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
+      "summary": "El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia",
       "summary": "Este domingo se cumple un mes del inicio del incendio forestal de Los Gallardos (Almería) , que dejó 14 muertos y 5.200 hectáreas quemadas, una tragedia ante la que la sociedad civil ha decidido dar un paso al frente con la creación del Grupo de Trabajo sobre el fuego en Bédar para ayudar a los afectados. Su objetivo e.",
@@ -52,25 +62,21 @@
       "title": "Identificadas todas las víctimas del incendio de Los Gallardos: siete británicos, tres belgas, un francés, un estadounidense y un español",
       "summary": "La plaza número 3 de la sección Civil y de Instrucción del Tribunal de Instancia de Vera ha validado este martes la identificación de las trece víctimas mortales del incendio de Los Gallardos (Almería) , una vez cotejadas las muestras de ADN de los tres últimos cuerpos que permanecían pendientes de confirmación. Con el.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Waheed, el último pastor de Bédar: “Me jugué la vida por mis animales”",
-      "summary": "No le dio importancia. Cuando su hermano le dijo que había fuego en Los Gallardos , Waheed Mumtaz (Gujrat, Pakistán, 35 años) acababa de llegar a la nave en la que guarda a su rebaño de 720 cabras para ordeñarlas. La noticia no hizo que cambiara de plan. Su terreno está en la carretera que da acceso a Bédar , el pueblo.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios",
-      "summary": "La portavoz de Vox en el Congreso, Pepa Millán , ha acusado a los presidentes del Gobierno, Pedro Sánchez , y de la Junta de Andalucía , Juanma Moreno , de achacar el incendio de Los Gallardos (Almería) al cambio climático «como excusa para descargar las responsabilidades de las administraciones». En una rueda de prens.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia",
-      "url": "https://www.larazon.es/andalucia/victimas-incendio-gallardos-siguen-pidiendo-ayuda-mes-despues-tragedia_202608086a76e72ba046ad6ebca5430d.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:22:03.000Z",
+      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
+      "url": "https://www.larazon.es/andalucia/junta-lamenta-que-psoe-convierta-tragedia-gallardos-ruido-politico_202608086a771e2071b42a0b5de3bdde.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:16:33.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/psoe-moreno-familias-victimas-incendio-gallardos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T10:15:44.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

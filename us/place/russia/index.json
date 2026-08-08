@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,11 @@
     {
       "title": "Daily fragment: Nyonoksa radiation accident",
       "summary": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
+      "summary": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
       "date": "2026-08-08"
     },
     {
@@ -50,11 +55,6 @@
     {
       "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
       "summary": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
       "date": "2026-08-07"
     },
     {
@@ -106,7 +106,7 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
       "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T04:01:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"

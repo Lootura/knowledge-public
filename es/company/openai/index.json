@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»",
+      "url": "https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:47:34.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/ciudad-lineal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-lineal/index.json",
   "description": "Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Ciudad Lineal District",
     "District 15",
@@ -16,6 +16,11 @@
     "Distrito de Ciudad Lineal"
   ],
   "changes": [
+    {
+      "title": "Estrangula a su anciano suegro mientras su novio hacía una videoconferencia",
+      "summary": "Extraño homicidio el ocurrido este caluroso viernes de agosto en el barrio de San Pascual, en el corazón de Ciudad Lineal, muy cerca de la Mezquita y del Tanatorio de la M-30. Una mujer ha sido detenida acusada de matar a su suegro, de 84 años, en lo que, dijo, fue un acto de defensa porque él la atacó con un cuchillo.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal",
       "summary": "Un hombre español de 84 años ha fallecido este viernes tras ser estrangulado en una vivienda del distrito madrileño de Ciudad Lineal , según ha informado Emergencias de la Comunidad de Madrid 112. Muere un hombre estrangulado en una vivienda de Ciudad Lineal. pic.twitter.com/lSrgZ8MKel - THE OBJECTIVE (@TheObjective_es.",
@@ -57,6 +62,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Estrangula a su anciano suegro mientras su novio hacía una videoconferencia",
+      "url": "https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:17:05.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

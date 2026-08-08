@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»",
+      "summary": "El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano",
       "summary": "El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.",
@@ -64,16 +69,11 @@
       "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
       "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana",
-      "summary": "La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano",
+      "title": "Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»",
       "url": "https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T07:03:25.000Z",
       "sourceId": "lootura-es-the-objective"

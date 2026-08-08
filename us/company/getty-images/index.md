@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Opinion: Europe's summer of heat
+
+Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).
+
+Date: 2026-08-08
 
 ### Who or what is 'taking a step back from visibility'? The quiz knows
 
@@ -62,12 +68,6 @@ Cher, Dolly Parton, Barbra Streisand, and Dionne Warwick —Stewart Cook—CBS/G
 
 Date: 2026-07-25
 
-### Democrats approve new primary election calendar, putting South Carolina first
-
-Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. (Image credit: Sean Rayford/Getty Images).
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Who or what is 'taking a step back from visibility'? The quiz knows](https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz?utm_source=lootura.com) — 2026-08-07T09:00:00.000Z
+- [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z

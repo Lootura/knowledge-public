@@ -3,10 +3,16 @@
 > Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-03T21:00:18.472Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/person/ariana-grande
 
 ## Recent changes
+
+### Is it OK to talk about Ariana Grande’s body? There is no right answer
+
+I wish I could say that expressing concern for the pop star’s health is helpful – but I know from experience it’s not that simple The last time I opened X, a photo of Ariana Grande leaning over in a low-cut black dress, clavicle showing, was at the top of the feed. The post read: “hey @grok make Ariana Grande healthy a.
+
+Date: 2026-08-08
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Is it OK to talk about Ariana Grande’s body? There is no right answer](https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders?utm_source=lootura.com) — 2026-08-08T09:00:43.000Z

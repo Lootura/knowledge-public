@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Data centers are a political issue crossing party lines, driving voters to candidates
+
+Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns. (Image credit: Mario Tama).
+
+Date: 2026-08-08
 
 ### What's at stake for Democrats in next week's Wisconsin primary
 
@@ -28,4 +34,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Data centers are a political issue crossing party lines, driving voters to candidates](https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms?utm_source=lootura.com) — 2026-08-08T09:00:00.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria
+
+La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga y Sevilla haya golpeado una catenaría desprendida por una incidencia en obras programadas. En este sentido.
+
+Date: 2026-08-08
 
 ### Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio
 
@@ -62,12 +68,6 @@ La Policía ha detenido a 23 personas en el estreno del festival de música Drea
 
 Date: 2026-08-03
 
-### Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino
-
-El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio](https://www.20minutos.es/nacional/verano-negro-violencia-machista-menos-13-mujeres-han-sido-asesinadas-desde-junio_7023222_0.html?utm_source=lootura.com) — 2026-08-08T05:48:19.000Z
+- [Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria](https://theobjective.com/economia/transporte/2026-08-08/interrumpida-c-2-malaga-golpear-tren-catenaria/?utm_source=lootura.com) — 2026-08-08T08:41:19.000Z

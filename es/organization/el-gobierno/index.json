@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo",
+      "summary": "El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil",
+      "summary": "El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a cargo incluso a familias que superan rentas de 50.000 euros anuales . La última estadística publicada por el Instituto Nacional de la Seguridad Social (INSS) incorpora otro dato que amplía el alcance del denominado «escudo social». Un detalle q.",
+      "date": "2026-08-08"
+    },
     {
       "title": "No molestar a Marruecos",
       "summary": "El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.",
@@ -50,37 +60,27 @@
       "title": "El Gobierno da un ultimátum a Italia para que levante antes del domingo la suspensión del 'espacio Schengen'",
       "summary": "El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio Schengen' impuesta tras la crisis migratoria en Ceuta de hace más de una semana y le ha...",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península \"en pocas semanas\"",
-      "summary": "Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska",
-      "summary": "El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...",
-      "url": "https://www.20minutos.es/nacional/gobierno-blinda-ceuta-ante-posible-entrada-masiva-15-agosto-casi-300-antidisturbios-2-000-soldados-drones_7023647_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T05:42:03.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos",
+      "url": "https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:39:33.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático",
-      "url": "https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:41:12.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo",
+      "url": "https://www.eldiario.es/madrid/gobierno-ayuso-pone-venta-inmueble-gran-via-caro-ano-no-logro-venderlo_1_13435706.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T10:58:56.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "No molestar a Marruecos",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil",
+      "url": "https://okdiario.com/economia/sanchez-derrocha-ayudas-menores-familias-rentas-50-000-mientras-espana-lidera-ue-pobreza-infantil-19146590?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:00:30.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

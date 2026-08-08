@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel
+
+Por primera vez en la historia de Estados Unidos, un musulmán tiene opciones reales de llegar al Senado. Abdulrahman Mohamed el Sayed, candidato demócrata por Míchigan, de 41 años, ha construido su campaña sobre una crítica frontal, íntegra a Israel. Acusa a su Gobierno de cometer un genocidio en Gaza, propone poner fi.
+
+Date: 2026-08-08
 
 ### ¿Menores sin fronteras?
 
@@ -62,13 +68,6 @@ El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para
 
 Date: 2026-08-07
 
-### El Ibex cierra en rojo pero sube un 2% en la semana y se mantiene en zona de máximos
-
-Las Bolsas han encarado la sesión final de la semana con la vista puesta en dos focos de atención: las negociaciones para normalizar el tráfico marítimo por el estrecho de Ormuz y los datos de empleo de Estados Unidos. Ambos factores están dando un respiro a los inversores. El peor dato de empleo para un mes de julio e.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior](https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html?utm_source=lootura.com) — 2026-08-08T03:30:00.000Z
-- [¿Menores sin fronteras?](https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
+- [El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel](https://www.abc.es/internacional/auge-politicos-musulmanes-eeuu-acelera-giro-israel-20260806010615-nt.html?utm_source=lootura.com) — 2026-08-08T12:11:24.000Z

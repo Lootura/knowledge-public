@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»
+
+El polígono de El Tarajal se ha convertido en el refugio de los inmigrantes que no caben en los centros de acogida de Ceuta y que no quieren regresar a Marruecos . OKDIARIO ha recorrido la zona y ha encontrado una realidad que estremece: menores de 11 años durmiendo entre cartones , solos, sin familia y sin ningún tipo.
+
+Date: 2026-08-08
 
 ### Un reportero de TVE tras mostrar las playas de Ceuta llenas de inmigrantes ilegales: «Muchos son licenciados, diplomados y homosexuales»
 
@@ -62,12 +68,6 @@ En pequeños racimos, debajo de un agua cristalina, se ven las siluetas de cuerp
 
 Date: 2026-08-01
 
-### Relato fotográfico | Un rescate de madrugada en la playa de El Tarajal
-
-La madrugada cae sobre Ceuta envuelta en una espesa niebla que apenas deja distinguir las patrulleras fondeadas frente a la costa, cuyos focos barren la superficie del agua. Después de que durante la tarde del viernes el Ejército español tratara de frenar las entradas y persuadiera a quienes alcanzaban la orilla para q.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»](https://okdiario.com/espana/ninas-marroquies-11-anos-duermen-poligono-ceuta-mis-padres-mandaron-sola-espana-19142195?utm_source=lootura.com) — 2026-08-08T11:37:24.000Z

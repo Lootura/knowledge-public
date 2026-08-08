@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -76,12 +76,6 @@
   ],
   "sources": [
     {
-      "title": "El refugio de Anne Igartiburu en el País Vasco perfecto para verano",
-      "url": "https://www.abc.es/gente/refugio-anne-igartiburu-pais-vasco-perfecto-verano-pueblo-20260808223637-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:00:01.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi",
       "url": "https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T16:32:46.000Z",
@@ -94,5 +88,5 @@
       "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

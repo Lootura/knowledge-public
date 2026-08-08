@@ -3,10 +3,16 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T02:13:46.428Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
+
+### La cronología del ajedrez político en cada crisis migratoria España-Marruecos
+
+Las relaciones entre países vecinos suelen ser complejas, y España y Marruecos no son excepción. Ambos en una paradoja constante: la necesidad de cooperar en ámbitos estratégicos y la sucesión de crisis diplomáticas que ponen a prueba sus lazos. El punto de partida fue la Marcha Verde, cuando el Sáhara Occidental se er.
+
+Date: 2026-08-08
 
 ### Marruecos confirma que ha llamado Donald Trump a su autopista en el Sáhara Occidental
 
@@ -34,4 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [La cronología del ajedrez político en cada crisis migratoria España-Marruecos](https://www.abc.es/espana/cronologia-ajedrez-politico-crisis-migratoria-espanamarruecos-20260808000501-ntrc.html?utm_source=lootura.com) — 2026-08-08T12:20:06.000Z

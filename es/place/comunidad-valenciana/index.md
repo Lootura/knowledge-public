@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»
+
+El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.
+
+Date: 2026-08-08
 
 ### Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano
 
@@ -62,12 +68,6 @@ Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigar�
 
 Date: 2026-07-23
 
-### La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana
-
-La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z
+- [Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»](https://theobjective.com/deportes/futbol/2026-08-08/ferran-torres-recuerda-victimas-dana-embajador-valenciano/?utm_source=lootura.com) — 2026-08-08T07:03:25.000Z

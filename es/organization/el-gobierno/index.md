@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
+
+El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.
+
+Date: 2026-08-08
+
+### Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil
+
+El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a cargo incluso a familias que superan rentas de 50.000 euros anuales . La última estadística publicada por el Instituto Nacional de la Seguridad Social (INSS) incorpora otro dato que amplía el alcance del denominado «escudo social». Un detalle q.
+
+Date: 2026-08-08
 
 ### No molestar a Marruecos
 
@@ -56,20 +68,8 @@ El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio S
 
 Date: 2026-08-07
 
-### El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península "en pocas semanas"
-
-Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.
-
-Date: 2026-08-07
-
-### Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska
-
-El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...](https://www.20minutos.es/nacional/gobierno-blinda-ceuta-ante-posible-entrada-masiva-15-agosto-casi-300-antidisturbios-2-000-soldados-drones_7023647_0.html?utm_source=lootura.com) — 2026-08-08T05:42:03.000Z
-- [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z
-- [No molestar a Marruecos](https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/?utm_source=lootura.com) — 2026-08-08T03:25:00.000Z
+- [El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos](https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:39:33.000Z
+- [El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo](https://www.eldiario.es/madrid/gobierno-ayuso-pone-venta-inmueble-gran-via-caro-ano-no-logro-venderlo_1_13435706.html?utm_source=lootura.com) — 2026-08-08T10:58:56.000Z
+- [Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil](https://okdiario.com/economia/sanchez-derrocha-ayudas-menores-familias-rentas-50-000-mientras-espana-lidera-ue-pobreza-infantil-19146590?utm_source=lootura.com) — 2026-08-08T12:00:30.000Z

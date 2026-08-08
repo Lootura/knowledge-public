@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,23 +19,23 @@
   ],
   "changes": [
     {
-      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
-      "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "summary": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).",
       "date": "2026-08-07"
     },
     {
-      "title": "Appeals court deals major setback to Trump's White House ballroom",
-      "summary": "A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.",
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
       "date": "2026-08-07"
     },
     {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
+      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+      "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Appeals court deals major setback to Trump's White House ballroom",
+      "summary": "A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.",
       "date": "2026-08-07"
     },
     {
@@ -71,18 +71,6 @@
   ],
   "sources": [
     {
-      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
-      "url": "https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:06:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Appeals court deals major setback to Trump's White House ballroom",
-      "url": "https://www.nbcnews.com/nightly-news/video/appeals-court-deals-major-setback-to-trump-s-white-house-ballroom-267969605589?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:46:05.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:10:37.000Z",
@@ -95,5 +83,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

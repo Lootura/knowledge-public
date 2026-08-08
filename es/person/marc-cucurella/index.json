@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/marc-cucurella/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/marc-cucurella/index.json",
   "description": "Sigue la actividad de Marc Cucurella en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Cucurella"
   ],
@@ -19,13 +19,13 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Marc Cucurella (28 años): «Dejé los estudios después de aprobar selectividad. Me matriculé en educación física, pero no la hice»",
-      "summary": "Marc Cucurella atraviesa uno de los momentos más importantes de su carrera. A sus 28 años, ha conseguido situarse en el punto de mira . Sin embargo, antes de convertirse en internacional y de alcanzar la élite, también tuvo que elegir entre dos caminos que durante un tiempo intentó mantener abiertos: los estudios y el.",
+      "title": "Discovered by Atlas",
+      "summary": "Marc Cucurella first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-08"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Marc Cucurella first entered the public knowledge record with source-backed evidence.",
+      "title": "Marc Cucurella (28 años): «Dejé los estudios después de aprobar selectividad. Me matriculé en educación física, pero no la hice»",
+      "summary": "Marc Cucurella atraviesa uno de los momentos más importantes de su carrera. A sus 28 años, ha conseguido situarse en el punto de mira . Sin embargo, antes de convertirse en internacional y de alcanzar la élite, también tuvo que elegir entre dos caminos que durante un tiempo intentó mantener abiertos: los estudios y el.",
       "date": "2026-08-08"
     }
   ],
@@ -35,13 +35,7 @@
       "url": "https://www.elconfidencial.com/espana/madrid/2026-08-08/nuevo-hogar-cucurella-madrid-alto-nivel-1tna-1qrt_4401446/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T05:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Marc Cucurella (28 años): «Dejé los estudios después de aprobar selectividad. Me matriculé en educación física, pero no la hice»",
-      "url": "https://okdiario.com/cool/famosos/marc-cucurella-28-anos-deje-estudios-despues-aprobar-selectividad-matricule-educacion-fisica-pero-no-hice-19147211?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:00:50.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

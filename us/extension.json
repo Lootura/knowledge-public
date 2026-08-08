@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T08:50:10.223Z",
+  "generatedAt": "2026-08-08T12:55:15.378Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|93|1786178259721",
+    "signature": "1.18.0|94|1786192917936",
     "version": "1.18.0",
-    "build": 93,
-    "latestEntityUpdatedAt": "2026-08-08T08:37:39.721Z"
+    "build": 94,
+    "latestEntityUpdatedAt": "2026-08-08T12:41:57.936Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-supreme-court",
       "name": "Supreme court",
       "type": "organization",
-      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+      "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
       "url": "https://atlas.lootura.com/us/organization/supreme-court",
       "path": "/us/organization/supreme-court",
-      "updatedAt": "2026-08-08T08:37:39.721Z",
-      "score": 1722,
-      "sourceCount": 36,
+      "updatedAt": "2026-08-08T12:41:57.936Z",
+      "score": 1704,
+      "sourceCount": 37,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,35 +34,9 @@
         "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-08T08:37:39.721Z",
-        "score": 1719,
+        "updatedAt": "2026-08-08T12:41:57.936Z",
+        "score": 1685,
         "sourceCount": 109,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-todd-blanche",
-        "name": "Todd Blanche",
-        "type": "person",
-        "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-        "url": "https://atlas.lootura.com/us/person/todd-blanche",
-        "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-08T08:37:39.721Z",
-        "score": 1704,
-        "sourceCount": 52,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-lisa-cook",
-        "name": "Lisa Cook",
-        "type": "person",
-        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-        "url": "https://atlas.lootura.com/us/person/lisa-cook",
-        "path": "/us/person/lisa-cook",
-        "updatedAt": "2026-08-08T08:37:39.721Z",
-        "score": 1683,
-        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +47,39 @@
         "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-08T08:37:39.721Z",
-        "score": 1674,
-        "sourceCount": 342,
+        "updatedAt": "2026-08-08T12:41:57.936Z",
+        "score": 1678,
+        "sourceCount": 345,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-russia",
+        "name": "Russia",
+        "type": "place",
+        "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+        "url": "https://atlas.lootura.com/us/place/russia",
+        "path": "/us/place/russia",
+        "updatedAt": "2026-08-08T12:41:57.936Z",
+        "score": 1678,
+        "sourceCount": 79,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-08T12:41:57.936Z",
+        "score": 1678,
+        "sourceCount": 643,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 128
+    "publicEntityCount": 127
   }
 }

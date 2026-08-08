@@ -3,10 +3,22 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
+
+### El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento
+
+El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha señalado que el incendio forestal declarado en el paraje Raboconejo de Niebla ( Huelva ) supera la 4.000 hectáreas de extensión, «aunque no toda la superficie es qu.
+
+Date: 2026-08-08
+
+### Discovered by Atlas
+
+Antonio Sanz first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-07
 
 ### "Extrema complejidad" en el incendio de Niebla: el fuego salta a nivel 2, moviliza a la UME y fuerza 66 evacuaciones
 
@@ -20,12 +32,6 @@ El incendio forestal declarado en Niebla ( Huelva ) presenta una situación de �
 
 Date: 2026-08-07
 
-### Discovered by Atlas
-
-Antonio Sanz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento](https://theobjective.com/sociedad/2026-08-08/incendio-niebla-4000-hectareas-viento/?utm_source=lootura.com) — 2026-08-08T10:50:29.000Z

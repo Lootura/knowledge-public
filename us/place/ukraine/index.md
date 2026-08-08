@@ -3,20 +3,38 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Child among three people killed in Russian attacks on Ukraine
-
-Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people.
-
-Date: 2026-08-08
-
 ### What to Know About Wildberries, the Company in Ukraine’s Cross Hairs
 
 Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.
+
+Date: 2026-08-08
+
+### Child among 4 people killed in Russian attacks on Ukraine
+
+Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.
+
+Date: 2026-08-08
+
+### President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall
+
+Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.
+
+Date: 2026-08-08
+
+### As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet
+
+As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
+
+Date: 2026-08-08
+
+### Child among three people killed in Russian attacks on Ukraine
+
+Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people.
 
 Date: 2026-08-08
 
@@ -50,26 +68,9 @@ After Ukraine failed to shoot down a single ballistic missile fired by Russia on
 
 Date: 2026-08-06
 
-### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
-
-To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
-
-Date: 2026-08-05
-
-### Russian missile attacks on Kyiv expose weakness in Ukraine's air defense
-
-A massive Russian missile attack killed nearly two dozen people in Ukraine overnight. Such strikes have become almost routine this summer as Moscow looks to exploit a critical air defense shortage in Ukraine. U.S.-made Patriots are the only air defense weapon capable of shooting down a Russian ballistic missile. Stepha.
-
-Date: 2026-08-05
-
-### Alarming video shows Russian drone chasing Ukrainian man before exploding
-
-Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Child among three people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T06:01:42.000Z
+- [Child among 4 people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T11:27:42.000Z
+- [President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
 - [What to Know About Wildberries, the Company in Ukraine’s Cross Hairs](https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html?utm_source=lootura.com) — 2026-08-08T04:01:17.000Z
-- [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z
+- [As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html?utm_source=lootura.com) — 2026-08-08T04:01:50.000Z

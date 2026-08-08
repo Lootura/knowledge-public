@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "De la Espriella, discípulo del trumpismo en Bogotá",
-      "url": "https://www.elmundo.es/internacional/2026/08/07/6a760fe3fdddfff2158b45bd.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:50:58.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "OpenAI frena el desarrollo de su nueva IA ante el peligro de que se convierta en una amenaza «crítica»",
+      "url": "https://www.abc.es/tecnologia/openai-frena-desarrollo-nueva-ia-ante-peligro-20260808133329-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:47:34.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

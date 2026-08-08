@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "PP",
     "populares"
@@ -67,23 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Un curso de bloqueo para la vivienda en el Congreso: del 'no' a parar desahucios y prorrogar alquileres a los envites del PP",
-      "url": "https://www.20minutos.es/nacional/un-curso-bloqueo-para-vivienda-congreso-no-parar-desahucios-prorrogar-alquileres-los-envites-pp_7021387_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T05:46:31.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»",
       "url": "https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:01:43.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Podcast | Entrevista a Esther Martínez",
-      "url": "https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-esther-martinez/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:25:17.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

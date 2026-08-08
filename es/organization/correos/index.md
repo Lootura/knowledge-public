@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z
+No public source links.

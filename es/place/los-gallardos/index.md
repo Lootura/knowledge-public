@@ -3,10 +3,22 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en "ruido político"
+
+La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una "confrontación partidista, alejada de la realidad" con "ruido político" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.
+
+Date: 2026-08-08
+
+### El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos
+
+El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.
+
+Date: 2026-08-08
 
 ### Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia
 
@@ -56,18 +68,7 @@ La plaza número 3 de la sección Civil y de Instrucción del Tribunal de Instan
 
 Date: 2026-07-14
 
-### Waheed, el último pastor de Bédar: “Me jugué la vida por mis animales”
-
-No le dio importancia. Cuando su hermano le dijo que había fuego en Los Gallardos , Waheed Mumtaz (Gujrat, Pakistán, 35 años) acababa de llegar a la nave en la que guarda a su rebaño de 720 cabras para ordeñarlas. La noticia no hizo que cambiara de plan. Su terreno está en la carretera que da acceso a Bédar , el pueblo.
-
-Date: 2026-07-14
-
-### Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios
-
-La portavoz de Vox en el Congreso, Pepa Millán , ha acusado a los presidentes del Gobierno, Pedro Sánchez , y de la Junta de Andalucía , Juanma Moreno , de achacar el incendio de Los Gallardos (Almería) al cambio climático «como excusa para descargar las responsabilidades de las administraciones». En una rueda de prens.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Las víctimas del incendio de Los Gallardos siguen pidiendo ayuda un mes después de la tragedia](https://www.larazon.es/andalucia/victimas-incendio-gallardos-siguen-pidiendo-ayuda-mes-despues-tragedia_202608086a76e72ba046ad6ebca5430d.html?utm_source=lootura.com) — 2026-08-08T08:22:03.000Z
+- [La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en "ruido político"](https://www.larazon.es/andalucia/junta-lamenta-que-psoe-convierta-tragedia-gallardos-ruido-politico_202608086a771e2071b42a0b5de3bdde.html?utm_source=lootura.com) — 2026-08-08T12:16:33.000Z
+- [El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos](https://theobjective.com/espana/politica/2026-08-08/psoe-moreno-familias-victimas-incendio-gallardos/?utm_source=lootura.com) — 2026-08-08T10:15:44.000Z

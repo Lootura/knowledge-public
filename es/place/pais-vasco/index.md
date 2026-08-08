@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [El refugio de Anne Igartiburu en el País Vasco perfecto para verano](https://www.abc.es/gente/refugio-anne-igartiburu-pais-vasco-perfecto-verano-pueblo-20260808223637-nt.html?utm_source=lootura.com) — 2026-08-08T08:00:01.000Z
 - [Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:32:46.000Z
 - [Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía](https://www.elcorreo.com/alava/araba/euskadi-comprara-forrajes-forma-conjunta-ante-escasez-pastos-sequia-20260807143200-nt_amp.html?utm_source=lootura.com) — 2026-08-07T12:44:45.000Z

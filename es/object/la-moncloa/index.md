@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta
+
+El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.
+
+Date: 2026-08-08
 
 ### Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas
 
@@ -62,12 +68,6 @@ Palacio de la Moncloa first entered the public knowledge record with source-back
 
 Date: 2026-07-20
 
-### Las celebraciones de los campeones del mundo 2026, en imágenes
-
-Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas](https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com) — 2026-08-07T22:26:15.000Z
+- [El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta](https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html?utm_source=lootura.com) — 2026-08-08T11:13:40.000Z

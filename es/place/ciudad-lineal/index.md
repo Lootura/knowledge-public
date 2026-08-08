@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
+
+### Estrangula a su anciano suegro mientras su novio hacía una videoconferencia
+
+Extraño homicidio el ocurrido este caluroso viernes de agosto en el barrio de San Pascual, en el corazón de Ciudad Lineal, muy cerca de la Mezquita y del Tanatorio de la M-30. Una mujer ha sido detenida acusada de matar a su suegro, de 84 años, en lo que, dijo, fue un acto de defensa porque él la atacó con un cuchillo.
+
+Date: 2026-08-08
 
 ### Detenida una mujer por el estrangulamiento de un hombre en una vivienda de Ciudad Lineal
 
@@ -58,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Estrangula a su anciano suegro mientras su novio hacía una videoconferencia](https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html?utm_source=lootura.com) — 2026-08-08T11:17:05.000Z

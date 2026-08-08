@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una "maldición" de la fantasía](https://www.larazon.es/videojuegos/cine/nueva-serie-apple-tv-destinada-superar-juego-tronos-ya-ha-roto-maldicion-fantasia_202608086a70a5cfa5690f04736282ec.html?utm_source=lootura.com) — 2026-08-08T04:50:00.000Z
+No public source links.

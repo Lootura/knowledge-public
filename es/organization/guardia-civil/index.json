@@ -62,25 +62,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...",
-      "url": "https://www.20minutos.es/nacional/gobierno-blinda-ceuta-ante-posible-entrada-masiva-15-agosto-casi-300-antidisturbios-2-000-soldados-drones_7023647_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T05:42:03.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»",
-      "url": "https://www.abc.es/espana/policias-guardias-civiles-avisan-refuerzos-enviados-ceuta-20260807010924-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T07:21:52.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos",
-      "url": "https://www.abc.es/espana/muere-joven-caer-mar-intentaba-entrar-ceuta-20260807185901-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T07:13:26.000Z",
-      "sourceId": "lootura-es-abc"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

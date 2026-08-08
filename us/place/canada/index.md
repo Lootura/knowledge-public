@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada tries to adapt to a future of wildfires
+
+Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.
+
+Date: 2026-08-08
 
 ### ‘I couldn’t breathe’: the deadly health burden of wildfire smoke
 
@@ -62,12 +68,6 @@ After a delay ordered by President Trump and new tariffs against Canada, the bri
 
 Date: 2026-07-24
 
-### China Has Come Through Trump’s Trade War in a Good Position
-
-Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [‘I couldn’t breathe’: the deadly health burden of wildfire smoke](https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts?utm_source=lootura.com) — 2026-08-08T05:00:37.000Z
+- [Canada tries to adapt to a future of wildfires](https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com) — 2026-08-08T11:00:04.000Z

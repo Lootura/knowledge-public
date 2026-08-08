@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,21 @@
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Opinion: Europe's summer of heat",
+      "summary": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that pl.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
       "date": "2026-08-08"
     },
     {
@@ -48,30 +63,33 @@
       "title": "Europe heat wave fuels drought, fires and energy fears",
       "summary": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires. (Image credit: Darko Vojinovic).",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Apple is working on iPhone-to-Windows copy-paste",
-      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors . The move comes in response to an interoperability request from Microsoft that asks Apple to open up its Universal Clipboard feat.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "The Cost of Extreme Heat Is Displacement",
-      "summary": "—zpagistock—Getty Images This summer, as record-breaking heat sweeps across Europe and the United States , millions of people are searching for a way to cool off. They crowd into public pools, and libraries turned into cooling centers. They run their air conditioners around the clock—if they have them. They flee to the.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
-      "summary": "Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:37:43.756Z",
+      "publishedAt": "2026-08-08T12:42:01.947Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Opinion: Europe's summer of heat",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:00:44.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "url": "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T09:02:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

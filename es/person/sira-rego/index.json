@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/sira-rego/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/sira-rego/index.json",
   "description": "Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Sira Abed Rego"
   ],
   "changes": [
+    {
+      "title": "Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta",
+      "summary": "Los vicepresidentes de VOX de Extremadura, Castilla y León y Aragón han enviado sendas cartas a la ministra de Juventud, Sira Rego, para comunicarle que no asistirán a la Comisión Sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y que rechazan su trasla.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sira Rego first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península \"en pocas semanas\"",
       "summary": "Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.",
@@ -22,13 +32,15 @@
       "title": "El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta",
       "summary": "La ministra de Juventud e Infancia, Sira Rego, ha cifrado en 1.342 los menores acogidos hasta el momento en Ceuta, pero ha explicado que se sigue filiando a decenas de menores de los que entraron irregularmente a nado el pasado 30 de julio. Seguir leyendo...",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Sira Rego first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610335/extremadura-aragon-castilla-leon-no-acogeran-menores-inmigrantes.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:02:49.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

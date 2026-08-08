@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande
+
+Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.
+
+Date: 2026-08-08
 
 ### El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»
 
@@ -62,12 +68,7 @@ La vocalista irunesa lució un original diseño negro en el marco de su gira 'Ta
 
 Date: 2026-08-03
 
-### The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián
-
-La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»](https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com) — 2026-08-07T15:03:20.000Z
+- [Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande](https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com) — 2026-08-08T12:05:18.000Z

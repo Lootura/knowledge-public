@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
+      "summary": "Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
       "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
@@ -85,11 +90,6 @@
       "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
       "summary": "“El dinero nunca duerme”, sentenciaba el codicioso Gordon Gekko en Wall Street (1987). Con Bolsas como las de Nueva York, Nasdaq o Corea del Sur estudiando ampliar sus horarios a imagen y semejanza de los mercados de criptoactivos, la imagen cobra sentido más que nunca, si bien es en periodos estivales como el actual c.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”",
-      "summary": "Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York, a diferencia de otros lugares de Estados Unidos, se permitía fotografiar desnudos en las calles, siempre que fuera con fines artísticos. De ese modo, él aprovechaba las primeras horas del día, cuando la ciudad se estaba desperezando y las.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
@@ -98,7 +98,13 @@
       "url": "https://www.elcorreo.com/deportes/golf/mal-rahm-altera-nueva-york-anillo-campeon-20260807210605-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T19:06:06.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
+      "url": "https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

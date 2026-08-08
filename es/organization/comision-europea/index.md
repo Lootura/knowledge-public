@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor](https://www.20minutos.es/nacional/ce-abre-un-nuevo-capitulo-folletin-por-hachazo-renovables-investigar-espana-por-unica-vez-que-ha-pagado-un-acreedor_7022564_0.html?utm_source=lootura.com) — 2026-08-08T05:47:12.000Z
+No public source links.

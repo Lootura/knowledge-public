@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
+
+Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
+
+Date: 2026-08-08
 
 ### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
 
@@ -62,12 +68,7 @@ Date: 2026-07-22
 
 Date: 2026-07-21
 
-### Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”
-
-Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York, a diferencia de otros lugares de Estados Unidos, se permitía fotografiar desnudos en las calles, siempre que fuera con fines artísticos. De ese modo, él aprovechaba las primeras horas del día, cuando la ciudad se estaba desperezando y las.
-
-Date: 2026-07-21
-
 ## Fuentes
 
 - [Otro mal Rahm no se altera en Nueva York, donde tiene el anillo de campeón bajo control](https://www.elcorreo.com/deportes/golf/mal-rahm-altera-nueva-york-anillo-campeon-20260807210605-nt_amp.html?utm_source=lootura.com) — 2026-08-07T19:06:06.000Z
+- [¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?](https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com) — 2026-08-08T12:30:13.000Z

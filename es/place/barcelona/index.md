@@ -3,20 +3,32 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta
-
-En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas, tejados y esculturas se puede ver la huella del paso del tiempo. Y en Buenos Aires , donde todo recuerda a ciudades como París, Madrid o Barcelona, uno de sus edificios esconde el tesoro más enigmático de la ciudad. En la capital argentina.
-
-Date: 2026-08-08
-
 ### Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia
 
 Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.
+
+Date: 2026-08-08
+
+### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
+
+Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
+
+Date: 2026-08-08
+
+### La prensa inglesa se burla del Barcelona por su primera oferta por Rodri: «Métetelos por donde te quepa»
+
+La prensa inglesa reacciona este sábado al primer acercamiento del Barcelona por Rodrigo Hernández . El club azulgrana ofreció 45 millones de euros al Manchester City, algo que para el club inglés es insuficiente . Esa cantidad es la que, para la prensa inglesa, es una burla total. Varios periódicos llevan a portada es.
+
+Date: 2026-08-08
+
+### El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta
+
+En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas, tejados y esculturas se puede ver la huella del paso del tiempo. Y en Buenos Aires , donde todo recuerda a ciudades como París, Madrid o Barcelona, uno de sus edificios esconde el tesoro más enigmático de la ciudad. En la capital argentina.
 
 Date: 2026-08-08
 
@@ -56,20 +68,8 @@ El Barcelona ha ganado terreno en las últimas horas en la carrera por Rodri Her
 
 Date: 2026-08-06
 
-### El FC Barcelona descarta jugar un amistoso en Marruecos por la «incertidumbre actual»
-
-El FC Barcelona ha anunciado este jueves que descarta jugar un amistoso en Tánger ( Marruecos ) , como estaba planeado para el 15 de agosto como parte de la recta final de la pretemporada, por el «contexto de incertidumbre actual» . «Descartado el amistoso en Tánger. Ante el contexto de incertidumbre actual, el FC Barc.
-
-Date: 2026-08-06
-
-### El Barça suspende su partido amistoso en Marruecos tras la crisis: "No se cumplen las condiciones adecuadas"
-
-El FC Barcelona , a través de un comunicado oficial, ha anunciado este jueves 6 de agosto que descarta por completo la posibilidad de disputar el partido amistoso en Tánger, Marruecos, previsto para el próximo día 15. "El FC Barcelona informa que el partido amistoso del primer equipo masculino que estaba previsto para.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta](https://www.20minutos.es/internacional/casita-cielo-misterioso-chalet-tejado-un-edificio-buenos-aires-que-un-espanol-queria-dormir-siesta_7023663_0.html?utm_source=lootura.com) — 2026-08-08T05:54:57.000Z
 - [Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia](https://www.elconfidencial.com/espana/cataluna/2026-08-08/sagrada-familia-lluis-bonet-gaudi-1tps_4402971/?utm_source=lootura.com) — 2026-08-08T08:26:00.000Z
-- [Araújo jugará cedido en el Liverpool](https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610242/araujo-jugara-cedido-liverpool.html?utm_source=lootura.com) — 2026-08-08T05:03:31.000Z
+- [¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?](https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com) — 2026-08-08T12:30:13.000Z
+- [La prensa inglesa se burla del Barcelona por su primera oferta por Rodri: «Métetelos por donde te quepa»](https://okdiario.com/deportes/prensa-inglesa-burla-del-barcelona-primera-oferta-rodri-metetelos-donde-te-quepa-19147744?utm_source=lootura.com) — 2026-08-08T11:55:24.000Z

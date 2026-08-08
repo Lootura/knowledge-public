@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
+
+Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
+
+Date: 2026-08-08
 
 ### Women in Maine may choose the victor in this year's Senate race
 
@@ -62,13 +68,8 @@ Progressive former state senate president gains nomination after Graham Platner 
 
 Date: 2026-07-25
 
-### Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race
-
-Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Maine surgical nurse released from immigration detention following outcry](https://www.nbcnews.com/news/us-news/maine-surgical-nurse-released-immigration-detention-outcry-rcna591371?utm_source=lootura.com) — 2026-08-07T18:45:03.000Z
+- [Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs](https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs?utm_source=lootura.com) — 2026-08-08T11:43:48.000Z
 - [Women in Maine may choose the victor in this year's Senate race](https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com) — 2026-08-07T20:24:38.000Z
+- [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

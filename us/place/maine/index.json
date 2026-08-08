@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Women in Maine may choose the victor in this year's Senate race",
       "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
@@ -61,26 +66,27 @@
       "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
       "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
-      "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Maine surgical nurse released from immigration detention following outcry",
-      "url": "https://www.nbcnews.com/news/us-news/maine-surgical-nurse-released-immigration-detention-outcry-rcna591371?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:45:03.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:43:48.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Women in Maine may choose the victor in this year's Senate race",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:24:38.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T09:02:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

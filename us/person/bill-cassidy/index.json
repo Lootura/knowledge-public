@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bill-cassidy/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bill-cassidy/index.json",
   "description": "Follow Bill Cassidy, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Bill Cassidy, M.D.",
     "Cassidy",
@@ -21,11 +21,6 @@
   ],
   "changes": [
     {
-      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-      "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Bill Cassidy first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-07"
@@ -33,6 +28,11 @@
     {
       "title": "\"Face the Nation with Margaret Brennan\" guests for Aug. 9, 2026",
       "summary": "This week's guests include NIH Director Dr. Jay Bhattacharya, Republican Sen. Bill Cassidy and independent Sen. Bernie Sanders.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+      "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).",
       "date": "2026-08-07"
     },
     {
@@ -52,13 +52,7 @@
       "url": "https://www.cbsnews.com/news/face-the-nation-guests-aug-9-2026/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:28:20.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:12:59.000Z",
-      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

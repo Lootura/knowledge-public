@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling
-
-The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.
-
-Date: 2026-08-07
 
 ### Another court blocks White House ballroom work, teeing up a Supreme Court review
 
@@ -20,15 +14,21 @@ A federal appeals court says above-ground construction cannot continue without a
 
 Date: 2026-08-07
 
-### Appeals court deals major setback to Trump's White House ballroom
-
-A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.
-
-Date: 2026-08-07
-
 ### News Wrap: Court rules Trump needs Congress to approve White House ballroom
 
 In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.
+
+Date: 2026-08-07
+
+### Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling
+
+The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.
+
+Date: 2026-08-07
+
+### Appeals court deals major setback to Trump's White House ballroom
+
+A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.
 
 Date: 2026-08-07
 
@@ -70,7 +70,5 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling](https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com) — 2026-08-07T19:06:37.000Z
-- [Appeals court deals major setback to Trump's White House ballroom](https://www.nbcnews.com/nightly-news/video/appeals-court-deals-major-setback-to-trump-s-white-house-ballroom-267969605589?utm_source=lootura.com) — 2026-08-07T22:46:05.000Z
 - [Another court blocks White House ballroom work, teeing up a Supreme Court review](https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com) — 2026-08-07T18:10:37.000Z
 - [News Wrap: Court rules Trump needs Congress to approve White House ballroom](https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com) — 2026-08-07T22:50:55.000Z

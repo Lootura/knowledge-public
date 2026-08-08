@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
+    {
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "summary": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns. (Image credit: Mario Tama).",
+      "date": "2026-08-08"
+    },
     {
       "title": "What's at stake for Democrats in next week's Wisconsin primary",
       "summary": "More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.",
@@ -29,6 +34,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

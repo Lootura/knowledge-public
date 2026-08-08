@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel",
+      "summary": "Por primera vez en la historia de Estados Unidos, un musulmán tiene opciones reales de llegar al Senado. Abdulrahman Mohamed el Sayed, candidato demócrata por Míchigan, de 41 años, ha construido su campaña sobre una crítica frontal, íntegra a Israel. Acusa a su Gobierno de cometer un genocidio en Gaza, propone poner fi.",
+      "date": "2026-08-08"
+    },
     {
       "title": "¿Menores sin fronteras?",
       "summary": "¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.",
@@ -86,25 +91,14 @@
       "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
       "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Ibex cierra en rojo pero sube un 2% en la semana y se mantiene en zona de máximos",
-      "summary": "Las Bolsas han encarado la sesión final de la semana con la vista puesta en dos focos de atención: las negociaciones para normalizar el tráfico marítimo por el estrecho de Ormuz y los datos de empleo de Estados Unidos. Ambos factores están dando un respiro a los inversores. El peor dato de empleo para un mes de julio e.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior",
-      "url": "https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "¿Menores sin fronteras?",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel",
+      "url": "https://www.abc.es/internacional/auge-politicos-musulmanes-eeuu-acelera-giro-israel-20260806010615-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:11:24.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

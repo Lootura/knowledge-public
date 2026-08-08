@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria",
+      "summary": "La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga y Sevilla haya golpeado una catenaría desprendida por una incidencia en obras programadas. En este sentido.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio",
       "summary": "Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).",
@@ -55,19 +60,14 @@
       "title": "Detenidas 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga",
       "summary": "La Policía ha detenido a 23 personas en el estreno del festival de música Dreambeach en Vélez-Málaga (Málaga) -que en ediciones anteriores se ha celebrado en Almería- por su presunta implicación en delitos contra la salud pública, alteración del orden público y reclamación judicial. El festival, que reunió a miles de a.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Resuelto un crimen de 2020 en Málaga: el detenido admite que descuartizó a su vecino",
-      "summary": "El hombre detenido el pasado 28 de julio por su presunta implicación en la muerte de un vecino de Coín ( Málaga ), desaparecido en 2020 cuando tenía 59 años, ha confesado ante la Guardia Civil que acabó con su vida y descuartizó posteriormente el cadáver. Según ha informado el instituto armado, el sospechoso reconoció.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio",
-      "url": "https://www.20minutos.es/nacional/verano-negro-violencia-machista-menos-13-mujeres-han-sido-asesinadas-desde-junio_7023222_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T05:48:19.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria",
+      "url": "https://theobjective.com/economia/transporte/2026-08-08/interrumpida-c-2-malaga-golpear-tren-catenaria/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:41:19.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -45,6 +45,11 @@
       "date": "2026-08-08"
     },
     {
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
       "date": "2026-08-08"
@@ -53,11 +58,6 @@
       "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
       "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
-      "summary": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They've also raised questions about policies and priorities amid an intense wildfire season. (Image credit: Gretel Daugherty via AP).",
-      "date": "2026-08-07"
     },
     {
       "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
@@ -70,11 +70,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?",
-      "summary": "Texas Republican Sen. Ted Cruz says the U.S. should consider arming Iranian protesters so they can rise up against the regime. Alex Vatanka, a senior fellow at the Middle East Institute, reacts to the remarks.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
       "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
       "date": "2026-08-07"
@@ -83,15 +78,14 @@
       "title": "U.S. loses jobs while unemployment rate drops",
       "summary": "A jobs report came in weaker than expected as stocks hit a record high. NBC News’ Gabe Gutierrez reports.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
-    {
-      "title": "Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?",
-      "url": "https://www.cbsnews.com/video/ted-cruz-says-us-should-arm-iranian-protesters-for-an-uprising-is-that-plan-realistic/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:56:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Pentagon revokes security clearance of former Air Force chief",
       "url": "https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com",
@@ -105,10 +99,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:33:50.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
@@ -144,6 +138,12 @@
       "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
       "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:52:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:56:02.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

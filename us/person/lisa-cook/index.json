@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.json",
   "description": "Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Dr. Cook",
     "Dr. Lisa Cook",
@@ -18,16 +18,6 @@
     "Lisa DeNell Cook"
   ],
   "changes": [
-    {
-      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
-      "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
-      "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
-      "date": "2026-08-07"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Lisa Cook first entered the public knowledge record with source-backed evidence.",
@@ -47,15 +37,19 @@
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
+      "summary": "The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
+      "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
-    {
-      "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
-      "url": "https://www.cbsnews.com/news/lisa-cook-trump-fed-board-firing/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:06:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
@@ -69,17 +63,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
-      "url": "https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:45:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:54:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

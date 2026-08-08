@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
+      "summary": "Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»",
       "summary": "La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos', que puede visitarse hasta el domingo, atrae a fans de dentro y fuera de Gipuzkoa.",
@@ -64,11 +69,6 @@
       "title": "El rompedor 'look' con guiño a Donostia del que presume Amaia Montero: «Es uno de mis vestidos favoritos de la gira»",
       "summary": "La vocalista irunesa lució un original diseño negro en el marco de su gira 'Tantas cosas que contar', de la diseñadora Ione Iruretagoiena.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "The National pospone al 10 de agosto la venta de entradas para su concierto en San Sebastián",
-      "summary": "La preventa del pasado jueves provocó algunos problemas que la banda pretende solucionar para la nueva fecha.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -77,7 +77,13 @@
       "url": "https://www.diariovasco.com/san-sebastian/dragon-asoma-muelle-donostiarra-20260807170320-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:03:20.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
+      "url": "https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:05:18.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

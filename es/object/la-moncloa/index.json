@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
       "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
@@ -58,19 +63,14 @@
       "title": "Discovered by Atlas",
       "summary": "Palacio de la Moncloa first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
-      "summary": "Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
-      "url": "https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:26:15.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:13:40.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 1

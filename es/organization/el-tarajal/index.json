@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-08-08T12:41:31.837Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»",
+      "summary": "El polígono de El Tarajal se ha convertido en el refugio de los inmigrantes que no caben en los centros de acogida de Ceuta y que no quieren regresar a Marruecos . OKDIARIO ha recorrido la zona y ha encontrado una realidad que estremece: menores de 11 años durmiendo entre cartones , solos, sin familia y sin ningún tipo.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Un reportero de TVE tras mostrar las playas de Ceuta llenas de inmigrantes ilegales: «Muchos son licenciados, diplomados y homosexuales»",
       "summary": "Ceuta sigue siendo noticia mientras intenta recuperar la normalidad, tras la invasión de los 72.000 inmigrantes que llegaron desde Marruecos , en su mayoría, a nado o bordeando a pie el espigón fronterizo de El Tarajal la pasada semana. TVE sigue ofreciendo conexiones en directo desde la ciudad autónoma, entre las que.",
@@ -55,13 +60,15 @@
       "title": "La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”",
       "summary": "En pequeños racimos, debajo de un agua cristalina, se ven las siluetas de cuerpos sumergidos muy cerca de la frontera de El Tarajal en Ceuta . Dos de ellos están cogidos de la mano. Son la desgracia sumergida, y todavía por conocer, que ha dejado el cruce multitudinario de personas desde Marruecos de esta semana y de l.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Relato fotográfico | Un rescate de madrugada en la playa de El Tarajal",
-      "summary": "La madrugada cae sobre Ceuta envuelta en una espesa niebla que apenas deja distinguir las patrulleras fondeadas frente a la costa, cuyos focos barren la superficie del agua. Después de que durante la tarde del viernes el Ejército español tratara de frenar las entradas y persuadiera a quienes alcanzaban la orilla para q.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»",
+      "url": "https://okdiario.com/espana/ninas-marroquies-11-anos-duermen-poligono-ceuta-mis-padres-mandaron-sola-espana-19142195?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T11:37:24.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

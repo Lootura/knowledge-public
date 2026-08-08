@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
       "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
       "date": "2026-08-08"
     },
     {
@@ -57,20 +62,9 @@
       "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
       "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "House Democrats just added 12 'safe' Trump districts to their midterm election target list",
-      "summary": "The move brings the Democratic Congressional Campaign Committee's list of targets to 58, an ambitious list that reflects President Donald Trump's diminished standing with the electorate and Democrats' belief that they can capitalize on voters' frustrations.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
-      "url": "https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:01:22.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
     {
       "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
       "url": "https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com",
@@ -81,6 +75,12 @@
       "title": "They’re Battle-Tested Democrats. Do Voters Care?",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:29:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T09:02:19.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

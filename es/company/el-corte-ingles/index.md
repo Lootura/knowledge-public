@@ -46,4 +46,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena](https://cincodias.elpais.com/companias/2026-08-08/el-corte-ingles-vuelve-a-adjudicarse-el-contrato-de-viajes-de-ineco-tras-conseguir-el-de-aena.html?utm_source=lootura.com) — 2026-08-08T03:15:00.000Z
+No public source links.

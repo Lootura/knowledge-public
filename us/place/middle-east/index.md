@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
+
+While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
+
+Date: 2026-08-08
 
 ### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
 
@@ -62,12 +68,7 @@ The State Department on Saturday urged Americans across the Middle East to consi
 
 Date: 2026-08-01
 
-### Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens
-
-Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z
+- [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com) — 2026-08-08T12:14:24.000Z

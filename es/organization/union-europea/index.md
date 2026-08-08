@@ -3,20 +3,20 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T12:41:31.837Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
 
-### La crisis de Ceuta pone a prueba la política fronteriza de la UE: "La cooperación no puede convertirse en dependencia"
-
-Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos "fronteras exteriores" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.
-
-Date: 2026-08-08
-
 ### Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo
 
 El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.
+
+Date: 2026-08-08
+
+### La crisis de Ceuta pone a prueba la política fronteriza de la UE: "La cooperación no puede convertirse en dependencia"
+
+Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos "fronteras exteriores" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.
 
 Date: 2026-08-08
 
@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [La crisis de Ceuta pone a prueba la política fronteriza de la UE: "La cooperación no puede convertirse en dependencia"](https://www.20minutos.es/nacional/crisis-ceuta-pone-prueba-politica-fronteriza-ue-cooperacion-no-puede-convertirse-dependencia_7022934_0.html?utm_source=lootura.com) — 2026-08-08T05:44:16.000Z
 - [Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo](https://www.larazon.es/economia/detectados-dos-casos-aceitunas-deshuesadas-marroquies-alemania-holanda-altos-niveles-plomo_202608086a76e74ba5690f04736e0b90.html?utm_source=lootura.com) — 2026-08-08T08:22:35.000Z

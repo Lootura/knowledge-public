@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T12:41:57.936Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+      "date": "2026-08-08"
+    },
     {
       "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
       "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
@@ -58,11 +63,6 @@
       "title": "State Department urges Americans to consider leaving Middle East as regional conflict escalates",
       "summary": "The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
-      "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-08-07T22:40:21.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:14:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

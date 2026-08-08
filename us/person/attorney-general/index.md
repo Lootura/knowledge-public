@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T08:34:06.000Z
+No public source links.

@@ -28,4 +28,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Los trucos de belleza de Georgina Rodríguez: del retinal a los parches para ojeras y la tecnología coreana](https://www.abc.es/estilo/belleza/trucos-belleza-georgina-rodriguez-retinal-parches-ojeras-20260807180756-nt.html?utm_source=lootura.com) — 2026-08-08T07:09:53.000Z
+No public source links.

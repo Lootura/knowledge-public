@@ -40,4 +40,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Tres mágicos enclaves de la Costa Brava para descubrir con una ruta en kayak](https://www.abc.es/viajar/destinos/espana/tres-magicos-enclaves-costa-brava-descubrir-ruta-20260807012154-nt.html?utm_source=lootura.com) — 2026-08-08T07:10:03.000Z
+No public source links.

@@ -22,4 +22,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | Inicia la sesión del Congreso en Cali](https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html?utm_source=lootura.com) — 2026-08-07T20:10:39.000Z
+No public source links.

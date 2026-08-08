@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T12:41:57.936Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### How a duck's friendship helped a golden retriever overcome health issues
 
 Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.
+
+Date: 2026-08-08
+
+### Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races
+
+Democratic incumbents in safe districts in New York and Colorado have been ousted so far this year by primary challengers.
+
+Date: 2026-08-08
+
+### Super-rich complain but experts welcome Mamdani’s pied-à-terre tax
+
+New York mayor’s policy set to generate revenue and address housing crisis despite outcry in some quarters New York City’s introduction of a pied-à-terre tax has provided fodder for Zohran Mamdani’s critics, who accuse the democratic socialist mayor of attacking the rich – even as others welcome it as a much-needed eff.
 
 Date: 2026-08-08
 
@@ -56,18 +68,8 @@ The Nomatic Messenger Bag can fit quite a bit, but it’s no match for the boxes
 
 Date: 2026-08-04
 
-### The war to succeed Bernie Sanders is already underway
-
-The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
-
-Date: 2026-08-04
-
-### Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently
-
-New York University researchers have pinpointed the molecular players responsible for plants "feeling full" once they've taken up enough nitrogen—a finding that could help scientists develop plants that absorb more nitrogen from the soil and allow farmers to reduce environmentally and economically costly fertilizer app.
-
-Date: 2026-08-02
-
 ## Sources
 
+- [Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races](https://www.cbsnews.com/news/hawaii-primaries-ed-case-jarrett-keohokalole/?utm_source=lootura.com) — 2026-08-08T11:05:25.000Z
 - [How a duck's friendship helped a golden retriever overcome health issues](https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com) — 2026-08-08T00:23:51.000Z
+- [Super-rich complain but experts welcome Mamdani’s pied-à-terre tax](https://www.theguardian.com/us-news/2026/aug/08/mamdani-new-york-pied-a-terre-tax?utm_source=lootura.com) — 2026-08-08T12:00:46.000Z
