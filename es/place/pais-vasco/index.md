@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi](https://www.elcorreo.com/bizkaia/carabelas-portuguesas-dejan-atendidos-solo-tres-dias-20260807183246-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:32:46.000Z
+No public source links.

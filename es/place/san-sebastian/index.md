@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-08
 ### Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián
 
 El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.
+
+Date: 2026-08-08
+
+### Arranque festivo con alma de balón y compás
+
+Donostia da el pistoletazo de salida a laSemana Grande con Martin Zubimendi, que prende unas fiestas a ritmo de euskal dantza y sobreponiéndose a la lluvia.
+
+Date: 2026-08-08
+
+### El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande
+
+El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.
 
 Date: 2026-08-08
 
@@ -56,19 +68,9 @@ Además de los servicios habituales y de los refuerzos para la entrada y salida 
 
 Date: 2026-08-04
 
-### Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa
-
-Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.
-
-Date: 2026-08-04
-
-### Las graves sanciones a las que pueden enfrentarse los clubes que decidieron retirarse en Donostia
-
-El Juez Único les ha incoado por su decisión de negarse a participar en una regata que al final se suspendió.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián](https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:03:49.000Z
 - [Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande](https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com) — 2026-08-08T12:05:18.000Z
+- [Arranque festivo con alma de balón y compás](https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:27:24.000Z
+- [El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande](https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com) — 2026-08-08T18:34:13.000Z

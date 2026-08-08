@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
+
+El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
+
+Date: 2026-08-08
+
+### El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti
+
+Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.
+
+Date: 2026-08-08
 
 ### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
 
@@ -56,20 +68,8 @@ El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de ho
 
 Date: 2026-08-07
 
-### El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona
-
-El Balón de Oro se ha anticipado en sus redes sociales al posible fichaje de Rodrigo Hernández por el FC Barcelona . « ¿Rodri se unirá a la lista? Estos son los ganadores del Balón de Oro que han jugado para el Barcelona», ha titulado el galardón un artículo compartido a través de sus canales oficiales y publicado en s.
-
-Date: 2026-08-07
-
-### Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)
-
-Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [Los controles de viajeros de Italia empezaron sólo en Madrid y Barcelona y se han ido extendiendo a cinco aeropuertos](https://amp.elmundo.es/espana/2026/08/08/6a773461fdddffcf728b457e.html?utm_source=lootura.com) — 2026-08-08T13:55:13.000Z
-- [¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?](https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com) — 2026-08-08T12:30:13.000Z
-- [El Barcelona cambia el amistoso cancelado en Marruecos por uno en Suiza](https://okdiario.com/deportes/barcelona-cambia-amistoso-cancelado-marruecos-uno-suiza-19147888?utm_source=lootura.com) — 2026-08-08T15:39:37.000Z
+- [El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro](https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html?utm_source=lootura.com) — 2026-08-08T15:59:08.000Z
+- [El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti](https://okdiario.com/deportes/barcelona-tumba-nottingham-gol-sobre-bocina-raphinha-penalti-19148714/amp?utm_source=lootura.com) — 2026-08-08T20:02:14.000Z

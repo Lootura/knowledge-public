@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas](https://www.20minutos.es/deportes/deportes_motor/motogp/carrera-sprint-gp-gran-bretana-motogp-directo-ultima-hora-marc-marquez-jorge-martin-pedro-acosta-silverstone_7023875_6.html?utm_source=lootura.com) — 2026-08-08T14:28:14.000Z
+- [Las exportaciones refuerzan el modelo productivo de Castilla y León](https://www.larazon.es/castilla-y-leon/exportaciones-refuerzan-modelo-productivo-castilla-leon_202608086a7783c771b42a0b5de4561d.html?utm_source=lootura.com) — 2026-08-08T19:30:15.000Z

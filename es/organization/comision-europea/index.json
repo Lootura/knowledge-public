@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "Más de 8.000 inmigrantes, el regalo de Marruecos",
+      "summary": "Como era de esperar, la «invasión» de Ceuta ha dejado varios regalos, por cierto, bastante costosos para España. Tras el ridículo de Marlaska, que se ha convertido en una caricatura de sí mismo, y de la Comisión Europea y los ministros de Interior, el desastre se ha saldado con entre 8.000 y 11.000 inmigrantes que se h.",
+      "date": "2026-08-08"
+    },
     {
       "title": "La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor",
       "summary": "España podría ser multada por la Comisión Europea por hacer algo a lo que lleva años resistiéndose con la justificación, precisamente, de no quebrar el Derecho comunitario. Bruselas anunció el marte de esta semana la apertura de una \"investigación en profundidad\" sobre la única vez que el Gobierno ha pagado una de las.",
@@ -59,13 +64,15 @@
       "title": "Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”",
       "summary": "El sector tabaquero atraviesa un momento de agitación. A la espera de que la Comisión Europea ponga en marcha la revisión de la directiva comunitaria sobre los productos del tabaco, ahora en fase de consulta pública, los distintos países que componen el mercado común adaptan sus marcos normativos ante la aparición de l.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
-      "summary": "A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Más de 8.000 inmigrantes, el regalo de Marruecos",
+      "url": "https://www.larazon.es/opinion/mas-8000-inmigrantes-regalo-marruecos_202608086a778573a046ad6ebca63cb5.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:37:30.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

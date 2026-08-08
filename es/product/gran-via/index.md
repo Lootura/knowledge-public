@@ -3,16 +3,10 @@
 > Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/product/gran-via
 
 ## Cambios recientes
-
-### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
-
-El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.
-
-Date: 2026-08-08
 
 ### Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo
 
@@ -20,9 +14,9 @@ Policía Local de Madrid y agentes de Movilidad del Ayuntamiento han cortado est
 
 Date: 2026-08-08
 
-### Un incendio en un restaurante en Madrid obliga a cortar la Gran Vía entre San Bernardo y Plaza de España
+### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
 
-Policía Local de Madrid y agentes de Movilidad del Ayuntamiento han cortado este sábado la Gran Vía entre Plaza de España y San Bernardo por un incendio en un restaurante de la cadena &Ocirc;ven , situado en el número 55 de esta céntrica calle. Así ha informado Emergencias Madrid en sus redes sociales , donde han expli.
+El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.
 
 Date: 2026-08-08
 
@@ -46,5 +40,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo](https://www.eldiario.es/madrid/gobierno-ayuso-pone-venta-inmueble-gran-via-caro-ano-no-logro-venderlo_1_13435706.html?utm_source=lootura.com) — 2026-08-08T10:58:56.000Z
 - [Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo](https://theobjective.com/sociedad/suceso/2026-08-08/incendio-restaurante-cortar-gran-via-plaza-espana-san-bernardo/?utm_source=lootura.com) — 2026-08-08T13:49:39.000Z

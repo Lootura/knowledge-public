@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
 
 Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
+
+Date: 2026-08-08
+
+### How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins
+
+Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as "The County" to Mainers.
 
 Date: 2026-08-08
 
@@ -62,14 +68,8 @@ Democrats are hoping to move past Graham Platner's scandal-plagued campaign as t
 
 Date: 2026-07-25
 
-### Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race
-
-Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.
-
-Date: 2026-07-25
-
 ## Sources
 
 - [Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs](https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs?utm_source=lootura.com) — 2026-08-08T11:43:48.000Z
-- [Women in Maine may choose the victor in this year's Senate race](https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com) — 2026-08-07T20:24:38.000Z
+- [How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins](https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins?utm_source=lootura.com) — 2026-08-08T19:05:04.000Z
 - [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

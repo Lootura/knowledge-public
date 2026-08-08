@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
+      "summary": "La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición",
+      "summary": "El líder de Vox, Santiago Abascal, ha anunciado que su partido promoverá la activación del artículo 102 de la Constitución para investigar a Pedro Sánchez y a su Gobierno por posibles delitos de traición y contra la seguridad del Estado. Abascal ha denunciado que «la traición de Pedro Sánchez a los españoles debe lleva.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Los menores de Ceuta no son ilegales",
       "summary": "Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.",
@@ -52,18 +62,21 @@
       "title": "Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista",
       "summary": "El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Santiago Abascal first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos",
-      "summary": "Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
+      "url": "https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:02:27.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición",
+      "url": "https://okdiario.com/espana/vox-promueve-activar-articulo-102-constitucion-investigar-sanchez-delito-traicion-19148549?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:32:09.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

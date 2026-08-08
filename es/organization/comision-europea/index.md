@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Más de 8.000 inmigrantes, el regalo de Marruecos
+
+Como era de esperar, la «invasión» de Ceuta ha dejado varios regalos, por cierto, bastante costosos para España. Tras el ridículo de Marlaska, que se ha convertido en una caricatura de sí mismo, y de la Comisión Europea y los ministros de Interior, el desastre se ha saldado con entre 8.000 y 11.000 inmigrantes que se h.
+
+Date: 2026-08-08
 
 ### La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor
 
@@ -62,12 +68,6 @@ El sector tabaquero atraviesa un momento de agitación. A la espera de que la Co
 
 Date: 2026-08-03
 
-### Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos
-
-A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi todos los socios europeos —a los que ha tildado de «egoístas.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Más de 8.000 inmigrantes, el regalo de Marruecos](https://www.larazon.es/opinion/mas-8000-inmigrantes-regalo-marruecos_202608086a778573a046ad6ebca63cb5.html?utm_source=lootura.com) — 2026-08-08T19:37:30.000Z

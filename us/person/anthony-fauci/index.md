@@ -3,10 +3,16 @@
 > Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/person/anthony-fauci
 
 ## Recent changes
+
+### Does the Fifth Amendment Protect Fauci?
+
+Our chief legal affairs correspondent, Adam Liptak, discusses whether Anthony Fauci’s presidential pardon makes him ineligible to take advantage of Fifth Amendment protections.
+
+Date: 2026-08-08
 
 ### Senate committee votes to hold Fauci in contempt of Congress
 
@@ -52,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Does the Fifth Amendment Protect Fauci?](https://www.nytimes.com/video/us/politics/100000011077471/does-the-fifth-amendment-protect-fauci.html?utm_source=lootura.com) — 2026-08-08T18:57:33.000Z

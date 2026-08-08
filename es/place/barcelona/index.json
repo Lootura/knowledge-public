@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro",
+      "summary": "El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti",
+      "summary": "Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.",
+      "date": "2026-08-08"
+    },
     {
       "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
       "summary": "Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.",
@@ -60,16 +70,6 @@
       "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
       "summary": "El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona",
-      "summary": "El Balón de Oro se ha anticipado en sus redes sociales al posible fichaje de Rodrigo Hernández por el FC Barcelona . « ¿Rodri se unirá a la lista? Estos son los ganadores del Balón de Oro que han jugado para el Barcelona», ha titulado el galardón un artículo compartido a través de sus canales oficiales y publicado en s.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Detenidos dos menores por un robo violento con gas pimienta en Olesa (Barcelona)",
-      "summary": "Los Mossos d'Esquadra han arrestado este miércoles a dos menores por su presunta implicación en un robo con violencia e intimidación mediante gas pimienta ocurrido en Olesa de Montserrat (Barcelona) el pasado 21 de junio, coincidiendo con las fiestas mayores del municipio. Según el comunicado difundido este viernes , d.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -80,15 +80,15 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
-      "url": "https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:30:13.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:59:08.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     },
     {
-      "title": "El Barcelona cambia el amistoso cancelado en Marruecos por uno en Suiza",
-      "url": "https://okdiario.com/deportes/barcelona-cambia-amistoso-cancelado-marruecos-uno-suiza-19147888?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T15:39:37.000Z",
+      "title": "El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti",
+      "url": "https://okdiario.com/deportes/barcelona-tumba-nottingham-gol-sobre-bocina-raphinha-penalti-19148714/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:02:14.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],

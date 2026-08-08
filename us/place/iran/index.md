@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-08
 ### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
 
 The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
+
+Date: 2026-08-08
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
 
 Date: 2026-08-08
 
@@ -62,16 +68,11 @@ The legislation was championed by Senator Lindsey Graham, the South Carolina Rep
 
 Date: 2026-08-07
 
-### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
-
-There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Iran says deal on Strait of Hormuz is close but will not open the waterway by itself](https://www.nbcnews.com/world/iran/iran-says-deal-strait-hormuz-close-will-not-open-waterway-rcna591476?utm_source=lootura.com) — 2026-08-08T13:17:41.000Z
 - [President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
 - [Houthis Claim Attack on Yemeni Military Camp](https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com) — 2026-08-07T20:44:46.000Z
+- [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
 - [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com) — 2026-08-08T14:57:24.000Z
-- [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com) — 2026-08-08T16:12:26.000Z
+- [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com) — 2026-08-08T19:04:41.000Z

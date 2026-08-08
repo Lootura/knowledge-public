@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/the-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/the-senate/index.json",
   "description": "Follow The Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Funding milestone detected",
-      "summary": "WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+      "title": "Discovered by Atlas",
+      "summary": "The Senate first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-08"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "The Senate first entered the public knowledge record with source-backed evidence.",
+      "title": "NATO spending pressure returned",
+      "summary": "The Senate wrapped up its summer session at 4:57 a.m. ET. Senators knocked two major items off their checklist. They confirmed Todd Blanche as the nation’s 88th Attorney General. They also approved a bipartisan interim spending bill that likely goes a long way toward preventing a government shutdown in October. But nea.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
       "date": "2026-08-08"
     },
     {
@@ -39,17 +44,11 @@
   ],
   "sources": [
     {
-      "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
-      "url": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:00:49.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:33:50.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "The Hitchhiker’s Guide to what the Senate did and didn’t do overnight",
+      "url": "https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:05:27.000Z",
+      "sourceId": "lootura-us-fox-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

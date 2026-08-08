@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Estrangula a su anciano suegro mientras su novio hacía una videoconferencia](https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html?utm_source=lootura.com) — 2026-08-08T13:23:32.000Z
+No public source links.

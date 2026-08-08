@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "CA",
     "CAN",
@@ -23,6 +23,11 @@
     {
       "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
       "summary": "The Bald Range wildfire was first reported on Friday evening.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
       "date": "2026-08-08"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Flights canceled as WestJet flight attendants strike over pay dispute",
       "summary": "WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Beluga whales transferred to U.S. aquariums after Canadian theme park closes",
-      "summary": "Nearly 30 beluga whales were sent to aquariums across the U.S. in a multinational emergency operation after their home aquarium in Canada shuttered. Jared Ochacher reports.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -78,7 +78,13 @@
       "url": "https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T11:00:04.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:22:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

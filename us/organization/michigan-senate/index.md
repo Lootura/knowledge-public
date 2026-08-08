@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [A Spurned Schumer Reaches Out to the Left](https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html?utm_source=lootura.com) — 2026-08-08T00:04:56.000Z
+No public source links.

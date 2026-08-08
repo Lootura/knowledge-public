@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
+
+Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo de la OTAN.
+
+Date: 2026-08-08
 
 ### Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio
 
@@ -62,12 +68,6 @@ Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un at
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-Arabia Saudita first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz](https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com) — 2026-08-08T19:36:47.000Z

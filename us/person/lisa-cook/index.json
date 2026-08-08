@@ -49,19 +49,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:35:35.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
-      "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:54:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

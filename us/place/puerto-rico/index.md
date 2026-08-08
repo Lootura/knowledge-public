@@ -3,7 +3,7 @@
 > Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/puerto-rico
 
 ## Recent changes
@@ -42,4 +42,3 @@ Date: 2026-08-07
 
 - [Puerto Rico's mismanaged, broken infrastructure worsens drought impact](https://www.cbsnews.com/video/puerto-ricos-mismanaged-broken-infrastructure-worsens-drought-impact/?utm_source=lootura.com) — 2026-08-08T15:33:08.000Z
 - [Water rationing begins in Puerto Rico amid drought crisis: "It's brutal"](https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/?utm_source=lootura.com) — 2026-08-08T00:25:57.000Z
-- [Hundreds of thousands without water in Puerto Rico](https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910?utm_source=lootura.com) — 2026-08-07T23:33:33.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
+
+Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.
+
+Date: 2026-08-08
 
 ### Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros
 
@@ -62,12 +68,6 @@ La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales
 
 Date: 2026-08-03
 
-### El Gobierno Vasco, preocupado por las consecuencias de la crisis de Ceuta en los sistemas de acogida y protección en Irun
-
-Melgosa exige al Gobierno de España y a la UE una respuesta «inmediata, plenamente respetuosa con los derechos humanos y coordinada» con los territorios que deben responder a la llegada de migrantes.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva](https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html?utm_source=lootura.com) — 2026-08-08T18:37:14.000Z

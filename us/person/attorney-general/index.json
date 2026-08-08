@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/attorney-general/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/attorney-general/index.json",
   "description": "Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T08:37:39.721Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "AG",
     "Attorney",
     "general"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The Senate wrapped up its summer session at 4:57 a.m. ET. Senators knocked two major items off their checklist. They confirmed Todd Blanche as the nation’s 88th Attorney General. They also approved a bipartisan interim spending bill that likely goes a long way toward preventing a government shutdown in October. But nea.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
       "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
@@ -59,13 +64,15 @@
       "title": "Discovered by Atlas",
       "summary": "Attorney general first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Sen. Adam Schiff, D-Calif., on the confirmation hearing for AG nominee Todd Blanche",
-      "summary": "NPR's Leila Fadel asks Democratic Sen. Adam Schiff what he plans to ask Attorney General nominee Todd Blanche at his confirmation hearing.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The Hitchhiker’s Guide to what the Senate did and didn’t do overnight",
+      "url": "https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:05:27.000Z",
+      "sourceId": "lootura-us-fox-news"
+    }
+  ],
+  "evidenceCount": 1
 }

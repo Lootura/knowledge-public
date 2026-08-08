@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -20,6 +20,11 @@
     {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins",
+      "summary": "Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as \"The County\" to Mainers.",
       "date": "2026-08-08"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
       "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner. (Image credit: Ashley L. Conti for NPR).",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-      "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured t.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
@@ -76,10 +76,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Women in Maine may choose the victor in this year's Senate race",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:24:38.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins",
+      "url": "https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:05:04.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",

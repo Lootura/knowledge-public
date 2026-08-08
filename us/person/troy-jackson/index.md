@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Women in Maine may choose the victor in this year's Senate race](https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race?utm_source=lootura.com) — 2026-08-07T20:24:38.000Z
+No public source links.

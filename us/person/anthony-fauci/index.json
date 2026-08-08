@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -29,6 +29,11 @@
     "Tony Fauci"
   ],
   "changes": [
+    {
+      "title": "Does the Fifth Amendment Protect Fauci?",
+      "summary": "Our chief legal affairs correspondent, Adam Liptak, discusses whether Anthony Fauci’s presidential pardon makes him ineligible to take advantage of Fifth Amendment protections.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Senate committee votes to hold Fauci in contempt of Congress",
       "summary": "The Senate Homeland Security Committee voted to hold Dr. Anthony Fauci in contempt of Congress over his refusal to answer questions during testimony before the committee last week.",
@@ -65,6 +70,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Does the Fifth Amendment Protect Fauci?",
+      "url": "https://www.nytimes.com/video/us/politics/100000011077471/does-the-fifth-amendment-protect-fauci.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:57:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Un incendio en Moratalla obliga a movilizar efectivos de Murcia, Castilla-La Mancha y el Miteco
+
+Un amplio operativo formado por medios aéreos y terrestres de la Región de Murcia , Castilla-La Mancha y el Ministerio para la Transición Ecológica y el Reto Demográfico ( Miteco ) trabaja desde la tarde de este sábado para contener un incendio forestal declarado en el término municipal de Moratalla , en el entorno del.
+
+Date: 2026-08-08
 
 ### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
 
@@ -62,12 +68,6 @@ Sigue en directo los incendios forestales activos alrededor de España, en comun
 
 Date: 2026-07-25
 
-### Feijóo pide a las administraciones que trabajen juntas frente al fuego y sugiere "refrescar el ambiente político"
-
-El líder del PP, Alberto Núñez Feijóo, ha defendido la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España, con especial intensidad en Madrid, Castilla y León y Castilla-La Mancha, y ha apelado a ser «responsables» y «trabajar juntos». Lo ha aseg.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Un incendio en Moratalla obliga a movilizar efectivos de Murcia, Castilla-La Mancha y el Miteco](https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/?utm_source=lootura.com) — 2026-08-08T19:12:00.000Z

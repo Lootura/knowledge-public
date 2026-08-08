@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El giro de Colombia](https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
+No public source links.

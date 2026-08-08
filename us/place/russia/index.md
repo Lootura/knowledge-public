@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Daily fragment: Nyonoksa radiation accident
 
 An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
+
+Date: 2026-08-08
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
 
 Date: 2026-08-08
 
@@ -62,13 +68,7 @@ Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eri
 
 Date: 2026-08-07
 
-### Senate finalizes deal on Russia sanctions
-
-The Senate is back in session today after senators made progress on a voting deal to go on August recess — but didn’t fully clinch it. That means a rare Friday session, when the Senate will finish its saga on Russia sanctions after wrestling with the issue for more than a year. First, though, Sen. Rand Paul, R-Ky., wil.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Daily fragment: Nyonoksa radiation accident](https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com) — 2026-08-08T04:00:00.000Z
-- [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
+- [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z

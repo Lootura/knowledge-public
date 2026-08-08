@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-vivas/index.json",
   "description": "Sigue la actividad de Juan Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-08-08"
     },
     {
-      "title": "El presidente de Ceuta sitúa entre 8.000 y 11.000 los migrantes que siguen en la ciudad",
-      "summary": "El presidente de Ceuta, Juan Vivas, ha calculado este sábado entre 8.000 y 11.000 las personas que permanecen actualmente en la ciudad por la entrada masiva del pasado 30 de julio y ha exigido al Gobierno central que agilice su retorno a Marruecos, al considerar que es la “única salida” para resolver una situación “abs.",
+      "title": "Discovered by Atlas",
+      "summary": "Juan Vivas first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-08"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Juan Vivas first entered the public knowledge record with source-backed evidence.",
+      "title": "Vivas cifra en cerca de 11.000 los migrantes llegados desde Marruecos que permanecen en Ceuta",
+      "summary": "El presidente de Ceuta, Juan Vivas , ha calculado este sábado en entre 8.000 y 11.000 las personas que permanecen actualmente en la ciudad por la entrada masiva del pasado 30 de julio y ha exigido al Gobierno central que agilice su retorno a Marruecos , al considerar que es la “única salida” para resolver una situación.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El presidente de Ceuta sitúa entre 8.000 y 11.000 los migrantes que siguen en la ciudad",
+      "summary": "El presidente de Ceuta, Juan Vivas, ha calculado este sábado entre 8.000 y 11.000 las personas que permanecen actualmente en la ciudad por la entrada masiva del pasado 30 de julio y ha exigido al Gobierno central que agilice su retorno a Marruecos, al considerar que es la “única salida” para resolver una situación “abs.",
       "date": "2026-08-08"
     }
   ],
@@ -35,10 +40,10 @@
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El presidente de Ceuta sitúa entre 8.000 y 11.000 los migrantes que siguen en la ciudad",
-      "url": "https://www.lavanguardia.com/politica/20260808/11610370/presidente-ceuta-situa-8-000-11-000-migrantes-siguen-ciudad.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T13:15:02.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Vivas cifra en cerca de 11.000 los migrantes llegados desde Marruecos que permanecen en Ceuta",
+      "url": "https://www.elindependiente.com/espana/2026/08/08/vivas-cifra-en-cerca-de-11-000-los-migrantes-llegados-desde-marruecos-que-permanecen-en-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T12:31:05.000Z",
+      "sourceId": "lootura-es-el-independiente"
     }
   ],
   "evidenceCount": 2

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo](https://www.eldiario.es/madrid/gobierno-ayuso-pone-venta-inmueble-gran-via-caro-ano-no-logro-venderlo_1_13435706.html?utm_source=lootura.com) — 2026-08-08T10:58:56.000Z
+No public source links.

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:42:22.377Z",
+  "generatedAt": "2026-08-08T20:39:03.113Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|96|1786206611933",
+    "signature": "1.18.0|97|1786220776467",
     "version": "1.18.0",
-    "build": 96,
-    "latestEntityUpdatedAt": "2026-08-08T16:30:11.933Z"
+    "build": 97,
+    "latestEntityUpdatedAt": "2026-08-08T20:26:16.467Z"
   },
   "atlas": {
     "hero": {
@@ -20,7 +20,7 @@
       "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
       "url": "https://atlas.lootura.com/us/organization/supreme-court",
       "path": "/us/organization/supreme-court",
-      "updatedAt": "2026-08-08T16:30:11.933Z",
+      "updatedAt": "2026-08-08T20:26:16.467Z",
       "score": 1697,
       "sourceCount": 38,
       "isBreaking": false,
@@ -28,28 +28,15 @@
     },
     "cards": [
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-08T16:30:11.933Z",
-        "score": 1655,
-        "sourceCount": 110,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
         "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-08T16:30:11.933Z",
-        "score": 1653,
-        "sourceCount": 347,
+        "updatedAt": "2026-08-08T20:26:16.467Z",
+        "score": 1644,
+        "sourceCount": 348,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,9 @@
         "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-08T16:30:11.933Z",
-        "score": 1653,
-        "sourceCount": 647,
+        "updatedAt": "2026-08-08T20:26:16.467Z",
+        "score": 1644,
+        "sourceCount": 649,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +60,26 @@
         "title": "Trump announces $180 million to boost mining education",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-08T16:30:11.933Z",
-        "score": 1641,
+        "updatedAt": "2026-08-08T20:26:16.467Z",
+        "score": 1635,
         "sourceCount": 637,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-08-08T20:26:16.467Z",
+        "score": 1635,
+        "sourceCount": 110,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 129
+    "publicEntityCount": 131
   }
 }

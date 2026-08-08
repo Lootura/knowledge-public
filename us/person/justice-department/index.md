@@ -3,7 +3,7 @@
 > Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/person/justice-department
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Senate confirms Todd Blanche as attorney general after weeks of uncertainty](https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com) — 2026-08-08T08:33:50.000Z
+- [Senate votes to confirm Todd Blanche as attorney general](https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general?utm_source=lootura.com) — 2026-08-08T08:46:39.000Z

@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,8 +70,5 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
 - [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
-- [Appeals Court Upholds Block on Trump Ballroom Construction](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com) — 2026-08-07T19:06:27.000Z
-- [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
 - [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:15.000Z

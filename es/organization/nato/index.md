@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
+
+Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo de la OTAN.
+
+Date: 2026-08-08
 
 ### Pánico en una playa del sur de Rusia con siete muertos por el derribo de un dron ucraniano
 
@@ -62,12 +68,6 @@ For the US’ allies, Nato summits have largely become a matter of damage contro
 
 Date: 2026-07-14
 
-### La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos
-
-Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva cibernética contra Francia y Alemania, que han convocado a los embajadores rusos para pedirles explicaciones.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz](https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com) — 2026-08-08T19:36:47.000Z

@@ -1,0 +1,48 @@
+{
+  "id": "es-martin-zubimendi",
+  "name": "Martín Zubimendi",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/martin-zubimendi",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/martin-zubimendi",
+  "markdownUrl": "https://atlas.lootura.com/es/person/martin-zubimendi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/martin-zubimendi/index.json",
+  "description": "Sigue la actividad de Martín Zubimendi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "aliases": [
+    "Martín Zubimendi Ibáñez",
+    "Martin Zubimendi Ibanez"
+  ],
+  "changes": [
+    {
+      "title": "Arranque festivo con alma de balón y compás",
+      "summary": "Donostia da el pistoletazo de salida a laSemana Grande con Martin Zubimendi, que prende unas fiestas a ritmo de euskal dantza y sobreponiéndose a la lluvia.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande",
+      "summary": "El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Martin Zubimendi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Arranque festivo con alma de balón y compás",
+      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T16:27:24.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande",
+      "url": "https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:34:13.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 2
+}

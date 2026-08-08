@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano",
+      "summary": "Un hombre de 61 años y nacionalidad española ha muerto ahogado este sábado por la tarde mientras se bañaba mar adentro en la playa de l'Estartit, en Torroella de Montgrí (Gerona), con lo que ya son 17 las personas fallecidas en las playas catalanas este verano. Según ha informado Protección Civil de la Generalitat, el.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112",
       "summary": "Protección Civil ha desactivado la alerta del plan especial de emergencias por inundaciones de Cataluña (Inuncat) una vez finalizados los avisos por intensidad de lluvia del Servicio Meteorológico de Cataluña, que ha dejado 410 llamadas al teléfono de emergencias 112. Algunos de los registros más destacados del día han.",
@@ -59,13 +64,15 @@
       "title": "Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios",
       "summary": "Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida",
-      "summary": "Primera mañana de verano en Burgos, con un sol intenso en el cielo azul y las margaritas felices en el campo, cuando se monta la marabunta en la puerta del Cernégula. Se bajan hasta los auxiliares de la ambulancia de Protección Civil. “¡Sois unos artistas!”, exclama un anciano llamado Paco en la puerta de la antigua fo.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano",
+      "url": "https://www.larazon.es/sociedad/muere-ahogado-banista-gerona-van-17-cataluna-este-verano_202608086a77864a71b42a0b5de45a2c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:41:56.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "Democrats"
   ],
@@ -72,17 +72,11 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "They’re Battle-Tested Democrats. Do Voters Care?",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:29:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T09:02:19.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

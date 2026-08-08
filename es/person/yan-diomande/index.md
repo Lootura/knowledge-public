@@ -3,10 +3,16 @@
 > Sigue la actividad de Yan Diomande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/person/yan-diomande
 
 ## Cambios recientes
+
+### Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande
+
+El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la renovación de Vinicius Júnior hasta el 30 de junio de 2032, un monovolumen negro abandonaba la concentración del RB Leipzig en Saalfelden (Austria) camino del aeropuerto. Dentro viajaba Yan Diomande , diecinueve años, rumbo a Madrid para cerra.
+
+Date: 2026-08-08
 
 ### Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...
 
@@ -46,4 +52,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande](https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt.html?utm_source=lootura.com) — 2026-08-08T18:39:44.000Z

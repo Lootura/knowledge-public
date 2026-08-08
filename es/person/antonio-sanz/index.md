@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento](https://theobjective.com/sociedad/2026-08-08/incendio-niebla-4000-hectareas-viento/?utm_source=lootura.com) — 2026-08-08T10:50:29.000Z
+No public source links.

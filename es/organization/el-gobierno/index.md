@@ -2,11 +2,23 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Type: person
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta
+
+El Gobierno, tras la invasión a Ceuta no detectada por nuestros servicios según Marlaska, ha puesto boyas «disuasorias» en la frontera . Su objetivo, según informaron, es para evitar la llegada de inmigrantes a nuestras fronteras. OKDIARIO comprueba la poca dificultad que hay para pasar de Marruecos a España. Un report.
+
+Date: 2026-08-08
+
+### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
+
+La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
+
+Date: 2026-08-08
 
 ### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
 
@@ -56,19 +68,8 @@ El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y 
 
 Date: 2026-08-07
 
-### El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP
-
-Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.
-
-Date: 2026-08-07
-
-### El Gobierno da un ultimátum a Italia para que levante antes del domingo la suspensión del 'espacio Schengen'
-
-El Gobierno ha emplazado a Italia a que levante ya la suspensión del 'espacio Schengen' impuesta tras la crisis migratoria en Ceuta de hace más de una semana y le ha...
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos](https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:39:33.000Z
-- [El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo](https://www.eldiario.es/madrid/gobierno-ayuso-pone-venta-inmueble-gran-via-caro-ano-no-logro-venderlo_1_13435706.html?utm_source=lootura.com) — 2026-08-08T10:58:56.000Z
+- [Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta](https://okdiario.com/espana/reportero-okdiario-muestra-como-saltar-ridiculas-boyas-disuasorias-puestas-gobierno-invasion-ceuta-19148414?utm_source=lootura.com) — 2026-08-08T17:30:20.000Z
+- [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z

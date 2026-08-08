@@ -3,10 +3,16 @@
 > Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T08:37:39.721Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/person/attorney-general
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+The Senate wrapped up its summer session at 4:57 a.m. ET. Senators knocked two major items off their checklist. They confirmed Todd Blanche as the nation’s 88th Attorney General. They also approved a bipartisan interim spending bill that likely goes a long way toward preventing a government shutdown in October. But nea.
+
+Date: 2026-08-08
 
 ### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
 
@@ -62,12 +68,6 @@ Attorney general first entered the public knowledge record with source-backed ev
 
 Date: 2026-07-15
 
-### Sen. Adam Schiff, D-Calif., on the confirmation hearing for AG nominee Todd Blanche
-
-NPR's Leila Fadel asks Democratic Sen. Adam Schiff what he plans to ask Attorney General nominee Todd Blanche at his confirmation hearing.
-
-Date: 2026-07-15
-
 ## Sources
 
-No public source links.
+- [The Hitchhiker’s Guide to what the Senate did and didn’t do overnight](https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com) — 2026-08-08T20:05:27.000Z

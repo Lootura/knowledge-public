@@ -1,0 +1,45 @@
+{
+  "id": "es-gran-bretana",
+  "name": "Gran Bretaña",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/gran-bretana",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/gran-bretana",
+  "markdownUrl": "https://atlas.lootura.com/es/place/gran-bretana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/gran-bretana/index.json",
+  "description": "Sigue la actividad de Gran Bretaña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "aliases": [
+    "Albion",
+    "Blighty",
+    "Britain",
+    "Britannia",
+    "GB",
+    "GBR",
+    "Gt. Brit",
+    "Isla de Gran Bretana",
+    "Isla de Gran Bretaña",
+    "mainland Britain"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Gran Bretaña first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
+      "summary": "Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jorge Martín arrasa al sprint en Silverstone y Márquez puntúa de milagro",
+      "url": "https://okdiario.com/deportes/jorge-martin-arrasa-sprint-silverstone-marquez-puntua-milagro-19148269?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:46:26.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-08-05
 ## Sources
 
 - [Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’](https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com) — 2026-08-08T02:10:38.000Z
-- [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z
 - [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

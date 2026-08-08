@@ -3,10 +3,16 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
+
+La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
+
+Date: 2026-08-08
 
 ### Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta
 
@@ -34,4 +40,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z

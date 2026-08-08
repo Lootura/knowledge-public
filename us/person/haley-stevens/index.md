@@ -22,4 +22,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z
+No public source links.

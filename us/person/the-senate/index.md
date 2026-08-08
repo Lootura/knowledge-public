@@ -3,20 +3,26 @@
 > Follow The Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/person/the-senate
 
 ## Recent changes
 
-### Funding milestone detected
-
-WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.
-
-Date: 2026-08-08
-
 ### Discovered by Atlas
 
 The Senate first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-08
+
+### NATO spending pressure returned
+
+The Senate wrapped up its summer session at 4:57 a.m. ET. Senators knocked two major items off their checklist. They confirmed Todd Blanche as the nation’s 88th Attorney General. They also approved a bipartisan interim spending bill that likely goes a long way toward preventing a government shutdown in October. But nea.
+
+Date: 2026-08-08
+
+### Funding milestone detected
+
+WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.
 
 Date: 2026-08-08
 
@@ -40,5 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Senate passes short-term bill to prevent a shutdown before the midterm elections](https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359?utm_source=lootura.com) — 2026-08-08T08:00:49.000Z
-- [Senate confirms Todd Blanche as attorney general after weeks of uncertainty](https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com) — 2026-08-08T08:33:50.000Z
+- [The Hitchhiker’s Guide to what the Senate did and didn’t do overnight](https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com) — 2026-08-08T20:05:27.000Z

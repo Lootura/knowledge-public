@@ -3,20 +3,26 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
 
-### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
-
-The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
-
-Date: 2026-08-08
-
 ### Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns
 
 Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+
+Date: 2026-08-08
+
+### NATO spending pressure returned
+
+The Senate wrapped up its summer session at 4:57 a.m. ET. Senators knocked two major items off their checklist. They confirmed Todd Blanche as the nation’s 88th Attorney General. They also approved a bipartisan interim spending bill that likely goes a long way toward preventing a government shutdown in October. But nea.
+
+Date: 2026-08-08
+
+### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
+
+The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
 
 Date: 2026-08-08
 
@@ -62,13 +68,8 @@ The state of New Mexico sued the Department of Justice and Acting Attorney Gener
 
 Date: 2026-08-05
 
-### Senate Judiciary Committee advances Blanche's nomination for attorney general
-
-The Senate Judiciary Committee voted along party lines to advance Todd Blanche's nomination for attorney general.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Senate confirms Todd Blanche as attorney general after weeks of uncertainty](https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com) — 2026-08-08T08:33:50.000Z
+- [Senate confirms Todd Blanche, Trump's ex-defense lawyer, as attorney general](https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com) — 2026-08-08T16:57:05.000Z
+- [The Hitchhiker’s Guide to what the Senate did and didn’t do overnight](https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com) — 2026-08-08T20:05:27.000Z
 - [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:07.000Z

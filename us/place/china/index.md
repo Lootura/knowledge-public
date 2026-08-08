@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
+
+Date: 2026-08-08
 
 ### China’s Export Boom Rolls On Despite Trade Backlash
 
@@ -62,12 +68,6 @@ AI debate in recent years has centered on whether the U.S. can develop a strateg
 
 Date: 2026-08-02
 
-### South China evacuates over 340,000 and cancels flights as region braces for Typhoon Noul
-
-Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z

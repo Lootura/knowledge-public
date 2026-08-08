@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»
+
+El político demócrata, Joe Biden, sufre un cáncer de próstata « muy doloroso » y « muy debilitante ». Fue el pasado mes de mayo de 2025 cuando el expresidente, después de dejar la Casa Blanca, anunció que había sido diagnosticado con un cáncer de próstata con metástasis ósea . Meses después, Biden comenzó a recibir rad.
+
+Date: 2026-08-08
 
 ### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
 
@@ -62,12 +68,6 @@ La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo
 
 Date: 2026-07-24
 
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»](https://okdiario.com/internacional/hijo-joe-biden-revela-que-cancer-padre-extendido-hecho-metastasis-muy-doloroso-19148400?utm_source=lootura.com) — 2026-08-08T16:48:34.000Z

@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Otro mal Rahm no se altera en Nueva York, donde tiene el anillo de campeón bajo control](https://www.elcorreo.com/deportes/golf/mal-rahm-altera-nueva-york-anillo-campeon-20260807210605-nt_amp.html?utm_source=lootura.com) — 2026-08-07T19:06:06.000Z
-- [¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?](https://www.larazon.es/economia/cuanto-cuesta-vivir-madrid-barcelona-frente-nueva-york-zurich_202608086a772155a046ad6ebca5a225.html?utm_source=lootura.com) — 2026-08-08T12:30:13.000Z
+No public source links.

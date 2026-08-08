@@ -1,0 +1,50 @@
+{
+  "id": "usa-british-columbia",
+  "name": "British Columbia",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/british-columbia",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/british-columbia",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.json",
+  "description": "Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "aliases": [
+    "BC",
+    "B.C.",
+    "Province of British Columbia",
+    "CA-BC"
+  ],
+  "changes": [
+    {
+      "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "summary": "The Bald Range fire, which started on Friday, has burned more than 23,000 acres near the Districts of Summerland and Peachland in British Columbia, officials said.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "British Columbia first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:52:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:22:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

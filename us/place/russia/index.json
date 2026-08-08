@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,11 @@
     {
       "title": "Daily fragment: Nyonoksa radiation accident",
       "summary": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
       "date": "2026-08-08"
     },
     {
@@ -61,11 +66,6 @@
       "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Senate finalizes deal on Russia sanctions",
-      "summary": "The Senate is back in session today after senators made progress on a voting deal to go on August recess — but didn’t fully clinch it. That means a rare Friday session, when the Senate will finish its saga on Russia sanctions after wrestling with the issue for more than a year. First, though, Sen. Rand Paul, R-Ky., wil.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -76,10 +76,10 @@
       "sourceId": "lootura-us-lootura-daily"
     },
     {
-      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
-      "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T23:41:17.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:56:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-08T20:26:16.467Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -26,12 +26,6 @@ Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligen
 
 Date: 2026-08-08
 
-### Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse
-
-Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.
-
-Date: 2026-08-08
-
 ### Europeans face energy crisis as heat wave brings wildfires and drought
 
 The Danube River hasn't been this low in over 200 years. Wildfires are scorching multiple countries in Europe. Less water means less nuclear energy generation, bringing an energy crisis. Ramy Inocencio details Europe's heat wave struggles.
@@ -47,6 +41,12 @@ Date: 2026-08-08
 ### These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires
 
 As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable "super scooper" amphibious aircraft.
+
+Date: 2026-08-08
+
+### Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse
+
+Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.
 
 Date: 2026-08-08
 
@@ -76,4 +76,3 @@ Date: 2026-08-07
 - [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-08T16:30:15.385Z
 - [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z
 - [The Bond effect? How MI6 fascinates spy watchers around the world](https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
-- [Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse](https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

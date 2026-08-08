@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,11 +40,6 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
       "summary": "As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable \"super scooper\" amphibious aircraft.",
       "date": "2026-08-08"
@@ -65,6 +60,21 @@
       "date": "2026-08-08"
     },
     {
+      "title": "Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood",
+      "summary": "One year after flash flooding at Camp Mystic took 28 lives, three fathers are sharing how their young daughters’ private faith continues to lift their families. Speaking on \" Saturday in America ,\" Ryan DeWitt, Wade Lytal and Cole Naylor shared how their daughters' deep-rooted faith has sustained them through tragedy.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
       "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
       "date": "2026-08-08"
@@ -73,16 +83,6 @@
       "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
-      "summary": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -99,16 +99,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:33:50.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
-      "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T23:41:17.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood",
+      "url": "https://www.foxnews.com/media/heartbroken-fathers-find-divine-hope-secret-notes-left-girls-killed-camp-mystic-flood?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:16:30.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "How winter canola could profit Illinois farmers, improve sustainability",
@@ -123,17 +117,17 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:35:20.000Z",
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:56:38.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
       "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:12:26.000Z",
+      "publishedAt": "2026-08-08T19:04:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 8
 }

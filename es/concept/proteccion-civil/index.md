@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano
+
+Un hombre de 61 años y nacionalidad española ha muerto ahogado este sábado por la tarde mientras se bañaba mar adentro en la playa de l'Estartit, en Torroella de Montgrí (Gerona), con lo que ya son 17 las personas fallecidas en las playas catalanas este verano. Según ha informado Protección Civil de la Generalitat, el.
+
+Date: 2026-08-08
 
 ### Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112
 
@@ -62,12 +68,6 @@ Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y am
 
 Date: 2026-07-24
 
-### La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida
-
-Primera mañana de verano en Burgos, con un sol intenso en el cielo azul y las margaritas felices en el campo, cuando se monta la marabunta en la puerta del Cernégula. Se bajan hasta los auxiliares de la ambulancia de Protección Civil. “¡Sois unos artistas!”, exclama un anciano llamado Paco en la puerta de la antigua fo.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano](https://www.larazon.es/sociedad/muere-ahogado-banista-gerona-van-17-cataluna-este-verano_202608086a77864a71b42a0b5de45a2c.html?utm_source=lootura.com) — 2026-08-08T19:41:56.000Z

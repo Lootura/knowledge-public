@@ -3,10 +3,16 @@
 > Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-militar
 
 ## Cambios recientes
+
+### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
+
+Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.
+
+Date: 2026-08-08
 
 ### Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»
 
@@ -62,12 +68,6 @@ Francisco Martín, delegado del Gobierno en Madrid, ha informado la tarde de est
 
 Date: 2026-07-16
 
-### Detenida una persona sospechosa de originar el incendio en Lozoyuela (Madrid)
-
-El delegado del Gobierno en Madrid, Francisco Martín, ha informado de que esta tarde se ha detenido a una persona como presunto responsable de haber iniciado el incendio forestal declarado en Lozoyuela , actualmente en Situación Operativa 2 y que ha obligado a la intervención de la Unidad Militar de Emergencias (UME) .
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva](https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html?utm_source=lootura.com) — 2026-08-08T18:37:14.000Z

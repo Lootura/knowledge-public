@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Outer Banks community spending $50 million to save its beachfront economy](https://www.cbsnews.com/news/north-carolina-outer-banks-buxton-beach-erosion-restoration/?utm_source=lootura.com) — 2026-08-07T23:56:38.000Z
+No public source links.

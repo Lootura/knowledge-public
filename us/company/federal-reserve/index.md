@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
+No public source links.

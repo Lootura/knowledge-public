@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos](https://theobjective.com/espana/politica/2026-08-08/psoe-moreno-familias-victimas-incendio-gallardos/?utm_source=lootura.com) — 2026-08-08T10:15:44.000Z
+No public source links.

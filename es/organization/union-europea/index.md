@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Marlaska comunica a la UE el establecimiento de España de controles fronterizos en conexiones aéreas y marítimas con Italia](https://www.20minutos.es/nacional/marlaska-comunica-ue-establecimiento-espana-controles-fronterizos-conexiones-aereas-maritimas-con-italia_7023861_0.html?utm_source=lootura.com) — 2026-08-08T12:17:49.000Z
+- [España e Italia garantizan a la Unión Europea que los controles fronterizos serán "temporales"](https://www.elindependiente.com/espana/2026/08/08/espana-italia-garantizan-union-europea-controles-fronterizos-temporales/?utm_source=lootura.com) — 2026-08-08T17:23:50.000Z

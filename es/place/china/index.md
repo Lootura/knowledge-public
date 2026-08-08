@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”](https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
+No public source links.

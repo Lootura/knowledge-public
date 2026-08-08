@@ -1,0 +1,36 @@
+{
+  "id": "es-ai-ogura",
+  "name": "Ai Ogura",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/ai-ogura",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/ai-ogura",
+  "markdownUrl": "https://atlas.lootura.com/es/person/ai-ogura/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/ai-ogura/index.json",
+  "description": "Sigue la actividad de Ai Ogura en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "aliases": [
+    "Ogura Ai"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ai Ogura first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
+      "summary": "Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jorge Martín arrasa al sprint en Silverstone y Márquez puntúa de milagro",
+      "url": "https://okdiario.com/deportes/jorge-martin-arrasa-sprint-silverstone-marquez-puntua-milagro-19148269?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:46:26.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
+}

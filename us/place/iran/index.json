@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -29,6 +29,11 @@
     {
       "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
       "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
       "date": "2026-08-08"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
       "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
-      "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -87,6 +87,12 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:56:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
       "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T14:57:24.000Z",
@@ -95,9 +101,9 @@
     {
       "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
       "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:12:26.000Z",
+      "publishedAt": "2026-08-08T19:04:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

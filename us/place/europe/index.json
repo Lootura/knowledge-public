@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "EU",
     "European Union"
@@ -30,11 +30,6 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
-      "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "Europeans face energy crisis as heat wave brings wildfires and drought",
       "summary": "The Danube River hasn't been this low in over 200 years. Wildfires are scorching multiple countries in Europe. Less water means less nuclear energy generation, bringing an energy crisis. Ramy Inocencio details Europe's heat wave struggles.",
       "date": "2026-08-08"
@@ -47,6 +42,11 @@
     {
       "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
       "summary": "As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable \"super scooper\" amphibious aircraft.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
       "date": "2026-08-08"
     },
     {
@@ -101,13 +101,7 @@
       "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com",
       "publishedAt": "2026-08-08T11:00:44.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
-      "url": "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:02:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

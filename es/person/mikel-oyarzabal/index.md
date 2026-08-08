@@ -3,10 +3,16 @@
 > Sigue la actividad de Mikel Oyarzabal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/person/mikel-oyarzabal
 
 ## Cambios recientes
+
+### El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande
+
+El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.
+
+Date: 2026-08-08
 
 ### Eusebio: «La Real Sociedad no tiene techo, debe seguir queriendo ganarlo todo»
 
@@ -34,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande](https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com) — 2026-08-08T18:34:13.000Z

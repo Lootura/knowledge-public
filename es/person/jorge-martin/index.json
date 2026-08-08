@@ -1,0 +1,39 @@
+{
+  "id": "es-jorge-martin",
+  "name": "Jorge Martín",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/jorge-martin",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/jorge-martin",
+  "markdownUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.json",
+  "description": "Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "aliases": [
+    "Jorge",
+    "Jorge Martin Almoguera",
+    "Jorge Martín Almoguera",
+    "Martín"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jorge Martín first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
+      "summary": "Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jorge Martín, más líder tras ganar en Silverstone en la esprint; Márquez sufre",
+      "url": "https://www.abc.es/deportes/motos/jorge-martin-impone-silverstone-esprint-marquez-sufre-20260808174509-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T15:45:09.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

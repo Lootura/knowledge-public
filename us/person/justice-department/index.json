@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/justice-department/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/justice-department/index.json",
   "description": "Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:33:50.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T08:46:39.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

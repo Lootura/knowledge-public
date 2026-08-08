@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/sira-rego/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/sira-rego/index.json",
   "description": "Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "Sira Abed Rego"
   ],
   "changes": [
+    {
+      "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
+      "summary": "La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta",
       "summary": "Los vicepresidentes de VOX de Extremadura, Castilla y León y Aragón han enviado sendas cartas a la ministra de Juventud, Sira Rego, para comunicarle que no asistirán a la Comisión Sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y que rechazan su trasla.",
@@ -34,6 +39,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T16:51:11.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
+
+Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
+
+Date: 2026-08-08
+
+### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
+
+La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...
+
+Date: 2026-08-08
+
+### Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta
+
+Dicha acusación debe ser promovida por un cuarto de los diputados del Congreso y aprobada por la mayoría absoluta para tramitarse Leer.
+
+Date: 2026-08-08
+
+### Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición
+
+El líder de Vox, Santiago Abascal, ha anunciado que su partido promoverá la activación del artículo 102 de la Constitución para investigar a Pedro Sánchez y a su Gobierno por posibles delitos de traición y contra la seguridad del Estado. Abascal ha denunciado que «la traición de Pedro Sánchez a los españoles debe lleva.
+
+Date: 2026-08-08
 
 ### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
 
@@ -17,12 +41,6 @@ Date: 2026-08-08
 ### Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas
 
 Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.
-
-Date: 2026-08-08
-
-### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
-
-Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
 
 Date: 2026-08-08
 
@@ -50,28 +68,11 @@ El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a ca
 
 Date: 2026-08-08
 
-### Escondido en la playa
-
-La sorpresa por el comportamiento de Pedro Sánchez ante los acontecimientos de Ceuta supera cualquier pesadilla. Su parálisis activa ante la invasión de la ciudad autónoma resulta incompatible con cualquier gestión racional, segura, previsible y humanitaria en un Gobierno digno de tal nombre. Hasta el Departamento de E.
-
-Date: 2026-08-08
-
-### No molestar a Marruecos
-
-El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.
-
-Date: 2026-08-08
-
-### Cosas que ocurren
-
-En el afán por cargarle la culpa a otro, el Ejecutivo de Pedro Sánchez se la ha terminado echando a sí mismo.
-
-Date: 2026-08-08
-
 ## Fuentes
 
 - [Aterriza en Loiu el primer vuelo de Italia tras la crisis entre Sánchez y Meloni: «No nos esperábamos este control»](https://www.elcorreo.com/politica/aterriza-aeropuerto-bilbao-primer-vuelo-italia-guardia-20260808171739-nt_amp.html?utm_source=lootura.com) — 2026-08-08T15:17:40.000Z
+- [Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado](https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com) — 2026-08-08T18:02:27.000Z
 - [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
-- [Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid](https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html?utm_source=lootura.com) — 2026-08-08T03:30:01.000Z
-- [Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas](https://theobjective.com/espana/politica/2026-08-08/vox-movimientos-espanolidad-ceuta-culpables-sanchez-vivas/?utm_source=lootura.com) — 2026-08-08T10:55:02.000Z
+- [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T18:59:36.000Z
+- [Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición](https://okdiario.com/espana/vox-promueve-activar-articulo-102-constitucion-investigar-sanchez-delito-traicion-19148549?utm_source=lootura.com) — 2026-08-08T18:32:09.000Z
 - [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-08T20:25:54.616Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Fallece el padre de Leo Messi a los 68 años
+
+El padre del futbolista argentino Leo Messi , Jorge Messi, ha fallecido esta madrugada a los 68 años en un hospital de la ciudad de Rosario (Argentina) tras varios meses de enfermedad, según ha informado el diario en línea argentino Infobae. Fue una figura fundamental en la carrera de su hijo, con el que se trasladó a.
+
+Date: 2026-08-08
+
+### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
+
+El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
+
+Date: 2026-08-08
 
 ### Muere Jorge Messi, padre y mentor del astro argentino
 
@@ -56,19 +68,7 @@ En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol co
 
 Date: 2026-07-19
 
-### Campeones del Mundo: España borda su segunda estrella junto a Mapfre, Telefónica y Ebro
-
-Estimados lectores, somos Campeones del Mundo. La Roja ha derrotado a la Argentina de Leo Messi, ha conquistado su segunda estrella y ha vuelto a situar al fútbol español en el punto más alto del planeta. Es casi imposible que la oración anterior suponga para usted noticia alguna, pues imaginamos que ayer gritó, celebr.
-
-Date: 2026-07-19
-
-### Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España
-
-Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Muere Jorge Messi, padre y mentor del astro argentino](https://www.abc.es/deportes/futbol/muere-jorge-messi-padre-leo-messi-anos-20260808152044-nt.html?utm_source=lootura.com) — 2026-08-08T15:43:04.000Z
-- [El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo](https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html?utm_source=lootura.com) — 2026-08-08T13:26:20.000Z
+- [Fallece el padre de Leo Messi a los 68 años](https://www.elindependiente.com/espana/2026/08/08/fallece-el-padre-de-leo-messu-a-los-68-anos/?utm_source=lootura.com) — 2026-08-08T14:02:37.000Z
+- [El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro](https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html?utm_source=lootura.com) — 2026-08-08T15:59:08.000Z

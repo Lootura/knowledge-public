@@ -46,5 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump renews push to fire Fed Governor Lisa Cook](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com) — 2026-08-07T19:35:35.000Z
-- [Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com) — 2026-08-07T18:54:45.000Z
+No public source links.

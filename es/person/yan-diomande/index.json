@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yan-diomande/index.json",
   "description": "Sigue la actividad de Yan Diomande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "Diomande"
   ],
   "changes": [
+    {
+      "title": "Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande",
+      "summary": "El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la renovación de Vinicius Júnior hasta el 30 de junio de 2032, un monovolumen negro abandonaba la concentración del RB Leipzig en Saalfelden (Austria) camino del aeropuerto. Dentro viajaba Yan Diomande , diecinueve años, rumbo a Madrid para cerra.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Los 10 fichajes más caros en la historia del Madrid: desde Diomande a Jovic, pasando por Cristiano, Kaká, Bale...",
       "summary": "El Real Madrid ha vuelto a romper la banca en el mercado de fichajes tras la incorporación de Yan Diomande . Después de varios días de incertidumbre y duras negociaciones con el Leipzig alemán, el costamarfileño ha firmado un contrato de siete temporadas, hasta 2032, a cambio de unos 140 millones de euros, con bonos in.",
@@ -44,6 +49,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande",
+      "url": "https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:39:44.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

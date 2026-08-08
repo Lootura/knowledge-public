@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-08T20:25:54.616Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Marlaska comunica a la UE el establecimiento de España de controles fronterizos en conexiones aéreas y marítimas con Italia",
-      "url": "https://www.20minutos.es/nacional/marlaska-comunica-ue-establecimiento-espana-controles-fronterizos-conexiones-aereas-maritimas-con-italia_7023861_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:17:49.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "España e Italia garantizan a la Unión Europea que los controles fronterizos serán \"temporales\"",
+      "url": "https://www.elindependiente.com/espana/2026/08/08/espana-italia-garantizan-union-europea-controles-fronterizos-temporales/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T17:23:50.000Z",
+      "sourceId": "lootura-es-el-independiente"
     }
   ],
   "evidenceCount": 0

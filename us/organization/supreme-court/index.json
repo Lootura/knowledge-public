@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-08T20:26:16.467Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -69,28 +69,10 @@
   ],
   "sources": [
     {
-      "title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:35:35.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "What to know about Trump's new attempt to limit birthright citizenship",
       "url": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com",
       "publishedAt": "2026-08-08T15:39:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:06:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
-      "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:54:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
@@ -99,5 +81,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }
