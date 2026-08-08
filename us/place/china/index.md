@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Boron layers could set a superconductivity record, theoretical study predicts](https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html?utm_source=lootura.com) — 2026-08-07T19:20:01.000Z
 - [China’s Export Boom Rolls On Despite Trade Backlash](https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com) — 2026-08-07T07:20:24.000Z

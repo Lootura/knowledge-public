@@ -3,20 +3,20 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
 
-### Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»
-
-Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas esperaban que subiera al escenario instalado en una explanada.
-
-Date: 2026-08-07
-
 ### Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana
 
 Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.
+
+Date: 2026-08-07
+
+### Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»
+
+Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas esperaban que subiera al escenario instalado en una explanada.
 
 Date: 2026-08-07
 
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»](https://www.abc.es/espana/comunidad-valenciana/fervor-ferran-torres-pueblo-dije-familia-iba-20260807195252-nt.html?utm_source=lootura.com) — 2026-08-07T18:06:16.000Z
 - [Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana](https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com) — 2026-08-07T19:56:07.000Z

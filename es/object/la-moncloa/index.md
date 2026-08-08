@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas
+
+La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.
+
+Date: 2026-08-07
 
 ### Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta
 
@@ -62,12 +68,6 @@ Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autob
 
 Date: 2026-07-20
 
-### Baena se marca ‘un Carvajal’ y le da la mano a Sánchez sin dirigirle la mirada
-
-Álex Baena ha protagonizado uno de los momentos más comentados de la recepción oficial a la selección española en el Palacio de La Moncloa. El internacional saludó al presidente del Gobierno, Pedro Sánchez , con un apretón de manos, pero sin mirarle en ningún momento , un gesto que no pasó desapercibido y que rápidamen.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas](https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com) — 2026-08-07T22:26:15.000Z

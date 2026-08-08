@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T00:52:22.799Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -73,6 +73,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "ICE will only release body camera video when in agency's 'best interests,' policy says",
+      "url": "https://www.pbs.org/newshour/nation/ice-will-only-release-body-camera-video-when-in-agencys-best-interests-policy-says?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:35:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

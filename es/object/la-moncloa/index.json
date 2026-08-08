@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T06:25:11.416Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
+      "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta",
       "summary": "La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.",
@@ -58,13 +63,15 @@
       "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
       "summary": "Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Baena se marca ‘un Carvajal’ y le da la mano a Sánchez sin dirigirle la mirada",
-      "summary": "Álex Baena ha protagonizado uno de los momentos más comentados de la recepción oficial a la selección española en el Palacio de La Moncloa. El internacional saludó al presidente del Gobierno, Pedro Sánchez , con un apretón de manos, pero sin mirarle en ningún momento , un gesto que no pasó desapercibido y que rápidamen.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
+      "url": "https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:26:15.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

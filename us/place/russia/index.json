@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,11 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Daily fragment: Nyonoksa radiation accident",
+      "summary": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
@@ -38,6 +43,16 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
+      "summary": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
@@ -51,24 +66,15 @@
       "title": "U.S. Marine veteran, detained in Russia since 2022, is hospitalized in serious condition",
       "summary": "Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a \"dissociative stupor.\".",
       "date": "2026-08-07"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
-      "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Alarming video shows Russian drone chasing Ukrainian man before exploding",
-      "summary": "Russia struck Ukraine with a series of missiles overnight, killing at least 17 people, according to officials. Also, shocking video appears to show a Russian drone chasing a Ukrainian vegetable vendor before exploding and wounding him. CBS News' Aidan Stretch reports.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "Daily fragment: Nyonoksa radiation accident",
+      "url": "https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
+    },
     {
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham?utm_source=lootura.com",
@@ -79,6 +85,18 @@
       "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
       "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:05:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:45:40.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
+      "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:41:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -94,5 +112,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

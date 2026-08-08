@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
+
+El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.
+
+Date: 2026-08-08
 
 ### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
 
@@ -62,12 +68,6 @@ Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta
-
-La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado](https://www.larazon.es/espana/juez-caso-cloacas-accede-que-fiscal-stampa-sea-perjudicado_202608086a762b75a5690f04736d267e.html?utm_source=lootura.com) — 2026-08-08T00:00:14.000Z

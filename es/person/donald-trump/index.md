@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
+
+Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
+
+Date: 2026-08-07
 
 ### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
 
@@ -17,12 +23,6 @@ Date: 2026-08-07
 ### Trump prepara su mayor despliegue militar en toda Hispanoamérica
 
 La Administración de Donald Trump ha dado un paso decisivo y sin precedentes en su estrategia de seguridad para el continente americano con la creación de una fuerza militar específica destinada a coordinar ataques contra los cárteles y otras organizaciones delictivas transnacionales desde Chile hasta México.La nueva F.
-
-Date: 2026-08-07
-
-### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
-
-Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
 
 Date: 2026-08-07
 
@@ -70,6 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Trump prepara su mayor despliegue militar en toda Hispanoamérica](https://www.abc.es/internacional/trump-prepara-mayor-despliegue-militar-america-latina-20260804010635-nt.html?utm_source=lootura.com) — 2026-08-07T17:51:53.000Z
 - [Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo](https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html?utm_source=lootura.com) — 2026-08-07T19:49:18.000Z
-- [Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"](https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com) — 2026-08-07T16:40:06.000Z

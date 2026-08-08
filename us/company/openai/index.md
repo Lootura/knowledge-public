@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities?utm_source=lootura.com) — 2026-08-07T18:40:34.000Z
+No public source links.

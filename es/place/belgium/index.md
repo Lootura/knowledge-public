@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Un acertante de Euromillones gana el bote de más de 111 millones
+
+La combinación ganadora del sorteo de Euromillones celebrado este viernes, 7 de agosto, ha estado formada por los números 35, 26, 29, 47 y 38. Las estrellas son 1 y 2. La recaudación ha ascendido a 60.333.642,60 euros. Existe un boleto acertante de Primera Categoría (cinco + dos) que ha sido validado en Bélgica y que h.
+
+Date: 2026-08-07
 
 ### El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España
 
@@ -62,12 +68,6 @@ El Gobierno de Bélgica apunta a tres posibles víctimas de nacionalidad belga e
 
 Date: 2026-07-12
 
-### Albares, en contacto con Reino Unido y Bélgica por los afectados del incendio de Almería
-
-El ministro de Asuntos Exteriores, José Manuel Albares , ha intercambiado información con sus homólogos del Reino Unido y Bélgica sobre la situación de los ciudadanos de esos países afectados por el incendio de Los Gallardos ( Almería ), que ha dejado ya doce víctimas mortales y 6.600 hectáreas calcinadas . Agradezco t.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Un acertante de Euromillones gana el bote de más de 111 millones](https://www.20minutos.es/internacional/un-acertante-euromillones-gana-bote-mas-111-millones-euros_7023793_0.html?utm_source=lootura.com) — 2026-08-07T21:11:15.000Z

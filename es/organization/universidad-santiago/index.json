@@ -1,0 +1,45 @@
+{
+  "id": "es-universidad-santiago",
+  "name": "Universidad Santiago",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/universidad-santiago",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/universidad-santiago",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/universidad-santiago/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/universidad-santiago/index.json",
+  "description": "Sigue la actividad de Universidad Santiago en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Colombia abre la era De la Espriella con una investidura histórica en Cali",
+      "summary": "Colombia vive una jornada histórica con la investidura de Abelardo de la Espriella en la Arena de la Universidad Santiago de Cali, en un traspaso de poder que por primera vez se celebra fuera de Bogotá. Antes de la ceremonia, el presidente electo ha recibido en Cali a los mandatarios y delegaciones invitadas: se reunió.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad",
+      "summary": "El abogado Abelardo de la Espriella ha jurado este viernes como presidente de Colombia para 2026-2030 en una ceremonia de investidura celebrada en la Arena USC de la Universidad Santiago de Cali, en la capital del Valle del Cauca, rompiendo con la tradición de celebrar el acto en Bogotá.«Juro a Dios y prometo al pueblo.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Universidad Santiago first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Colombia abre la era De la Espriella con una investidura histórica en Cali",
+      "url": "https://www.larazon.es/internacional/colombia-abre-era-espriella-investidura-historica-cali_202608076a763268a5690f04736d3233.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:30:48.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad",
+      "url": "https://okdiario.com/internacional/colombia-deja-atras-era-petro-espriella-toma-posesion-como-presidente-seguridad-como-prioridad-19146653/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:18:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

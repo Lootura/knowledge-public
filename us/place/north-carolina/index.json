@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,11 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "Outer Banks community spending $50 million to save its beachfront economy",
+      "summary": "A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.",
+      "date": "2026-08-07"
+    },
     {
       "title": "The science behind using the arts to combat loneliness and social isolation",
       "summary": "A new program in Charlotte, North Carolina, is using the arts to tackle loneliness and social isolation. Paul Solman reports on prescriptions for art instead of medicine for our series at the intersection of art and health, part of our CANVAS coverage.",
@@ -39,6 +44,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Outer Banks community spending $50 million to save its beachfront economy",
+      "url": "https://www.cbsnews.com/news/north-carolina-outer-banks-buxton-beach-erosion-restoration/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:56:38.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

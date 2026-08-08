@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Los menores de Ceuta no son ilegales
+
+Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.
+
+Date: 2026-08-07
 
 ### “Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta
 
@@ -62,12 +68,6 @@ Santiago Abascal quiere pilotar la presión política, institucional y judicial 
 
 Date: 2026-07-21
 
-### Vox lleva a la Junta Electoral al Supremo para forzar su intervención en la ‘ley de nietos’
-
-Vox recurrirá ante el Tribunal Supremo la resolución de la Junta Electoral Central (JEC) que afirma no tener competencias para suspender el voto por correo exterior, como reclamó el partido de Santiago Abascal, al creer que se está adulterando el censo por la denominada ley de nietos . En su reunión del pasado 16 de ju.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Los menores de Ceuta no son ilegales](https://www.lavanguardia.com/politica/20260808/11609990/menores-ceuta-son-ilegales.html?utm_source=lootura.com) — 2026-08-07T22:05:00.000Z

@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
+
+There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
+
+Date: 2026-08-07
 
 ### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
 
@@ -62,12 +68,6 @@ Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes
 
 Date: 2026-07-25
 
-### Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes
-
-As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z

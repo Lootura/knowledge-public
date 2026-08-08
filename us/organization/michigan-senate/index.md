@@ -3,10 +3,16 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
+
+### A Spurned Schumer Reaches Out to the Left
+
+In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.
+
+Date: 2026-08-08
 
 ### Bernie Sanders’ circle is pretty clear on who his successor will be
 
@@ -34,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [A Spurned Schumer Reaches Out to the Left](https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html?utm_source=lootura.com) — 2026-08-08T00:04:56.000Z

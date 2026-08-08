@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Bruselas avala la adenda final a los fondos europeos del plan de recuperación](https://www.larazon.es/economia/bruselas-avala-adenda-final-fondos-europeos-plan-recuperacion_202608076a76080ca046ad6ebca4149c.html?utm_source=lootura.com) — 2026-08-07T16:30:04.000Z
+No public source links.

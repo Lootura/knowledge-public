@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Clara P. Villalón: «Mis sabores del verano son el bonito encebollado, las rabas de calamar y los sobaos»",
+      "summary": "Una mujer del renacimiento: así podríamos definir a Clara P. Villalón (Madrid, 1990). Asesora gastronómica, creadora de contenido, ex concursante del ya lejanísimo primer 'Masterchef' ... también podría ser autora de una Guía Villalón: en su perfil de Instagram (166.000 seguidores) puede uno encontrar un restaurante pa.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
       "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
@@ -19,11 +24,6 @@
     {
       "title": "Planifica Madrid actualiza su agenda una vez que El País publica que la mantenía oculta desde el 26 de marzo",
       "summary": "En los últimos cuatro meses, Planifica Madrid no había actualizado su agenda, un calendario en línea que hasta finales de marzo mostraba con detalle todos sus eventos, reuniones, visitas o proyectos. Hasta marcaron el día que recogieron las cestas de Navidad el invierno pasado o si les habían hecho algún reportaje de t.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Miedo en Madrid ante la llegada de miles de personas por el eclipse solar: “El peligro es extremo”",
-      "summary": "Quedan pocos días para que se produzca el esperado eclipse solar del 12 de agosto y, mientras aumenta la expectación por el fenómeno, también lo hace la inquietud en algunas zonas. En la Sierra Norte de Madrid , los vecinos miran con preocupación la llegada prevista de miles de visitantes y el posible impacto que pueda.",
       "date": "2026-08-07"
     },
     {
@@ -52,17 +52,29 @@
       "date": "2026-08-07"
     },
     {
-      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
-      "summary": "La Comunidad de Madrid, a través de la empresa pública Planifica Madrid, ha publicado este viernes la venta del ático de Chamberí, ubicado en la calle General Martínez Campos, por 6,69 millones de euros, sin impuestos, según el anuncio firmado por el consejero delegado de la empresa pública, Pedro Corbalán Ruiz Seguir.",
+      "title": "Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande",
+      "summary": "La renovación y el fichaje más caros de la historia del Real Madrid, protagonizadas por el brasileño y el exjugador del RB Leipzig, consagran a la agencia norteamericana como una de las mayores potencias del mundo de los despachos.",
       "date": "2026-08-07"
     },
     {
-      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
+      "title": "La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles",
+      "summary": "La Comunidad de Madrid , a través de la empresa pública Planifica Madrid, ha sacado a la venta el ático adquirido por el Ejecutivo autonómico por un precio de salida de 6,7 millones de euros, situado en el paseo del General Martínez Campos, en el distrito de Chamberí, además de cuatro inmuebles ubicados en Gran Vía , q.",
       "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Clara P. Villalón: «Mis sabores del verano son el bonito encebollado, las rabas de calamar y los sobaos»",
+      "url": "https://www.abc.es/gastronomia/clara-villalon-sabores-verano-bonito-encebollado-rabas-20260808010146-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:21:26.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande",
+      "url": "https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:09:44.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
       "url": "https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com",
@@ -94,21 +106,15 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Miedo en Madrid ante la llegada de miles de personas por el eclipse solar: “El peligro es extremo”",
-      "url": "https://www.larazon.es/sociedad/miedo-madrid-llegada-miles-personas-eclipse-solar-peligro-extremo_202608076a76091aa046ad6ebca41667.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:34:34.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
-      "url": "https://www.lavanguardia.com/politica/20260807/11610026/comunidad-madrid-pone-venta-atico-chamberi-6-69-millones-euros.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:54:45.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
       "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
       "url": "https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:20:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles",
+      "url": "https://theobjective.com/espana/madrid/2026-08-07/comunidad-madrid-67-millones-atico-chamberi/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T20:44:34.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {
@@ -118,5 +124,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 10
 }

@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### They’re Battle-Tested Democrats. Do Voters Care?
+
+Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.
+
+Date: 2026-08-07
 
 ### What's at stake for Democrats in next week's Wisconsin primary
 
@@ -62,12 +68,6 @@ Democrats need to rack up as many wins as possible to take back the U.S. Senate,
 
 Date: 2026-08-05
 
-### Progressives see biggest win yet in Michigan, while Trump flexes power over GOP
-
-Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [They’re Battle-Tested Democrats. Do Voters Care?](https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com) — 2026-08-07T22:29:44.000Z

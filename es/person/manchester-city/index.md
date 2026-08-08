@@ -3,7 +3,7 @@
 > Sigue la actividad de Manchester City en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/person/manchester-city
 
 ## Cambios recientes

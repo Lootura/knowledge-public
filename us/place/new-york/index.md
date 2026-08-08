@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### How a duck's friendship helped a golden retriever overcome health issues
+
+Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.
+
+Date: 2026-08-08
 
 ### Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury
 
@@ -62,12 +68,7 @@ New York University researchers have pinpointed the molecular players responsibl
 
 Date: 2026-08-02
 
-### Investigating the death of designer Sylvie Cachay
-
-Sylvie Cachay was found dead in an overflowing bathtub at the exclusive Soho House in New York City on Dec. 9, 2010. A water leak at the hotel gave away a timeline that may have revealed her killer.
-
-Date: 2026-08-02
-
 ## Sources
 
+- [How a duck's friendship helped a golden retriever overcome health issues](https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com) — 2026-08-08T00:23:51.000Z
 - [Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury](https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com) — 2026-08-07T17:17:10.000Z

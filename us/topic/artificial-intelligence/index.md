@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,3 @@ Date: 2026-08-06
 ## Sources
 
 - [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-07T20:38:03.786Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-07T20:38:03.786Z
-- [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel?utm_source=lootura.com) — 2026-08-07T18:59:46.000Z

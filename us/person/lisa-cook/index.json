@@ -8,14 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.json",
   "description": "Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
-    "Lisa DeNell Cook",
-    "Dr. Lisa D. Cook",
-    "Dr. Lisa Cook",
     "Dr. Cook",
+    "Dr. Lisa Cook",
+    "Dr. Lisa D. Cook",
+    "Governor Cook",
     "Governor Lisa Cook",
-    "Governor Cook"
+    "Lisa DeNell Cook"
   ],
   "changes": [
     {
@@ -32,6 +32,21 @@
       "title": "Discovered by Atlas",
       "summary": "Lisa Cook first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -42,11 +57,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:35:35.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:50:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
       "url": "https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook?utm_source=lootura.com",
       "publishedAt": "2026-08-07T19:45:45.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+      "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T18:54:45.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

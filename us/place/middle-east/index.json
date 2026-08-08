@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
       "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
@@ -58,13 +63,15 @@
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens",
       "summary": "Yemeni rebels accuse Saudis of ‘dangerous escalation’ as tit-for-tat strikes mark new front in war that has engulfed region Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
-      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:40:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

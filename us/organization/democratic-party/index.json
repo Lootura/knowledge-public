@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T12:57:16.248Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "They’re Battle-Tested Democrats. Do Voters Care?",
+      "summary": "Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.",
+      "date": "2026-08-07"
+    },
     {
       "title": "What's at stake for Democrats in next week's Wisconsin primary",
       "summary": "More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.",
@@ -57,13 +62,15 @@
       "title": "Takeaways from Tuesday's elections in Michigan and more",
       "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-      "summary": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party. (Image credit: Bill Pugliano).",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "They’re Battle-Tested Democrats. Do Voters Care?",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:29:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-No public source links.
+- [ICE will only release body camera video when in agency's 'best interests,' policy says](https://www.pbs.org/newshour/nation/ice-will-only-release-body-camera-video-when-in-agencys-best-interests-policy-says?utm_source=lootura.com) — 2026-08-07T23:35:08.000Z

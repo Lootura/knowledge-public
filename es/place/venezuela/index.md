@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
 
-### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
-
-El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
-
-Date: 2026-08-07
-
 ### El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición
 
 En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.
+
+Date: 2026-08-07
+
+### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
+
+El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
 
 Date: 2026-08-07
 
@@ -71,4 +71,3 @@ Date: 2026-08-01
 ## Fuentes
 
 - [El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición](https://www.larazon.es/internacional/chavismo-oposicion-conversan-segundo-dia-iniciar-dialogo-transicion_202608076a76401171b42a0b5de29785.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T20:29:05.000Z
-- [Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"](https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com) — 2026-08-07T16:40:06.000Z

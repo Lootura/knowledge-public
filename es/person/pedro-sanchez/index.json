@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,26 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
+      "summary": "\"Quienes se determine que no tienen derecho a permanecer deberán ser retornados sin excepción, de forma rápida y efectiva\", afirma a EL MUNDO el comisario Brunner Leer.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Cosas que ocurren",
+      "summary": "En el afán por cargarle la culpa a otro, el Ejecutivo de Pedro Sánchez se la ha terminado echando a sí mismo.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
+      "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
+      "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche",
       "summary": "Lanzarote ha amanecido con nuevas muestras de rechazo al presidente del Gobierno, Pedro Sánchez, con la aparición de varias pintadas contra su figura en distintos puntos de la isla, entre ellas en una zona del término municipal de Arrecife , informan medios locales. Se producen después de laconcentración que Hazte Oír.",
@@ -46,47 +66,33 @@
       "title": "EEUU apoya la soberanía de España sobre Ceuta pero culpa a Sánchez de la invasión: «No ha defendido a su pueblo»",
       "summary": "El Departamento de Estado de Estados Unidos salió este jueves al paso de los temores generados en España sobre una posible rectificación de Washington respecto a la soberanía española sobre Ceuta y Melilla. Fue el portavoz Tommy Pigott quien defendió la integridad territorial de España durante unas declaraciones en las.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Los ceutíes, indignados: «¿Por qué los 25 millones van para los menas y no para nuestros niños con necesidades especiales?»",
-      "summary": "La indignación entre los vecinos de Ceuta es palpable. OKDIARIO ha recogido el testimonio de varias ceutíes que asisten impotentes a la situación que vive su ciudad y que no entienden las prioridades del Gobierno de Pedro Sánchez . «¿Por qué no donan esos millones al Ministerio de Educación, para más aulas de niños esp.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Lo de Ceuta y los submarinos S-80",
-      "summary": "Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”",
-      "summary": "No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
-      "summary": "A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Europol incluye en su lista de más buscados a Andrea Sánchez: la mujer que se hizo pasar por médica en Lugo y A Coruña",
-      "url": "https://www.20minutos.es/galicia/europol-incluye-su-lista-mas-buscados-andrea-sanchez-mujer-32-anos-que-se-hizo-pasar-por-medica-lugo-coruna_7023757_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T17:55:08.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
+      "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:51:49.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche",
-      "url": "https://www.larazon.es/espana/aparecen-nuevas-pintadas-enlanzarote-pedro-sanchez-concentracion-anoche_202608076a7605d5a5690f04736ce62e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:20:37.000Z",
+      "title": "Cosas que ocurren",
+      "url": "https://www.larazon.es/espana/cosas-que-ocurren_202608086a75cf73a5690f04736c833d.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-08T01:15:26.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Los guardias civiles reclaman 40 antidisturbios para proteger Ceuta de asaltos, los mismos que tiene Sánchez en La Mareta",
-      "url": "https://okdiario.com/espana/guardias-civiles-reclaman-40-antidisturbios-proteger-ceuta-asaltos-mismos-que-tiene-sanchez-mareta-19142965?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:09:08.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
+      "url": "https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T01:12:23.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
+      "url": "https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:26:15.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

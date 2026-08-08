@@ -30,19 +30,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
-      "url": "https://www.cbsnews.com/news/lisa-murkowski-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:58:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
-      "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:01:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

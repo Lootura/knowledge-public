@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "How a duck's friendship helped a golden retriever overcome health issues",
+      "summary": "Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury",
       "summary": "A New Jersey woman is suing the New York Yankees for $10 million after a bat flew into the stands and struck her in the head, which she says gave her a brain injury.",
@@ -77,14 +82,15 @@
       "title": "Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently",
       "summary": "New York University researchers have pinpointed the molecular players responsible for plants \"feeling full\" once they've taken up enough nitrogen—a finding that could help scientists develop plants that absorb more nitrogen from the soil and allow farmers to reduce environmentally and economically costly fertilizer app.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Investigating the death of designer Sylvie Cachay",
-      "summary": "Sylvie Cachay was found dead in an overflowing bathtub at the exclusive Soho House in New York City on Dec. 9, 2010. A water leak at the hotel gave away a timeline that may have revealed her killer.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "How a duck's friendship helped a golden retriever overcome health issues",
+      "url": "https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:23:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury",
       "url": "https://www.nbcnews.com/news/us-news/woman-sues-yankees-10m-getting-struck-bat-says-suffered-brain-injury-rcna591338?utm_source=lootura.com",
@@ -92,5 +98,5 @@
       "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

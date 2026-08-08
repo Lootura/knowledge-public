@@ -3,10 +3,16 @@
 > Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-militar
 
 ## Cambios recientes
+
+### Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»
+
+La Junta de Andalucía ha informado de que la Unidad Militar de Emergencia se incorporará a las labores de extinción.
+
+Date: 2026-08-07
 
 ### Marlaska recurre a la UME para la dirección de la emergencia nacional con Defensa al margen del Cecopi
 
@@ -62,12 +68,6 @@ El delegado del Gobierno en Madrid, Francisco Martín, ha informado de que esta 
 
 Date: 2026-07-16
 
-### Otro fuego en Lozoyuela obliga a desalojos y al corte de vías: hay un detenido
-
-Un incendio en el municipio de Lozoyuela obliga a activar la Situación Operativa 2 del Plan de Protección Civil y desplegar a la Unidad Militar de Emergencia (UME). La Guardia Civil ha detenido a una persona como principal sospechoso del incendio. La situación en la sierra de Madrid ha provocado el desalojo de vivienda.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»](https://theobjective.com/sociedad/2026-08-07/nivel-2-incendio-niebla-huelva-inestabilidad/?amp=&utm_source=lootura.com) — 2026-08-07T21:43:39.000Z

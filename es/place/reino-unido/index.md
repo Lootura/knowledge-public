@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Fuentes
 
 - [“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales](https://elpais.com/clima-y-medio-ambiente/2026-08-07/hyde-park-parece-el-desierto-de-dubai-la-sequia-transforma-los-verdes-parques-de-londres-en-secarrales.html?utm_source=lootura.com) — 2026-08-07T16:27:44.000Z
-- ["He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra](https://www.larazon.es/sociedad/estado-10-anos-trabajando-aqui-ganado-2000-euros-critica-espanol-diferencia-salarial-espana-inglaterra-b50m_202608076a760c3a71b42a0b5de23e9f.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T16:50:25.000Z

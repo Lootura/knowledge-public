@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Outer Banks community spending $50 million to save its beachfront economy
+
+A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.
+
+Date: 2026-08-07
 
 ### The science behind using the arts to combat loneliness and social isolation
 
@@ -34,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Outer Banks community spending $50 million to save its beachfront economy](https://www.cbsnews.com/news/north-carolina-outer-banks-buxton-beach-erosion-restoration/?utm_source=lootura.com) — 2026-08-07T23:56:38.000Z

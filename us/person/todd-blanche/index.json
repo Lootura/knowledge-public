@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
   ],
   "changes": [
-    {
-      "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
-      "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Trump's pick to lead the Justice Department.",
-      "date": "2026-08-07"
-    },
     {
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate. (Image credit: Kevin Dietsch).",
@@ -27,6 +22,16 @@
     {
       "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "summary": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
+      "summary": "Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Trump's pick to lead the Justice Department.",
       "date": "2026-08-07"
     },
     {
@@ -58,20 +63,9 @@
       "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
       "summary": "Todd Blanche’s nomination now advances to the Senate floor, where he is expected to be confirmed, even though several Republicans have not yet committed to supporting him.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
-      "summary": "Republicans on the Senate Judiciary Committee voted to advance acting Attorney General Todd Blanche's nomination to serve in the role permanently. NBC News' Scott Wong and Gabe Gutierrez have details on what senators had to say in support or opposition of the nomination and when it will face a full Senate vote.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
-    {
-      "title": "Murkowski says she'll vote against Blanche's nomination for attorney general",
-      "url": "https://www.cbsnews.com/news/lisa-murkowski-todd-blanche-attorney-general-nomination/?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:58:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general?utm_source=lootura.com",
@@ -85,11 +79,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination",
-      "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:01:21.000Z",
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:45:40.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

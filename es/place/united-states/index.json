@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,21 +43,6 @@
   ],
   "changes": [
     {
-      "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
-      "summary": "El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010",
-      "summary": "Estados Unidos destruyó 23.000 puestos de trabajo durante el pasado mes de julio, según los datos difundidos este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas inglesas). Se trata del peor mes de julio para el empleo desde 2010, según los registros oficiales. El dato enciende las alarmas sobre la.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
-      "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "summary": "Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.",
       "date": "2026-08-07"
@@ -70,6 +55,26 @@
     {
       "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
       "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+      "summary": "Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
+      "summary": "El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010",
+      "summary": "Estados Unidos destruyó 23.000 puestos de trabajo durante el pasado mes de julio, según los datos difundidos este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas inglesas). Se trata del peor mes de julio para el empleo desde 2010, según los registros oficiales. El dato enciende las alarmas sobre la.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
+      "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
       "date": "2026-08-07"
     },
     {
@@ -86,11 +91,6 @@
       "title": "Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes",
       "summary": "Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "EEUU ataca de nuevo al Gobierno por Ceuta: \"Es consecuencia de su rechazo a asegurar sus fronteras\"",
-      "summary": "Estados Unidos ha vuelto a cargar contra el Gobierno de España a cuenta de la crisis migratoria en Ceuta. En un post en X, el Departamento de Estado de EEUU ha asegurado que lo ocurrido en Ceuta se trató de una \"invasión de decenas de miles de migrantes\", que se produjo como \"consecuencia directa del vergonzoso rechazo.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -101,15 +101,9 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010",
-      "url": "https://elpais.com/economia/2026-08-07/estados-unidos-perdio-23000-puestos-de-trabajo-en-julio-el-peor-dato-para-ese-mes-desde-2010.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T13:11:54.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
-      "url": "https://www.expansion.com/economia/2026/08/07/6a75d641e5fdeab2088b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:57:42.000Z",
+      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+      "url": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T21:45:40.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
@@ -123,13 +117,7 @@
       "url": "https://www.larazon.es/internacional/senado-aprueba-amplia-mayoria-proyecto-ley-sanciones-rusia-iran_202608076a763f1071b42a0b5de295e5.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:24:48.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla",
-      "url": "https://theobjective.com/internacional/2026-08-07/estados-unidos-inequivocamente-espanolidad-ceuta-melilla/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:30:40.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

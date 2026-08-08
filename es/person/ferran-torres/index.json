@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -18,13 +18,13 @@
   ],
   "changes": [
     {
-      "title": "Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»",
-      "summary": "Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas esperaban que subiera al escenario instalado en una explanada.",
+      "title": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
+      "summary": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.",
       "date": "2026-08-07"
     },
     {
-      "title": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
-      "summary": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.",
+      "title": "Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»",
+      "summary": "Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas esperaban que subiera al escenario instalado en una explanada.",
       "date": "2026-08-07"
     },
     {
@@ -70,17 +70,11 @@
   ],
   "sources": [
     {
-      "title": "Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/fervor-ferran-torres-pueblo-dije-familia-iba-20260807195252-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:06:16.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
       "url": "https://okdiario.com/comunidad-valenciana/ferran-torres-recibe-homenaje-pueblo-convierte-imagen-comunidad-valenciana-19146381/amp?utm_source=lootura.com",
       "publishedAt": "2026-08-07T19:56:07.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

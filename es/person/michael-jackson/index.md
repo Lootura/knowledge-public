@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Muere William Orbit, productor que relanzó a Madonna y fue clave para Britney Spears o Blur](https://www.abc.es/cultura/musica/muere-william-orbit-productor-relanzo-madonna-clave-20260807182217-nt_amp.html?utm_source=lootura.com) — 2026-08-07T16:27:52.000Z
-- [‘Michael 2’: los primeros detalles de la secuela salen a la luz y ya sabemos cuándo se estrena](https://hipertextual.com/cine-television/michael-2-primeros-detalles-secuela-ya-sabemos-cuando-se-estrena/?utm_source=lootura.com) — 2026-08-07T12:27:05.000Z
+No public source links.

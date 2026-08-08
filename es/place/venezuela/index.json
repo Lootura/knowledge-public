@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -20,13 +20,13 @@
   ],
   "changes": [
     {
-      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
-      "summary": "El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá \"válvula de escape\" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo \"patrocinador\" tras perder a Venezuela. \"L.",
+      "title": "El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición",
+      "summary": "En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.",
       "date": "2026-08-07"
     },
     {
-      "title": "El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición",
-      "summary": "En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.",
+      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
+      "summary": "El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá \"válvula de escape\" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo \"patrocinador\" tras perder a Venezuela. \"L.",
       "date": "2026-08-07"
     },
     {
@@ -76,13 +76,7 @@
       "url": "https://www.larazon.es/internacional/chavismo-oposicion-conversan-segundo-dia-iniciar-dialogo-transicion_202608076a76401171b42a0b5de29785.html?outputType=amp&utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:29:05.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
-      "url": "https://www.larazon.es/internacional/rubio-advierte-que-habra-valvula-escape-cuba-pueden-limitarse-esperar_202608076a760a66a046ad6ebca4188f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:40:06.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

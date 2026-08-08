@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: "Pase lo que pase"](https://okdiario.com/cool/famosos/significativo-mensaje-miguel-torres-paula-echevarria-cumpleanos-mas-triste-actriz-pase-lo-que-pase-19143309/amp?utm_source=lootura.com) — 2026-08-07T16:30:17.000Z
+No public source links.

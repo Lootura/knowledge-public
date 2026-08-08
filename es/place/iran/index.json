@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,13 +19,18 @@
   ],
   "changes": [
     {
-      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
-      "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
+      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
+      "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
       "date": "2026-08-07"
     },
     {
-      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
-      "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
+      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+      "summary": "Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
+      "summary": "El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para la economía estadounidense se ha terminado por trasladar al mercado laboral. Durante el mes de julio, los empleadores de Estados Unidos recortaron 23.000 empleos en un movimiento sorpresivo para los analistas, que esperaban que la inercia a.",
       "date": "2026-08-07"
     },
     {
@@ -62,18 +67,13 @@
       "title": "Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán",
       "summary": "Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está \"cerca\" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "El Ibex busca apuntalar los 20.000 puntos",
-      "summary": "Los mercados no desentonan, pese al correctivo que sufre SpaceX tras publicar resultados. Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, también en un Ibex que trata de afianzar los 20.000 puntos conquistados ayer por primera vez.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "El freno económico por la guerra se traslada al trabajo: EEUU pierde 23.000 empleos",
-      "url": "https://www.expansion.com/economia/2026/08/07/6a75d641e5fdeab2088b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T12:57:42.000Z",
+      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
+      "url": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T21:45:40.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {

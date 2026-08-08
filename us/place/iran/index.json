@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -27,11 +27,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
-      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
       "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
       "date": "2026-08-07"
@@ -44,6 +39,16 @@
     {
       "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
       "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
+      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
       "date": "2026-08-07"
     },
     {
@@ -60,25 +65,20 @@
       "title": "Despite Trump's talk of a deal being close, little has changed to end the Iran war",
       "summary": "President Trump is under pressure to find a breakthrough with Iran over the Strait of Hormuz, but it's proven elusive.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz. (Image credit: Aaron Schwartz).",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
-    {
-      "title": "Iran Says Hormuz Deal is Close; Trump Denies Munitions Shortage",
-      "url": "https://www.today.com/video/iran-says-hormuz-deal-is-close-trump-denies-munitions-shortage-267930693641?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T11:24:46.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-08-07T08:41:55.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:40:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
@@ -87,15 +87,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
-      "url": "https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T13:29:15.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Houthis Claim Attack on Yemeni Military Camp",
       "url": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:19:28.000Z",
+      "publishedAt": "2026-08-07T20:44:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -107,9 +101,9 @@
     {
       "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:56:01.000Z",
+      "publishedAt": "2026-08-07T18:56:02.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

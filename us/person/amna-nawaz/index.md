@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T10:36:02.029Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### What the July jobs report reveals about the strength of the economy
+
+New labor data shows the U.S. economy lost 23,000 jobs in July, when economists had predicted modest growth. Revised numbers for May and June also show 103,000 fewer jobs created than originally reported. The unemployment rate ticked down, from 4.2% to 4.1%, a function of fewer people seeking jobs. Amna Nawaz discussed.
+
+Date: 2026-08-07
 
 ### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
 
@@ -64,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [What the July jobs report reveals about the strength of the economy](https://www.pbs.org/newshour/show/what-the-july-jobs-report-reveals-about-the-strength-of-the-economy?utm_source=lootura.com) — 2026-08-07T22:55:24.000Z

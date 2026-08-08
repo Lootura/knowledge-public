@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/unidad-militar/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/unidad-militar/index.json",
   "description": "Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»",
+      "summary": "La Junta de Andalucía ha informado de que la Unidad Militar de Emergencia se incorporará a las labores de extinción.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Marlaska recurre a la UME para la dirección de la emergencia nacional con Defensa al margen del Cecopi",
       "summary": "El Ministerio de Defensa ha vuelto a quedar fuera del Centro de Coordinación Operativa Integrado (CECOPI) de los incendios en Madrid y Ávila, aunque la dirección técnica de la emergencia ha recaído en la Unidad Militar de Emergencias (UME) bajo las órdenes de Interior. Es la segunda vez este año que Defensa queda fuera.",
@@ -55,13 +60,15 @@
       "title": "Detenida una persona sospechosa de originar el incendio en Lozoyuela (Madrid)",
       "summary": "El delegado del Gobierno en Madrid, Francisco Martín, ha informado de que esta tarde se ha detenido a una persona como presunto responsable de haber iniciado el incendio forestal declarado en Lozoyuela , actualmente en Situación Operativa 2 y que ha obligado a la intervención de la Unidad Militar de Emergencias (UME) .",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Otro fuego en Lozoyuela obliga a desalojos y al corte de vías: hay un detenido",
-      "summary": "Un incendio en el municipio de Lozoyuela obliga a activar la Situación Operativa 2 del Plan de Protección Civil y desplegar a la Unidad Militar de Emergencia (UME). La Guardia Civil ha detenido a una persona como principal sospechoso del incendio. La situación en la sierra de Madrid ha provocado el desalojo de vivienda.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Elevan a situación operativa 2 el incendio de Niebla (Huelva) por su «inestabilidad»",
+      "url": "https://theobjective.com/sociedad/2026-08-07/nivel-2-incendio-niebla-huelva-inestabilidad/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-07T21:43:39.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

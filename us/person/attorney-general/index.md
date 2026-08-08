@@ -3,10 +3,16 @@
 > Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/person/attorney-general
 
 ## Recent changes
+
+### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
+
+The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.
+
+Date: 2026-08-08
 
 ### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
 
@@ -62,12 +68,6 @@ NPR's Leila Fadel asks Democratic Sen. Adam Schiff what he plans to ask Attorney
 
 Date: 2026-07-15
 
-### Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General
-
-Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-07T16:46:31.000Z
+- [Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T01:06:56.000Z

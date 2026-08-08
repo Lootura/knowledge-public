@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Trump voter pleads for fiancée's release after ICE arrest: "They're destroying families"](https://www.cbsnews.com/news/trump-voter-fiancee-ice-arrest-texas/?utm_source=lootura.com) — 2026-08-07T12:41:38.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El alza del euríbor incentiva las renegociaciones de hipotecas",
+      "summary": "El euríbor a 12 meses, del que depende el coste de las hipotecas a tipo variable y que condiciona el precio de la nueva producción en todas las modalidades, mete cada vez más presión a los hogares. Aunque en el tramo final de esta semana se ha relajado por la rebaja de la tensión en Oriente Próximo, la media provisiona.",
+      "date": "2026-08-07"
+    },
     {
       "title": "El Ibex tantea nuevos máximos tras el dato de empleo de EE UU",
       "summary": "La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.",
@@ -60,13 +65,15 @@
       "title": "Trump afirma ahora que EE.UU. e Israel suspenderán los ataques contra Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataque contra Irán después de que, según ha indicado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases para un acuerdo. No obstante, ha exigido a la.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Seis valores del Ibex desafían la incertidumbre y rozan máximos",
-      "summary": "El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resistir en un mes que ha puesto a prueba la confianza de los inversores. El recrudecimiento de las tensiones en Oriente Próximo, la perspectiva de unos tipos de interés elevados durante más tiempo y las crecientes dudas sobre el sector tecnológ.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El alza del euríbor incentiva las renegociaciones de hipotecas",
+      "url": "https://www.expansion.com/empresas/banca/2026/08/07/6a7632e7e5fdeac5518b459c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T21:45:09.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

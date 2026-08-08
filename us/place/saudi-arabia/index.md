@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
+
+There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
+
+Date: 2026-08-07
 
 ### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
 
@@ -62,12 +68,6 @@ The Trump administration is seeking tens of billions of dollars in supplemental 
 
 Date: 2026-07-25
 
-### Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping
-
-Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z

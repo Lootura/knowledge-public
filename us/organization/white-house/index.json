@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -39,6 +39,16 @@
       "date": "2026-08-07"
     },
     {
+      "title": "Appeals court deals major setback to Trump's White House ballroom",
+      "summary": "A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "summary": "In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.",
+      "date": "2026-08-07"
+    },
+    {
       "title": "Appeals court blocks construction of Trump's White House ballroom",
       "summary": "A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.",
       "date": "2026-08-07"
@@ -57,16 +67,6 @@
       "title": "NATO spending pressure returned",
       "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
-      "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
-      "summary": "The White House emphasized that President Trump was not in danger during the incident.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -77,10 +77,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Appeals court deals major setback to Trump's White House ballroom",
+      "url": "https://www.nbcnews.com/nightly-news/video/appeals-court-deals-major-setback-to-trump-s-white-house-ballroom-267969605589?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:46:05.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:10:37.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:50:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
@@ -95,5 +107,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -23,18 +23,6 @@ Date: 2026-08-07
 ### Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market
 
 U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department. (Image credit: Joe Raedle).
-
-Date: 2026-08-07
-
-### Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat
-
-Former Tennessee Agriculture Commissioner Charlie Hatcher defeated U.S. Rep. Andy Ogles in a Republican primary Thursday for a significantly reshaped congressional district — marking a rare rejection of a candidate endorsed by President Donald Trump.
-
-Date: 2026-08-07
-
-### U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%
-
-U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.
 
 Date: 2026-08-07
 
@@ -68,15 +56,27 @@ Trump said in a post on social media that he would be appealing what he called a
 
 Date: 2026-08-07
 
+### Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership
+
+Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.
+
+Date: 2026-08-07
+
+### Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition
+
+Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.
+
+Date: 2026-08-07
+
 ## Sources
 
 - [Ted Cruz says U.S. should arm Iranian protesters for an uprising. Is that plan realistic?](https://www.cbsnews.com/video/ted-cruz-says-us-should-arm-iranian-protesters-for-an-uprising-is-that-plan-realistic/?utm_source=lootura.com) — 2026-08-07T18:56:00.000Z
 - [Warren presses U.S. companies to share tariff refunds with customers](https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com) — 2026-08-07T16:19:17.000Z
+- [U.S. loses jobs while unemployment rate drops](https://www.nbcnews.com/nightly-news/video/-u-s-loses-jobs-while-unemployment-rate-drops-267969605549?utm_source=lootura.com) — 2026-08-07T22:42:43.000Z
 - [When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'](https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season?utm_source=lootura.com) — 2026-08-07T09:00:00.000Z
 - [Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market](https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve?utm_source=lootura.com) — 2026-08-07T13:10:10.000Z
 - [Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out](https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out?utm_source=lootura.com) — 2026-08-07T17:36:45.000Z
-- [Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat](https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com) — 2026-08-07T14:45:32.000Z
-- [U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%](https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com) — 2026-08-07T13:29:15.000Z
 - [Appeals court rules Trump can't build White House ballroom without congressional approval](https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com) — 2026-08-07T18:34:25.000Z
+- [Blanche on track for narrow Senate confirmation as attorney general](https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com) — 2026-08-07T22:45:40.000Z
+- [Advocates for former U.S. Marine held for years in Russia say he is near death](https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com) — 2026-08-07T23:41:17.000Z
 - [Why Mexican avocado exports to the U.S. have once again been stopped](https://www.pbs.org/newshour/world/why-mexican-avocado-exports-to-the-u-s-have-once-again-been-stopped?utm_source=lootura.com) — 2026-08-07T15:41:55.000Z
-- [Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership](https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com) — 2026-08-07T17:47:42.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### España, en almoneda por el Pegasus a Sánchez
+
+El gravísimo e inconcebible suceso ocurrido la pasada semana en Ceuta, con la virtual invasión de más de 70.000 inmigrantes desde Marruecos, está dando lugar a muchos análisis en torno a los motivos y las posibles consecuencias del mismo. Análisis y debates en todos los medios y cancillerías y en el Parlamento Europeo,.
+
+Date: 2026-08-07
 
 ### Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”
 
@@ -52,4 +58,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [España, en almoneda por el Pegasus a Sánchez](https://www.larazon.es/opinion/espana-almoneda-pegasus-sanchez_202608086a765c79a5690f04736d6e6e.html?utm_source=lootura.com) — 2026-08-07T22:30:17.000Z

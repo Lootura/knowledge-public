@@ -28,5 +28,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Murkowski says she'll vote against Blanche's nomination for attorney general](https://www.cbsnews.com/news/lisa-murkowski-todd-blanche-attorney-general-nomination/?utm_source=lootura.com) — 2026-08-07T11:58:09.000Z
-- [Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination](https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination?utm_source=lootura.com) — 2026-08-07T14:01:21.000Z
+No public source links.

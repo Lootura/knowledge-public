@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -73,17 +73,11 @@
   ],
   "sources": [
     {
-      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
-      "url": "https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T19:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "China’s Export Boom Rolls On Despite Trade Backlash",
       "url": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T07:20:24.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

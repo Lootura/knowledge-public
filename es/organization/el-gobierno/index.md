@@ -3,16 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
+### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
 
-El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
+Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
 
-Date: 2026-08-07
+Date: 2026-08-08
 
 ### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
 
@@ -23,6 +23,12 @@ Date: 2026-08-07
 ### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
 
 La justificación oficial fue la necesidad de buscar un espacio alternativo durante las obras previstas en la Real Casa de Correos. Con ese argumento, el Gobierno regional adquirió, a través de la empresa pública Planifica Madrid, un ático en Chamberí por 6,3 millones de euros y de dimensiones poco habituales para un us.
+
+Date: 2026-08-07
+
+### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
+
+El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
 
 Date: 2026-08-07
 
@@ -62,15 +68,9 @@ Maslaska, Robles, Albares y Bolaños han registrado sus comparecencias en el Con
 
 Date: 2026-08-07
 
-### El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta
-
-La ministra de Juventud e Infancia, Sira Rego, ha cifrado en 1.342 los menores acogidos hasta el momento en Ceuta, pero ha explicado que se sigue filiando a decenas de menores de los que entraron irregularmente a nado el pasado 30 de julio. Seguir leyendo...
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles](https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html?utm_source=lootura.com) — 2026-08-07T19:40:00.000Z
-- [El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta](https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html?utm_source=lootura.com) — 2026-08-07T08:24:55.000Z
 - [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
 - [El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-adjudica-sin-concurso-la-reforma-de-la-sede-de-presidencia.html?utm_source=lootura.com) — 2026-08-07T18:41:12.000Z
+- [El Gobierno se interpone en el deseo del Rey de visitar Ceuta](https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com) — 2026-08-08T01:12:23.000Z

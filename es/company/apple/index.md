@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora](https://hipertextual.com/apple/apple-resuelve-vulnerabilidad-critica-macos/?utm_source=lootura.com) — 2026-08-07T15:10:52.000Z
+No public source links.

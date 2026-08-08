@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.json",
   "description": "Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T02:26:46.300Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "Pedraz",
     "Santiago"
   ],
   "changes": [
+    {
+      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
+      "summary": "El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
       "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
@@ -55,6 +60,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
+      "url": "https://www.larazon.es/espana/juez-caso-cloacas-accede-que-fiscal-stampa-sea-perjudicado_202608086a762b75a5690f04736d267e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:00:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

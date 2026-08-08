@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-06T14:01:51.188Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Muere un segundo niño tratado en China con una terapia de edición genética
+
+En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.
+
+Date: 2026-08-08
 
 ### Muere un segundo niño tratado en China con una terapia de edición genética
 
@@ -62,12 +68,6 @@ segundo eclipse solar del milenio, visible en China y otros países y, vía inte
 
 Date: 2026-08-01
 
-### China es el ganador del caos global. ¿Por qué ha elegido invertir en España?
-
-En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Muere un segundo niño tratado en China con una terapia de edición genética](https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt.html?utm_source=lootura.com) — 2026-08-08T00:39:15.000Z

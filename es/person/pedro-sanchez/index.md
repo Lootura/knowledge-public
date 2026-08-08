@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni
+
+"Quienes se determine que no tienen derecho a permanecer deberán ser retornados sin excepción, de forma rápida y efectiva", afirma a EL MUNDO el comisario Brunner Leer.
+
+Date: 2026-08-08
+
+### Cosas que ocurren
+
+En el afán por cargarle la culpa a otro, el Ejecutivo de Pedro Sánchez se la ha terminado echando a sí mismo.
+
+Date: 2026-08-08
+
+### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
+
+Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
+
+Date: 2026-08-08
+
+### Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas
+
+La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.
+
+Date: 2026-08-07
 
 ### Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche
 
@@ -44,32 +68,9 @@ El Departamento de Estado de Estados Unidos salió este jueves al paso de los te
 
 Date: 2026-08-07
 
-### Los ceutíes, indignados: «¿Por qué los 25 millones van para los menas y no para nuestros niños con necesidades especiales?»
-
-La indignación entre los vecinos de Ceuta es palpable. OKDIARIO ha recogido el testimonio de varias ceutíes que asisten impotentes a la situación que vive su ciudad y que no entienden las prioridades del Gobierno de Pedro Sánchez . «¿Por qué no donan esos millones al Ministerio de Educación, para más aulas de niños esp.
-
-Date: 2026-08-07
-
-### Lo de Ceuta y los submarinos S-80
-
-Hanna Arendt, harta de dar vueltas al juicio de Eichmann, afirmó enfáticamente que «el mundo de la política en nada se asemeja a los parvularios». Si la pensadora hubiese podido contemplar lo que está sucediendo estos días en relación con lo que Pedro Sánchez calificó, tal vez en un descuido, como «la violación y el at.
-
-Date: 2026-08-07
-
-### El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”
-
-No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.
-
-Date: 2026-08-07
-
-### El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes
-
-A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Europol incluye en su lista de más buscados a Andrea Sánchez: la mujer que se hizo pasar por médica en Lugo y A Coruña](https://www.20minutos.es/galicia/europol-incluye-su-lista-mas-buscados-andrea-sanchez-mujer-32-anos-que-se-hizo-pasar-por-medica-lugo-coruna_7023757_0.html?utm_source=lootura.com) — 2026-08-07T17:55:08.000Z
-- [Aparecen nuevas pintadas en Lanzarote contra Pedro Sánchez tras la concentración de anoche](https://www.larazon.es/espana/aparecen-nuevas-pintadas-enlanzarote-pedro-sanchez-concentracion-anoche_202608076a7605d5a5690f04736ce62e.html?utm_source=lootura.com) — 2026-08-07T16:20:37.000Z
-- [Los guardias civiles reclaman 40 antidisturbios para proteger Ceuta de asaltos, los mismos que tiene Sánchez en La Mareta](https://okdiario.com/espana/guardias-civiles-reclaman-40-antidisturbios-proteger-ceuta-asaltos-mismos-que-tiene-sanchez-mareta-19142965?utm_source=lootura.com) — 2026-08-07T19:09:08.000Z
+- [Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni](https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com) — 2026-08-08T00:51:49.000Z
+- [Cosas que ocurren](https://www.larazon.es/espana/cosas-que-ocurren_202608086a75cf73a5690f04736c833d.html?outputType=amp&utm_source=lootura.com) — 2026-08-08T01:15:26.000Z
+- [El Gobierno se interpone en el deseo del Rey de visitar Ceuta](https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com) — 2026-08-08T01:12:23.000Z
+- [Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas](https://theobjective.com/espana/2026-08-08/moncloa-imagenes-sanchez-borrado-piernas/?amp=&utm_source=lootura.com) — 2026-08-07T22:26:15.000Z

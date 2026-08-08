@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T02:22:39.765Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
+      "date": "2026-08-07"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.",
@@ -62,13 +67,15 @@
       "title": "How the Iran War Worsens the Climate Crisis",
       "summary": "Members of the 'Red Rebel Brigade', a climate activist group, walk past Iranian flags being displayed as they join a march against the far right, organized by the Together Alliance, in central London on March 28, 2026. —Henry NICHOLLS-AFP via Getty Images On Wednesday, President Donald Trump told reporters at the NATO.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "It comes from his willingness to violate all norms, rules and laws – and leaving everyone else to pick up the pieces At the Nato summit just ended, Trump lashed out at other Nato members, saying he was “very disappointed with Nato” and asking: “Why are we spending hundreds of billions of dollars, and they’re not there.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:40:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

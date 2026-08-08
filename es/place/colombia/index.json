@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,18 +17,18 @@
   ],
   "changes": [
     {
+      "title": "De la Espriella, nuevo presidente de Colombia, tras tomar posesión: \"Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad\"",
+      "summary": "El nuevo presidente promete una \"patria milagro\" capaz de superar la era Petro Leer.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
       "summary": "Medidas de seguridad extremas en Cali para la toma de posesión del nuevo jefe de Estado Leer.",
       "date": "2026-08-07"
     },
     {
       "title": "La oposición recibe a De la Espriella como una «amenaza a la democracia»",
-      "summary": "El nuevo presidente sella la relación de Colombia con Israel, rota durante el mandato de Petro, antes de tomar posesión de su cargo.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
-      "summary": "El nuevo presidente decide pronunciar su primer discurso como jefe de Estado en el Batallón Pichincha de Cali en lugar de en Bogotá Leer.",
+      "summary": "El nuevo presidente selló la relación de Colombia con Israel, rota durante el mandato de Petro, antes de tomar posesión de su cargo.",
       "date": "2026-08-07"
     },
     {
@@ -39,6 +39,16 @@
     {
       "title": "Colombia abre la era De la Espriella con una investidura histórica en Cali",
       "summary": "Colombia vive una jornada histórica con la investidura de Abelardo de la Espriella en la Arena de la Universidad Santiago de Cali, en un traspaso de poder que por primera vez se celebra fuera de Bogotá. Antes de la ceremonia, el presidente electo ha recibido en Cali a los mandatarios y delegaciones invitadas: se reunió.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad",
+      "summary": "El abogado Abelardo de la Espriella ha jurado este viernes como presidente de Colombia para 2026-2030 en una ceremonia de investidura celebrada en la Arena USC de la Universidad Santiago de Cali, en la capital del Valle del Cauca, rompiendo con la tradición de celebrar el acto en Bogotá.«Juro a Dios y prometo al pueblo.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
+      "summary": "El nuevo presidente decide pronunciar su primer discurso como jefe de Estado en el Batallón Pichincha de Cali en lugar de en Bogotá Leer.",
       "date": "2026-08-07"
     },
     {
@@ -55,16 +65,6 @@
       "title": "Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella",
       "summary": "Felipe VI viaja este jueves por la noche a Cali ( Colombia ) desde Palma para asistir a la toma de posesión como nuevo presidente colombiano de Abelardo de la Espriella , con quien mantendrá una reunión antes de la ceremonia. El rey de España, que viaja acompañado del ministro de Asuntos Exteriores, José Manuel Albares.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”",
-      "summary": "Más de un millón de personas de origen marroquí viven en España , lo que la convierte en la comunidad extranjera más numerosa, por delante de Colombia. Y también en un elemento de considerable importancia para la economía del país magrebí, muchos de cuyos ciudadanos siguen intentando emigrar a Europa como ha mostrado l.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "El \"sombrío legado\" que deja Petro en Colombia",
-      "summary": "Los escándalos de corrupción se han disparado en el mandato que hoy concluye del presidente izquierdistas. Y, lejos de la 'Paz Total', los grupos armados siguen extendiendo sus dominios Leer.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -81,9 +81,9 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Abelardo de la Espriella inicia el giro a la derecha en Colombia",
+      "title": "De la Espriella, nuevo presidente de Colombia, tras tomar posesión: \"Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad\"",
       "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:05:51.000Z",
+      "publishedAt": "2026-08-08T01:06:42.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -97,7 +97,13 @@
       "url": "https://www.larazon.es/internacional/colombia-abre-era-espriella-investidura-historica-cali_202608076a763268a5690f04736d3233.html?utm_source=lootura.com",
       "publishedAt": "2026-08-07T19:30:48.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Colombia deja atrás la era Petro: De la Espriella toma posesión como presidente con la seguridad como prioridad",
+      "url": "https://okdiario.com/internacional/colombia-deja-atras-era-petro-espriella-toma-posesion-como-presidente-seguridad-como-prioridad-19146653/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:18:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

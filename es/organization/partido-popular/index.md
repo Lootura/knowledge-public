@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y recl
 
 Date: 2026-08-07
 
-### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
-
-El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
-
-Date: 2026-08-07
-
 ### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
 
 La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
+
+Date: 2026-08-07
+
+### Los menores de Ceuta no son ilegales
+
+Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.
+
+Date: 2026-08-07
+
+### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
+
+El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
 
 Date: 2026-08-07
 
@@ -62,14 +68,8 @@ Vox no romperá sus pactos de gobierno con el PP en Extremadura, Aragón, Castil
 
 Date: 2026-08-06
 
-### Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: "La situación actual es diferente"
-
-La distribución por la península de los centenares de menores migrantes que permanecen en Ceuta tras el cruce masivo del pasado jueves supone el primer examen a la convivencia...
-
-Date: 2026-08-06
-
 ## Fuentes
 
 - [El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene](https://www.elcorreo.com/politica/robles-marlaska-bolanos-albares-piden-comparecer-congreso-20260807091132-ntrc_amp.html?utm_source=lootura.com) — 2026-08-07T07:11:33.000Z
-- [El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta](https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html?utm_source=lootura.com) — 2026-08-07T08:24:55.000Z
 - [El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó](https://elpais.com/espana/madrid/2026-08-07/el-gobierno-de-ayuso-vende-el-atico-de-chamberi-por-67-millones.html?utm_source=lootura.com) — 2026-08-07T16:56:58.000Z
+- [Los menores de Ceuta no son ilegales](https://www.lavanguardia.com/politica/20260808/11609990/menores-ceuta-son-ilegales.html?utm_source=lootura.com) — 2026-08-07T22:05:00.000Z

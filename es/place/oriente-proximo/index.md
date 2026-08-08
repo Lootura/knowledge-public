@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El alza del euríbor incentiva las renegociaciones de hipotecas
+
+El euríbor a 12 meses, del que depende el coste de las hipotecas a tipo variable y que condiciona el precio de la nueva producción en todas las modalidades, mete cada vez más presión a los hogares. Aunque en el tramo final de esta semana se ha relajado por la rebaja de la tensión en Oriente Próximo, la media provisiona.
+
+Date: 2026-08-07
 
 ### El Ibex tantea nuevos máximos tras el dato de empleo de EE UU
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump , ha afirmado que suspende el ataq
 
 Date: 2026-08-02
 
-### Seis valores del Ibex desafían la incertidumbre y rozan máximos
-
-El Ibex 35 se ha quedado a las puertas de nuevos máximos , pero ha logrado resistir en un mes que ha puesto a prueba la confianza de los inversores. El recrudecimiento de las tensiones en Oriente Próximo, la perspectiva de unos tipos de interés elevados durante más tiempo y las crecientes dudas sobre el sector tecnológ.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [El alza del euríbor incentiva las renegociaciones de hipotecas](https://www.expansion.com/empresas/banca/2026/08/07/6a7632e7e5fdeac5518b459c.html?utm_source=lootura.com) — 2026-08-07T21:45:09.000Z

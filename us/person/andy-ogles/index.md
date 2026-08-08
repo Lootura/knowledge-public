@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat](https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com) — 2026-08-07T14:45:32.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -50,16 +50,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
-      "summary": "Former Tennessee Agriculture Commissioner Charlie Hatcher defeated U.S. Rep. Andy Ogles in a Republican primary Thursday for a significantly reshaped congressional district — marking a rare rejection of a candidate endorsed by President Donald Trump.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
-      "summary": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Why Mexican avocado exports to the U.S. have once again been stopped",
       "summary": "Mexico began sending 1,500 more troops to the western state of Michoacan on Thursday, a day after the U.S. announced the suspension of government operations in that region — including halting avocado inspections required for their export — because of a non-specific threat to U.S. interests.",
       "date": "2026-08-07"
@@ -83,6 +73,16 @@
       "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
       "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
       "date": "2026-08-07"
+    },
+    {
+      "title": "Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership",
+      "summary": "Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
+      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -97,6 +97,12 @@
       "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T16:19:17.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "U.S. loses jobs while unemployment rate drops",
+      "url": "https://www.nbcnews.com/nightly-news/video/-u-s-loses-jobs-while-unemployment-rate-drops-267969605549?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:42:43.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
@@ -117,21 +123,21 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat",
-      "url": "https://www.pbs.org/newshour/politics/tennessee-voters-oust-trump-backed-congressman-set-fall-matchup-for-redrawn-memphis-area-house-seat?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T14:45:32.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%",
-      "url": "https://www.pbs.org/newshour/economy/u-s-employers-unexpectedly-cut-23000-jobs-amid-strain-from-the-iran-war-unemployment-dips-to-4-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T13:29:15.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
       "url": "https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval?utm_source=lootura.com",
       "publishedAt": "2026-08-07T18:34:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Blanche on track for narrow Senate confirmation as attorney general",
+      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:45:40.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
+      "url": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:41:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -139,13 +145,7 @@
       "url": "https://www.pbs.org/newshour/world/why-mexican-avocado-exports-to-the-u-s-have-once-again-been-stopped?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:41:55.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership",
-      "url": "https://www.pbs.org/newshour/world/carney-says-u-s-trade-talks-are-nasty-after-trump-criticizes-canadas-leadership?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T17:47:42.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 16
 }

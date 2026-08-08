@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T14:01:51.188Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
+      "summary": "En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
       "summary": "El paciente participaba en un ensayo clínico con una terapia experimental para corregir la distrofia muscular de Duchenne.",
@@ -55,13 +60,15 @@
       "title": "Fragmento del día: Eclipse solar del 1 de agosto de 2008",
       "summary": "segundo eclipse solar del milenio, visible en China y otros países y, vía internet, en todo el mundo.[cita requerida].",
       "date": "2026-08-01"
-    },
-    {
-      "title": "China es el ganador del caos global. ¿Por qué ha elegido invertir en España?",
-      "summary": "En 2019 se estrenó el documental American Factory, el primero de la productora del matrimonio Obama, que puede verse en Netflix. Es un relato, que entonces era desconcertante y hoy nos lo parece menos, sobre la llegada de la inversión china a ciertas zonas desindustrializadas del Medio Oeste de EE UU. Dayton (Ohio) viv.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
+      "url": "https://www.abc.es/salud/muere-segundo-nino-tratado-china-terapia-edicion-20260806151951-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:39:15.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

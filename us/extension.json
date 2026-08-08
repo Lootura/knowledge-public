@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T20:51:03.270Z",
+  "generatedAt": "2026-08-08T01:33:04.701Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|89|1786135080126",
+    "signature": "1.18.0|90|1786152091407",
     "version": "1.18.0",
-    "build": 89,
-    "latestEntityUpdatedAt": "2026-08-07T20:38:00.126Z"
+    "build": 90,
+    "latestEntityUpdatedAt": "2026-08-08T01:21:31.407Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
+      "id": "usa-supreme-court",
+      "name": "Supreme court",
+      "type": "organization",
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-07T20:38:00.126Z",
-      "score": 1740,
-      "sourceCount": 625,
+      "url": "https://atlas.lootura.com/us/organization/supreme-court",
+      "path": "/us/organization/supreme-court",
+      "updatedAt": "2026-08-08T01:21:31.407Z",
+      "score": 1743,
+      "sourceCount": 35,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
+        "id": "usa-white-house",
+        "name": "White House",
         "type": "organization",
-        "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-07T20:38:00.126Z",
+        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-08-08T01:21:31.407Z",
         "score": 1740,
-        "sourceCount": 35,
+        "sourceCount": 109,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,8 +47,8 @@
         "title": "Morning news brief",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-07T20:38:00.126Z",
-        "score": 1726,
+        "updatedAt": "2026-08-08T01:21:31.407Z",
+        "score": 1716,
         "sourceCount": 340,
         "isBreaking": false,
         "isPinned": false
@@ -60,26 +60,26 @@
         "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
         "url": "https://atlas.lootura.com/us/person/todd-blanche",
         "path": "/us/person/todd-blanche",
-        "updatedAt": "2026-08-07T20:38:00.126Z",
-        "score": 1721,
-        "sourceCount": 49,
+        "updatedAt": "2026-08-08T01:21:31.407Z",
+        "score": 1709,
+        "sourceCount": 50,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-07T20:38:00.126Z",
-        "score": 1709,
-        "sourceCount": 107,
+        "id": "usa-lisa-cook",
+        "name": "Lisa Cook",
+        "type": "person",
+        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+        "url": "https://atlas.lootura.com/us/person/lisa-cook",
+        "path": "/us/person/lisa-cook",
+        "updatedAt": "2026-08-08T01:21:31.407Z",
+        "score": 1704,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 126
+    "publicEntityCount": 127
   }
 }

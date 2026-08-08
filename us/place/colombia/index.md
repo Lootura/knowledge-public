@@ -3,10 +3,16 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T16:52:17.882Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Colombia first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-07
 
 ### Colombia's new president vows to remake the country — and challenge its fragile peace
 
@@ -20,12 +26,6 @@ The country’s new Trump-endorsed president takes office on Friday. Sweeping pl
 
 Date: 2026-08-07
 
-### Discovered by Atlas
-
-Colombia first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Colombia's new president reflects Latin America's right-wing shift](https://www.pbs.org/newshour/show/colombias-new-president-reflects-latin-americas-right-wing-shift?utm_source=lootura.com) — 2026-08-07T22:35:21.000Z

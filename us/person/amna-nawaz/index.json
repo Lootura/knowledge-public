@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T10:36:02.029Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "What the July jobs report reveals about the strength of the economy",
+      "summary": "New labor data shows the U.S. economy lost 23,000 jobs in July, when economists had predicted modest growth. Revised numbers for May and June also show 103,000 fewer jobs created than originally reported. The unemployment rate ticked down, from 4.2% to 4.1%, a function of fewer people seeking jobs. Amna Nawaz discussed.",
+      "date": "2026-08-07"
+    },
     {
       "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
       "summary": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
@@ -59,6 +64,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What the July jobs report reveals about the strength of the economy",
+      "url": "https://www.pbs.org/newshour/show/what-the-july-jobs-report-reveals-about-the-strength-of-the-economy?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:55:24.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

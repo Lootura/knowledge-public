@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
+
+Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
+
+Date: 2026-08-08
 
 ### Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"
 
@@ -62,12 +68,6 @@ Date: 2026-08-06
 
 Date: 2026-08-06
 
-### Vivas pide a la Eurocámara el "blindaje" de la frontera de Ceuta y reclama una "mayor dotación de medios"
-
-Una semana después de la entrada masiva de migrantes en Ceuta, Felipe VI recibirá este jueves al presidente de la ciudad autónoma, Juan Jesús Vivas, en el palacio de Marivent, en Palma de Mallorca, para analizar la crisis migratoria que ha sufrido la ciudad autónoma. De los 72.000 migrantes que, según Interior entraron.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno se interpone en el deseo del Rey de visitar Ceuta](https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com) — 2026-08-08T01:12:23.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
+      "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Juan Jesús Vivas: \"Pensaba que el giro del Sáhara era a cambio del respeto de Rabat\"",
       "summary": "El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y duda de la efectividad de las boyas Leer.",
@@ -59,13 +64,15 @@
       "title": "El presidente de Ceuta anuncia que Felipe VI visitará la ciudad, pero evita fijar una fecha",
       "summary": "«El Rey está comprometido con la visita a Ceuta y la hará», ha señalado este jueves el presidente de Ceuta, Juan Jesús Vivas , tras su audiencia con Felipe VI en el Palacio de Marivent, si bien ha preferido no especular con la fecha de ese desplazamiento, que sería el primero del monarca a la ciudad autónoma desde su p.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Vivas pide a la Eurocámara el \"blindaje\" de la frontera de Ceuta y reclama una \"mayor dotación de medios\"",
-      "summary": "Una semana después de la entrada masiva de migrantes en Ceuta, Felipe VI recibirá este jueves al presidente de la ciudad autónoma, Juan Jesús Vivas, en el palacio de Marivent, en Palma de Mallorca, para analizar la crisis migratoria que ha sufrido la ciudad autónoma. De los 72.000 migrantes que, según Interior entraron.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
+      "url": "https://www.larazon.es/espana/gobierno-interpone-deseo-rey-visitar-ceuta_202608086a768277a5690f04736d9e32.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T01:12:23.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

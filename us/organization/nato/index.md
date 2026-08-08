@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-06T02:22:39.765Z
+- Updated: 2026-08-08T01:21:31.407Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
+
+There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
+
+Date: 2026-08-07
 
 ### NATO spending pressure returned
 
@@ -62,12 +68,6 @@ Members of the 'Red Rebel Brigade', a climate activist group, walk past Iranian 
 
 Date: 2026-07-10
 
-### NATO spending pressure returned
-
-It comes from his willingness to violate all norms, rules and laws – and leaving everyone else to pick up the pieces At the Nato summit just ended, Trump lashed out at other Nato members, saying he was “very disappointed with Nato” and asking: “Why are we spending hundreds of billions of dollars, and they’re not there.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz](https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz?utm_source=lootura.com) — 2026-08-07T22:40:21.000Z

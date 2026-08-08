@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
   "aliases": [
     "AI",
     "AI science",
@@ -84,19 +84,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com",
       "publishedAt": "2026-08-07T20:38:03.786Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Operational Tropical Cyclone Forecasting with AI",
-      "url": "https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T20:38:03.786Z",
-      "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T18:59:46.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

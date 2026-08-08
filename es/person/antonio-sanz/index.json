@@ -1,0 +1,47 @@
+{
+  "id": "es-antonio-sanz",
+  "name": "Antonio Sanz",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/antonio-sanz",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/antonio-sanz",
+  "markdownUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.json",
+  "description": "Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "aliases": [
+    "Antonio Sanz Cabello"
+  ],
+  "changes": [
+    {
+      "title": "\"Extrema complejidad\" en el incendio de Niebla: el fuego salta a nivel 2, moviliza a la UME y fuerza 66 evacuaciones",
+      "summary": "El incendio forestal declarado en Niebla (Huelva) presenta una situación de \"extrema complejidad\" por los cambios de viento, ha informado este viernes el consejero andaluz de Presidencia, Sanidad y Emergencias de la Junta de Andalucía , Antonio Sanz , quien ha señalado que se ha elevado la emergencia a situación operat.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El incendio de Huelva entra en fase de «extrema complejidad» por los cambios de viento",
+      "summary": "El incendio forestal declarado en Niebla ( Huelva ) presenta una situación de «extrema complejidad» por los cambios de viento, ha informado este viernes el consejero andaluz de Presidencia, Sanidad y Emergencias de la Junta de Andalucía , Antonio Sanz, quien ha señalado que 66 personas han sido evacuadas de forma preve.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Antonio Sanz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "\"Extrema complejidad\" en el incendio de Niebla: el fuego salta a nivel 2, moviliza a la UME y fuerza 66 evacuaciones",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-07/incendio-forestal-niebla-huelva-emergencia-1hms-1tna_4402868/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T16:24:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El incendio de Huelva entra en fase de «extrema complejidad» por los cambios de viento",
+      "url": "https://theobjective.com/sociedad/2026-08-07/incendio-huelva-extrema-complejidad/?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T19:02:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

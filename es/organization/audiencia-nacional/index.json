@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
+      "summary": "El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros",
       "summary": "Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.",
@@ -65,13 +70,15 @@
       "title": "Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más",
       "summary": "Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
-      "summary": "La jueza también solicita que se le informe del dispositivo desplegado en el territorio y los datos que consten sobre las personas fallecidas en el mar Qué hay detrás de la embestida de Meloni contra España por la crisis de Ceuta La jueza de la Audiencia Nacional que ha abierto diligencias previas sobre la entrada de d.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
+      "url": "https://www.larazon.es/espana/juez-caso-cloacas-accede-que-fiscal-stampa-sea-perjudicado_202608086a762b75a5690f04736d267e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:00:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

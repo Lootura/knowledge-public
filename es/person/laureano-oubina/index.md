@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La Xunta veta la 'Ruta del Narcotráfico' por la ría de Arousa promovida por Laureano Oubiña](https://www.elconfidencial.com/espana/galicia/2026-08-07/ruta-narcotrafico-arousa-galicia-xunta-1tna-1tps_4402780/?utm_source=lootura.com) — 2026-08-07T13:13:00.000Z
+No public source links.

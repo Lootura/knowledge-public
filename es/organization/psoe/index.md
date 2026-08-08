@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
+
+El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.
+
+Date: 2026-08-08
 
 ### Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos
 
@@ -62,12 +68,6 @@ Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar 
 
 Date: 2026-08-04
 
-### Martínez invita a Mañueco a dialogar para plantear una unidad de acción contra los incendios
-
-Abrir un espacio de diálogo para elaborar una estrategia conjunta contra los incendios forestales. Esta es la invitación que le ha hecho el secretario regional del PSOE, Carlos Martínez , al presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, para hacer frente a lo que considera una "emergencia autonó.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos](https://okdiario.com/andalucia/prodetur-empresa-publica-que-psoe-sevilla-utiliza-como-agencia-colocacion-sus-ex-cargos-19144824?utm_source=lootura.com) — 2026-08-07T16:26:29.000Z
+- [El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado](https://www.larazon.es/espana/juez-caso-cloacas-accede-que-fiscal-stampa-sea-perjudicado_202608086a762b75a5690f04736d267e.html?utm_source=lootura.com) — 2026-08-08T00:00:14.000Z

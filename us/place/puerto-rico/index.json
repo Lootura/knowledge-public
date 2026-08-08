@@ -1,0 +1,67 @@
+{
+  "id": "usa-puerto-rico",
+  "name": "Puerto Rico",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/puerto-rico",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/puerto-rico",
+  "markdownUrl": "https://atlas.lootura.com/us/place/puerto-rico/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/puerto-rico/index.json",
+  "description": "Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-08T01:21:31.407Z",
+  "aliases": [
+    "Free Associated State of Puerto Rico",
+    "Porto Rico",
+    "Territory of Puerto Rico",
+    "Commonwealth of Puerto Rico",
+    "Island of Enchantment",
+    "Borikén",
+    "Borinquen",
+    "Boriquén",
+    "Isle of Enchantment",
+    "Territory of Porto Rico"
+  ],
+  "changes": [
+    {
+      "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
+      "summary": "Puerto Rico's massive rationing measure comes amid a severe drought on top of shortages due to infrastructure issues.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Puerto Rico first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Hundreds of thousands without water in Puerto Rico",
+      "summary": "Families and businesses in San Juan, Puerto Rico, and nearby towns now have to make do with whatever water they have on hand amid rolling shutoffs that last for 48 hours at a time. NBC News' George Solis is on the ground.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
+      "summary": "Puerto Rico is facing yet another crisis as major cities are rationing water for residents due to severe drought conditions. This problem is also exposing the island's aging water infrastructure and lack of immediate government action, leaving many frustrated. For more on how families are coping and what officials are.",
+      "date": "2026-08-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
+      "url": "https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T00:25:57.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Hundreds of thousands without water in Puerto Rico",
+      "url": "https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T23:33:33.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
+      "url": "https://www.pbs.org/newshour/show/drought-and-aging-infrastructure-plunge-puerto-rico-into-a-water-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-08-07T22:30:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 3
+}

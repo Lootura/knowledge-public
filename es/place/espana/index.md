@@ -3,20 +3,20 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-08T01:21:06.150Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
+### Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni
+
+"Quienes se determine que no tienen derecho a permanecer deberán ser retornados sin excepción, de forma rápida y efectiva", afirma a EL MUNDO el comisario Brunner Leer.
+
+Date: 2026-08-08
+
 ### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
 
 El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
-
-Date: 2026-08-07
-
-### La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta
-
-La fiscal general del Estado, Teresa Peramato, ha dictado un decreto con pautas de actuación para los fiscales a fin de «garantizar» la « protección de todos los menores extranjeros no acompañados en situación de contingencia migratoria extraordinaria» que se encuentren en España, y ya avisa de que actuará si las comun.
 
 Date: 2026-08-07
 
@@ -26,53 +26,56 @@ La Agencia de Meteorología sólo prevé predominio de cielos nubosos en el áre
 
 Date: 2026-08-07
 
-### "He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra
-
-El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un vídeo que su primer sueldo en Reino Unido fue de 1.800 libras (unos 2.000 euros al cambio actual) en un puesto donde apenas hablaba el idioma y no contaba con experiencia en el sector.
-
-Date: 2026-08-07
-
-### Un diputado de Compromís denuncia a Figaredo ante la Fiscalía del Supremo por llamar a “cazar a los inmigrantes” de Ceuta
-
-Alberto Ibáñez pide que se investiguen las declaraciones en televisión del parlamentario de Vox y afirma que "no fueron fruto de un lapsus" e implican "una deshumanización explícita del colectivo migrante" España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la front.
-
-Date: 2026-08-07
-
 ### Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad
 
 Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.
 
 Date: 2026-08-07
 
-### El chiringuito, elogio y reivindicación de una institución popular
+### En las tripas del Sonorama, el gran festival indie de España: "Quien entra en nuestra familia ya nunca sale"
 
-Les propongo un viaje para el que no necesitarán billetes, protección solar ni siquiera una toalla. Iremos a un lugar que probablemente conozcan bien, aunque tal vez no se hayan detenido aún a pensar en él. Primera parada: una playa cualquiera de España , hace 40 años. Pónganse el traje que les resulte más cómodo: pued.
-
-Date: 2026-08-07
-
-### Si te gustó ‘La casa de papel’, Prime Video tiene este thriller de Luis Tosar y José Coronado que te va a encantar
-
-Si hay dos actores en España que hayan logrado conquistar al público español, tanto en la pequeña como en la gran pantalla, esos son Luis Tosar y José Coronado . Los rostros del gallego y el madrileño son reconocidos para una audiencia que ya está acostumbrada a la herencia fílmica de calidad que ambos han dejado en el.
+Nos colamos en una de las citas musicales del verano. Nació hace 29 años en Aranda de Duero para 200 personas y hoy es una referencia sin renunciar a sus principios Leer.
 
 Date: 2026-08-07
 
-### Vox pide en el Congreso el retorno a Marruecos de los menas y la paralización de su reparto
+### Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables
 
-El Grupo Parlamentario Vox ha registrado este jueves una proposición no de ley relativa al cumplimiento del acuerdo entre España y Marruecos sobre el.
+En 2025 destacó el escaso número de viviendas iniciadas (134.685 unidades), la reducida participación de la VPO en la nueva oferta (10,6%), el elevado aumento del precio de los pisos (12,9%) y la disminución de las viviendas de alquiler disponibles (4,7%). No obstante, en este último caso, si analizamos el período 2021.
 
 Date: 2026-08-07
 
-### Desarticulada una red de tráfico de personas y droga en España con 78 detenidos
+### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
 
-Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.
+Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
+
+Date: 2026-08-07
+
+### España, en almoneda por el Pegasus a Sánchez
+
+El gravísimo e inconcebible suceso ocurrido la pasada semana en Ceuta, con la virtual invasión de más de 70.000 inmigrantes desde Marruecos, está dando lugar a muchos análisis en torno a los motivos y las posibles consecuencias del mismo. Análisis y debates en todos los medios y cancillerías y en el Parlamento Europeo,.
+
+Date: 2026-08-07
+
+### Italia recibe, pese a todo, más inmigrantes que España
+
+Millones de personas tratan de llegar a Europa, convertida ahora en una suerte de tierra prometida fortificada y defendida por alambradas o por miles de millas de mares inciertos donde hallar la muerte es muy común. Seguir leyendo...
+
+Date: 2026-08-07
+
+### La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta
+
+La fiscal general del Estado, Teresa Peramato, ha dictado un decreto con pautas de actuación para los fiscales a fin de «garantizar» la « protección de todos los menores extranjeros no acompañados en situación de contingencia migratoria extraordinaria» que se encuentren en España, y ya avisa de que actuará si las comun.
 
 Date: 2026-08-07
 
 ## Fuentes
 
 - [Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad](https://www.20minutos.es/nacional/calor-lluvias-ponen-alerta-diferentes-zonas-espana-las-proximas-horas-esta-es-prevision-cada-comunidad_7023783_0.html?utm_source=lootura.com) — 2026-08-07T20:22:19.000Z
+- [En las tripas del Sonorama, el gran festival indie de España: "Quien entra en nuestra familia ya nunca sale"](https://www.elmundo.es/papel/historias/2026/08/07/6a75a732e9cf4ac55a8b4596.html?utm_source=lootura.com) — 2026-08-07T20:50:27.000Z
 - [Aemet pronostica para el día del eclipse cielos poco nubosos o despejados en la mayor parte de España](https://www.elmundo.es/ciencia/2026/08/07/6a75c07afc6c83d0588b4586.html?utm_source=lootura.com) — 2026-08-07T15:00:59.000Z
+- [Europa responsabiliza a España de que las medidas en Ceuta "no tengan impacto en el espacio Schengen" en pleno 'divorcio' de Sánchez y Meloni](https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html?utm_source=lootura.com) — 2026-08-08T00:51:49.000Z
 - [El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça](https://elpais.com/deportes/2026-08-07/el-giro-de-guion-de-rodri-de-la-gran-oferta-del-madrid-a-elegir-al-barca.html?utm_source=lootura.com) — 2026-08-07T09:48:14.000Z
-- [Un diputado de Compromís denuncia a Figaredo ante la Fiscalía del Supremo por llamar a “cazar a los inmigrantes” de Ceuta](https://www.eldiario.es/politica/diputado-compromis-denuncia-figaredo-fiscalia-supremo-llamar-cazar-inmigrantes-ceuta_1_13434479.html?utm_source=lootura.com) — 2026-08-07T12:17:05.000Z
-- ["He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra](https://www.larazon.es/sociedad/estado-10-anos-trabajando-aqui-ganado-2000-euros-critica-espanol-diferencia-salarial-espana-inglaterra-b50m_202608076a760c3a71b42a0b5de23e9f.html?outputType=amp&utm_source=lootura.com) — 2026-08-07T16:50:25.000Z
-- [La Fiscalía avisa de que actuará si las regiones rechazan el reparto de menores de Ceuta](https://theobjective.com/espana/2026-08-07/fiscalia-actuara-regiones-reparto-menores-ceuta/?utm_source=lootura.com) — 2026-08-07T12:21:26.000Z
+- [Vivienda en España: el diagnóstico señala el problema y el Gobierno busca culpables](https://www.expansion.com/opinion/2026/08/07/6a76207a468aebb51b8b4598.html?utm_source=lootura.com) — 2026-08-07T21:55:22.000Z
+- [Los mejores fondos de inversión de Bolsa de España, Europa y EEUU](https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html?utm_source=lootura.com) — 2026-08-07T21:45:40.000Z
+- [España, en almoneda por el Pegasus a Sánchez](https://www.larazon.es/opinion/espana-almoneda-pegasus-sanchez_202608086a765c79a5690f04736d6e6e.html?utm_source=lootura.com) — 2026-08-07T22:30:17.000Z
+- [Italia recibe, pese a todo, más inmigrantes que España](https://www.lavanguardia.com/politica/20260808/11610014/italia-recibe-pese-mas-inmigrantes-espana.html?utm_source=lootura.com) — 2026-08-07T22:05:00.000Z

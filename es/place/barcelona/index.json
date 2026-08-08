@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-08T01:21:06.150Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -27,13 +27,13 @@
       "date": "2026-08-07"
     },
     {
-      "title": "El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona",
-      "summary": "El Balón de Oro se ha anticipado en sus redes sociales al posible fichaje de Rodrigo Hernández por el FC Barcelona . « ¿Rodri se unirá a la lista? Estos son los ganadores del Balón de Oro que han jugado para el Barcelona», ha titulado el galardón un artículo compartido a través de sus canales oficiales y publicado en s.",
+      "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
+      "summary": "El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.",
       "date": "2026-08-07"
     },
     {
-      "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
-      "summary": "El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.",
+      "title": "El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona",
+      "summary": "El Balón de Oro se ha anticipado en sus redes sociales al posible fichaje de Rodrigo Hernández por el FC Barcelona . « ¿Rodri se unirá a la lista? Estos son los ganadores del Balón de Oro que han jugado para el Barcelona», ha titulado el galardón un artículo compartido a través de sus canales oficiales y publicado en s.",
       "date": "2026-08-07"
     },
     {
@@ -80,17 +80,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Balón de Oro saca su lado más culé: colocan a Rodrigo ya en el Barcelona",
-      "url": "https://okdiario.com/deportes/balon-oro-saca-lado-mas-cule-colocan-rodrigo-ya-barcelona-19145134?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T16:11:56.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán",
       "url": "https://theobjective.com/deportes/futbol/2026-08-07/rodri-madrid-city-barcelona-ferran/?utm_source=lootura.com",
       "publishedAt": "2026-08-07T15:20:44.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }
