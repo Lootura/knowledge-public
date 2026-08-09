@@ -3,7 +3,7 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-07-24
 
 ## Fuentes
 
+- [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z
 - [El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»](https://okdiario.com/internacional/hijo-joe-biden-revela-que-cancer-padre-extendido-hecho-metastasis-muy-doloroso-19148400?utm_source=lootura.com) — 2026-08-08T16:48:34.000Z

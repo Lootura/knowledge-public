@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
-      "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
-      "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
       "date": "2026-08-08"
     },
     {
-      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
+      "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
+      "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
       "date": "2026-08-08"
     },
     {
@@ -66,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
-      "url": "https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T02:10:38.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Democrats Vow to Unite Behind Abdul El-Sayed in Michigan, but Tensions Remain",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T13:22:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
@@ -78,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

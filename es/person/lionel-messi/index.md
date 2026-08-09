@@ -3,7 +3,7 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Fuentes
 
 - [Fallece el padre de Leo Messi a los 68 años](https://www.elindependiente.com/espana/2026/08/08/fallece-el-padre-de-leo-messu-a-los-68-anos/?utm_source=lootura.com) — 2026-08-08T14:02:37.000Z
-- [El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro](https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html?utm_source=lootura.com) — 2026-08-08T15:59:08.000Z

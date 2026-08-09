@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-08
 ### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
 
 La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
+
+Date: 2026-08-08
+
+### El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos
+
+El Gobierno «va a utilizar todos los resortes del Estado para garantizar la seguridad de los ceutíes», aseguró el presidente tras su visita a la ciudad autónoma....
 
 Date: 2026-08-08
 
@@ -62,14 +68,8 @@ La empresa pública Planifica Madrid ha formalizado este viernes la puesta en ve
 
 Date: 2026-08-07
 
-### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
-
-El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos](https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:39:33.000Z
+- [El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos](https://amp.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html?utm_source=lootura.com) — 2026-08-08T20:44:48.000Z
 - [Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta](https://okdiario.com/espana/reportero-okdiario-muestra-como-saltar-ridiculas-boyas-disuasorias-puestas-gobierno-invasion-ceuta-19148414?utm_source=lootura.com) — 2026-08-08T17:30:20.000Z
 - [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z

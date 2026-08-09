@@ -3,20 +3,20 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### Daily fragment: Nyonoksa radiation accident
-
-An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
-
-Date: 2026-08-08
-
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
 The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
+
+Date: 2026-08-08
+
+### Daily fragment: Nyonoksa radiation accident
+
+An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
 
 Date: 2026-08-08
 
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Daily fragment: Nyonoksa radiation accident](https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com) — 2026-08-08T04:00:00.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z

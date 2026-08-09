@@ -3,10 +3,16 @@
 > Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/perez-hilton
 
 ## Recent changes
+
+### Perez Hilton hospitalized in ‘serious but stable’ condition, family says
+
+Perez Hilton was in serious condition Saturday at a Florida hospital after he livestreamed what appeared to be self-harm from his Miami-area home Tuesday night, his family said in a statement.
+
+Date: 2026-08-08
 
 ### Perez Hilton’s family says his children ‘fled’ their home before his reported self-harm livestream
 
@@ -40,4 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Perez Hilton hospitalized in ‘serious but stable’ condition, family says](https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-serious-stable-condition-will-need-surgery-f-rcna591535?utm_source=lootura.com) — 2026-08-08T23:21:10.000Z

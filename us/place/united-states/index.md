@@ -3,16 +3,22 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Pentagon revokes security clearance of former Air Force chief
+### Verizon mobile service restored after outage for thousands of customers in the U.S.
 
-The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.
+Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.
 
-Date: 2026-08-08
+Date: 2026-08-09
+
+### Solar eclipse to occur next week. Here is what to know
+
+It will be visible in parts of the U.S. on Wednesday. (Image credit: Edward M. Pio Roda).
+
+Date: 2026-08-09
 
 ### These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires
 
@@ -32,48 +38,43 @@ Rhode Island Gov. Dan McKee has a month to turn around primary challenger Helena
 
 Date: 2026-08-08
 
-### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
-
-The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
-
-Date: 2026-08-08
-
-### Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood
-
-One year after flash flooding at Camp Mystic took 28 lives, three fathers are sharing how their young daughters’ private faith continues to lift their families. Speaking on " Saturday in America ," Ryan DeWitt, Wade Lytal and Cole Naylor shared how their daughters' deep-rooted faith has sustained them through tragedy.
-
-Date: 2026-08-08
-
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
 The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
 
 Date: 2026-08-08
 
-### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
+### Iran issues new demands over Strait of Hormuz
 
-The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
-
-Date: 2026-08-08
-
-### Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.
-
-The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.
+Iran on Saturday issued a new list of demands to the United States, complicating efforts to reopen the critical Strait of Hormuz. NBC News’ Keir Simmons reports from Doha.
 
 Date: 2026-08-08
 
-### Pentagon revokes security clearance of former Air Force chief for disclosing "classified information regarding Air Force One's capabilities"
+### The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages
+
+As the first company to utilize the U.S. Army's new test range scheduling system, Covenant Industries tested its Anthem missile on Aug. 6, 2026, at the Multidomain Training Area range complex in Morocco. —The U.S. Army via AP The U.S. Army said Friday that it is opening five military test ranges to private companies de.
+
+Date: 2026-08-08
+
+### Pentagon revokes security clearance of former Air Force chief
 
 The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.
 
 Date: 2026-08-08
 
+### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
+
+The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
+
+Date: 2026-08-08
+
 ## Sources
 
-- [Pentagon revokes security clearance of former Air Force chief](https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com) — 2026-08-08T03:31:05.000Z
 - [These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires](https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com) — 2026-08-08T15:39:11.000Z
-- [Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood](https://www.foxnews.com/media/heartbroken-fathers-find-divine-hope-secret-notes-left-girls-killed-camp-mystic-flood?utm_source=lootura.com) — 2026-08-08T20:16:30.000Z
+- [Verizon mobile service restored after outage for thousands of customers in the U.S.](https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html?utm_source=lootura.com) — 2026-08-09T00:36:19.000Z
+- [Iran issues new demands over Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com) — 2026-08-08T23:17:44.000Z
+- [Solar eclipse to occur next week. Here is what to know](https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026?utm_source=lootura.com) — 2026-08-09T00:56:21.000Z
 - [How winter canola could profit Illinois farmers, improve sustainability](https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html?utm_source=lootura.com) — 2026-08-08T14:40:01.000Z
 - [Why Rhode Island may oust a sitting governor over a bridge](https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024?utm_source=lootura.com) — 2026-08-08T14:00:38.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
-- [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com) — 2026-08-08T19:04:41.000Z
+- [The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages](https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/?utm_source=lootura.com) — 2026-08-08T19:11:28.000Z

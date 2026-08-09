@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Gobierno extiende a los aeropuertos de Málaga y Sevilla los controles a pasajeros procedentes de Italia](https://www.larazon.es/andalucia/gobierno-extiende-aeropuertos-malaga-sevilla-controles-pasajeros-procedentes-italia_202608086a7758ea71b42a0b5de41b76.html?outputType=amp&utm_source=lootura.com) — 2026-08-08T16:27:22.000Z
-- [Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”](https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com) — 2026-08-08T16:02:05.000Z
+No public source links.

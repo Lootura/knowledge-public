@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,13 +18,13 @@
   ],
   "changes": [
     {
-      "title": "Daily fragment: Nyonoksa radiation accident",
-      "summary": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
+      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
       "date": "2026-08-08"
     },
     {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
+      "title": "Daily fragment: Nyonoksa radiation accident",
+      "summary": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
       "date": "2026-08-08"
     },
     {
@@ -70,17 +70,11 @@
   ],
   "sources": [
     {
-      "title": "Daily fragment: Nyonoksa radiation accident",
-      "url": "https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T04:00:00.000Z",
-      "sourceId": "lootura-us-lootura-daily"
-    },
-    {
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T19:56:38.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

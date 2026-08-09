@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Pregnant woman in hiding as White House ends deportation protections for Haitian migrants
+
+In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.
+
+Date: 2026-08-09
+
+### Trump to appeal White House ballroom ruling to Supreme Court
+
+After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
+
+Date: 2026-08-09
 
 ### Another court blocks White House ballroom work, teeing up a Supreme Court review
 
@@ -56,18 +68,7 @@ US President Donald Trump speaks after signing executive orders in the Oval Offi
 
 Date: 2026-08-07
 
-### Funding milestone detected
-
-A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.
-
-Date: 2026-08-06
-
-### NATO spending pressure returned
-
-At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote](https://www.pbs.org/newshour/politics/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote?utm_source=lootura.com) — 2026-08-08T15:18:05.000Z
+- [Pregnant woman in hiding as White House ends deportation protections for Haitian migrants](https://www.cbsnews.com/video/pregnant-haitian-woman-hides-as-tps-ends/?utm_source=lootura.com) — 2026-08-09T01:06:00.000Z
+- [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z

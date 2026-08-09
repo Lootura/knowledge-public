@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán-EEUU: victoria interrumpida, derrotas probables
+
+La ejecución del ataque del 28 de febrero fue impecable. Lo que ha fallado después no es la espada, sino el pulso de la mano que la empuña.
+
+Date: 2026-08-09
 
 ### Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto
 
@@ -62,12 +68,7 @@ Date: 2026-08-06
 
 Date: 2026-08-05
 
-### El Ibex afianza los 20.000 y explora nuevos récords
-
-Las esperanzas de paz en Irán y el desplome del petróleo abren la puerta a nuevos máximos históricos, incluido un Ibex que apuntala los 20.000 puntos conquistados ayer por primera vez y se adentra en nuevos máximos.
-
-Date: 2026-08-05
-
 ## Fuentes
 
 - [Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto](https://www.elmundo.es/espana/2026/08/08/6a76fe0d21efa0fc098b4570.html?utm_source=lootura.com) — 2026-08-08T10:14:57.000Z
+- [Irán-EEUU: victoria interrumpida, derrotas probables](https://www.larazon.es/internacional/iraneeuu-victoria-interrumpida-derrotas-probables_202608096a77d63ba5690f04736f6896.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T01:22:02.000Z

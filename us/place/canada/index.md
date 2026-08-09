@@ -3,16 +3,10 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
-
-### Canada tries to adapt to a future of wildfires
-
-Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.
-
-Date: 2026-08-08
 
 ### Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate
 
@@ -23,6 +17,12 @@ Date: 2026-08-08
 ### Canada Wildfires: What to Know About Fires in British Columbia and Ontario
 
 Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.
+
+Date: 2026-08-08
+
+### Canada tries to adapt to a future of wildfires
+
+Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.
 
 Date: 2026-08-08
 
@@ -71,5 +71,4 @@ Date: 2026-08-02
 ## Sources
 
 - [Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-08T16:08:46.000Z
-- [Canada tries to adapt to a future of wildfires](https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com) — 2026-08-08T11:00:04.000Z
-- [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com) — 2026-08-08T20:22:15.000Z
+- [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com) — 2026-08-08T20:30:51.000Z

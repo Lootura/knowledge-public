@@ -62,19 +62,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno extiende a los aeropuertos de Málaga y Sevilla los controles a pasajeros procedentes de Italia",
-      "url": "https://www.larazon.es/andalucia/gobierno-extiende-aeropuertos-malaga-sevilla-controles-pasajeros-procedentes-italia_202608086a7758ea71b42a0b5de41b76.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:27:22.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
-      "url": "https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:02:05.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

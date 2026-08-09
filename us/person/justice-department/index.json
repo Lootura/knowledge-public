@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/justice-department/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/justice-department/index.json",
   "description": "Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
-      "date": "2026-08-08"
-    },
     {
       "title": "Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "summary": "Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.",
@@ -60,13 +55,18 @@
       "title": "Todd Blanche's nomination back on track after GOP deal",
       "summary": "Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.",
       "date": "2026-08-03"
+    },
+    {
+      "title": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+      "summary": "The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.",
+      "date": "2026-07-31"
     }
   ],
   "sources": [
     {
-      "title": "Senate votes to confirm Todd Blanche as attorney general",
-      "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T08:46:39.000Z",
+      "title": "GOP-controlled Senate delivers win for Trump with Blanche confirmation",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T21:19:17.000Z",
       "sourceId": "lootura-us-npr-politics"
     }
   ],

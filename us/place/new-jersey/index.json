@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T04:54:08.151Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
+      "summary": "LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury",
       "summary": "A New Jersey woman is suing the New York Yankees for $10 million after a bat flew into the stands and struck her in the head, which she says gave her a brain injury.",
@@ -67,13 +72,15 @@
       "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
       "summary": "In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "6,600 noncitizens registered to vote by New Jersey motor vehicle system error, Gov. Sherill says",
-      "summary": "The Democratic governor, who took office this year, blamed a Motor Vehicle Commission system software error but said a preliminary analysis showed that fewer than 400 of the people registered that way went on to cast ballots.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
+      "url": "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T00:00:19.000Z",
+      "sourceId": "lootura-us-fox-news"
+    }
+  ],
+  "evidenceCount": 1
 }

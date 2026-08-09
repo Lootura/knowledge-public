@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
-    {
-      "title": "Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: \"Aquí no va a haber papeles\"",
-      "summary": "El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como \"absolutamente insostenible\" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.",
-      "date": "2026-08-08"
-    },
     {
       "title": "El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes",
       "summary": "«Contemos la verdad de lo que está pasando» . Así se tajante se ha expresado el presidente de Ceuta, Juan Jesús Vivas , que ha comparecido ante los medios de comunicación para desmentir al Gobierno. Según los datos que maneja la ciudad autónoma, aún quedan entre 8.000 y 11.000 inmigrantes de los 72.000 que asaltaron la.",
@@ -33,6 +28,11 @@
     {
       "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
       "summary": "La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: \"Aquí no va a haber papeles\"",
+      "summary": "El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como \"absolutamente insostenible\" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.",
       "date": "2026-08-08"
     },
     {
@@ -68,12 +68,6 @@
   ],
   "sources": [
     {
-      "title": "Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: \"Aquí no va a haber papeles\"",
-      "url": "https://www.elconfidencial.com/espana/2026-08-08/entrada-masiva-ceuta-marruecos-retorno-1tps_4403112/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T13:13:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Vivas pide unidad ante la crisis, al margen de ideologías: \"Todos los ceutíes con una sola voz diciendo Ceuta está en pie\"",
       "url": "https://www.elindependiente.com/espana/ceuta-y-melilla/2026/08/08/vivas-pide-unidad-ante-la-crisis-al-margen-de-partidos-politicos-todos-los-ceuties-con-una-sola-voz-diciendo-ceuta-esta-en-pie/?utm_source=lootura.com",
       "publishedAt": "2026-08-08T18:27:49.000Z",
@@ -92,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

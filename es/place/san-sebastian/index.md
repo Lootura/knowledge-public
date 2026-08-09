@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -29,6 +29,12 @@ Date: 2026-08-08
 ### El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande
 
 El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.
+
+Date: 2026-08-08
+
+### «Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»
+
+El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».
 
 Date: 2026-08-08
 
@@ -62,15 +68,10 @@ La zona del espigón, a la altura del Kursaal, es la única en la que se permite
 
 Date: 2026-08-04
 
-### Consulta los servicios de Lurraldebus para la Semana Grande de Donostia
-
-Además de los servicios habituales y de los refuerzos para la entrada y salida de los fuegos artificiales, se realizarán servicios nocturnos especiales.
-
-Date: 2026-08-04
-
 ## Fuentes
 
 - [Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián](https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:03:49.000Z
+- [«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»](https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com) — 2026-08-08T22:01:02.000Z
 - [Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande](https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com) — 2026-08-08T12:05:18.000Z
 - [Arranque festivo con alma de balón y compás](https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:27:24.000Z
 - [El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande](https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com) — 2026-08-08T18:34:13.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,13 +43,13 @@
   ],
   "changes": [
     {
-      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
-      "summary": "Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.",
+      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
+      "summary": "El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.",
       "date": "2026-08-08"
     },
     {
-      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
-      "summary": "El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.",
+      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
+      "summary": "Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.",
       "date": "2026-08-08"
     },
     {
@@ -95,10 +95,10 @@
   ],
   "sources": [
     {
-      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
-      "url": "https://okdiario.com/cool/famosos/antonio-banderas-interrumpe-comida-marbella-felicitar-hermano-javier-ganado-copa-del-rey-19148376?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:02:05.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:42:30.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
@@ -107,5 +107,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

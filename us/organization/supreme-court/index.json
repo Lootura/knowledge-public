@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "summary": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
       "summary": "The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.",
@@ -60,14 +65,15 @@
       "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
       "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Warren presses U.S. companies to share tariff refunds with customers",
-      "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T00:50:12.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "What to know about Trump's new attempt to limit birthright citizenship",
       "url": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com",
@@ -77,9 +83,9 @@
     {
       "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:02:15.000Z",
+      "publishedAt": "2026-08-08T09:02:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

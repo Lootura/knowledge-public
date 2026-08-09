@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -14,15 +14,15 @@ Falling debris sparked several fires on the outskirts of the Ukrainian capital, 
 
 Date: 2026-08-08
 
-### President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall
-
-Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.
-
-Date: 2026-08-08
-
 ### Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead
 
 Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine. (Image credit: Roman Pilipey).
+
+Date: 2026-08-08
+
+### President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall
+
+Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.
 
 Date: 2026-08-08
 
@@ -72,4 +72,3 @@ Date: 2026-08-06
 
 - [Child among 4 people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T11:27:42.000Z
 - [Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead](https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov?utm_source=lootura.com) — 2026-08-08T17:46:05.000Z
-- [President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z

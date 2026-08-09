@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-08-05
 ## Sources
 
 - [Senate confirms Todd Blanche, Trump's ex-defense lawyer, as attorney general](https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com) — 2026-08-08T16:57:05.000Z
-- [The Hitchhiker’s Guide to what the Senate did and didn’t do overnight](https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com) — 2026-08-08T20:05:27.000Z
 - [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:07.000Z

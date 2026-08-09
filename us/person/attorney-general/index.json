@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/attorney-general/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/attorney-general/index.json",
   "description": "Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "AG",
     "Attorney",
@@ -68,10 +68,10 @@
   ],
   "sources": [
     {
-      "title": "The Hitchhiker’s Guide to what the Senate did and didn’t do overnight",
-      "url": "https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:05:27.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "GOP-controlled Senate delivers win for Trump with Blanche confirmation",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T21:19:17.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
   "evidenceCount": 1

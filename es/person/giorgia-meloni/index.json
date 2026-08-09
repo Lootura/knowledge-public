@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
@@ -26,6 +26,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Sánchez y Meloni dinamitan con la migración cuatro años de equilibrio institucional por la frontera sur de Europa",
+      "url": "https://amp.elmundo.es/espana/2026/08/08/6a772d1dfdddff19488b45c1.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:44:02.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
   "evidenceCount": 0
 }

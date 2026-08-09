@@ -3,20 +3,38 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
-
-El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
-
-Date: 2026-08-08
-
 ### El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti
 
 Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.
+
+Date: 2026-08-08
+
+### Prisión para el presunto autor del homicidio de un hombre en Nou Barris
+
+Un juez de guardia de Barcelona ha decretado este sábado el ingreso en prisión comunicada y sin fianza del hombre, hondureño de 22 años, que el jueves presuntamente asesinó al actual pareja de exmujer. La víctima, de nacionalidad española y 44 años, mantenía una relación de clandestina, de amantes, con la hija de los p.
+
+Date: 2026-08-08
+
+### El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego
+
+El Barcelona se marcha de Italia sin trofeo veraniego y con un mal sabor de boca tras perder contra el Udinese en los segundos 45 minutos de la triangular. Un gol de Bayo a la contra, aprovechando un desajuste defensivo de la zaga culé, condenó al Barça de Hansi Flick a perder 1-0. El Barcelona, tras la victoria ante e.
+
+Date: 2026-08-08
+
+### Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: "No fue fácil para mí..."
+
+Hansi Flick atendió a los medios de comunicación en sala de prensa tras la victoria ante el Nottingham y la derrota contra el Udinese.
+
+Date: 2026-08-08
+
+### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
+
+El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
 
 Date: 2026-08-08
 
@@ -50,26 +68,10 @@ En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas
 
 Date: 2026-08-08
 
-### Araújo jugará cedido en el Liverpool
-
-Operación relámpago por Ronald Araújo. El central uruguayo del FC Barcelona jugará una temporada cedido en el Liverpool tras un acuerdo alcanzado entre ambos clubs en la noche del viernes. El pacto ha sido aprobado por el director deportivo barcelonista, Deco, y fue desvelado por el periodista especializado en mercado.
-
-Date: 2026-08-08
-
-### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
-
-El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
-
-Date: 2026-08-07
-
-### Rodri: el Madrid se planta en 40+40, el City pide 100 y el Barcelona necesita vender a Ferrán
-
-El futuro de Rodrigo Hernández, Rodri , no puede ser más incierto a día de hoy. Como ha venido informando THE OBJECTIVE, el Real Madrid lleva semanas negociando con el Manchester City por Rodri por deseo de José Mourinho , y ahora, además, el Barcelona se ha metido por medio. El equipo blanco ofrece 40 millones fijos m.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [Los controles de viajeros de Italia empezaron sólo en Madrid y Barcelona y se han ido extendiendo a cinco aeropuertos](https://amp.elmundo.es/espana/2026/08/08/6a773461fdddffcf728b457e.html?utm_source=lootura.com) — 2026-08-08T13:55:13.000Z
-- [El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro](https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html?utm_source=lootura.com) — 2026-08-08T15:59:08.000Z
+- [Prisión para el presunto autor del homicidio de un hombre en Nou Barris](https://www.lavanguardia.com/sucesos/20260808/11610426/prision-presunto-autor-homicidio-hombre-nou-barris.html?utm_source=lootura.com) — 2026-08-08T16:37:20.000Z
 - [El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti](https://okdiario.com/deportes/barcelona-tumba-nottingham-gol-sobre-bocina-raphinha-penalti-19148714/amp?utm_source=lootura.com) — 2026-08-08T20:02:14.000Z
+- [El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego](https://okdiario.com/deportes/barcelona-pierde-udinese-ultimo-minuto-marcha-italia-sin-trofeo-veraniego-19148885?utm_source=lootura.com) — 2026-08-08T21:10:17.000Z
+- [Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: "No fue fácil para mí..."](https://okdiario.com/deportes/flick-confirma-salidas-roony-casado-araujo-del-barcelona-no-fue-facil-19149021/amp?utm_source=lootura.com) — 2026-08-08T22:22:45.000Z

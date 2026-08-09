@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Un incendio en Moratalla obliga a movilizar efectivos de Murcia, Castilla-La Mancha y el Miteco](https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/?utm_source=lootura.com) — 2026-08-08T19:12:00.000Z
+- [Estabilizado el incendio forestal en Moratalla (Murcia) tras un amplio despliegue interautonómico](https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/?utm_source=lootura.com) — 2026-08-08T19:12:00.000Z

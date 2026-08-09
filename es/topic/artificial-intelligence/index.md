@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las exportaciones refuerzan el modelo productivo de Castilla y León](https://www.larazon.es/castilla-y-leon/exportaciones-refuerzan-modelo-productivo-castilla-leon_202608086a7783c771b42a0b5de4561d.html?utm_source=lootura.com) — 2026-08-08T19:30:15.000Z
+- [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z

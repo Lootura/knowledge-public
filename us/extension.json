@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:39:03.113Z",
+  "generatedAt": "2026-08-09T01:40:27.997Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|97|1786220776467",
+    "signature": "1.18.0|98|1786238819542",
     "version": "1.18.0",
-    "build": 97,
-    "latestEntityUpdatedAt": "2026-08-08T20:26:16.467Z"
+    "build": 98,
+    "latestEntityUpdatedAt": "2026-08-09T01:26:59.542Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-supreme-court",
-      "name": "Supreme court",
-      "type": "organization",
-      "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
-      "url": "https://atlas.lootura.com/us/organization/supreme-court",
-      "path": "/us/organization/supreme-court",
-      "updatedAt": "2026-08-08T20:26:16.467Z",
-      "score": 1697,
-      "sourceCount": 38,
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-08-09T01:26:59.542Z",
+      "score": 1738,
+      "sourceCount": 636,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "Trump to appeal White House ballroom ruling to Supreme Court",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-08-09T01:26:59.542Z",
+        "score": 1712,
+        "sourceCount": 39,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
-        "title": "President Xi nevers wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+        "title": "Talks between Iran, Oman continue over Strait of Hormuz",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-08T20:26:16.467Z",
-        "score": 1644,
-        "sourceCount": 348,
+        "updatedAt": "2026-08-09T01:26:59.542Z",
+        "score": 1672,
+        "sourceCount": 349,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,25 +57,12 @@
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+        "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-08T20:26:16.467Z",
-        "score": 1644,
-        "sourceCount": 649,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump announces $180 million to boost mining education",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-08T20:26:16.467Z",
-        "score": 1635,
-        "sourceCount": 637,
+        "updatedAt": "2026-08-09T01:26:59.542Z",
+        "score": 1660,
+        "sourceCount": 651,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "usa-white-house",
         "name": "White House",
         "type": "organization",
-        "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
+        "title": "Pregnant woman in hiding as White House ends deportation protections for Haitian migrants",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-08T20:26:16.467Z",
-        "score": 1635,
-        "sourceCount": 110,
+        "updatedAt": "2026-08-09T01:26:59.542Z",
+        "score": 1653,
+        "sourceCount": 111,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 131
+    "publicEntityCount": 130
   }
 }

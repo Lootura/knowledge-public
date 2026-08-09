@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Los ministros en el punto de mira por su gestión en la crisis migratoria
+
+«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese calibre, el jefe del Ejecutivo, refugiado en La Mareta, no conv.
+
+Date: 2026-08-09
 
 ### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
 
@@ -26,9 +32,9 @@ Dicha acusación debe ser promovida por un cuarto de los diputados del Congreso 
 
 Date: 2026-08-08
 
-### Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición
+### Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado
 
-El líder de Vox, Santiago Abascal, ha anunciado que su partido promoverá la activación del artículo 102 de la Constitución para investigar a Pedro Sánchez y a su Gobierno por posibles delitos de traición y contra la seguridad del Estado. Abascal ha denunciado que «la traición de Pedro Sánchez a los españoles debe lleva.
+Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.
 
 Date: 2026-08-08
 
@@ -62,17 +68,10 @@ El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia c
 
 Date: 2026-08-08
 
-### Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil
-
-El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a cargo incluso a familias que superan rentas de 50.000 euros anuales . La última estadística publicada por el Instituto Nacional de la Seguridad Social (INSS) incorpora otro dato que amplía el alcance del denominado «escudo social». Un detalle q.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Aterriza en Loiu el primer vuelo de Italia tras la crisis entre Sánchez y Meloni: «No nos esperábamos este control»](https://www.elcorreo.com/politica/aterriza-aeropuerto-bilbao-primer-vuelo-italia-guardia-20260808171739-nt_amp.html?utm_source=lootura.com) — 2026-08-08T15:17:40.000Z
+- [Los ministros en el punto de mira por su gestión en la crisis migratoria](https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com) — 2026-08-09T00:13:23.000Z
 - [Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado](https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com) — 2026-08-08T18:02:27.000Z
-- [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
-- [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T18:59:36.000Z
-- [Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición](https://okdiario.com/espana/vox-promueve-activar-articulo-102-constitucion-investigar-sanchez-delito-traicion-19148549?utm_source=lootura.com) — 2026-08-08T18:32:09.000Z
+- [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T20:43:21.000Z
+- [Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado](https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com) — 2026-08-08T18:33:16.000Z
 - [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z

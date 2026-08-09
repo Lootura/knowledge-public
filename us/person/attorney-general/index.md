@@ -3,7 +3,7 @@
 > Follow Attorney general, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/attorney-general
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [The Hitchhiker’s Guide to what the Senate did and didn’t do overnight](https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com) — 2026-08-08T20:05:27.000Z
+- [GOP-controlled Senate delivers win for Trump with Blanche confirmation](https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation?utm_source=lootura.com) — 2026-08-08T21:19:17.000Z

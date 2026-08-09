@@ -3,7 +3,7 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
 
 La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...
+
+Date: 2026-08-08
+
+### Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado
+
+Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.
 
 Date: 2026-08-08
 
@@ -62,13 +68,7 @@ El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han
 
 Date: 2026-07-25
 
-### Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista
-
-El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado](https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com) — 2026-08-08T18:02:27.000Z
-- [Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición](https://okdiario.com/espana/vox-promueve-activar-articulo-102-constitucion-investigar-sanchez-delito-traicion-19148549?utm_source=lootura.com) — 2026-08-08T18:32:09.000Z
+- [Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado](https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com) — 2026-08-08T18:33:16.000Z

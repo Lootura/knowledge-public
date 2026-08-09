@@ -3,16 +3,10 @@
 > Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/justice-department
 
 ## Recent changes
-
-### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
-
-The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
-
-Date: 2026-08-08
 
 ### Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general
 
@@ -68,6 +62,12 @@ Todd Blanche's attorney general nomination is moving forward after two Republica
 
 Date: 2026-08-03
 
+### Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings
+
+The case is at the center of negotiations between two Republican senators and the Justice Department over Todd Blanche’s nomination to serve as attorney general.
+
+Date: 2026-07-31
+
 ## Sources
 
-- [Senate votes to confirm Todd Blanche as attorney general](https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general?utm_source=lootura.com) — 2026-08-08T08:46:39.000Z
+- [GOP-controlled Senate delivers win for Trump with Blanche confirmation](https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation?utm_source=lootura.com) — 2026-08-08T21:19:17.000Z

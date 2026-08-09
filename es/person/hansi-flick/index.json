@@ -1,0 +1,48 @@
+{
+  "id": "es-hansi-flick",
+  "name": "Hansi Flick",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/hansi-flick",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/hansi-flick",
+  "markdownUrl": "https://atlas.lootura.com/es/person/hansi-flick/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/hansi-flick/index.json",
+  "description": "Sigue la actividad de Hansi Flick en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "aliases": [
+    "Hans-Dieter Flick",
+    "Hans Flick"
+  ],
+  "changes": [
+    {
+      "title": "El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego",
+      "summary": "El Barcelona se marcha de Italia sin trofeo veraniego y con un mal sabor de boca tras perder contra el Udinese en los segundos 45 minutos de la triangular. Un gol de Bayo a la contra, aprovechando un desajuste defensivo de la zaga culé, condenó al Barça de Hansi Flick a perder 1-0. El Barcelona, tras la victoria ante e.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: \"No fue fácil para mí...\"",
+      "summary": "Hansi Flick atendió a los medios de comunicación en sala de prensa tras la victoria ante el Nottingham y la derrota contra el Udinese.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Hansi Flick first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego",
+      "url": "https://okdiario.com/deportes/barcelona-pierde-udinese-ultimo-minuto-marcha-italia-sin-trofeo-veraniego-19148885?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T21:10:17.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: \"No fue fácil para mí...\"",
+      "url": "https://okdiario.com/deportes/flick-confirma-salidas-roony-casado-araujo-del-barcelona-no-fue-facil-19149021/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T22:22:45.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

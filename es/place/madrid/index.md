@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura
-
-El arrollamiento mortal de una persona este sábado en un paso a nivel de Talavera de la Reina ha provocado el corte de la línea de tren de pasajeros que une Madrid con Extremadura. Según ha informado el Administrador de Infraestructuras Ferroviarias (Adif) a través de las redes sociales, el tren que ha impactado con la.
-
-Date: 2026-08-08
 
 ### Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo
 
@@ -44,6 +38,18 @@ Date: 2026-08-08
 
 Date: 2026-08-08
 
+### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
+
+Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
+
+Date: 2026-08-08
+
+### El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura
+
+El arrollamiento mortal de una persona este sábado en un paso a nivel de Talavera de la Reina ha provocado el corte de la línea de tren de pasajeros que une Madrid con Extremadura. Según ha informado el Administrador de Infraestructuras Ferroviarias (Adif) a través de las redes sociales, el tren que ha impactado con la.
+
+Date: 2026-08-08
+
 ### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
 
 La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
@@ -62,17 +68,11 @@ El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 
 
 Date: 2026-08-08
 
-### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
-
-Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
-
-Date: 2026-08-08
-
 ## Fuentes
 
 - [Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid](https://www.abc.es/deportes/real-madrid/bastaron-cinco-minutos-espi-estrena-goleador-real-20260808205330-nt_amp.html?utm_source=lootura.com) — 2026-08-08T18:53:31.000Z
 - [Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande](https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt.html?utm_source=lootura.com) — 2026-08-08T18:39:44.000Z
-- [El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura](https://elpais.com/economia/2026-08-08/el-arrollamiento-mortal-de-una-persona-en-talavera-de-la-reina-provoca-el-corte-de-la-linea-de-tren-madrid-extremadura.html?utm_source=lootura.com) — 2026-08-08T12:11:37.000Z
 - [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z
+- [La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío](https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html?utm_source=lootura.com) — 2026-08-08T22:20:16.000Z
 - [Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende](https://okdiario.com/madrid/solo-madrid-saben-verdadero-significado-expresion-pillarse-moco-resto-espana-no-entiende-19137558?utm_source=lootura.com) — 2026-08-08T17:00:33.000Z
 - [Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo](https://theobjective.com/sociedad/suceso/2026-08-08/incendio-restaurante-cortar-gran-via-plaza-espana-san-bernardo/?utm_source=lootura.com) — 2026-08-08T13:49:39.000Z

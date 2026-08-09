@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Blanche",
     "Todd Wallace Blanche"
@@ -73,17 +73,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "The Hitchhiker’s Guide to what the Senate did and didn’t do overnight",
-      "url": "https://www.foxnews.com/politics/hitchhikers-guide-what-senate-did-didnt-do-overnight?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:05:27.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T09:38:07.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

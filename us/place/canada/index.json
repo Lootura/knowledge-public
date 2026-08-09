@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
-    {
-      "title": "Canada tries to adapt to a future of wildfires",
-      "summary": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.",
-      "date": "2026-08-08"
-    },
     {
       "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
       "summary": "The Bald Range wildfire was first reported on Friday evening.",
@@ -28,6 +23,11 @@
     {
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
       "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Canada tries to adapt to a future of wildfires",
+      "summary": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.",
       "date": "2026-08-08"
     },
     {
@@ -74,17 +74,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Canada tries to adapt to a future of wildfires",
-      "url": "https://phys.org/news/2026-08-canada-future-wildfires.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:00:04.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
       "url": "https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:22:15.000Z",
+      "publishedAt": "2026-08-08T20:30:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

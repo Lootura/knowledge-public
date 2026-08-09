@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
       "summary": "La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado",
+      "summary": "Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.",
       "date": "2026-08-08"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
       "summary": "El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista",
-      "summary": "El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -72,10 +72,10 @@
       "sourceId": "lootura-es-el-debate"
     },
     {
-      "title": "Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición",
-      "url": "https://okdiario.com/espana/vox-promueve-activar-articulo-102-constitucion-investigar-sanchez-delito-traicion-19148549?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T18:32:09.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T18:33:16.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

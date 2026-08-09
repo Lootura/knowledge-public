@@ -3,7 +3,7 @@
 > Sigue la actividad de Martín Zubimendi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/person/martin-zubimendi
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-08-08
 
 ### Discovered by Atlas
 
-Martin Zubimendi first entered the public knowledge record with source-backed evidence.
+Martín Zubimendi first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-08
 

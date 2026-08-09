@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,16 +17,11 @@
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
-      "date": "2026-08-08"
+      "date": "2026-08-09"
     },
     {
       "title": "Opinion: Europe's summer of heat",
       "summary": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that pl.",
       "date": "2026-08-08"
     },
     {
@@ -45,6 +40,16 @@
       "date": "2026-08-08"
     },
     {
+      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that pl.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
       "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
       "date": "2026-08-08"
@@ -57,11 +62,6 @@
     {
       "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
       "summary": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
-      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
       "date": "2026-08-07"
     }
   ],
@@ -87,7 +87,7 @@
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:30:15.385Z",
+      "publishedAt": "2026-08-09T01:27:03.662Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -95,13 +95,7 @@
       "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com",
       "publishedAt": "2026-08-08T12:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:00:44.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

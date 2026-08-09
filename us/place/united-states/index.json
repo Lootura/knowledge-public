@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,9 +35,14 @@
   ],
   "changes": [
     {
-      "title": "Pentagon revokes security clearance of former Air Force chief",
-      "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
-      "date": "2026-08-08"
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Solar eclipse to occur next week. Here is what to know",
+      "summary": "It will be visible in parts of the U.S. on Wednesday. (Image credit: Edward M. Pio Roda).",
+      "date": "2026-08-09"
     },
     {
       "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
@@ -55,43 +60,32 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood",
-      "summary": "One year after flash flooding at Camp Mystic took 28 lives, three fathers are sharing how their young daughters’ private faith continues to lift their families. Speaking on \" Saturday in America ,\" Ryan DeWitt, Wade Lytal and Cole Naylor shared how their daughters' deep-rooted faith has sustained them through tragedy.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
       "date": "2026-08-08"
     },
     {
-      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "summary": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.",
+      "title": "Iran issues new demands over Strait of Hormuz",
+      "summary": "Iran on Saturday issued a new list of demands to the United States, complicating efforts to reopen the critical Strait of Hormuz. NBC News’ Keir Simmons reports from Doha.",
       "date": "2026-08-08"
     },
     {
-      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+      "title": "The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages",
+      "summary": "As the first company to utilize the U.S. Army's new test range scheduling system, Covenant Industries tested its Anthem missile on Aug. 6, 2026, at the Multidomain Training Area range complex in Morocco. —The U.S. Army via AP The U.S. Army said Friday that it is opening five military test ranges to private companies de.",
       "date": "2026-08-08"
     },
     {
-      "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
+      "title": "Pentagon revokes security clearance of former Air Force chief",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
       "date": "2026-08-08"
     }
   ],
   "sources": [
-    {
-      "title": "Pentagon revokes security clearance of former Air Force chief",
-      "url": "https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T03:31:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
       "url": "https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com",
@@ -99,10 +93,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Heartbroken fathers find divine hope in secret notes left by girls killed in Camp Mystic flood",
-      "url": "https://www.foxnews.com/media/heartbroken-fathers-find-divine-hope-secret-notes-left-girls-killed-camp-mystic-flood?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:16:30.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T00:36:19.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Iran issues new demands over Strait of Hormuz",
+      "url": "https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T23:17:44.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Solar eclipse to occur next week. Here is what to know",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T00:56:21.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "How winter canola could profit Illinois farmers, improve sustainability",
@@ -123,11 +129,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T19:04:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages",
+      "url": "https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T19:11:28.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 9
 }

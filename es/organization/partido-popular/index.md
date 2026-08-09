@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Joaquín Almunia: «Apoyo muchas políticas de Pedro Sánchez pero ignorar al PP en temas básicos es un error»](https://www.diariovasco.com/politica/apoyo-politicas-sanchez-ignorar-pp-temas-basicos-20260808000143-nt_amp.html?utm_source=lootura.com) — 2026-08-07T22:01:43.000Z
 - [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z

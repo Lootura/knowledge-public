@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Pentagon revokes security clearance of former Air Force chief](https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/?utm_source=lootura.com) — 2026-08-08T03:31:05.000Z
+No public source links.

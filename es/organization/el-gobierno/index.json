@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
       "summary": "La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos",
+      "summary": "El Gobierno «va a utilizar todos los resortes del Estado para garantizar la seguridad de los ceutíes», aseguró el presidente tras su visita a la ciudad autónoma....",
       "date": "2026-08-08"
     },
     {
@@ -55,19 +60,14 @@
       "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
       "summary": "La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
-      "summary": "El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno vasco y los ayuntamientos remodelarán 79 colegios vizcaínos",
-      "url": "https://www.elcorreo.com/bizkaia/gobierno-vasco-destinara-millones-euros-remodelar-124-20260807114659-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-07T22:39:33.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos",
+      "url": "https://amp.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:44:48.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta",
@@ -82,5 +82,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

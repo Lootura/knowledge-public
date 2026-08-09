@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/perez-hilton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/perez-hilton/index.json",
   "description": "Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T08:56:56.836Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Hilton",
     "Mario Armando Lavandeira",
@@ -16,6 +16,11 @@
     "Perez"
   ],
   "changes": [
+    {
+      "title": "Perez Hilton hospitalized in ‘serious but stable’ condition, family says",
+      "summary": "Perez Hilton was in serious condition Saturday at a Florida hospital after he livestreamed what appeared to be self-harm from his Miami-area home Tuesday night, his family said in a statement.",
+      "date": "2026-08-08"
+    },
     {
       "title": "Perez Hilton’s family says his children ‘fled’ their home before his reported self-harm livestream",
       "summary": "The family said they “fled to protect from witnessing any further trauma” after “it became clear” that Hilton was “harming himself.”.",
@@ -42,6 +47,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Perez Hilton hospitalized in ‘serious but stable’ condition, family says",
+      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-serious-stable-condition-will-need-surgery-f-rcna591535?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T23:21:10.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

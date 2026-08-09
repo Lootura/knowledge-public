@@ -34,5 +34,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El presidente de Ceuta cifra entre 8.000 y 11.000 los migrantes aún en la ciudad, pide blindar la frontera y un millar de agentes](https://www.20minutos.es/ceuta/presidente-ceuta-cifra-entre-8-000-11-000-los-migrantes-que-siguen-ciudad-pide-blindar-frontera-minimo-mil-agentes_7023889_0.html?utm_source=lootura.com) — 2026-08-08T15:43:31.000Z
-- [Vivas cifra en cerca de 11.000 los migrantes llegados desde Marruecos que permanecen en Ceuta](https://www.elindependiente.com/espana/2026/08/08/vivas-cifra-en-cerca-de-11-000-los-migrantes-llegados-desde-marruecos-que-permanecen-en-ceuta/?utm_source=lootura.com) — 2026-08-08T12:31:05.000Z
+No public source links.

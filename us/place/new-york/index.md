@@ -3,20 +3,26 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### How a duck's friendship helped a golden retriever overcome health issues
+### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
 
-Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.
+LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
 ### Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races
 
 Democratic incumbents in safe districts in New York and Colorado have been ousted so far this year by primary challengers.
+
+Date: 2026-08-08
+
+### How a duck's friendship helped a golden retriever overcome health issues
+
+Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.
 
 Date: 2026-08-08
 
@@ -62,14 +68,7 @@ The battle to become the country’s next progressive leader in the mold of Bern
 
 Date: 2026-08-04
 
-### We’re giving away a back-to-school bag filled with over $800 of free tech
-
-The Nomatic Messenger Bag can fit quite a bit, but it’s no match for the boxes we stuffed inside. It’s time for yet another giveaway. We raided The Verge ’s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It’s overstuffed, to say the least, and if you’re chosen as the winner.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races](https://www.cbsnews.com/news/hawaii-primaries-ed-case-jarrett-keohokalole/?utm_source=lootura.com) — 2026-08-08T11:05:25.000Z
-- [How a duck's friendship helped a golden retriever overcome health issues](https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com) — 2026-08-08T00:23:51.000Z
-- [Super-rich complain but experts welcome Mamdani’s pied-à-terre tax](https://www.theguardian.com/us-news/2026/aug/08/mamdani-new-york-pied-a-terre-tax?utm_source=lootura.com) — 2026-08-08T12:00:46.000Z
+- [President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club](https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com) — 2026-08-09T00:00:19.000Z

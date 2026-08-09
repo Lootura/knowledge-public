@@ -3,7 +3,7 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards?utm_source=lootura.com) — 2026-08-08T21:15:12.000Z

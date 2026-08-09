@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump to appeal White House ballroom ruling to Supreme Court
+
+After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
+
+Date: 2026-08-09
 
 ### Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program
 
@@ -62,13 +68,8 @@ The Trump administration is moving ahead with its efforts to fire Federal Reserv
 
 Date: 2026-08-07
 
-### Warren presses U.S. companies to share tariff refunds with customers
-
-Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
-
-Date: 2026-08-07
-
 ## Sources
 
+- [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
 - [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
-- [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:15.000Z
+- [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:16.000Z

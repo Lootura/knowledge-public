@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T01:26:38.581Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -41,6 +41,11 @@
       "date": "2026-08-08"
     },
     {
+      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
+      "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
+      "date": "2026-08-08"
+    },
+    {
       "title": "El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»",
       "summary": "La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos', que puede visitarse hasta el domingo, atrae a fans de dentro y fuera de Gipuzkoa.",
       "date": "2026-08-07"
@@ -64,11 +69,6 @@
       "title": "Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián",
       "summary": "La zona del espigón, a la altura del Kursaal, es la única en la que se permite el baño en Donostia, mientras que en arenales como los de Getaria y Zarautz se mantienen los avisos por la llegada de ejemplares de mayor dimensión.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Consulta los servicios de Lurraldebus para la Semana Grande de Donostia",
-      "summary": "Además de los servicios habituales y de los refuerzos para la entrada y salida de los fuegos artificiales, se realizarán servicios nocturnos especiales.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -76,6 +76,12 @@
       "title": "Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián",
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T16:03:49.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
+      "url": "https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T22:01:02.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
@@ -97,5 +103,5 @@
       "sourceId": "lootura-es-el-independiente"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

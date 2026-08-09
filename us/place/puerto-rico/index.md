@@ -3,16 +3,10 @@
 > Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/puerto-rico
 
 ## Recent changes
-
-### Water rationing begins in Puerto Rico amid drought crisis: "It's brutal"
-
-Puerto Rico's massive rationing measure comes amid a severe drought on top of shortages due to infrastructure issues.
-
-Date: 2026-08-08
 
 ### Discovered by Atlas
 
@@ -23,6 +17,12 @@ Date: 2026-08-08
 ### Puerto Rico's mismanaged, broken infrastructure worsens drought impact
 
 Puerto Rico has entered a period of water rationing as existing infrastructure issues worsen the impact of an ongoing drought. While government officials focus on the lack of rain, residents point to government mismanagement and underfunded, aging infrastructure as the source of many ongoing issues, from water shortage.
+
+Date: 2026-08-08
+
+### Water rationing begins in Puerto Rico amid drought crisis: "It's brutal"
+
+Puerto Rico's massive rationing measure comes amid a severe drought on top of shortages due to infrastructure issues.
 
 Date: 2026-08-08
 
@@ -41,4 +41,3 @@ Date: 2026-08-07
 ## Sources
 
 - [Puerto Rico's mismanaged, broken infrastructure worsens drought impact](https://www.cbsnews.com/video/puerto-ricos-mismanaged-broken-infrastructure-worsens-drought-impact/?utm_source=lootura.com) — 2026-08-08T15:33:08.000Z
-- [Water rationing begins in Puerto Rico amid drought crisis: "It's brutal"](https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/?utm_source=lootura.com) — 2026-08-08T00:25:57.000Z

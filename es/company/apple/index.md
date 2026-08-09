@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple
+
+Equiparse con el reloj inteligente más potente, resistente y avanzado del ecosistema de la manzana para abordar expediciones en la montaña o sesiones intensas de entrenamiento ya no requiere realizar una inversión prohibitiva. El Apple Watch Ultra 2 GPS + Cellular se sitúa en la cúspide de los relojes deportivos , comb.
+
+Date: 2026-08-09
 
 ### Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa
 
@@ -62,12 +68,7 @@ Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de a
 
 Date: 2026-08-05
 
-### Cloudflare tiene un nuevo sistema de pagos online… para bots de IA. Sí, los que acaparan las compras de tus productos favoritos
-
-Si antes de los agentes de IA para automatizar compras los bots normales eran una pesadilla para comprar entradas o hacerte con la última consola, las cosas se van a poner más complicadas. Y es que lo nuevo de Cloudflare es un sistema de pagos online, al estilo PayPal o Apple Pay... pero para agentes de IA. Su nombre e.
-
-Date: 2026-08-05
-
 ## Fuentes
 
 - [Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa](https://hipertextual.com/apple/iphone-copiar-a-windows-funcion-a-ios/?utm_source=lootura.com) — 2026-08-08T16:00:00.000Z
+- [Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple](https://www.larazon.es/compras/nuestra-eleccion/bajadon-400-euros-apple-watch-ultra-2-pccomponentes-esta-liquidando-uno-mejores-relojes-jamas-fabricados-apple_202608096a77ca15a046ad6ebca695eb.html?utm_source=lootura.com) — 2026-08-09T00:30:13.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
 
 Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.
+
+Date: 2026-08-08
+
+### San Felón de Moncloa
+
+Desde que Marruecos intervino el móvil de medio gobierno español, incluyendo como elemento de chantaje principal el teléfono del autócrata que lo dirige, la política del sanchismo se basó en una constante enmienda a los intereses nacionales, priorizando aquí y en Bruselas lo que Rabat dispone. Se trata del peor ejercic.
 
 Date: 2026-08-08
 
@@ -62,12 +68,7 @@ Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emer
 
 Date: 2026-08-04
 
-### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
-
-La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva](https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html?utm_source=lootura.com) — 2026-08-08T18:37:14.000Z
+- [San Felón de Moncloa](https://okdiario.com/opinion/san-felon-moncloa-19148814?utm_source=lootura.com) — 2026-08-08T20:29:59.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-09T01:26:59.542Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -34,13 +34,18 @@
   ],
   "changes": [
     {
-      "title": "How a duck's friendship helped a golden retriever overcome health issues",
-      "summary": "Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.",
-      "date": "2026-08-08"
+      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
+      "summary": "LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.",
+      "date": "2026-08-09"
     },
     {
       "title": "Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races",
       "summary": "Democratic incumbents in safe districts in New York and Colorado have been ousted so far this year by primary challengers.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "How a duck's friendship helped a golden retriever overcome health issues",
+      "summary": "Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.",
       "date": "2026-08-08"
     },
     {
@@ -77,11 +82,6 @@
       "title": "Bernie Sanders’ circle is pretty clear on who his successor will be",
       "summary": "The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "We’re giving away a back-to-school bag filled with over $800 of free tech",
-      "summary": "The Nomatic Messenger Bag can fit quite a bit, but it’s no match for the boxes we stuffed inside. It’s time for yet another giveaway. We raided The Verge ’s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It’s overstuffed, to say the least, and if you’re chosen as the winner.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -92,17 +92,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How a duck's friendship helped a golden retriever overcome health issues",
-      "url": "https://www.cbsnews.com/news/duck-golden-retriever-best-friends-long-island-louie-barley/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T00:23:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Super-rich complain but experts welcome Mamdani’s pied-à-terre tax",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/mamdani-new-york-pied-a-terre-tax?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:00:46.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
+      "url": "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T00:00:19.000Z",
+      "sourceId": "lootura-us-fox-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

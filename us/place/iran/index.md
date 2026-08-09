@@ -3,14 +3,32 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
+### Talks between Iran, Oman continue over Strait of Hormuz
+
+Negotiations are ongoing between Iran and Oman regarding the management of the Strait of Hormuz. While those talks over the crucial waterway drag on, however, gas prices remain high for Americans. Imtiaz Tyab reports.
+
+Date: 2026-08-09
+
 ### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
 
 While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
+
+Date: 2026-08-08
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
+
+Date: 2026-08-08
+
+### Iran issues new demands over Strait of Hormuz
+
+Iran on Saturday issued a new list of demands to the United States, complicating efforts to reopen the critical Strait of Hormuz. NBC News’ Keir Simmons reports from Doha.
 
 Date: 2026-08-08
 
@@ -23,12 +41,6 @@ Date: 2026-08-08
 ### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
 
 The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
-
-Date: 2026-08-08
-
-### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
-
-The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
 
 Date: 2026-08-08
 
@@ -56,23 +68,9 @@ Recent escalating tensions between the Iran-backed group and the Yemeni governme
 
 Date: 2026-08-07
 
-### Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On
-
-As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
-
-Date: 2026-08-07
-
-### Senate Passes Sanctions Bill Targeting Russia and Iran
-
-The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Iran says deal on Strait of Hormuz is close but will not open the waterway by itself](https://www.nbcnews.com/world/iran/iran-says-deal-strait-hormuz-close-will-not-open-waterway-rcna591476?utm_source=lootura.com) — 2026-08-08T13:17:41.000Z
-- [President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china?utm_source=lootura.com) — 2026-08-08T11:00:44.000Z
-- [Houthis Claim Attack on Yemeni Military Camp](https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html?utm_source=lootura.com) — 2026-08-07T20:44:46.000Z
+- [Talks between Iran, Oman continue over Strait of Hormuz](https://www.cbsnews.com/video/iran-oman-continue-talks-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-09T00:44:59.000Z
+- [Iran issues new demands over Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com) — 2026-08-08T23:17:44.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
 - [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com) — 2026-08-08T14:57:24.000Z
-- [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html?utm_source=lootura.com) — 2026-08-08T19:04:41.000Z

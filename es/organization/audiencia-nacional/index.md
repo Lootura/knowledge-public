@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Gómez Bermúdez: "La corrupción no es erradicable, pero sí es claramente reducible"
+
+El abogado Javier Gómez Bermúdez cree que hay que «afinar» la figura del colaborador de la Justicia, sus «consecuencias y límites». Tras la sentencia del Tribunal Supremo del «caso mascarillas» que rebajó la condena a Víctor de Aldama por su confesión, para quien fuera magistrado de la Audiencia Nacional y presidente d.
+
+Date: 2026-08-09
 
 ### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
 
@@ -62,12 +68,6 @@ La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico
 
 Date: 2026-08-05
 
-### Isabel Pantoja pierde dos recursos contra Hacienda y tendrá que pagar 700.000 euros más
-
-Isabel Pantoja no hace más que acumular deudas. La última suma más de 700.000 euros que corresponden a las liquidaciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de los ejercicios de 2009 y 2010, y que según la última sentencia de la Audiencia Nacional tendrá que pagar pese a los recursos que había in.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Gómez Bermúdez: "La corrupción no es erradicable, pero sí es claramente reducible"](https://www.larazon.es/espana/gomez-bermudez-corrupcion-erradicable-pero-claramente-reducible_202608096a75964271b42a0b5de1686e.html?utm_source=lootura.com) — 2026-08-09T01:21:00.000Z

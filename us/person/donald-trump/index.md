@@ -3,16 +3,22 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump announces $180 million to boost mining education
+### Trump to appeal White House ballroom ruling to Supreme Court
 
-President Trump announced over $180 million in grants to boost educational programs for the mining industry, part of a bid to increase critical mineral production.
+After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
 
-Date: 2026-08-08
+Date: 2026-08-09
+
+### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
+
+LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.
+
+Date: 2026-08-09
 
 ### Federal funds can't be used to give test strips to drug users, raising overdose fears
 
@@ -56,25 +62,20 @@ The summer exit confirmed what had been apparent for weeks: that Republicans lac
 
 Date: 2026-08-08
 
-### Senate confirms Todd Blanche as attorney general after weeks of uncertainty
+### Trump announces $180 million to boost mining education
 
-The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.
-
-Date: 2026-08-08
-
-### Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation
-
-Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+President Trump announced over $180 million in grants to boost educational programs for the mining industry, part of a bid to increase critical mineral production.
 
 Date: 2026-08-08
 
 ## Sources
 
-- [Trump announces $180 million to boost mining education](https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/?utm_source=lootura.com) — 2026-08-08T01:13:32.000Z
+- [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
+- [President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club](https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com) — 2026-08-09T00:00:19.000Z
 - [Federal funds can't be used to give test strips to drug users, raising overdose fears](https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears?utm_source=lootura.com) — 2026-08-08T10:00:00.000Z
 - [Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination](https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination?utm_source=lootura.com) — 2026-08-08T11:43:50.000Z
 - [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
 - [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:07.000Z
 - [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z
-- [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:15.000Z
-- [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html?utm_source=lootura.com) — 2026-08-08T20:12:50.000Z
+- [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:16.000Z
+- [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html?utm_source=lootura.com) — 2026-08-08T20:12:51.000Z

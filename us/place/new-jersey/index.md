@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T04:54:08.151Z
+- Updated: 2026-08-09T01:26:59.542Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
+
+LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.
+
+Date: 2026-08-09
 
 ### Woman sues Yankees for $10M after getting struck by bat, says she suffered brain injury
 
@@ -62,12 +68,6 @@ In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts 
 
 Date: 2026-07-21
 
-### 6,600 noncitizens registered to vote by New Jersey motor vehicle system error, Gov. Sherill says
-
-The Democratic governor, who took office this year, blamed a Motor Vehicle Commission system software error but said a preliminary analysis showed that fewer than 400 of the people registered that way went on to cast ballots.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club](https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com) — 2026-08-09T00:00:19.000Z

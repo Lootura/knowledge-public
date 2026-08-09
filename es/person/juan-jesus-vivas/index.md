@@ -3,16 +3,10 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T01:26:38.581Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
-
-### Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: "Aquí no va a haber papeles"
-
-El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como "absolutamente insostenible" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.
-
-Date: 2026-08-08
 
 ### El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes
 
@@ -29,6 +23,12 @@ Date: 2026-08-08
 ### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
 
 La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
+
+Date: 2026-08-08
+
+### Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: "Aquí no va a haber papeles"
+
+El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como "absolutamente insostenible" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.
 
 Date: 2026-08-08
 
@@ -70,7 +70,6 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: "Aquí no va a haber papeles"](https://www.elconfidencial.com/espana/2026-08-08/entrada-masiva-ceuta-marruecos-retorno-1tps_4403112/?utm_source=lootura.com) — 2026-08-08T13:13:00.000Z
 - [Vivas pide unidad ante la crisis, al margen de ideologías: "Todos los ceutíes con una sola voz diciendo Ceuta está en pie"](https://www.elindependiente.com/espana/ceuta-y-melilla/2026/08/08/vivas-pide-unidad-ante-la-crisis-al-margen-de-partidos-politicos-todos-los-ceuties-con-una-sola-voz-diciendo-ceuta-esta-en-pie/?utm_source=lootura.com) — 2026-08-08T18:27:49.000Z
 - [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z
 - [El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes](https://theobjective.com/espana/2026-08-08/vivas-estima-8000-11000-inmigrantes-ceuta-insostenible/?utm_source=lootura.com) — 2026-08-08T14:12:30.000Z
