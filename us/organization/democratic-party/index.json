@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
+      "summary": "Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
+      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella",
+      "summary": "New research shows that a class gap on the left threatens any winning coalition – but there are ways to address it Debates on the left are typically framed as a division between moderates and progressives, with the two sides wrestling over how best to form a governing coalition. Yet, in many ways, this divide obscures.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
@@ -47,36 +62,33 @@
       "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
       "summary": "One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin",
-      "summary": "In a year where voters upset with the Democratic Party mainstream have propelled outsider candidates to victory across the country, this candidate is hoping to buck the trend in Wisconsin.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-      "summary": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
-      "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "‘Voters are fed up’: Michigan primary forces Democratic party to accept leftwing shift",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T05:00:05.000Z",
+      "title": "Can Progressive Democrats Win in the 2026 Midterm Elections?",
+      "url": "https://www.today.com/video/can-progressive-democrats-win-in-the-2026-midterm-elections-268002373874?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:26:24.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:12:20.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:00:14.000Z",
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:02:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T10:00:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

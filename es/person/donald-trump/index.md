@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza
+
+"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos" Leer.
+
+Date: 2026-08-09
+
+### Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo
+
+Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.
+
+Date: 2026-08-09
 
 ### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
 
@@ -56,18 +68,7 @@ El Senado abre la vía para acusar al exresponsable sanitario que dirigió la re
 
 Date: 2026-08-06
 
-### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
-
-La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
-
-Date: 2026-08-06
-
-### Podcast | Las ‘midterm’ de EEUU
-
-¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z
+- [Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T12:23:27.000Z
+- [Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo](https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com) — 2026-08-09T11:47:37.000Z

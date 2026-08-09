@@ -82,13 +82,6 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [
-    {
-      "title": "Lake Mead hits historic low water level as Colorado River struggles",
-      "url": "https://www.pbs.org/newshour/nation/lake-mead-hits-historic-low-water-level-as-colorado-river-struggles?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:07:11.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

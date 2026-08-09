@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Politics chat: Progressive candidates in primaries, Trump's influence on midterms
+
+Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.
+
+Date: 2026-08-09
+
+### Top Democrats simulate election threats as Trump continues assault on voting
+
+Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they.
+
+Date: 2026-08-09
+
+### The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella
+
+New research shows that a class gap on the left threatens any winning coalition – but there are ways to address it Debates on the left are typically framed as a division between moderates and progressives, with the two sides wrestling over how best to form a governing coalition. Yet, in many ways, this divide obscures.
+
+Date: 2026-08-09
 
 ### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
 
@@ -50,25 +68,9 @@ One moderate group says the progressive wins are “deeply troubling” and is p
 
 Date: 2026-08-06
 
-### After Michigan, Democrats' next battleground over the party's future shifts to Wisconsin
-
-In a year where voters upset with the Democratic Party mainstream have propelled outsider candidates to victory across the country, this candidate is hoping to buck the trend in Wisconsin.
-
-Date: 2026-08-06
-
-### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
-
-New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
-
-Date: 2026-08-06
-
-### Thanedar becomes latest incumbent to fall to a progressive challenger
-
-Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney on Wednesday — the latest victory for progressives who’ve been on a hot streak of ousting incumbents in safe-blue districts. Thanedar’s 13th District was a top priority for groups like Justice Democrats that are committed to primaryin.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [‘Voters are fed up’: Michigan primary forces Democratic party to accept leftwing shift](https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc?utm_source=lootura.com) — 2026-08-09T05:00:05.000Z
-- [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z
+- [Can Progressive Democrats Win in the 2026 Midterm Elections?](https://www.today.com/video/can-progressive-democrats-win-in-the-2026-midterm-elections-268002373874?utm_source=lootura.com) — 2026-08-09T12:26:24.000Z
+- [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
+- [Top Democrats simulate election threats as Trump continues assault on voting](https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com) — 2026-08-09T12:00:14.000Z
+- [The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella](https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap?utm_source=lootura.com) — 2026-08-09T10:00:12.000Z

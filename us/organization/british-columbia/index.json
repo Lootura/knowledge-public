@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.json",
   "description": "Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "B.C.",
     "BC",
@@ -27,13 +27,13 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "title": "Discovered by Atlas",
+      "summary": "British Columbia first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-08"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "British Columbia first entered the public knowledge record with source-backed evidence.",
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
       "date": "2026-08-08"
     },
     {
@@ -50,17 +50,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:30:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
       "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
       "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T04:38:21.000Z",
+      "publishedAt": "2026-08-09T11:31:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

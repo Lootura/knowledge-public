@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -13,12 +13,6 @@
 La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: es otra plaza de San Sebastián, propicia a los niños y los ancianos como las demás, pero de cuya pavimentación no se ocupa el Ayuntamiento sino el Cantábrico . Es una playa que se recoge en torno a sí misma como si no quisiera desafiar a nadie.
 
 Date: 2026-08-09
-
-### Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande
-
-Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.
-
-Date: 2026-08-08
 
 ### Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián
 
@@ -35,6 +29,12 @@ Date: 2026-08-08
 ### «Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»
 
 El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».
+
+Date: 2026-08-08
+
+### Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande
+
+Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.
 
 Date: 2026-08-08
 
@@ -72,6 +72,4 @@ Date: 2026-08-05
 
 - [Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián](https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:03:49.000Z
 - [«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»](https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com) — 2026-08-08T22:01:02.000Z
-- [Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande](https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com) — 2026-08-08T12:05:18.000Z
 - [Arranque festivo con alma de balón y compás](https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:27:24.000Z
-- [Noticias de otra plaga](https://theobjective.com/elsubjetivo/opinion/2026-08-09/noticias-otra-plaga-articulo-fernando-savater/?utm_source=lootura.com) — 2026-08-09T03:25:00.000Z

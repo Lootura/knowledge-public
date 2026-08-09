@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
+
+Date: 2026-08-08
 
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
@@ -59,12 +65,6 @@ Date: 2026-08-02
 ### How China Keeps Tabs on Foreigners
 
 An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
-
-Date: 2026-08-02
-
-### Op-ed: The U.S. lead over China in AI is all but gone
-
-AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.
 
 Date: 2026-08-02
 

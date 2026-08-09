@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,6 +42,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
+      "summary": "\"Ahora no tenemos ninguna negociación con Estados Unidos\", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras \"no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas\" Del bloqueo naval al fin de sanciones: est.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Los socialistas estadounidenses querrían ser españoles",
       "summary": "La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.",
@@ -86,25 +91,14 @@
       "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "summary": "Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El telescopio Inouye capta por primera vez remolinos en la superficie del Sol con las imágenes solares de mayor resolución de la historia",
-      "summary": "Tenemos que hablar del telescopio solar Daniel K. Inouye de la Fundación Nacional de Ciencias de Estados Unidos. Dicho telescopio ha conseguido capturar las imágenes de mayor resolución jamás obtenidas de la fotosfera solar , revelando un fenómeno físico increíble que hasta ahora solo existía en la teoría. Un equipo in.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos",
-      "url": "https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:42:30.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Los socialistas estadounidenses querrían ser españoles",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-09/socialistas-estadounidenses-espanoles-articulo-benito-arrunada/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
+      "url": "https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T09:56:09.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 1

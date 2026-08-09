@@ -34,4 +34,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Data centers are a political issue crossing party lines, driving voters to candidates](https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms?utm_source=lootura.com) — 2026-08-08T09:00:00.000Z
+No public source links.

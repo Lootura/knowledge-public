@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,47 +35,53 @@
       "date": "2026-08-09"
     },
     {
-      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
-      "summary": "LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.",
+      "title": "Netanyahu rejects Gaza peace plan, vows no military pullout until Hamas disarms",
+      "summary": "President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.\".",
       "date": "2026-08-09"
     },
     {
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "summary": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants. (Image credit: Bebeto Matthews).",
-      "date": "2026-08-08"
+      "title": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says",
+      "summary": "Israel will not accept the 15-point plan for Gaza set out by President Donald Trump’s Board of Peace, Prime Minister Benjamin Netanyahu said Sunday.",
+      "date": "2026-08-09"
     },
     {
-      "title": "Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination",
-      "summary": "Mike Lindell of \"MyPillow\" fame, might win the GOP primary for Minnesota governor running on a Trump platform. Other Republicans are concerned that his closeness could hurt his chances in November.",
-      "date": "2026-08-08"
+      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
+      "summary": "Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.",
+      "date": "2026-08-09"
     },
     {
-      "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
-      "date": "2026-08-08"
+      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "summary": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).",
+      "date": "2026-08-09"
     },
     {
-      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
-      "date": "2026-08-08"
+      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
+      "summary": "Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.",
+      "date": "2026-08-09"
     },
     {
-      "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
-      "summary": "The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.",
-      "date": "2026-08-08"
+      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
+      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they.",
+      "date": "2026-08-09"
     },
     {
-      "title": "What to know about Trump's new attempt to limit birthright citizenship",
-      "summary": "A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with \"adjustments\" keeping the decision in mind, President Donald Trump said.",
-      "date": "2026-08-08"
+      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
+      "date": "2026-08-09"
     },
     {
-      "title": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
-      "summary": "The summer exit confirmed what had been apparent for weeks: that Republicans lacked the votes to pass the voting restrictions the president has made a top priority.",
-      "date": "2026-08-08"
+      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
+      "summary": "LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.",
+      "date": "2026-08-09"
     }
   ],
   "sources": [
+    {
+      "title": "Netanyahu rejects Gaza peace plan, vows no military pullout until Hamas disarms",
+      "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:24:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump to appeal White House ballroom ruling to Supreme Court",
       "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com",
@@ -83,28 +89,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "title": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:26:09.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
+      "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:18:19.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:39:47.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:43:50.000Z",
+      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:12:20.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "What to know about Trump's new attempt to limit birthright citizenship",
-      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T15:39:17.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:38:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:00:14.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
@@ -113,23 +125,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:02:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T09:02:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T20:12:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:01:21.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 11
 }

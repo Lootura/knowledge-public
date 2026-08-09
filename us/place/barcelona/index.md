@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68](https://www.cbsnews.com/news/jorge-messi-father-of-argentina-great-lionel-messi-dies-at-68/?utm_source=lootura.com) — 2026-08-08T16:06:21.000Z
+No public source links.

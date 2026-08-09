@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El reinado de 'The Expanse' como la mejor ciencia ficción puede acabar: las series que aspiran a dominar el género](https://www.larazon.es/videojuegos/series/reinado-the-expanse-como-mejor-ciencia-ficcion-puede-acabar-series-aspiran-dominar-genero_202608096a71e6d5a5690f047365120c.html?utm_source=lootura.com) — 2026-08-09T04:50:00.000Z
+No public source links.

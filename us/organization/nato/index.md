@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes

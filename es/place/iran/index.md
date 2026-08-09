@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
+
+"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
+
+Date: 2026-08-09
 
 ### Irán-EEUU: victoria interrumpida, derrotas probables
 
@@ -62,12 +68,6 @@ La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enor
 
 Date: 2026-08-06
 
-### Podcast | Las ‘midterm’ de EEUU
-
-¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz](https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com) — 2026-08-09T09:56:09.000Z

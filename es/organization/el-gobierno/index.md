@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno pide a Italia que "reaccione" y asegura que "ninguna persona ha llegado de Ceuta a la Península"
+
+La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, espera que Italia "reaccione" y que tenga "claro" que el espacio Schengen está garantizado, sin haber sido violado por ningún inmigrante llegado desde Ceuta. "No ha habido ninguna persona que haya llegado a la Pe.
+
+Date: 2026-08-09
+
+### El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla
+
+La vicepresidenta y ministra de Transición Ecológica, Sara Aagesen, apela a la Junta de Andalucía a unirse a un "pacto de país o un pacto frente a una emergencia climática".
+
+Date: 2026-08-09
 
 ### El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos
 
@@ -56,19 +68,7 @@ Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan
 
 Date: 2026-08-08
 
-### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
-
-La justificación oficial fue la necesidad de buscar un espacio alternativo durante las obras previstas en la Real Casa de Correos. Con ese argumento, el Gobierno regional adquirió, a través de la empresa pública Planifica Madrid, un ático en Chamberí por 6,3 millones de euros y de dimensiones poco habituales para un us.
-
-Date: 2026-08-07
-
-### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
-
-La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Gobierno de Italia carga contra España tras suspender Schengen: "Inaceptable, es Sánchez quien ha dramatizado"](https://www.20minutos.es/internacional/gobierno-italia-carga-contra-espana-tras-suspender-schengen-inaceptable-es-sanchez-quien-ha-dramatizado_7023938_0.html?utm_source=lootura.com) — 2026-08-09T08:16:16.000Z
-- [El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos](https://amp.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html?utm_source=lootura.com) — 2026-08-08T20:44:48.000Z
+- [El Gobierno pide a Italia que "reaccione" y asegura que "ninguna persona ha llegado de Ceuta a la Península"](https://www.20minutos.es/nacional/gobierno-pide-italia-que-reaccione-asegura-que-no-ha-habido-ninguna-persona-que-haya-llegado-ceuta-peninsula_7023985_0.html?utm_source=lootura.com) — 2026-08-09T12:07:15.000Z
+- [El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla](https://www.larazon.es/andalucia/gobierno-compromete-cubrir-mitad-coste-restauracion-superficie-afectada-niebla_202608096a787534a046ad6ebca791f7.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T12:40:20.000Z

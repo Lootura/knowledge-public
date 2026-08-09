@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T20:25:54.616Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer
+
+La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.
+
+Date: 2026-08-09
 
 ### Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”
 
@@ -62,12 +68,6 @@ Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado 
 
 Date: 2026-08-05
 
-### Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador
-
-La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer](https://www.elconfidencial.com/espana/andalucia/2026-08-09/audiencia-malaga-suspende-ejecucion-pena-carcel-hombre-reconocio-violo-mujer_4403428/?utm_source=lootura.com) — 2026-08-09T12:22:00.000Z

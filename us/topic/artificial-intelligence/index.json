@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "AI",
     "AI science",
@@ -80,15 +80,21 @@
   ],
   "sources": [
     {
+      "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:01:56.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
       "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
       "url": "https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T08:41:27.802Z",
+      "publishedAt": "2026-08-09T12:43:50.907Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Operational Tropical Cyclone Forecasting with AI",
       "url": "https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T08:41:27.802Z",
+      "publishedAt": "2026-08-09T12:43:50.906Z",
       "sourceId": "lootura-us-nature"
     }
   ],

@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
+
+Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
+
+Date: 2026-08-09
+
+### La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad
+
+Aramís Fuster está viviendo en una situación precaria , tal y como han podido presenciar en 'Fiesta'. La pitonisa, que reside de alquiler en Madrid, no tiene agua corriente ni luz desde hace seis meses, y su vivienda carece de los servicios básicos. La televisiva, que tiene 75 años pese a haber asegurado que supera los.
+
+Date: 2026-08-09
 
 ### ¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea
 
@@ -20,21 +32,15 @@ Un hombre de 61 años ha fallecido en la madrugada de este domingo en la explosi
 
 Date: 2026-08-09
 
-### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
+### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
 
-Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
+Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
 
-Date: 2026-08-09
+Date: 2026-08-08
 
 ### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
 
 El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.
-
-Date: 2026-08-08
-
-### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
-
-Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
 
 Date: 2026-08-08
 
@@ -62,16 +68,8 @@ El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la re
 
 Date: 2026-08-08
 
-### Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende
-
-«Anoche me pillé un moco» , esta es una frase o una expresión que no plantea ningún misterio para muchos madrileños, pero que puede resultar un poco desconcertante en otras partes de España . Quien la pronuncia no está hablando de un resfriado ni necesita un pañuelo: está reconociendo que bebió demasiado y acabó borrac.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea](https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com) — 2026-08-09T06:01:52.000Z
-- [Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-08-09/muere-hombre-explosion-semisotano-moratalaz-madrid-1tna_4403301/?utm_source=lootura.com) — 2026-08-09T05:54:00.000Z
-- [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z
+- [La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad](https://www.abc.es/gente/tragica-situacion-vive-aramis-fuster-agua-corriente-20260809104516-nt.html?utm_source=lootura.com) — 2026-08-09T12:04:04.000Z
 - [La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío](https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html?utm_source=lootura.com) — 2026-08-08T22:20:16.000Z
 - [Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones](https://okdiario.com/cultura/exposiciones-agosto-madrid-abiertas-vacaciones-19149638?utm_source=lootura.com) — 2026-08-09T08:29:39.000Z

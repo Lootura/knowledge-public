@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,11 @@
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+      "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.",
       "date": "2026-08-09"
     },
     {
@@ -58,44 +63,21 @@
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
-      "summary": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Europeans face energy crisis as heat wave brings wildfires and drought",
-      "url": "https://www.cbsnews.com/video/europeans-face-energy-crisis-as-heat-wave-brings-wildfires-and-drought/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T15:59:14.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68",
-      "url": "https://www.cbsnews.com/news/jorge-messi-father-of-argentina-great-lionel-messi-dies-at-68/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:06:21.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
-      "url": "https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T15:39:11.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T08:41:27.802Z",
+      "publishedAt": "2026-08-09T12:43:50.906Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Opinion: Europe's summer of heat",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:23:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

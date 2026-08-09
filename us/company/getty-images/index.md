@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z
+No public source links.

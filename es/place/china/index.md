@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra
+
+El adiestramiento de humanoides busca mitigar la pérdida de 700 millones de trabajadores en la nación Leer.
+
+Date: 2026-08-09
 
 ### Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”
 
@@ -62,12 +68,6 @@ Las telecos europeas, entre las que figuran empresas como Telefónica, Orange, V
 
 Date: 2026-08-02
 
-### Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa
-
-La nueva máquina de helados de Xiaomi llega para solucionar los dos problemas más repetidos de su competencia. La marca china se ha sacado de la manga un sistema bastante ingenioso para que puedas comerte un helado casero con los ingredientes que quieras sin tener que pasar por dos aros que todas las máquinas del merca.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra](https://www.elmundo.es/economia/empresas/2026/08/08/6a747c21e85ece5a5b8b457a.html?utm_source=lootura.com) — 2026-08-09T03:23:51.000Z

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones",
+      "summary": "Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad",
+      "summary": "Aramís Fuster está viviendo en una situación precaria , tal y como han podido presenciar en 'Fiesta'. La pitonisa, que reside de alquiler en Madrid, no tiene agua corriente ni luz desde hace seis meses, y su vivienda carece de los servicios básicos. La televisiva, que tiene 75 años pese a haber asegurado que supera los.",
+      "date": "2026-08-09"
+    },
     {
       "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
       "summary": "En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.",
@@ -22,18 +32,13 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones",
-      "summary": "Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.",
-      "date": "2026-08-09"
+      "title": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
+      "summary": "Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.",
+      "date": "2026-08-08"
     },
     {
       "title": "El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva",
       "summary": "El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
-      "summary": "Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.",
       "date": "2026-08-08"
     },
     {
@@ -55,31 +60,14 @@
       "title": "Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande",
       "summary": "El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la renovación de Vinicius Júnior hasta el 30 de junio de 2032, un monovolumen negro abandonaba la concentración del RB Leipzig en Saalfelden (Austria) camino del aeropuerto. Dentro viajaba Yan Diomande , diecinueve años, rumbo a Madrid para cerra.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende",
-      "summary": "«Anoche me pillé un moco» , esta es una frase o una expresión que no plantea ningún misterio para muchos madrileños, pero que puede resultar un poco desconcertante en otras partes de España . Quien la pronuncia no está hablando de un resfriado ni necesita un pañuelo: está reconociendo que bebió demasiado y acabó borrac.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
-      "url": "https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T06:01:52.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-09/muere-hombre-explosion-semisotano-moratalaz-madrid-1tna_4403301/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T05:54:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva",
-      "url": "https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T19:24:47.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad",
+      "url": "https://www.abc.es/gente/tragica-situacion-vive-aramis-fuster-agua-corriente-20260809104516-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:04:04.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
@@ -94,5 +82,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

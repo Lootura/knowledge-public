@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: "Es un juguete roto"](https://www.elplural.com/extratele/luis-arroyo-recuerda-como-acabo-casado-sentencia-ayuso-atico-es-juguete-roto_397624102?utm_source=lootura.com) — 2026-08-09T08:31:20.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)
+
+Una joven de 17 años ha resultado herida tras ser apuñalada por otra este pasado sábado, 8 de agosto, en la localidad jiennense de Torredonjimeno, según han confirmado fuentes del Servicio de Emergencias 112 Andalucía a Europa Press. Los hechos tuvieron lugar en la tarde del pasado sábado, sobre las 20:30 horas , cuand.
+
+Date: 2026-08-09
+
+### La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos
+
+La colisión de dos vehículos este domingo en la N-301 a su paso por el municipio conquense de Las Pedroñeras deja una mujer fallecida y tres jóvenes heridos. Según informa a Europa Press el Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha, el accidente ha tenido lugar a las 6.02.
+
+Date: 2026-08-09
 
 ### Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta
 
@@ -58,4 +70,5 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)](https://www.elconfidencial.com/espana/andalucia/2026-08-09/herida-menor-apunalada-joven-torredonjimeno-jaen-1tna_4403412/?utm_source=lootura.com) — 2026-08-09T11:03:00.000Z
+- [La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos](https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com) — 2026-08-09T09:14:25.000Z

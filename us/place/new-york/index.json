@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,16 @@
     {
       "title": "Woman learns man who attacked her killed a young mother years later",
       "summary": "When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Woman, baby die after vessel overturns in New York Harbor",
+      "summary": "Police say the woman and infant were taken to hospital in critical condition and declared dead on arrival.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
+      "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
       "date": "2026-08-09"
     },
     {
@@ -72,16 +82,6 @@
       "title": "New York woman learns ex-boyfriend who attacked her killed a young mother years later",
       "summary": "When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "After Midtown Building Buckles, Violations Are Found at Many Other Sites",
-      "summary": "New York City officials conducted inspections at 180 construction sites. None of the violations posed an immediate danger to the public, they said.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-      "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -90,7 +90,19 @@
       "url": "https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T06:27:08.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Woman, baby die after vessel overturns in New York Harbor",
+      "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:50:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
+      "url": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T09:00:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

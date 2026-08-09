@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Wildfires in western Canada forces more than 20,000 people to evacuate
 
 British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
+
+Date: 2026-08-09
+
+### As the Climate Warms, Beavers are Coming for Canada’s Arctic
+
+Drawn by a warming climate, Canada’s furry national symbol is colonizing new territory, evading Inuit hunters and reshaping the world they find.
 
 Date: 2026-08-09
 
@@ -62,13 +68,7 @@ Labor talks resumed on Sunday between the airline and union representing 4,400 f
 
 Date: 2026-08-02
 
-### Flights canceled as WestJet flight attendants strike over pay dispute
-
-WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.
-
-Date: 2026-08-02
-
 ## Sources
 
 - [Wildfires in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-09T03:46:37.000Z
-- [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com) — 2026-08-08T20:30:51.000Z
+- [As the Climate Warms, Beavers are Coming for Canada’s Arctic](https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html?utm_source=lootura.com) — 2026-08-09T09:00:42.000Z

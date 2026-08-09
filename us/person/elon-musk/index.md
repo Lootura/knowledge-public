@@ -40,4 +40,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards?utm_source=lootura.com) — 2026-08-08T21:15:12.000Z
+No public source links.

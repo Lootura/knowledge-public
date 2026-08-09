@@ -70,6 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Bruselas trata de mediar entre España e Italia y rebajar la tensión: "Ambos confirman que los controles en las fronteras son temporales"](https://www.20minutos.es/internacional/bruselas-trata-mediar-entre-espana-italia-rebajar-tension-ambos-confirman-que-los-controles-las-fronteras-son-temporales_7023915_0.html?utm_source=lootura.com) — 2026-08-09T05:51:05.000Z
-- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z
-- ['Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño](https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/?utm_source=lootura.com) — 2026-08-09T03:00:00.000Z
+No public source links.

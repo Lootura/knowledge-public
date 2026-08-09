@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Woman learns man who attacked her killed a young mother years later
 
 When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.
+
+Date: 2026-08-09
+
+### Woman, baby die after vessel overturns in New York Harbor
+
+Police say the woman and infant were taken to hospital in critical condition and declared dead on arrival.
+
+Date: 2026-08-09
+
+### A Democratic Socialist Spreads the Word, Even in Hostile Territory
+
+Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.
 
 Date: 2026-08-09
 
@@ -56,18 +68,8 @@ When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a te
 
 Date: 2026-08-05
 
-### After Midtown Building Buckles, Violations Are Found at Many Other Sites
-
-New York City officials conducted inspections at 180 construction sites. None of the violations posed an immediate danger to the public, they said.
-
-Date: 2026-08-04
-
-### Why Texas is betting 'Y'all Street' can take on Wall Street
-
-Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown? (Image credit: Yfat Yossifor).
-
-Date: 2026-08-04
-
 ## Sources
 
 - [Woman learns man who attacked her killed a young mother years later](https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com) — 2026-08-09T06:27:08.000Z
+- [Woman, baby die after vessel overturns in New York Harbor](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-09T11:50:02.000Z
+- [A Democratic Socialist Spreads the Word, Even in Hostile Territory](https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html?utm_source=lootura.com) — 2026-08-09T09:00:49.000Z

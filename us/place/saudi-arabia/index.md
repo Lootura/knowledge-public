@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
+
+Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).
+
+Date: 2026-08-09
 
 ### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
 
@@ -62,12 +68,6 @@ President Trump has repeatedly threatened to escalate the war with Iran, only to
 
 Date: 2026-08-02
 
-### Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia
-
-The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com) — 2026-08-09T09:44:02.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/person/georgina-rodriguez
 
 ## Cambios recientes
+
+### La 'boda' de Cristiano Ronaldo reúne a cientos de personas en Funchal: así reacciona el futbolista
+
+Todo el mundo esperaba la boda del siglo este fin de semana en Madeira. El periódico 'The Sun' había anunciado que el enlace de Cristiano Ronaldo y Georgina Rodríguez sería a las 15 horas en la catedral de Funchal, capital de Madeira, y a pesar de que había habido algunos desmentidos, todos aquellos turistas y curiosos.
+
+Date: 2026-08-09
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [La 'boda' de Cristiano Ronaldo reúne a cientos de personas en Funchal: así reacciona el futbolista](https://www.abc.es/gente/boda-cristiano-ronaldo-reune-cientos-personas-funchal-20260809140040-nt.html?utm_source=lootura.com) — 2026-08-09T12:05:28.000Z

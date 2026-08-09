@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-08-08
 ## Sources
 
 - [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
-- [Child among 4 people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T11:27:42.000Z
 - [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T04:01:15.000Z

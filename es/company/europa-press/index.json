@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,16 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)",
+      "summary": "Una joven de 17 años ha resultado herida tras ser apuñalada por otra este pasado sábado, 8 de agosto, en la localidad jiennense de Torredonjimeno, según han confirmado fuentes del Servicio de Emergencias 112 Andalucía a Europa Press. Los hechos tuvieron lugar en la tarde del pasado sábado, sobre las 20:30 horas , cuand.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos",
+      "summary": "La colisión de dos vehículos este domingo en la N-301 a su paso por el municipio conquense de Las Pedroñeras deja una mujer fallecida y tres jóvenes heridos. Según informa a Europa Press el Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha, el accidente ha tenido lugar a las 6.02.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta",
       "summary": "Un juzgado de Ceuta investiga seis presuntos casos de agresión sexual a inmigrantes tras su acceso a la ciudad autónoma el pasado 30 de julio. La información ha sido confirmada por la Delegación del Gobierno, que no ha ofrecido por el momento más detalles. Fuentes judiciales y sanitarias consultadas por Europa Press ha.",
@@ -59,6 +69,19 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-09/herida-menor-apunalada-joven-torredonjimeno-jaen-1tna_4403412/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:03:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T09:14:25.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

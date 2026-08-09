@@ -3,10 +3,16 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
+
+Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
+
+Date: 2026-08-09
 
 ### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
 
@@ -22,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Sánchez y Meloni dinamitan con la migración cuatro años de equilibrio institucional por la frontera sur de Europa](https://amp.elmundo.es/espana/2026/08/08/6a772d1dfdddff19488b45c1.html?utm_source=lootura.com) — 2026-08-08T20:44:02.000Z
+- [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z

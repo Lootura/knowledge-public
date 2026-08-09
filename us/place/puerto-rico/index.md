@@ -40,4 +40,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Puerto Rico's mismanaged, broken infrastructure worsens drought impact](https://www.cbsnews.com/video/puerto-ricos-mismanaged-broken-infrastructure-worsens-drought-impact/?utm_source=lootura.com) — 2026-08-08T15:33:08.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
+
+Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).
+
+Date: 2026-08-09
 
 ### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
 
@@ -62,12 +68,6 @@ Here are the most important developments in the Middle East on Saturday.
 
 Date: 2026-08-01
 
-### State Department urges Americans to consider leaving Middle East as regional conflict escalates
-
-The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com) — 2026-08-09T09:44:02.000Z

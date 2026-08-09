@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos
+
+La colisión de dos vehículos este domingo en la N-301 a su paso por el municipio conquense de Las Pedroñeras deja una mujer fallecida y tres jóvenes heridos. Según informa a Europa Press el Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha, el accidente ha tenido lugar a las 6.02.
+
+Date: 2026-08-09
 
 ### Un incendio en Moratalla obliga a movilizar efectivos de Murcia, Castilla-La Mancha y el Miteco
 
@@ -62,12 +68,6 @@ La decisión se adopta a petición del Mando Unificado de Extinción (MUE), que 
 
 Date: 2026-07-25
 
-### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
-
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos](https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com) — 2026-08-09T09:14:25.000Z

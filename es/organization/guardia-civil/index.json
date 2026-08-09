@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países",
+      "summary": "Alrededor de 400 agentes de la Guardia Civil se encuentran desplegados en cerca de 50 países por todo el mundo, en los que realizan misiones de seguridad y acompañamiento a cuerpos policiales extranjeros, dan protección a embajadas o se integran en organismos internacionales. Esta es una de las funciones más desconocid.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...",
       "summary": "El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceuta el próximo 15 de agosto después de que tanto la Guardia Civil como el CNI diesen plena credibilidad a las convocatorias que para tal fin se están organizando en las redes sociales. Así, desde qu e el pasado 30 de julio 72.000 migrantes il.",
@@ -55,13 +60,15 @@
       "title": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
       "summary": "La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información en los días previos a la entrada irregular y masiva de inmigrantes en Ceuta que alertase de que lo sucedido podía ocurrir. La jueza María Tardón ha dado el paso a raíz de una denuncia del partido Iustitia Europa, q.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)",
-      "summary": "Una agente de la Guardia Civil destinada en Llanes ha muerto este miércoles tras ser disparada por su expareja , un compañero del Cuerpo con el que estaba casada pero en proceso de divorcio . La víctima estaba incluida en el sistema VioGen , después de que su agresor , del que estaba separada —aunque sin sentencia de d.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países",
+      "url": "https://www.larazon.es/espana/asi-distribuyen-cerca-400-guardias-civiles-desplegados-todo-mundo-largo-50-paises_202608096a786a1fa5690f0473703815.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:53:44.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

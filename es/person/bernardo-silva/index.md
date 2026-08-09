@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z
+No public source links.

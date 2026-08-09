@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»
+
+El presidente del Senado, Pedro Rollán , ha dirigido una carta al secretario de Estado de Relaciones con las Cortes, Rafael Simancas , en la que expresa la disconformidad ante la negativa del Gobierno a comparecer en la Cámara Alta para dar explicaciones por la invasión migratoria de Ceuta . El partido de Alberto Núñez.
+
+Date: 2026-08-09
 
 ### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
 
@@ -62,12 +68,6 @@ El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año ant
 
 Date: 2026-08-02
 
-### El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”
-
-Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»](https://okdiario.com/espana/senado-exige-carta-gobierno-que-rinda-cuentas-sobre-invasion-ceuta-negarse-falta-tiempo-19150325?utm_source=lootura.com) — 2026-08-09T11:48:00.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países
+
+Alrededor de 400 agentes de la Guardia Civil se encuentran desplegados en cerca de 50 países por todo el mundo, en los que realizan misiones de seguridad y acompañamiento a cuerpos policiales extranjeros, dan protección a embajadas o se integran en organismos internacionales. Esta es una de las funciones más desconocid.
+
+Date: 2026-08-09
 
 ### El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...
 
@@ -62,12 +68,6 @@ La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo al
 
 Date: 2026-08-05
 
-### Un guardia civil asesina a tiros a su expareja, también agente, en el cuartel de Llanes (Asturias)
-
-Una agente de la Guardia Civil destinada en Llanes ha muerto este miércoles tras ser disparada por su expareja , un compañero del Cuerpo con el que estaba casada pero en proceso de divorcio . La víctima estaba incluida en el sistema VioGen , después de que su agresor , del que estaba separada —aunque sin sentencia de d.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países](https://www.larazon.es/espana/asi-distribuyen-cerca-400-guardias-civiles-desplegados-todo-mundo-largo-50-paises_202608096a786a1fa5690f0473703815.html?utm_source=lootura.com) — 2026-08-09T11:53:44.000Z

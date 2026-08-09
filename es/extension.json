@@ -1,55 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T08:54:36.444Z",
+  "generatedAt": "2026-08-09T12:55:56.441Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|101|1786264861629",
+    "signature": "1.18.0|102|1786279392607",
     "version": "1.18.0",
-    "build": 101,
-    "latestEntityUpdatedAt": "2026-08-09T08:41:01.629Z"
+    "build": 102,
+    "latestEntityUpdatedAt": "2026-08-09T12:43:12.607Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
-      "type": "place",
-      "title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-08-09T08:41:01.629Z",
-      "score": 1642,
-      "sourceCount": 953,
+      "id": "es-pedro-sanchez",
+      "name": "Pedro Sánchez",
+      "type": "person",
+      "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
+      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+      "path": "/es/person/pedro-sanchez",
+      "updatedAt": "2026-08-09T12:43:12.607Z",
+      "score": 1649,
+      "sourceCount": 346,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-09T08:41:01.629Z",
-        "score": 1635,
-        "sourceCount": 344,
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-08-09T12:43:12.607Z",
+        "score": 1636,
+        "sourceCount": 954,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-08-09T08:41:01.629Z",
-        "score": 1624,
-        "sourceCount": 651,
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-08-09T12:43:12.607Z",
+        "score": 1628,
+        "sourceCount": 193,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián",
         "url": "https://atlas.lootura.com/es/place/san-sebastian",
         "path": "/es/place/san-sebastian",
-        "updatedAt": "2026-08-09T08:41:01.629Z",
-        "score": 1622,
+        "updatedAt": "2026-08-09T12:43:12.607Z",
+        "score": 1607,
         "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-barcelona",
-        "name": "Barcelona",
+        "id": "es-madrid",
+        "name": "Madrid",
         "type": "place",
         "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
-        "url": "https://atlas.lootura.com/es/place/barcelona",
-        "path": "/es/place/barcelona",
-        "updatedAt": "2026-08-09T08:41:01.629Z",
-        "score": 1614,
-        "sourceCount": 126,
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-09T12:43:12.607Z",
+        "score": 1604,
+        "sourceCount": 652,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 182
+    "publicEntityCount": 184
   }
 }

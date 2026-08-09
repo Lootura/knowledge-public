@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer",
+      "summary": "La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
       "summary": "Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.",
@@ -55,13 +60,15 @@
       "title": "Pillados mientras mantenían relaciones al volante en la A-7",
       "summary": "Agentes del Subsector de Tráfico de la Guardia Civil de Málaga han localizado el vehículo e identificado al conductor y la usuaria del mismo, después de que un vídeo se hiciera viral en las redes sociales el pasado 20 de junio en el que se visualizaba como mantenían relaciones sexuales mientras circulaban por la autoví.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Intervienen más de 21 toneladas de cocaína tras desarticular una organización que operaba en España y Ecuador",
-      "summary": "La Guardia Civil ha desmantelado una red criminal internacional especializada en introducir grandes remesas de cocaína por distintos puertos españoles , con especial incidencia en Málaga , Algeciras y Valencia. La investigación, desarrollada junto a la Policía Nacional de Ecuador , se ha saldado con la intervención de.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-09/audiencia-malaga-suspende-ejecucion-pena-carcel-hombre-reconocio-violo-mujer_4403428/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:22:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

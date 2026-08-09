@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
 
 Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
+
+Date: 2026-08-09
+
+### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
+
+Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
 
 Date: 2026-08-09
 
@@ -62,13 +68,7 @@ El Barcelona ya tiene partido amistoso para sustituir al que canceló en Marruec
 
 Date: 2026-08-08
 
-### Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia
-
-Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Familia entre 1993 y 2018 y uno de los principales impulsores de la causa de beatificación del arquitecto Antoni Gaudí , falleció ayer viernes a los 95 años. Nacido en Barcelona en 1931, Bonet fue una figura clave para el templo expiatorio, al que.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea](https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com) — 2026-08-09T06:01:52.000Z
 - [Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”](https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html?utm_source=lootura.com) — 2026-08-09T03:45:01.000Z
+- [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z

@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -14,15 +14,15 @@ Democratic senators are still backing Maine Senate nominee Troy Jackson, who rep
 
 Date: 2026-08-09
 
-### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
-
-Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
-
-Date: 2026-08-08
-
 ### How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins
 
 Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as "The County" to Mainers.
+
+Date: 2026-08-08
+
+### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
+
+Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
 
 Date: 2026-08-08
 
@@ -70,6 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin](https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com) — 2026-08-09T08:00:15.000Z
 - [How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins](https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins?utm_source=lootura.com) — 2026-08-08T19:05:04.000Z
-- [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

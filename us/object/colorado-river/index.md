@@ -34,4 +34,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Lake Mead hits historic low water level as Colorado River struggles](https://www.pbs.org/newshour/nation/lake-mead-hits-historic-low-water-level-as-colorado-river-struggles?utm_source=lootura.com) — 2026-08-08T16:07:11.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z
+No public source links.

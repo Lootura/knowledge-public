@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,16 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
+      "summary": "\"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos\" Leer.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
+      "summary": "Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
       "summary": "No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.",
@@ -63,25 +73,21 @@
       "title": "Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci",
       "summary": "El Senado abre la vía para acusar al exresponsable sanitario que dirigió la respuesta federal contra la pandemia.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
-      "summary": "La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Podcast | Las ‘midterm’ de EEUU",
-      "summary": "¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
-      "url": "https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T05:59:31.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
+      "url": "https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:23:27.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
+      "url": "https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:47:37.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
+
+"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
+
+Date: 2026-08-09
 
 ### Los socialistas estadounidenses querrían ser españoles
 
@@ -62,13 +68,6 @@ Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga co
 
 Date: 2026-08-07
 
-### El telescopio Inouye capta por primera vez remolinos en la superficie del Sol con las imágenes solares de mayor resolución de la historia
-
-Tenemos que hablar del telescopio solar Daniel K. Inouye de la Fundación Nacional de Ciencias de Estados Unidos. Dicho telescopio ha conseguido capturar las imágenes de mayor resolución jamás obtenidas de la fotosfera solar , revelando un fenómeno físico increíble que hasta ahora solo existía en la teoría. Un equipo in.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z
-- [Los socialistas estadounidenses querrían ser españoles](https://theobjective.com/elsubjetivo/opinion/2026-08-09/socialistas-estadounidenses-espanoles-articulo-benito-arrunada/?utm_source=lootura.com) — 2026-08-09T03:25:00.000Z
+- [Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz](https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com) — 2026-08-09T09:56:09.000Z

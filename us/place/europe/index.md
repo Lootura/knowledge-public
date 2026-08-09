@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Heatwaves have killed millions. Here’s how scientists tally lives lost
 
 Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-09
+
+### Europe Braces for Another Heat Wave. Here’s What to Know.
+
+High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.
 
 Date: 2026-08-09
 
@@ -62,16 +68,7 @@ Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two ver
 
 Date: 2026-08-07
 
-### A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat
-
-The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Europeans face energy crisis as heat wave brings wildfires and drought](https://www.cbsnews.com/video/europeans-face-energy-crisis-as-heat-wave-brings-wildfires-and-drought/?utm_source=lootura.com) — 2026-08-08T15:59:14.000Z
-- [Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68](https://www.cbsnews.com/news/jorge-messi-father-of-argentina-great-lionel-messi-dies-at-68/?utm_source=lootura.com) — 2026-08-08T16:06:21.000Z
-- [These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires](https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com) — 2026-08-08T15:39:11.000Z
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-09T08:41:27.802Z
-- [Opinion: Europe's summer of heat](https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat?utm_source=lootura.com) — 2026-08-08T12:00:00.000Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-09T12:43:50.906Z
+- [Europe Braces for Another Heat Wave. Here’s What to Know.](https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com) — 2026-08-09T12:23:03.000Z

@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T12:43:46.985Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -13,6 +13,12 @@
 Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
 
 Date: 2026-08-09
+
+### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
+
+The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
+
+Date: 2026-08-08
 
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
@@ -59,12 +65,6 @@ Date: 2026-08-07
 ### Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition
 
 Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.
-
-Date: 2026-08-07
-
-### Blanche on track for narrow Senate confirmation as attorney general
-
-At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, largely due to a Republican divide. Congressional correspondent.
 
 Date: 2026-08-07
 

@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T12:43:12.607Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste
+
+La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con signos de violencia en el interior de un domicilio de Tauste. Según asegura Heraldo de Aragón , la identidad de las víctimas correspondería a Javier Sánchez, exsecretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA), y a su.
+
+Date: 2026-08-09
+
+### Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)
+
+El exsecretario de la Unión de Agricultores y Ganaderos de Aragón ( UAGA Aragón ), Javier Sánchez , y su mujer , Esther Latorre , han sido hallados muertos, con signos de violencia , en el interior de su domicilio de Tauste (Zaragoza). La Guardia Civil de Zaragoza ha informado del hallazgo de los dos cadáveres y desde.
+
+Date: 2026-08-09
+
+### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
+
+Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
+
+Date: 2026-08-09
 
 ### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
 
@@ -50,26 +68,8 @@ La formación de Santiago Abascal cuenta con 32 diputados y para activar el meca
 
 Date: 2026-08-08
 
-### Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado
-
-Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.
-
-Date: 2026-08-08
-
-### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
-
-La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
-
-Date: 2026-08-08
-
-### Vox apoya los movimientos por la «españolidad» de Ceuta y hace culpables a Sánchez y Vivas
-
-Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíficas y legales que se realicen en Ceuta «en defensa de la españolidad» de la ciudad autónoma, la «seguridad» de sus vecinos y la «protección efectiva» de las fronteras, y señala como responsables de la crisis al presidente del Gobierno, Pedro.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [El Gobierno de Italia carga contra España tras suspender Schengen: "Inaceptable, es Sánchez quien ha dramatizado"](https://www.20minutos.es/internacional/gobierno-italia-carga-contra-espana-tras-suspender-schengen-inaceptable-es-sanchez-quien-ha-dramatizado_7023938_0.html?utm_source=lootura.com) — 2026-08-09T08:16:16.000Z
-- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z
-- [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T20:43:21.000Z
+- [Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste](https://www.20minutos.es/aragon/zaragoza/hallan-muertos-cuchilladas-exsecretario-general-uaga-javier-sanchez-su-mujer-su-domicilio-tauste_7023946_0.html?utm_source=lootura.com) — 2026-08-09T09:10:01.000Z
+- [Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)](https://www.elconfidencial.com/espana/aragon/2026-08-09/cadaveres-domicilio-tauste-signos-violencia-1tna_4403352/?utm_source=lootura.com) — 2026-08-09T08:52:00.000Z
+- [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z

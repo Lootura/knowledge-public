@@ -28,4 +28,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Iran says deal on Strait of Hormuz is close but will not open the waterway by itself](https://www.nbcnews.com/world/iran/iran-says-deal-strait-hormuz-close-will-not-open-waterway-rcna591476?utm_source=lootura.com) — 2026-08-08T13:17:41.000Z
+No public source links.

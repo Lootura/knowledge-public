@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin](https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com) — 2026-08-09T08:00:15.000Z
+No public source links.

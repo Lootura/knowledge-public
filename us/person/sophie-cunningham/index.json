@@ -1,0 +1,47 @@
+{
+  "id": "usa-sophie-cunningham",
+  "name": "Sophie Cunningham",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/sophie-cunningham",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/sophie-cunningham",
+  "markdownUrl": "https://atlas.lootura.com/us/person/sophie-cunningham/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/sophie-cunningham/index.json",
+  "description": "Follow Sophie Cunningham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-09T12:43:46.985Z",
+  "aliases": [
+    "Sophie Elizabeth Cunningham"
+  ],
+  "changes": [
+    {
+      "title": "Florida attorney general offers his response to brutal foul on Sophie Cunningham",
+      "summary": "One of the wildest moments of the WNBA season — which is saying a lot these days — came on Saturday between the Indiana Fever and the Chicago Sky. DiJonai Carrington of the Sky was handed a Flagrant 2 foul for appearing to clothesline the Fever's Sophie Cunningham. The incident has gotten people talking, with even the.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America",
+      "summary": "Saturday in Chicago, once again, showcased the harsh reality that the opposition to Indiana Fever guard Sophie Cunningham is rooted in hate, intolerance, and delusion. While dozens of calm and cordial Cunningham supporters rallied outside of the United Center, they were met by a group of mask-wearing, sign-holding, pro.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sophie Cunningham first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Florida attorney general offers his response to brutal foul on Sophie Cunningham",
+      "url": "https://www.foxnews.com/outkick-sports/florida-attorney-general-response-brutal-foul-sophie-cunningham?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:40:45.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America",
+      "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-supporters-rally-chicago-protesters-showcase-whats-wrong-america?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:21:03.000Z",
+      "sourceId": "lootura-us-fox-news"
+    }
+  ],
+  "evidenceCount": 2
+}

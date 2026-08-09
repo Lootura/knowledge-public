@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»",
+      "summary": "El presidente del Senado, Pedro Rollán , ha dirigido una carta al secretario de Estado de Relaciones con las Cortes, Rafael Simancas , en la que expresa la disconformidad ante la negativa del Gobierno a comparecer en la Cámara Alta para dar explicaciones por la invasión migratoria de Ceuta . El partido de Alberto Núñez.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta",
       "summary": "El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...",
@@ -66,13 +71,15 @@
       "title": "El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025",
       "summary": "El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»",
+      "url": "https://okdiario.com/espana/senado-exige-carta-gobierno-que-rinda-cuentas-sobre-invasion-ceuta-negarse-falta-tiempo-19150325?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:48:00.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

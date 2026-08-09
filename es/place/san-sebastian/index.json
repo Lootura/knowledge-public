@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -26,11 +26,6 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
-      "summary": "Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.",
-      "date": "2026-08-08"
-    },
-    {
       "title": "Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián",
       "summary": "El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.",
       "date": "2026-08-08"
@@ -43,6 +38,11 @@
     {
       "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
       "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
+      "summary": "Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.",
       "date": "2026-08-08"
     },
     {
@@ -85,23 +85,11 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
-      "url": "https://www.diariovasco.com/san-sebastian/lluvia-granizo-fuertes-vientos-tarde-inicio-semana-20260808140518-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T12:05:18.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "Arranque festivo con alma de balón y compás",
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T16:27:24.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Noticias de otra plaga",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-09/noticias-otra-plaga-articulo-fernando-savater/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }
