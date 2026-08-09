@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T12:55:56.441Z",
+  "generatedAt": "2026-08-09T14:15:22.723Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|102|1786279392607",
+    "signature": "1.18.0|103|1786279392607",
     "version": "1.18.0",
-    "build": 102,
+    "build": 103,
     "latestEntityUpdatedAt": "2026-08-09T12:43:12.607Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-08-09T12:43:12.607Z",
-      "score": 1649,
+      "score": 1641,
       "sourceCount": 346,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1636,
+        "score": 1628,
         "sourceCount": 954,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1628,
+        "score": 1620,
         "sourceCount": 193,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/san-sebastian",
         "path": "/es/place/san-sebastian",
         "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1607,
+        "score": 1599,
         "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1604,
+        "score": 1597,
         "sourceCount": 652,
         "isBreaking": false,
         "isPinned": false

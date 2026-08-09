@@ -22,7 +22,7 @@ Date: 2026-08-09
 
 ### Discovered by Atlas
 
-Transición Ecológica first entered the public knowledge record with source-backed evidence.
+Ministerio para la Transición Ecológica y el Reto Demográfico first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-09
 

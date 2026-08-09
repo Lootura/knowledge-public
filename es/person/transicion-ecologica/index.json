@@ -10,12 +10,15 @@
   "description": "Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-09T12:43:12.607Z",
   "aliases": [
-    "Transición Ecológica",
-    "Ministerio de Transición Ecológica y Reto Demográfico",
+    "Demográfico",
+    "Ecológica",
     "Ministerio de Medio Ambiente",
-    "Ministry of Environment (Spain)",
+    "Ministerio de Transición Ecológica y Reto Demográfico",
+    "Ministry for the Ecological Transition and the Demographic Challenge",
     "Ministry of Ecological Transition and Demographic Challenge",
-    "Ministry for the Ecological Transition and the Demographic Challenge"
+    "Ministry of Environment (Spain)",
+    "Transición",
+    "Transición Ecológica"
   ],
   "changes": [
     {
@@ -30,7 +33,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Transición Ecológica first entered the public knowledge record with source-backed evidence.",
+      "summary": "Ministerio para la Transición Ecológica y el Reto Demográfico first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-09"
     }
   ],
