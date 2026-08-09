@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T05:02:28.888Z",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
   "aliases": [
     "Democrats"
   ],
@@ -66,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Democrats Vow to Unite Behind Abdul El-Sayed in Michigan, but Tensions Remain",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T13:22:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "‘Voters are fed up’: Michigan primary forces Democratic party to accept leftwing shift",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T05:00:05.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",

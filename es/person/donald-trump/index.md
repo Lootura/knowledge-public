@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
+
+No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.
+
+Date: 2026-08-09
 
 ### Estados Unidos, un aliado más estratégico que nunca para Marruecos
 
@@ -62,14 +68,6 @@ Date: 2026-08-06
 
 Date: 2026-08-06
 
-### El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington
-
-El incidente se produce en un área que ha sido objeto de especial atención tras otros episodios de seguridad aérea Leer.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Exclusiva | Los diarios policiales del Mundial de fútbol: Los ataques a Donald Trump y otras amenazas ultras](https://www.diariodemallorca.es/sucesos/2026/08/09/mundial-futbol-amenaza-trump-ultras-133207329.html?utm_source=lootura.com) — 2026-08-09T05:00:28.000Z
-- [La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre](https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com) — 2026-08-08T20:22:40.000Z
-- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z
+- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z

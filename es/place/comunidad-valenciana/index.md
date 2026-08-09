@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Los caballos también disfrutan
+
+N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradiciones de Valencia y la Comunitat Valenciana. Y menos en un mes en el que triunfan las fiestas de diferentes pueblos y localidades. Desde la Romería del Santísimo Cristo de la Salud de El Palmar -que ya destacamos la semana pasada- hasta la fiest.
+
+Date: 2026-08-09
 
 ### Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»
 
@@ -62,12 +68,6 @@ Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha perc
 
 Date: 2026-08-02
 
-### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
-
-Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Los caballos también disfrutan](https://www.larazon.es/comunidad-valenciana/valencia/caballos-tambien-disfrutan_202608096a78399da046ad6ebca73031.html?utm_source=lootura.com) — 2026-08-09T08:26:05.000Z

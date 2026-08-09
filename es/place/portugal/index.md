@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [La crisis de Ceuta aviva las críticas contra el Mundial 2030 junto a Marruecos: “No podemos agachar la cabeza siempre”](https://www.eldiario.es/politica/crisis-ceuta-aviva-criticas-mundial-2030-marruecos-no-agachar-cabeza_1_13434826.html?utm_source=lootura.com) — 2026-08-08T20:22:39.000Z
+No public source links.

@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### ¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea
+
+En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.
+
+Date: 2026-08-09
+
+### Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)
+
+Un hombre de 61 años ha fallecido en la madrugada de este domingo en la explosión y posterior incendio registrados en un semisótano de un bloque de viviendas situado en la calle Hacienda de Pavones, en el distrito madrileño de Moratalaz , ha informado el 112 de esta comunidad autónoma. La explosión se ha registrado en.
+
+Date: 2026-08-09
+
+### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
+
+Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
+
+Date: 2026-08-09
 
 ### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
 
@@ -50,26 +68,10 @@ Date: 2026-08-08
 
 Date: 2026-08-08
 
-### El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura
-
-El arrollamiento mortal de una persona este sábado en un paso a nivel de Talavera de la Reina ha provocado el corte de la línea de tren de pasajeros que une Madrid con Extremadura. Según ha informado el Administrador de Infraestructuras Ferroviarias (Adif) a través de las redes sociales, el tren que ha impactado con la.
-
-Date: 2026-08-08
-
-### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
-
-La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
-
-Date: 2026-08-08
-
-### Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”
-
-Lourdes Reyzábal (Madrid, 53 años), psicóloga de formación, creó hace tres décadas la Fundación Raíces, que ha atendido a más de 5.000 niños sin protección familiar, la mayoría de los cuales arriesgaron sus vidas para llegar a España. En 2008, su marido, el abogado Nacho de la Mata, logró dos sentencias clave del Tribu.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea](https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com) — 2026-08-09T06:01:52.000Z
+- [Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-08-09/muere-hombre-explosion-semisotano-moratalaz-madrid-1tna_4403301/?utm_source=lootura.com) — 2026-08-09T05:54:00.000Z
 - [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z
 - [La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío](https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html?utm_source=lootura.com) — 2026-08-08T22:20:16.000Z
-- [El uso personal de Ayuso de las instituciones de la Comunidad de Madrid](https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com) — 2026-08-08T20:22:38.000Z
+- [Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones](https://okdiario.com/cultura/exposiciones-agosto-madrid-abiertas-vacaciones-19149638?utm_source=lootura.com) — 2026-08-09T08:29:39.000Z

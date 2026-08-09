@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T05:15:16.625Z",
+  "generatedAt": "2026-08-09T08:54:32.835Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|100|1786251748888",
+    "signature": "1.18.0|101|1786264883943",
     "version": "1.18.0",
-    "build": 100,
-    "latestEntityUpdatedAt": "2026-08-09T05:02:28.888Z"
+    "build": 101,
+    "latestEntityUpdatedAt": "2026-08-09T08:41:23.943Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Trump to appeal White House ballroom ruling to Supreme Court",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-09T05:02:28.888Z",
-      "score": 1733,
-      "sourceCount": 636,
+      "updatedAt": "2026-08-09T08:41:23.943Z",
+      "score": 1729,
+      "sourceCount": 637,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,22 +34,22 @@
         "title": "Trump to appeal White House ballroom ruling to Supreme Court",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-09T05:02:28.888Z",
-        "score": 1707,
+        "updatedAt": "2026-08-09T08:41:23.943Z",
+        "score": 1702,
         "sourceCount": 39,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-canada",
-        "name": "Canada",
+        "id": "usa-maine",
+        "name": "Maine",
         "type": "place",
-        "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-08-09T05:02:28.888Z",
-        "score": 1664,
-        "sourceCount": 60,
+        "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
+        "url": "https://atlas.lootura.com/us/place/maine",
+        "path": "/us/place/maine",
+        "updatedAt": "2026-08-09T08:41:23.943Z",
+        "score": 1672,
+        "sourceCount": 113,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "Talks between Iran, Oman continue over Strait of Hormuz",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-09T05:02:28.888Z",
-        "score": 1664,
+        "updatedAt": "2026-08-09T08:41:23.943Z",
+        "score": 1658,
         "sourceCount": 349,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Pregnant woman in hiding as White House ends deportation protections for Haitian migrants",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-09T05:02:28.888Z",
-        "score": 1652,
-        "sourceCount": 111,
+        "id": "usa-canada",
+        "name": "Canada",
+        "type": "place",
+        "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-08-09T08:41:23.943Z",
+        "score": 1647,
+        "sourceCount": 59,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 129
+    "publicEntityCount": 130
   }
 }

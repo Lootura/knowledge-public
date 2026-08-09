@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T08:41:01.629Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década",
+      "summary": "Hace poco más de diez años, la Comisión Europea pedía a España que buscara \"alternativas\" a las concertinas en las vallas de Ceuta y Melilla y advertía de que la vigilancia fronteriza debía ser \"proporcionada y respetar los derechos fundamentales\". Hoy, la UE debate sobre centros de retorno de migrantes en terceros paí.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Más de 8.000 inmigrantes, el regalo de Marruecos",
       "summary": "Como era de esperar, la «invasión» de Ceuta ha dejado varios regalos, por cierto, bastante costosos para España. Tras el ridículo de Marlaska, que se ha convertido en una caricatura de sí mismo, y de la Comisión Europea y los ministros de Interior, el desastre se ha saldado con entre 8.000 y 11.000 inmigrantes que se h.",
@@ -59,13 +64,15 @@
       "title": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
       "summary": "La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”",
-      "summary": "El sector tabaquero atraviesa un momento de agitación. A la espera de que la Comisión Europea ponga en marcha la revisión de la directiva comunitaria sobre los productos del tabaco, ahora en fase de consulta pública, los distintos países que componen el mercado común adaptan sus marcos normativos ante la aparición de l.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década",
+      "url": "https://www.europapress.es/internacional/noticia-concertinas-centros-retorno-europa-endurecido-politica-migratoria-ultima-decada-20260809103139.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T08:31:39.000Z",
+      "sourceId": "lootura-es-europa-press"
+    }
+  ],
+  "evidenceCount": 1
 }

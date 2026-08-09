@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»](https://www.eldebate.com/espana/20260809/santiago-abascal-sanchez-primer-responsable-traicion-ceuta-politica-tambien-penalmente_447153.html?utm_source=lootura.com) — 2026-08-09T02:15:00.000Z
+No public source links.

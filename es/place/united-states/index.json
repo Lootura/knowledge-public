@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T08:41:01.629Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,13 +43,13 @@
   ],
   "changes": [
     {
-      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "summary": "Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.",
+      "title": "Los socialistas estadounidenses querrían ser españoles",
+      "summary": "La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.",
       "date": "2026-08-09"
     },
     {
-      "title": "Los socialistas estadounidenses querrían ser españoles",
-      "summary": "La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.",
+      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "summary": "Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.",
       "date": "2026-08-09"
     },
     {
@@ -101,17 +101,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "url": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
       "title": "Los socialistas estadounidenses querrían ser españoles",
       "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-09/socialistas-estadounidenses-espanoles-articulo-benito-arrunada/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T03:25:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

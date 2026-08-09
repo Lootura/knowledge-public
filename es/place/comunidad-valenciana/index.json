@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-09T08:41:01.629Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Los caballos también disfrutan",
+      "summary": "N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradiciones de Valencia y la Comunitat Valenciana. Y menos en un mes en el que triunfan las fiestas de diferentes pueblos y localidades. Desde la Romería del Santísimo Cristo de la Salud de El Palmar -que ya destacamos la semana pasada- hasta la fiest.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»",
       "summary": "El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.",
@@ -64,13 +69,15 @@
       "title": "El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante",
       "summary": "Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha percibido el temblor en la práctica totalidad de la Vega Baja, aunque no se ha recibido ninguna llamada al 112 de la Comunitat Valenciana.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
-      "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los caballos también disfrutan",
+      "url": "https://www.larazon.es/comunidad-valenciana/valencia/caballos-tambien-disfrutan_202608096a78399da046ad6ebca73031.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T08:26:05.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

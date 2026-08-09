@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T05:02:28.888Z",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -20,6 +20,11 @@
     {
       "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
       "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Ukraine denies targeting Bulgaria after drone explodes near gas pipeline",
+      "summary": "Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.",
       "date": "2026-08-09"
     },
     {
@@ -61,14 +66,15 @@
       "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
       "summary": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
-      "summary": "Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places overlooked by the wider world, including countries scarred by war, such as Afghanista.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Ukraine denies targeting Bulgaria after drone explodes near gas pipeline",
+      "url": "https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T06:29:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Child among 4 people killed in Russian attacks on Ukraine",
       "url": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com",
@@ -76,15 +82,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T17:46:05.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
       "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T04:01:14.000Z",
+      "publishedAt": "2026-08-09T04:01:15.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

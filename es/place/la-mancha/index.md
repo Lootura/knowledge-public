@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Estabilizado el incendio forestal en Moratalla (Murcia) tras un amplio despliegue interautonómico](https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/?utm_source=lootura.com) — 2026-08-08T19:12:00.000Z
+No public source links.

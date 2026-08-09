@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El uso personal de Ayuso de las instituciones de la Comunidad de Madrid](https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com) — 2026-08-08T20:22:38.000Z
+No public source links.

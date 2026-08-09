@@ -3,7 +3,7 @@
 > Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/object/colorado-river
 
 ## Recent changes

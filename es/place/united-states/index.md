@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Estados Unidos, un aliado más estratégico que nunca para Marruecos
-
-Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
-
-Date: 2026-08-09
-
 ### Los socialistas estadounidenses querrían ser españoles
 
 La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.
+
+Date: 2026-08-09
+
+### Estados Unidos, un aliado más estratégico que nunca para Marruecos
+
+Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
 
 Date: 2026-08-09
 
@@ -71,5 +71,4 @@ Date: 2026-08-07
 ## Fuentes
 
 - [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z
-- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z
 - [Los socialistas estadounidenses querrían ser españoles](https://theobjective.com/elsubjetivo/opinion/2026-08-09/socialistas-estadounidenses-espanoles-articulo-benito-arrunada/?utm_source=lootura.com) — 2026-08-09T03:25:00.000Z

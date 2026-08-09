@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
+
+No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.
+
+Date: 2026-08-09
 
 ### Los ministros en el punto de mira por su gestión en la crisis migratoria
 
@@ -62,15 +68,8 @@ Vox Ceuta ha manifestado este sábado su apoyo a todas las movilizaciones pacíf
 
 Date: 2026-08-08
 
-### Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los "agujeros negros" en la crisis de Ceuta
-
-Exige un "giro estratégico" en las relaciones con Marruecos: la senda del "apaciguamiento" es un "fracaso".
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Los ministros en el punto de mira por su gestión en la crisis migratoria](https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com) — 2026-08-09T00:13:23.000Z
-- [Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»](https://www.eldebate.com/espana/20260809/santiago-abascal-sanchez-primer-responsable-traicion-ceuta-politica-tambien-penalmente_447153.html?utm_source=lootura.com) — 2026-08-09T02:15:00.000Z
+- [El Gobierno de Italia carga contra España tras suspender Schengen: "Inaceptable, es Sánchez quien ha dramatizado"](https://www.20minutos.es/internacional/gobierno-italia-carga-contra-espana-tras-suspender-schengen-inaceptable-es-sanchez-quien-ha-dramatizado_7023938_0.html?utm_source=lootura.com) — 2026-08-09T08:16:16.000Z
+- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z
 - [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T20:43:21.000Z
-- [Ramón Arcusa y Teresa Giménez Barbat: «Pedro Sánchez es un psicópata con una tenacidad terrorífica»](https://okdiario.com/espana/ramon-arcusa-teresa-gimenez-barbat-pedro-sanchez-psicopata-tenacidad-terrorifica-19148975?utm_source=lootura.com) — 2026-08-09T03:52:02.000Z

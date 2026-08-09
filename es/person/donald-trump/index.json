@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T08:41:01.629Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
+      "summary": "No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
       "summary": "Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.",
@@ -68,32 +73,15 @@
       "title": "Podcast | Las ‘midterm’ de EEUU",
       "summary": "¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
-      "summary": "El incidente se produce en un área que ha sido objeto de especial atención tras otros episodios de seguridad aérea Leer.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Exclusiva | Los diarios policiales del Mundial de fútbol: Los ataques a Donald Trump y otras amenazas ultras",
-      "url": "https://www.diariodemallorca.es/sucesos/2026/08/09/mundial-futbol-amenaza-trump-ultras-133207329.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T05:00:28.000Z",
-      "sourceId": "lootura-es-diario-de-mallorca"
-    },
-    {
-      "title": "La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre",
-      "url": "https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:22:40.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "url": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
+      "url": "https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T05:59:31.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

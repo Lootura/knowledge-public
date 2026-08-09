@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -17,12 +17,6 @@ Date: 2026-08-09
 ### Canada Wildfires: What to Know About Fires in British Columbia and Ontario
 
 Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.
-
-Date: 2026-08-08
-
-### Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate
-
-The Bald Range wildfire was first reported on Friday evening.
 
 Date: 2026-08-08
 
@@ -65,6 +59,12 @@ Date: 2026-08-03
 ### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
 
 Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
+
+Date: 2026-08-02
+
+### Flights canceled as WestJet flight attendants strike over pay dispute
+
+WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.
 
 Date: 2026-08-02
 

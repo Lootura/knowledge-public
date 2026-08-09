@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-02T20:52:40.370Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Dems stand by Maine nominee hit with report he fathered children with his second cousin
+
+Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.
+
+Date: 2026-08-09
 
 ### Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’
 
@@ -62,12 +68,6 @@ The crowded Maine Senate race to replace Graham Platner has narrowed as Democrat
 
 Date: 2026-07-20
 
-### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
-
-Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin](https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com) — 2026-08-09T08:00:15.000Z

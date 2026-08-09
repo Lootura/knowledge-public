@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre](https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com) — 2026-08-08T20:22:40.000Z
-- [Irán-EEUU: victoria interrumpida, derrotas probables](https://www.larazon.es/internacional/iraneeuu-victoria-interrumpida-derrotas-probables_202608096a77d63ba5690f04736f6896.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T01:22:02.000Z
+No public source links.

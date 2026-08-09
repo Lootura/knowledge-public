@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump to appeal White House ballroom ruling to Supreme Court
 
 After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
+
+Date: 2026-08-09
+
+### It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.
+
+The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.
 
 Date: 2026-08-09
 
@@ -62,12 +68,6 @@ The summer exit confirmed what had been apparent for weeks: that Republicans lac
 
 Date: 2026-08-08
 
-### Trump announces $180 million to boost mining education
-
-President Trump announced over $180 million in grants to boost educational programs for the mining industry, part of a bid to increase critical mineral production.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
@@ -75,6 +75,7 @@ Date: 2026-08-08
 - [Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination](https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination?utm_source=lootura.com) — 2026-08-08T11:43:50.000Z
 - [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z
 - [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html?utm_source=lootura.com) — 2026-08-08T09:38:07.000Z
+- [It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.](https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html?utm_source=lootura.com) — 2026-08-09T05:49:06.000Z
 - [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z
 - [Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program](https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html?utm_source=lootura.com) — 2026-08-08T09:02:16.000Z
 - [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html?utm_source=lootura.com) — 2026-08-08T20:12:51.000Z

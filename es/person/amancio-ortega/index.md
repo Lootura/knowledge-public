@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T10:35:48.254Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»
+
+Amancio Ortega siempre ha sido una persona muy familiar . El empresario decidió construir su mayor proyecto, Inditex , confiando en aquellas personas que conforman su círculo más íntimo. Es por eso que su hija Sandra, la mayor, siempre ha tenido cierta influencia dentro del gigante textil, al igual que Marta Ortega, qu.
+
+Date: 2026-08-09
 
 ### Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia
 
@@ -52,4 +58,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»](https://theobjective.com/gente/2026-08-09/raices-flora-perez-mujer-amancio-ortega-pequena-aldea-corunesa/?utm_source=lootura.com) — 2026-08-09T05:30:00.000Z

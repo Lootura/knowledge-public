@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Woman learns man who attacked her killed a young mother years later
+
+When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.
+
+Date: 2026-08-09
 
 ### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
 
@@ -62,12 +68,6 @@ Dallas's financial industry is growing, amid a larger Texas business boom. But c
 
 Date: 2026-08-04
 
-### Bernie Sanders’ circle is pretty clear on who his successor will be
-
-The battle to become the country’s next progressive leader in the mold of Bernie Sanders is heating up ahead of Democrats’ direction-defining Michigan Senate primary. Nowhere is the jockeying and strategy unfolding behind the scenes more pronounced than between Democratic Reps. Alexandria Ocasio-Cortez of New York and.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races](https://www.cbsnews.com/news/hawaii-primaries-ed-case-jarrett-keohokalole/?utm_source=lootura.com) — 2026-08-08T11:05:25.000Z
+- [Woman learns man who attacked her killed a young mother years later](https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com) — 2026-08-09T06:27:08.000Z

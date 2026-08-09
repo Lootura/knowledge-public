@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Gómez Bermúdez: "La corrupción no es erradicable, pero sí es claramente reducible"](https://www.larazon.es/espana/gomez-bermudez-corrupcion-erradicable-pero-claramente-reducible_202608096a75964271b42a0b5de1686e.html?utm_source=lootura.com) — 2026-08-09T01:21:00.000Z
+No public source links.

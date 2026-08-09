@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T05:02:28.888Z",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -27,6 +27,11 @@
     {
       "title": "Trump to appeal White House ballroom ruling to Supreme Court",
       "summary": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
+      "summary": "The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.",
       "date": "2026-08-09"
     },
     {
@@ -68,11 +73,6 @@
       "title": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
       "summary": "The summer exit confirmed what had been apparent for weeks: that Republicans lacked the votes to pass the voting restrictions the president has made a top priority.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Trump announces $180 million to boost mining education",
-      "summary": "President Trump announced over $180 million in grants to boost educational programs for the mining industry, part of a bid to increase critical mineral production.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -107,6 +107,12 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
+      "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
+      "url": "https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T05:49:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T09:02:19.000Z",
@@ -125,5 +131,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 10
 }

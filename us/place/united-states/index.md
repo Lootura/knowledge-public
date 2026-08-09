@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Solar eclipse to occur next week. Here is what to know
 
 It will be visible in parts of the U.S. on Wednesday. (Image credit: Edward M. Pio Roda).
+
+Date: 2026-08-09
+
+### Dems stand by Maine nominee hit with report he fathered children with his second cousin
+
+Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.
 
 Date: 2026-08-09
 
@@ -62,17 +68,11 @@ The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclose
 
 Date: 2026-08-08
 
-### Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz
-
-The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [These are the "super scooper" firefighting seaplanes dousing European and U.S. wildfires](https://www.cbsnews.com/video/these-are-the-super-scooper-firefighting-boat-planes-dousing-european-and-us-wildfires/?utm_source=lootura.com) — 2026-08-08T15:39:11.000Z
+- [WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin](https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com) — 2026-08-09T08:00:15.000Z
 - [Iran issues new demands over Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com) — 2026-08-08T23:17:44.000Z
 - [Solar eclipse to occur next week. Here is what to know](https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026?utm_source=lootura.com) — 2026-08-09T00:56:21.000Z
 - [Why Rhode Island may oust a sitting governor over a bridge](https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024?utm_source=lootura.com) — 2026-08-08T14:00:38.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
-- [The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages](https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/?utm_source=lootura.com) — 2026-08-08T19:11:28.000Z

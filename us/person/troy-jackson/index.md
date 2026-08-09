@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### Dems stand by Maine nominee hit with report he fathered children with his second cousin
+
+Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.
+
+Date: 2026-08-09
 
 ### Women in Maine may choose the victor in this year's Senate race
 
@@ -62,12 +68,6 @@ Troy Jackson, who is expected to become his party’s nominee in the state’s m
 
 Date: 2026-07-21
 
-### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
-
-Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin](https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com) — 2026-08-09T08:00:15.000Z

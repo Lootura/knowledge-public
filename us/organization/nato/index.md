@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
+
+Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
+
+Date: 2026-08-09
 
 ### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
 
@@ -62,12 +68,6 @@ U.S. President Donald Trump holds a press conference at Beştepe Presidential Co
 
 Date: 2026-07-14
 
-### How the Iran War Worsens the Climate Crisis
-
-Members of the 'Red Rebel Brigade', a climate activist group, walk past Iranian flags being displayed as they join a march against the far right, organized by the Together Alliance, in central London on March 28, 2026. —Henry NICHOLLS-AFP via Getty Images On Wednesday, President Donald Trump told reporters at the NATO.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z

@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T08:41:01.629Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
+      "summary": "En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)",
+      "summary": "Un hombre de 61 años ha fallecido en la madrugada de este domingo en la explosión y posterior incendio registrados en un semisótano de un bloque de viviendas situado en la calle Hacienda de Pavones, en el distrito madrileño de Moratalaz , ha informado el 112 de esta comunidad autónoma. La explosión se ha registrado en.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones",
+      "summary": "Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva",
       "summary": "El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.",
@@ -45,24 +60,21 @@
       "title": "Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende",
       "summary": "«Anoche me pillé un moco» , esta es una frase o una expresión que no plantea ningún misterio para muchos madrileños, pero que puede resultar un poco desconcertante en otras partes de España . Quien la pronuncia no está hablando de un resfriado ni necesita un pañuelo: está reconociendo que bebió demasiado y acabó borrac.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura",
-      "summary": "El arrollamiento mortal de una persona este sábado en un paso a nivel de Talavera de la Reina ha provocado el corte de la línea de tren de pasajeros que une Madrid con Extremadura. Según ha informado el Administrador de Infraestructuras Ferroviarias (Adif) a través de las redes sociales, el tren que ha impactado con la.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
-      "summary": "La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”",
-      "summary": "Lourdes Reyzábal (Madrid, 53 años), psicóloga de formación, creó hace tres décadas la Fundación Raíces, que ha atendido a más de 5.000 niños sin protección familiar, la mayoría de los cuales arriesgaron sus vidas para llegar a España. En 2008, su marido, el abogado Nacho de la Mata, logró dos sentencias clave del Tribu.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
+    {
+      "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
+      "url": "https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T06:01:52.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-09/muere-hombre-explosion-semisotano-moratalaz-madrid-1tna_4403301/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T05:54:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva",
       "url": "https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com",
@@ -76,11 +88,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El uso personal de Ayuso de las instituciones de la Comunidad de Madrid",
-      "url": "https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:22:38.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones",
+      "url": "https://okdiario.com/cultura/exposiciones-agosto-madrid-abiertas-vacaciones-19149638?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T08:29:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

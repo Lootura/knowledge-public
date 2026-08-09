@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las claves: el incentivo de vender una IA más poderosa que sus creadores](https://cincodias.elpais.com/opinion/2026-08-09/las-claves-el-incentivo-de-vender-una-ia-mas-poderosa-que-sus-creadores.html?utm_source=lootura.com) — 2026-08-09T03:40:00.000Z
+- [Lambretta revive uno de sus modelos más icónicos con la nueva J 125](https://www.abc.es/motor/motos/lambretta-revive-modelos-iconicos-nueva-125-20260806103524-nt.html?utm_source=lootura.com) — 2026-08-09T07:10:57.000Z

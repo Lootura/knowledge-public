@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple](https://www.larazon.es/compras/nuestra-eleccion/bajadon-400-euros-apple-watch-ultra-2-pccomponentes-esta-liquidando-uno-mejores-relojes-jamas-fabricados-apple_202608096a77ca15a046ad6ebca695eb.html?utm_source=lootura.com) — 2026-08-09T00:30:13.000Z
+No public source links.

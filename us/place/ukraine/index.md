@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan
 
 Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.
+
+Date: 2026-08-09
+
+### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
+
+Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
 
 Date: 2026-08-09
 
@@ -62,14 +68,8 @@ As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tat
 
 Date: 2026-08-08
 
-### Blinded by War: documenting the aftermath of injury in Ukraine – photo essay
-
-Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places overlooked by the wider world, including countries scarred by war, such as Afghanista.
-
-Date: 2026-08-07
-
 ## Sources
 
+- [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
 - [Child among 4 people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T11:27:42.000Z
-- [Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead](https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov?utm_source=lootura.com) — 2026-08-08T17:46:05.000Z
-- [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T04:01:14.000Z
+- [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T04:01:15.000Z

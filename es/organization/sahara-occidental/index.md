@@ -46,4 +46,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z
+No public source links.

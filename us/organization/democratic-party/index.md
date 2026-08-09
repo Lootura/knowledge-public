@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Democrats Vow to Unite Behind Abdul El-Sayed in Michigan, but Tensions Remain](https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html?utm_source=lootura.com) — 2026-08-08T13:22:43.000Z
+- [‘Voters are fed up’: Michigan primary forces Democratic party to accept leftwing shift](https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc?utm_source=lootura.com) — 2026-08-09T05:00:05.000Z
 - [Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?utm_source=lootura.com) — 2026-08-08T09:02:19.000Z

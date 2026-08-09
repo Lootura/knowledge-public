@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T05:02:28.888Z",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -18,6 +18,11 @@
   ],
   "changes": [
     {
+      "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
+      "summary": "Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
       "date": "2026-08-08"
@@ -26,11 +31,6 @@
       "title": "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins",
       "summary": "Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as \"The County\" to Mainers.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Women in Maine may choose the victor in this year's Senate race",
-      "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
-      "date": "2026-08-07"
     },
     {
       "title": "Funding milestone detected",
@@ -70,10 +70,10 @@
   ],
   "sources": [
     {
-      "title": "Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T11:43:48.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin",
+      "url": "https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T08:00:15.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins",
@@ -88,5 +88,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

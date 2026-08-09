@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### 'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño
 
 35 comercios y más de 300 expediciones con recogida en tienda y reparto a domicilio. Este es el resultado que ha dejado el programa 'Última Milla' en Logroño desde su implantación a principios del mes de mayo, en el marco de Decarbomile , el plan de innovación e investigación de la Unión Europea. Este proyecto piloto b.
+
+Date: 2026-08-09
+
+### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
+
+No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.
 
 Date: 2026-08-09
 
@@ -62,13 +68,8 @@ El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan 
 
 Date: 2026-08-04
 
-### Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración
-
-Los ministros de Interior de la Unión Europea y de los países asociados al espacio Schengen han coincidido en reforzar las fronteras exteriores, los retornos, la cooperación con terceros países y la capacidad de anticipación ante futuros episodios como la crisis migratoria de Ceuta, al tiempo que han expresado su «firm.
-
-Date: 2026-08-04
-
 ## Fuentes
 
+- [Bruselas trata de mediar entre España e Italia y rebajar la tensión: "Ambos confirman que los controles en las fronteras son temporales"](https://www.20minutos.es/internacional/bruselas-trata-mediar-entre-espana-italia-rebajar-tension-ambos-confirman-que-los-controles-las-fronteras-son-temporales_7023915_0.html?utm_source=lootura.com) — 2026-08-09T05:51:05.000Z
+- [El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu](https://www.20minutos.es/internacional/dificil-curso-sanchez-ue-enredado-victorias-imposibles-convertido-azote-trump-netanyahu_7019236_0.html?utm_source=lootura.com) — 2026-08-09T05:59:31.000Z
 - ['Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño](https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/?utm_source=lootura.com) — 2026-08-09T03:00:00.000Z
-- [Europa naufraga en el Estrecho](https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z

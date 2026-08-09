@@ -1,0 +1,45 @@
+{
+  "id": "usa-jarrett-keohokalole",
+  "name": "Jarrett Keohokalole",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jarrett-keohokalole",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jarrett-keohokalole",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jarrett-keohokalole/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jarrett-keohokalole/index.json",
+  "description": "Follow Jarrett Keohokalole, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Dem establishment strikes back as longtime incumbent fends off progressive challenger",
+      "summary": "The Democratic establishment won a key battle in the left's ongoing civil war with its socialist insurgency on Saturday. Longtime Rep. Ed Case, D-Hawaii, won his primary bid to seek another term in the House of Representatives, defeating progressive state Sen. Jarrett Keohokalole. Case, who served in Congress from 2002.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Moderate Democrat in Hawaii Defeats Progressive House Challenger",
+      "summary": "Representative Ed Case beat Jarrett Keohokalole, a younger progressive, in a race that centered on questions of generational change and the state’s skyrocketing cost of living.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jarrett Keohokalole first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dem establishment strikes back as longtime incumbent fends off progressive challenger",
+      "url": "https://www.foxnews.com/politics/dem-establishment-strikes-back-longtime-incumbent-fends-off-progressive-challenger?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T05:35:34.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Moderate Democrat in Hawaii Defeats Progressive House Challenger",
+      "url": "https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T06:06:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

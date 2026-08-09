@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década
+
+Hace poco más de diez años, la Comisión Europea pedía a España que buscara "alternativas" a las concertinas en las vallas de Ceuta y Melilla y advertía de que la vigilancia fronteriza debía ser "proporcionada y respetar los derechos fundamentales". Hoy, la UE debate sobre centros de retorno de migrantes en terceros paí.
+
+Date: 2026-08-09
 
 ### Más de 8.000 inmigrantes, el regalo de Marruecos
 
@@ -62,12 +68,6 @@ La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este
 
 Date: 2026-08-03
 
-### Christos Harpantidis (Philip Morris): “Cuando la regulación equipara al cigarrillo con sus alternativas, se elimina el incentivo para innovar”
-
-El sector tabaquero atraviesa un momento de agitación. A la espera de que la Comisión Europea ponga en marcha la revisión de la directiva comunitaria sobre los productos del tabaco, ahora en fase de consulta pública, los distintos países que componen el mercado común adaptan sus marcos normativos ante la aparición de l.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década](https://www.europapress.es/internacional/noticia-concertinas-centros-retorno-europa-endurecido-politica-migratoria-ultima-decada-20260809103139.html?utm_source=lootura.com) — 2026-08-09T08:31:39.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T20:52:40.370Z",
+  "updatedAt": "2026-08-09T08:41:23.943Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
+      "summary": "Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’",
       "summary": "In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.",
@@ -55,13 +60,15 @@
       "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
       "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
-      "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin",
+      "url": "https://www.foxnews.com/politics/dems-stand-maine-nominee-hit-report-fathered-children-second-cousin?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T08:00:15.000Z",
+      "sourceId": "lootura-us-fox-news"
+    }
+  ],
+  "evidenceCount": 1
 }

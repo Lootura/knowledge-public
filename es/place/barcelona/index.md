@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
 
 Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
+
+Date: 2026-08-09
+
+### ¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea
+
+En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.
 
 Date: 2026-08-09
 
@@ -62,12 +68,7 @@ Lluís Bonet i Armengol , sacerdote que ejerció como rector de la Sagrada Famil
 
 Date: 2026-08-08
 
-### La prensa inglesa se burla del Barcelona por su primera oferta por Rodri: «Métetelos por donde te quepa»
-
-La prensa inglesa reacciona este sábado al primer acercamiento del Barcelona por Rodrigo Hernández . El club azulgrana ofreció 45 millones de euros al Manchester City, algo que para el club inglés es insuficiente . Esa cantidad es la que, para la prensa inglesa, es una burla total. Varios periódicos llevan a portada es.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea](https://www.20minutos.es/nacional/barcelona-ibiza-palma-madrid-avion-electrico-voletea-air-nostrum-apuestan-por-tecnologia-que-ya-estudia-seguridad-aerea_7022196_0.html?utm_source=lootura.com) — 2026-08-09T06:01:52.000Z
 - [Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”](https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html?utm_source=lootura.com) — 2026-08-09T03:45:01.000Z

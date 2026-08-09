@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
+- [El Gobierno de Italia carga contra España tras suspender Schengen: "Inaceptable, es Sánchez quien ha dramatizado"](https://www.20minutos.es/internacional/gobierno-italia-carga-contra-espana-tras-suspender-schengen-inaceptable-es-sanchez-quien-ha-dramatizado_7023938_0.html?utm_source=lootura.com) — 2026-08-09T08:16:16.000Z
 - [El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos](https://amp.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html?utm_source=lootura.com) — 2026-08-08T20:44:48.000Z

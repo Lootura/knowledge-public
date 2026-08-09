@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T05:02:28.888Z
+- Updated: 2026-08-09T08:41:23.943Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
+
+Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
+
+Date: 2026-08-09
 
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
@@ -62,12 +68,7 @@ At the U.S. Capitol, it was a wild day of decision and indecision. The Senate pa
 
 Date: 2026-08-07
 
-### U.S. Marine vet, detained in Russia since 2022, hospitalized in serious condition
-
-Robert Gilman, 32, is being held at a Russian hospital in what his advocate, Eric Lebson of Global Reach, described as a "dissociative stupor.".
-
-Date: 2026-08-07
-
 ## Sources
 
+- [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta](https://okdiario.com/espana/pp-rechazo-acudir-fiesta-embajada-marruecos-que-si-asistio-gobierno-plena-invasion-ceuta-19147528?utm_source=lootura.com) — 2026-08-09T03:49:56.000Z
+No public source links.

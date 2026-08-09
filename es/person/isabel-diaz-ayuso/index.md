@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-09T08:41:01.629Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: "Es un juguete roto"
+
+Luis Arroyo cree que la polémica por el ático de Chamberí ha colocado a Isabel Díaz Ayuso ante una de las crisis políticas más difíciles de su trayectoria. El analista aprovechó este sábado su intervención en Malas Lenguas Noche para cargar contra la gestión del Gobierno madrileño y recuperar un episodio que sigue pesa.
+
+Date: 2026-08-09
 
 ### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
 
@@ -62,12 +68,6 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este mié
 
 Date: 2026-08-05
 
-### El PP pide a sus diputados apoyar a Ayuso en plena crisis por el ático: “Os pedimos colaboración para poner comentarios positivos”
-
-Isabel Díaz Ayuso vive uno de sus momentos más difíciles desde que es presidenta y en su partido son más que conscientes. El mensaje interno de este martes lo retrata: toca cerrar filas en torno a la presidenta en plena tormenta. “Os pedimos colaboración para compartir y poner comentarios positivos. Mucha gente nos lee.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: "Es un juguete roto"](https://www.elplural.com/extratele/luis-arroyo-recuerda-como-acabo-casado-sentencia-ayuso-atico-es-juguete-roto_397624102?utm_source=lootura.com) — 2026-08-09T08:31:20.000Z
