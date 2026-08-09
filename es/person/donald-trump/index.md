@@ -3,20 +3,32 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza
-
-"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos" Leer.
-
-Date: 2026-08-09
-
 ### Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo
 
 Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.
+
+Date: 2026-08-09
+
+### Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza
+
+El primer ministro israelí rechaza la retirada de Gaza si antes no hay un "desarme auténtico" de Hamas y muestra su oposición a un futuro Estado palestino Leer.
+
+Date: 2026-08-09
+
+### Netanyahu rechaza el plan de Trump para el desarme de Hamás
+
+Israel ha rechazado el plan de 15 puntos para Gaza presentado por el presidente de Estados Unidos, Donald Trump , a través de la llamada Junta de Paz, y no se retirará hasta que Hamás se desarme por completo, según ha declarado este domingo el primer ministro, Benjamín Netanyahu. La milicia palestina ha afirmado que ma.
+
+Date: 2026-08-09
+
+### Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza
+
+"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos" Leer.
 
 Date: 2026-08-09
 
@@ -56,19 +68,8 @@ El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "v
 
 Date: 2026-08-07
 
-### Trump prepara su mayor despliegue militar en toda Hispanoamérica
-
-La Administración de Donald Trump ha dado un paso decisivo y sin precedentes en su estrategia de seguridad para el continente americano con la creación de una fuerza militar específica destinada a coordinar ataques contra los cárteles y otras organizaciones delictivas transnacionales desde Chile hasta México.La nueva F.
-
-Date: 2026-08-07
-
-### Trump sugiere que el Departamento de Justicia de EEUU debería procesar a Anthony Fauci
-
-El Senado abre la vía para acusar al exresponsable sanitario que dirigió la respuesta federal contra la pandemia.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T12:23:27.000Z
 - [Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo](https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com) — 2026-08-09T11:47:37.000Z
+- [Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T14:01:14.000Z
+- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T13:59:36.000Z

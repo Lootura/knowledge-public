@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -20,45 +20,15 @@ After a federal appeals court halted construction of the White House ballroom on
 
 Date: 2026-08-09
 
-### Another court blocks White House ballroom work, teeing up a Supreme Court review
+### Taylor Swift songs removed from Trump and White House’s social media posts
 
-A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).
+Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.
 
-Date: 2026-08-07
-
-### News Wrap: Court rules Trump needs Congress to approve White House ballroom
-
-In our news wrap Friday, a federal appeals court ruled that President Trump can't continue building his $400 million White House ballroom without congressional approval, Trump is reviving his push to remove Lisa Cook from the Federal Reserve Board of Governors and a student in Thailand shot and killed at least seven pe.
-
-Date: 2026-08-07
-
-### Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling
-
-The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.
-
-Date: 2026-08-07
-
-### Appeals court deals major setback to Trump's White House ballroom
-
-A federal appeals court says Congress should have approved President Trump's White House ballroom project, ordering above-ground construction halted while pausing its ruling to allow the administration to appeal. NBC News’ Ryan Nobles reports.
-
-Date: 2026-08-07
+Date: 2026-08-09
 
 ### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
 
 President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
-
-Date: 2026-08-07
-
-### Appeals court rules Trump can't build White House ballroom without congressional approval
-
-Trump said in a post on social media that he would be appealing what he called an "unjust decision" to the U.S. Supreme Court.
-
-Date: 2026-08-07
-
-### Appeals court blocks construction of Trump's White House ballroom
-
-A federal appeals court has blocked the construction of President Trump's White House ballroom, saying the project requires congressional approval. CBS News' Jake Rosen reports.
 
 Date: 2026-08-07
 
@@ -68,7 +38,38 @@ US President Donald Trump speaks after signing executive orders in the Oval Offi
 
 Date: 2026-08-07
 
+### Funding milestone detected
+
+A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.
+
+Date: 2026-08-06
+
+### NATO spending pressure returned
+
+At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
+
+Date: 2026-08-05
+
+### Trump Said Qatari Jet Was Destined for His Library. That May Change.
+
+A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
+
+Date: 2026-08-05
+
+### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
+
+The White House emphasized that President Trump was not in danger during the incident.
+
+Date: 2026-08-05
+
+### Progressives had another big primary night – with a notable exception: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-08-05
+
 ## Sources
 
 - [Pregnant woman in hiding as White House ends deportation protections for Haitian migrants](https://www.cbsnews.com/video/pregnant-haitian-woman-hides-as-tps-ends/?utm_source=lootura.com) — 2026-08-09T01:06:00.000Z
 - [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
+- [Taylor Swift songs removed from Trump and White House’s social media posts](https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com) — 2026-08-09T14:33:46.000Z

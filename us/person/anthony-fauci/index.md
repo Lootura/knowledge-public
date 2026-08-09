@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Does the Fifth Amendment Protect Fauci?](https://www.nytimes.com/video/us/politics/100000011077471/does-the-fifth-amendment-protect-fauci.html?utm_source=lootura.com) — 2026-08-08T18:57:33.000Z
+No public source links.

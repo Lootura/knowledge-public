@@ -3,10 +3,16 @@
 > Sigue la actividad de Juanfran Pérez Llorca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T20:59:54.319Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/juanfran-perez-llorca
 
 ## Cambios recientes
+
+### La Generalitat ordena la evacuación de Catí por el incendio de Tírig (Castellón)
+
+Pérez Llorca ha pedido a la ciudadanía «máxima precaución» y seguir las indicaciones de los servicios de emergencias.
+
+Date: 2026-08-09
 
 ### La Generalitat resuelve 102 expedientes y elimina la espera del grado máximo de dependencia de ELA
 
@@ -46,4 +52,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [La Generalitat ordena la evacuación de Catí por el incendio de Tírig (Castellón)](https://theobjective.com/sociedad/2026-08-09/generalitat-evacuacion-cati-incendio-tirig-castellon/?amp=&utm_source=lootura.com) — 2026-08-09T16:24:08.000Z

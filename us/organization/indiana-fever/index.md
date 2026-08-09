@@ -28,5 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Florida attorney general offers his response to brutal foul on Sophie Cunningham](https://www.foxnews.com/outkick-sports/florida-attorney-general-response-brutal-foul-sophie-cunningham?utm_source=lootura.com) — 2026-08-09T11:40:45.000Z
-- [Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America](https://www.foxnews.com/outkick-sports/sophie-cunningham-supporters-rally-chicago-protesters-showcase-whats-wrong-america?utm_source=lootura.com) — 2026-08-09T12:21:03.000Z
+No public source links.

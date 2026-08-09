@@ -3,7 +3,7 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El incendio de Niebla (Huelva) quema ya 8.000 hectáreas y obliga a evacuar a cerca de 500 personas
 
 Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado respecto a ayer y se elevan a 8.000 , aunque no todas están quemadas, según el consejero de emergencias de Andalucía, Antonio Sanz . Según ha precisado, en el perímetro del incendio hay 8.000 hectáreas afectadas, aunque las apreciaciones que tie.
+
+Date: 2026-08-09
+
+### El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas
+
+Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado respecto a ayer y se elevan a 8.000, aunque no todas están quemadas, según el consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz. Seguir leyendo...
 
 Date: 2026-08-09
 
@@ -41,3 +47,4 @@ Date: 2026-08-07
 ## Fuentes
 
 - [El incendio de Niebla (Huelva) quema ya 8.000 hectáreas y obliga a evacuar a cerca de 500 personas](https://www.elconfidencial.com/espana/andalucia/2026-08-09/incendio-niebla-huelva-noche-favorable_4403378/?utm_source=lootura.com) — 2026-08-09T09:11:00.000Z
+- [El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas](https://www.lavanguardia.com/sucesos/20260809/11610735/incendio-niebla-huelva-afecta-perimetro-8-000-hectareas.html?utm_source=lootura.com) — 2026-08-09T14:26:39.000Z

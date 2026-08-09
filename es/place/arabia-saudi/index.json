@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.json",
   "description": "Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "Arabia Saudí",
     "Kingdom of Saudi Arabia",
@@ -17,6 +17,11 @@
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países",
+      "summary": "El ministro de Exteriores de Pakistán afirmó el domingo que el nuevo acuerdo de defensa que su país ha firmado con Arabia Saudí y Turquía no está dirigido contra ningún país y permanece abierto a otras naciones de la región. El histórico Acuerdo Conjunto de Defensa de La Meca fue firmado el viernes por el príncipe here.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz",
       "summary": "Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo de la OTAN.",
@@ -61,11 +66,6 @@
       "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
       "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
-      "summary": "Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -74,7 +74,13 @@
       "url": "https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T19:36:47.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países",
+      "url": "https://www.larazon.es/internacional/pakistan-afirma-que-controvertida-alianza-defensiva-turquia-arabia-saudi-esta-abierta-otros-paises_202608096a78a6a7a046ad6ebca7d83d.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:11:23.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T16:54:15.759Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### Will Darline Graham face the same fate Pamela Evette did in South Carolina?
+
+South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.
+
+Date: 2026-08-09
 
 ### Democrats approve new primary election calendar, putting South Carolina first
 
@@ -62,12 +68,6 @@ Sen. Darline Graham Nordone, Republican of South Carolina, participates in a cer
 
 Date: 2026-07-18
 
-### South Carolina's governor appoints Lindsey Graham's sister to serve out his term
-
-Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z

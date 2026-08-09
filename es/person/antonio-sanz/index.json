@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.json",
   "description": "Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "Antonio Sanz Cabello"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "El incendio de Niebla (Huelva) quema ya 8.000 hectáreas y obliga a evacuar a cerca de 500 personas",
       "summary": "Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado respecto a ayer y se elevan a 8.000 , aunque no todas están quemadas, según el consejero de emergencias de Andalucía, Antonio Sanz . Según ha precisado, en el perímetro del incendio hay 8.000 hectáreas afectadas, aunque las apreciaciones que tie.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas",
+      "summary": "Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado respecto a ayer y se elevan a 8.000, aunque no todas están quemadas, según el consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz. Seguir leyendo...",
       "date": "2026-08-09"
     },
     {
@@ -45,7 +50,13 @@
       "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-09/incendio-niebla-huelva-noche-favorable_4403378/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T09:11:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas",
+      "url": "https://www.lavanguardia.com/sucesos/20260809/11610735/incendio-niebla-huelva-afecta-perimetro-8-000-hectareas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:26:39.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

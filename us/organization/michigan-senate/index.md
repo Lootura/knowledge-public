@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call](https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169?utm_source=lootura.com) — 2026-08-09T14:22:26.000Z

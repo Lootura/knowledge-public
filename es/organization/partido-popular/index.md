@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno
+
+Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.
+
+Date: 2026-08-09
+
+### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
+
+El incendio forestal de Niebla (Huelva) ha provocado la evacuación de 467 personas y ha recorrido ya 8.000 hectáreas, aunque no toda esa superficie ha ardido, desde que fue declarado el pasado jueves, según informa el Gobierno andaluz (PP y Vox). La Guardia Civil organiza entradas puntuales y supervisadas para que los.
+
+Date: 2026-08-09
 
 ### El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta
 
@@ -56,18 +68,7 @@ Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por
 
 Date: 2026-08-07
 
-### El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta
-
-El PP se adelanta y hace valer su mayoría absoluta para que Marlaska, Robles y Albares rindan cuentas antes en el Senado Leer.
-
-Date: 2026-08-07
-
-### El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP
-
-Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno](https://www.elconfidencial.com/espana/2026-08-09/pp-junts-reforma-ley-extranjeria-gobierno-ceuta_4400301/?utm_source=lootura.com) — 2026-08-09T13:47:00.000Z
+- [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T11:13:51.000Z

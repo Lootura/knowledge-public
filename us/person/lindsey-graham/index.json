@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it",
+      "summary": "The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Will Darline Graham face the same fate Pamela Evette did in South Carolina?",
+      "summary": "South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
@@ -53,18 +63,21 @@
       "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
       "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
-      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Nancy Mace won’t run for Lindsey Graham’s Senate seat",
-      "summary": "Firebrand Republican Rep. Nancy Mace announced Monday that she will not run for the South Carolina Senate seat held by the late Lindsey Graham. “I'm not running for the U.S. Senate, not because I'm backing down from a fight, but because the one I'm already in matters right now,” she said in a video announcement . Her d.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it",
+      "url": "https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:17:38.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Will Darline Graham face the same fate Pamela Evette did in South Carolina?",
+      "url": "https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 2
 }

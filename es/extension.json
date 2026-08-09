@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T14:15:22.723Z",
+  "generatedAt": "2026-08-09T16:45:35.390Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|103|1786279392607",
+    "signature": "1.18.0|104|1786293105156",
     "version": "1.18.0",
-    "build": 103,
-    "latestEntityUpdatedAt": "2026-08-09T12:43:12.607Z"
+    "build": 104,
+    "latestEntityUpdatedAt": "2026-08-09T16:31:45.156Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-pedro-sanchez",
-      "name": "Pedro Sánchez",
-      "type": "person",
-      "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
-      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-      "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-08-09T12:43:12.607Z",
-      "score": 1641,
-      "sourceCount": 346,
+      "id": "es-espana",
+      "name": "España",
+      "type": "place",
+      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
+      "updatedAt": "2026-08-09T16:31:45.156Z",
+      "score": 1678,
+      "sourceCount": 957,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1628,
-        "sourceCount": 954,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1620,
-        "sourceCount": 193,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-san-sebastian",
-        "name": "San Sebastián",
-        "type": "place",
-        "title": "Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián",
-        "url": "https://atlas.lootura.com/es/place/san-sebastian",
-        "path": "/es/place/san-sebastian",
-        "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1599,
-        "sourceCount": 48,
+        "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-09T16:31:45.156Z",
+        "score": 1678,
+        "sourceCount": 345,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
+        "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-08-09T12:43:12.607Z",
-        "score": 1597,
-        "sourceCount": 652,
+        "updatedAt": "2026-08-09T16:31:45.156Z",
+        "score": 1659,
+        "sourceCount": 654,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-barcelona",
+        "name": "Barcelona",
+        "type": "place",
+        "title": "Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)",
+        "url": "https://atlas.lootura.com/es/place/barcelona",
+        "path": "/es/place/barcelona",
+        "updatedAt": "2026-08-09T16:31:45.156Z",
+        "score": 1656,
+        "sourceCount": 128,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-transicion-ecologica",
+        "name": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+        "type": "person",
+        "title": "El Gobierno pide a Italia que \"reaccione\" y asegura que \"ninguna persona ha llegado de Ceuta a la Península\"",
+        "url": "https://atlas.lootura.com/es/person/transicion-ecologica",
+        "path": "/es/person/transicion-ecologica",
+        "updatedAt": "2026-08-09T16:31:45.156Z",
+        "score": 1642,
+        "sourceCount": 4,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 184
+    "publicEntityCount": 187
   }
 }

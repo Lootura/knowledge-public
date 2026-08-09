@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
-
-Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
-
-Date: 2026-08-09
-
 ### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
 
 Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
+
+Date: 2026-08-09
+
+### Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)
+
+Un conductor de 51 años ha perdido la vida este domingo por la mañana tras salirse de la carretera BV-3008 a su paso por Fonollosa (Barcelona), según ha informado el Servei Català de Trànsit (SCT) . El fallecido, vecino de la localidad y único ocupante del turismo , murió después de que el vehículo abandonara la vía y.
+
+Date: 2026-08-09
+
+### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
+
+Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
 
 Date: 2026-08-09
 
@@ -62,13 +68,7 @@ Aunque el coste de la vida se ha disparado en los últimos años en España, las
 
 Date: 2026-08-08
 
-### El Barcelona cambia el amistoso cancelado en Marruecos por uno en Suiza
-
-El Barcelona ya tiene partido amistoso para sustituir al que canceló en Marruecos tras la invasión de Ceuta . El conjunto azulgrana jugará ante el Basilea , en territorio suizo, el próximo 16 de agosto, a las 16:30 horas, en lugar de hacerlo un día antes, el sábado 15, en Tánger. El club catalán descartó jugar en Marru.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”](https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html?utm_source=lootura.com) — 2026-08-09T03:45:01.000Z
+- [Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)](https://www.elconfidencial.com/espana/2026-08-09/accidente-mortal-fonollosa-barcelona-coches-1tna-1tps_4403465/?utm_source=lootura.com) — 2026-08-09T14:53:00.000Z
 - [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z

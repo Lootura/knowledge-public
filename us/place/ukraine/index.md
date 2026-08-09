@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-09
 ### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
 
 Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
+
+Date: 2026-08-09
+
+### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
+
+The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.
 
 Date: 2026-08-09
 
@@ -62,13 +68,8 @@ Falling debris sparked several fires on the outskirts of the Ukrainian capital, 
 
 Date: 2026-08-08
 
-### She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.
-
-As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
-- [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T04:01:15.000Z
+- [Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it](https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com) — 2026-08-09T16:17:38.000Z
+- [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T15:55:30.000Z

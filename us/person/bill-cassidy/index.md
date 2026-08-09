@@ -3,10 +3,22 @@
 > Follow Bill Cassidy, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/person/bill-cassidy
 
 ## Recent changes
+
+### Transcript: Sen. Bill Cassidy on "Face the Nation with Margaret Brennan," Aug. 9, 2026
+
+The following is the transcript of an interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on "Face the Nation with Margaret Brennan" on Aug. 9, 2026.
+
+Date: 2026-08-09
+
+### Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"
+
+Sen. Bill Cassidy, who delivered the pivotal vote to confirm Todd Blanche as attorney general, told "Face the Nation with Margaret Brennan" that it "wasn't a black-or-white decision," and said he is convinced the process to reinstate the proposed anti-weaponization "effectively is dead.".
+
+Date: 2026-08-09
 
 ### Discovered by Atlas
 
@@ -40,4 +52,5 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Transcript: Sen. Bill Cassidy on "Face the Nation with Margaret Brennan," Aug. 9, 2026](https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-08-09-2026/?utm_source=lootura.com) — 2026-08-09T14:57:17.000Z
+- [Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"](https://www.cbsnews.com/video/sen-bill-cassidy-says-vote-to-confirm-todd-blanche-wasnt-a-black-or-white-decision/?utm_source=lootura.com) — 2026-08-09T15:23:57.000Z

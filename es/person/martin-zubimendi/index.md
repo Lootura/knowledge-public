@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Arranque festivo con alma de balón y compás](https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:27:24.000Z
+No public source links.

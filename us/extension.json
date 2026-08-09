@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T14:15:18.261Z",
+  "generatedAt": "2026-08-09T16:45:30.799Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|103|1786279426985",
+    "signature": "1.18.0|104|1786293125492",
     "version": "1.18.0",
-    "build": 103,
-    "latestEntityUpdatedAt": "2026-08-09T12:43:46.985Z"
+    "build": 104,
+    "latestEntityUpdatedAt": "2026-08-09T16:32:05.492Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-09T12:43:46.985Z",
-      "score": 1710,
-      "sourceCount": 644,
+      "updatedAt": "2026-08-09T16:32:05.492Z",
+      "score": 1727,
+      "sourceCount": 640,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
-        "type": "organization",
-        "title": "Trump to appeal White House ballroom ruling to Supreme Court",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-08-09T12:43:46.985Z",
-        "score": 1665,
-        "sourceCount": 39,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
-        "title": "Talks between Iran, Oman continue over Strait of Hormuz",
+        "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-09T12:43:46.985Z",
-        "score": 1644,
-        "sourceCount": 354,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-canada",
-        "name": "Canada",
-        "type": "place",
-        "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-08-09T12:43:46.985Z",
-        "score": 1633,
-        "sourceCount": 60,
+        "updatedAt": "2026-08-09T16:32:05.492Z",
+        "score": 1727,
+        "sourceCount": 357,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America",
+        "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-09T12:43:46.985Z",
-        "score": 1632,
-        "sourceCount": 658,
+        "updatedAt": "2026-08-09T16:32:05.492Z",
+        "score": 1697,
+        "sourceCount": 661,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-08-09T16:32:05.492Z",
+        "score": 1691,
+        "sourceCount": 106,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-saudi-arabia",
+        "name": "Saudi Arabia",
+        "type": "place",
+        "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+        "path": "/us/place/saudi-arabia",
+        "updatedAt": "2026-08-09T16:32:05.492Z",
+        "score": 1639,
+        "sourceCount": 27,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 131
+    "publicEntityCount": 134
   }
 }

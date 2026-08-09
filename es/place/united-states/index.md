@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
 
 "Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
+
+Date: 2026-08-09
+
+### Netanyahu rechaza el plan de Trump para el desarme de Hamás
+
+Israel ha rechazado el plan de 15 puntos para Gaza presentado por el presidente de Estados Unidos, Donald Trump , a través de la llamada Junta de Paz, y no se retirará hasta que Hamás se desarme por completo, según ha declarado este domingo el primer ministro, Benjamín Netanyahu. La milicia palestina ha afirmado que ma.
 
 Date: 2026-08-09
 
@@ -62,12 +68,7 @@ Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas 
 
 Date: 2026-08-07
 
-### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
-
-Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
-
-Date: 2026-08-07
-
 ## Fuentes
 
+- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T13:59:36.000Z
 - [Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz](https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com) — 2026-08-09T09:56:09.000Z

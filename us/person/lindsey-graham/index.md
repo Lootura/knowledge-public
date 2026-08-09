@@ -3,10 +3,22 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
+
+The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.
+
+Date: 2026-08-09
+
+### Will Darline Graham face the same fate Pamela Evette did in South Carolina?
+
+South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.
+
+Date: 2026-08-09
 
 ### Senate passes Russia sanctions bill that was long championed by Lindsey Graham
 
@@ -56,18 +68,7 @@ The race to fill Lindsey Graham’s seat has created a new test of President Don
 
 Date: 2026-07-21
 
-### South Carolina Republicans test Trump's clout in race for Graham's seat
-
-The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
-
-Date: 2026-07-21
-
-### Nancy Mace won’t run for Lindsey Graham’s Senate seat
-
-Firebrand Republican Rep. Nancy Mace announced Monday that she will not run for the South Carolina Senate seat held by the late Lindsey Graham. “I'm not running for the U.S. Senate, not because I'm backing down from a fight, but because the one I'm already in matters right now,” she said in a video announcement . Her d.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it](https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com) — 2026-08-09T16:17:38.000Z
+- [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z

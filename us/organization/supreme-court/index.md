@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -13,12 +13,6 @@
 After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
 
 Date: 2026-08-09
-
-### Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program
-
-The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.
-
-Date: 2026-08-08
 
 ### What to know about Trump's new attempt to limit birthright citizenship
 
@@ -38,33 +32,39 @@ The Trump administration, rebuffed by the Supreme Court in its first attempt to 
 
 Date: 2026-08-07
 
-### Appeals Court Upholds Block on Trump Ballroom Construction
-
-A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.
-
-Date: 2026-08-07
-
-### Another court blocks White House ballroom work, teeing up a Supreme Court review
-
-A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates. (Image credit: Tierney L. Cross).
-
-Date: 2026-08-07
-
 ### Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’
 
 The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
 
 Date: 2026-08-07
 
-### Trump mounts new effort to fire Fed's Lisa Cook after Supreme Court ruling
+### Warren presses U.S. companies to share tariff refunds with customers
 
-The White House has informed Lisa Cook, a member of the Federal Reserve Board of Governors, that President Trump is considering firing her.
+Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
 
 Date: 2026-08-07
 
-### Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook
+### Trump issues new executive orders aimed at birthright citizenship
 
-The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.
+The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
+
+Date: 2026-08-07
+
+### Trump Targets 'Birth Tourism' With Two New Executive Orders
+
+President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.
+
+Date: 2026-08-07
+
+### Trump Seeks to Restrict Birthright Citizenship With New Orders
+
+US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
+
+Date: 2026-08-07
+
+### Trump signs new orders targeting birthright citizenship
+
+Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.
 
 Date: 2026-08-07
 

@@ -3,7 +3,7 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Los caballos también disfrutan](https://www.larazon.es/comunidad-valenciana/valencia/caballos-tambien-disfrutan_202608096a78399da046ad6ebca73031.html?utm_source=lootura.com) — 2026-08-09T08:26:05.000Z
+- [Controlado el incendio en Sierra Engarcerán (Castellón)](https://theobjective.com/sociedad/2026-08-09/controlado-incendio-sierra-engarceran/?utm_source=lootura.com) — 2026-08-09T07:45:21.000Z

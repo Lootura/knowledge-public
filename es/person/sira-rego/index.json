@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/sira-rego/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/sira-rego/index.json",
   "description": "Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "Sira Abed Rego"
   ],
   "changes": [
+    {
+      "title": "Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»",
+      "summary": "La ministra de Juventud e Infancia, Sira Rego , ha anunciado que, tras el verano, tiene intención de llevar al Consejo de Ministros una nueva Ley de familias acogedoras destinada a «mejorar los mecanismos» que «faciliten la acogida y la adopción» de menores. «Es una ley muy esperada que hemos trabajado junto con las as.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Tres comunidades se niegan a acoger a los menores procedentes de Ceuta",
       "summary": "Los vicepresidentes de Extremadura, Castilla y León y Aragón, todos de Vox, enviaron ayer sendas cartas a la ministra de Juventud e Infancia, Sira Rego, para comunicarle que no asistirán a la comisión sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y q.",
@@ -44,6 +49,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»",
+      "url": "https://www.abc.es/sociedad/sira-rego-tratara-aprobar-ley-familias-acogedoras-20260809163525-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:35:47.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

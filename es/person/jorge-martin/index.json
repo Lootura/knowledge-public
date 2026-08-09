@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.json",
   "description": "Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T20:25:54.616Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "Jorge",
     "Jorge Martin Almoguera",
@@ -16,6 +16,11 @@
     "Martín"
   ],
   "changes": [
+    {
+      "title": "Raúl Fernández domina en Gran Bretaña con Jorge Martín aún más líder de MotoGP",
+      "summary": "Raúl Fernández ha conquistado el Gran Premio de Gran Bretaña de MotoGP con una actuación impecable en Silverstone . El madrileño se rehízo de la caída sufrida en la sprint’ del sábado para lograr su segunda victoria en la categoría reina , liderando la carrera de principio a fin y completando además su particular homen.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Jorge Martín first entered the public knowledge record with source-backed evidence.",
@@ -27,6 +32,19 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Raúl Fernández domina en el indómito Silverstone; Márquez sobrevive",
+      "url": "https://www.abc.es/deportes/motos/raul-fernandez-domina-indomito-silverstone-marquez-sobrevive-20260809150224-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:54:54.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Raúl Fernández domina en Gran Bretaña con Jorge Martín aún más líder de MotoGP",
+      "url": "https://theobjective.com/deportes/2026-08-09/raul-fernandez-gran-bretana-jorge-martin-lider-motogp/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:24:56.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

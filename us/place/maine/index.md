@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins](https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins?utm_source=lootura.com) — 2026-08-08T19:05:04.000Z
+No public source links.

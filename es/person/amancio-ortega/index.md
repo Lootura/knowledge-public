@@ -58,4 +58,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»](https://theobjective.com/gente/2026-08-09/raices-flora-perez-mujer-amancio-ortega-pequena-aldea-corunesa/?utm_source=lootura.com) — 2026-08-09T05:30:00.000Z
+No public source links.

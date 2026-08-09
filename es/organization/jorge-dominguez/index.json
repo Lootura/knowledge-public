@@ -1,0 +1,45 @@
+{
+  "id": "es-jorge-dominguez",
+  "name": "Jorge Domínguez",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/jorge-dominguez",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/jorge-dominguez",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/jorge-dominguez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/jorge-dominguez/index.json",
+  "description": "Sigue la actividad de Jorge Domínguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El defensa Jorge Domínguez reclama un sitio a Simeone",
+      "summary": "Con tan solo 16 años, Jorge Domínguez ya sabe lo que es marcar con la camiseta del primer equipo del Atlético de Madrid . El joven defensor en edad juvenil abrió el marcador en el penúltimo compromiso de la pretemporada colchonera frente al Manchester City. Apodado 'Domi' en el vestuario, el jugador firmó en 2025 su pr.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
+      "summary": "El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jorge Domínguez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El defensa Jorge Domínguez reclama un sitio a Simeone",
+      "url": "https://www.abc.es/deportes/atletico-madrid/jorge-dominguez-tumba-puerta-atletico-madrid-seul-20260809150603-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:08:37.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:05:27.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

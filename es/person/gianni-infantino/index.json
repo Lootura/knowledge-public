@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T16:51:54.899Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»",
+      "summary": "La FIFA denunció y criticó el «esfuerzo coordinado y continuo para socavar a la FIFA y a su presidente » mediante acusaciones, insinuaciones o información errónea, un Gianni Infantino que fue elegido de manera democrática y continúa «ejerciendo su mandato». «En consonancia con las recientes declaraciones de la CONMEBOL.",
+      "date": "2026-08-09"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "Ni la UEFA , ni la Conmebol, ni la Concacaf, ni la AFC: la gestión de Gianni Infantino al frente de la FIFA ha sido condenada por prácticamente todo el mundo del fútbol, y de las 211 federaciones nacionales que la componen apenas hay un puñado que no se han posicionado o bien en su contra o han guardado un elocuente si.",
@@ -60,6 +65,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-09/fifa-denuncia-esfuerzo-coordinado-continuo-socavar-infantino/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:51:30.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

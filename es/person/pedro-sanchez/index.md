@@ -3,16 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste
-
-La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con signos de violencia en el interior de un domicilio de Tauste. Según asegura Heraldo de Aragón , la identidad de las víctimas correspondería a Javier Sánchez, exsecretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA), y a su.
-
-Date: 2026-08-09
 
 ### Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)
 
@@ -23,6 +17,18 @@ Date: 2026-08-09
 ### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
 
 Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
+
+Date: 2026-08-09
+
+### Los ministros que están en el punto de mira por la gestión de Ceuta
+
+«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese calibre, el jefe del Ejecutivo, refugiado en La Mareta, no conv.
+
+Date: 2026-08-09
+
+### Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste
+
+La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con signos de violencia en el interior de un domicilio de Tauste. Según asegura Heraldo de Aragón , la identidad de las víctimas correspondería a Javier Sánchez, exsecretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA), y a su.
 
 Date: 2026-08-09
 
@@ -62,14 +68,8 @@ Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobie
 
 Date: 2026-08-08
 
-### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
-
-La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste](https://www.20minutos.es/aragon/zaragoza/hallan-muertos-cuchilladas-exsecretario-general-uaga-javier-sanchez-su-mujer-su-domicilio-tauste_7023946_0.html?utm_source=lootura.com) — 2026-08-09T09:10:01.000Z
+- [Los ministros que están en el punto de mira por la gestión de Ceuta](https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com) — 2026-08-09T15:21:19.000Z
 - [Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)](https://www.elconfidencial.com/espana/aragon/2026-08-09/cadaveres-domicilio-tauste-signos-violencia-1tna_4403352/?utm_source=lootura.com) — 2026-08-09T08:52:00.000Z
 - [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z

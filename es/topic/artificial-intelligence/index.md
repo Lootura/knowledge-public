@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las claves: el incentivo de vender una IA más poderosa que sus creadores](https://cincodias.elpais.com/opinion/2026-08-09/las-claves-el-incentivo-de-vender-una-ia-mas-poderosa-que-sus-creadores.html?utm_source=lootura.com) — 2026-08-09T03:40:00.000Z
+- [La decisión que cambió 'Perdidos' para siempre: el giro descartado que alejó a una estrella de Hollywood](https://www.larazon.es/videojuegos/series/decision-cambio-perdidos-siempre-giro-descartado-alejo-estrella-hollywood_202608096a7624aaa046ad6ebca44978.html?utm_source=lootura.com) — 2026-08-09T12:00:00.000Z

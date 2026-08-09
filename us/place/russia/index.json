@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T12:43:46.985Z",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,16 @@
     {
       "title": "Ukraine denies targeting Bulgaria after drone explodes near gas pipeline",
       "summary": "Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it",
+      "summary": "The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Syria Agrees to Reorganized Russian Military Presence",
+      "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
       "date": "2026-08-09"
     },
     {
@@ -56,16 +66,6 @@
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
-      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-      "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -76,11 +76,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it",
+      "url": "https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:17:38.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T19:56:38.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Syria Agrees to Reorganized Russian Military Presence",
+      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:57:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

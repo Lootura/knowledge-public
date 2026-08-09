@@ -3,10 +3,16 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»
+
+La ministra de Juventud e Infancia, Sira Rego , ha anunciado que, tras el verano, tiene intención de llevar al Consejo de Ministros una nueva Ley de familias acogedoras destinada a «mejorar los mecanismos» que «faciliten la acogida y la adopción» de menores. «Es una ley muy esperada que hemos trabajado junto con las as.
+
+Date: 2026-08-09
 
 ### Tres comunidades se niegan a acoger a los menores procedentes de Ceuta
 
@@ -46,4 +52,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»](https://www.abc.es/sociedad/sira-rego-tratara-aprobar-ley-familias-acogedoras-20260809163525-nt.html?utm_source=lootura.com) — 2026-08-09T14:35:47.000Z

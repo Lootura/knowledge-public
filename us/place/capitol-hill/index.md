@@ -3,7 +3,7 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Young conservatives reveal what’s top of mind as GOP, Democrats battle for 'hopeless' Gen Z voters](https://www.foxnews.com/politics/young-conservatives-reveal-whats-top-mind-gop-democrats-battle-hopeless-gen-z-voters?utm_source=lootura.com) — 2026-08-09T16:03:36.000Z

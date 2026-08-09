@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-09T16:31:45.156Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,11 +18,6 @@
   ],
   "changes": [
     {
-      "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
-      "summary": "La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con signos de violencia en el interior de un domicilio de Tauste. Según asegura Heraldo de Aragón , la identidad de las víctimas correspondería a Javier Sánchez, exsecretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA), y a su.",
-      "date": "2026-08-09"
-    },
-    {
       "title": "Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)",
       "summary": "El exsecretario de la Unión de Agricultores y Ganaderos de Aragón ( UAGA Aragón ), Javier Sánchez , y su mujer , Esther Latorre , han sido hallados muertos, con signos de violencia , en el interior de su domicilio de Tauste (Zaragoza). La Guardia Civil de Zaragoza ha informado del hallazgo de los dos cadáveres y desde.",
       "date": "2026-08-09"
@@ -30,6 +25,16 @@
     {
       "title": "Atrapados a 40 grados en el aeropuerto de El Prat: la \"bienvenida\" a los italianos por el pulso entre Sánchez y Meloni",
       "summary": "Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un \"finger\" hirviente bajo el sol de Barcelona....",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
+      "summary": "«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese calibre, el jefe del Ejecutivo, refugiado en La Mareta, no conv.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
+      "summary": "La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con signos de violencia en el interior de un domicilio de Tauste. Según asegura Heraldo de Aragón , la identidad de las víctimas correspondería a Javier Sánchez, exsecretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA), y a su.",
       "date": "2026-08-09"
     },
     {
@@ -61,19 +66,14 @@
       "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
       "summary": "Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
-      "summary": "La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Hallan muertos a cuchilladas al exsecretario general de UAGA Javier Sánchez y a su mujer en su domicilio de Tauste",
-      "url": "https://www.20minutos.es/aragon/zaragoza/hallan-muertos-cuchilladas-exsecretario-general-uaga-javier-sanchez-su-mujer-su-domicilio-tauste_7023946_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:10:01.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
+      "url": "https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:21:19.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)",
@@ -88,5 +88,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

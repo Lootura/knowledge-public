@@ -1,0 +1,47 @@
+{
+  "id": "usa-bernie-sanders",
+  "name": "Bernie Sanders",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/bernie-sanders",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/bernie-sanders",
+  "markdownUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.json",
+  "description": "Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "aliases": [
+    "Sen. Bernie Sanders",
+    "Bernie",
+    "Bernard \"Bernie\" Sanders",
+    "Bernard Sanders",
+    "Senator Bernie Sanders",
+    "Senator Sanders"
+  ],
+  "changes": [
+    {
+      "title": "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations",
+      "summary": "Sen. Bernie Sanders highlighted the hundreds of millions of dollars spent by outside organizations during the 2026 midterm cycle.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Bernie Sanders first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sen. Bernie Sanders says Minnesota Senate contest is going to be a \"tight race\"",
+      "url": "https://www.cbsnews.com/video/sen-bernie-sanders-says-minnesota-senate-contest-is-going-to-be-a-tight-race/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:26:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations",
+      "url": "https://www.cbsnews.com/news/bernie-sanders-super-pac-funding-letter-schumer-jeffries-martin/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T14:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

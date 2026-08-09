@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -14,6 +14,12 @@ La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: e
 
 Date: 2026-08-09
 
+### «Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»
+
+El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».
+
+Date: 2026-08-08
+
 ### Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián
 
 El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.
@@ -23,12 +29,6 @@ Date: 2026-08-08
 ### Arranque festivo con alma de balón y compás
 
 Donostia da el pistoletazo de salida a laSemana Grande con Martin Zubimendi, que prende unas fiestas a ritmo de euskal dantza y sobreponiéndose a la lluvia.
-
-Date: 2026-08-08
-
-### «Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»
-
-El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».
 
 Date: 2026-08-08
 
@@ -70,6 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián](https://www.diariovasco.com/san-sebastian/semana-grande/oyarzabal-zubimendi-tarde-canonazo-20260808175621-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:03:49.000Z
 - [«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»](https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com) — 2026-08-08T22:01:02.000Z
-- [Arranque festivo con alma de balón y compás](https://www.diariovasco.com/san-sebastian/semana-grande/artillero-canonazo-20260808095017-nt_amp.html?utm_source=lootura.com) — 2026-08-08T16:27:24.000Z

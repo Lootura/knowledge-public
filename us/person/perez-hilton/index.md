@@ -46,4 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Perez Hilton hospitalized in ‘serious but stable’ condition, family says](https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-serious-stable-condition-will-need-surgery-f-rcna591535?utm_source=lootura.com) — 2026-08-08T23:21:10.000Z
+No public source links.

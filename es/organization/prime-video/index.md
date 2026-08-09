@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Volvería a ver una y mil veces este thriller policíaco español de Prime Video: está basado en una novela superventas y solo tiene 7 episodios
+
+Hay series que ves, disfrutas y olvidas al poco tiempo… y luego están esas que se te quedan en la cabeza durante días, semanas o incluso meses . Este thriller policíaco español de Prime Video pertenece claramente a este segundo grupo . Con una historia basada en una novela superventas y una protagonista tan brillante c.
+
+Date: 2026-08-09
 
 ### El reinado de 'The Expanse' como la mejor ciencia ficción puede acabar: las series que aspiran a dominar el género
 
@@ -62,12 +68,6 @@ Prime Video es una de las plataformas más curiosas del mundo del streaming . Po
 
 Date: 2026-08-01
 
-### Tráiler de ‘Blade Runner 2099’: Michelle Yeoh y Hunter Schafer brillan en la ambiciosa producción de Prime Video
-
-Las franquicias ya no son sólo un reclamo para los cines . El auge de las plataformas de streaming ha conseguido que estas puedan expandirse en series de televisión que hace algunos años, resultaban impensables. Entre otras cosas, porque algunos géneros precisan de una inversión y efectos especiales que, hasta hace bie.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Volvería a ver una y mil veces este thriller policíaco español de Prime Video: está basado en una novela superventas y solo tiene 7 episodios](https://www.larazon.es/tecnologia-consumo/series/volveria-ver-mil-veces-este-thriller-policiaco-espanol-prime-video-esta-basado-novela-superventas-solo-tiene-7-episodios_202608096a758506a046ad6ebca3288d.html?utm_source=lootura.com) — 2026-08-09T16:01:00.000Z

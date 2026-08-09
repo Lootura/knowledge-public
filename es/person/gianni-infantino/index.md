@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»
+
+La FIFA denunció y criticó el «esfuerzo coordinado y continuo para socavar a la FIFA y a su presidente » mediante acusaciones, insinuaciones o información errónea, un Gianni Infantino que fue elegido de manera democrática y continúa «ejerciendo su mandato». «En consonancia con las recientes declaraciones de la CONMEBOL.
+
+Date: 2026-08-09
 
 ### European criticism of FIFA ruling grew
 
@@ -64,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»](https://theobjective.com/deportes/futbol/2026-08-09/fifa-denuncia-esfuerzo-coordinado-continuo-socavar-infantino/?utm_source=lootura.com) — 2026-08-09T14:51:30.000Z

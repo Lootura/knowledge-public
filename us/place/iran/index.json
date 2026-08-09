@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T12:43:46.985Z",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,13 +32,28 @@
       "date": "2026-08-09"
     },
     {
+      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\".",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
       "summary": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).",
       "date": "2026-08-09"
     },
     {
-      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).",
+      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
+      "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "summary": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).",
       "date": "2026-08-09"
     },
     {
@@ -50,21 +65,6 @@
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-      "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
-      "summary": "Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -73,6 +73,12 @@
       "url": "https://www.cbsnews.com/video/iran-oman-continue-talks-over-strait-of-hormuz/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T00:44:59.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:14:12.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse",
@@ -96,7 +102,7 @@
       "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
       "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:39:47.000Z",
-      "sourceId": "lootura-us-npr"
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
@@ -105,11 +111,17 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
+      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
+      "url": "https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:20:38.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T19:56:38.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 9
 }

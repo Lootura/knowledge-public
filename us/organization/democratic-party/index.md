@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -16,13 +16,19 @@ Date: 2026-08-09
 
 ### Top Democrats simulate election threats as Trump continues assault on voting
 
-Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they.
+Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.
 
 Date: 2026-08-09
 
 ### The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella
 
 New research shows that a class gap on the left threatens any winning coalition – but there are ways to address it Debates on the left are typically framed as a division between moderates and progressives, with the two sides wrestling over how best to form a governing coalition. Yet, in many ways, this divide obscures.
+
+Date: 2026-08-09
+
+### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
+
+KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.
 
 Date: 2026-08-09
 
@@ -62,15 +68,10 @@ Republicans and Democrats, renters and homeowners, rich and poor—agree on at l
 
 Date: 2026-08-07
 
-### Moderate Democrats Prepare for ‘War’ Against an Ascendant Left
-
-One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.
-
-Date: 2026-08-06
-
 ## Sources
 
-- [Can Progressive Democrats Win in the 2026 Midterm Elections?](https://www.today.com/video/can-progressive-democrats-win-in-the-2026-midterm-elections-268002373874?utm_source=lootura.com) — 2026-08-09T12:26:24.000Z
+- [Young conservatives reveal what’s top of mind as GOP, Democrats battle for 'hopeless' Gen Z voters](https://www.foxnews.com/politics/young-conservatives-reveal-whats-top-mind-gop-democrats-battle-hopeless-gen-z-voters?utm_source=lootura.com) — 2026-08-09T16:03:36.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
+- [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z
 - [Top Democrats simulate election threats as Trump continues assault on voting](https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com) — 2026-08-09T12:00:14.000Z
 - [The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella](https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap?utm_source=lootura.com) — 2026-08-09T10:00:12.000Z

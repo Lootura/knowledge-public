@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"
+
+Sen. Bill Cassidy, who delivered the pivotal vote to confirm Todd Blanche as attorney general, told "Face the Nation with Margaret Brennan" that it "wasn't a black-or-white decision," and said he is convinced the process to reinstate the proposed anti-weaponization "effectively is dead.".
+
+Date: 2026-08-09
 
 ### Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns
 
@@ -62,12 +68,6 @@ Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomina
 
 Date: 2026-08-07
 
-### State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe
-
-The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Senate confirms Todd Blanche, Trump's ex-defense lawyer, as attorney general](https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/?utm_source=lootura.com) — 2026-08-08T16:57:05.000Z
+- [Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"](https://www.cbsnews.com/video/sen-bill-cassidy-says-vote-to-confirm-todd-blanche-wasnt-a-black-or-white-decision/?utm_source=lootura.com) — 2026-08-09T15:23:57.000Z

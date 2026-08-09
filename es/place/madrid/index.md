@@ -3,20 +3,32 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
-
-Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
-
-Date: 2026-08-09
-
 ### La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad
 
 Aramís Fuster está viviendo en una situación precaria , tal y como han podido presenciar en 'Fiesta'. La pitonisa, que reside de alquiler en Madrid, no tiene agua corriente ni luz desde hace seis meses, y su vivienda carece de los servicios básicos. La televisiva, que tiene 75 años pese a haber asegurado que supera los.
+
+Date: 2026-08-09
+
+### El defensa Jorge Domínguez reclama un sitio a Simeone
+
+Con tan solo 16 años, Jorge Domínguez ya sabe lo que es marcar con la camiseta del primer equipo del Atlético de Madrid . El joven defensor en edad juvenil abrió el marcador en el penúltimo compromiso de la pretemporada colchonera frente al Manchester City. Apodado 'Domi' en el vestuario, el jugador firmó en 2025 su pr.
+
+Date: 2026-08-09
+
+### El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl
+
+El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.
+
+Date: 2026-08-09
+
+### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
+
+Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
 
 Date: 2026-08-09
 
@@ -56,20 +68,8 @@ Policía Local de Madrid y agentes de Movilidad del Ayuntamiento han cortado est
 
 Date: 2026-08-08
 
-### Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid
-
-Gris debut de Bernardo Silva y anodinos primeros minutos del renovado Vinicius, en el amistoso ante el Ferencváros (1-2). Mourinho pide fichar: «Tenemos una plantilla corta».
-
-Date: 2026-08-08
-
-### Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande
-
-El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la renovación de Vinicius Júnior hasta el 30 de junio de 2032, un monovolumen negro abandonaba la concentración del RB Leipzig en Saalfelden (Austria) camino del aeropuerto. Dentro viajaba Yan Diomande , diecinueve años, rumbo a Madrid para cerra.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [El defensa Jorge Domínguez reclama un sitio a Simeone](https://www.abc.es/deportes/atletico-madrid/jorge-dominguez-tumba-puerta-atletico-madrid-seul-20260809150603-nt.html?utm_source=lootura.com) — 2026-08-09T14:08:37.000Z
 - [La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad](https://www.abc.es/gente/tragica-situacion-vive-aramis-fuster-agua-corriente-20260809104516-nt.html?utm_source=lootura.com) — 2026-08-09T12:04:04.000Z
-- [La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío](https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html?utm_source=lootura.com) — 2026-08-08T22:20:16.000Z
-- [Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones](https://okdiario.com/cultura/exposiciones-agosto-madrid-abiertas-vacaciones-19149638?utm_source=lootura.com) — 2026-08-09T08:29:39.000Z
+- [El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl](https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com) — 2026-08-09T14:05:27.000Z

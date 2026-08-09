@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
 
 Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
+
+Date: 2026-08-09
+
+### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
+
+The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.
+
+Date: 2026-08-09
+
+### Syria Agrees to Reorganized Russian Military Presence
+
+After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.
 
 Date: 2026-08-09
 
@@ -56,19 +68,9 @@ The bill is meant to stifle Russia's economy by allowing for tough new tariffs a
 
 Date: 2026-08-07
 
-### Senate Passes Sanctions Bill Targeting Russia and Iran
-
-The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.
-
-Date: 2026-08-07
-
-### Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition
-
-Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
+- [Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it](https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com) — 2026-08-09T16:17:38.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
+- [Syria Agrees to Reorganized Russian Military Presence](https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html?utm_source=lootura.com) — 2026-08-09T15:57:53.000Z

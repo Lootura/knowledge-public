@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países
+
+El ministro de Exteriores de Pakistán afirmó el domingo que el nuevo acuerdo de defensa que su país ha firmado con Arabia Saudí y Turquía no está dirigido contra ningún país y permanece abierto a otras naciones de la región. El histórico Acuerdo Conjunto de Defensa de La Meca fue firmado el viernes por el príncipe here.
+
+Date: 2026-08-09
 
 ### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
 
@@ -62,12 +68,7 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-23
 
-### Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo
-
-Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz](https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com) — 2026-08-08T19:36:47.000Z
+- [Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países](https://www.larazon.es/internacional/pakistan-afirma-que-controvertida-alianza-defensiva-turquia-arabia-saudi-esta-abierta-otros-paises_202608096a78a6a7a046ad6ebca7d83d.html?utm_source=lootura.com) — 2026-08-09T16:11:23.000Z

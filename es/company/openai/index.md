@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Las claves: el incentivo de vender una IA más poderosa que sus creadores](https://cincodias.elpais.com/opinion/2026-08-09/las-claves-el-incentivo-de-vender-una-ia-mas-poderosa-que-sus-creadores.html?utm_source=lootura.com) — 2026-08-09T03:40:00.000Z
+No public source links.

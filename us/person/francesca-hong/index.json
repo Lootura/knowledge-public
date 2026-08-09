@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
+    {
+      "title": "Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday",
+      "summary": "KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
       "summary": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns. (Image credit: Mario Tama).",
@@ -34,6 +39,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday",
+      "url": "https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:02:13.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

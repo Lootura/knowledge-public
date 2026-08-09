@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
+
+KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.
+
+Date: 2026-08-09
 
 ### Data centers are a political issue crossing party lines, driving voters to candidates
 
@@ -34,4 +40,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z

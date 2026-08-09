@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T16:31:45.156Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»
+
+La FIFA denunció y criticó el «esfuerzo coordinado y continuo para socavar a la FIFA y a su presidente » mediante acusaciones, insinuaciones o información errónea, un Gianni Infantino que fue elegido de manera democrática y continúa «ejerciendo su mandato». «En consonancia con las recientes declaraciones de la CONMEBOL.
+
+Date: 2026-08-09
 
 ### La Asociación del Fútbol Argentino apoya a Infantino y su «solidez institucional»
 
@@ -62,12 +68,6 @@ La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenaz
 
 Date: 2026-08-01
 
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»](https://theobjective.com/deportes/futbol/2026-08-09/fifa-denuncia-esfuerzo-coordinado-continuo-socavar-infantino/?utm_source=lootura.com) — 2026-08-09T14:51:30.000Z

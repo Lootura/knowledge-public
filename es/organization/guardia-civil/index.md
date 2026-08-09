@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países](https://www.larazon.es/espana/asi-distribuyen-cerca-400-guardias-civiles-desplegados-todo-mundo-largo-50-paises_202608096a786a1fa5690f0473703815.html?utm_source=lootura.com) — 2026-08-09T11:53:44.000Z
+No public source links.

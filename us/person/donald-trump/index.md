@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-09T16:32:05.492Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -20,12 +20,6 @@ The Trump administration’s proposed changes to the review process will allow i
 
 Date: 2026-08-09
 
-### Netanyahu rejects Gaza peace plan, vows no military pullout until Hamas disarms
-
-President Trump hailed the peace plan​ as a "historic agreement for the complete disarmament of Hamas and all other groups in Gaza.".
-
-Date: 2026-08-09
-
 ### Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says
 
 Israel will not accept the 15-point plan for Gaza set out by President Donald Trump’s Board of Peace, Prime Minister Benjamin Netanyahu said Sunday.
@@ -38,12 +32,6 @@ Iran is issuing a new set of demands to President Donald Trump and American nego
 
 Date: 2026-08-09
 
-### Haunted by Hoover, Trump searches for an endgame in Iran
-
-President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).
-
-Date: 2026-08-09
-
 ### Politics chat: Progressive candidates in primaries, Trump's influence on midterms
 
 Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.
@@ -52,31 +40,43 @@ Date: 2026-08-09
 
 ### Top Democrats simulate election threats as Trump continues assault on voting
 
-Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they.
+Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.
 
 Date: 2026-08-09
 
 ### Israel Rejects Trump’s 15-Point Plan to Disarm Hamas
 
-President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.
+President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.
 
 Date: 2026-08-09
 
-### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
+### Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms
 
-LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.
+President Trump hailed the peace plan​ as a "historic agreement for the complete disarmament of Hamas and all other groups in Gaza.".
+
+Date: 2026-08-09
+
+### Haunted by Hoover, Trump searches for an endgame in Iran
+
+President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).
+
+Date: 2026-08-09
+
+### Will Darline Graham face the same fate Pamela Evette did in South Carolina?
+
+South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.
 
 Date: 2026-08-09
 
 ## Sources
 
-- [Netanyahu rejects Gaza peace plan, vows no military pullout until Hamas disarms](https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com) — 2026-08-09T12:24:04.000Z
+- [Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms](https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com) — 2026-08-09T14:57:31.000Z
 - [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
 - [Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says](https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555?utm_source=lootura.com) — 2026-08-09T11:26:09.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Haunted by Hoover, Trump searches for an endgame in Iran](https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com) — 2026-08-09T12:39:47.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
+- [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z
 - [Top Democrats simulate election threats as Trump continues assault on voting](https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com) — 2026-08-09T12:00:14.000Z
+- [Taylor Swift songs removed from Trump and White House’s social media posts](https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com) — 2026-08-09T14:33:46.000Z
 - [It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.](https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html?utm_source=lootura.com) — 2026-08-09T05:49:06.000Z
-- [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html?utm_source=lootura.com) — 2026-08-08T20:12:51.000Z
-- [Israel Rejects Trump’s 15-Point Plan to Disarm Hamas](https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html?utm_source=lootura.com) — 2026-08-09T12:01:21.000Z

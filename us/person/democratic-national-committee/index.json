@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/democratic-national-committee/index.json",
   "description": "Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-04T17:46:37.529Z",
+  "updatedAt": "2026-08-09T16:32:05.492Z",
   "aliases": [
     "Committee",
     "DNC",
     "National"
   ],
   "changes": [
+    {
+      "title": "Richard Nixon reflects on Watergate and his legacy: Meet the Press Archive",
+      "summary": "APRIL 10, 1988 — Former President Richard Nixon joined Meet the Press years after resigning from office on August 9, 1976, after five men were arrested for breaking into the Democratic National Committee headquarters at the Watergate complex in Washington, D.C. in June of that year.",
+      "date": "2026-08-09"
+    },
     {
       "title": "DNC report on 2024 election outcome missing key chapter, report says",
       "summary": "NPR's Steve Inskeep speaks with the New York Times' Shane Goldmacher about a missing chapter of the Democratic National Committee's report on Donald Trump's 2024 election win.",
@@ -46,6 +51,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Richard Nixon reflects on Watergate and his legacy: Meet the Press Archive",
+      "url": "https://www.nbcnews.com/meet-the-press/video/richard-nixon-reflects-on-watergate-and-his-legacy-meet-the-press-archive-268006981714?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T15:00:22.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }
