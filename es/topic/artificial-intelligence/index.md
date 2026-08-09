@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La decisión que cambió 'Perdidos' para siempre: el giro descartado que alejó a una estrella de Hollywood](https://www.larazon.es/videojuegos/series/decision-cambio-perdidos-siempre-giro-descartado-alejo-estrella-hollywood_202608096a7624aaa046ad6ebca44978.html?utm_source=lootura.com) — 2026-08-09T12:00:00.000Z
+- [Está confirmado por el Gobierno y ya es oficial: en septiembre comienza en España el Servicio Militar para los nacidos en el año 2008](https://okdiario.com/sociedad/confirmado-gobierno-ya-oficial-despues-septiembre-comienza-espana-servicio-militar-nacidos-ano-2008-16754764?utm_source=lootura.com) — 2026-08-09T18:57:33.000Z

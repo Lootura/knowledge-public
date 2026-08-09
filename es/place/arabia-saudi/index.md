@@ -3,7 +3,7 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz](https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com) — 2026-08-08T19:36:47.000Z
 - [Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países](https://www.larazon.es/internacional/pakistan-afirma-que-controvertida-alianza-defensiva-turquia-arabia-saudi-esta-abierta-otros-paises_202608096a78a6a7a046ad6ebca7d83d.html?utm_source=lootura.com) — 2026-08-09T16:11:23.000Z

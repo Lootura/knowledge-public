@@ -3,7 +3,7 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-02
 ## Fuentes
 
 - [Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)](https://www.elconfidencial.com/espana/andalucia/2026-08-09/herida-menor-apunalada-joven-torredonjimeno-jaen-1tna_4403412/?utm_source=lootura.com) — 2026-08-09T11:03:00.000Z
-- [La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos](https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com) — 2026-08-09T09:14:25.000Z

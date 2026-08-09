@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
   "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-25T20:48:53.384Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Ibai",
     "Ibai Llanos Garatea",
@@ -16,6 +16,11 @@
     "Roro"
   ],
   "changes": [
+    {
+      "title": "Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: \"Me he cagado\"",
+      "summary": "El eclipse solar que podrá verse desde España el próximo 12 de agosto ya empieza a generar expectación, aunque también cierta preocupación entre quienes quieren disfrutar del fenómeno astronómico. Uno de ellos es Ibai Llanos , que ha reconocido en redes sociales que toda la información sobre las precauciones necesarias.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales",
       "summary": "Siga el minuto a minuto de la Velada del Año VI con sus ganadores y los conciertos.",
@@ -60,13 +65,15 @@
       "title": "Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades",
       "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado este jueves las sanciones a los influencers I bai Llanos , Jordi Wild y Nachter con multas que van de los 700 euros a casi los 1.800 por irregularidades en su actividad comercial en redes sociales. Según la CNMC, estas sanciones se han impuesto.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada",
-      "summary": "La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres propios del evento organizado por Ibai Llanos es el de Angie Velasco . La creadora de contenido argentina será una de las protagonistas de la edición de 2026, en la que se subirá por primera vez al ring para enfrentarse a la influencer puerto.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: \"Me he cagado\"",
+      "url": "https://www.larazon.es/actualidad/ibai-llanos-bromea-miedo-eclipse-solar-que-llegara-espana-cagado-b50m_202608096a78d8c9a046ad6ebca826d1.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:45:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

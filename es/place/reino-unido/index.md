@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
+
+Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.
+
+Date: 2026-08-09
 
 ### “Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales
 
@@ -62,12 +68,6 @@ La experiencia en obra hospitalaria acumulada por Sacyr y ACS les ha valido para
 
 Date: 2026-08-03
 
-### Sacyr levantará un hospital de 1.750 millones en Reino Unido tras incorporarse a su programa sanitario
-
-Sacyr trabajará con Frimley Health NHS Foundation Trust para desarrollar el nuevo Hospital Frimley Park, que es uno de los 11 proyectos incluidos en la primera fase del New...
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái](https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T20:00:15.000Z

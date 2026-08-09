@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz](https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com) — 2026-08-09T09:56:09.000Z
+No public source links.

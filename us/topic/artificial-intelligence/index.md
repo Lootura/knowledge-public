@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-08-07
 
 ## Sources
 
-- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-09T16:32:09.314Z
-- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-09T16:32:09.314Z
+- [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-09T20:29:00.632Z
+- [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-09T20:29:00.632Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
+
+El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
+
+Date: 2026-08-09
 
 ### Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: "Es un juguete roto"
 
@@ -62,12 +68,6 @@ La Fundación Alicia Koplowitz ha donado 150.000 euros para la reconstrucción d
 
 Date: 2026-08-05
 
-### Ayuso niega que fuera a vivir en el ático comprado por la Comunidad de Madrid
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha negado este miércoles que la compra del ático de Chamberí fuera una vivienda para ella y ha.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

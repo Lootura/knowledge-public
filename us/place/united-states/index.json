@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "updatedAt": "2026-08-09T20:28:56.631Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,6 +40,21 @@
       "date": "2026-08-09"
     },
     {
+      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
+      "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
+      "summary": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
+      "summary": "Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
       "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).",
       "date": "2026-08-09"
@@ -52,16 +67,6 @@
     {
       "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
       "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\".",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
-      "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-      "summary": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.",
       "date": "2026-08-09"
     },
     {
@@ -78,11 +83,6 @@
       "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
       "summary": "Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-      "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -93,28 +93,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T16:14:12.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "Iran issues new demands over Strait of Hormuz",
-      "url": "https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T23:17:44.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
       "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:18:19.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:44:02.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T17:18:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
@@ -123,23 +111,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T19:56:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
       "url": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:47:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Inside the War on Hezbollah’s Finances",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:00:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 4
 }

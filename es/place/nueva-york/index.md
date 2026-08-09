@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Rahm conquista su tercer anillo del LIV
+
+El vizcaíno se proclama de nuevo el mejor del circuito pese a una semana horrible en Nueva York, donde firma su peor posición: 41.
+
+Date: 2026-08-09
 
 ### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
 
@@ -62,12 +68,6 @@ Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York 
 
 Date: 2026-07-22
 
-### La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles
-
-“El dinero nunca duerme”, sentenciaba el codicioso Gordon Gekko en Wall Street (1987). Con Bolsas como las de Nueva York, Nasdaq o Corea del Sur estudiando ampliar sus horarios a imagen y semejanza de los mercados de criptoactivos, la imagen cobra sentido más que nunca, si bien es en periodos estivales como el actual c.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Rahm conquista su tercer anillo del LIV](https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com) — 2026-08-09T19:58:49.000Z

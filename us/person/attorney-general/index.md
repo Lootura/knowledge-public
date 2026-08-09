@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [GOP-controlled Senate delivers win for Trump with Blanche confirmation](https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation?utm_source=lootura.com) — 2026-08-08T21:19:17.000Z
+No public source links.

@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
+      "summary": "El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
+      "summary": "Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
+      "summary": "El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.",
+      "date": "2026-08-09"
+    },
     {
       "title": "La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad",
       "summary": "Aramís Fuster está viviendo en una situación precaria , tal y como han podido presenciar en 'Fiesta'. La pitonisa, que reside de alquiler en Madrid, no tiene agua corriente ni luz desde hace seis meses, y su vivienda carece de los servicios básicos. La televisiva, que tiene 75 años pese a haber asegurado que supera los.",
@@ -19,11 +34,6 @@
     {
       "title": "El defensa Jorge Domínguez reclama un sitio a Simeone",
       "summary": "Con tan solo 16 años, Jorge Domínguez ya sabe lo que es marcar con la camiseta del primer equipo del Atlético de Madrid . El joven defensor en edad juvenil abrió el marcador en el penúltimo compromiso de la pretemporada colchonera frente al Manchester City. Apodado 'Domi' en el vestuario, el jugador firmó en 2025 su pr.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
-      "summary": "El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.",
       "date": "2026-08-09"
     },
     {
@@ -50,35 +60,31 @@
       "title": "El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva",
       "summary": "El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El uso personal de Ayuso de las instituciones de la Comunidad de Madrid",
-      "summary": "En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado \"dos días con el tupper de casa\" La Comunidad de.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo",
-      "summary": "Policía Local de Madrid y agentes de Movilidad del Ayuntamiento han cortado este sábado la Gran Vía entre Plaza de España y San Bernardo por un incendio en un restaurante de la cadena Ôven, situado en el número 55 de esta céntrica calle. Hay un #incendio en la cocina de un restaurante en Gran Vía. @BomberosMad está tra.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "El defensa Jorge Domínguez reclama un sitio a Simeone",
-      "url": "https://www.abc.es/deportes/atletico-madrid/jorge-dominguez-tumba-puerta-atletico-madrid-seul-20260809150603-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:08:37.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Italia acusa a España de aplicar controles \"inaceptables\" a sus viajeros y el Gobierno de Sánchez exige al de Meloni que \"reaccione\"",
+      "url": "https://amp.elmundo.es/espana/2026/08/09/6a783fc9fc6c8345208b458c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T13:02:26.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad",
-      "url": "https://www.abc.es/gente/tragica-situacion-vive-aramis-fuster-agua-corriente-20260809104516-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:04:04.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
+      "url": "https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:59:10.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
       "url": "https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T14:05:27.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
+      "url": "https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T18:15:07.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

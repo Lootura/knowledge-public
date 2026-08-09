@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Italia tacha de «desproporcionada» la decisión de Sánchez al restablecer controles fronterizos",
-      "url": "https://theobjective.com/internacional/2026-08-09/italia-desproporcionada-decision-sanchez-controles-fronterizos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:45:07.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Italia ve \"desproporcionada\" la reacción de Sánchez a sus controles",
+      "url": "https://www.expansion.com/economia/2026/08/09/6a78d485468aeb184a8b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:31:20.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 0

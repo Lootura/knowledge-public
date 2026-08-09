@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Italia tacha de «desproporcionada» la decisión de Sánchez al restablecer controles fronterizos](https://theobjective.com/internacional/2026-08-09/italia-desproporcionada-decision-sanchez-controles-fronterizos/?utm_source=lootura.com) — 2026-08-09T12:45:07.000Z
+- [Italia ve "desproporcionada" la reacción de Sánchez a sus controles](https://www.expansion.com/economia/2026/08/09/6a78d485468aeb184a8b4581.html?utm_source=lootura.com) — 2026-08-09T19:31:20.000Z

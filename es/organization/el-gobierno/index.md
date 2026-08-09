@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país
+
+La vicepresidenta primera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, ha hecho un llamamiento a la prudencia.
+
+Date: 2026-08-09
+
+### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
+
+El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
+
+Date: 2026-08-09
 
 ### El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla
 
@@ -17,12 +29,6 @@ Date: 2026-08-09
 ### El Gobierno pide a Italia que "reaccione" y dice que "no hay nadie que haya llegado de Ceuta a la Península"
 
 La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, espera que Italia "reaccione" y que tenga "claro" que el espacio Schengen está garantizado, sin haber sido violado por ningún inmigrante llegado desde Ceuta. "No ha habido ninguna persona que haya llegado a la Pe.
-
-Date: 2026-08-09
-
-### El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país
-
-La vicepresidenta primera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, ha hecho un llamamiento a la prudencia.
 
 Date: 2026-08-09
 
@@ -62,14 +68,8 @@ El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a ca
 
 Date: 2026-08-08
 
-### No molestar a Marruecos
-
-El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [El Gobierno pide a Italia que "reaccione" y dice que "no hay nadie que haya llegado de Ceuta a la Península"](https://www.20minutos.es/nacional/gobierno-pide-italia-que-reaccione-asegura-que-no-ha-habido-ninguna-persona-que-haya-llegado-ceuta-peninsula_7023985_0.html?utm_source=lootura.com) — 2026-08-09T12:07:15.000Z
-- [El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla](https://www.larazon.es/andalucia/gobierno-compromete-cubrir-mitad-coste-restauracion-superficie-afectada-niebla_202608096a787534a046ad6ebca791f7.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T12:40:20.000Z
+- [El Gobierno espera que Italia "reaccione" y tenga claro que el espacio Schengen "no ha sido violado"](https://www.expansion.com/economia/2026/08/09/6a7866eb468aebbd748b4592.html?utm_source=lootura.com) — 2026-08-09T11:56:43.000Z
 - [El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país](https://theobjective.com/espana/2026-08-09/gobierno-maxima-precaucion-eclipse-riesgo-incendios/?amp=&utm_source=lootura.com) — 2026-08-09T16:10:51.000Z
+- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

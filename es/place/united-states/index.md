@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
+### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
 
-"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
+Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.
 
 Date: 2026-08-09
 
-### Netanyahu rechaza el plan de Trump para el desarme de Hamás
+### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
 
-Israel ha rechazado el plan de 15 puntos para Gaza presentado por el presidente de Estados Unidos, Donald Trump , a través de la llamada Junta de Paz, y no se retirará hasta que Hamás se desarme por completo, según ha declarado este domingo el primer ministro, Benjamín Netanyahu. La milicia palestina ha afirmado que ma.
+"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
 
 Date: 2026-08-09
 
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T13:59:36.000Z
-- [Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz](https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com) — 2026-08-09T09:56:09.000Z
+- [El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái](https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T20:00:15.000Z

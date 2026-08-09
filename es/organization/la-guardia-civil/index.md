@@ -3,10 +3,22 @@
 > Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/la-guardia-civil
 
 ## Cambios recientes
+
+### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
+
+El incendio forestal de Niebla (Huelva) ha provocado la evacuación de 467 personas y ha recorrido ya 8.000 hectáreas, aunque no toda esa superficie ha ardido, desde que fue declarado el pasado jueves, según informa el Gobierno andaluz (PP y Vox). La Guardia Civil organiza entradas puntuales y supervisadas para que los.
+
+Date: 2026-08-09
+
+### La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta
+
+La Guardia Civil ha recuperado este domingo el cuerpo sin vida de un varón migrante en aguas de Ceuta. Su hallazgo eleva a 83 el número de víctimas de la entrada masiva del pasado 30 de julio encontradas en territorio español. Seguir leyendo...
+
+Date: 2026-08-09
 
 ### La Guardia Civil interviene más de 800 kilos de cocaína en Punta Umbría (Huelva)
 
@@ -29,12 +41,6 @@ Date: 2026-08-09
 ### El hallazgo de otro cadáver eleva a 83 los fallecidos tras la entrada masiva en Ceuta
 
 La Guardia Civil ha recuperado este domingo en aguas de Ceuta el cadáver de un hombre, con lo que se eleva ya a 83 el número de fallecidos relacionados con la entrada masiva de migrantes registrada el pasado 30 de julio, según fuentes del caso. El cuerpo, en avanzado estado de descomposición, ha sido localizado por efe.
-
-Date: 2026-08-09
-
-### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
-
-El incendio forestal de Niebla (Huelva) ha provocado la evacuación de 467 personas y ha recorrido ya 8.000 hectáreas, aunque no toda esa superficie ha ardido, desde que fue declarado el pasado jueves, según informa el Gobierno andaluz (PP y Vox). La Guardia Civil organiza entradas puntuales y supervisadas para que los.
 
 Date: 2026-08-09
 
@@ -62,16 +68,7 @@ La Guardia Civil de Ceuta ha recuperado este viernes el cuerpo sin vida de un jo
 
 Date: 2026-08-07
 
-### Siete detenidos por once delitos de robo con fuerza en empresas en Huesca, Zaragoza y Lérida
-
-La Guardia Civil ha detenido a siete personas por su presunta implicación en un delito continuado de once robos con fuerza de cobre, otro de robo o hurto de uso de vehículo y un tercero de pertenencia a grupo criminal . Los hechos se habrían cometido en empresas de las comarcas del Bajo Cinca , Ribera Baja del Ebro (Za.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El hallazgo de otro cadáver eleva a 83 los fallecidos tras la entrada masiva en Ceuta](https://www.20minutos.es/ceuta/hallazgo-otro-cadaver-eleva-83-los-fallecidos-tras-entrada-masiva-ceuta_7023992_0.html?utm_source=lootura.com) — 2026-08-09T13:51:07.000Z
-- [Hallan los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)](https://www.elconfidencial.com/espana/aragon/2026-08-09/cadaveres-domicilio-tauste-signos-violencia-1tna_4403352/?utm_source=lootura.com) — 2026-08-09T08:52:00.000Z
-- [La Guardia Civil interviene más de 800 kilos de cocaína en Punta Umbría (Huelva)](https://www.elconfidencial.com/espana/andalucia/2026-08-09/guardia-civil-interviene-cocaina-punta-umbria-huelva-1tna_4403313/?utm_source=lootura.com) — 2026-08-09T07:31:00.000Z
-- [Detenidas ocho personas por robos con violencia e intimidación en establecimientos comerciales en Tenerife](https://www.elconfidencial.com/espana/islas-canarias/2026-08-09/detenidos-robos-violencia-establecimientos-comerciales-tenerife-1tna_4403334/?utm_source=lootura.com) — 2026-08-09T08:12:00.000Z
-- [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T11:13:51.000Z
+- [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z
+- [La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta](https://www.lavanguardia.com/politica/20260809/11610771/guardia-civil-encuentra-cuerpo-vida-elevan-83-victimas-entrada-masiva-halladas-ceuta.html?utm_source=lootura.com) — 2026-08-09T16:23:53.000Z

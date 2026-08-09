@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-08-09
 
 ### Netanyahu rechaza el plan de Trump para el desarme de Hamás
 
-Israel ha rechazado el plan de 15 puntos para Gaza presentado por el presidente de Estados Unidos, Donald Trump , a través de la llamada Junta de Paz, y no se retirará hasta que Hamás se desarme por completo, según ha declarado este domingo el primer ministro, Benjamín Netanyahu. La milicia palestina ha afirmado que ma.
+Aunque lo ha anunciado en la reunión semanal del consejo de ministros, Benjamín Netanyahu ha actuado este domingo más como candidato a la reelección en octubre que como jefe de Gobierno al rechazar el acuerdo para el desarme de Hamás alcanzado por la Junta de Paz —el organismo que supervisa la aplicación del alto el fu.
 
 Date: 2026-08-09
 
@@ -71,5 +71,5 @@ Date: 2026-08-07
 ## Fuentes
 
 - [Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo](https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com) — 2026-08-09T11:47:37.000Z
-- [Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T14:01:14.000Z
-- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T13:59:36.000Z
+- [Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T17:45:48.000Z
+- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T17:29:35.000Z

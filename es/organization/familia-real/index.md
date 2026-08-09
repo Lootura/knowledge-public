@@ -3,10 +3,16 @@
 > Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T00:52:00.771Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/familia-real
 
 ## Cambios recientes
+
+### Un vestido para todas: la Infanta hereda de su madre y su hermana
+
+Este sábado la Familia Real puso fin a su estancia en Mallorca con una tradición. Dos, incluso. La primera fue la cena junto a la Reina Sofía en el restaurante Mía, en el Portixol de Palma ; y la segunda fue un vestido que ya tiene tres vidas y que casi se ha convertido en una constante en los últimos cuatro veranos. H.
+
+Date: 2026-08-09
 
 ### Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»
 
@@ -64,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Un vestido para todas: la Infanta hereda de su madre y su hermana](https://www.abc.es/estilo/moda/vestido-infanta-sofia-hereda-madre-hermana-traje-20260809123303-nt.html?utm_source=lootura.com) — 2026-08-09T17:45:01.000Z

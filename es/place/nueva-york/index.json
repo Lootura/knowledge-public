@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Rahm conquista su tercer anillo del LIV",
+      "summary": "El vizcaíno se proclama de nuevo el mejor del circuito pese a una semana horrible en Nueva York, donde firma su peor posición: 41.",
+      "date": "2026-08-09"
+    },
     {
       "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
       "summary": "Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.",
@@ -85,13 +90,15 @@
       "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
       "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
-      "summary": "“El dinero nunca duerme”, sentenciaba el codicioso Gordon Gekko en Wall Street (1987). Con Bolsas como las de Nueva York, Nasdaq o Corea del Sur estudiando ampliar sus horarios a imagen y semejanza de los mercados de criptoactivos, la imagen cobra sentido más que nunca, si bien es en periodos estivales como el actual c.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rahm conquista su tercer anillo del LIV",
+      "url": "https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:58:49.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
 }

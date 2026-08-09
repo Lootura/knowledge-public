@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -75,13 +75,7 @@
       "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-09/herida-menor-apunalada-joven-torredonjimeno-jaen-1tna_4403412/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T11:03:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos",
-      "url": "https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:14:25.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

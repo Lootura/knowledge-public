@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora
+
+Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.
+
+Date: 2026-08-09
 
 ### El uso personal de Ayuso de las instituciones de la Comunidad de Madrid
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto
 
 Date: 2026-07-25
 
-### La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios
-
-La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z

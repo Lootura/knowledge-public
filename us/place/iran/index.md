@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Talks between Iran, Oman continue over Strait of Hormuz
-
-Negotiations are ongoing between Iran and Oman regarding the management of the Strait of Hormuz. While those talks over the crucial waterway drag on, however, gas prices remain high for Americans. Imtiaz Tyab reports.
-
-Date: 2026-08-09
 
 ### Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse
 
@@ -23,6 +17,30 @@ Date: 2026-08-09
 ### Iran Says There’s Still No Deal on Reopening the Strait of Hormuz
 
 Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.
+
+Date: 2026-08-09
+
+### Haunted by Hoover, Trump searches for an endgame in Iran
+
+President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).
+
+Date: 2026-08-09
+
+### Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others
+
+The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.
+
+Date: 2026-08-09
+
+### Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post
+
+The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.
+
+Date: 2026-08-09
+
+### Talks between Iran, Oman continue over Strait of Hormuz
+
+Negotiations are ongoing between Iran and Oman regarding the management of the Strait of Hormuz. While those talks over the crucial waterway drag on, however, gas prices remain high for Americans. Imtiaz Tyab reports.
 
 Date: 2026-08-09
 
@@ -44,38 +62,16 @@ President Trump is confronting a question that has haunted presidents throughout
 
 Date: 2026-08-09
 
-### Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others
-
-The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.
-
-Date: 2026-08-09
-
-### Haunted by Hoover, Trump searches for an endgame in Iran
-
-President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency. (Image credit: KENT NISHIMURA).
-
-Date: 2026-08-09
-
 ### Iran issues new demands over Strait of Hormuz
 
 Iran on Saturday issued a new list of demands to the United States, complicating efforts to reopen the critical Strait of Hormuz. NBC News’ Keir Simmons reports from Doha.
 
 Date: 2026-08-08
 
-### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
-
-The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
-
-Date: 2026-08-08
-
 ## Sources
 
-- [Talks between Iran, Oman continue over Strait of Hormuz](https://www.cbsnews.com/video/iran-oman-continue-talks-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-09T00:44:59.000Z
-- [Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery](https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html?utm_source=lootura.com) — 2026-08-09T16:14:12.000Z
 - [Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse](https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553?utm_source=lootura.com) — 2026-08-09T11:30:24.000Z
-- [Iran issues new demands over Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com) — 2026-08-08T23:17:44.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Haunted by Hoover, Trump searches for an endgame in Iran](https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com) — 2026-08-09T12:39:47.000Z
-- [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com) — 2026-08-09T09:44:02.000Z
 - [Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others](https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com) — 2026-08-09T15:20:38.000Z
-- [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
+- [Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post](https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html?utm_source=lootura.com) — 2026-08-09T18:18:22.000Z

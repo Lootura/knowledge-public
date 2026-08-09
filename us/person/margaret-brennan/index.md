@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### Full transcript of "Face the Nation with Margaret Brennan," Aug. 9, 2026
+
+On this "Face the Nation with Margaret Brennan" broadcast, Sens. Bill Cassidy and Bernie Sanders join Margaret Brennan.
+
+Date: 2026-08-09
 
 ### Transcript: Sen. Bill Cassidy on "Face the Nation with Margaret Brennan," Aug. 9, 2026
 
@@ -53,5 +59,4 @@ Date: 2026-08-02
 ## Sources
 
 - [Sen. Bernie Sanders says Minnesota Senate contest is going to be a "tight race"](https://www.cbsnews.com/video/sen-bernie-sanders-says-minnesota-senate-contest-is-going-to-be-a-tight-race/?utm_source=lootura.com) — 2026-08-09T16:26:25.000Z
-- [Transcript: Sen. Bill Cassidy on "Face the Nation with Margaret Brennan," Aug. 9, 2026](https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-08-09-2026/?utm_source=lootura.com) — 2026-08-09T14:57:17.000Z
-- [Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"](https://www.cbsnews.com/video/sen-bill-cassidy-says-vote-to-confirm-todd-blanche-wasnt-a-black-or-white-decision/?utm_source=lootura.com) — 2026-08-09T15:23:57.000Z
+- [Full transcript of "Face the Nation with Margaret Brennan," Aug. 9, 2026](https://www.cbsnews.com/news/face-the-nation-full-transcript-08-09-2026/?utm_source=lootura.com) — 2026-08-09T19:42:43.000Z

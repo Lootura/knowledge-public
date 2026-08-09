@@ -1,0 +1,40 @@
+{
+  "id": "usa-peggy-flanagan",
+  "name": "Peggy Flanagan",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/peggy-flanagan",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/peggy-flanagan",
+  "markdownUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.json",
+  "description": "Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
+      "summary": "Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Peggy Flanagan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sen. Bernie Sanders says Minnesota Senate contest is going to be a \"tight race\"",
+      "url": "https://www.cbsnews.com/video/sen-bernie-sanders-says-minnesota-senate-contest-is-going-to-be-a-tight-race/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T16:26:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T17:18:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

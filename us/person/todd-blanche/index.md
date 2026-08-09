@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### Sen. Bill Cassidy says his decision to confirm Todd Blanche wasn't "black or white"
+
+"If you're looking for a black or white decision here, you're not going to find it," GOP Sen. Bill Cassidy said about his decision to support Todd Blanche's nomination for attorney general.
+
+Date: 2026-08-09
 
 ### Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"
 
@@ -62,12 +68,6 @@ Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomina
 
 Date: 2026-08-07
 
-### Blanche's attorney general confirmation is in doubt as GOP Sen. Murkowski opposes his nomination
-
-Republican Sen. Lisa Murkowski said Friday she will oppose Todd Blanche's nomination as attorney general, narrowing the confirmation path for President Donald Trump's pick to lead the Justice Department.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Sen. Bill Cassidy says vote to confirm Todd Blanche "wasn't a black-or-white decision"](https://www.cbsnews.com/video/sen-bill-cassidy-says-vote-to-confirm-todd-blanche-wasnt-a-black-or-white-decision/?utm_source=lootura.com) — 2026-08-09T15:23:57.000Z
+- [Sen. Bill Cassidy says his decision to confirm Todd Blanche wasn't "black or white"](https://www.cbsnews.com/news/bill-cassidy-interview-todd-blanche-vote/?utm_source=lootura.com) — 2026-08-09T17:49:07.000Z

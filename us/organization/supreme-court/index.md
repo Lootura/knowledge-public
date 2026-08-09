@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
+No public source links.

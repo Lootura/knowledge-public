@@ -3,16 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### Trump to appeal White House ballroom ruling to Supreme Court
-
-After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
-
-Date: 2026-08-09
 
 ### It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.
 
@@ -68,15 +62,21 @@ South Carolina Republicans might be watching history repeat itself. A special el
 
 Date: 2026-08-09
 
+### Taylor Swift songs removed from Trump and White House’s social media posts
+
+Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.
+
+Date: 2026-08-09
+
 ## Sources
 
 - [Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms](https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com) — 2026-08-09T14:57:31.000Z
-- [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
 - [Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says](https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555?utm_source=lootura.com) — 2026-08-09T11:26:09.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Haunted by Hoover, Trump searches for an endgame in Iran](https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com) — 2026-08-09T12:39:47.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
+- [Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first](https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas?utm_source=lootura.com) — 2026-08-09T18:21:45.000Z
+- [Trump's immigration crackdown looms over Minnesota's bruising Senate primary](https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com) — 2026-08-09T17:18:47.000Z
+- [Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news](https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com) — 2026-08-09T17:55:18.000Z
 - [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z
 - [Top Democrats simulate election threats as Trump continues assault on voting](https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com) — 2026-08-09T12:00:14.000Z
-- [Taylor Swift songs removed from Trump and White House’s social media posts](https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com) — 2026-08-09T14:33:46.000Z
-- [It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.](https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html?utm_source=lootura.com) — 2026-08-09T05:49:06.000Z

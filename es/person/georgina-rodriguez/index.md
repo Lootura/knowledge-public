@@ -34,4 +34,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La 'boda' de Cristiano Ronaldo reúne a cientos de personas en Funchal: así reacciona el futbolista](https://www.abc.es/gente/boda-cristiano-ronaldo-reune-cientos-personas-funchal-20260809140040-nt.html?utm_source=lootura.com) — 2026-08-09T12:05:28.000Z
+No public source links.

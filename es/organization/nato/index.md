@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada
+
+Una nueva evaluación actualiza los pronósticos anteriores de que el líder ruso no provocaría a la Alianza durante la guerra de Ucrania Leer.
+
+Date: 2026-08-09
 
 ### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
 
@@ -62,12 +68,6 @@ La secretaria de Estado de Defensa , Amparo Valcarce, considera que la cumbre de
 
 Date: 2026-07-14
 
-### NATO spending pressure returned
-
-For the US’ allies, Nato summits have largely become a matter of damage control and evading the wrath of Donald Trump. With Washington’s support no longer a given, the special relationship between the US and the European Union (EU) is under increasing strain . The recent Nato summit, held on July 7-8 in Ankara, Turkey,.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz](https://www.elcorreo.com/internacional/oriente-proximo/emiratos-denuncia-ataque-irani-carguero-estrecho-ormuz-20260808213646-ntrc_amp.html?utm_source=lootura.com) — 2026-08-08T19:36:47.000Z
+- [La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada](https://www.elmundo.es/internacional/2026/08/09/6a76063be4d4d8a2038b45a5.html?utm_source=lootura.com) — 2026-08-09T18:07:16.000Z

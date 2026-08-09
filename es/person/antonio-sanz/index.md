@@ -3,16 +3,10 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
-
-### El incendio de Niebla (Huelva) quema ya 8.000 hectáreas y obliga a evacuar a cerca de 500 personas
-
-Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado respecto a ayer y se elevan a 8.000 , aunque no todas están quemadas, según el consejero de emergencias de Andalucía, Antonio Sanz . Según ha precisado, en el perímetro del incendio hay 8.000 hectáreas afectadas, aunque las apreciaciones que tie.
-
-Date: 2026-08-09
 
 ### El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas
 
@@ -20,11 +14,11 @@ Las hectáreas afectadas en el incendio de Niebla (Huelva) se han duplicado resp
 
 Date: 2026-08-09
 
-### El incendio de Niebla (Huelva) supera las 4.000 hectáreas ante la dificultad por el viento
+### Aumentan los desalojados por el incendio forestal en Niebla (Huelva)
 
-El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha señalado que el incendio forestal declarado en el paraje Raboconejo de Niebla ( Huelva ) supera la 4.000 hectáreas de extensión, «aunque no toda la superficie es qu.
+El vicepresidente primero y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz, ha confirmado que 467 personas permanecen desalojadas a consecuencia del incendio forestal declarado en Niebla ( Huelva ) y que mantiene activada la fase de emergencia, situación operativa 2, del Plan de Emergencia por Incendios.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
 ### Discovered by Atlas
 
@@ -46,5 +40,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El incendio de Niebla (Huelva) quema ya 8.000 hectáreas y obliga a evacuar a cerca de 500 personas](https://www.elconfidencial.com/espana/andalucia/2026-08-09/incendio-niebla-huelva-noche-favorable_4403378/?utm_source=lootura.com) — 2026-08-09T09:11:00.000Z
 - [El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas](https://www.lavanguardia.com/sucesos/20260809/11610735/incendio-niebla-huelva-afecta-perimetro-8-000-hectareas.html?utm_source=lootura.com) — 2026-08-09T14:26:39.000Z
+- [Aumentan los desalojados por el incendio forestal en Niebla (Huelva)](https://theobjective.com/sociedad/suceso/2026-08-09/personas-desalojadas-467-incendio-forestal-niebla-huelva/?utm_source=lootura.com) — 2026-08-09T17:56:14.000Z

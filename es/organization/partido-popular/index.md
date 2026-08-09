@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -71,4 +71,4 @@ Date: 2026-08-07
 ## Fuentes
 
 - [El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno](https://www.elconfidencial.com/espana/2026-08-09/pp-junts-reforma-ley-extranjeria-gobierno-ceuta_4400301/?utm_source=lootura.com) — 2026-08-09T13:47:00.000Z
-- [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T11:13:51.000Z
+- [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z

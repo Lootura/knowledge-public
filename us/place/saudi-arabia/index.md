@@ -3,20 +3,20 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
 
-### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
-
-Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).
-
-Date: 2026-08-09
-
 ### Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others
 
 The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.
+
+Date: 2026-08-09
+
+### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
+
+Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).
 
 Date: 2026-08-09
 
@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com) — 2026-08-09T09:44:02.000Z
 - [Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others](https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com) — 2026-08-09T15:20:38.000Z

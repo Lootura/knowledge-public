@@ -3,10 +3,16 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
+
+### Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"
+
+El eclipse solar que podrá verse desde España el próximo 12 de agosto ya empieza a generar expectación, aunque también cierta preocupación entre quienes quieren disfrutar del fenómeno astronómico. Uno de ellos es Ibai Llanos , que ha reconocido en redes sociales que toda la información sobre las precauciones necesarias.
+
+Date: 2026-08-09
 
 ### Velada del Año VI de Ibai Llanos, en directo: última hora de los combates, orden de peleas y actuaciones musicales
 
@@ -62,12 +68,6 @@ La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado este
 
 Date: 2026-07-23
 
-### Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada
-
-La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres propios del evento organizado por Ibai Llanos es el de Angie Velasco . La creadora de contenido argentina será una de las protagonistas de la edición de 2026, en la que se subirá por primera vez al ring para enfrentarse a la influencer puerto.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"](https://www.larazon.es/actualidad/ibai-llanos-bromea-miedo-eclipse-solar-que-llegara-espana-cagado-b50m_202608096a78d8c9a046ad6ebca826d1.html?utm_source=lootura.com) — 2026-08-09T19:45:13.000Z

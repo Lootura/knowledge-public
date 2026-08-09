@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»
+
+El PSOE ha decidido no tolerar más insultos a su líder, Pedro Sánchez . El partido ha anunciado este domingo en un comunicado que ha presentado una denuncia contra la presidenta de Les Corts Valencianes, Llanos Mass ó , por llamar «capo de la mafia corrupta» al actual presidente del Gobierno de la nación. Estos término.
+
+Date: 2026-08-09
+
+### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
+
+El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
+
+Date: 2026-08-09
 
 ### El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos
 
@@ -56,18 +68,7 @@ Sandra López, secretaria de Política Institucional del PSOE de Ceuta, se trope
 
 Date: 2026-08-06
 
-### Los proetarras toman las Fiestas de la Virgen Blanca de Vitoria y el ayuntamiento del PSOE mira para otro lado
-
-El comienzo de las Fiestas de la Virgen Blanca , en Vitoria , se ha visto salpicado por la actuación de un grupo de proetarras , que decidieron tomar el festejo de inauguración con un despliegue de pancartas permitido por el Ayuntamiento de la ciudad vasca, en la que gobierna el PSE-PSOE . Los dirigentes socialistas de.
-
-Date: 2026-08-05
-
-### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
-
-El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»](https://theobjective.com/espana/politica/2026-08-09/psoe-denuncia-vox-llamar-sanchez-capo-de-la-mafia-corrupta/?utm_source=lootura.com) — 2026-08-09T16:46:10.000Z
+- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país",
+      "summary": "La vicepresidenta primera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, ha hecho un llamamiento a la prudencia.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
+      "summary": "El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla",
       "summary": "La vicepresidenta y ministra de Transición Ecológica, Sara Aagesen, apela a la Junta de Andalucía a unirse a un \"pacto de país o un pacto frente a una emergencia climática\".",
@@ -19,11 +29,6 @@
     {
       "title": "El Gobierno pide a Italia que \"reaccione\" y dice que \"no hay nadie que haya llegado de Ceuta a la Península\"",
       "summary": "La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, espera que Italia \"reaccione\" y que tenga \"claro\" que el espacio Schengen está garantizado, sin haber sido violado por ningún inmigrante llegado desde Ceuta. \"No ha habido ninguna persona que haya llegado a la Pe.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país",
-      "summary": "La vicepresidenta primera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, ha hecho un llamamiento a la prudencia.",
       "date": "2026-08-09"
     },
     {
@@ -55,32 +60,27 @@
       "title": "Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil",
       "summary": "El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a cargo incluso a familias que superan rentas de 50.000 euros anuales . La última estadística publicada por el Instituto Nacional de la Seguridad Social (INSS) incorpora otro dato que amplía el alcance del denominado «escudo social». Un detalle q.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "No molestar a Marruecos",
-      "summary": "El Gobierno de Pedro Sánchez suele ser duro y contundente solo cuando no tiene que pagar las consecuencias. También suele ser duro con los débiles y débil con los duros, pero ese es otro debate. Esta semana sigue la cuestión de Ceuta y el Gobierno mantiene un discurso muy duro siempre y cuando no pueda interpretarse co.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno pide a Italia que \"reaccione\" y dice que \"no hay nadie que haya llegado de Ceuta a la Península\"",
-      "url": "https://www.20minutos.es/nacional/gobierno-pide-italia-que-reaccione-asegura-que-no-ha-habido-ninguna-persona-que-haya-llegado-ceuta-peninsula_7023985_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:07:15.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla",
-      "url": "https://www.larazon.es/andalucia/gobierno-compromete-cubrir-mitad-coste-restauracion-superficie-afectada-niebla_202608096a787534a046ad6ebca791f7.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:40:20.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Gobierno espera que Italia \"reaccione\" y tenga claro que el espacio Schengen \"no ha sido violado\"",
+      "url": "https://www.expansion.com/economia/2026/08/09/6a7866eb468aebbd748b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T11:56:43.000Z",
+      "sourceId": "lootura-es-expansion"
     },
     {
       "title": "El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país",
       "url": "https://theobjective.com/espana/2026-08-09/gobierno-maxima-precaucion-eclipse-riesgo-incendios/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-08-09T16:10:51.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
+      "url": "https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T18:15:07.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

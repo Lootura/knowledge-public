@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra](https://www.elmundo.es/economia/empresas/2026/08/08/6a747c21e85ece5a5b8b457a.html?utm_source=lootura.com) — 2026-08-09T03:23:51.000Z
+No public source links.

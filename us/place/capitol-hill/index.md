@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Young conservatives reveal what’s top of mind as GOP, Democrats battle for 'hopeless' Gen Z voters](https://www.foxnews.com/politics/young-conservatives-reveal-whats-top-mind-gop-democrats-battle-hopeless-gen-z-voters?utm_source=lootura.com) — 2026-08-09T16:03:36.000Z
+No public source links.

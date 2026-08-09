@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
+      "summary": "Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El uso personal de Ayuso de las instituciones de la Comunidad de Madrid",
       "summary": "En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado \"dos días con el tupper de casa\" La Comunidad de.",
@@ -58,13 +63,15 @@
       "title": "«Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios",
       "summary": "La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
-      "summary": "La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
+      "url": "https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:59:10.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

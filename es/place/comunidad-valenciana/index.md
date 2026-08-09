@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península
+
+El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.
+
+Date: 2026-08-09
 
 ### Los caballos también disfrutan
 
@@ -62,12 +68,6 @@ La indignación por la crisis migratoria y la entrada masiva de miles de ilegale
 
 Date: 2026-08-02
 
-### El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante
-
-Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha percibido el temblor en la práctica totalidad de la Vega Baja, aunque no se ha recibido ninguna llamada al 112 de la Comunitat Valenciana.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Controlado el incendio en Sierra Engarcerán (Castellón)](https://theobjective.com/sociedad/2026-08-09/controlado-incendio-sierra-engarceran/?utm_source=lootura.com) — 2026-08-09T07:45:21.000Z
+- [El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península](https://www.20minutos.es/nacional/calor-las-lluvias-mantienen-aviso-diez-comunidades-este-lunes-con-tormentas-fuertes-varias-zonas-peninsula_7024048_0.html?utm_source=lootura.com) — 2026-08-09T19:09:13.000Z

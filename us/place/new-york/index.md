@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,18 +11,6 @@
 ### Woman learns man who attacked her killed a young mother years later
 
 When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.
-
-Date: 2026-08-09
-
-### Woman, 5-month-old baby die after vessel overturns in New York Harbor
-
-A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
-
-Date: 2026-08-09
-
-### Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child
-
-A woman and a 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.
 
 Date: 2026-08-09
 
@@ -35,6 +23,30 @@ Date: 2026-08-09
 ### A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News
 
 Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.
+
+Date: 2026-08-09
+
+### Woman, 5-month-old die in New York Harbor after boat capsized; Captain arrested
+
+A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
+
+Date: 2026-08-09
+
+### Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby
+
+A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.
+
+Date: 2026-08-09
+
+### Woman, 5-month-old baby die after vessel overturns in New York Harbor
+
+A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
+
+Date: 2026-08-09
+
+### Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child
+
+A woman and a 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.
 
 Date: 2026-08-09
 
@@ -56,22 +68,10 @@ LIV Golf is hosting its New York event at President Donald Trump’s National Go
 
 Date: 2026-08-09
 
-### Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races
-
-Democratic incumbents in safe districts in New York and Colorado have been ousted so far this year by primary challengers.
-
-Date: 2026-08-08
-
-### How a duck's friendship helped a golden retriever overcome health issues
-
-Justin and Tori Cannarelli of New York almost have a typical American family with their two children and a dog. But they also have one very unique member: a duck.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [Woman learns man who attacked her killed a young mother years later](https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/?utm_source=lootura.com) — 2026-08-09T06:27:08.000Z
-- [Woman, 5-month-old baby die after vessel overturns in New York Harbor](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-09T16:05:21.000Z
-- [Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child](https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com) — 2026-08-09T14:04:26.000Z
+- [Woman, 5-month-old die in New York Harbor after boat capsized; Captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-09T19:38:25.000Z
+- [Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby](https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com) — 2026-08-09T14:04:26.000Z
 - [Cosmic filaments help set first limits on dark matter's decay into gravitons](https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html?utm_source=lootura.com) — 2026-08-09T16:00:01.000Z
 - [A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News](https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html?utm_source=lootura.com) — 2026-08-09T14:35:19.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos](https://theobjective.com/sociedad/suceso/2026-08-09/colision-dos-vehiculos-cuenca-mujer-muerta-tres-heridos/?utm_source=lootura.com) — 2026-08-09T09:14:25.000Z
+No public source links.

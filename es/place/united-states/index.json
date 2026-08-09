@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,13 +43,13 @@
   ],
   "changes": [
     {
-      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
-      "summary": "\"Ahora no tenemos ninguna negociación con Estados Unidos\", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras \"no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas\" Del bloqueo naval al fin de sanciones: est.",
+      "title": "El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái",
+      "summary": "Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.",
       "date": "2026-08-09"
     },
     {
-      "title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
-      "summary": "Israel ha rechazado el plan de 15 puntos para Gaza presentado por el presidente de Estados Unidos, Donald Trump , a través de la llamada Junta de Paz, y no se retirará hasta que Hamás se desarme por completo, según ha declarado este domingo el primer ministro, Benjamín Netanyahu. La milicia palestina ha afirmado que ma.",
+      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
+      "summary": "\"Ahora no tenemos ninguna negociación con Estados Unidos\", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras \"no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas\" Del bloqueo naval al fin de sanciones: est.",
       "date": "2026-08-09"
     },
     {
@@ -95,17 +95,11 @@
   ],
   "sources": [
     {
-      "title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
-      "url": "https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T13:59:36.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
-      "url": "https://www.eldiario.es/internacional/iran-impone-seis-requisitos-reabrir-ormuz-dice-no-negociara-eeuu-incumpla-acuerdo-paz_1_13436776.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:56:09.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái",
+      "url": "https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-09T20:00:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "updatedAt": "2026-08-09T20:28:56.631Z",
   "aliases": [
     "CA",
     "CAN",
@@ -72,13 +72,7 @@
       "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T03:46:37.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
-      "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T09:00:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

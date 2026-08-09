@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "updatedAt": "2026-08-09T20:28:56.631Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -82,17 +82,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T19:56:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Syria Agrees to Reorganized Russian Military Presence",
       "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:57:53.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

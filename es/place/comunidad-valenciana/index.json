@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península",
+      "summary": "El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Los caballos también disfrutan",
       "summary": "N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradiciones de Valencia y la Comunitat Valenciana. Y menos en un mes en el que triunfan las fiestas de diferentes pueblos y localidades. Desde la Romería del Santísimo Cristo de la Salud de El Palmar -que ya destacamos la semana pasada- hasta la fiest.",
@@ -64,20 +69,15 @@
       "title": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
       "summary": "La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El terremoto de Murcia, de 4,1 grados se ha sentido también en Alicante",
-      "summary": "Numerosos ciudadanos particulares han dado cuenta por redes sociales que ha percibido el temblor en la práctica totalidad de la Vega Baja, aunque no se ha recibido ninguna llamada al 112 de la Comunitat Valenciana.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Controlado el incendio en Sierra Engarcerán (Castellón)",
-      "url": "https://theobjective.com/sociedad/2026-08-09/controlado-incendio-sierra-engarceran/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T07:45:21.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península",
+      "url": "https://www.20minutos.es/nacional/calor-las-lluvias-mantienen-aviso-diez-comunidades-este-lunes-con-tormentas-fuertes-varias-zonas-peninsula_7024048_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:09:13.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

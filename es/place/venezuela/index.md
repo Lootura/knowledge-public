@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
+
+Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.
+
+Date: 2026-08-09
 
 ### Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”
 
@@ -62,12 +68,6 @@ No son solo las malas experiencias del pasado, esa docena de diálogos y mesas d
 
 Date: 2026-08-02
 
-### Trump comparte un mensaje en su red social con un mapa de Venezuela como estado 51
-
-El presidente de Estados, Donald Trump , compartió este sábado en un mensaje de su red social, Truth Social, un mapa de Venezuela en el que el país caribeño aparece pintado con la bandera estadounidense y con la leyenda «Estado 51». No es la primera vez que el mandatario juega con la idea de la anexión de Venezuela a E.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Venezuela agradece a Albares la ayuda de España tras los terremotos de junio](https://theobjective.com/internacional/2026-08-09/venezuela-agradece-espana-ayudar-seismos/?utm_source=lootura.com) — 2026-08-09T17:03:43.000Z

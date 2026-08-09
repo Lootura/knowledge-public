@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-09T20:28:37.928Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
+      "summary": "Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta",
       "summary": "El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.",
@@ -60,6 +65,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
+      "url": "https://theobjective.com/internacional/2026-08-09/venezuela-agradece-espana-ayudar-seismos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T17:03:43.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

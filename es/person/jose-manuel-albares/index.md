@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-09T20:28:37.928Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
+
+Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.
+
+Date: 2026-08-09
 
 ### Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta
 
@@ -64,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Venezuela agradece a Albares la ayuda de España tras los terremotos de junio](https://theobjective.com/internacional/2026-08-09/venezuela-agradece-espana-ayudar-seismos/?utm_source=lootura.com) — 2026-08-09T17:03:43.000Z

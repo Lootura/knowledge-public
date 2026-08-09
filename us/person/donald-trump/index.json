@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "updatedAt": "2026-08-09T20:28:56.631Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,11 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
-      "summary": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.",
-      "date": "2026-08-09"
-    },
     {
       "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
       "summary": "The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.",
@@ -73,6 +68,11 @@
       "title": "Will Darline Graham face the same fate Pamela Evette did in South Carolina?",
       "summary": "South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.",
       "date": "2026-08-09"
+    },
+    {
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
+      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -80,12 +80,6 @@
       "title": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
       "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T14:57:31.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump to appeal White House ballroom ruling to Supreme Court",
-      "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T00:50:12.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,6 +107,24 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T18:21:45.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
+      "url": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T17:18:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
+      "url": "https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T17:55:18.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Will Darline Graham face the same fate Pamela Evette did in South Carolina?",
       "url": "https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:00:00.000Z",
@@ -123,18 +135,6 @@
       "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:00:14.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:33:46.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
-      "url": "https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T05:49:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 13

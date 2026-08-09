@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
+No public source links.

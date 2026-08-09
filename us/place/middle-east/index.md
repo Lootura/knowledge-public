@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-09T20:28:56.631Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news
+
+Here’s a look at developments across the Middle East.
+
+Date: 2026-08-09
 
 ### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
 
@@ -62,12 +68,6 @@ President Donald Trump has called for a pause on military strikes against Iran a
 
 Date: 2026-08-02
 
-### Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings
-
-Here are the most important developments in the Middle East on Saturday.
-
-Date: 2026-08-01
-
 ## Sources
 
-- [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news?utm_source=lootura.com) — 2026-08-09T09:44:02.000Z
+- [Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news](https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com) — 2026-08-09T17:55:18.000Z
