@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
+
+El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.
+
+Date: 2026-08-08
+
+### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
+
+Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
+
+Date: 2026-08-08
+
+### El uso personal de Ayuso de las instituciones de la Comunidad de Madrid
+
+En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado "dos días con el tupper de casa" La Comunidad de.
+
+Date: 2026-08-08
 
 ### Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo
 
@@ -26,21 +44,9 @@ El jueves por la mañana, mientras en Valdebebas se ultimaba el anuncio de la re
 
 Date: 2026-08-08
 
-### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
-
-El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.
-
-Date: 2026-08-08
-
 ### Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende
 
 «Anoche me pillé un moco» , esta es una frase o una expresión que no plantea ningún misterio para muchos madrileños, pero que puede resultar un poco desconcertante en otras partes de España . Quien la pronuncia no está hablando de un resfriado ni necesita un pañuelo: está reconociendo que bebió demasiado y acabó borrac.
-
-Date: 2026-08-08
-
-### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
-
-Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
 
 Date: 2026-08-08
 
@@ -62,17 +68,8 @@ Lourdes Reyzábal (Madrid, 53 años), psicóloga de formación, creó hace tres 
 
 Date: 2026-08-08
 
-### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
-
-El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid](https://www.abc.es/deportes/real-madrid/bastaron-cinco-minutos-espi-estrena-goleador-real-20260808205330-nt_amp.html?utm_source=lootura.com) — 2026-08-08T18:53:31.000Z
-- [Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande](https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt.html?utm_source=lootura.com) — 2026-08-08T18:39:44.000Z
 - [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z
 - [La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío](https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html?utm_source=lootura.com) — 2026-08-08T22:20:16.000Z
-- [Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende](https://okdiario.com/madrid/solo-madrid-saben-verdadero-significado-expresion-pillarse-moco-resto-espana-no-entiende-19137558?utm_source=lootura.com) — 2026-08-08T17:00:33.000Z
-- [Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo](https://theobjective.com/sociedad/suceso/2026-08-08/incendio-restaurante-cortar-gran-via-plaza-espana-san-bernardo/?utm_source=lootura.com) — 2026-08-08T13:49:39.000Z
+- [El uso personal de Ayuso de las instituciones de la Comunidad de Madrid](https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com) — 2026-08-08T20:22:38.000Z

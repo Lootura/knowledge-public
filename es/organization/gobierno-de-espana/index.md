@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva](https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html?utm_source=lootura.com) — 2026-08-08T18:37:14.000Z
-- [San Felón de Moncloa](https://okdiario.com/opinion/san-felon-moncloa-19148814?utm_source=lootura.com) — 2026-08-08T20:29:59.000Z
+No public source links.

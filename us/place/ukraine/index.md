@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T05:02:28.888Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan
+
+Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.
+
+Date: 2026-08-09
 
 ### Child among 4 people killed in Russian attacks on Ukraine
 
@@ -62,13 +68,8 @@ Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen 
 
 Date: 2026-08-07
 
-### Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat
-
-Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.
-
-Date: 2026-08-06
-
 ## Sources
 
 - [Child among 4 people killed in Russian attacks on Ukraine](https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/?utm_source=lootura.com) — 2026-08-08T11:27:42.000Z
 - [Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead](https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov?utm_source=lootura.com) — 2026-08-08T17:46:05.000Z
+- [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com) — 2026-08-09T04:01:14.000Z

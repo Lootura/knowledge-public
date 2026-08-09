@@ -3,10 +3,16 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### Tres comunidades se niegan a acoger a los menores procedentes de Ceuta
+
+Los vicepresidentes de Extremadura, Castilla y León y Aragón, todos de Vox, enviaron ayer sendas cartas a la ministra de Juventud e Infancia, Sira Rego, para comunicarle que no asistirán a la comisión sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y q.
+
+Date: 2026-08-09
 
 ### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
 
@@ -40,4 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z
+- [Tres comunidades se niegan a acoger a los menores procedentes de Ceuta](https://www.lavanguardia.com/politica/20260809/11610472/tres-comunidades-niegan-acoger-menores-procedentes-ceuta.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z

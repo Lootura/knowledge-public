@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T01:26:59.542Z",
+  "updatedAt": "2026-08-09T05:02:28.888Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,23 +35,18 @@
   ],
   "changes": [
     {
-      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-      "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
-      "date": "2026-08-09"
-    },
-    {
       "title": "Solar eclipse to occur next week. Here is what to know",
       "summary": "It will be visible in parts of the U.S. on Wednesday. (Image credit: Edward M. Pio Roda).",
       "date": "2026-08-09"
     },
     {
-      "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
-      "summary": "As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable \"super scooper\" amphibious aircraft.",
-      "date": "2026-08-08"
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+      "date": "2026-08-09"
     },
     {
-      "title": "How winter canola could profit Illinois farmers, improve sustainability",
-      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-soy rotation in the U.S. Midwest.",
+      "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
+      "summary": "As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable \"super scooper\" amphibious aircraft.",
       "date": "2026-08-08"
     },
     {
@@ -75,6 +70,11 @@
       "date": "2026-08-08"
     },
     {
+      "title": "How winter canola could profit Illinois farmers, improve sustainability",
+      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-soy rotation in the U.S. Midwest.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Pentagon revokes security clearance of former Air Force chief",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
       "date": "2026-08-08"
@@ -93,12 +93,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T00:36:19.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
       "title": "Iran issues new demands over Strait of Hormuz",
       "url": "https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com",
       "publishedAt": "2026-08-08T23:17:44.000Z",
@@ -109,12 +103,6 @@
       "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026?utm_source=lootura.com",
       "publishedAt": "2026-08-09T00:56:21.000Z",
       "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "How winter canola could profit Illinois farmers, improve sustainability",
-      "url": "https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T14:40:01.000Z",
-      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Why Rhode Island may oust a sitting governor over a bridge",
@@ -135,5 +123,5 @@
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 7
 }

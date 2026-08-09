@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande](https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com) — 2026-08-08T18:34:13.000Z
+No public source links.

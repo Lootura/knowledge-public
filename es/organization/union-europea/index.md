@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### 'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño
+
+35 comercios y más de 300 expediciones con recogida en tienda y reparto a domicilio. Este es el resultado que ha dejado el programa 'Última Milla' en Logroño desde su implantación a principios del mes de mayo, en el marco de Decarbomile , el plan de innovación e investigación de la Unión Europea. Este proyecto piloto b.
+
+Date: 2026-08-09
+
+### Europa naufraga en el Estrecho
+
+Noviembre de 2021. La frontera entre Polonia y Bielorrusia se convierte en un coladero. El régimen del dictador bielorruso Alexander Lukashenko –aliado-vasallo de la Rusia de Vladímir Putin– lanza contra la Unión Europea a decenas de miles de inmigrantes y refugiados procedentes de Irak y Siria, con engaños y en viajes.
+
+Date: 2026-08-09
 
 ### Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo
 
@@ -56,18 +68,7 @@ Los ministros de Interior de la Unión Europea y de los países asociados al esp
 
 Date: 2026-08-04
 
-### El Gobierno italiano reprocha a España no consultar la regularización con la UE
-
-El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.
-
-Date: 2026-08-04
-
-### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
-
-La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [España e Italia garantizan a la Unión Europea que los controles fronterizos serán "temporales"](https://www.elindependiente.com/espana/2026/08/08/espana-italia-garantizan-union-europea-controles-fronterizos-temporales/?utm_source=lootura.com) — 2026-08-08T17:23:50.000Z
+- ['Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño](https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/?utm_source=lootura.com) — 2026-08-09T03:00:00.000Z
+- [Europa naufraga en el Estrecho](https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z

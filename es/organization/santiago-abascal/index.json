@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»",
+      "summary": "El líder de Vox cree que Marruecos tiene «sometido» al presidente del Gobierno y que en esta invasión «todo ha salido según lo diseñado desde hace ...",
+      "date": "2026-08-09"
+    },
     {
       "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
       "summary": "La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...",
@@ -57,26 +62,15 @@
       "title": "Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno",
       "summary": "El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez",
-      "summary": "El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado",
-      "url": "https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T18:02:27.000Z",
+      "title": "Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»",
+      "url": "https://www.eldebate.com/espana/20260809/santiago-abascal-sanchez-primer-responsable-traicion-ceuta-politica-tambien-penalmente_447153.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T02:15:00.000Z",
       "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado",
-      "url": "https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T18:33:16.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "El uso personal de Ayuso de las instituciones de la Comunidad de Madrid",
+      "summary": "En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado \"dos días con el tupper de casa\" La Comunidad de.",
+      "date": "2026-08-08"
+    },
     {
       "title": "El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo",
       "summary": "El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.",
@@ -58,13 +63,15 @@
       "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
       "summary": "La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo",
-      "summary": "La Comunidad de Madrid ha ordenado la evacuación de los municipios de Navas del Rey, Chapinería y Colmenar del Arroyo ante el avance de los incendios forestales que afectan al oeste de la región. La decisión se ha adoptado siguiendo las recomendaciones de los servicios de emergencia, después de que la evolución de los.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El uso personal de Ayuso de las instituciones de la Comunidad de Madrid",
+      "url": "https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:22:38.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

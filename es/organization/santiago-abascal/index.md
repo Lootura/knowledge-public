@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»
+
+El líder de Vox cree que Marruecos tiene «sometido» al presidente del Gobierno y que en esta invasión «todo ha salido según lo diseñado desde hace ...
+
+Date: 2026-08-09
 
 ### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
 
@@ -62,13 +68,6 @@ El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres 
 
 Date: 2026-07-25
 
-### Abascal cree que los incendios tienen que ver con la «corrupción, el fanatismo climático y la mafia» de Sánchez
-
-El líder de Vox, Santiago Abascal , vincula los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . Según ha asegurado Abascal, «Los desastres repetidos en España no son.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado](https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com) — 2026-08-08T18:02:27.000Z
-- [Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado](https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com) — 2026-08-08T18:33:16.000Z
+- [Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»](https://www.eldebate.com/espana/20260809/santiago-abascal-sanchez-primer-responsable-traicion-ceuta-politica-tambien-penalmente_447153.html?utm_source=lootura.com) — 2026-08-09T02:15:00.000Z

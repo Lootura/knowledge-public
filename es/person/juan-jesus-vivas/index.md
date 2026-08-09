@@ -70,6 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Vivas pide unidad ante la crisis, al margen de ideologías: "Todos los ceutíes con una sola voz diciendo Ceuta está en pie"](https://www.elindependiente.com/espana/ceuta-y-melilla/2026/08/08/vivas-pide-unidad-ante-la-crisis-al-margen-de-partidos-politicos-todos-los-ceuties-con-una-sola-voz-diciendo-ceuta-esta-en-pie/?utm_source=lootura.com) — 2026-08-08T18:27:49.000Z
-- [El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta](https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com) — 2026-08-08T16:51:11.000Z
-- [El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes](https://theobjective.com/espana/2026-08-08/vivas-estima-8000-11000-inmigrantes-ceuta-insostenible/?utm_source=lootura.com) — 2026-08-08T14:12:30.000Z
+No public source links.

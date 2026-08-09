@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño",
+      "summary": "35 comercios y más de 300 expediciones con recogida en tienda y reparto a domicilio. Este es el resultado que ha dejado el programa 'Última Milla' en Logroño desde su implantación a principios del mes de mayo, en el marco de Decarbomile , el plan de innovación e investigación de la Unión Europea. Este proyecto piloto b.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Europa naufraga en el Estrecho",
+      "summary": "Noviembre de 2021. La frontera entre Polonia y Bielorrusia se convierte en un coladero. El régimen del dictador bielorruso Alexander Lukashenko –aliado-vasallo de la Rusia de Vladímir Putin– lanza contra la Unión Europea a decenas de miles de inmigrantes y refugiados procedentes de Irak y Siria, con engaños y en viajes.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo",
       "summary": "El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.",
@@ -53,25 +63,21 @@
       "title": "Los ministros de interior de la UE acuerdan mejorar los mecanismos contra la inmigración",
       "summary": "Los ministros de Interior de la Unión Europea y de los países asociados al espacio Schengen han coincidido en reforzar las fronteras exteriores, los retornos, la cooperación con terceros países y la capacidad de anticipación ante futuros episodios como la crisis migratoria de Ceuta, al tiempo que han expresado su «firm.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El Gobierno italiano reprocha a España no consultar la regularización con la UE",
-      "summary": "El ministro de Exteriores italiano, Antonio Tajani , ha criticado que España no haya consultado al resto de países de la Unión Europea sobre la reciente regularización de 500.000 migrantes, en una entrevista publicada este martes en el diario Corriere della Sera . « España está regularizando a 500.000 extranjeros indoc.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta",
-      "summary": "La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "España e Italia garantizan a la Unión Europea que los controles fronterizos serán \"temporales\"",
-      "url": "https://www.elindependiente.com/espana/2026/08/08/espana-italia-garantizan-union-europea-controles-fronterizos-temporales/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T17:23:50.000Z",
-      "sourceId": "lootura-es-el-independiente"
+      "title": "'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño",
+      "url": "https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Europa naufraga en el Estrecho",
+      "url": "https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

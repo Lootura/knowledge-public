@@ -40,4 +40,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo](https://theobjective.com/sociedad/suceso/2026-08-08/incendio-restaurante-cortar-gran-via-plaza-espana-san-bernardo/?utm_source=lootura.com) — 2026-08-08T13:49:39.000Z
+No public source links.

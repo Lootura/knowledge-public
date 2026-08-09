@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano](https://www.larazon.es/sociedad/muere-ahogado-banista-gerona-van-17-cataluna-este-verano_202608086a77864a71b42a0b5de45a2c.html?utm_source=lootura.com) — 2026-08-08T19:41:56.000Z
+No public source links.

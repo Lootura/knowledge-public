@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Dónde ver el eclipse solar sin nubes: la Aemet advierte de chubascos aislados y riesgo extremo de incendios](https://www.elconfidencial.com/espana/2026-08-08/eclipse-total-solar-espana-meteorologia-1tps_4403134/?utm_source=lootura.com) — 2026-08-08T14:55:00.000Z
-- [Aemet advierte: las nubes pueden entorpecer la visión del eclipse en Galicia y el Cantábrico](https://www.elindependiente.com/espana/2026/08/08/aemet-advierte-las-nubes-pueden-entorpecer-la-vision-del-eclipse-en-galicia-y-el-cantabrico/?utm_source=lootura.com) — 2026-08-08T16:08:13.000Z
-- [Peligro de incendios «muy alto o extremo» el día del eclipse en la Península y Baleares](https://theobjective.com/sociedad/suceso/2026-08-08/peligro-incendios-muy-alto-extremo-eclipse-peninsula-baleares/?utm_source=lootura.com) — 2026-08-08T18:07:13.000Z
+No public source links.

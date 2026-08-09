@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T01:26:59.542Z",
+  "updatedAt": "2026-08-09T05:02:28.888Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+      "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Child among 4 people killed in Russian attacks on Ukraine",
       "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.",
@@ -61,11 +66,6 @@
       "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
       "summary": "Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places overlooked by the wider world, including countries scarred by war, such as Afghanista.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
-      "summary": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov?utm_source=lootura.com",
       "publishedAt": "2026-08-08T17:46:05.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+      "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T04:01:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

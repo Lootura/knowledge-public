@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Felipe VI y Milei coinciden en la toma de posesión de De la Espriella y protagonizan un singular momento](https://www.elmundo.es/internacional/2026/08/08/6a77070ae9cf4a4e4c8b4585.html?utm_source=lootura.com) — 2026-08-08T10:54:46.000Z
+No public source links.

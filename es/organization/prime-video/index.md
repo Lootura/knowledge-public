@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### El reinado de 'The Expanse' como la mejor ciencia ficción puede acabar: las series que aspiran a dominar el género
+
+La popular serie de Prime Video siempre ha sido considerada una de las referencias de la ciencia ficción, pero nuevas producciones buscan ocupar su lugar.
+
+Date: 2026-08-09
 
 ### Disney Plus está probando una IA que entiende lo que quieres ver
 
@@ -62,12 +68,6 @@ Las franquicias ya no son sólo un reclamo para los cines . El auge de las plata
 
 Date: 2026-07-25
 
-### Discovered by Atlas
-
-Prime Video first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El reinado de 'The Expanse' como la mejor ciencia ficción puede acabar: las series que aspiran a dominar el género](https://www.larazon.es/videojuegos/series/reinado-the-expanse-como-mejor-ciencia-ficcion-puede-acabar-series-aspiran-dominar-genero_202608096a71e6d5a5690f047365120c.html?utm_source=lootura.com) — 2026-08-09T04:50:00.000Z

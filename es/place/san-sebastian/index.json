@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Noticias de otra plaga",
+      "summary": "La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: es otra plaza de San Sebastián, propicia a los niños y los ancianos como las demás, pero de cuya pavimentación no se ocupa el Ayuntamiento sino el Cantábrico . Es una playa que se recoge en torno a sí misma como si no quisiera desafiar a nadie.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Euskalmet activa la alerta amarilla por lluvia, granizo y fuertes vientos desde esta tarde durante el inicio de la Semana Grande",
       "summary": "Se espera un empeoramiento del tiempo desde las 18.00 horas hasta la medianoche, coincidiendo con el arranque de las fiestas en Donostia.",
@@ -36,13 +41,13 @@
       "date": "2026-08-08"
     },
     {
-      "title": "El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande",
-      "summary": "El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.",
+      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
+      "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
       "date": "2026-08-08"
     },
     {
-      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
-      "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
+      "title": "El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande",
+      "summary": "El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido este sábado la mecha de la Semana Grande donostiarra más 'astronómica', con un eclipse solar en pleno ecuador del programa festivo y que ha contado con los campeones del mundo de fútbol Mikel Oyarzabal y Martin Zubimendi como invitados espe.",
       "date": "2026-08-08"
     },
     {
@@ -64,11 +69,6 @@
       "title": "La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia",
       "summary": "Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Las carabelas portuguesas obligan a prohibir el baño en las playas de San Sebastián",
-      "summary": "La zona del espigón, a la altura del Kursaal, es la única en la que se permite el baño en Donostia, mientras que en arenales como los de Getaria y Zarautz se mantienen los avisos por la llegada de ejemplares de mayor dimensión.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
@@ -97,10 +97,10 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande",
-      "url": "https://www.elindependiente.com/espana/2026/08/08/alcalde-san-sebastian-homenaje-oyarzabal-zubimendi-semana-grande/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T18:34:13.000Z",
-      "sourceId": "lootura-es-el-independiente"
+      "title": "Noticias de otra plaga",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-09/noticias-otra-plaga-articulo-fernando-savater/?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 5

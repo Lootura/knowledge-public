@@ -3,10 +3,16 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
+
+### Estados Unidos, un aliado más estratégico que nunca para Marruecos
+
+Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
+
+Date: 2026-08-09
 
 ### La cronología del ajedrez político en cada crisis migratoria España-Marruecos
 
@@ -40,4 +46,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z

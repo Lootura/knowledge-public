@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T05:02:28.888Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -71,7 +71,6 @@ Date: 2026-08-08
 ## Sources
 
 - [Trump to appeal White House ballroom ruling to Supreme Court](https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/?utm_source=lootura.com) — 2026-08-09T00:50:12.000Z
-- [President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club](https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com) — 2026-08-09T00:00:19.000Z
 - [Federal funds can't be used to give test strips to drug users, raising overdose fears](https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears?utm_source=lootura.com) — 2026-08-08T10:00:00.000Z
 - [Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination](https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination?utm_source=lootura.com) — 2026-08-08T11:43:50.000Z
 - [What to know about Trump's new attempt to limit birthright citizenship](https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship?utm_source=lootura.com) — 2026-08-08T15:39:17.000Z

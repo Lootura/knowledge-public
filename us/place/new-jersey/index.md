@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club](https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com) — 2026-08-09T00:00:19.000Z
+No public source links.

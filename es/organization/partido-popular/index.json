@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta",
+      "summary": "El Partido Popular rechazó la invitación de la embajadora de Marruecos en España, Karima Benyaich, para asistir, el pasado jueves 30 de julio -día en que se produjo la histórica invasión de Ceuta por parte de decenas de miles de inmigrantes-, a la celebración con motivo de la Fiesta del Trono de Marruecos, que cada año.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
       "summary": "Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».",
@@ -58,19 +63,14 @@
       "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
       "summary": "Esta vez parece que no habrá batalla política por el reparto de menores migrantes. A diferencia de lo sucedido los dos años anteriores, cuando las llegadas a Canarias colapsaron los recursos de acogida del archipiélago , el PP se muestra resignado a desistir del choque con el Gobierno tras la masiva afluencia a Ceuta.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE",
-      "url": "https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-08T15:31:39.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta",
+      "url": "https://okdiario.com/espana/pp-rechazo-acudir-fiesta-embajada-marruecos-que-si-asistio-gobierno-plena-invasion-ceuta-19147528?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T03:49:56.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

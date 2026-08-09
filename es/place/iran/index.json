@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,6 +22,11 @@
       "title": "Irán-EEUU: victoria interrumpida, derrotas probables",
       "summary": "La ejecución del ataque del 28 de febrero fue impecable. Lo que ha fallado después no es la espada, sino el pulso de la mano que la empuña.",
       "date": "2026-08-09"
+    },
+    {
+      "title": "La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre",
+      "summary": "El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.",
+      "date": "2026-08-08"
     },
     {
       "title": "Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto",
@@ -62,19 +67,14 @@
       "title": "Podcast | Las ‘midterm’ de EEUU",
       "summary": "¿Está Donald Trump llegando debilitado a las elecciones de medio mandato de 2026? ¿Cómo influyen la guerra con Irán, la inflación, la inmigración o el desgaste de la política exterior en el voto estadounidense? En este episodio de El Mundo es tu casa , María Tellería conversa con Antonio Camuñas , profundo conocedor de.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
-      "summary": "\"Si ciertos terceros no obstaculizan este proceso, la declaración conjunta entre los dos países, que incluye consideraciones clave y puntos de acuerdo, se encuentra en las etapas finales de revisión y redacción\", dice el portavoz de Exteriores Leer.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto",
-      "url": "https://www.elmundo.es/espana/2026/08/08/6a76fe0d21efa0fc098b4570.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T10:14:57.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre",
+      "url": "https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-08T20:22:40.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "Irán-EEUU: victoria interrumpida, derrotas probables",

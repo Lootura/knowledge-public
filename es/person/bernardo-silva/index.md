@@ -3,16 +3,10 @@
 > Sigue la actividad de Bernardo Silva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/person/bernardo-silva
 
 ## Cambios recientes
-
-### Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid
-
-Gris debut de Bernardo Silva y anodinos primeros minutos del renovado Vinicius, en el amistoso ante el Ferencváros (1-2). Mourinho pide fichar: «Tenemos una plantilla corta».
-
-Date: 2026-08-08
 
 ### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
 
@@ -26,7 +20,12 @@ Bernardo Silva first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-08
 
+### Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid
+
+Gris debut de Bernardo Silva y anodinos primeros minutos del renovado Vinicius, en el amistoso ante el Ferencváros (1-2). Mourinho pide fichar: «Tenemos una plantilla corta».
+
+Date: 2026-08-08
+
 ## Fuentes
 
-- [Le bastaron cinco minutos: Espí se estrena como goleador con el Real Madrid](https://www.abc.es/deportes/real-madrid/bastaron-cinco-minutos-espi-estrena-goleador-real-20260808205330-nt_amp.html?utm_source=lootura.com) — 2026-08-08T18:53:31.000Z
 - [El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva](https://www.elmundo.es/deportes/futbol/2026/08/08/6a777fb4fc6c835c718b456f.html?utm_source=lootura.com) — 2026-08-08T19:24:47.000Z

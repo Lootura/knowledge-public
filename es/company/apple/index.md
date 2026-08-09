@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa](https://hipertextual.com/apple/iphone-copiar-a-windows-funcion-a-ios/?utm_source=lootura.com) — 2026-08-08T16:00:00.000Z
 - [Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple](https://www.larazon.es/compras/nuestra-eleccion/bajadon-400-euros-apple-watch-ultra-2-pccomponentes-esta-liquidando-uno-mejores-relojes-jamas-fabricados-apple_202608096a77ca15a046ad6ebca695eb.html?utm_source=lootura.com) — 2026-08-09T00:30:13.000Z

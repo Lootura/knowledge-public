@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta
+
+El Partido Popular rechazó la invitación de la embajadora de Marruecos en España, Karima Benyaich, para asistir, el pasado jueves 30 de julio -día en que se produjo la histórica invasión de Ceuta por parte de decenas de miles de inmigrantes-, a la celebración con motivo de la Fiesta del Trono de Marruecos, que cada año.
+
+Date: 2026-08-09
 
 ### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
 
@@ -62,12 +68,6 @@ Esta vez parece que no habrá batalla política por el reparto de menores migran
 
 Date: 2026-08-07
 
-### La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí
-
-Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z
+- [El PP rechazó acudir a la fiesta en la Embajada de Marruecos a la que sí asistió el Gobierno en plena invasión de Ceuta](https://okdiario.com/espana/pp-rechazo-acudir-fiesta-embajada-marruecos-que-si-asistio-gobierno-plena-invasion-ceuta-19147528?utm_source=lootura.com) — 2026-08-09T03:49:56.000Z

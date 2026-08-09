@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Estados Unidos, un aliado más estratégico que nunca para Marruecos
+
+Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
+
+Date: 2026-08-09
+
+### La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre
+
+El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.
+
+Date: 2026-08-08
 
 ### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
 
@@ -56,18 +68,8 @@ El incidente se produce en un área que ha sido objeto de especial atención tra
 
 Date: 2026-08-05
 
-### Donald Trump, atrapado entre la escalada y un acuerdo con Irán en las condiciones de Teherán
-
-Donald Trump y sus asesores han afirmado en más de una docena de ocasiones durante los últimos cinco meses que EEUU está "cerca" de un acuerdo con Irán. Pero si se materializa uno basado en las conversaciones entre Irán y Omán, estará muy lejos de los objetivos que el presidente estadounidense estableció al iniciar la.
-
-Date: 2026-08-05
-
-### Detienen a un hombre armado en el club de golf de Trump en Los Ángeles antes de su visita
-
-Un hombre californiano de unos 38 años de edad ha sido arrestado este domingo en el club de golf del presidente de Estados Unidos, Donald Trump, en la.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU](https://theobjective.com/internacional/2026-08-08/abogado-personal-trump-todd-blanche-fiscal-general-eeuu/?utm_source=lootura.com) — 2026-08-08T13:32:49.000Z
+- [Exclusiva | Los diarios policiales del Mundial de fútbol: Los ataques a Donald Trump y otras amenazas ultras](https://www.diariodemallorca.es/sucesos/2026/08/09/mundial-futbol-amenaza-trump-ultras-133207329.html?utm_source=lootura.com) — 2026-08-09T05:00:28.000Z
+- [La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre](https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com) — 2026-08-08T20:22:40.000Z
+- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z

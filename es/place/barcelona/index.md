@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
+
+Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
+
+Date: 2026-08-09
 
 ### El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti
 
@@ -62,16 +68,6 @@ La prensa inglesa reacciona este sábado al primer acercamiento del Barcelona po
 
 Date: 2026-08-08
 
-### El misterioso chalet en un tejado de Buenos Aires en el que un español quería dormir la siesta
-
-En lo alto de los edificios muchas ciudades cuentan su historia. En las cúpulas, tejados y esculturas se puede ver la huella del paso del tiempo. Y en Buenos Aires , donde todo recuerda a ciudades como París, Madrid o Barcelona, uno de sus edificios esconde el tesoro más enigmático de la ciudad. En la capital argentina.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Los controles de viajeros de Italia empezaron sólo en Madrid y Barcelona y se han ido extendiendo a cinco aeropuertos](https://amp.elmundo.es/espana/2026/08/08/6a773461fdddffcf728b457e.html?utm_source=lootura.com) — 2026-08-08T13:55:13.000Z
-- [Prisión para el presunto autor del homicidio de un hombre en Nou Barris](https://www.lavanguardia.com/sucesos/20260808/11610426/prision-presunto-autor-homicidio-hombre-nou-barris.html?utm_source=lootura.com) — 2026-08-08T16:37:20.000Z
-- [El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti](https://okdiario.com/deportes/barcelona-tumba-nottingham-gol-sobre-bocina-raphinha-penalti-19148714/amp?utm_source=lootura.com) — 2026-08-08T20:02:14.000Z
-- [El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego](https://okdiario.com/deportes/barcelona-pierde-udinese-ultimo-minuto-marcha-italia-sin-trofeo-veraniego-19148885?utm_source=lootura.com) — 2026-08-08T21:10:17.000Z
-- [Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: "No fue fácil para mí..."](https://okdiario.com/deportes/flick-confirma-salidas-roony-casado-araujo-del-barcelona-no-fue-facil-19149021/amp?utm_source=lootura.com) — 2026-08-08T22:22:45.000Z
+- [Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”](https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html?utm_source=lootura.com) — 2026-08-09T03:45:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -52,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos",
-      "url": "https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T20:42:30.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Las claves: el incentivo de vender una IA más poderosa que sus creadores",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-09/las-claves-el-incentivo-de-vender-una-ia-mas-poderosa-que-sus-creadores.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Estados Unidos, un aliado más estratégico que nunca para Marruecos
+
+Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
+
+Date: 2026-08-09
+
+### Los socialistas estadounidenses querrían ser españoles
+
+La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.
+
+Date: 2026-08-09
 
 ### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
 
@@ -56,19 +68,8 @@ Tenemos que hablar del telescopio solar Daniel K. Inouye de la Fundación Nacion
 
 Date: 2026-08-07
 
-### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
-
-El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
-
-Date: 2026-08-07
-
-### Estados Unidos defiende «inequívocamente» la españolidad de Ceuta y Melilla
-
-El Departamento de Estado de Estados Unidos defendió este jueves «inequívocamente» la soberanía española sobre Ceuta y Melilla, después de que.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [El modelo nuclear iraní gana adeptos entre los aliados de Estados Unidos](https://www.elmundo.es/internacional/2026/08/08/6a70ae43e9cf4a511d8b4595.html?utm_source=lootura.com) — 2026-08-08T20:42:30.000Z
-- [El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU](https://theobjective.com/internacional/2026-08-08/abogado-personal-trump-todd-blanche-fiscal-general-eeuu/?utm_source=lootura.com) — 2026-08-08T13:32:49.000Z
+- [Estados Unidos, un aliado más estratégico que nunca para Marruecos](https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com) — 2026-08-09T04:00:00.000Z
+- [Los socialistas estadounidenses querrían ser españoles](https://theobjective.com/elsubjetivo/opinion/2026-08-09/socialistas-estadounidenses-espanoles-articulo-benito-arrunada/?utm_source=lootura.com) — 2026-08-09T03:25:00.000Z

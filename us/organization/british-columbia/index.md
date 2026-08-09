@@ -3,7 +3,7 @@
 > Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T05:02:28.888Z
 - Canonical: https://atlas.lootura.com/us/organization/british-columbia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia
 
 The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.
+
+Date: 2026-08-09
+
+### Wildfires in western Canada forces more than 20,000 people to evacuate
+
+British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
 
 Date: 2026-08-09
 
@@ -34,6 +40,6 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Wildfires force 20,000 to flee as British Columbia declares state of emergency](https://www.pbs.org/newshour/world/wildfires-force-20000-to-flee-as-british-columbia-declares-state-of-emergency?utm_source=lootura.com) — 2026-08-08T22:39:49.000Z
+- [Wildfires in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-09T03:46:37.000Z
 - [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com) — 2026-08-08T20:30:51.000Z
-- [Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia](https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html?utm_source=lootura.com) — 2026-08-09T01:12:03.000Z
+- [Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia](https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html?utm_source=lootura.com) — 2026-08-09T04:38:21.000Z

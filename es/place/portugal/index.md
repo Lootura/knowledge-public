@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [La crisis de Ceuta aviva las críticas contra el Mundial 2030 junto a Marruecos: “No podemos agachar la cabeza siempre”](https://www.eldiario.es/politica/crisis-ceuta-aviva-criticas-mundial-2030-marruecos-no-agachar-cabeza_1_13434826.html?utm_source=lootura.com) — 2026-08-08T20:22:39.000Z

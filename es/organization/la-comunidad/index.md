@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### El uso personal de Ayuso de las instituciones de la Comunidad de Madrid
+
+En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado "dos días con el tupper de casa" La Comunidad de.
+
+Date: 2026-08-08
 
 ### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional
 
 Date: 2026-07-24
 
-### Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo
-
-La Comunidad de Madrid ha ordenado la evacuación de los municipios de Navas del Rey, Chapinería y Colmenar del Arroyo ante el avance de los incendios forestales que afectan al oeste de la región. La decisión se ha adoptado siguiendo las recomendaciones de los servicios de emergencia, después de que la evolución de los.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El uso personal de Ayuso de las instituciones de la Comunidad de Madrid](https://www.eldiario.es/madrid/personal-ayuso-instituciones-comunidad-madrid_1_13432185.html?utm_source=lootura.com) — 2026-08-08T20:22:38.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T01:26:59.542Z",
+  "updatedAt": "2026-08-09T05:02:28.888Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -83,12 +83,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
-      "url": "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T00:00:19.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
       "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears?utm_source=lootura.com",
       "publishedAt": "2026-08-08T10:00:00.000Z",
@@ -131,5 +125,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 9
 }

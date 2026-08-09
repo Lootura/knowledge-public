@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T05:02:28.888Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,12 +14,6 @@ Negotiations are ongoing between Iran and Oman regarding the management of the S
 
 Date: 2026-08-09
 
-### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
-
-While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
-
-Date: 2026-08-08
-
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
 The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
@@ -29,6 +23,12 @@ Date: 2026-08-08
 ### Iran issues new demands over Strait of Hormuz
 
 Iran on Saturday issued a new list of demands to the United States, complicating efforts to reopen the critical Strait of Hormuz. NBC News’ Keir Simmons reports from Doha.
+
+Date: 2026-08-08
+
+### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
+
+While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
 
 Date: 2026-08-08
 
@@ -73,4 +73,3 @@ Date: 2026-08-07
 - [Talks between Iran, Oman continue over Strait of Hormuz](https://www.cbsnews.com/video/iran-oman-continue-talks-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-09T00:44:59.000Z
 - [Iran issues new demands over Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547?utm_source=lootura.com) — 2026-08-08T23:17:44.000Z
 - [The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.](https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?utm_source=lootura.com) — 2026-08-08T19:56:38.000Z
-- [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com) — 2026-08-08T14:57:24.000Z

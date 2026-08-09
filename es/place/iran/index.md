@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -13,6 +13,12 @@
 La ejecución del ataque del 28 de febrero fue impecable. Lo que ha fallado después no es la espada, sino el pulso de la mano que la empuña.
 
 Date: 2026-08-09
+
+### La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre
+
+El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.
+
+Date: 2026-08-08
 
 ### Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto
 
@@ -62,13 +68,7 @@ Date: 2026-08-06
 
 Date: 2026-08-06
 
-### Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz
-
-"Si ciertos terceros no obstaculizan este proceso, la declaración conjunta entre los dos países, que incluye consideraciones clave y puntos de acuerdo, se encuentra en las etapas finales de revisión y redacción", dice el portavoz de Exteriores Leer.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto](https://www.elmundo.es/espana/2026/08/08/6a76fe0d21efa0fc098b4570.html?utm_source=lootura.com) — 2026-08-08T10:14:57.000Z
+- [La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre](https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html?utm_source=lootura.com) — 2026-08-08T20:22:40.000Z
 - [Irán-EEUU: victoria interrumpida, derrotas probables](https://www.larazon.es/internacional/iraneeuu-victoria-interrumpida-derrotas-probables_202608096a77d63ba5690f04736f6896.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T01:22:02.000Z

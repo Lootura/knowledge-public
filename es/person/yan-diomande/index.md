@@ -52,4 +52,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Roc Nation, el imperio deportivo de Jay Z que conquista el Bernabéu con Vinicius y Diomande](https://www.abc.es/deportes/real-madrid/roc-nation-imperio-deportivo-jay-conquista-bernabeu-20260807010944-nt.html?utm_source=lootura.com) — 2026-08-08T18:39:44.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T01:26:59.542Z",
+  "updatedAt": "2026-08-09T05:02:28.888Z",
   "aliases": [
     "CA",
     "CAN",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
-      "summary": "The Bald Range wildfire was first reported on Friday evening.",
-      "date": "2026-08-08"
+      "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
+      "summary": "British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.",
+      "date": "2026-08-09"
     },
     {
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
       "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
+      "summary": "The Bald Range wildfire was first reported on Friday evening.",
       "date": "2026-08-08"
     },
     {
@@ -59,18 +64,13 @@
       "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
       "summary": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Flights canceled as WestJet flight attendants strike over pay dispute",
-      "summary": "WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
+      "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
       "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:08:46.000Z",
+      "publishedAt": "2026-08-09T03:46:37.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

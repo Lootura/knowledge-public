@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.json",
   "description": "Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T16:29:47.813Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [
     "Southern Provinces",
     "Spanish Sahara",
     "West Sahara"
   ],
   "changes": [
+    {
+      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "summary": "Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.",
+      "date": "2026-08-09"
+    },
     {
       "title": "La cronología del ajedrez político en cada crisis migratoria España-Marruecos",
       "summary": "Las relaciones entre países vecinos suelen ser complejas, y España y Marruecos no son excepción. Ambos en una paradoja constante: la necesidad de cooperar en ámbitos estratégicos y la sucesión de crisis diplomáticas que ponen a prueba sus lazos. El punto de partida fue la Marcha Verde, cuando el Sáhara Occidental se er.",
@@ -41,6 +46,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "url": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

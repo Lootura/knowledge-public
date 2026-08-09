@@ -3,20 +3,26 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-09T05:02:28.888Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
-### Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate
+### Wildfires in western Canada forces more than 20,000 people to evacuate
 
-The Bald Range wildfire was first reported on Friday evening.
+British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
 ### Canada Wildfires: What to Know About Fires in British Columbia and Ontario
 
 Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.
+
+Date: 2026-08-08
+
+### Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate
+
+The Bald Range wildfire was first reported on Friday evening.
 
 Date: 2026-08-08
 
@@ -62,13 +68,7 @@ Labor talks resumed on Sunday between the airline and union representing 4,400 f
 
 Date: 2026-08-02
 
-### Flights canceled as WestJet flight attendants strike over pay dispute
-
-WestJet canceled more than 300 flights as of early Sunday, snarling travel plans in Canada in the middle of a three-day weekend.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-08T16:08:46.000Z
+- [Wildfires in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-09T03:46:37.000Z
 - [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html?utm_source=lootura.com) — 2026-08-08T20:30:51.000Z

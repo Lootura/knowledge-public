@@ -28,5 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Hunter Biden se derrumba al hablar de su padre: «El cáncer se ha extendido»](https://www.abc.es/internacional/hunter-biden-derrumba-hablar-enfermedad-padre-cancer-20260808202214-nt.html?utm_source=lootura.com) — 2026-08-08T18:43:57.000Z
-- [El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»](https://okdiario.com/internacional/hijo-joe-biden-revela-que-cancer-padre-extendido-hecho-metastasis-muy-doloroso-19148400?utm_source=lootura.com) — 2026-08-08T16:48:34.000Z
+No public source links.

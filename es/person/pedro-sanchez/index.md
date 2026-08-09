@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -14,6 +14,24 @@
 
 Date: 2026-08-09
 
+### Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»
+
+El líder de Vox cree que Marruecos tiene «sometido» al presidente del Gobierno y que en esta invasión «todo ha salido según lo diseñado desde hace ...
+
+Date: 2026-08-09
+
+### Ramón Arcusa y Teresa Giménez Barbat: «Pedro Sánchez es un psicópata con una tenacidad terrorífica»
+
+«Pedro Sánchez es un psicópata con una tenacidad terrorífica». Así define Teresa Giménez Barbat , antopóloga, escritora y ex eurodiputada de Ciudadanos, al presidente del Gobierno. «Sánchez es malvado : lo lleva en la sangre sin saberlo», remata el cantante, compositor y productor musical, Ramón Arcusa . Ambos han escr.
+
+Date: 2026-08-09
+
+### Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta
+
+Dicha acusación debe ser promovida por un cuarto de los diputados del Congreso y aprobada por la mayoría absoluta para tramitarse Leer.
+
+Date: 2026-08-08
+
 ### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
 
 Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
@@ -23,12 +41,6 @@ Date: 2026-08-08
 ### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
 
 La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...
-
-Date: 2026-08-08
-
-### Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta
-
-Dicha acusación debe ser promovida por un cuarto de los diputados del Congreso y aprobada por la mayoría absoluta para tramitarse Leer.
 
 Date: 2026-08-08
 
@@ -56,22 +68,9 @@ Exige un "giro estratégico" en las relaciones con Marruecos: la senda del "apac
 
 Date: 2026-08-08
 
-### La crisis de Ceuta lleva al límite el pulso entre Sánchez y Meloni
-
-El presidente del Gobierno y la primera ministra no han ocultado sus diferencias desde la llegada de la italiana al poder.
-
-Date: 2026-08-08
-
-### El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta
-
-El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.
-
-Date: 2026-08-08
-
 ## Fuentes
 
 - [Los ministros en el punto de mira por su gestión en la crisis migratoria](https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com) — 2026-08-09T00:13:23.000Z
-- [Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado](https://www.eldebate.com/espana/20260808/llamamiento-vox-todos-partidos-promover-investigue-sanchez-delito-traicion-contra-seguridad-estado_447606.html?utm_source=lootura.com) — 2026-08-08T18:02:27.000Z
+- [Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»](https://www.eldebate.com/espana/20260809/santiago-abascal-sanchez-primer-responsable-traicion-ceuta-politica-tambien-penalmente_447153.html?utm_source=lootura.com) — 2026-08-09T02:15:00.000Z
 - [Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta](https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html?utm_source=lootura.com) — 2026-08-08T20:43:21.000Z
-- [Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado](https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com) — 2026-08-08T18:33:16.000Z
-- [El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE](https://theobjective.com/espana/politica/2026-08-08/pp-politica-migratoria-sanchez-aisle-espana-ue/?amp=&utm_source=lootura.com) — 2026-08-08T15:31:39.000Z
+- [Ramón Arcusa y Teresa Giménez Barbat: «Pedro Sánchez es un psicópata con una tenacidad terrorífica»](https://okdiario.com/espana/ramon-arcusa-teresa-gimenez-barbat-pedro-sanchez-psicopata-tenacidad-terrorifica-19148975?utm_source=lootura.com) — 2026-08-09T03:52:02.000Z

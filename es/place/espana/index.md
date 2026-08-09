@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-09T05:02:04.315Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -20,63 +20,63 @@ Antes y después de cada visita papal a un país surge siempre la pregunta de su
 
 Date: 2026-08-09
 
-### Mapa del eclipse solar del 12 de agosto en España: ¿dónde se podrá ver al 100%? ¿Cómo elegir la mejor ubicación?
+### Luis Olazábal (Julius Baer): “La valoración no es hoy un problema general del mercado”
 
-Los expertos recomiendan planificar con antelación tanto el lugar de observación como los desplazamientos, ya que se prevé una importante afluencia de personas hacia la franja de totalidad Leer.
+En un contexto de incertidumbre geopolítica, auge de la IA e impulso de la autonomía estratégica, Luis Olazábal apuesta por una mayor diversificación de las carteras. Responsable de soluciones de inversión para España de Julius Baer, donde antes fue asesor sénior de inversiones, mantiene una visión positiva sobre la re.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Un regalo astronómico inédito: el eclipse total nos dejará cazar las Lágrimas de San Lorenzo a plena luz del día
+### Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España
 
-El próximo 12 de agosto, España no solo vivirá su primer eclipse solar total desde 1905, sino que el fenómeno dejará imágenes poco frecuentes . Según adelanta Francisco Torcal , profesor titular de Física Aplicada de la Universidad de Zaragoza , la repentina oscuridad permitirá observar las famosas perseidas -o lágrima.
+Johanna Mecke, una estudiante alemana de 25 años, decidió adelantar este año sus vacaciones en España para esquivar el calor del verano. “Vinimos la última semana de mayo y fue perfecto. Tuvimos playa y temperaturas veraniegas, pero no superamos los 30 grados”, relata en una llamada telefónica. Viaja con frecuencia al.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo
+### El eclipse del siglo en España, en mapas
 
-Policía Local de Madrid y agentes de Movilidad del Ayuntamiento han cortado este sábado la Gran Vía entre Plaza de España y San Bernardo por un incendio en un restaurante de la cadena Ôven, situado en el número 55 de esta céntrica calle. Hay un #incendio en la cocina de un restaurante en Gran Vía. @BomberosMad está tra.
+La secuencia de eclipses que vivirá el país de aquí a 2028 es rara pero no inédita. El de este agosto, de hecho, es una copia de otro que ya atravesó la península en 1900.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### El PP lamenta que la «irresponsable» política migratoria de Sánchez aisle a España en la UE
+### El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”
 
-Los populares añaden que «ante una crisis migratoria sin precedentes, el Gobierno no puede negarse a comparecer».
+La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
+### ¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total
 
-Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.
+Este miércoles 12 de agosto, por unos segundos y en casi 4.000 municipios de España, se hará de noche en pleno atardecer. Será uno de los mayores espectáculos astronómicos que existen, pero también de los más breves. Tendremos una ventana de apenas dos segundos (desde Derio, Vizcaya) hasta un máximo de 110 (por ejemplo.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Más de 8.000 inmigrantes, el regalo de Marruecos
+### Manual de supervivencia visual para el eclipse: qué hacer y qué no para mirar al sol
 
-Como era de esperar, la «invasión» de Ceuta ha dejado varios regalos, por cierto, bastante costosos para España. Tras el ridículo de Marlaska, que se ha convertido en una caricatura de sí mismo, y de la Comisión Europea y los ministros de Interior, el desastre se ha saldado con entre 8.000 y 11.000 inmigrantes que se h.
+Este artículo se publicó originalmente en The Conversation . CONCHI LILLO // El próximo 12 de agosto de 2026 , entre las siete y las nueve de la tarde, España será testigo de un evento astronómico histórico. La Luna ocultará el Sol en una franja que cruzará media península generando un eclipse total, mientras que en el.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende
+### Si tu nómina de septiembre ya está en el aire, agosto es el mes de moverla: las cuentas que la reciben sin esperar
 
-«Anoche me pillé un moco» , esta es una frase o una expresión que no plantea ningún misterio para muchos madrileños, pero que puede resultar un poco desconcertante en otras partes de España . Quien la pronuncia no está hablando de un resfriado ni necesita un pañuelo: está reconociendo que bebió demasiado y acabó borrac.
+Agosto es el mes en que menos gente mira su cuenta corriente. Con media España fuera y la otra media contando los días, cambiar de banco parece lo último que apetece. Y sin embargo es la ventana tranquila para hacerlo : si abres la cuenta ahora, con calma, en septiembre la nómina cae ya en el sitio nuevo y no llegas a.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
-### Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta
+### La joyería de Córdoba hace historia: Europa le concede una distinción inédita para el sector
 
-El Gobierno, tras la invasión a Ceuta no detectada por nuestros servicios según Marlaska, ha puesto boyas «disuasorias» en la frontera . Su objetivo, según informaron, es para evitar la llegada de inmigrantes a nuestras fronteras. OKDIARIO comprueba la poca dificultad que hay para pasar de Marruecos a España. Un report.
+La Unión Europea ha concedido a la joyería de Córdoba la primera Indicación Geográfica de Productos Artesanales e Industriales (IGAI) otorgada en España , una figura que protege su nombre en todo el mercado comunitario y certifica que sus piezas solo podrán comercializarse bajo esta denominación cuando hayan sido elabo.
 
-Date: 2026-08-08
+Date: 2026-08-09
 
 ## Fuentes
 
 - [Los ministros en el punto de mira por su gestión en la crisis migratoria](https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com) — 2026-08-09T00:13:23.000Z
-- [Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva](https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html?utm_source=lootura.com) — 2026-08-08T18:37:14.000Z
-- [Un regalo astronómico inédito: el eclipse total nos dejará cazar las Lágrimas de San Lorenzo a plena luz del día](https://www.elconfidencial.com/espana/2026-08-08/eclipse-solar-total-espana-agosto-1tps_4403163/?utm_source=lootura.com) — 2026-08-08T15:46:00.000Z
+- [Luis Olazábal (Julius Baer): “La valoración no es hoy un problema general del mercado”](https://cincodias.elpais.com/mercados-financieros/2026-08-09/luis-olazabal-julius-baer-la-valoracion-no-es-hoy-un-problema-general-del-mercado.html?utm_source=lootura.com) — 2026-08-09T03:30:00.000Z
+- [Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España](https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html?utm_source=lootura.com) — 2026-08-09T03:45:01.000Z
 - [Los rostros de los desaparecidos de Ceuta](https://www.elmundo.es/cronica/2026/08/08/6a74ca8821efa0ec258b4592.html?utm_source=lootura.com) — 2026-08-08T20:43:32.000Z
-- [Mapa del eclipse solar del 12 de agosto en España: ¿dónde se podrá ver al 100%? ¿Cómo elegir la mejor ubicación?](https://www.elmundo.es/ciencia/2026/08/08/6a75f85be9cf4a4e4c8b456d.html?utm_source=lootura.com) — 2026-08-08T12:10:28.000Z
-- [Más de 8.000 inmigrantes, el regalo de Marruecos](https://www.larazon.es/opinion/mas-8000-inmigrantes-regalo-marruecos_202608086a778573a046ad6ebca63cb5.html?utm_source=lootura.com) — 2026-08-08T19:37:30.000Z
+- [El eclipse del siglo en España, en mapas](https://elordenmundial.com/mapas-eclipse-espana/?utm_source=lootura.com) — 2026-08-09T05:00:00.000Z
+- [El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”](https://elpais.com/ciencia/2026-08-09/el-eclipse-solar-total-o-el-dia-de-las-dos-noches-deberiamos-sentirnos-afortunados-de-poder-vivir-algo-asi.html?utm_source=lootura.com) — 2026-08-09T03:15:00.000Z
+- [¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total](https://elpais.com/ciencia/2026-08-09/que-pasara-cuando-la-luna-tape-el-sol-en-que-debes-fijarte-para-apreciar-el-eclipse-total.html?utm_source=lootura.com) — 2026-08-09T03:30:00.000Z
+- [Manual de supervivencia visual para el eclipse: qué hacer y qué no para mirar al sol](https://www.lamarea.com/2026/08/09/eclipse-sol-que-hacer-y-que-no/?utm_source=lootura.com) — 2026-08-09T05:00:00.000Z
+- [Si tu nómina de septiembre ya está en el aire, agosto es el mes de moverla: las cuentas que la reciben sin esperar](https://www.larazon.es/economia/nomina-septiembre-esta-aire-agosto-mes-moverla-cuentas-que-reciben-esperar_202608096a77fb6e71b42a0b5de4f1aa.html?utm_source=lootura.com) — 2026-08-09T04:00:46.000Z
 - [Los costos de los viajes](https://www.larazon.es/sociedad/costos-viajes_202608096a774868a5690f04736eabd0.html?utm_source=lootura.com) — 2026-08-09T00:00:14.000Z
-- [Sólo los de Madrid saben el verdadero significado de la expresión «pillarse un moco»: en el resto de España no se entiende](https://okdiario.com/madrid/solo-madrid-saben-verdadero-significado-expresion-pillarse-moco-resto-espana-no-entiende-19137558?utm_source=lootura.com) — 2026-08-08T17:00:33.000Z
-- [Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta](https://okdiario.com/espana/reportero-okdiario-muestra-como-saltar-ridiculas-boyas-disuasorias-puestas-gobierno-invasion-ceuta-19148414?utm_source=lootura.com) — 2026-08-08T17:30:20.000Z
-- [Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado](https://theobjective.com/espana/politica/2026-08-08/vox-pide-activar-articulo-102-investigar-sanchez-traicion-estado/?utm_source=lootura.com) — 2026-08-08T18:33:16.000Z

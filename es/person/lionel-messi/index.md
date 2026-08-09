@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Fallece el padre de Leo Messi a los 68 años](https://www.elindependiente.com/espana/2026/08/08/fallece-el-padre-de-leo-messu-a-los-68-anos/?utm_source=lootura.com) — 2026-08-08T14:02:37.000Z
+No public source links.

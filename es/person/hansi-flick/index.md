@@ -28,5 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego](https://okdiario.com/deportes/barcelona-pierde-udinese-ultimo-minuto-marcha-italia-sin-trofeo-veraniego-19148885?utm_source=lootura.com) — 2026-08-08T21:10:17.000Z
-- [Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: "No fue fácil para mí..."](https://okdiario.com/deportes/flick-confirma-salidas-roony-casado-araujo-del-barcelona-no-fue-facil-19149021/amp?utm_source=lootura.com) — 2026-08-08T22:22:45.000Z
+No public source links.

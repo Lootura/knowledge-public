@@ -1,16 +1,21 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-09T05:02:04.315Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos",
+      "summary": "El Gobierno «va a utilizar todos los resortes del Estado para garantizar la seguridad de los ceutíes», aseguró el presidente tras su visita a la ciudad autónoma....",
+      "date": "2026-08-08"
+    },
     {
       "title": "Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta",
       "summary": "El Gobierno, tras la invasión a Ceuta no detectada por nuestros servicios según Marlaska, ha puesto boyas «disuasorias» en la frontera . Su objetivo, según informaron, es para evitar la llegada de inmigrantes a nuestras fronteras. OKDIARIO comprueba la poca dificultad que hay para pasar de Marruecos a España. Un report.",
@@ -19,11 +24,6 @@
     {
       "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
       "summary": "La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos",
-      "summary": "El Gobierno «va a utilizar todos los resortes del Estado para garantizar la seguridad de los ceutíes», aseguró el presidente tras su visita a la ciudad autónoma....",
       "date": "2026-08-08"
     },
     {
@@ -68,19 +68,7 @@
       "url": "https://amp.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html?utm_source=lootura.com",
       "publishedAt": "2026-08-08T20:44:48.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Un reportero de OKDIARIO muestra cómo saltar las ridículas boyas «disuasorias» puestas por el Gobierno tras la invasión de Ceuta",
-      "url": "https://okdiario.com/espana/reportero-okdiario-muestra-como-saltar-ridiculas-boyas-disuasorias-puestas-gobierno-invasion-ceuta-19148414?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T17:30:20.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-08-08/gobierno-desplegar-todos-procesos-acogida-menores-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T16:51:11.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

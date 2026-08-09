@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html?utm_source=lootura.com) — 2026-08-08T14:57:24.000Z
+No public source links.
