@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T01:40:32.163Z",
+  "generatedAt": "2026-08-09T03:24:58.376Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|98|1786238798581",
+    "signature": "1.18.0|99|1786238798581",
     "version": "1.18.0",
-    "build": 98,
+    "build": 99,
     "latestEntityUpdatedAt": "2026-08-09T01:26:38.581Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-08-09T01:26:38.581Z",
-      "score": 1687,
+      "score": 1679,
       "sourceCount": 932,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/organization/santiago-abascal",
         "path": "/es/organization/santiago-abascal",
         "updatedAt": "2026-08-09T01:26:38.581Z",
-        "score": 1653,
+        "score": 1645,
         "sourceCount": 13,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-09T01:26:38.581Z",
-        "score": 1648,
+        "score": 1640,
         "sourceCount": 647,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/barcelona",
         "path": "/es/place/barcelona",
         "updatedAt": "2026-08-09T01:26:38.581Z",
-        "score": 1644,
+        "score": 1636,
         "sourceCount": 125,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/juan-jesus-vivas",
         "path": "/es/person/juan-jesus-vivas",
         "updatedAt": "2026-08-09T01:26:38.581Z",
-        "score": 1639,
+        "score": 1631,
         "sourceCount": 21,
         "isBreaking": false,
         "isPinned": false
