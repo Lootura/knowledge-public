@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
+
+Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.
+
+Date: 2026-08-10
 
 ### Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’](https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race?utm_source=lootura.com) — 2026-08-10T13:00:44.000Z

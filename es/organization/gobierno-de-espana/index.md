@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»
+
+El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.
+
+Date: 2026-08-10
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
+
+Date: 2026-08-10
 
 ### Sánchez y su banda mora
 
@@ -56,18 +68,7 @@ Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autóno
 
 Date: 2026-08-04
 
-### Los ministros de Interior de la UE se reúnen hoy para tratar la crisis ceutí entre críticas a la política migratoria de España
-
-Una crisis migratoria sin precedentes y que ha traspasado fronteras. Lo vivido en Ceuta el pasado jueves con la entrada de decenas de miles de personas ha supuesto un choque inédito entre el Gobierno de España y varios de sus socios europeos. Finlandia , Dinamarca , Países Bajos , pero sobre todo Italia , han criticado.
-
-Date: 2026-08-04
-
-### Europa advierte que los organismos contra la corrupción de Sánchez se ahogan sin presupuestos
-
-Europa también pone en cuestión las políticas de Pedro Sánchez para hacer frente a la corrupción. Mientras que la política migratoria del Gobierno español se debate en Bruselas después de que 22 de los 27 países que conforman la Unión Europea protestasen por la regularización masiva de inmigrantes y la crisis de Ceuta,.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Vox apoya los controles fronterizos de Italia pero no que Sánchez responda con la misma medida: "Busca provocar un conflicto"](https://www.20minutos.es/nacional/vox-apoya-los-controles-fronterizos-italia-pero-no-que-sanchez-responda-con-misma-medida-busca-provocar-un-conflicto_7024196_0.html?utm_source=lootura.com) — 2026-08-10T11:00:12.000Z
+- [El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»](https://www.abc.es/espana/psoe-ceuta-descarta-nuevo-asalto-habla-solo-20260810095442-nt.html?utm_source=lootura.com) — 2026-08-10T16:01:33.000Z
+- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z

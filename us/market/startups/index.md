@@ -3,10 +3,16 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
+
+### Boeing is selling its air taxi startups to Archer Aviation
+
+Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero , which has been developing an autonomous electric aircraft; SkyGrid , which.
+
+Date: 2026-08-10
 
 ### Electric air taxis go to war
 
@@ -34,4 +40,5 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Scientists up in arms about cuts to UK physics and astronomy](https://www.nature.com/articles/d41586-026-02460-1?utm_source=lootura.com) — 2026-08-10T05:24:13.998Z
+- [The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
+- [Boeing is selling its air taxi startups to Archer Aviation](https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi?utm_source=lootura.com) — 2026-08-10T13:51:46.000Z

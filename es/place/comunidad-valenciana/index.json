@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial",
+      "summary": "ESET España y Espai Aero CV han firmado un acuerdo de colaboración para reforzar la ciberseguridad de las empresas que forman parte del ecosistema aeroespacial de la Comunidad Valenciana . La alianza contempla el desarrollo de iniciativas de formación, divulgación técnica y asesoramiento especializado con el objetivo d.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península",
       "summary": "El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.",
@@ -64,13 +69,15 @@
       "title": "Sánchez desplegará 2.500 agentes en la Comunidad Valenciana por el eclipse mientras desprotege Ceuta",
       "summary": "Con los ojos de España entera pendientes de la invasión de Ceuta por parte de miles y miles de ilegales procedentes de Marruecos, el Gobierno de España prepara en la Comunidad Valenciana un dispositivo especial de seguridad para el eclipse del 12 de agosto, el día del eclipse , que estará integrado por 2.500 efectivos.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
-      "summary": "La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial",
+      "url": "https://theobjective.com/economia/2026-08-10/eset-espai-ciberseguridad-aeroespacial/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:11:29.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

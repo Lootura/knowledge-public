@@ -1,0 +1,40 @@
+{
+  "id": "usa-san-jose",
+  "name": "San José",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/san-jose",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/san-jose",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/san-jose/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/san-jose/index.json",
+  "description": "Follow San José, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Boeing is selling its air taxi startups to Archer Aviation",
+      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero , which has been developing an autonomous electric aircraft; SkyGrid , which.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "San José first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "7.4 earthquake strikes western Colombia, dozens of deaths reported",
+      "url": "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:20:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Boeing is selling its air taxi startups to Archer Aviation",
+      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:51:46.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión](https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com) — 2026-08-09T23:33:33.000Z
+No public source links.

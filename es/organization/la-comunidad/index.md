@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios
+
+La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar infraestructuras dañadas y prestar asistencia veterinaria. A e.
+
+Date: 2026-08-10
 
 ### La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganadería
 
 Date: 2026-08-06
 
-### Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes
-
-La Comunidad de Madrid destinará este año tres millones de euros a la convocatoria de ayudas para la producción de largometrajes, la mayor dotación económica desde la creación de este programa de apoyo al sector audiovisual. El presupuesto supone un incremento del 50 por ciento respecto a las convocatorias de 2024 y 20.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios](https://www.abc.es/espana/madrid/madrid-destinara-millon-euros-ayudas-agricultores-ganaderos-20260810155948-nt.html?utm_source=lootura.com) — 2026-08-10T15:44:23.000Z

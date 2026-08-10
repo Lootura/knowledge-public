@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Sources
 
 - [How Spain’s migration surge tested E.U. border policy](https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
-- [How to spot the Perseid meteor shower, a summer light show that promises to dazzle](https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle?utm_source=lootura.com) — 2026-08-09T22:05:27.000Z

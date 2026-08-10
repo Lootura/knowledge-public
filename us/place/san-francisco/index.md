@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco](https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html?utm_source=lootura.com) — 2026-08-09T15:47:53.000Z
+No public source links.

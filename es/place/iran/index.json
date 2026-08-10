@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -21,6 +21,21 @@
     {
       "title": "Un Gobierno en emergencia permanente",
       "summary": "Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox",
+      "summary": "Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
+      "summary": "Este acercamiento entre Teherán y Mascate surge de años de cooperación entre ambos Gobiernos Leer.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán",
+      "summary": "Las empresas del índice Stoxx Europe 600 están en camino de registrar un aumento del 22% de sus beneficios durante el segundo trimestre.",
       "date": "2026-08-10"
     },
     {
@@ -52,36 +67,33 @@
       "title": "La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre",
       "summary": "El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto",
-      "summary": "Reclaman al Gobierno que concluya primero los \"expedientes individualizados\" de cada niño y avanzan que impugnarán judicialmente aquellos \"que no finalicen con el retorno a Marruecos\" Leer.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
-      "summary": "Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán",
-      "summary": "El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:01:54.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox",
+      "url": "https://www.abc.es/espana/consejeros-infancia-pp-acudiran-reunion-gobierno-diferencia-20260810135200-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:52:33.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
+      "url": "https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:15:22.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Un Gobierno en emergencia permanente",
       "url": "https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/10/6a79d2f3e5fdea98298b4577.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:34:54.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

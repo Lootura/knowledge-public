@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
-      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
+      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
+      "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
       "date": "2026-08-10"
     },
     {
-      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
-      "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
+      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
+      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
       "date": "2026-08-10"
     },
     {
@@ -68,19 +68,7 @@
       "url": "https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T11:42:39.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
-      "url": "https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:12:18.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
-      "url": "https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T10:30:25.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado](https://www.elconfidencial.com/espana/andalucia/2026-08-10/incendio-gallardos-personan-acusacion-juzgado-familiares_4403766/?utm_source=lootura.com) — 2026-08-10T10:27:00.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa](https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/?utm_source=lootura.com) — 2026-08-10T15:25:29.000Z

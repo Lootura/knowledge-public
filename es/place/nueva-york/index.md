@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Tráiler de ‘The Only Living Pickpocket in New York’: Los Oscar le deben una nominación a John Turturro
+
+El cine es el único arte capaz de capturar la esencia de un lugar. El celuloide tiene a verdaderos expertos dentro de la radiografía urbana . Ahí está Fellini con Roma, Wong Kar-wai con Hong Kong o Woody Allen con Nueva York. Ahora, es precisamente esta última la que vuelve a contar con una oda incondicional de la mano.
+
+Date: 2026-08-10
 
 ### Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York
 
@@ -62,12 +68,7 @@ Cualquier guionista medianamente apañado podría convertir la vida del director
 
 Date: 2026-08-02
 
-### Todo lo que debes recordar del Universo Cinematográfico de Marvel para disfrutar mejor ‘Spider-Man: Brand New Day’
-
-Spider-Man: Brand New Day , la nueva entrega de la saga del vecino amistoso de Nueva York, no solo es una gran película del querido héroe . También, es una de las mejores cintas de superhéroes de los últimos años. Y el motivo es evidente. La cinta, dirigida por Destin Daniel Cretton y con un guion escrito por Chris McK.
-
-Date: 2026-08-01
-
 ## Fuentes
 
 - [Rahm conquista su tercer anillo del LIV](https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com) — 2026-08-09T19:58:49.000Z
+- [Tráiler de ‘The Only Living Pickpocket in New York’: Los Oscar le deben una nominación a John Turturro](https://okdiario.com/cool/television/trailer-the-only-living-pickpocket-in-new-york-oscar-deben-nominacion-john-turturro-19155813?utm_source=lootura.com) — 2026-08-10T16:10:49.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»
+
+El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.
+
+Date: 2026-08-10
+
+### El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó
+
+El Ayuntamiento socialista de La Rinconada destinó hace alrededor de 20 años más de 1,2 millones de euros de dinero público a la compra de un solar en Chipiona con el objetivo de desarrollar un proyecto hotelero que nunca llegó a ejecutarse . Dos décadas después, la parcela municipal continúa sin el uso para el que fue.
+
+Date: 2026-08-10
 
 ### La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»
 
@@ -56,18 +68,7 @@ La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada
 
 Date: 2026-08-07
 
-### El PSOE de Madrid lleva a la Fiscalía la compra del ático de Chamberí
-
-El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
-
-Date: 2026-08-07
-
-### El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí
-
-El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»](https://theobjective.com/espana/politica/2026-08-10/ex-directora-comunicacion-psoe-bolanos-ceuta/?utm_source=lootura.com) — 2026-08-10T11:35:25.000Z
+- [El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»](https://www.abc.es/espana/psoe-ceuta-descarta-nuevo-asalto-habla-solo-20260810095442-nt.html?utm_source=lootura.com) — 2026-08-10T16:01:33.000Z
+- [El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó](https://okdiario.com/andalucia/psoe-rinconada-gasto-12-millones-solar-chipiona-hotel-que-nunca-construyo-19156336?utm_source=lootura.com) — 2026-08-10T16:09:43.000Z

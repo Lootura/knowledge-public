@@ -34,6 +34,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Díaz privatiza el SEPE: pagará 5 millones de euros a una empresa para gestionar el trabajo de sus funcionarios](https://okdiario.com/economia/diaz-privatiza-sepe-pagara-5-millones-euros-empresa-gestionar-trabajo-sus-funcionarios-19154411?utm_source=lootura.com) — 2026-08-10T12:01:45.000Z
-- [El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales](https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com) — 2026-08-10T10:50:36.000Z
-- [Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional](https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com) — 2026-08-10T10:30:25.000Z
+No public source links.

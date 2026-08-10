@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,16 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro",
+      "summary": "Las Bolsas hacen un alto en el camino . Después de una semana histórica en la que los índices europeos y estadounidenses enlazaron récord tras récord, la euforia ha dado paso a la prudencia y los principales selectivos apenas registraron movimientos. Con las negociaciones en Oriente Próximo encalladas, la temporada de.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz",
+      "summary": "Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Próximo.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo",
       "summary": "Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.",
@@ -55,25 +65,21 @@
       "title": "El Ibex marca nuevos máximos por encima de los 20.200 puntos",
       "summary": "Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y rebaja el petróleo de 80 dólares",
-      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "EEUU prevé un pacto para reabrir Ormuz \"entre hoy o mañana\" y propicia otra bajada del crudo",
-      "summary": "Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo",
+      "title": "Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:01:54.000Z",
+      "publishedAt": "2026-08-10T15:44:27.000Z",
       "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz",
+      "url": "https://theobjective.com/economia/2026-08-10/ibex-35-plano-sesion-volatil-ormuz/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:20:02.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

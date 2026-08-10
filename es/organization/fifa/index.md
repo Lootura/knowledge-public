@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.
+
+Date: 2026-08-10
 
 ### Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»
 
@@ -62,12 +68,6 @@ El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado ta
 
 Date: 2026-08-03
 
-### Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"
-
-El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino "no debe continuar al frente de la FIFA" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo "la punta del iceberg" y no resuelve "el problema de gobernanza". "Infantino no debe continuar. Que la FIFA haya retirado su propue.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»](https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com) — 2026-08-10T12:39:01.000Z
+- [Infantino más acorralado que nunca](https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com) — 2026-08-10T16:15:35.000Z

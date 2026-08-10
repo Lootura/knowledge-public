@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»",
+      "summary": "Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)",
+      "summary": "Un hombre de 8 3 años de edad y de nacionalidad francesa ha muerto ahogado este lunes en la Platja Nova de Roses (Girona) , lo que eleva a 18 las personas que han perecido en las playas catalanas desde el inicio de la campaña de baño, el pasado 15 de junio. Según han informado fuentes de Protección Civil de la Generali.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano",
       "summary": "Un hombre de 61 años y nacionalidad española ha muerto ahogado este sábado por la tarde mientras se bañaba mar adentro en la playa de l'Estartit, en Torroella de Montgrí (Gerona), con lo que ya son 17 las personas fallecidas en las playas catalanas este verano. Según ha informado Protección Civil de la Generalitat, el.",
@@ -54,18 +64,21 @@
       "title": "Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)",
       "summary": "La secretaria general de Protección Civil, Virginia Barcones, confirmó en una entrevista en TVE que son 9.000 los evacuados en diferentes localidades y 8.000 los confinados en sus casas a consecuencia del incendio de Burgohondo, en la provincia de Ávila. El incendio mantiene evacuados a los vecinos de Villanueva de Ávi.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "La directora de Protección Civil: \"Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia\"",
-      "summary": "La responsable de Protección Civil sostiene que los eventos climáticos extremos, como las interminables lluvias que hubo en invierno o los fuegos del verano, cada año más intensos y veloces en su expansión, son ya la nueva normalidad y exigen que se realice el pacto de Estado que propone el Gobierno Los fuegos en Madri.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios",
-      "summary": "Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»",
+      "url": "https://www.abc.es/espana/madrid/eclipse-seguro-1700-policias-vigilaran-evento-atomizado-20260810132258-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:54:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-10/muere-ahogado-playa-roses-girona-1tna_4404023/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T14:54:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 2
 }

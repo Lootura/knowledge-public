@@ -71,25 +71,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
-      "url": "https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T00:56:01.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-      "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:55:18.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:23:05.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

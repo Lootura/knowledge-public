@@ -46,5 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Diez detenidos por disturbios y agresiones a policías en Alcázar de San Juan (Ciudad Real)](https://www.elconfidencial.com/espana/2026-08-10/disturbios-alcazar-policia-detencion-1tna-1tps_4403845/?utm_source=lootura.com) — 2026-08-10T11:33:00.000Z
-- [Un joven africano cuenta cómo es su vida en Ciudad Real: "En otro sitio me dijeron que me fuera a mi país, pero aquí nunca me ha pasado"](https://www.larazon.es/castilla-la-mancha/joven-africano-cuenta-como-vida-ciudad-real-otro-sitio-dijeron-fuera-pais-aqui-nunca-pasado-b30m_202608106a79cb60a5690f0473724e88.html?utm_source=lootura.com) — 2026-08-10T13:00:16.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+
+OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+
+Date: 2026-08-10
 
 ### Developer ecosystem expanded
 
@@ -46,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas?utm_source=lootura.com) — 2026-08-10T14:00:00.000Z

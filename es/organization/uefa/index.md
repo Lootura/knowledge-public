@@ -3,10 +3,16 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.
+
+Date: 2026-08-10
 
 ### European criticism of FIFA ruling grew
 
@@ -34,4 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Infantino más acorralado que nunca](https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com) — 2026-08-10T16:15:35.000Z

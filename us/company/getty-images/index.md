@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin](https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/?utm_source=lootura.com) — 2026-08-10T11:00:00.000Z
+- [10 Things Infectious-Disease Experts Don’t Worry About](https://time.com/article/2026/08/10/infectious-disease-experts-germs/?utm_source=lootura.com) — 2026-08-10T15:27:37.000Z

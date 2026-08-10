@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro
+
+Las Bolsas hacen un alto en el camino . Después de una semana histórica en la que los índices europeos y estadounidenses enlazaron récord tras récord, la euforia ha dado paso a la prudencia y los principales selectivos apenas registraron movimientos. Con las negociaciones en Oriente Próximo encalladas, la temporada de.
+
+Date: 2026-08-10
+
+### El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz
+
+Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Próximo.
+
+Date: 2026-08-10
 
 ### El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo
 
@@ -56,18 +68,7 @@ Los inversores se agarran a las últimas noticias sobre el avance en las negocia
 
 Date: 2026-08-06
 
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y rebaja el petróleo de 80 dólares
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
-### EEUU prevé un pacto para reabrir Ormuz "entre hoy o mañana" y propicia otra bajada del crudo
-
-Estados Unidos tiene plena confianza en que la nueva ronda de conversaciones iniciada con Irán para tratar de reconducir el conflicto en Oriente Próximo se consume en acuerdo en...
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T11:01:54.000Z
+- [Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T15:44:27.000Z
+- [El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz](https://theobjective.com/economia/2026-08-10/ibex-35-plano-sesion-volatil-ormuz/?amp=&utm_source=lootura.com) — 2026-08-10T16:20:02.000Z

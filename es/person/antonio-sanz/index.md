@@ -3,10 +3,16 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
+
+### El incendio de Niebla está «fuera de la capacidad de extinción»
+
+El incendio que se originó en Niebla el pasado jueves y que se ha extendido por distintos puntos de la provincia de Huelva está ahora mismo «fuera de la capacidad de extinción» . Así lo ha reconocido el consejero de Emergencias, Antonio Sanz , en una comparecencia ante los medios en la que ha insistido en la complejida.
+
+Date: 2026-08-10
 
 ### El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»
 
@@ -46,4 +52,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»](https://theobjective.com/sociedad/suceso/2026-08-10/incendio-niebla-huelva-20000-hectareas-capacidad-extincion/?utm_source=lootura.com) — 2026-08-10T11:02:09.000Z
+- [El incendio de Niebla está «fuera de la capacidad de extinción»](https://www.abc.es/espana/andalucia/huelva/incendio-huelva-complica-tras-nuevo-cambio-viento-20260810123518-nts.html?utm_source=lootura.com) — 2026-08-10T16:11:55.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial
+
+ESET España y Espai Aero CV han firmado un acuerdo de colaboración para reforzar la ciberseguridad de las empresas que forman parte del ecosistema aeroespacial de la Comunidad Valenciana . La alianza contempla el desarrollo de iniciativas de formación, divulgación técnica y asesoramiento especializado con el objetivo d.
+
+Date: 2026-08-10
 
 ### El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península
 
@@ -62,12 +68,6 @@ Con los ojos de España entera pendientes de la invasión de Ceuta por parte de 
 
 Date: 2026-08-03
 
-### Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»
-
-La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos principales ciudades de esta autonomía: Alicante y Valencia. En el caso de Valencia , la concentración se ha producido ante el consulado de.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial](https://theobjective.com/economia/2026-08-10/eset-espai-ciberseguridad-aeroespacial/?utm_source=lootura.com) — 2026-08-10T15:11:29.000Z

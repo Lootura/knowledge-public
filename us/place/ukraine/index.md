@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say
-
-Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).
-
-Date: 2026-08-10
 
 ### Ukrainian drone strikes deep inside Russia kill at least 13, authorities say
 
@@ -28,7 +22,13 @@ Date: 2026-08-10
 
 ### Ukraine Drone Attack on Industrial City in Russia Kills at Least 13
 
-A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.
+The strike, on an industrial center in Tatarstan, killed at least 13 people.
+
+Date: 2026-08-10
+
+### Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say
+
+Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).
 
 Date: 2026-08-10
 
@@ -71,6 +71,5 @@ Date: 2026-08-08
 ## Sources
 
 - [Ukrainian drone strikes deep inside Russia kill at least 13, authorities say](https://www.cbsnews.com/news/ukraine-russia-war-drone-attack-tatarstan-oil/?utm_source=lootura.com) — 2026-08-10T10:59:00.000Z
-- [Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say](https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia?utm_source=lootura.com) — 2026-08-10T08:58:22.000Z
 - [Drought and the war in Ukraine changed what families in Kenya could afford to eat](https://phys.org/news/2026-08-drought-war-ukraine-families-kenya.html?utm_source=lootura.com) — 2026-08-10T12:00:03.000Z
-- [Ukraine Drone Attack on Industrial City in Russia Kills at Least 13](https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html?utm_source=lootura.com) — 2026-08-10T11:32:17.000Z
+- [Ukraine Drone Attack on Industrial City in Russia Kills at Least 13](https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html?utm_source=lootura.com) — 2026-08-10T15:17:41.000Z

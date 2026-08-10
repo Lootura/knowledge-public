@@ -3,10 +3,22 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
+
+Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
+
+Date: 2026-08-10
+
+### Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)
+
+Un hombre de 8 3 años de edad y de nacionalidad francesa ha muerto ahogado este lunes en la Platja Nova de Roses (Girona) , lo que eleva a 18 las personas que han perecido en las playas catalanas desde el inicio de la campaña de baño, el pasado 15 de junio. Según han informado fuentes de Protección Civil de la Generali.
+
+Date: 2026-08-10
 
 ### Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano
 
@@ -56,18 +68,7 @@ La secretaria general de Protección Civil, Virginia Barcones, confirmó en una 
 
 Date: 2026-07-25
 
-### La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"
-
-La responsable de Protección Civil sostiene que los eventos climáticos extremos, como las interminables lluvias que hubo en invierno o los fuegos del verano, cada año más intensos y veloces en su expansión, son ya la nueva normalidad y exigen que se realice el pacto de Estado que propone el Gobierno Los fuegos en Madri.
-
-Date: 2026-07-24
-
-### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
-
-Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»](https://www.abc.es/espana/madrid/eclipse-seguro-1700-policias-vigilaran-evento-atomizado-20260810132258-nt.html?utm_source=lootura.com) — 2026-08-10T15:54:00.000Z
+- [Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)](https://www.elconfidencial.com/espana/cataluna/2026-08-10/muere-ahogado-playa-roses-girona-1tna_4404023/?utm_source=lootura.com) — 2026-08-10T14:54:00.000Z

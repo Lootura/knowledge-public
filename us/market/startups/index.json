@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "startup funding"
   ],
   "changes": [
+    {
+      "title": "Boeing is selling its air taxi startups to Archer Aviation",
+      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero , which has been developing an autonomous electric aircraft; SkyGrid , which.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Electric air taxis go to war",
       "summary": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with defense technology company Anduril - though the platform is designed for bo.",
@@ -36,11 +41,17 @@
   ],
   "sources": [
     {
-      "title": "Scientists up in arms about cuts to UK physics and astronomy",
-      "url": "https://www.nature.com/articles/d41586-026-02460-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T05:24:13.998Z",
-      "sourceId": "lootura-us-nature"
+      "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Boeing is selling its air taxi startups to Archer Aviation",
+      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:51:46.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

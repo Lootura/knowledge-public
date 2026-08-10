@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "CA",
     "CAN",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
-      "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
+      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+      "summary": "The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.",
       "date": "2026-08-10"
     },
     {
-      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
-      "summary": "The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.",
+      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+      "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
       "date": "2026-08-10"
     },
     {
@@ -68,12 +68,6 @@
   ],
   "sources": [
     {
-      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
-      "url": "https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T00:43:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
       "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
       "publishedAt": "2026-08-10T03:36:59.000Z",
@@ -86,5 +80,5 @@
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

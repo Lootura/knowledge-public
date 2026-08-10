@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Sara Gallego sale del laberinto
+
+Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.
+
+Date: 2026-08-10
+
+### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
+
+Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
+
+Date: 2026-08-10
+
+### Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona
+
+Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecretario general de Política Autonómica y Municipal de los populares, mientras comparecía en Barcelona junto al candidato del partido en la Ciudad Condal, Daniel Sirera . El individuo ha dicho no recibir ninguna ayuda del Gobierno y, haciendo f.
+
+Date: 2026-08-10
 
 ### Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería
 
@@ -50,26 +68,8 @@ Un conductor de 51 años ha perdido la vida este domingo por la mañana tras sal
 
 Date: 2026-08-09
 
-### Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”
-
-Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.
-
-Date: 2026-08-09
-
-### ¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea
-
-En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.
-
-Date: 2026-08-09
-
-### El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti
-
-Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería](https://www.elconfidencial.com/espana/cataluna/2026-08-10/estafa-citas-falsas-extranjeria-barcelona-1tna-1tps_4403720/?utm_source=lootura.com) — 2026-08-10T09:57:00.000Z
-- [Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15](https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html?utm_source=lootura.com) — 2026-08-10T10:45:15.000Z
-- [El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox](https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html?utm_source=lootura.com) — 2026-08-10T10:58:19.000Z
+- [Sara Gallego sale del laberinto](https://www.abc.es/deportes/sara-gallego-sale-laberinto-20260809011349-nt.html?utm_source=lootura.com) — 2026-08-10T16:15:36.000Z
+- [Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona](https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com) — 2026-08-10T12:17:20.000Z
+- [Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona](https://okdiario.com/espana/hombre-increpa-gritos-elias-bendodo-acto-del-pp-barcelona-19156539?utm_source=lootura.com) — 2026-08-10T16:09:53.000Z

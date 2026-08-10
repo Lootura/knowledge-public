@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
 
 Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
+
+Date: 2026-08-10
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
 
 Date: 2026-08-10
 
@@ -62,14 +68,7 @@ Isabel Díaz Ayuso ha dicho que debe ser l a Consejería de Presidencia quien d�
 
 Date: 2026-08-06
 
-### Ayuso acusa a Sánchez de "asfixiar" a los madrileños con la financiación autonómica
-
-La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región "siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños". En un mensaje difundido en su cuent.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
 - [¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?](https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html?utm_source=lootura.com) — 2026-08-10T09:11:15.000Z
-- [La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático](https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático](https://theobjective.com/espana/madrid/2026-08-10/ayuntamiento-madrid-iniciativa-comunidad-atico-venta/?utm_source=lootura.com) — 2026-08-10T10:35:49.000Z

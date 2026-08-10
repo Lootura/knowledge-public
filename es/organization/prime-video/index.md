@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### 'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco
+
+En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso , cuya cuarta (y última) temporada se puede ver tanto en Apple TV como en Prime Video , llegó para darles un nuevo empujón y eso es lo que están aprovechando actualmente las plataformas de streaming. Así, tras el éxito cosechado por Más que.
+
+Date: 2026-08-10
 
 ### Volvería a ver una y mil veces este thriller policíaco español de Prime Video: está basado en una novela superventas y solo tiene 7 episodios
 
@@ -62,12 +68,6 @@ La serie de God of War para Prime Video no ha tenido el inicio de producción qu
 
 Date: 2026-08-03
 
-### 10 películas de Prime Video que te sorprenderán
-
-Prime Video es una de las plataformas más curiosas del mundo del streaming . Por un lado y al contrario de gigantes como Netflix y HBO Max , no tiene un catálogo en frecuente renovación. Al contrario, el servicio por suscripción hace una cuidadosa selección de contenido que permite, que su oferta sea cuidadosamente sel.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- ['The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco](https://www.larazon.es/tecnologia-consumo/series/the-sticks-nuevo-drama-juvenil-hockey-netflix-protagonizado-michelle-monaghan-suma-nuevos-nombres-su-elenco_202608106a79f934a046ad6ebca9eed7.html?utm_source=lootura.com) — 2026-08-10T16:31:00.000Z

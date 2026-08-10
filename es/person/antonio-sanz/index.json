@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/antonio-sanz/index.json",
   "description": "Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Antonio Sanz Cabello"
   ],
   "changes": [
+    {
+      "title": "El incendio de Niebla está «fuera de la capacidad de extinción»",
+      "summary": "El incendio que se originó en Niebla el pasado jueves y que se ha extendido por distintos puntos de la provincia de Huelva está ahora mismo «fuera de la capacidad de extinción» . Así lo ha reconocido el consejero de Emergencias, Antonio Sanz , en una comparecencia ante los medios en la que ha insistido en la complejida.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»",
       "summary": "El vicepresidente primero y consejero de la Presidencia, Sanidad y Emergencias , Antonio Sanz, ha señalado este lunes que el incendio forestal declarado en el municipio de Niebla (Huelva) roza ya las 20.000 hectáreas de perímetro recorrido y se encuentra en estos momentos « fuera de capacidad de extinción, no por falta.",
@@ -46,10 +51,10 @@
   ],
   "sources": [
     {
-      "title": "El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»",
-      "url": "https://theobjective.com/sociedad/suceso/2026-08-10/incendio-niebla-huelva-20000-hectareas-capacidad-extincion/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:02:09.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El incendio de Niebla está «fuera de la capacidad de extinción»",
+      "url": "https://www.abc.es/espana/andalucia/huelva/incendio-huelva-complica-tras-nuevo-cambio-viento-20260810123518-nts.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:11:55.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

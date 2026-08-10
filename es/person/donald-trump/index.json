@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
       "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
@@ -68,13 +73,15 @@
       "title": "La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre",
       "summary": "El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
-      "summary": "El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:23:04.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

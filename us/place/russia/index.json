@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,11 +17,6 @@
     "Russian Federation"
   ],
   "changes": [
-    {
-      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).",
-      "date": "2026-08-10"
-    },
     {
       "title": "Ukrainian drone strikes deep inside Russia kill at least 13, authorities say",
       "summary": "The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.",
@@ -34,7 +29,12 @@
     },
     {
       "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "summary": "A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.",
+      "summary": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
+      "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).",
       "date": "2026-08-10"
     },
     {
@@ -76,12 +76,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:58:22.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "Drought and the war in Ukraine changed what families in Kenya could afford to eat",
       "url": "https://phys.org/news/2026-08-drought-war-ukraine-families-kenya.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T12:00:03.000Z",
@@ -90,9 +84,9 @@
     {
       "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
       "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:32:17.000Z",
+      "publishedAt": "2026-08-10T15:17:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

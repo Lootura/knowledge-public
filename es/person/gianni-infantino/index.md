@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.
+
+Date: 2026-08-10
 
 ### La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»
 
@@ -62,12 +68,6 @@ Gianni Infantino first entered the public knowledge record with source-backed ev
 
 Date: 2026-07-19
 
-### El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia
-
-Claudio Chiqui Tapia, el presidente de la Asociación de Fútbol Argentino (AFA), observó el partido de su selección contra Inglaterra desde el palco VIP, sentado a la derecha del mandamás de la FIFA, Gianni Infantino. De traje azul, corbata y zapatos de cuero lustrados, celebró con lágrimas de emoción los dos goles que.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Infantino más acorralado que nunca](https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com) — 2026-08-10T16:15:35.000Z

@@ -70,8 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El Gobierno sube a 1.400 los menores en Ceuta y no se atreve a dar una cifra definitiva: "Aún hay muchos en las colas para filiarse"](https://www.20minutos.es/nacional/gobierno-sube-1-400-los-menores-ceuta-no-se-atreve-dar-una-cifra-definitiva-hay-muchos-haciendo-colas-para-filiarse_7024275_0.html?utm_source=lootura.com) — 2026-08-10T11:32:30.000Z
-- [Interior y Defensa anulan los permisos de militares y agentes desplegados en Ceuta ante el temor de otro intento de entrada](https://www.abc.es/espana/defensa-anula-permisos-militares-desplegados-ceuta-ante-20260810101557-nt.html?utm_source=lootura.com) — 2026-08-10T12:45:10.000Z
-- [El Gobierno puede poner condiciones a SAIC en Galicia para garantizar la seguridad nacional](https://amp.expansion.com/empresas/motor/2026/08/10/6a79a75d468aebc62e8b4580.html?utm_source=lootura.com) — 2026-08-10T10:28:23.000Z
-- [El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión](https://okdiario.com/espana/gobierno-eleva-ahora-80-000-inmigrantes-que-entraron-ceuta-30-000-mas-que-dijo-invasion-19154386?utm_source=lootura.com) — 2026-08-10T12:26:41.000Z
-- [El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales](https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com) — 2026-08-10T10:50:36.000Z
+No public source links.

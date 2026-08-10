@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»",
       "summary": "En 2013, Verónica Boquete, tras años con un balón en el pie, batalló para que el juego FIFA incluyese mujeres. Para el 'FIFA 16', lo consiguió. La futbolista, que se ha ganado a pulso la etiqueta de pionera, fue la primera española en alzar una Champions . La primera nominada al Balón de Oro. Y, también, la capitana de.",
@@ -63,19 +68,14 @@
       "title": "Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA",
       "summary": "El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Tebas, a la carga contra Infantino: \"No debe continuar al frente de la FIFA\"",
-      "summary": "El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino \"no debe continuar al frente de la FIFA\" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo \"la punta del iceberg\" y no resuelve \"el problema de gobernanza\". \"Infantino no debe continuar. Que la FIFA haya retirado su propue.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»",
-      "url": "https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:39:01.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Infantino más acorralado que nunca",
+      "url": "https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:15:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

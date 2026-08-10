@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Physicians report negative impacts of abortion bans across pregnancy care](https://medicalxpress.com/news/2026-08-physicians-negative-impacts-abortion-pregnancy.html?utm_source=lootura.com) — 2026-08-10T13:00:03.000Z
-- [Trump Vows to Take Ballroom Battle to the Supreme Court](https://www.today.com/video/trump-calls-on-supreme-court-to-overturn-ballroom-ruling-268023365683?utm_source=lootura.com) — 2026-08-10T11:29:01.000Z
+No public source links.

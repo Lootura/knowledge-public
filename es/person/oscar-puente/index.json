@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»",
+      "summary": "El ministro de Transportes, Óscar Puente , ha generado debate político tras publicar un mensaje en la red social X relativo a la figura del rey Felipe VI . El exalcalde de Valladolid ha reposteado un vídeo en el que se observa al Monarca saludando y fotografiándose con Javier Negre, fundador del canal EDA TV, junto al.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”",
       "summary": "El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.",
@@ -60,13 +65,15 @@
       "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
       "summary": "El ministro de Transportes, Óscar Puente , ha llamado \"mamarracha\" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los \".",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "summary": "El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»",
+      "url": "https://theobjective.com/espana/politica/2026-08-10/puente-rey-mano-javier-negre-ignominia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T14:40:57.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

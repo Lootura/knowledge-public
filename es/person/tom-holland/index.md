@@ -58,4 +58,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman](https://www.abc.es/bienestar/fitness/hombre-arana-gimnasio-preparo-tom-holland-spiderman-20260807011041-nt.html?utm_source=lootura.com) — 2026-08-10T12:33:58.000Z
+No public source links.

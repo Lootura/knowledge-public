@@ -70,7 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Interior y Defensa anulan los permisos de militares y agentes desplegados en Ceuta ante el temor de otro intento de entrada](https://www.abc.es/espana/defensa-anula-permisos-militares-desplegados-ceuta-ante-20260810101557-nt.html?utm_source=lootura.com) — 2026-08-10T12:45:10.000Z
-- [Cancelados los permisos de militares desplegados en Ceuta ante un posible nuevo salto masivo](https://www.lavanguardia.com/politica/20260810/11611053/defensa-cancela-todos-permisos-militares-desplegados-ceuta-posibilidad-nuevo-salto-masivo.html?utm_source=lootura.com) — 2026-08-10T09:33:40.000Z
-- [Díaz privatiza el SEPE: pagará 5 millones de euros a una empresa para gestionar el trabajo de sus funcionarios](https://okdiario.com/economia/diaz-privatiza-sepe-pagara-5-millones-euros-empresa-gestionar-trabajo-sus-funcionarios-19154411?utm_source=lootura.com) — 2026-08-10T12:01:45.000Z
-- [El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales](https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com) — 2026-08-10T10:50:36.000Z
+No public source links.

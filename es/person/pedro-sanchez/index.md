@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### Un Gobierno en emergencia permanente
 
 Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
-
-Date: 2026-08-10
-
-### Crimen del exsecretario de UAGA de Aragón y su mujer: detenidos la hija de las víctimas y su pareja
-
-La Guardia Civil ha detenido a una de las hijas del matrimonio formado por el exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA), Javier Sánchez, y Esther Latorre , asesinados a cuchilladas este viernes en el municipio de Tauste (Zaragoza) , así como a su actual pareja, como presuntos autores del dob.
 
 Date: 2026-08-10
 
@@ -29,6 +23,18 @@ Date: 2026-08-10
 ### Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa
 
 Los cadáveres de Javier Sánchez y Esther Latorre fueron localizados con evidentes signos de violencia la noche del sábado en el interior de su vivienda Leer.
+
+Date: 2026-08-10
+
+### Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen
+
+La noticia llegó justo cuando se acababa de cerrar el velatorio de Javier Sánchez y Esther Latorre . “No puede ser”, “Me están llamando para preguntarme si es verdad”, “Era una posibilidad, pero no queríamos creerla”, han comentado sus amigos. El matrimonio había sido hallado cosido a puñaladas en el interior de su viv.
+
+Date: 2026-08-10
+
+### Crimen del exsecretario de UAGA de Aragón y su mujer: detenidos la hija de las víctimas y su pareja
+
+La Guardia Civil ha detenido a una de las hijas del matrimonio formado por el exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA), Javier Sánchez, y Esther Latorre , asesinados a cuchilladas este viernes en el municipio de Tauste (Zaragoza) , así como a su actual pareja, como presuntos autores del dob.
 
 Date: 2026-08-10
 
@@ -62,18 +68,9 @@ Pedro Sánchez gastó en el verano de 2021 85.000 euros, de los que 33.312,75 eu
 
 Date: 2026-08-10
 
-### Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta
-
-La justicia, a medio gas en agosto, ha dado una tregua al Gobierno de Pedro Sánchez con los casos de corrupción y la irrupción de la crisis de Ceuta por la entrada de más de 70.000 personas procedentes de Marruecos ha devuelto los focos a la inmigración, con un impacto visible en el bloque de la derecha. De momento, el.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Vox apoya los controles fronterizos de Italia pero no que Sánchez responda con la misma medida: "Busca provocar un conflicto"](https://www.20minutos.es/nacional/vox-apoya-los-controles-fronterizos-italia-pero-no-que-sanchez-responda-con-misma-medida-busca-provocar-un-conflicto_7024196_0.html?utm_source=lootura.com) — 2026-08-10T11:00:12.000Z
-- [Crimen del exsecretario de UAGA de Aragón y su mujer: detenidos la hija de las víctimas y su pareja](https://www.20minutos.es/aragon/zaragoza/sucesos-zaragoza-detenidos-hija-su-pareja-por-muerte-exsecretario-uaga-aragon-su-mujer_7024282_0.html?utm_source=lootura.com) — 2026-08-10T11:45:18.000Z
 - [Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja](https://www.elcorreo.com/sociedad/sucesos/detienen-presuntos-autores-asesinato-lider-agrario-javier-20260810142539-nt_amp.html?utm_source=lootura.com) — 2026-08-10T12:25:39.000Z
-- [La ley de reproducción asistida que el Congreso quiere cambiar: "A ellos les basta con decir que ya no quieren sus gametos, a nosotras no"](https://amp.elmundo.es/salud/2026/08/10/6a760a08fc6c83bc218b456f.html?utm_source=lootura.com) — 2026-08-09T23:33:40.000Z
-- [Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa](https://www.elmundo.es/espana/2026/08/10/6a79bae8e9cf4ac25a8b4591.html?utm_source=lootura.com) — 2026-08-10T12:37:18.000Z
-- [Detenida la hija del dirigente agrario aragonés asesinado junto a su esposa](https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html?utm_source=lootura.com) — 2026-08-10T12:08:12.000Z
+- [Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa](https://www.elmundo.es/espana/2026/08/10/6a79bae8e9cf4ac25a8b4591.html?utm_source=lootura.com) — 2026-08-10T13:15:20.000Z
+- [Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen](https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html?utm_source=lootura.com) — 2026-08-10T13:31:38.000Z
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

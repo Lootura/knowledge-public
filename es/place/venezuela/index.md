@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia
+
+Tragedia en Colombia . Un potente terremoto de magnitud 7,4 ha azotado este lunes el país e incluso se ha llegado a sentir en Panamá, Venezuela y Ecuador . El seísmo, que ha provocado al menos 22 muertos, ha causado el colapso de varios edificios, desprendimientos de fachadas, graves daños en aeropuertos e incluso derr.
+
+Date: 2026-08-10
 
 ### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
 
@@ -62,12 +68,6 @@ EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a c
 
 Date: 2026-08-02
 
-### Opacidad y turbulencia en Venezuela
-
-No son solo las malas experiencias del pasado, esa docena de diálogos y mesas de negociación fallidos que solo sirvieron para que el régimen chavista ganara tiempo y se enquistara en el poder, lo que explica el escepticismo que sobrevuela la nueva ronda de negociaciones que se abre hoy entre el gobierno de Delcy Rodríg.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia](https://www.20minutos.es/internacional/edificios-colapsados-panico-las-calles-los-videos-mas-impactantes-potente-terremoto-que-ha-azotado-colombia_7024348_0.html?utm_source=lootura.com) — 2026-08-10T15:06:23.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
   "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
@@ -17,6 +17,11 @@
     "Vereinigung Europäischer Fußballverbände"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.",
+      "date": "2026-08-10"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "Ni la UEFA , ni la Conmebol, ni la Concacaf, ni la AFC: la gestión de Gianni Infantino al frente de la FIFA ha sido condenada por prácticamente todo el mundo del fútbol, y de las 211 federaciones nacionales que la componen apenas hay un puñado que no se han posicionado o bien en su contra o han guardado un elocuente si.",
@@ -38,6 +43,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Infantino más acorralado que nunca",
+      "url": "https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:15:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### Heatwaves have killed millions. Here’s how scientists tally lives lost
-
-Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
-
-Date: 2026-08-10
 
 ### How Spain’s migration surge tested E.U. border policy
 
@@ -20,15 +14,27 @@ An unprecedented surge of migrants into Spanish territory of Ceuta in North Afri
 
 Date: 2026-08-10
 
-### Western Europe experienced hottest June-July on record: EU monitor
-
-Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.
-
-Date: 2026-08-10
-
 ### Steam hardware shipper breach leaks customer data, including names and addresses
 
 Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The.
+
+Date: 2026-08-10
+
+### UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far
+
+Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.
+
+Date: 2026-08-10
+
+### Heatwaves have killed millions. Here’s how scientists tally lives lost
+
+Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-10
+
+### Western Europe experienced hottest June-July on record: EU monitor
+
+Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.
 
 Date: 2026-08-10
 
@@ -62,16 +68,8 @@ Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two ver
 
 Date: 2026-08-09
 
-### Europe Braces for Another Heat Wave. Here’s What to Know.
-
-High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-10T05:24:13.998Z
 - [How Spain’s migration surge tested E.U. border policy](https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
-- [Western Europe experienced hottest June-July on record: EU monitor](https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html?utm_source=lootura.com) — 2026-08-10T06:41:43.000Z
+- [UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far](https://www.pbs.org/newshour/world/uk-and-france-prepare-for-another-heat-wave-as-western-europe-has-its-3rd-hottest-year-on-record-so-far?utm_source=lootura.com) — 2026-08-10T16:30:14.000Z
 - [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach?utm_source=lootura.com) — 2026-08-10T12:48:12.000Z
-- [Europe Will Get Its First Total Solar Eclipse in Over 25 Years. Here's What You Should Know](https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/?utm_source=lootura.com) — 2026-08-10T10:00:04.000Z

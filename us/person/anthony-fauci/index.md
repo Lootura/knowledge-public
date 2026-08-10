@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Dr Fauci made mistakes. But his persecution is a travesty | Margaret Sullivan](https://www.theguardian.com/commentisfree/2026/aug/10/dr-fauci-persecution-republicans?utm_source=lootura.com) — 2026-08-10T10:00:42.000Z
+No public source links.

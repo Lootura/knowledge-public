@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios",
+      "summary": "La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar infraestructuras dañadas y prestar asistencia veterinaria. A e.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
       "summary": "Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.",
@@ -58,13 +63,15 @@
       "title": "Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje",
       "summary": "La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa que forma parte de las medidas que ha puesto en marcha el Gobierno regional para la reconstrucción de las zonas dañadas. El director general de Agricultura, Ganadería y Aliment.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Récord de ayudas al cine madrileño: tres millones de euros para impulsar nuevos largometrajes",
-      "summary": "La Comunidad de Madrid destinará este año tres millones de euros a la convocatoria de ayudas para la producción de largometrajes, la mayor dotación económica desde la creación de este programa de apoyo al sector audiovisual. El presupuesto supone un incremento del 50 por ciento respecto a las convocatorias de 2024 y 20.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios",
+      "url": "https://www.abc.es/espana/madrid/madrid-destinara-millon-euros-ayudas-agricultores-ganaderos-20260810155948-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:44:23.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

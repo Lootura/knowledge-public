@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Un Gobierno en emergencia permanente
 
 Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
+
+### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
+
+Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.
+
+Date: 2026-08-10
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
 
 Date: 2026-08-10
 
@@ -56,18 +68,8 @@ Una de las guerras culturales que se han abierto recientemente en Estados Unidos
 
 Date: 2026-08-09
 
-### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
-
-"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
-
-Date: 2026-08-09
-
-### Los socialistas estadounidenses querrían ser españoles
-
-La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com) — 2026-08-10T16:37:48.000Z
+- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

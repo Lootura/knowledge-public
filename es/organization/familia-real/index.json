@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
   "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Familias reales",
     "familia imperial",
     "royalty"
   ],
   "changes": [
+    {
+      "title": "Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»",
+      "summary": "Carmen Lomana no se ha mordido la lengua al ser preguntada por el regreso de don Juan Carlos al Palacio de Marivent . La socialité ha reaccionado con evidente indiferencia ante la presencia del emérito en la residencia de verano de la Familia Real , una imagen que ha vuelto a poner el foco sobre la relación del antiguo.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Un vestido para todas: la Infanta hereda de su madre y su hermana",
       "summary": "Este sábado la Familia Real puso fin a su estancia en Mallorca con una tradición. Dos, incluso. La primera fue la cena junto a la Reina Sofía en el restaurante Mía, en el Portixol de Palma ; y la segunda fue un vestido que ya tiene tres vidas y que casi se ha convertido en una constante en los últimos cuatro veranos. H.",
@@ -59,13 +64,15 @@
       "title": "Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo",
       "summary": "Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Real y, con él, una de las citas en las que la Reina Letizia demuestra que la moda también puede ser una poderosa herramienta de representación. Felipe VI y Doña Letizia han abierto este martes las puertas del Palacio de Marivent para recibir.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La obsesión de la Reina Sofía en Marivent: quería una casa donde poder caminar siempre descalza",
-      "summary": "Cada verano, el Palacio de Marivent vuelve a convertirse en el epicentro de la actualidad de la Familia Real. Aunque la atención suele centrarse en la agenda de los Reyes o en las tradicionales imágenes de sus vacaciones en Mallorca, el complejo guarda infinidad de historias y curiosidades que hablan de cómo se ha vivi.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»",
+      "url": "https://okdiario.com/cool/famosos/carmen-lomana-carga-contra-regreso-juan-carlos-i-marivent-lo-manda-ceuta-ya-puestos-19153500?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:30:20.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage
+
+Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival (Image credit: Mohammed Sawaf for NPR).
+
+Date: 2026-08-10
 
 ### Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news
 
@@ -62,12 +68,6 @@ Oil prices fell on Monday as investors pared geopolitical risk premiums after U.
 
 Date: 2026-08-03
 
-### Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage](https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war?utm_source=lootura.com) — 2026-08-10T16:08:06.000Z

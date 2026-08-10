@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
+
+El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.
+
+Date: 2026-08-10
+
+### 'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco
+
+En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso , cuya cuarta (y última) temporada se puede ver tanto en Apple TV como en Prime Video , llegó para darles un nuevo empujón y eso es lo que están aprovechando actualmente las plataformas de streaming. Así, tras el éxito cosechado por Más que.
+
+Date: 2026-08-10
 
 ### Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple
 
@@ -56,18 +68,7 @@ El regreso de la temporada 4 de Ted Lasso ya es una realidad. La serie ha vuelto
 
 Date: 2026-08-06
 
-### Apple denuncia a OpenAI por robo de secretos
-
-Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de "descuidada, agresiva y extrañamente personal". Como parte de esta escalada judici.
-
-Date: 2026-08-05
-
-### Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»
-
-Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos a la obra para confec.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z
+- ['The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco](https://www.larazon.es/tecnologia-consumo/series/the-sticks-nuevo-drama-juvenil-hockey-netflix-protagonizado-michelle-monaghan-suma-nuevos-nombres-su-elenco_202608106a79f934a046ad6ebca9eed7.html?utm_source=lootura.com) — 2026-08-10T16:31:00.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
+
+El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.
+
+Date: 2026-08-10
 
 ### Why finance jobs are widening income inequality in cities around the world
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z

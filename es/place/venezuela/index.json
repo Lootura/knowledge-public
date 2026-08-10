@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia",
+      "summary": "Tragedia en Colombia . Un potente terremoto de magnitud 7,4 ha azotado este lunes el país e incluso se ha llegado a sentir en Panamá, Venezuela y Ecuador . El seísmo, que ha provocado al menos 22 muertos, ha causado el colapso de varios edificios, desprendimientos de fachadas, graves daños en aeropuertos e incluso derr.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
       "summary": "Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.",
@@ -63,13 +68,15 @@
       "title": "Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos",
       "summary": "EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Opacidad y turbulencia en Venezuela",
-      "summary": "No son solo las malas experiencias del pasado, esa docena de diálogos y mesas de negociación fallidos que solo sirvieron para que el régimen chavista ganara tiempo y se enquistara en el poder, lo que explica el escepticismo que sobrevuela la nueva ronda de negociaciones que se abre hoy entre el gobierno de Delcy Rodríg.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia",
+      "url": "https://www.20minutos.es/internacional/edificios-colapsados-panico-las-calles-los-videos-mas-impactantes-potente-terremoto-que-ha-azotado-colombia_7024348_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:06:23.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

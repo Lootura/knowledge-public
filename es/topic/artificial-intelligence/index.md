@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Kimi K3, el modelo chino más potente, también huyó de su espacio de confinamiento para superar una prueba](https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/kimi-k3-modelo-chino-potente-tambien-huyo-su-espacio-confinamiento-superar-prueba_202608106a79b468a5690f0473721c53.html?utm_source=lootura.com) — 2026-08-10T13:00:00.000Z
+- [Intel ampliará capital en 13.000 millones para afrontar la demanda por la IA](https://cincodias.elpais.com/companias/2026-08-10/intel-ampliara-capital-en-13000-millones-para-afrontar-la-demanda-por-la-ia.html?utm_source=lootura.com) — 2026-08-10T14:24:04.000Z

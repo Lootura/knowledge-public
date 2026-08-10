@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»
+
+El ministro de Transportes, Óscar Puente , ha generado debate político tras publicar un mensaje en la red social X relativo a la figura del rey Felipe VI . El exalcalde de Valladolid ha reposteado un vídeo en el que se observa al Monarca saludando y fotografiándose con Javier Negre, fundador del canal EDA TV, junto al.
+
+Date: 2026-08-10
 
 ### Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”
 
@@ -62,12 +68,6 @@ El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la preside
 
 Date: 2026-07-24
 
-### Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»
-
-El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»](https://theobjective.com/espana/politica/2026-08-10/puente-rey-mano-javier-negre-ignominia/?utm_source=lootura.com) — 2026-08-10T14:40:57.000Z

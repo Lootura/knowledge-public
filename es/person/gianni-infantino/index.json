@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»",
       "summary": "La FIFA denunció y criticó el «esfuerzo coordinado y continuo para socavar a la FIFA y a su presidente » mediante acusaciones, insinuaciones o información errónea, un Gianni Infantino que fue elegido de manera democrática y continúa «ejerciendo su mandato». «En consonancia con las recientes declaraciones de la CONMEBOL.",
@@ -58,13 +63,15 @@
       "title": "Discovered by Atlas",
       "summary": "Gianni Infantino first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia",
-      "summary": "Claudio Chiqui Tapia, el presidente de la Asociación de Fútbol Argentino (AFA), observó el partido de su selección contra Inglaterra desde el palco VIP, sentado a la derecha del mandamás de la FIFA, Gianni Infantino. De traje azul, corbata y zapatos de cuero lustrados, celebró con lágrimas de emoción los dos goles que.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Infantino más acorralado que nunca",
+      "url": "https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:15:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

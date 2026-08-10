@@ -67,19 +67,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Physicians report negative impacts of abortion bans across pregnancy care",
-      "url": "https://medicalxpress.com/news/2026-08-physicians-negative-impacts-abortion-pregnancy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T13:00:03.000Z",
-      "sourceId": "lootura-us-medical-xpress"
-    },
-    {
-      "title": "Trump Vows to Take Ballroom Battle to the Supreme Court",
-      "url": "https://www.today.com/video/trump-calls-on-supreme-court-to-overturn-ballroom-ruling-268023365683?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:29:01.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

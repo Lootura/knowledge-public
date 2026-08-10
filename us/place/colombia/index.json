@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
+    {
+      "title": "Search for survivors underway after 7.4-magnitude earthquake hits Colombia",
+      "summary": "A 7.4-magnitude earthquake rattled western Colombia, causing buildings to collapse and setting off a search for survivors. NBC News’ George Solis reports on the developing situation and an early assessment of the damage.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
@@ -30,6 +35,19 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "7.4 earthquake strikes western Colombia, dozens of deaths reported",
+      "url": "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:20:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Search for survivors underway after 7.4-magnitude earthquake hits Colombia",
+      "url": "https://www.nbcnews.com/video/colombia-hit-by-7-4-magnitude-earthquake-268037701631?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:17:49.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 2
 }

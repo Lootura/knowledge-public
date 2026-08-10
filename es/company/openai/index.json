@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:25:29.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

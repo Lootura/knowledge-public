@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com) — 2026-08-09T22:00:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Vox apoyará la propuesta de Sumar en el Congreso para que España no celebre el Mundial con Marruecos",
+      "url": "https://www.elconfidencial.com/espana/2026-08-10/vox-sumar-congreso-espana-mundial-marruecos_4403942/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:24:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
   "evidenceCount": 0
 }

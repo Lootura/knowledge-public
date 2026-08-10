@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
+
+Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
+
+Date: 2026-08-10
+
+### Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen
+
+President Donald Trump speaks to the press after signing an Executive Order in the Oval Office of the White House on March 31, 2026. —Brendan Smialowski—Getty Images Iranian Foreign Minister Abbas Araghchi on Sunday said an agreement with Oman to define new shipping routes through the Strait of Hormuz was in its “final.
+
+Date: 2026-08-10
 
 ### Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World
 
@@ -56,18 +68,7 @@ At the White House’s request, senators tucked a change sought by the hemp indu
 
 Date: 2026-08-05
 
-### Trump Said Qatari Jet Was Destined for His Library. That May Change.
-
-A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
-
-Date: 2026-08-05
-
-### FAA is investigating why a plane was allowed to take off as Trump's helicopter approached
-
-The White House emphasized that President Trump was not in danger during the incident.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Trump Names Will Scharf as White House Counsel](https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html?utm_source=lootura.com) — 2026-08-10T01:44:31.000Z
+- [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
+- [Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen](https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/?utm_source=lootura.com) — 2026-08-10T15:10:31.000Z

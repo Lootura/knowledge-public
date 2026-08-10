@@ -3,7 +3,7 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Vox apoyará la propuesta de Sumar en el Congreso para que España no celebre el Mundial con Marruecos](https://www.elconfidencial.com/espana/2026-08-10/vox-sumar-congreso-espana-mundial-marruecos_4403942/?utm_source=lootura.com) — 2026-08-10T13:24:00.000Z

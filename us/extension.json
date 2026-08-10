@@ -1,55 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T15:06:15.261Z",
+  "generatedAt": "2026-08-10T17:06:05.774Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|112|1786366912610",
+    "signature": "1.18.0|113|1786380753625",
     "version": "1.18.0",
-    "build": 112,
-    "latestEntityUpdatedAt": "2026-08-10T13:01:52.610Z"
+    "build": 113,
+    "latestEntityUpdatedAt": "2026-08-10T16:52:33.625Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-iran",
-      "name": "Iran",
+      "id": "usa-united-states",
+      "name": "United States",
       "type": "place",
-      "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-      "url": "https://atlas.lootura.com/us/place/iran",
-      "path": "/us/place/iran",
-      "updatedAt": "2026-08-10T13:01:52.610Z",
-      "score": 1684,
-      "sourceCount": 373,
+      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+      "url": "https://atlas.lootura.com/us/place/united-states",
+      "path": "/us/place/united-states",
+      "updatedAt": "2026-08-10T16:52:33.625Z",
+      "score": 1653,
+      "sourceCount": 689,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-china",
-        "name": "China",
-        "type": "place",
-        "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-        "url": "https://atlas.lootura.com/us/place/china",
-        "path": "/us/place/china",
-        "updatedAt": "2026-08-10T13:01:52.610Z",
-        "score": 1653,
-        "sourceCount": 59,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-10T16:52:33.625Z",
+        "score": 1641,
+        "sourceCount": 658,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-iran",
+        "name": "Iran",
         "type": "place",
-        "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-08-10T13:01:52.610Z",
-        "score": 1648,
-        "sourceCount": 682,
+        "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-10T16:52:33.625Z",
+        "score": 1641,
+        "sourceCount": 375,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
         "url": "https://atlas.lootura.com/us/place/new-york",
         "path": "/us/place/new-york",
-        "updatedAt": "2026-08-10T13:01:52.610Z",
-        "score": 1643,
+        "updatedAt": "2026-08-10T16:52:33.625Z",
+        "score": 1641,
         "sourceCount": 87,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-canada",
-        "name": "Canada",
-        "type": "place",
-        "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-08-10T13:01:52.610Z",
-        "score": 1638,
-        "sourceCount": 63,
+        "id": "usa-new-york-harbor",
+        "name": "New York Harbor",
+        "type": "organization",
+        "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
+        "url": "https://atlas.lootura.com/us/organization/new-york-harbor",
+        "path": "/us/organization/new-york-harbor",
+        "updatedAt": "2026-08-10T16:52:33.625Z",
+        "score": 1631,
+        "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 138
+    "publicEntityCount": 139
   }
 }

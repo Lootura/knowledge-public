@@ -3,10 +3,16 @@
 > Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/familia-real
 
 ## Cambios recientes
+
+### Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»
+
+Carmen Lomana no se ha mordido la lengua al ser preguntada por el regreso de don Juan Carlos al Palacio de Marivent . La socialité ha reaccionado con evidente indiferencia ante la presencia del emérito en la residencia de verano de la Familia Real , una imagen que ha vuelto a poner el foco sobre la relación del antiguo.
+
+Date: 2026-08-10
 
 ### Un vestido para todas: la Infanta hereda de su madre y su hermana
 
@@ -62,12 +68,6 @@ Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Rea
 
 Date: 2026-08-04
 
-### La obsesión de la Reina Sofía en Marivent: quería una casa donde poder caminar siempre descalza
-
-Cada verano, el Palacio de Marivent vuelve a convertirse en el epicentro de la actualidad de la Familia Real. Aunque la atención suele centrarse en la agenda de los Reyes o en las tradicionales imágenes de sus vacaciones en Mallorca, el complejo guarda infinidad de historias y curiosidades que hablan de cómo se ha vivi.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»](https://okdiario.com/cool/famosos/carmen-lomana-carga-contra-regreso-juan-carlos-i-marivent-lo-manda-ceuta-ya-puestos-19153500?utm_source=lootura.com) — 2026-08-10T16:30:20.000Z

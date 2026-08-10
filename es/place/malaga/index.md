@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Viaja a Mallorca y critica la masificación turística en la isla: "Yo vivo y Málaga y ya me quejo, pero es que creo que esto es otro nivel"
+
+El turismo masivo en las Islas Baleares vuelve a estar en el punto de mira, esta vez de la mano de Adriana , creadora de contenido conocida en redes como @adriianitamaillo , que ha compartido en un vídeo sus impresiones tras visitar Mallorca por primera vez. Entre el calor pegajoso de la isla y la sensación de saturaci.
+
+Date: 2026-08-10
 
 ### Condenado a 3 meses de prisión un soldado por viajar fuera de su destino mientras estaba de baja
 
@@ -62,12 +68,6 @@ La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín
 
 Date: 2026-08-06
 
-### Detenido un hombre por el atropello intencionado de un turista de 17 años en Málaga
-
-Agentes de la Policía Nacional han arrestado a un varón de 30 años por, presuntamente, embestir de forma deliberada con un vehículo a un turista de 17 años en el centro de Málaga . El menor sufrió heridas graves y requirió cirugía por fracturas en una pierna. Según informó la Policía en un comunicado, una discusión ent.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Viaja a Mallorca y critica la masificación turística en la isla: "Yo vivo y Málaga y ya me quejo, pero es que creo que esto es otro nivel"](https://www.larazon.es/baleares/viaja-mallorca-critica-masificacion-turistica-isla-vivo-malaga-quejo-creo-otro-nivel-b30m_202608106a79bab5a5690f047372296e.html?utm_source=lootura.com) — 2026-08-10T16:30:13.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
+
+Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
+
+Date: 2026-08-10
 
 ### Más de 33.600 policías para el eclipse: «Tememos que la gente se pare en plena carretera»
 
@@ -62,12 +68,6 @@ La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardi
 
 Date: 2026-08-05
 
-### En Sumario de tarde: de la investigación judicial sobre Ceuta a la crisis en Seguridad Nacional
-
-Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta; Interior oculta en los informes oficiales el número de inmigrantes que entró a Ceuta; Moncloa abre una crisis en Seguridad Nacional : nadie quiere sustituir a la funcionaria destituida; y un guardia civil mata a su expareja , t.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»](https://www.abc.es/espana/madrid/eclipse-seguro-1700-policias-vigilaran-evento-atomizado-20260810132258-nt.html?utm_source=lootura.com) — 2026-08-10T15:54:00.000Z

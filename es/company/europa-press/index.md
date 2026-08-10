@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%
+
+El presidente de ACS, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles máximos históricos.Según consta en los registros de la Comisión Nacional del Mercado de Valores (CNMV) consultados por Europa Press, el dire.
+
+Date: 2026-08-10
 
 ### El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa
 
@@ -62,12 +68,6 @@ Europa Press first entered the public knowledge record with source-backed eviden
 
 Date: 2026-08-02
 
-### Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona
-
-Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa](https://theobjective.com/sanidad/2026-08-10/franco-argentino-contagiado-hantavirus-galicia-alta-pcr-negativa/?utm_source=lootura.com) — 2026-08-10T11:14:21.000Z
+- [Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%](https://www.abc.es/economia/florentino-perez-refuerza-posicion-principal-accionista-acs-20260810181112-nt.html?utm_source=lootura.com) — 2026-08-10T16:11:13.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/europe
 
 ## Cambios recientes
+
+### La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán
+
+Las empresas del índice Stoxx Europe 600 están en camino de registrar un aumento del 22% de sus beneficios durante el segundo trimestre.
+
+Date: 2026-08-10
 
 ### La convocatoria europea de gigafactorías de IA puede activar una nueva cadena industrial
 
@@ -34,4 +40,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán](https://www.expansion.com/economia/financial-times/2026/08/10/6a79d2f3e5fdea98298b4577.html?utm_source=lootura.com) — 2026-08-10T13:34:54.000Z

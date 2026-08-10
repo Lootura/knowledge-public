@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+      "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival (Image credit: Mohammed Sawaf for NPR).",
+      "date": "2026-08-10"
+    },
     {
       "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
       "summary": "Here’s a look at developments across the Middle East.",
@@ -58,13 +63,15 @@
       "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
       "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+      "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:08:06.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 1
 }

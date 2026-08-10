@@ -3,10 +3,34 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T16:52:33.625Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
+
+Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
+
+Date: 2026-08-10
+
+### Congressional Democrats to investigate efforts to deport U.S. military members and their families
+
+The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
+
+Date: 2026-08-10
+
+### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
+
+Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.
+
+Date: 2026-08-10
+
+### The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms
+
+Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
+
+Date: 2026-08-10
 
 ### Inside the Left’s Playbook for Winning Elections
 
@@ -44,32 +68,9 @@ Chuck Schumer and other senators took part in exercises in which legal experts l
 
 Date: 2026-08-09
 
-### The Democratic party needs to do more than represent wealthy progressives | Dustin Guastella
-
-New research shows that a class gap on the left threatens any winning coalition – but there are ways to address it Debates on the left are typically framed as a division between moderates and progressives, with the two sides wrestling over how best to form a governing coalition. Yet, in many ways, this divide obscures.
-
-Date: 2026-08-09
-
-### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
-
-Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
-
-Date: 2026-08-08
-
-### Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’
-
-Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.
-
-Date: 2026-08-08
-
-### Schumer caves, hands Republicans shutdown win after months of uncertainty
-
-The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.
-
-Date: 2026-08-08
-
 ## Sources
 
-- [Centrist Democrats dismiss Abdul El-Sayed as a freak radical. Do they want to win in 2028 or not? | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani?utm_source=lootura.com) — 2026-08-10T05:00:35.000Z
-- [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:42.000Z
-- [Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin](https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/?utm_source=lootura.com) — 2026-08-10T11:00:00.000Z
+- [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
+- [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
+- [Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’](https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race?utm_source=lootura.com) — 2026-08-10T13:00:44.000Z
+- [The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:42.000Z

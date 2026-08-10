@@ -3,20 +3,20 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
-### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
-
-La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
-
-Date: 2026-08-10
-
 ### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
 
 La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
+
+Date: 2026-08-10
+
+### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
+
+La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
 
 Date: 2026-08-10
 
@@ -71,5 +71,3 @@ Date: 2026-08-08
 ## Fuentes
 
 - [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
-- [Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China](https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com) — 2026-08-10T09:12:18.000Z
-- [Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional](https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com) — 2026-08-10T10:30:25.000Z

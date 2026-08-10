@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%",
+      "summary": "El presidente de ACS, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles máximos históricos.Según consta en los registros de la Comisión Nacional del Mercado de Valores (CNMV) consultados por Europa Press, el dire.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa",
       "summary": "El franco-argentino que desde el pasado jueves permanecía aislado en Galicia tras haberse contagiado de hantavirus en Francia ya ha sido dado de alta , puesto que la prueba PCR que se le ha realizado ha dado negativa. Fuentes sanitarias consultadas por Europa Press así lo han confirmado, apuntando además que el contagi.",
@@ -62,19 +67,14 @@
       "title": "Discovered by Atlas",
       "summary": "Europa Press first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
-      "summary": "Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa",
-      "url": "https://theobjective.com/sanidad/2026-08-10/franco-argentino-contagiado-hantavirus-galicia-alta-pcr-negativa/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:14:21.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%",
+      "url": "https://www.abc.es/economia/florentino-perez-refuerza-posicion-principal-accionista-acs-20260810181112-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:11:13.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

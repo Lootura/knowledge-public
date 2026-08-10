@@ -70,6 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support](https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com) — 2026-08-10T00:56:01.000Z
-- [Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai](https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations?utm_source=lootura.com) — 2026-08-10T04:55:18.000Z
-- [Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations](https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html?utm_source=lootura.com) — 2026-08-10T08:23:05.000Z
+No public source links.

@@ -58,4 +58,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Full transcript of "Face the Nation with Margaret Brennan," Aug. 9, 2026](https://www.cbsnews.com/news/face-the-nation-full-transcript-08-09-2026/?utm_source=lootura.com) — 2026-08-09T19:42:43.000Z
+No public source links.

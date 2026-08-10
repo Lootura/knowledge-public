@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Sara Gallego sale del laberinto",
+      "summary": "Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
+      "summary": "Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una \"orden de alejamiento\" Leer.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona",
+      "summary": "Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecretario general de Política Autonómica y Municipal de los populares, mientras comparecía en Barcelona junto al candidato del partido en la Ciudad Condal, Daniel Sirera . El individuo ha dicho no recibir ninguna ayuda del Gobierno y, haciendo f.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería",
       "summary": "Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado de comercializar de forma fraudulenta citas inexistentes para trámites de extranjería . El sospechoso se hacía pasar por responsable de una gestoría administrativa y acumulaba varias requisitorias judiciales dictadas por juzgados de distintos.",
@@ -55,41 +70,26 @@
       "title": "Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)",
       "summary": "Un conductor de 51 años ha perdido la vida este domingo por la mañana tras salirse de la carretera BV-3008 a su paso por Fonollosa (Barcelona), según ha informado el Servei Català de Trànsit (SCT) . El fallecido, vecino de la localidad y único ocupante del turismo , murió después de que el vehículo abandonara la vía y.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
-      "summary": "Adela Hervás, de 63 años, lleva desde 1985 pagando religiosamente un alquiler por su piso de Cornellà de Llobregat (Barcelona). El alquiler, de 228 euros al mes, le ha permitido poder sacar adelante a sus dos hijos ella sola. Pero también invertir en ir mejorando la vivienda sin pedir nada a ninguno de sus cinco casero.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
-      "summary": "En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti",
-      "summary": "Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-10/estafa-citas-falsas-extranjeria-barcelona-1tna-1tps_4403720/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:57:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Sara Gallego sale del laberinto",
+      "url": "https://www.abc.es/deportes/sara-gallego-sale-laberinto-20260809011349-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:15:36.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T10:45:15.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
+      "url": "https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:17:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T10:58:19.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona",
+      "url": "https://okdiario.com/espana/hombre-increpa-gritos-elias-bendodo-acto-del-pp-barcelona-19156539?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:09:53.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 3

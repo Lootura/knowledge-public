@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España](https://cincodias.elpais.com/mercados-financieros/2026-08-10/revolut-logra-licencia-bancaria-francesa-y-traslada-a-paris-el-centro-de-su-negocio-en-espana.html?utm_source=lootura.com) — 2026-08-10T11:01:04.000Z
+No public source links.

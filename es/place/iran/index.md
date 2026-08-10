@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Un Gobierno en emergencia permanente
 
 Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
+
+### Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox
+
+Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.
+
+Date: 2026-08-10
+
+### Irán y Omán redibujan el mapa de Ormuz sin Washington
+
+Este acercamiento entre Teherán y Mascate surge de años de cooperación entre ambos Gobiernos Leer.
+
+Date: 2026-08-10
+
+### La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán
+
+Las empresas del índice Stoxx Europe 600 están en camino de registrar un aumento del 22% de sus beneficios durante el segundo trimestre.
 
 Date: 2026-08-10
 
@@ -50,25 +68,9 @@ El cambio de estrategia del sector más progresista de los demócratas complica 
 
 Date: 2026-08-08
 
-### Los vicepresidentes de Vox no irán a la reunión sobre los menores migrantes de Ceuta y hacen constar por carta su 'no' al reparto
-
-Reclaman al Gobierno que concluya primero los "expedientes individualizados" de cada niño y avanzan que impugnarán judicialmente aquellos "que no finalicen con el retorno a Marruecos" Leer.
-
-Date: 2026-08-08
-
-### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
-
-Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
-
-Date: 2026-08-07
-
-### El Senado de EE UU aprueba por amplia mayoría el proyecto de ley de sanciones contra Rusia e Irán
-
-El Senado de Estados Unidos aprobó este viernes por una contundente mayoría un proyecto de ley bipartidista que impone sanciones más duras a Rusia y a Irán La votación, que salió adelante por 86 votos frente a 11 , ha puesto fin a más de un año y medio de negociaciones entre republicanos y demócratas. El proyecto de le.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T11:01:54.000Z
+- [Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox](https://www.abc.es/espana/consejeros-infancia-pp-acudiran-reunion-gobierno-diferencia-20260810135200-nt.html?utm_source=lootura.com) — 2026-08-10T15:52:33.000Z
+- [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán](https://www.expansion.com/economia/financial-times/2026/08/10/6a79d2f3e5fdea98298b4577.html?utm_source=lootura.com) — 2026-08-10T13:34:54.000Z

@@ -46,4 +46,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Fires grip western U.S., British Columbia: "It doesn't seem like it's real"](https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com) — 2026-08-10T00:43:00.000Z
+No public source links.

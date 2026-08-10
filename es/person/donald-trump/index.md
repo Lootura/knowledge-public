@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T16:52:13.547Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
+
+Date: 2026-08-10
 
 ### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
 
@@ -62,12 +68,6 @@ El cambio de estrategia del sector más progresista de los demócratas complica 
 
 Date: 2026-08-08
 
-### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
-
-El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z

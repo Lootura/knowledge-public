@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T16:52:33.625Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
+    {
+      "title": "Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’",
+      "summary": "Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'",
       "summary": "Rep. Alexandria Ocasio-Cortez , D-N.Y., dismissed her and other socialist politicians' past extreme controversial comments on ABC's \"This Week\" Sunday, joking that the \"Woke 1\" era was \"crazy.\" Host Jon Karl asked Ocasio-Cortez to comment on Wisconsin gubernatorial candidate Francesca Hong and her controversial comment.",
@@ -44,6 +49,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:00:44.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

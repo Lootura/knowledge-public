@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T16:52:13.547Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -48,6 +48,16 @@
       "date": "2026-08-10"
     },
     {
+      "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
+      "summary": "Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
       "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
       "date": "2026-08-10"
@@ -81,19 +91,21 @@
       "title": "La \"guerra trans\" alcanza a la WNBA: dos exNBA aspiran a ser elegibles en el \"draft\" porque se identifican como mujeres",
       "summary": "Una de las guerras culturales que se han abierto recientemente en Estados Unidos concierne a las deportistas trans y esa polémica ya ha alcanzado a la NBA femenina . Hace apenas tres semanas, Sophie Cunningham , jugadora de las Indiana Fever, afirmó: «Quiero proteger a las niñas en los vestuarios y a las niñas que prac.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
-      "summary": "\"Ahora no tenemos ninguna negociación con Estados Unidos\", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras \"no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas\" Del bloqueo naval al fin de sanciones: est.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Los socialistas estadounidenses querrían ser españoles",
-      "summary": "La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
+    {
+      "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
+      "url": "https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T16:37:48.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:23:04.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
     {
       "title": "Un Gobierno en emergencia permanente",
       "url": "https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com",
@@ -101,5 +113,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }
