@@ -22,7 +22,7 @@ Date: 2026-08-10
 
 ### Discovered by Atlas
 
-Transformación Digital first entered the public knowledge record with source-backed evidence.
+Transformación digital first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-10
 

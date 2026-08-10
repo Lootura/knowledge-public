@@ -10,11 +10,11 @@
   "description": "Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
-    "servicio público",
-    "servicio publico",
-    "public service",
+    "civil service system",
     "civilian service",
-    "civil service system"
+    "public service",
+    "servicio publico",
+    "servicio público"
   ],
   "changes": [
     {
@@ -29,11 +29,22 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Función Pública first entered the public knowledge record with source-backed evidence.",
+      "summary": "Función pública first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Díaz privatiza el SEPE: pagará 5 millones de euros a una empresa para gestionar el trabajo de sus funcionarios",
+      "summary": "El Ministerio de Trabajo y Economía Social , a través del Servicio Público de Empleo Estatal (SEPE), ha sacado a licitación el contrato para la prestación del «servicio de mejora del sistema de gestión de prestaciones por desempleo» por un valor estimado global que supera los 5 millones de euros a tendiendo a la duraci.",
       "date": "2026-08-10"
     }
   ],
   "sources": [
+    {
+      "title": "Díaz privatiza el SEPE: pagará 5 millones de euros a una empresa para gestionar el trabajo de sus funcionarios",
+      "url": "https://okdiario.com/economia/diaz-privatiza-sepe-pagara-5-millones-euros-empresa-gestionar-trabajo-sus-funcionarios-19154411?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:01:45.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
     {
       "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
       "url": "https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com",
@@ -47,5 +58,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }
