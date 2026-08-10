@@ -1,0 +1,47 @@
+{
+  "id": "es-transformacion-digital",
+  "name": "Transformación digital",
+  "type": "concept",
+  "locale": "es",
+  "canonicalPath": "/es/concept/transformacion-digital",
+  "canonicalUrl": "https://atlas.lootura.com/es/concept/transformacion-digital",
+  "markdownUrl": "https://atlas.lootura.com/es/concept/transformacion-digital/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/concept/transformacion-digital/index.json",
+  "description": "Sigue la actividad de Transformación digital en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "aliases": [
+    "DX"
+  ],
+  "changes": [
+    {
+      "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
+      "summary": "El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "summary": "El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Transformación Digital first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
+      "url": "https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:50:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "url": "https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:30:25.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

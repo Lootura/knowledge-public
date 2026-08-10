@@ -3,7 +3,7 @@
 > Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-04T06:25:33.626Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/company/taylor-farms
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-No public source links.
+- [Taylor Farms recalls jalapeño items at Walmart, Target over salmonella risk](https://www.cbsnews.com/news/taylor-farms-jalapeno-recall-salmonella-outbreak/?utm_source=lootura.com) — 2026-08-10T12:07:00.000Z

@@ -1,0 +1,47 @@
+{
+  "id": "usa-hoover-dam",
+  "name": "Hoover Dam",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/hoover-dam",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/hoover-dam",
+  "markdownUrl": "https://atlas.lootura.com/us/place/hoover-dam/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/hoover-dam/index.json",
+  "description": "Follow Hoover Dam, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "aliases": [
+    "Boulder Dam"
+  ],
+  "changes": [
+    {
+      "title": "Lake Mead, the Nation’s Largest Reservoir, Is Smaller Than Ever",
+      "summary": "Water levels in the reservoir, which sits behind the Hoover Dam, are at record lows. A continued drop would imperil water supplies for millions of people and cut electricity from the dam.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "The U.S.’s Largest Reservoir Just Fell to Its Lowest Water Level",
+      "summary": "Boats cruise past a white \"bathtub ring\" of mineral-stained rocks left by higher water levels in The Narrows upstream of the Hoover Dam in the Lake Mead National Recreation Area on July 25, 2026. —Ethan Miller—Getty Images Lake Mead, the reservoir on the Arizona-Nevada border that is a crucial source of water for the A.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Hoover Dam first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lake Mead, the Nation’s Largest Reservoir, Is Smaller Than Ever",
+      "url": "https://www.nytimes.com/2026/08/09/us/lake-mead-water-level-record-low.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:44:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "The U.S.’s Largest Reservoir Just Fell to Its Lowest Water Level",
+      "url": "https://time.com/article/2026/08/10/lake-mead-low-water-level/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:45:40.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
+}

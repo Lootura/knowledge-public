@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it](https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com) — 2026-08-09T16:17:38.000Z
-- [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z
+No public source links.

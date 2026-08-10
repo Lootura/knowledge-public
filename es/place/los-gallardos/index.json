@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Gallardos"
   ],
   "changes": [
+    {
+      "title": "Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado",
+      "summary": "Ocho familiares de las víctimas mortales del incendio de Los Gallardos , en Almería, que dejó 14 muertos el pasado julio , se personarán como acusación en la causa. Así lo ha otorgado la plaza número 3 de la Sección Civil y de Instrucción del Tribunal de Instancia de Vera. Asimismo, el resto de los afectados podrán sum.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Un mes del mortífero incendio de Los Gallardos: \"Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar\"",
       "summary": "Afectados por el fuego que causó 14 muertos en julio piden mejorar los sistemas de alerta y las rutas de evacuación mientras los pueblos quemados tratan de recuperar la normalidad con secuelas ambientales y, sobre todo, psicológicas Leer.",
@@ -57,19 +62,14 @@
       "title": "Spain wildfires: with 13 dead, we need to start measuring fire damage in lives – not just hectares",
       "summary": "Burnt out cars and scorched trees in the aftermath of the Los Gallardos fire in Almería, July 9, 2026 RTVE The July 9 wildfire in Los Gallardos – in Almería, eastern Andalusia – was a tragedy with a huge human and social impact. Beyond the provisional figures of dead, missing and injured and the specific circumstances.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "La petición de Juanma Moreno a su Gobierno: «gestión» para huir de los debates ideológicos",
-      "summary": "El incendio de Los Gallardos retrasó la toma de posesión de los nuevos consejeros del Gobierno andaluz, acto que se celebró finalmente ayer en el Palacio de San Telmo y donde se celebró posteriormente el primer Consejo de Gobierno de la legislatura. Como sucedió en 2019, lo conforman dos partidos con la intención de qu.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Un mes del mortífero incendio de Los Gallardos: \"Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar\"",
-      "url": "https://www.elmundo.es/andalucia/2026/08/10/6a75e9eee9cf4a092e8b45a7.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T23:33:26.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-10/incendio-gallardos-personan-acusacion-juzgado-familiares_4403766/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:27:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

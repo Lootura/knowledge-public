@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
+      "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
+      "date": "2026-08-10"
+    },
     {
       "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
       "summary": "El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.",
@@ -58,13 +63,15 @@
       "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
       "summary": "Activa la \"cuenta atrás\" hacia La Moncloa y plantea un plan de regeneración institucional, más \"gestión\" y rebajas fiscales a familia y autónomos Leer.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Palacio de la Moncloa first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
+      "url": "https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:42:39.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

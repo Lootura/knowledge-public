@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others](https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com) — 2026-08-09T15:20:38.000Z
+No public source links.

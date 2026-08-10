@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news](https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com) — 2026-08-09T17:55:18.000Z
+No public source links.

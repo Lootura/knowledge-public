@@ -3,7 +3,7 @@
 > Follow New York Harbor, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/organization/new-york-harbor
 
 ## Recent changes
@@ -14,7 +14,7 @@ The captain of a boat that overturned in New York Harbor was charged with reckle
 
 Date: 2026-08-10
 
-### Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested
+### Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested
 
 A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
 
@@ -26,15 +26,15 @@ New York Harbor first entered the public knowledge record with source-backed evi
 
 Date: 2026-08-09
 
-### Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby
-
-A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.
-
-Date: 2026-08-09
-
 ### Here’s the biggest news you missed this weekend
 
 Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.
+
+Date: 2026-08-09
+
+### Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby
+
+A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.
 
 Date: 2026-08-09
 
@@ -65,6 +65,5 @@ Date: 2026-08-09
 ## Sources
 
 - [Mother, 5-month-old baby killed in New York boat capsize, captain arrested](https://www.cbsnews.com/video/mother-5-month-old-baby-killed-new-york-boat-capsize-captain-arrested/?utm_source=lootura.com) — 2026-08-10T00:30:00.000Z
-- [Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T03:53:44.000Z
+- [Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T03:53:00.000Z
 - [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com) — 2026-08-09T22:00:00.000Z
-- [Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby](https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com) — 2026-08-09T14:04:26.000Z

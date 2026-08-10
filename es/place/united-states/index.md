@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -71,6 +71,3 @@ Date: 2026-08-09
 ## Fuentes
 
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump](https://www.larazon.es/internacional/interceptan-dos-aviones-que-violaron-espacio-aereo-club-golf-donde-estaba-trump_202608106a79933e71b42a0b5de73f91.html?utm_source=lootura.com) — 2026-08-10T09:00:46.000Z
-- [Cuando el miedo decide: creencias políticas y giro conservador en América Latina](https://theconversation.com/cuando-el-miedo-decide-creencias-politicas-y-giro-conservador-en-america-latina-288584?utm_source=lootura.com) — 2026-08-10T06:11:28.000Z
-- [Un malagueño consigue el pase de oro en America’s Got Talent con su parkour](https://theobjective.com/sociedad/2026-08-10/malagueno-pase-oro-americas-got-talent-parkour/?utm_source=lootura.com) — 2026-08-10T07:57:18.000Z

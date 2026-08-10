@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes

@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura](https://www.larazon.es/cataluna/crisis-abiertas-principales-retos-que-espera-govern-illa-dos-anos-que-quedan-legislatura_202608106a7995fba046ad6ebca935af.html?utm_source=lootura.com) — 2026-08-10T09:12:36.000Z
+No public source links.

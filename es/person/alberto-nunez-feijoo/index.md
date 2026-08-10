@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [El PP asistirá a la reunión con el Gobierno por los menores migrantes vetada por Vox](https://www.eldiario.es/politica/pp-asistira-reunion-gobierno-menores-migrantes-vetada-vox_1_13438088.html?utm_source=lootura.com) — 2026-08-10T11:19:05.000Z

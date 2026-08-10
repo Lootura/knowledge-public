@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes",
       "summary": "«Contemos la verdad de lo que está pasando» . Así se tajante se ha expresado el presidente de Ceuta, Juan Jesús Vivas , que ha comparecido ante los medios de comunicación para desmentir al Gobierno. Según los datos que maneja la ciudad autónoma, aún quedan entre 8.000 y 11.000 inmigrantes de los 72.000 que asaltaron la.",
@@ -59,13 +64,15 @@
       "title": "Vivas agradece al Rey Felipe VI su compromiso con Ceuta y confía en una futura visita a la ciudad",
       "summary": "El presidente de Ceuta , Juan Jesús Vivas, ha agradecido este jueves el compromiso de Felipe VI con la ciudad autónoma y se ha mostrado convencido de que el monarca visitará la región cuando sea posible. \" No me cabe la menor duda de que el Rey nos va a visitar \", ha dicho Vivas en declaraciones a los medios después de.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El presidente de Ceuta pide a Europa blindar la frontera: \"Está en manos de un país tercero que no reconoce nuestra soberanía\"",
-      "summary": "El presidente de la ciudad autónoma de Ceuta , Juan Jesús Vivas, ha reclamado este jueves el \"blindaje\" de la frontera común con Marruecos, que es \"la de todos\", y ha pedido mayor dotación de medios personales y materiales\" en la zona. \"Nuestra población se siente triste, impotente, inquieta, temerosa y preocupada . Y.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión",
+      "url": "https://okdiario.com/espana/gobierno-eleva-ahora-80-000-inmigrantes-que-entraron-ceuta-30-000-mas-que-dijo-invasion-19154386?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:26:41.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/person/anthony-fauci
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Dr Fauci made mistakes. But his persecution is a travesty | Margaret Sullivan](https://www.theguardian.com/commentisfree/2026/aug/10/dr-fauci-persecution-republicans?utm_source=lootura.com) — 2026-08-10T10:00:42.000Z

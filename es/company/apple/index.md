@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Sorpresa en el Apple Watch Series 12: Apple revivirá un modelo icónico que los fans adoraban](https://hipertextual.com/apple/sorpresa-en-el-apple-watch-series-12-apple-revivira-un-modelo-iconico-que-los-fans-adoraban/?utm_source=lootura.com) — 2026-08-10T07:27:53.000Z
+No public source links.

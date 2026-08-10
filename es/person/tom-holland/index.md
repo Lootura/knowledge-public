@@ -3,10 +3,16 @@
 > Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T14:04:41.484Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/tom-holland
 
 ## Cambios recientes
+
+### Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman
+
+La última película de Spiderman lleva unas semanas en las grandes pantallas españolas y promete ser una de las taquilleras del año . Buena culpa de ello la tiene Tom Holland , que desde que se enfundó el traje del hombre araña lleva ya cuatro películas triunfando como Peter Parker dentro de este universo de Marvel. En.
+
+Date: 2026-08-10
 
 ### ¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian
 
@@ -52,4 +58,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman](https://www.abc.es/bienestar/fitness/hombre-arana-gimnasio-preparo-tom-holland-spiderman-20260807011041-nt.html?utm_source=lootura.com) — 2026-08-10T12:33:58.000Z

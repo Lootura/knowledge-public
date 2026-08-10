@@ -22,5 +22,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Sen. Bernie Sanders says Minnesota Senate contest is going to be a "tight race"](https://www.cbsnews.com/video/sen-bernie-sanders-says-minnesota-senate-contest-is-going-to-be-a-tight-race/?utm_source=lootura.com) — 2026-08-09T16:26:25.000Z
-- [Trump's immigration crackdown looms over Minnesota's bruising Senate primary](https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com) — 2026-08-09T17:18:47.000Z
+No public source links.

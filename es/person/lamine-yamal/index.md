@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Adidas alcanza ventas y beneficios récord en España en pleno auge de la selección y de Lamine Yamal](https://cincodias.elpais.com/companias/2026-08-10/adidas-alcanza-ventas-y-beneficios-record-en-espana-en-pleno-auge-de-la-seleccion-y-de-lamine-yamal.html?utm_source=lootura.com) — 2026-08-10T12:18:36.000Z

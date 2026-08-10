@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump takes his second swing at Fed’s Cook](https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com) — 2026-08-10T08:58:48.000Z
+No public source links.

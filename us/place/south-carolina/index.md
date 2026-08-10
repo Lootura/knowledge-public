@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Will Darline Graham face the same fate Pamela Evette did in South Carolina?](https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com) — 2026-08-09T15:00:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado
+
+Ocho familiares de las víctimas mortales del incendio de Los Gallardos , en Almería, que dejó 14 muertos el pasado julio , se personarán como acusación en la causa. Así lo ha otorgado la plaza número 3 de la Sección Civil y de Instrucción del Tribunal de Instancia de Vera. Asimismo, el resto de los afectados podrán sum.
+
+Date: 2026-08-10
 
 ### Un mes del mortífero incendio de Los Gallardos: "Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar"
 
@@ -62,12 +68,6 @@ Burnt out cars and scorched trees in the aftermath of the Los Gallardos fire in 
 
 Date: 2026-07-16
 
-### La petición de Juanma Moreno a su Gobierno: «gestión» para huir de los debates ideológicos
-
-El incendio de Los Gallardos retrasó la toma de posesión de los nuevos consejeros del Gobierno andaluz, acto que se celebró finalmente ayer en el Palacio de San Telmo y donde se celebró posteriormente el primer Consejo de Gobierno de la legislatura. Como sucedió en 2019, lo conforman dos partidos con la intención de qu.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Un mes del mortífero incendio de Los Gallardos: "Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar"](https://www.elmundo.es/andalucia/2026/08/10/6a75e9eee9cf4a092e8b45a7.html?utm_source=lootura.com) — 2026-08-09T23:33:26.000Z
+- [Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado](https://www.elconfidencial.com/espana/andalucia/2026-08-10/incendio-gallardos-personan-acusacion-juzgado-familiares_4403766/?utm_source=lootura.com) — 2026-08-10T10:27:00.000Z

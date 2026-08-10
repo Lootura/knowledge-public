@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump Vows to Take Ballroom Battle to the Supreme Court
+
+President Donald Trump’s planned ballroom is in jeopardy after a federal appeals court ruled Congress should have approved the project first. The president is now calling on the Supreme Court to overturn that decision. NBC’s Gabe Gutierrez reports for TODAY.
+
+Date: 2026-08-10
 
 ### Trump to appeal White House ballroom ruling to Supreme Court
 
@@ -62,12 +68,7 @@ US President Donald Trump speaks after signing executive orders in the Oval Offi
 
 Date: 2026-08-07
 
-### Trump signs new orders targeting birthright citizenship
-
-Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Trump takes his second swing at Fed’s Cook](https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com) — 2026-08-10T08:58:48.000Z
+- [Physicians report negative impacts of abortion bans across pregnancy care](https://medicalxpress.com/news/2026-08-physicians-negative-impacts-abortion-pregnancy.html?utm_source=lootura.com) — 2026-08-10T13:00:03.000Z
+- [Trump Vows to Take Ballroom Battle to the Supreme Court](https://www.today.com/video/trump-calls-on-supreme-court-to-overturn-ballroom-ruling-268023365683?utm_source=lootura.com) — 2026-08-10T11:29:01.000Z

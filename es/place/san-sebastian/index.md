@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Tamarit de Valencia busca «sorprender» al público donostiarra
+
+Será la segunda participación en Donostia de la compañía fundada en 2018.
+
+Date: 2026-08-10
 
 ### Naturaleza bajo cuidados intensivos
 
@@ -62,12 +68,7 @@ Consulta día a día las actividades programadas para la Aste Nagusia de San Seb
 
 Date: 2026-08-06
 
-### El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares
-
-El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.
-
-Date: 2026-08-05
-
 ## Fuentes
 
+- [Tamarit de Valencia busca «sorprender» al público donostiarra](https://www.diariovasco.com/san-sebastian/semana-grande/tamarit-valencia-busca-sorprender-publico-donostiarra-20260810112148-nt_amp.html?utm_source=lootura.com) — 2026-08-10T09:21:49.000Z
 - [Naturaleza bajo cuidados intensivos](https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com) — 2026-08-09T22:04:19.000Z

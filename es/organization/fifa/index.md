@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»
+
+En 2013, Verónica Boquete, tras años con un balón en el pie, batalló para que el juego FIFA incluyese mujeres. Para el 'FIFA 16', lo consiguió. La futbolista, que se ha ganado a pulso la etiqueta de pionera, fue la primera española en alzar una Champions . La primera nominada al Balón de Oro. Y, también, la capitana de.
+
+Date: 2026-08-10
 
 ### La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»
 
@@ -62,12 +68,6 @@ El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino "no debe 
 
 Date: 2026-08-02
 
-### European criticism of FIFA ruling grew
-
-La mayoría de las federaciones nacionales lo rechazaban y la UEFA había amenazado con no participar en las competiciones.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»](https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com) — 2026-08-10T12:39:01.000Z

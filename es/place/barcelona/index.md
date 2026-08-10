@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería
+
+Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado de comercializar de forma fraudulenta citas inexistentes para trámites de extranjería . El sospechoso se hacía pasar por responsable de una gestoría administrativa y acumulaba varias requisitorias judiciales dictadas por juzgados de distintos.
+
+Date: 2026-08-10
+
+### Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15
+
+El servicio de trenes de Rodalies ha vuelto a sufrir este lunes una nueva interrupción tras otro robo de cable, esta vez en la estación de Bellvitge-Gornal, en L'Hospitalet de Llobregat (Barcelona). A consecuencia de este incidente, Adif ha informado a través de redes sociales que se pueden registrar retrasos en las lí.
+
+Date: 2026-08-10
+
+### El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox
+
+El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.
+
+Date: 2026-08-10
 
 ### Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026
 
@@ -50,24 +68,8 @@ Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer 
 
 Date: 2026-08-08
 
-### Prisión para el presunto autor del homicidio de un hombre en Nou Barris
-
-Un juez de guardia de Barcelona ha decretado este sábado el ingreso en prisión comunicada y sin fianza del hombre, hondureño de 22 años, que el jueves presuntamente asesinó al actual pareja de exmujer. La víctima, de nacionalidad española y 44 años, mantenía una relación de clandestina, de amantes, con la hija de los p.
-
-Date: 2026-08-08
-
-### El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego
-
-El Barcelona se marcha de Italia sin trofeo veraniego y con un mal sabor de boca tras perder contra el Udinese en los segundos 45 minutos de la triangular. Un gol de Bayo a la contra, aprovechando un desajuste defensivo de la zaga culé, condenó al Barça de Hansi Flick a perder 1-0. El Barcelona, tras la victoria ante e.
-
-Date: 2026-08-08
-
-### Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: "No fue fácil para mí..."
-
-Hansi Flick atendió a los medios de comunicación en sala de prensa tras la victoria ante el Nottingham y la derrota contra el Udinese.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026](https://www.larazon.es/cataluna/delitos-metro-barcelona-caen-34-primer-semestre-2026_202608106a79967e71b42a0b5de74610.html?outputType=amp&utm_source=lootura.com) — 2026-08-10T09:14:38.000Z
+- [Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería](https://www.elconfidencial.com/espana/cataluna/2026-08-10/estafa-citas-falsas-extranjeria-barcelona-1tna-1tps_4403720/?utm_source=lootura.com) — 2026-08-10T09:57:00.000Z
+- [Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15](https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html?utm_source=lootura.com) — 2026-08-10T10:45:15.000Z
+- [El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox](https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html?utm_source=lootura.com) — 2026-08-10T10:58:19.000Z

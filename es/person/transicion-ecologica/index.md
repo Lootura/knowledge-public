@@ -46,4 +46,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Castilla y León activa la alerta por riesgo extremo de incendios del 11 al 13 de agosto](https://theobjective.com/sociedad/2026-08-10/castilla-leon-alerta-extremo-incendios-11-13-agosto/?utm_source=lootura.com) — 2026-08-10T08:07:50.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
   "aliases": [
     "EU",
     "European Union"
@@ -25,13 +25,23 @@
       "date": "2026-08-10"
     },
     {
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
-      "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coas.",
+      "title": "Western Europe experienced hottest June-July on record: EU monitor",
+      "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
       "date": "2026-08-10"
     },
     {
-      "title": "Western Europe experienced hottest June-July on record: EU monitor",
-      "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
+      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+      "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Europe Will Get Its First Total Solar Eclipse in Over 25 Years. Here's What You Should Know",
+      "summary": "The total solar eclipse of 2024, seen from Dallas, Texas —NASA/Keegan Barber Just for the record, a celestial dragon will not eat the sun on Aug. 12, 2026. Nor will a mythic wolf named Sköll chase the sun through the sky, catching it and biting it. And nor will the sun be swallowed by a giant squirrel. But don’t tell t.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coas.",
       "date": "2026-08-10"
     },
     {
@@ -53,16 +63,6 @@
       "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
       "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Opinion: Europe's summer of heat",
-      "summary": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Europeans face energy crisis as heat wave brings wildfires and drought",
-      "summary": "The Danube River hasn't been this low in over 200 years. Wildfires are scorching multiple countries in Europe. Less water means less nuclear energy generation, bringing an energy crisis. Ramy Inocencio details Europe's heat wave struggles.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -85,23 +85,17 @@
       "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T02:00:31.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+      "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:48:12.000Z",
+      "sourceId": "lootura-us-the-verge"
     },
     {
-      "title": "Movie paradise? How Malta became a magnet for big film shoots",
-      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:00:34.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
-      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:23:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Europe Will Get Its First Total Solar Eclipse in Over 25 Years. Here's What You Should Know",
+      "url": "https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

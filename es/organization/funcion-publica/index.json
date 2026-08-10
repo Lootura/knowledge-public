@@ -1,0 +1,51 @@
+{
+  "id": "es-funcion-publica",
+  "name": "Función pública",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/funcion-publica",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/funcion-publica",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/funcion-publica/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/funcion-publica/index.json",
+  "description": "Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "aliases": [
+    "servicio público",
+    "servicio publico",
+    "public service",
+    "civilian service",
+    "civil service system"
+  ],
+  "changes": [
+    {
+      "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
+      "summary": "El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "summary": "El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Función Pública first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
+      "url": "https://theobjective.com/economia/2026-08-10/gobierno-17-octubre-prefijo-400-llamadas-comerciales/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:50:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "url": "https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:30:25.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

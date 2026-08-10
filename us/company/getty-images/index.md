@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin
+
+—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.
+
+Date: 2026-08-10
 
 ### Opinion: Europe's summer of heat
 
@@ -62,12 +68,6 @@ Margo Howard had a lot of life experience and used it to offer advice for years 
 
 Date: 2026-08-01
 
-### What Octogenarian Pop Divas Show Us About a Life Well-Lived
-
-Cher, Dolly Parton, Barbra Streisand, and Dionne Warwick —Stewart Cook—CBS/Getty Images; Jason Kempin—Getty Images; Kevin Mazur—BSB/Getty Images; Frank Hoensch—Redferns/Getty Images On May 20, Cher turned 80 years old. Beyond a celebration of one spectacular career, her birthday is an occasion to consider what it means.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin](https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/?utm_source=lootura.com) — 2026-08-10T11:00:00.000Z

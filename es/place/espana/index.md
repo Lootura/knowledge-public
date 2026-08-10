@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -11,48 +11,6 @@
 ### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
 
 Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
-
-Date: 2026-08-10
-
-### La Aemet actualiza el tiempo que hará el día del eclipse solar: las nubes amenazan la visibilidad en varios puntos
-
-La Agencia Estatal de Meteorología (Aemet) mantiene su previsión de riesgo de incendios para este miércoles, 12 de agosto, día en el que España vivirá su primer eclipse total solar en 114 años. La Agencia, mediante su boletín diario especial de cara a esta jornada, prevé que el miércoles 12 de agosto, jornada del eclip.
-
-Date: 2026-08-10
-
-### La UE pone en marcha la 'revolución' del envase', que vetará bolsas, monodosis y cortesías de hotel
-
-El miércoles que viene empezará en toda la UE, incluida España, una nueva era del envasado de todo tipo de productos que ya está cambiando la manera de producirlos por parte de la industria pero que también y de manera progresiva tendrá un efecto cada vez más presente entre los consumidores . El día del eclipse solar e.
-
-Date: 2026-08-10
-
-### Meliá advierte sobre los efectos de las "trabas" al turismo por la disputa entre Sánchez y Meloni
-
-El sector del turismo advierte sobre los posibles efectos para el turismo , uno de los principales motores de la economía nacional, de la disputa política que mantienen España e Italia a cuenta de la crisis migratoria. El presidente y consejero delegado de Meliá Hotels International , Gabriel Escarrer, ha calificado de.
-
-Date: 2026-08-10
-
-### Los sueldos de los trabajos de verano: ¿cuánto cobra un socorrista? ¿Y un camarero?
-
-El empleo en España sigue ligado a un fuerte componente estacional . En verano, las cifras de trabajadores ocupados suelen crecer porque buena parte de la economía de nuestro país se mueve a golpe de turismo y sus actividades relacionadas, lo que engloba a gran cantidad de sectores.El trabajo de verano mueve la economí.
-
-Date: 2026-08-10
-
-### El filtro del millón de euros: el 86% de las viviendas de lujo se concentran en solo seis provincias
-
-Prácticamente todas las regiones de España tienen una casa de más de un millón de euros disponible en su mercado inmobiliario. En concreto, y según los datos recogidos por idealista, solo dos de las 50 provincias del territorio español no cuentan con lo que se puede considerar como una vivienda de lujo. En cambio, el 8.
-
-Date: 2026-08-10
-
-### Marruecos compra impunidad
-
-Algunos esperaban que los ministros de Interior de la Unión Europea, reunidos el 4 de agosto, defendiesen a España de la invasión proxy de Ceuta organizada por Marruecos , exigiesen a Pedro Sánchez medidas severas y castigasen a Mohamed VI . No ha ocurrido nada de ello. Tampoco que Sánchez reaccionase contra Marruecos.
-
-Date: 2026-08-10
-
-### Cómo hacer las mejores fotos del eclipse en España sin dañar la cámara (ni la vista)
-
-El eclipse se puede fotografiar fuadstephan/Shutterstock El 12 de agosto de 2026, España será uno de los mejores lugares del mundo para contemplar un fenómeno astronómico extraordinario: un eclipse total de Sol . Para quienes estén dentro de la franja de totalidad del eclipse, durante unos minutos, la Luna se interpond.
 
 Date: 2026-08-10
 
@@ -68,15 +26,56 @@ El precio medio de la vivienda en alquiler en España se situó en julio en 14,8
 
 Date: 2026-08-10
 
+### Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»
+
+En 2013, Verónica Boquete, tras años con un balón en el pie, batalló para que el juego FIFA incluyese mujeres. Para el 'FIFA 16', lo consiguió. La futbolista, que se ha ganado a pulso la etiqueta de pionera, fue la primera española en alzar una Champions . La primera nominada al Balón de Oro. Y, también, la capitana de.
+
+Date: 2026-08-10
+
+### Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España
+
+Revolut ha dado un nuevo paso para reforzar su presencia en Europa. El Banco Central Europeo (BCE) y el supervisor francés han concedido al neobanco la licencia bancaria en Francia, según ha confirmado la entidad en una nota de prensa. Esa será la entidad a la que migrarán los clientes de Francia, Alemania, España, Irl.
+
+Date: 2026-08-10
+
+### Merz endurece su postura migratoria y devolverá a Italia a solicitantes de asilo, pero Meloni rechaza acogerlos
+
+Alemania exige a Italia activar de inmediato la aplicación del pacto migratorio europeo y recibir de vuelta a los migrantes que llegaron a la UE a través de las fronteras italianas. Roma busca retrasar ese momento y pide "compensaciones" por acogerlos Meloni denuncia la regularización en España mientras llama a miles d.
+
+Date: 2026-08-10
+
+### Italia le da una lección a España con el puente de Génova: cuatro robots toman 25.000 fotos cada ocho horas para detectar daños
+
+El viaducto San Giorgio integra dos máquinas de inspección y dos de limpieza que recorren su estructura, alimentan un archivo fotográfico continuo y anticipan las reparaciones.
+
+Date: 2026-08-10
+
+### Un joven africano cuenta cómo es su vida en Ciudad Real: "En otro sitio me dijeron que me fuera a mi país, pero aquí nunca me ha pasado"
+
+Jackson Fedrick , un joven africano instalado en Ciudad Real , ha compartido en redes sociales un testimonio espontáneo sobre cómo vive su día a día en la ciudad manchega, grabado mientras paseaba por la Plaza Mayor. "Yo vivo en Ciudad Real, España. Yo hablo un poco español" , explica Jackson al inicio de su vídeo, dej.
+
+Date: 2026-08-10
+
+### La Aemet actualiza el tiempo que hará el día del eclipse solar: las nubes amenazan la visibilidad en varios puntos
+
+La Agencia Estatal de Meteorología (Aemet) mantiene su previsión de riesgo de incendios para este miércoles, 12 de agosto, día en el que España vivirá su primer eclipse total solar en 114 años. La Agencia, mediante su boletín diario especial de cara a esta jornada, prevé que el miércoles 12 de agosto, jornada del eclip.
+
+Date: 2026-08-10
+
+### La UE pone en marcha la 'revolución' del envase', que vetará bolsas, monodosis y cortesías de hotel
+
+El miércoles que viene empezará en toda la UE, incluida España, una nueva era del envasado de todo tipo de productos que ya está cambiando la manera de producirlos por parte de la industria pero que también y de manera progresiva tendrá un efecto cada vez más presente entre los consumidores . El día del eclipse solar e.
+
+Date: 2026-08-10
+
 ## Fuentes
 
-- [La Aemet actualiza el tiempo que hará el día del eclipse solar: las nubes amenazan la visibilidad en varios puntos](https://www.20minutos.es/nacional/aemet-actualiza-tiempo-que-hara-dia-eclipse-solar-las-nubes-amenazan-visibilidad-varios-puntos-espana_7024140_0.html?utm_source=lootura.com) — 2026-08-10T08:53:46.000Z
-- [La UE pone en marcha la 'revolución' del envase', que vetará bolsas, monodosis y cortesías de hotel](https://www.20minutos.es/nacional/ue-pone-marcha-esta-semana-revolucion-envase-que-vetara-bolsas-monodosis-cortesias-hotel_7022923_0.html?utm_source=lootura.com) — 2026-08-10T05:21:07.000Z
-- [Meliá advierte sobre los efectos de las "trabas" al turismo por la disputa entre Sánchez y Meloni](https://www.20minutos.es/lainformacion/economia-y-finanzas/ceo-melia-advierte-sobre-los-efectos-las-trabas-turismo-italiano-por-disputa-entre-sanchez-meloni_7024134_0.html?utm_source=lootura.com) — 2026-08-10T08:20:09.000Z
-- [Los sueldos de los trabajos de verano: ¿cuánto cobra un socorrista? ¿Y un camarero?](https://www.abc.es/economia/cuentas-corrientes/dinero-cobra-socorrista-camarero-trabajador-hotel-sueldos-20260810011750-nt.html?utm_source=lootura.com) — 2026-08-10T08:32:21.000Z
-- [Ceuta clama "Basta ya" y exige respuestas a España y Europa](https://www.elmundo.es/espana/2026/08/09/6a78d34ae85eced91b8b456e.html?utm_source=lootura.com) — 2026-08-09T19:50:19.000Z
-- [Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: "Son su cordón umbilical"](https://www.elmundo.es/economia/empresas/2026/08/09/6a71fda6e85ecee01b8b4583.html?utm_source=lootura.com) — 2026-08-09T20:35:26.000Z
-- [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z
-- [“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión](https://elpais.com/espana/2026-08-09/ceuta-no-se-vende-la-ciudad-se-echa-a-la-calle-tras-diez-dias-de-tension.html?utm_source=lootura.com) — 2026-08-09T19:42:01.000Z
+- [Vox apoya los controles fronterizos de Italia pero no que Sánchez responda con la misma medida: "Busca provocar un conflicto"](https://www.20minutos.es/nacional/vox-apoya-los-controles-fronterizos-italia-pero-no-que-sanchez-responda-con-misma-medida-busca-provocar-un-conflicto_7024196_0.html?utm_source=lootura.com) — 2026-08-10T11:00:12.000Z
+- [Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»](https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com) — 2026-08-10T12:39:01.000Z
+- [Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España](https://cincodias.elpais.com/mercados-financieros/2026-08-10/revolut-logra-licencia-bancaria-francesa-y-traslada-a-paris-el-centro-de-su-negocio-en-espana.html?utm_source=lootura.com) — 2026-08-10T11:01:04.000Z
 - [España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse](https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [El filtro del millón de euros: el 86% de las viviendas de lujo se concentran en solo seis provincias](https://www.larazon.es/economia/filtro-millon-euros-86-viviendas-mas-millon-euros-concentran-solo-seis-provincias_202608106a7995a6a046ad6ebca934bf.html?utm_source=lootura.com) — 2026-08-10T09:11:05.000Z
+- [Merz endurece su postura migratoria y devolverá a Italia a solicitantes de asilo, pero Meloni rechaza acogerlos](https://www.eldiario.es/internacional/merz-endurece-postura-migratoria-devolvera-italia-solicitantes-asilo-meloni-rechaza-acogerlos_1_13437809.html?utm_source=lootura.com) — 2026-08-10T10:47:15.000Z
+- [Italia le da una lección a España con el puente de Génova: cuatro robots toman 25.000 fotos cada ocho horas para detectar daños](https://www.larazon.es/tecnologia-consumo/italia-le-da-leccion-espana-puente-genova-cuatro-robots-toman-25000-fotos-cada-ocho-horas-detectar-danos_202608106a797751a046ad6ebca8f95e.html?utm_source=lootura.com) — 2026-08-10T13:01:00.000Z
+- [Un joven africano cuenta cómo es su vida en Ciudad Real: "En otro sitio me dijeron que me fuera a mi país, pero aquí nunca me ha pasado"](https://www.larazon.es/castilla-la-mancha/joven-africano-cuenta-como-vida-ciudad-real-otro-sitio-dijeron-fuera-pais-aqui-nunca-pasado-b30m_202608106a79cb60a5690f0473724e88.html?utm_source=lootura.com) — 2026-08-10T13:00:16.000Z
+- [Los trabajadores autónomos destinan 226 horas al año a trámites burocráticos, según ATA](https://theobjective.com/economia/2026-08-10/trabajadores-autonomos-226-horas-tramites-burocraticos/?utm_source=lootura.com) — 2026-08-10T09:01:44.000Z
+- [El precio medio del alquiler subió un 9,45% interanual en julio](https://theobjective.com/economia/2026-08-10/precio-medio-alquiler-subio-julio/?utm_source=lootura.com) — 2026-08-10T08:48:23.000Z

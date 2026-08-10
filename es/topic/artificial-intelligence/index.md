@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Así son las nuevas oficinas para trabajadores quemados por la IA](https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html?utm_source=lootura.com) — 2026-08-10T03:30:00.000Z
+- [Kimi K3, el modelo chino más potente, también huyó de su espacio de confinamiento para superar una prueba](https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/kimi-k3-modelo-chino-potente-tambien-huyo-su-espacio-confinamiento-superar-prueba_202608106a79b468a5690f0473721c53.html?utm_source=lootura.com) — 2026-08-10T13:00:00.000Z

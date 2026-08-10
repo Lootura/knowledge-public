@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa
+
+El franco-argentino que desde el pasado jueves permanecía aislado en Galicia tras haberse contagiado de hantavirus en Francia ya ha sido dado de alta , puesto que la prueba PCR que se le ha realizado ha dado negativa. Fuentes sanitarias consultadas por Europa Press así lo han confirmado, apuntando además que el contagi.
+
+Date: 2026-08-10
 
 ### Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)
 
@@ -62,12 +68,6 @@ Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en u
 
 Date: 2026-08-02
 
-### Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)
-
-Un hombre de unos aproximadamente 50 años ha sido atropellado este sábado mientras se disponía a cruzar la carretera M-506 , en el kilómetro 7,2 a la altura de Alcorcón , en la Comunidad de Madrid , según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. "A la llegada de los servicios de emer.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa](https://theobjective.com/sanidad/2026-08-10/franco-argentino-contagiado-hantavirus-galicia-alta-pcr-negativa/?utm_source=lootura.com) — 2026-08-10T11:14:21.000Z

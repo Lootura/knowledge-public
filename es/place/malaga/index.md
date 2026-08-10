@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Condenado a 3 meses de prisión un soldado por viajar fuera de su destino mientras estaba de baja](https://www.elconfidencial.com/espana/2026-08-10/soldado-melilla-abandono-residencia-1tna-1tps_4403594/?utm_source=lootura.com) — 2026-08-10T06:33:00.000Z
-- [Un malagueño consigue el pase de oro en America’s Got Talent con su parkour](https://theobjective.com/sociedad/2026-08-10/malagueno-pase-oro-americas-got-talent-parkour/?utm_source=lootura.com) — 2026-08-10T07:57:18.000Z
+No public source links.

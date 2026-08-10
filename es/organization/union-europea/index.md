@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Marruecos compra impunidad](https://okdiario.com/opinion/marruecos-compra-impunidad-19153411?utm_source=lootura.com) — 2026-08-10T09:11:57.000Z
+No public source links.

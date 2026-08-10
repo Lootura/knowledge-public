@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/tom-holland/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/tom-holland/index.json",
   "description": "Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-04T14:04:41.484Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Holland"
   ],
   "changes": [
+    {
+      "title": "Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman",
+      "summary": "La última película de Spiderman lleva unas semanas en las grandes pantallas españolas y promete ser una de las taquilleras del año . Buena culpa de ello la tiene Tom Holland , que desde que se enfundó el traje del hombre araña lleva ya cuatro películas triunfando como Peter Parker dentro de este universo de Marvel. En.",
+      "date": "2026-08-10"
+    },
     {
       "title": "¿Habrá ‘Spider-Man 5’ con Tom Holland? Marvel y Sony se pronuncian",
       "summary": "La llegada a los cines de Spider-Man: Brand New Day ha supuesto un éxito mayúsculo para Marvel Studios y Sony Pictures. La nueva película del arácnido de Tom Holland se ha convertido en el segundo mayor estreno de todos los tiempos, solo or detrás de Avengers: Endgame . Por eso, los fans y las compañías ya miran al pos.",
@@ -49,6 +54,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman",
+      "url": "https://www.abc.es/bienestar/fitness/hombre-arana-gimnasio-preparo-tom-holland-spiderman-20260807011041-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:33:58.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

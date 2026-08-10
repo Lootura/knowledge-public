@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Moderate Democrat in Hawaii Easily Defeats Progressive House Challenger](https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html?utm_source=lootura.com) — 2026-08-09T12:39:15.000Z
+No public source links.

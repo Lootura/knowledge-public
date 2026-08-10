@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.json",
   "description": "Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "BCE",
     "El Banco Central"
   ],
   "changes": [
+    {
+      "title": "Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España",
+      "summary": "Revolut ha dado un nuevo paso para reforzar su presencia en Europa. El Banco Central Europeo (BCE) y el supervisor francés han concedido al neobanco la licencia bancaria en Francia, según ha confirmado la entidad en una nota de prensa. Esa será la entidad a la que migrarán los clientes de Francia, Alemania, España, Irl.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
       "summary": "El Banco Central Europeo (BCE) advierte de que los precios seguirán siendo altos en lo que resta de 2026. El organismo que fija la política monetaria de los países de la zona euro asegura que la inflación se mantendrá en niveles “elevados” y no se empezará a moderar como pronto hasta la llegada del primer trimestre de.",
@@ -58,20 +63,15 @@
       "title": "El BCE revela los billetes del futuro: así son las propuestas para los nuevos euros",
       "summary": "Los billetes del futuro se acercan. El Banco Central Europeo (BCE) ha dado a conocer hoy las propuestas de diseño preseleccionadas para la próxima serie de euros y ha puesto en marcha una encuesta para recabar la opinión de los ciudadanos de toda Europa. Seguir leyendo.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El BCE abre la encuesta para votar el diseño de los nuevos billetes de euro: Cervantes, Da Vinci...",
-      "summary": "El Banco Central Europeo (BCE) ha desvelado los diez diseños seleccionados para sustituir a los actuales billetes de euro y ha abierto una consulta.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
       "title": "Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/revolut-logra-licencia-bancaria-francesa-y-traslada-a-paris-el-centro-de-su-negocio-en-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:37:01.000Z",
+      "publishedAt": "2026-08-10T11:01:04.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

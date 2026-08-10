@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Tamarit de Valencia busca «sorprender» al público donostiarra",
+      "summary": "Será la segunda participación en Donostia de la compañía fundada en 2018.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Naturaleza bajo cuidados intensivos",
       "summary": "El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos árboles que, por su edad o tamaño, requieren más atención.",
@@ -64,14 +69,15 @@
       "title": "Programación de Donostiako Piratak para la Semana Grande 2026",
       "summary": "Consulta día a día las actividades programadas para la Aste Nagusia de San Sebastián.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
-      "summary": "El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "Tamarit de Valencia busca «sorprender» al público donostiarra",
+      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/tamarit-valencia-busca-sorprender-publico-donostiarra-20260810112148-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:21:49.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "Naturaleza bajo cuidados intensivos",
       "url": "https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

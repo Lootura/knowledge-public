@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-espacial-europea/index.json",
   "description": "Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T12:56:57.543Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Agencia Europea del Espacio",
     "European Space Research Organization"
   ],
   "changes": [
+    {
+      "title": "La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030",
+      "summary": "Europa se enfrenta a una escasez de lanzadores de cohetes de fabricación propia para finales de la década, advirtió el director de la Agencia Espacial Europea (ESA), ya que la creciente demanda de lanzamiento de nuevos satélites al espacio supera la capacidad independiente de la región. Seguir leyendo.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Hispasat se adjudica el mayor contrato del programa satelital Iris² por 1.600 millones",
       "summary": "La Comisión Europea, la Agencia Espacial Europea (ESA) y el consorcio industrial SpaceRISE —integrado por la española Hispasat, la francesa Eutelsat y la luxemburguesa SES— han concluido las negociaciones para el desarrollo y despliegue de la constelación de satélites Iris ². En el marco del acuerdo, Hispasat ha sido d.",
@@ -40,6 +45,13 @@
       "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/10/6a79b848e5fdea00078b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:43:31.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

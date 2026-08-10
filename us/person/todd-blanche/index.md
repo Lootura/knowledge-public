@@ -3,20 +3,20 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
 
-### Sen. Bill Cassidy says his decision to confirm Todd Blanche wasn't "black or white"
-
-"If you're looking for a black or white decision here, you're not going to find it," GOP Sen. Bill Cassidy said about his decision to support Todd Blanche's nomination for attorney general.
-
-Date: 2026-08-09
-
 ### Here’s the biggest news you missed this weekend
 
 Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.
+
+Date: 2026-08-09
+
+### Sen. Bill Cassidy says his decision to confirm Todd Blanche wasn't "black or white"
+
+"If you're looking for a black or white decision here, you're not going to find it," GOP Sen. Bill Cassidy said about his decision to support Todd Blanche's nomination for attorney general.
 
 Date: 2026-08-09
 
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Sen. Bill Cassidy says his decision to confirm Todd Blanche wasn't "black or white"](https://www.cbsnews.com/news/bill-cassidy-interview-todd-blanche-vote/?utm_source=lootura.com) — 2026-08-09T17:49:07.000Z
 - [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com) — 2026-08-09T22:00:00.000Z

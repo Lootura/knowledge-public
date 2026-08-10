@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -23,6 +23,11 @@
     {
       "title": "La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático",
       "summary": "El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático",
+      "summary": "La vicealcaldesa de Madrid , Inma Sanz, cree que la presidenta la Comunidad, Isabel Díaz Ayuso, ya ha dado «explicaciones» sobre la adquisición de un ático de Chamberí por parte de su Gobierno y le parece una «buena iniciativa» venderlo para cubrir las consecuencias de los incendios . «Yo creo que la Comunidad de Madri.",
       "date": "2026-08-10"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Ayuso acusa a Sánchez de \"asfixiar\" a los madrileños con la financiación autonómica",
       "summary": "La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este jueves que la región \"siempre es la que más aporta al conjunto de España” y ha acusado al presidente del Gobierno, Pedro Sánchez , de querer “sacar aún más dinero y asfixiar a impuestos a los madrileños\". En un mensaje difundido en su cuent.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
-      "summary": "El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -78,7 +78,13 @@
       "url": "https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático",
+      "url": "https://theobjective.com/espana/madrid/2026-08-10/ayuntamiento-madrid-iniciativa-comunidad-atico-venta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:35:49.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

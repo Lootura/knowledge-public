@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Trump takes his second swing at Fed’s Cook](https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com) — 2026-08-10T08:58:48.000Z
-- [Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World](https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com) — 2026-08-09T12:52:25.000Z
+- [Trump Names Will Scharf as White House Counsel](https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html?utm_source=lootura.com) — 2026-08-10T01:44:31.000Z

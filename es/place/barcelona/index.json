@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería",
+      "summary": "Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado de comercializar de forma fraudulenta citas inexistentes para trámites de extranjería . El sospechoso se hacía pasar por responsable de una gestoría administrativa y acumulaba varias requisitorias judiciales dictadas por juzgados de distintos.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
+      "summary": "El servicio de trenes de Rodalies ha vuelto a sufrir este lunes una nueva interrupción tras otro robo de cable, esta vez en la estación de Bellvitge-Gornal, en L'Hospitalet de Llobregat (Barcelona). A consecuencia de este incidente, Adif ha informado a través de redes sociales que se pueden registrar retrasos en las lí.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
+      "summary": "El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026",
       "summary": "La presidenta de TMB, Laia Bonet, asegura que \"el metro es hoy un espacio más seguro que hace unos años\".",
@@ -55,30 +70,27 @@
       "title": "El Barcelona tumba al Nottingham con un gol sobre la bocina de Raphinha de penalti",
       "summary": "Con un gol de penalti de Raphinha sobre la bocina, ganó el Barcelona su primer partido en esta pretemporada ante un Nottingham que fue ligeramente mejor.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Prisión para el presunto autor del homicidio de un hombre en Nou Barris",
-      "summary": "Un juez de guardia de Barcelona ha decretado este sábado el ingreso en prisión comunicada y sin fianza del hombre, hondureño de 22 años, que el jueves presuntamente asesinó al actual pareja de exmujer. La víctima, de nacionalidad española y 44 años, mantenía una relación de clandestina, de amantes, con la hija de los p.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "El Barcelona pierde ante el Udinese en el último minuto y se marcha de Italia sin trofeo veraniego",
-      "summary": "El Barcelona se marcha de Italia sin trofeo veraniego y con un mal sabor de boca tras perder contra el Udinese en los segundos 45 minutos de la triangular. Un gol de Bayo a la contra, aprovechando un desajuste defensivo de la zaga culé, condenó al Barça de Hansi Flick a perder 1-0. El Barcelona, tras la victoria ante e.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: \"No fue fácil para mí...\"",
-      "summary": "Hansi Flick atendió a los medios de comunicación en sala de prensa tras la victoria ante el Nottingham y la derrota contra el Udinese.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026",
-      "url": "https://www.larazon.es/cataluna/delitos-metro-barcelona-caen-34-primer-semestre-2026_202608106a79967e71b42a0b5de74610.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:14:38.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-10/estafa-citas-falsas-extranjeria-barcelona-1tna-1tps_4403720/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:57:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:45:15.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
+      "url": "https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:58:19.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

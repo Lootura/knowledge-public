@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -26,11 +26,6 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
-      "date": "2026-08-10"
-    },
-    {
       "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
       "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landsli.",
       "date": "2026-08-10"
@@ -38,6 +33,11 @@
     {
       "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
       "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
       "date": "2026-08-10"
     },
     {
@@ -79,12 +79,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Australian rare earth miner surges after U.S. Department of War investment",
-      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:36:11.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
       "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
       "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations?utm_source=lootura.com",
       "publishedAt": "2026-08-10T04:55:18.000Z",
@@ -97,5 +91,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

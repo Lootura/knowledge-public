@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
+      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
+      "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "summary": "El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI",
       "summary": "La conselleira de Economía e Industria de Galicia, María Jesús Lorenzana, lo ha calificado como “el mayor proyecto internacional que llegó a Galicia en las últimas décadas”. Se trata de l a construcción en Ferrol (A Coruña) de la primera planta en Europa del mayor fabricante de vehículos eléctricos de China, SAIC Motor.",
@@ -19,11 +34,6 @@
     {
       "title": "La fábrica de la china SAIC en Galicia enciende las alarmas en el Ministerio de Defensa",
       "summary": "El proyecto industrial de la automovilística china SAIC Motor en Galicia, que planea levantar una fábrica de coches en el puerto de Ferrol, ha encendido las alarmas en el...",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
-      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
       "date": "2026-08-10"
     },
     {
@@ -50,43 +60,27 @@
       "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
       "summary": "En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Muere un segundo niño tratado en China con una terapia de edición genética",
-      "summary": "El paciente participaba en un ensayo clínico con una terapia experimental para corregir la distrofia muscular de Duchenne.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Cómo los jesuitas domaron al dragón chino de los eclipses",
-      "summary": "La bandera con un dragón devorando el Sol, también conocida como bandera del Dragón amarillo se convirtió en la primera bandera nacional de China. Wikimedia commons , CC BY La imagen es poderosa: un dragón celestial devorando el Sol, mientras en la Tierra, el pueblo, aterrorizado, hace sonar tambores y gongs para espan.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI",
-      "url": "https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: \"Es una amenaza\"",
-      "url": "https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T20:36:09.000Z",
+      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
+      "url": "https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:42:39.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La fábrica de la china SAIC en Galicia enciende las alarmas en el Ministerio de Defensa",
-      "url": "https://amp.expansion.com/empresas/motor/2026/08/10/6a796e5b468aeb96048b459a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T06:24:08.000Z",
-      "sourceId": "lootura-es-expansion"
     },
     {
       "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
       "url": "https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-08-10T09:12:18.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
+      "url": "https://theobjective.com/espana/politica/2026-08-10/moncloa-defiende-planta-china-ferrol-seguridad-nacional/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:30:25.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

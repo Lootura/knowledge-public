@@ -3,20 +3,26 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T13:01:52.610Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Democrats no longer have the No. 1 weapon to keep their socialist wing in line
-
-American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.
-
-Date: 2026-08-10
-
 ### Inside the Left’s Playbook for Winning Elections
 
 Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
+
+Date: 2026-08-10
+
+### Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin
+
+—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.
+
+Date: 2026-08-10
+
+### Democrats no longer have the No. 1 weapon to keep their socialist wing in line
+
+American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.
 
 Date: 2026-08-10
 
@@ -62,15 +68,8 @@ The Senate advanced its solution to avert a government shutdown on Saturday, cap
 
 Date: 2026-08-08
 
-### They’re Battle-Tested Democrats. Do Voters Care?
-
-Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Democrats no longer have the No. 1 weapon to keep their socialist wing in line](https://www.foxnews.com/opinion/democrats-no-longer-have-no-1-weapon-keep-their-socialist-wing-line?utm_source=lootura.com) — 2026-08-10T09:00:59.000Z
-- [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
-- [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z
-- [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:41.000Z
+- [Centrist Democrats dismiss Abdul El-Sayed as a freak radical. Do they want to win in 2028 or not? | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani?utm_source=lootura.com) — 2026-08-10T05:00:35.000Z
+- [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:42.000Z
+- [Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin](https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/?utm_source=lootura.com) — 2026-08-10T11:00:00.000Z

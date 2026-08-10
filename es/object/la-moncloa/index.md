@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
+
+La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
+
+Date: 2026-08-10
 
 ### El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta
 
@@ -62,12 +68,6 @@ Activa la "cuenta atrás" hacia La Moncloa y plantea un plan de regeneración in
 
 Date: 2026-07-22
 
-### Discovered by Atlas
-
-Palacio de la Moncloa first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z

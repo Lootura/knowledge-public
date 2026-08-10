@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»
+
+Cada vez son más los ministros que se suman a hacer recomendaciones a través de sus perfiles en redes sociales y uno de los últimos en hacer un ‘top 5’ ha sido el líder de la cartera de Justicia, Félix Bolaños, quien ha compartido sus destinos de viaje recomendados. Maritcha Ruiz Mateos, ex directora de comunicación de.
+
+Date: 2026-08-10
 
 ### La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos
 
@@ -62,12 +68,6 @@ El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos 
 
 Date: 2026-08-07
 
-### El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático
-
-El ministro y líder de los socialistas madrileños, Óscar López, ha adelantado que el partido tomará acciones legales tras la polémica por la compra del ático de seis millones de euros por parte de la Comunidad: "Es un hecho tan lamentable, como vergonzoso, como inexplicable" El ático que compró el Gobierno de Ayuso en.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»](https://theobjective.com/espana/politica/2026-08-10/ex-directora-comunicacion-psoe-bolanos-ceuta/?utm_source=lootura.com) — 2026-08-10T11:35:25.000Z

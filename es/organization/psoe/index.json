@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»",
+      "summary": "Cada vez son más los ministros que se suman a hacer recomendaciones a través de sus perfiles en redes sociales y uno de los últimos en hacer un ‘top 5’ ha sido el líder de la cartera de Justicia, Félix Bolaños, quien ha compartido sus destinos de viaje recomendados. Maritcha Ruiz Mateos, ex directora de comunicación de.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos",
       "summary": "La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.",
@@ -65,13 +70,15 @@
       "title": "El PSOE de Madrid llevará a la Fiscalía la compra del ático de Chamberí",
       "summary": "El PSOE de Madrid ha elevado este viernes a la Fiscalía de Delitos Económicos su ofensiva contra el Gobierno regional por la compra del ático de Chamberí adquirido por 6,3 millones de euros por la empresa pública Planifica Madrid . Los socialistas han presentado una denuncia contra el consejo de administración de la en.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El PSOE denunciará ante la Fiscalía al consejo de administración de Planifica Madrid por el escándalo del ático",
-      "summary": "El ministro y líder de los socialistas madrileños, Óscar López, ha adelantado que el partido tomará acciones legales tras la polémica por la compra del ático de seis millones de euros por parte de la Comunidad: \"Es un hecho tan lamentable, como vergonzoso, como inexplicable\" El ático que compró el Gobierno de Ayuso en.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»",
+      "url": "https://theobjective.com/espana/politica/2026-08-10/ex-directora-comunicacion-psoe-bolanos-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:35:25.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

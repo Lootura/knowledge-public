@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Vox apoya los controles fronterizos de Italia pero no que Sánchez responda con la misma medida: "Busca provocar un conflicto"](https://www.20minutos.es/nacional/vox-apoya-los-controles-fronterizos-italia-pero-no-que-sanchez-responda-con-misma-medida-busca-provocar-un-conflicto_7024196_0.html?utm_source=lootura.com) — 2026-08-10T11:00:12.000Z

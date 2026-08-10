@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-10
 ### La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático
 
 El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.
+
+Date: 2026-08-10
+
+### El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático
+
+La vicealcaldesa de Madrid , Inma Sanz, cree que la presidenta la Comunidad, Isabel Díaz Ayuso, ya ha dado «explicaciones» sobre la adquisición de un ático de Chamberí por parte de su Gobierno y le parece una «buena iniciativa» venderlo para cubrir las consecuencias de los incendios . «Yo creo que la Comunidad de Madri.
 
 Date: 2026-08-10
 
@@ -62,13 +68,8 @@ La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha sostenido este
 
 Date: 2026-08-06
 
-### Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»
-
-El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la operación de adquisición. Hay incógnitas que siguen sin des.
-
-Date: 2026-08-06
-
 ## Fuentes
 
 - [¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?](https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html?utm_source=lootura.com) — 2026-08-10T09:11:15.000Z
 - [La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático](https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático](https://theobjective.com/espana/madrid/2026-08-10/ayuntamiento-madrid-iniciativa-comunidad-atico-venta/?utm_source=lootura.com) — 2026-08-10T10:35:49.000Z

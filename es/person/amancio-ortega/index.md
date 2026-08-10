@@ -64,4 +64,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»](https://www.abc.es/gente/amancio-ortega-anos-sobre-infancia-padre-ganaba-20260810104022-nt.html?utm_source=lootura.com) — 2026-08-10T08:40:23.000Z
+No public source links.

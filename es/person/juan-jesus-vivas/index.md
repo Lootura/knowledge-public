@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.
+
+Date: 2026-08-10
 
 ### El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes
 
@@ -62,12 +68,6 @@ El presidente de Ceuta , Juan Jesús Vivas, ha agradecido este jueves el comprom
 
 Date: 2026-08-06
 
-### El presidente de Ceuta pide a Europa blindar la frontera: "Está en manos de un país tercero que no reconoce nuestra soberanía"
-
-El presidente de la ciudad autónoma de Ceuta , Juan Jesús Vivas, ha reclamado este jueves el "blindaje" de la frontera común con Marruecos, que es "la de todos", y ha pedido mayor dotación de medios personales y materiales" en la zona. "Nuestra población se siente triste, impotente, inquieta, temerosa y preocupada . Y.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión](https://okdiario.com/espana/gobierno-eleva-ahora-80-000-inmigrantes-que-entraron-ceuta-30-000-mas-que-dijo-invasion-19154386?utm_source=lootura.com) — 2026-08-10T12:26:41.000Z

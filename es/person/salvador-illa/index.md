@@ -3,7 +3,7 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-16
 ## Fuentes
 
 - [Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión](https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com) — 2026-08-09T23:33:33.000Z
-- [Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura](https://www.larazon.es/cataluna/crisis-abiertas-principales-retos-que-espera-govern-illa-dos-anos-que-quedan-legislatura_202608106a7995fba046ad6ebca935af.html?utm_source=lootura.com) — 2026-08-10T09:12:36.000Z

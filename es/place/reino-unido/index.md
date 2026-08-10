@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
+
+La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
+
+Date: 2026-08-10
 
 ### Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores
 
@@ -17,12 +23,6 @@ Date: 2026-08-10
 ### Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido
 
 El partido de derecha británico Reform UK, que lidera Nigel Farage, ha iniciado contactos con El Salvador para deportar a presos extranjeros a ese país si gana las próximas elecciones generales en el Reino Unido , previstas para 2029, revela este lunes el tabloide The Sun . Según ha podido saber este rotativo, una dele.
-
-Date: 2026-08-10
-
-### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
-
-La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
 
 Date: 2026-08-10
 
@@ -70,6 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores](https://www.abc.es/espana/canarias/detenido-gran-canaria-fugitivo-britanico-ocho-delitos-20260810104748-nt.html?utm_source=lootura.com) — 2026-08-10T08:47:48.000Z
-- [Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido](https://theobjective.com/internacional/2026-08-10/farage-deportar-presos-extranjeros-el-salvador/?utm_source=lootura.com) — 2026-08-10T08:02:39.000Z
 - [Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China](https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com) — 2026-08-10T09:12:18.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Un terremoto de magnitud 6,7 sacude la mayor parte de Colombia
+
+Un temblor de agnitud 6,7 sacudió este lunes gran parte de Colombia, sin que de momento se haya informado de víctimas o daños, según el Servicio Geológico Colombiano (SGC). La información ha sido recogida por la agencia Efe. Noticia en actualización.
+
+Date: 2026-08-10
 
 ### Felipe VI y Milei coinciden en la toma de posesión de De la Espriella y protagonizan un singular momento
 
@@ -62,12 +68,6 @@ El Rey se reúne con el presidente electo antes de la toma de posesión y coinci
 
 Date: 2026-08-07
 
-### El exclusivo viaje por América con un avión restaurado de los años 40 cuyo precio parte de los 43.000 euros
-
-La compañía de viajes de lujo White Desert, especializada en escapadas a la Antártida, ha presentado una nueva propuesta que nada tiene que ver con la anterior, un viaje a todo lujo que va desde Colombia a Guatemala y al que ha bautizado Dr. Jones en honor al mítico personaje cinematográfico. Y es que desde esta agenci.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Un terremoto de magnitud 6,7 sacude la mayor parte de Colombia](https://www.larazon.es/internacional/terremoto-magnitud-67-sacude-mayor-parte-colombia_202608106a79ca9ca046ad6ebca9a6c2.html?utm_source=lootura.com) — 2026-08-10T12:57:00.000Z

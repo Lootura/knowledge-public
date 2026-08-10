@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Medio millón de turistas astronómicos empiezan a llegar a las provincias donde se verá el eclipse total](https://www.20minutos.es/nacional/eclipse-solar-total-directo-espana-miercoles-12-agosto_7024119_6.html?utm_source=lootura.com) — 2026-08-10T07:46:21.000Z
+- [Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal](https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html?utm_source=lootura.com) — 2026-08-10T12:30:42.000Z

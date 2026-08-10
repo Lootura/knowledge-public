@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-espacial-europea
 
 ## Cambios recientes
+
+### La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030
+
+Europa se enfrenta a una escasez de lanzadores de cohetes de fabricación propia para finales de la década, advirtió el director de la Agencia Espacial Europea (ESA), ya que la creciente demanda de lanzamiento de nuevos satélites al espacio supera la capacidad independiente de la región. Seguir leyendo.
+
+Date: 2026-08-10
 
 ### Hispasat se adjudica el mayor contrato del programa satelital Iris² por 1.600 millones
 
@@ -40,4 +46,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-No public source links.
+- [La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030](https://www.expansion.com/economia/financial-times/2026/08/10/6a79b848e5fdea00078b456f.html?utm_source=lootura.com) — 2026-08-10T11:43:31.000Z

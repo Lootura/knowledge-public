@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa",
+      "summary": "El franco-argentino que desde el pasado jueves permanecía aislado en Galicia tras haberse contagiado de hantavirus en Francia ya ha sido dado de alta , puesto que la prueba PCR que se le ha realizado ha dado negativa. Fuentes sanitarias consultadas por Europa Press así lo han confirmado, apuntando además que el contagi.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)",
       "summary": "Una joven de 17 años ha resultado herida tras ser apuñalada por otra este pasado sábado, 8 de agosto, en la localidad jiennense de Torredonjimeno, según han confirmado fuentes del Servicio de Emergencias 112 Andalucía a Europa Press. Los hechos tuvieron lugar en la tarde del pasado sábado, sobre las 20:30 horas , cuand.",
@@ -62,13 +67,15 @@
       "title": "Los Mossos encuentran tres proyectiles antiaéreos en una vivienda de Barcelona",
       "summary": "Los Mossos d'Esquadra localizaron este viernes tres proyectiles antiaéreos en una vivienda del distrito del Eixample , en Barcelona . Según informaron a Europa Press , el hallazgo se produjo a las 12.22 horas tras un aviso recibido mientras se llevaba a cabo el vaciado del inmueble situado en la calle Nàpols. Los artef.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Un hombre en estado grave tras ser atropellado cuando cruzaba la M-506 en Alcorcón (Madrid)",
-      "summary": "Un hombre de unos aproximadamente 50 años ha sido atropellado este sábado mientras se disponía a cruzar la carretera M-506 , en el kilómetro 7,2 a la altura de Alcorcón , en la Comunidad de Madrid , según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. \"A la llegada de los servicios de emer.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa",
+      "url": "https://theobjective.com/sanidad/2026-08-10/franco-argentino-contagiado-hantavirus-galicia-alta-pcr-negativa/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:14:21.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

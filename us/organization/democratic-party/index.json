@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
-      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
-      "summary": "American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.",
+      "title": "Inside the Left’s Playbook for Winning Elections",
+      "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
       "date": "2026-08-10"
     },
     {
-      "title": "Inside the Left’s Playbook for Winning Elections",
-      "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
+      "title": "Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin",
+      "summary": "—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
+      "summary": "American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.",
       "date": "2026-08-10"
     },
     {
@@ -57,38 +62,27 @@
       "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
       "summary": "The Senate advanced its solution to avert a government shutdown on Saturday, capping off several months of hand-wringing that, if given the chance, Senate Democrats would use a shutdown to score political points in November. Senate Minority Leader Chuck Schumer, D-N.Y., and his caucus relented, and stayed true to the b.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "They’re Battle-Tested Democrats. Do Voters Care?",
-      "summary": "Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
-      "url": "https://www.foxnews.com/opinion/democrats-no-longer-have-no-1-weapon-keep-their-socialist-wing-line?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:00:59.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:12:20.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday",
-      "url": "https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T15:02:13.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Centrist Democrats dismiss Abdul El-Sayed as a freak radical. Do they want to win in 2028 or not? | Nesrine Malik",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T05:00:35.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Inside the Left’s Playbook for Winning Elections",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:02:41.000Z",
+      "publishedAt": "2026-08-10T09:02:42.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin",
+      "url": "https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T09:29:57.402Z",
+  "generatedAt": "2026-08-10T13:15:34.285Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|110|1786353429506",
+    "signature": "1.18.0|111|1786366912610",
     "version": "1.18.0",
-    "build": 110,
-    "latestEntityUpdatedAt": "2026-08-10T09:17:09.506Z"
+    "build": 111,
+    "latestEntityUpdatedAt": "2026-08-10T13:01:52.610Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-iran",
       "name": "Iran",
       "type": "place",
-      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-08-10T09:17:09.506Z",
-      "score": 1696,
-      "sourceCount": 367,
+      "updatedAt": "2026-08-10T13:01:52.610Z",
+      "score": 1692,
+      "sourceCount": 373,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,8 +34,8 @@
         "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-08-10T09:17:09.506Z",
-        "score": 1684,
+        "updatedAt": "2026-08-10T13:01:52.610Z",
+        "score": 1661,
         "sourceCount": 59,
         "isBreaking": false,
         "isPinned": false
@@ -47,9 +47,9 @@
         "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-10T09:17:09.506Z",
-        "score": 1672,
-        "sourceCount": 677,
+        "updatedAt": "2026-08-10T13:01:52.610Z",
+        "score": 1656,
+        "sourceCount": 682,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +57,29 @@
         "id": "usa-new-york",
         "name": "New York City",
         "type": "place",
-        "title": "Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
+        "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
         "url": "https://atlas.lootura.com/us/place/new-york",
         "path": "/us/place/new-york",
-        "updatedAt": "2026-08-10T09:17:09.506Z",
-        "score": 1670,
+        "updatedAt": "2026-08-10T13:01:52.610Z",
+        "score": 1652,
         "sourceCount": 87,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-10T09:17:09.506Z",
-        "score": 1665,
-        "sourceCount": 108,
+        "id": "usa-canada",
+        "name": "Canada",
+        "type": "place",
+        "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-08-10T13:01:52.610Z",
+        "score": 1646,
+        "sourceCount": 63,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 137
+    "publicEntityCount": 138
   }
 }

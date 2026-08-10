@@ -3,10 +3,16 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
+
+### El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»
+
+El vicepresidente primero y consejero de la Presidencia, Sanidad y Emergencias , Antonio Sanz, ha señalado este lunes que el incendio forestal declarado en el municipio de Niebla (Huelva) roza ya las 20.000 hectáreas de perímetro recorrido y se encuentra en estos momentos « fuera de capacidad de extinción, no por falta.
+
+Date: 2026-08-10
 
 ### Aumentan los desalojados por el incendio forestal en Niebla (Huelva)
 
@@ -40,4 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [El incendio de Niebla (Huelva) roza las 20.000 hectáreas y rebasa la «capacidad de extinción»](https://theobjective.com/sociedad/suceso/2026-08-10/incendio-niebla-huelva-20000-hectareas-capacidad-extincion/?utm_source=lootura.com) — 2026-08-10T11:02:09.000Z

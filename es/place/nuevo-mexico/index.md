@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La Ruta 66 cumple 100 años: ¿qué estamos celebrando realmente?](https://theconversation.com/la-ruta-66-cumple-100-anos-que-estamos-celebrando-realmente-288113?utm_source=lootura.com) — 2026-08-10T06:13:52.000Z
+No public source links.

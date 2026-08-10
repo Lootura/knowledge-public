@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,26 @@
     {
       "title": "Un Gobierno en emergencia permanente",
       "summary": "Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Crimen del exsecretario de UAGA de Aragón y su mujer: detenidos la hija de las víctimas y su pareja",
+      "summary": "La Guardia Civil ha detenido a una de las hijas del matrimonio formado por el exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA), Javier Sánchez, y Esther Latorre , asesinados a cuchilladas este viernes en el municipio de Tauste (Zaragoza) , así como a su actual pareja, como presuntos autores del dob.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja",
+      "summary": "La Guardia Civil continúa con la investigación del violento suceso, en el que el exsecretario general de UAGA falleció por «varias heridas de arma blanca».",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa",
+      "summary": "Los cadáveres de Javier Sánchez y Esther Latorre fueron localizados con evidentes signos de violencia la noche del sábado en el interior de su vivienda Leer.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Detenida la hija del dirigente agrario aragonés asesinado junto a su esposa",
+      "summary": "La noticia llegó justo cuando se acababa de cerrar el velatorio de Javier Sánchez y Esther Latorre . “No puede ser”, “Me están llamando para preguntarme si es verdad”, “Era una posibilidad, pero no queríamos creerla”, han comentado sus amigos. El matrimonio había sido hallado cosido a puñaladas en el interior de su viv.",
       "date": "2026-08-10"
     },
     {
@@ -46,34 +66,26 @@
       "title": "Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta",
       "summary": "La justicia, a medio gas en agosto, ha dado una tregua al Gobierno de Pedro Sánchez con los casos de corrupción y la irrupción de la crisis de Ceuta por la entrada de más de 70.000 personas procedentes de Marruecos ha devuelto los focos a la inmigración, con un impacto visible en el bloque de la derecha. De momento, el.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Sánchez y su banda mora",
-      "summary": "El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "La ley de reproducción asistida que el Congreso quiere cambiar: \"A ellos les basta con decir que ya no quieren sus gametos, a nosotras no\"",
-      "summary": "Laura García Sánchez nunca tuvo claro que quería ser madre, pero no lo descartó. Simplemente pospuso esa decisión. Con 45 años sabía que estaba en el último intento y...",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Miles de ceutíes salen a la calle a reclamar su españolidad entre gritos contra Pedro Sánchez",
-      "summary": "«Ceuta es española», han gritado durante más de una hora los miles de ceutíes –más de 10.000, según la organización– que se han concentrado en la plaza de.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Atrapados a 40 grados en el aeropuerto de El Prat: la \"bienvenida\" a los italianos por el pulso entre Sánchez y Meloni",
-      "summary": "Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un \"finger\" hirviente bajo el sol de Barcelona....",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Meliá advierte sobre los efectos de las \"trabas\" al turismo por la disputa entre Sánchez y Meloni",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceo-melia-advierte-sobre-los-efectos-las-trabas-turismo-italiano-por-disputa-entre-sanchez-meloni_7024134_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:20:09.000Z",
+      "title": "Vox apoya los controles fronterizos de Italia pero no que Sánchez responda con la misma medida: \"Busca provocar un conflicto\"",
+      "url": "https://www.20minutos.es/nacional/vox-apoya-los-controles-fronterizos-italia-pero-no-que-sanchez-responda-con-misma-medida-busca-provocar-un-conflicto_7024196_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:00:12.000Z",
       "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Crimen del exsecretario de UAGA de Aragón y su mujer: detenidos la hija de las víctimas y su pareja",
+      "url": "https://www.20minutos.es/aragon/zaragoza/sucesos-zaragoza-detenidos-hija-su-pareja-por-muerte-exsecretario-uaga-aragon-su-mujer_7024282_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:45:18.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja",
+      "url": "https://www.elcorreo.com/sociedad/sucesos/detienen-presuntos-autores-asesinato-lider-agrario-javier-20260810142539-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:25:39.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "La ley de reproducción asistida que el Congreso quiere cambiar: \"A ellos les basta con decir que ya no quieren sus gametos, a nosotras no\"",
@@ -82,17 +94,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa",
+      "url": "https://www.elmundo.es/espana/2026/08/10/6a79bae8e9cf4ac25a8b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:37:18.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Detenida la hija del dirigente agrario aragonés asesinado junto a su esposa",
+      "url": "https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:08:12.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "Un Gobierno en emergencia permanente",
       "url": "https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Marruecos compra impunidad",
-      "url": "https://okdiario.com/opinion/marruecos-compra-impunidad-19153411?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:11:57.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

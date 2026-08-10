@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "POR",
     "PRT",
@@ -70,10 +70,10 @@
   ],
   "sources": [
     {
-      "title": "Medio millón de turistas astronómicos empiezan a llegar a las provincias donde se verá el eclipse total",
-      "url": "https://www.20minutos.es/nacional/eclipse-solar-total-directo-espana-miercoles-12-agosto_7024119_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T07:46:21.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal",
+      "url": "https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:30:42.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 0

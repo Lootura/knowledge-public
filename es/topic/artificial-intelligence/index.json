@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -52,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "Así son las nuevas oficinas para trabajadores quemados por la IA",
-      "url": "https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Kimi K3, el modelo chino más potente, también huyó de su espacio de confinamiento para superar una prueba",
+      "url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/kimi-k3-modelo-chino-potente-tambien-huyo-su-espacio-confinamiento-superar-prueba_202608106a79b468a5690f0473721c53.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:00:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 0

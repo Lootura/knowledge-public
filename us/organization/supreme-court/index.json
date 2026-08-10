@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Trump Vows to Take Ballroom Battle to the Supreme Court",
+      "summary": "President Donald Trump’s planned ballroom is in jeopardy after a federal appeals court ruled Congress should have approved the project first. The president is now calling on the Supreme Court to overturn that decision. NBC’s Gabe Gutierrez reports for TODAY.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Trump to appeal White House ballroom ruling to Supreme Court",
       "summary": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.",
@@ -60,20 +65,21 @@
       "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
       "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Trump signs new orders targeting birthright citizenship",
-      "summary": "Orders come after supreme court rejected president’s first bid to restrict guarantee enshrined in US constitution Donald Trump has made a second attempt to restrict the constitutional guarantee of birthright citizenship,just weeks after the US supreme court rejected his initial, more sweeping bid to deny automatic citi.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Trump takes his second swing at Fed’s Cook",
-      "url": "https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:58:48.000Z",
-      "sourceId": "lootura-us-semafor"
+      "title": "Physicians report negative impacts of abortion bans across pregnancy care",
+      "url": "https://medicalxpress.com/news/2026-08-physicians-negative-impacts-abortion-pregnancy.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T13:00:03.000Z",
+      "sourceId": "lootura-us-medical-xpress"
+    },
+    {
+      "title": "Trump Vows to Take Ballroom Battle to the Supreme Court",
+      "url": "https://www.today.com/video/trump-calls-on-supreme-court-to-overturn-ballroom-ruling-268023365683?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T11:29:01.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

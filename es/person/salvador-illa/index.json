@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-10T13:01:27.006Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
@@ -71,13 +71,7 @@
       "url": "https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T23:33:33.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
-      "url": "https://www.larazon.es/cataluna/crisis-abiertas-principales-retos-que-espera-govern-illa-dos-anos-que-quedan-legislatura_202608106a7995fba046ad6ebca935af.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:12:36.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

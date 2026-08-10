@@ -46,4 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z
+No public source links.

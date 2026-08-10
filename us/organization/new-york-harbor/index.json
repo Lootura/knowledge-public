@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/new-york-harbor/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/new-york-harbor/index.json",
   "description": "Follow New York Harbor, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T13:01:52.610Z",
   "aliases": [],
   "changes": [
     {
@@ -17,7 +17,7 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
+      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
       "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
       "date": "2026-08-10"
     },
@@ -27,13 +27,13 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
-      "summary": "A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
+      "title": "Here’s the biggest news you missed this weekend",
+      "summary": "Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.",
       "date": "2026-08-09"
     },
     {
-      "title": "Here’s the biggest news you missed this weekend",
-      "summary": "Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.",
+      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
+      "summary": "A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
       "date": "2026-08-09"
     },
     {
@@ -65,9 +65,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
+      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
       "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T03:53:44.000Z",
+      "publishedAt": "2026-08-10T03:53:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -75,13 +75,7 @@
       "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com",
       "publishedAt": "2026-08-09T22:00:00.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
-      "url": "https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:04:26.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

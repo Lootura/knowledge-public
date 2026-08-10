@@ -3,10 +3,22 @@
 > Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-10T13:01:27.006Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-real
 
 ## Cambios recientes
+
+### Diez detenidos por disturbios y agresiones a policías en Alcázar de San Juan (Ciudad Real)
+
+La Policía Nacional ha arrestado en Alcázar de San Juan (Ciudad Real) a diez personas tras una operación exprés activada por los graves disturbios registrados en el barrio de La Pradera . El origen del altercado fue la violenta agresión a dos agentes cuando intentaban identificar y detener a un conocido delincuente con.
+
+Date: 2026-08-10
+
+### Un joven africano cuenta cómo es su vida en Ciudad Real: "En otro sitio me dijeron que me fuera a mi país, pero aquí nunca me ha pasado"
+
+Jackson Fedrick , un joven africano instalado en Ciudad Real , ha compartido en redes sociales un testimonio espontáneo sobre cómo vive su día a día en la ciudad manchega, grabado mientras paseaba por la Plaza Mayor. "Yo vivo en Ciudad Real, España. Yo hablo un poco español" , explica Jackson al inicio de su vídeo, dej.
+
+Date: 2026-08-10
 
 ### Detenido un joven de 27 años tras una reyerta en Puertollano que deja un herido por arma blanca
 
@@ -34,4 +46,5 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Diez detenidos por disturbios y agresiones a policías en Alcázar de San Juan (Ciudad Real)](https://www.elconfidencial.com/espana/2026-08-10/disturbios-alcazar-policia-detencion-1tna-1tps_4403845/?utm_source=lootura.com) — 2026-08-10T11:33:00.000Z
+- [Un joven africano cuenta cómo es su vida en Ciudad Real: "En otro sitio me dijeron que me fuera a mi país, pero aquí nunca me ha pasado"](https://www.larazon.es/castilla-la-mancha/joven-africano-cuenta-como-vida-ciudad-real-otro-sitio-dijeron-fuera-pais-aqui-nunca-pasado-b30m_202608106a79cb60a5690f0473724e88.html?utm_source=lootura.com) — 2026-08-10T13:00:16.000Z
