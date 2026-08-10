@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
 
 La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
+
+Date: 2026-08-10
+
+### El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa
+
+El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.
+
+Date: 2026-08-10
+
+### En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia
+
+Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.
 
 Date: 2026-08-10
 
@@ -44,12 +56,6 @@ La Conselleria de Economía e Industria de Galicia, Marísa Jesús Lorenzana, lo
 
 Date: 2026-08-10
 
-### Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"
-
-La fábrica china de coches SAIC Motor ha escogido el puerto de Ferrol para poner su primera planta en España. Existía la posibilidad de que este proyecto se materializara en...
-
-Date: 2026-08-09
-
 ### Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra
 
 El adiestramiento de humanoides busca mitigar la pérdida de 700 millones de trabajadores en la nación Leer.
@@ -62,12 +68,8 @@ La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si d
 
 Date: 2026-08-08
 
-### Muere un segundo niño tratado en China con una terapia de edición genética
-
-En menos de quince días, se ha conocido un segundo fallecimiento de un paciente tratado con edición genética en China. La compañía HuidaGene Therapeutics («HuidaGene») comunicó el miércoles 5 de agosto información actualizada sobre el ensayo clínico que probaba una terapia experimental contra la distrofia muscular de D.
-
-Date: 2026-08-08
-
 ## Fuentes
 
 - [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
+- [El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa](https://elpais.com/espana/2026-08-10/el-gobierno-mantiene-su-apoyo-a-la-fabrica-china-en-ferrol-pese-a-las-alertas-de-defensa.html?utm_source=lootura.com) — 2026-08-10T18:14:43.000Z
+- [En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia](https://theobjective.com/espana/2026-08-10/sumario-tarde-mando-unico-ceuta-terremoto-colombia/?utm_source=lootura.com) — 2026-08-10T17:55:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "Wall St"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple",
       "summary": "El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Nvidia se alía con los gigantes de Wall Street para financiar IA",
+      "summary": "Apollo, Blackstone y Goldman Sachs se encuentran entre los grupos que trabajan con el principal fabricante de semiconductores para recaudar capital por el auge de los centros de datos. Seguir leyendo.",
       "date": "2026-08-10"
     },
     {
@@ -51,11 +56,17 @@
   ],
   "sources": [
     {
+      "title": "Nvidia se alía con los gigantes de Wall Street para financiar IA",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/08/10/6a7a31b1e5fdea00078b4595.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:16:56.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
       "title": "¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple",
       "url": "https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com",
       "publishedAt": "2026-08-10T16:36:35.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.json",
   "description": "Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "Bernard \"Bernie\" Sanders",
     "Bernard Sanders",
@@ -35,6 +35,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:58:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
   "evidenceCount": 0
 }

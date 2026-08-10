@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
@@ -31,6 +31,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Italia y Dinamarca vinculan la “inmigración descontrolada” con la delincuencia y piden centros de deportación tras la crisis de Ceuta",
+      "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T12:21:23.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

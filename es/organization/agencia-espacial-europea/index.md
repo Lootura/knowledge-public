@@ -46,4 +46,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030](https://www.expansion.com/economia/financial-times/2026/08/10/6a79b848e5fdea00078b456f.html?utm_source=lootura.com) — 2026-08-10T11:43:31.000Z
+No public source links.

@@ -3,20 +3,38 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Sara Gallego sale del laberinto
-
-Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.
-
-Date: 2026-08-10
-
 ### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
 
 Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
+
+Date: 2026-08-10
+
+### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
+
+En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
+
+Date: 2026-08-10
+
+### Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música
+
+El laboratorio internacional ISDIN celebrará un evento este miércoles en su espacio de Paseo de Gracia en Barcelona en el que ofrecerá la retransmisión en.
+
+Date: 2026-08-10
+
+### Los accidentes en atracciones de feria superan el centenar de heridos en diez años
+
+Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.
+
+Date: 2026-08-10
+
+### Sara Gallego sale del laberinto
+
+Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.
 
 Date: 2026-08-10
 
@@ -50,26 +68,9 @@ La presidenta de TMB, Laia Bonet, asegura que "el metro es hoy un espacio más s
 
 Date: 2026-08-10
 
-### Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”
-
-Esta mujer de 53 años será expulsada de su casa el 15 de septiembre sin que el Ayuntamiento de Barcelona le brinde ninguna alternativa viable debido a la saturación de los servicios municipales Los activistas por la vivienda ocupan el vestíbulo del Ayuntamiento de Barcelona por la falta de alojamientos de urgencia En u.
-
-Date: 2026-08-09
-
-### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
-
-Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
-
-Date: 2026-08-09
-
-### Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)
-
-Un conductor de 51 años ha perdido la vida este domingo por la mañana tras salirse de la carretera BV-3008 a su paso por Fonollosa (Barcelona), según ha informado el Servei Català de Trànsit (SCT) . El fallecido, vecino de la localidad y único ocupante del turismo , murió después de que el vehículo abandonara la vía y.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Sara Gallego sale del laberinto](https://www.abc.es/deportes/sara-gallego-sale-laberinto-20260809011349-nt.html?utm_source=lootura.com) — 2026-08-10T16:15:36.000Z
+- [El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia](https://www.abc.es/economia/vivienda-suelos-bajos-eclipsan-20260810175341-nt.html?utm_source=lootura.com) — 2026-08-10T19:41:03.000Z
 - [Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona](https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com) — 2026-08-10T12:17:20.000Z
-- [Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona](https://okdiario.com/espana/hombre-increpa-gritos-elias-bendodo-acto-del-pp-barcelona-19156539?utm_source=lootura.com) — 2026-08-10T16:09:53.000Z
+- [Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música](https://theobjective.com/sociedad/ciencia/2026-08-10/casa-isdin-eclipse-solar-ciencia-musica/?amp=&utm_source=lootura.com) — 2026-08-10T20:25:56.000Z
+- [Los accidentes en atracciones de feria superan el centenar de heridos en diez años](https://theobjective.com/sociedad/2026-08-10/accidentes-atracciones-feria-centenar-heridos-diez-anos/?utm_source=lootura.com) — 2026-08-10T19:19:56.000Z

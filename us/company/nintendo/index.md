@@ -3,10 +3,16 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-07T00:52:22.799Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Games look gorgeous on its 7.9-inch screen. | Photo: Brandt Ranj / The Verge The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026 , resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Ninte.
+
+Date: 2026-08-10
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Costco’s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale?utm_source=lootura.com) — 2026-08-10T19:14:27.000Z

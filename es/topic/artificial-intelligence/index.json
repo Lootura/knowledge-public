@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -52,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "Intel ampliará capital en 13.000 millones para afrontar la demanda por la IA",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/intel-ampliara-capital-en-13000-millones-para-afrontar-la-demanda-por-la-ia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:24:04.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:25:29.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

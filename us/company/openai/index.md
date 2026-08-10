@@ -52,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas?utm_source=lootura.com) — 2026-08-10T14:00:00.000Z
+No public source links.

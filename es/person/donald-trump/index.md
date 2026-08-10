@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
 
 Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
+
+Date: 2026-08-10
+
+### Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales
+
+Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.
+
+Date: 2026-08-10
+
+### Irán y Omán redibujan el mapa de Ormuz sin Washington
+
+Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para "todas las personas que Irán ha matado a lo largo de los últimos 50 años" Leer.
+
+Date: 2026-08-10
+
+### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
+
+El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. "¡Felicidade.
 
 Date: 2026-08-10
 
@@ -50,24 +68,9 @@ Date: 2026-08-09
 
 Date: 2026-08-09
 
-### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
-
-No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.
-
-Date: 2026-08-09
-
-### Estados Unidos, un aliado más estratégico que nunca para Marruecos
-
-Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
-
-Date: 2026-08-09
-
-### La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre
-
-El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales](https://www.abc.es/internacional/trump-revoluciona-calendario-vacunas-reduce-exigencias-gubernamentales-20260809213104-nt.html?utm_source=lootura.com) — 2026-08-10T19:31:30.000Z
+- [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
 - [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
+- [Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca](https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com) — 2026-08-10T20:08:32.000Z

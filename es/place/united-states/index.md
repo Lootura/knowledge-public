@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### Un Gobierno en emergencia permanente
-
-Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
-
-Date: 2026-08-10
 
 ### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
 
@@ -23,6 +17,24 @@ Date: 2026-08-10
 ### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
 
 Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
+
+Date: 2026-08-10
+
+### Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales
+
+Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.
+
+Date: 2026-08-10
+
+### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
+
+El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. "¡Felicidade.
+
+Date: 2026-08-10
+
+### Un Gobierno en emergencia permanente
+
+Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
 
 Date: 2026-08-10
 
@@ -56,20 +68,9 @@ Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqu
 
 Date: 2026-08-09
 
-### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
-
-La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.
-
-Date: 2026-08-09
-
-### La "guerra trans" alcanza a la WNBA: dos exNBA aspiran a ser elegibles en el "draft" porque se identifican como mujeres
-
-Una de las guerras culturales que se han abierto recientemente en Estados Unidos concierne a las deportistas trans y esa polémica ya ha alcanzado a la NBA femenina . Hace apenas tres semanas, Sophie Cunningham , jugadora de las Indiana Fever, afirmó: «Quiero proteger a las niñas en los vestuarios y a las niñas que prac.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales](https://www.abc.es/internacional/trump-revoluciona-calendario-vacunas-reduce-exigencias-gubernamentales-20260809213104-nt.html?utm_source=lootura.com) — 2026-08-10T19:31:30.000Z
 - [Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com) — 2026-08-10T16:37:48.000Z
 - [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
-- [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca](https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com) — 2026-08-10T20:08:32.000Z

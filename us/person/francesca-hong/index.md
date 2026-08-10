@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’](https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race?utm_source=lootura.com) — 2026-08-10T13:00:44.000Z
+No public source links.

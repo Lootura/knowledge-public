@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
+
+El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. "¡Felicidade.
+
+Date: 2026-08-10
 
 ### El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»
 
@@ -62,12 +68,6 @@ El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, cel
 
 Date: 2026-07-25
 
-### Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad
-
-El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca](https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com) — 2026-08-10T20:08:32.000Z

@@ -3,34 +3,10 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
-
-### Los testimonios de afectados por el seísmo: "Sentí que las copas de vino iban a estallar, todo se movía en mi casa"
-
-Un potente terremoto de magnitud 7,4 ha sacudido Colombia este lunes dejando al menos 74 personas fallecidas. El epicentro fue localizado en el municipio de San José del Palmar, en el departamento del Chocó, con una profundidad de 82 kilómetros. El temblor fue sentido en varias ciudades del centro y el oeste del país,.
-
-Date: 2026-08-10
-
-### ¿Dónde ha sido el terremoto de Colombia? Así es el Anillo de Fuego, una de las zonas más sísmicas del planeta
-
-Un terremoto de magnitud 7,4 ha sacudido este lunes Colombia y ha dejado al menos una veintena de muertos y varios heridos , así como daños materiales. El seísmo tuvo lugar a las 07.34 hora local (14.34 horas en España) y tuvo su epicentro en la localidad de San José del Palmar, en el departamento del Chocó, situado en.
-
-Date: 2026-08-10
-
-### Máxima alarma en Colombia tras el potente seísmo, que provoca graves daños en varias ciudades y deja a ciudadanos "atrapados"
-
-Un terremoto de magnitud 7,4 ha sacudido este lunes gran parte del territorio de Colombia. El seísmo se ha sentido a las 07.34 hora local (14:34 hora española) y tuvo como epicentro la localidad de San José del Palmar , en el departamento del Chocó, situado en la costa del Pacífico , a una profundidad de 82 kilómetros.
-
-Date: 2026-08-10
-
-### Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia
-
-Tragedia en Colombia . Un potente terremoto de magnitud 7,4 ha azotado este lunes el país e incluso se ha llegado a sentir en Panamá, Venezuela y Ecuador . El seísmo, que ha provocado al menos 22 muertos, ha causado el colapso de varios edificios, desprendimientos de fachadas, graves daños en aeropuertos e incluso derr.
-
-Date: 2026-08-10
 
 ### Al menos medio centenar de muertos tras un terremoto de magnitud 7,4 en Colombia
 
@@ -38,21 +14,9 @@ El temblor se ha sentido en casi todo el país y ha derrumbado cientos de edific
 
 Date: 2026-08-10
 
-### Las autoridades de Colombia elevan a 47 los muertos por el terremoto de magnitud 7,4 que ha derribado además numerosos edificios
-
-El fuerte seísmo que sacudió al centro de Colombia este lunes -a las 8 de la mañana (hora local), de 7'4 de magnitud, 96 kilómetros de profundidad y una duración superior...
-
-Date: 2026-08-10
-
 ### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
 
 Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.
-
-Date: 2026-08-10
-
-### Última hora del terremoto en Colombia, en directo | Al menos 70 muertos por el terremoto de magnitud 7,4 en Colombia
-
-Al menos 70 personas han muerto en Colombia por el terremoto de magnitud 7,4 que ha sacudido el oeste del país este lunes a las 7.34 de la mañana, hora local. De ellos, 40 han perdido en el área metropolitana de Pereira, tal y como ha informado el alcalde Mauricio Salazar. También se han producido graves destrozos en l.
 
 Date: 2026-08-10
 
@@ -68,15 +32,51 @@ El seísmo, con epicentro en el departamento del Chocó, situado en la costa del
 
 Date: 2026-08-10
 
+### El Consulado de España en Colombia, en contacto para atender a posibles españoles afectados por el terremoto
+
+El Consulado de España en Colombia está haciendo seguimiento d el terremoto que ha sacudido el país este lunes y en contacto con los consulados honorarios de la zona para conocer si hay algún español afectado por el temblor de magnitud 7,4 en la escala de Ritcher que ha dejado al menos 82 muertos, según las autoridades.
+
+Date: 2026-08-10
+
+### Terremoto en Colombia: «Vimos llegar al hospital, en Manizales, personas con fracturas de brazos, de piernas y de cráneo»
+
+En una de las ciudades más afectadas por el seísmo de este lunes se desató el pánico cuando sonaron las alarmas y la gente comenzó a correr y a salir de los edificios; después llegó la desesparación por encontrar a los familiares.
+
+Date: 2026-08-10
+
+### Más de cien muertos tras un terremoto de 7,4 que sacude el eje cafetero de Colombia
+
+Catalina Casas, bióloga y experta en aves, iba a sacar a sus perros al parque cuando el sacudón que empezó a sentirse en Manizales, pasadas las siete y media de la mañana, la paró en seco: «Tuve que sentarme en el piso pues no podía sostenerme en pie por el movimiento tan fuerte. Se cayeron muchas cosas, pero afortunad.
+
+Date: 2026-08-10
+
+### Las autoridades de Colombia elevan a 111 los muertos por el terremoto de magnitud 7,4 que ha derribado además numerosos edificios
+
+El fuerte seísmo que sacudió al centro de Colombia este lunes -a las 7.34 de la mañana (14.30 en la península ibérica), de 7'4 de magnitud y 107 kilómetros de...
+
+Date: 2026-08-10
+
+### El relato de una Colombia "devastada" por el terremoto: "Sonó durísimo, sentimos como si hubiera caballos cabalgando debajo de casa"
+
+Manizales es una de las ciudades más afectadas por el terremoto de magnitud 7,4 que este lunes ha sacudido Colombia. La ciudad sigue en estado de shock, con edificios dañados,...
+
+Date: 2026-08-10
+
+### El terremoto en Colombia obliga a desalojar en directo el estudio de Radio Tropicana: ¡Salgamos, Dios mío, salgamos!
+
+El terremoto sorprendió al equipo del programa ‘Cómo amaneció Cali’ en directo. Primero intentaron mantener la emisión informando de la intensidad del seísmo que estaban sufriendo, hasta que el temblor alcanzó una magnitud de 7,4 y no pudieron aguantar en el estudio, en el que entrevistaban al alcalde de la tercera ciu.
+
+Date: 2026-08-10
+
 ## Fuentes
 
-- [Los testimonios de afectados por el seísmo: "Sentí que las copas de vino iban a estallar, todo se movía en mi casa"](https://www.20minutos.es/internacional/los-testimonios-los-afectados-por-terremoto-colombia-senti-que-las-copas-vino-iban-estallar-todo-se-movia_7024398_0.html?utm_source=lootura.com) — 2026-08-10T16:30:41.000Z
-- [¿Dónde ha sido el terremoto de Colombia? Así es el Anillo de Fuego, una de las zonas más sísmicas del planeta](https://www.20minutos.es/internacional/donde-terremoto-colombia-anillo-fuego-zonas-mas-sismicas-planeta_7024376_0.html?utm_source=lootura.com) — 2026-08-10T15:11:02.000Z
-- [Máxima alarma en Colombia tras el potente seísmo, que provoca graves daños en varias ciudades y deja a ciudadanos "atrapados"](https://www.20minutos.es/internacional/terremoto-colombia-directo-menos-seis-aeropuertos-colombianos-sufren-danos-por-seismo_7024356_6.html?utm_source=lootura.com) — 2026-08-10T14:36:08.000Z
-- [Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia](https://www.20minutos.es/internacional/edificios-colapsados-panico-las-calles-los-videos-mas-impactantes-potente-terremoto-que-ha-azotado-colombia_7024348_0.html?utm_source=lootura.com) — 2026-08-10T15:06:23.000Z
+- [El Consulado de España en Colombia, en contacto para atender a posibles españoles afectados por el terremoto](https://www.20minutos.es/internacional/consulado-espana-colombia-contacto-para-atender-posibles-espanoles-afectados-por-terremoto_7024435_0.html?utm_source=lootura.com) — 2026-08-10T17:44:31.000Z
+- [Terremoto en Colombia: «Vimos llegar al hospital, en Manizales, personas con fracturas de brazos, de piernas y de cráneo»](https://www.abc.es/internacional/testimonio-manizales-20260810215710-nt_amp.html?utm_source=lootura.com) — 2026-08-10T19:57:10.000Z
+- [Más de cien muertos tras un terremoto de 7,4 que sacude el eje cafetero de Colombia](https://www.abc.es/internacional/terremoto-sacude-colombia-siente-ecuador-panama-20260810153338-nt.html?utm_source=lootura.com) — 2026-08-10T19:21:25.000Z
 - [Al menos medio centenar de muertos tras un terremoto de magnitud 7,4 en Colombia](https://www.elcorreo.com/internacional/america-latina/terremoto-magnitud-sacude-colombia-graves-danos-materiales-20260810152939-ntrc_amp.html?utm_source=lootura.com) — 2026-08-10T13:29:39.000Z
-- [Las autoridades de Colombia elevan a 47 los muertos por el terremoto de magnitud 7,4 que ha derribado además numerosos edificios](https://amp.elmundo.es/internacional/2026/08/10/6a79cc12fdddff3a6a8b4578.html?utm_source=lootura.com) — 2026-08-10T13:05:56.000Z
+- [Las autoridades de Colombia elevan a 111 los muertos por el terremoto de magnitud 7,4 que ha derribado además numerosos edificios](https://amp.elmundo.es/internacional/2026/08/10/6a79cc12fdddff3a6a8b4578.html?utm_source=lootura.com) — 2026-08-10T13:05:56.000Z
+- [El relato de una Colombia "devastada" por el terremoto: "Sonó durísimo, sentimos como si hubiera caballos cabalgando debajo de casa"](https://amp.elmundo.es/internacional/2026/08/10/6a79f7b2fc6c839e488b4593.html?utm_source=lootura.com) — 2026-08-10T16:56:39.000Z
+- [El terremoto en Colombia obliga a desalojar en directo el estudio de Radio Tropicana: ¡Salgamos, Dios mío, salgamos!](https://elpais.com/videos/2026-08-10/el-terremoto-en-colombia-obliga-a-desalojar-en-directo-el-estudio-de-radio-tropicana-salgamos-dios-mio-salgamos.html?utm_source=lootura.com) — 2026-08-10T17:32:23.000Z
+- [Video | La devastación en Cali tras el terremoto vista desde el aire](https://elpais.com/america-colombia/2026-08-10/video-la-devastacion-en-cali-tras-el-terremoto-vista-desde-el-aire.html?utm_source=lootura.com) — 2026-08-10T18:51:05.000Z
 - [Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com) — 2026-08-10T16:37:48.000Z
-- [Última hora del terremoto en Colombia, en directo | Al menos 70 muertos por el terremoto de magnitud 7,4 en Colombia](https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html?utm_source=lootura.com) — 2026-08-10T16:50:30.000Z
-- [La torre de la catedral de Manizales, destruida junto a otros edificios tras el terremoto en Colombia](https://elpais.com/america-colombia/actualidad/2026-08-10/la-torre-de-la-catedral-de-manizales-destruida-junto-a-otros-edificios-tras-el-terremoto-en-colombia.html?utm_source=lootura.com) — 2026-08-10T16:13:45.000Z
-- [Los mapas del terremoto en Colombia: estas son las zonas más afectadas](https://www.eldiario.es/internacional/mapas-terremoto-colombia-son-zonas-afectadas_1_13438997.html?utm_source=lootura.com) — 2026-08-10T16:19:57.000Z
+- [Mapas y gráficos del devastador terremoto en Colombia](https://elpais.com/internacional/2026-08-10/mapas-y-graficos-del-devastador-terremoto-en-colombia.html?utm_source=lootura.com) — 2026-08-10T18:42:29.000Z

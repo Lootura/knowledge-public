@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»](https://okdiario.com/cool/famosos/carmen-lomana-carga-contra-regreso-juan-carlos-i-marivent-lo-manda-ceuta-ya-puestos-19153500?utm_source=lootura.com) — 2026-08-10T16:30:20.000Z
+No public source links.

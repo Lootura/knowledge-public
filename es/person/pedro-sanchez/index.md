@@ -3,16 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Un Gobierno en emergencia permanente
-
-Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
-
-Date: 2026-08-10
 
 ### Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja
 
@@ -29,6 +23,12 @@ Date: 2026-08-10
 ### Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen
 
 La noticia llegó justo cuando se acababa de cerrar el velatorio de Javier Sánchez y Esther Latorre . “No puede ser”, “Me están llamando para preguntarme si es verdad”, “Era una posibilidad, pero no queríamos creerla”, han comentado sus amigos. El matrimonio había sido hallado cosido a puñaladas en el interior de su viv.
+
+Date: 2026-08-10
+
+### Un Gobierno en emergencia permanente
+
+Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
 
 Date: 2026-08-10
 
@@ -73,4 +73,3 @@ Date: 2026-08-10
 - [Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja](https://www.elcorreo.com/sociedad/sucesos/detienen-presuntos-autores-asesinato-lider-agrario-javier-20260810142539-nt_amp.html?utm_source=lootura.com) — 2026-08-10T12:25:39.000Z
 - [Detenidos una de las hijas y su pareja por el doble homicidio en Tauste del ex secretario de Unión de Agricultores y Ganaderos de Aragón y su esposa](https://www.elmundo.es/espana/2026/08/10/6a79bae8e9cf4ac25a8b4591.html?utm_source=lootura.com) — 2026-08-10T13:15:20.000Z
 - [Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen](https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html?utm_source=lootura.com) — 2026-08-10T13:31:38.000Z
-- [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

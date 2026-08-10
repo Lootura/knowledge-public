@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
 
 Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
+
+Date: 2026-08-10
+
+### Trump signs executive order on childhood vaccine recommendations
+
+The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.
+
+Date: 2026-08-10
+
+### White House officials tamped down efforts to oust Max Miller in final days
+
+Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.
 
 Date: 2026-08-10
 
@@ -56,19 +68,8 @@ US President Donald Trump speaks after signing executive orders in the Oval Offi
 
 Date: 2026-08-07
 
-### Funding milestone detected
-
-A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.
-
-Date: 2026-08-06
-
-### NATO spending pressure returned
-
-At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.
-
-Date: 2026-08-05
-
 ## Sources
 
+- [WATCH: Trump signs executive order on childhood vaccine recommendations](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations?utm_source=lootura.com) — 2026-08-10T20:10:20.000Z
 - [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
-- [Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen](https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/?utm_source=lootura.com) — 2026-08-10T15:10:31.000Z
+- [White House officials tamped down efforts to oust Max Miller in final days](https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com) — 2026-08-10T20:05:33.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/mark-zuckerberg/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/mark-zuckerberg/index.json",
   "description": "Follow Mark Zuckerberg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "Mark Elliot Zuckerberg",
     "The Zucc",
@@ -30,11 +30,11 @@
   ],
   "sources": [
     {
-      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:19:05.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Alaska tour boat rescued stranded skiff instead of Mark Zuckerberg’s mega-yacht",
+      "url": "https://www.nbcnews.com/news/us-news/alaska-tour-boat-rescued-stranded-skiff-instead-mark-zuckerbergs-mega-rcna591689?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:32:14.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

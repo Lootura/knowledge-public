@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Vox apoyará la propuesta de Sumar en el Congreso para que España no celebre el Mundial con Marruecos](https://www.elconfidencial.com/espana/2026-08-10/vox-sumar-congreso-espana-mundial-marruecos_4403942/?utm_source=lootura.com) — 2026-08-10T13:24:00.000Z
+No public source links.

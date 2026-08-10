@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso
+
+El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.
+
+Date: 2026-08-10
 
 ### El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»
 
@@ -62,13 +68,6 @@ El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiag
 
 Date: 2026-08-08
 
-### Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos
-
-La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada para impulsar el desarrollo económico y turístico de la provincia, vuelve a quedar bajo la lupa por la elevada presencia en su plantilla de antiguos cargos públicos, militantes socialistas y personas con estrechos vínculos con dirigentes del.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»](https://www.abc.es/espana/psoe-ceuta-descarta-nuevo-asalto-habla-solo-20260810095442-nt.html?utm_source=lootura.com) — 2026-08-10T16:01:33.000Z
-- [El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó](https://okdiario.com/andalucia/psoe-rinconada-gasto-12-millones-solar-chipiona-hotel-que-nunca-construyo-19156336?utm_source=lootura.com) — 2026-08-10T16:09:43.000Z
+- [La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso](https://www.eldiario.es/politica/fiscalia-remite-cuatro-denuncias-atico-compro-gobierno-ayuso-juzgado-investiga-caso_1_13438853.html?utm_source=lootura.com) — 2026-08-10T15:12:54.000Z

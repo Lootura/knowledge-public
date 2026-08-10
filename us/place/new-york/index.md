@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested
 
 A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
+
+Date: 2026-08-10
+
+### A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments
+
+Investigators are focusing on the tour operator and the pilot of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.
 
 Date: 2026-08-10
 
@@ -62,12 +68,7 @@ US congresswoman to share journey online as she criticizes Trump administration�
 
 Date: 2026-08-09
 
-### Woman and Baby Die After Boat Capsized in New York Harbor
-
-New York City police are on the scene of a tragic boating accident where a woman and a young child were killed near the Statue of Liberty. The NYPD says they got a call about an overturned boat and when crews arrived, they found 12 people had already been rescued from the water but a 27-year-old woman and five-month-ol.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T03:53:00.000Z
+- [Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T20:07:47.000Z
+- [A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments](https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html?utm_source=lootura.com) — 2026-08-10T19:28:41.000Z

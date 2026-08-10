@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Viaja a Mallorca y critica la masificación turística en la isla: "Yo vivo y Málaga y ya me quejo, pero es que creo que esto es otro nivel"](https://www.larazon.es/baleares/viaja-mallorca-critica-masificacion-turistica-isla-vivo-malaga-quejo-creo-otro-nivel-b30m_202608106a79bab5a5690f047372296e.html?utm_source=lootura.com) — 2026-08-10T16:30:13.000Z
+No public source links.

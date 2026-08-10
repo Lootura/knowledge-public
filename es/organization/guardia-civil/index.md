@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Detenidas 15 personas, incluido un guardia civil, con tonelada y media de cocaína en La Coruña
+
+Un total de 15 personas, entre ellas un agente de la Guardia Civil, han sido detenidas en una operación contra el narcotráfico en Mugía (La Coruña), en la.
+
+Date: 2026-08-10
 
 ### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
 
@@ -62,12 +68,6 @@ La decisión de la Audiencia Nacional de indagar en los motivos que desencadenar
 
 Date: 2026-08-06
 
-### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
-
-La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardia Civil si recibió "alguna información en los días previos que hubiese podido alertar"...
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»](https://www.abc.es/espana/madrid/eclipse-seguro-1700-policias-vigilaran-evento-atomizado-20260810132258-nt.html?utm_source=lootura.com) — 2026-08-10T15:54:00.000Z
+- [Detenidas 15 personas, incluido un guardia civil, con tonelada y media de cocaína en La Coruña](https://theobjective.com/sociedad/2026-08-10/15-detenidos-guardia-civil-cocaina-la-coruna/?amp=&utm_source=lootura.com) — 2026-08-10T20:12:24.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.json",
   "description": "Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "B.C.",
     "BC",
@@ -47,6 +47,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Illegal fishing captures up to 15% of global marine wild catch, analysis finds",
+      "url": "https://phys.org/news/2026-08-illegal-fishing-captures-global-marine.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
   "evidenceCount": 0
 }

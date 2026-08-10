@@ -3,20 +3,20 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
 
-### European criticism of FIFA ruling grew
-
-Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.
-
-Date: 2026-08-10
-
 ### Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»
 
 En 2013, Verónica Boquete, tras años con un balón en el pie, batalló para que el juego FIFA incluyese mujeres. Para el 'FIFA 16', lo consiguió. La futbolista, que se ha ganado a pulso la etiqueta de pionera, fue la primera española en alzar una Champions . La primera nominada al Balón de Oro. Y, también, la capitana de.
+
+Date: 2026-08-10
+
+### European criticism of FIFA ruling grew
+
+Gianni Infantino está completamente acorralado. Los últimos acontecimientos están llevando al presidente de la FIFA a una situación límite, contra las cuerdas. La gran oposición de la UEFA , con la que existen tensiones desde hace más de un año, fue solamente una gota en el tsunami que hoy tiene ante sí mismo el dirige.
 
 Date: 2026-08-10
 
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Infantino más acorralado que nunca](https://okdiario.com/deportes/infantino-mas-acorralado-que-nunca-19155818?utm_source=lootura.com) — 2026-08-10T16:15:35.000Z
+- [Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»](https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com) — 2026-08-10T19:43:33.000Z

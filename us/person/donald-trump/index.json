@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -41,46 +41,64 @@
     },
     {
       "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-      "summary": "Prime Minister Benjamin Netanyahu of Israel is trying to satisfy the sometimes competing demands of his right-wing base and President Trump months ahead of a tough election.",
+      "summary": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
       "date": "2026-08-10"
     },
     {
-      "title": "Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen",
-      "summary": "President Donald Trump speaks to the press after signing an Executive Order in the Oval Office of the White House on March 31, 2026. —Brendan Smialowski—Getty Images Iranian Foreign Minister Abbas Araghchi on Sunday said an agreement with Oman to define new shipping routes through the Strait of Hormuz was in its “final.",
+      "title": "Trump signs order on childhood vaccination recommendations, citing autism",
+      "summary": "President Trump is signing an executive order on childhood vaccine schedules Monday.",
       "date": "2026-08-10"
     },
     {
-      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
-      "summary": "Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.",
+      "title": "Trump order aims to cut number of diseases all children should be vaccinated against from 18 to 11",
+      "summary": "President Trump has issued an executive order reducing the number of recommended vaccines for children, reaffirming the overhaul that Robert F. Kennedy Jr. announced earlier this year.",
       "date": "2026-08-10"
     },
     {
-      "title": "Trump Vows to Take Ballroom Battle to the Supreme Court",
-      "summary": "President Donald Trump’s planned ballroom is in jeopardy after a federal appeals court ruled Congress should have approved the project first. The president is now calling on the Supreme Court to overturn that decision. NBC’s Gabe Gutierrez reports for TODAY.",
+      "title": "RFK Jr. wants to fix loophole that allows additives into food. Critics say it doesn’t go far enough.",
+      "summary": "The Trump administration said it’s taking first steps in strengthening rules over ingredients food companies have long added to their products with minimal oversight.",
       "date": "2026-08-10"
     },
     {
-      "title": "Trump officials offer cities tens of millions for Memphis-style police surges – with conditions",
-      "summary": "DoJ to give $300m for enforcement surges in four cities, as long as they abandon progressive ideologies on policing The Trump administration is offering grants of tens of millions of dollars to cities across the US to create more Memphis -style enforcement surges – on the condition that they abandon progressive ideolog.",
+      "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "summary": "President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseases. (Image credit: Jim Watson).",
       "date": "2026-08-10"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
+      "title": "Trump signs executive order on childhood vaccine recommendations",
+      "summary": "The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.",
       "date": "2026-08-10"
     },
     {
-      "title": "Trump is still searching for a way out of Iran",
-      "summary": "President Donald Trump is struggling to find a way out of the conflict with Iran, as voters lose patience with the war and weapons stockpiles dwindle. The path forward remains unclear, even as Trump has privately weighed dropping his long-held requirement for a nuclear deal. Washington is unlikely to accept Iran’s late.",
+      "title": "White House officials tamped down efforts to oust Max Miller in final days",
+      "summary": "Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.",
       "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:41:46.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump signs order on childhood vaccination recommendations, citing autism",
+      "url": "https://www.cbsnews.com/news/trump-childhood-vaccines-executive-order/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:27:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump order aims to cut number of diseases all children should be vaccinated against from 18 to 11",
+      "url": "https://www.nbcnews.com/health/kids-health/trump-order-fewer-childhood-vaccines-rcna591774?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:44:14.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "RFK Jr. wants to fix loophole that allows additives into food. Critics say it doesn’t go far enough.",
+      "url": "https://www.nbcnews.com/health/health-news/rfk-jr-proposes-fix-loophole-gras-ingredients-rcna591400?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:16:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:25:02.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
@@ -89,29 +107,35 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "WATCH: Trump signs executive order on childhood vaccine recommendations",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:10:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
       "url": "https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com",
       "publishedAt": "2026-08-10T15:03:30.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Minnesota’s Democratic Senate Primary Pits Angie Craig Against Peggy Flanagan",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:04:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "White House officials tamped down efforts to oust Max Miller in final days",
+      "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:05:33.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:40:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:06:07.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen",
-      "url": "https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:10:31.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+      "url": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:01:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 13
 }

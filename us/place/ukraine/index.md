@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Ukrainian drone strikes deep inside Russia kill at least 13, authorities say
 
 The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.
+
+Date: 2026-08-10
+
+### Why Russia and Ukraine can't stop each other's air attacks
+
+Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.
+
+Date: 2026-08-10
+
+### Funding milestone detected
+
+Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.
 
 Date: 2026-08-10
 
@@ -56,20 +68,8 @@ Falling debris sparked several fires on the outskirts of the Ukrainian capital, 
 
 Date: 2026-08-08
 
-### Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead
-
-Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine. (Image credit: Roman Pilipey).
-
-Date: 2026-08-08
-
-### President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall
-
-Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [Ukrainian drone strikes deep inside Russia kill at least 13, authorities say](https://www.cbsnews.com/news/ukraine-russia-war-drone-attack-tatarstan-oil/?utm_source=lootura.com) — 2026-08-10T10:59:00.000Z
-- [Drought and the war in Ukraine changed what families in Kenya could afford to eat](https://phys.org/news/2026-08-drought-war-ukraine-families-kenya.html?utm_source=lootura.com) — 2026-08-10T12:00:03.000Z
-- [Ukraine Drone Attack on Industrial City in Russia Kills at Least 13](https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html?utm_source=lootura.com) — 2026-08-10T15:17:41.000Z
+- [Why Russia and Ukraine can't stop each other's air attacks](https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks?utm_source=lootura.com) — 2026-08-10T20:14:08.000Z
+- [Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com) — 2026-08-10T18:15:37.000Z

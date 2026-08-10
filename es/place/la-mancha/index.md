@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo
+
+La provincia de Toledo se prepara para vivir un acontecimiento histórico este próximo miércoles, 12 de agosto. Por primera vez en 126 años, la comarca manchega se situará como uno de los escenarios idóneos en España para contemplar el eclipse total de sol. Con motivo de este fenómeno, que prevé reunir a varios miles de.
+
+Date: 2026-08-10
 
 ### La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos
 
@@ -62,12 +68,6 @@ Una trabajadora de 22 años ha fallecido en la mañana de este sábado tras qued
 
 Date: 2026-08-01
 
-### Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios
-
-La decisión se adopta a petición del Mando Unificado de Extinción (MUE), que ha trasladado al presidente de Castilla-La Mancha, Emiliano García-Page, la solicitud de declaración de la situación operativa 3 para la provincia de Toledo. Se trata de "reforzar la coordinación de todos los servicios y recursos implicados en.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo](https://www.elindependiente.com/tendencias/2026/08/10/la-mancha-auna-gastronomia-y-astronomia-ante-el-eclipse-total-de-sol-con-una-comida-popular-de-sabor-toledo/?utm_source=lootura.com) — 2026-08-10T15:31:31.000Z

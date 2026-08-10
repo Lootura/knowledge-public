@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Record July heat in regions home to 900 million people",
+      "summary": "Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central America, France and Spain, according to AFP analysis of Copernicus data.",
+      "date": "2026-08-10"
+    },
     {
       "title": "How Spain’s migration surge tested E.U. border policy",
       "summary": "An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.",
@@ -59,19 +64,14 @@
       "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
       "summary": "Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "How Spain’s migration surge tested E.U. border policy",
-      "url": "https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:00:00.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Record July heat in regions home to 900 million people",
+      "url": "https://phys.org/news/2026-08-july-regions-home-million-people.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:00:10.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 1

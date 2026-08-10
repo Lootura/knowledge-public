@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Jaume Giró, la última víctima",
+      "summary": "La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno de investidura de Salvador Illa. Estaba deambulando por los alrededores del Parlament porque me tienen vetado y lo vi llegar antes de la sesión. Disparé a bocajarro: —Jaume, no he visto a nadie que haya jugado tan mal sus cartas —le dije con la.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
       "summary": "Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.",
@@ -58,13 +63,15 @@
       "title": "Puigdemont y Junqueras apremian a los tribunales españoles a aplicar la amnistía tras el aval del TJUE",
       "summary": "El president de la Generalitat, Salvador Illa, también celebra la resolución del tribunal europeo: \"No hay obstáculo democrático que impida su aplicación\" El TJUE avala la ley de amnistía como vía para la \"reconciliación nacional\" Junts y ERC, los dos partidos catalanes con más dirigentes a la espera de la aplicación c.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue",
-      "summary": "TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont \"Hay que zanjar el debate\": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Jaume Giró, la última víctima",
+      "url": "https://okdiario.com/opinion/jaume-giro-ultima-victima-19157996?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:40:23.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

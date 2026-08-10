@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "Hegseth Renames Base for Lindsey Graham",
+      "summary": "Joint Base Charleston will now be known as Joint Base Lindsey Graham. The senator served as a judge advocate general before retiring as a colonel in 2015.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it",
       "summary": "The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.",
@@ -58,13 +63,15 @@
       "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
       "summary": "Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
-      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Hegseth Renames Base for Lindsey Graham",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:03:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

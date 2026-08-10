@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Hegseth Renames Base for Lindsey Graham
+
+Joint Base Charleston will now be known as Joint Base Lindsey Graham. The senator served as a judge advocate general before retiring as a colonel in 2015.
+
+Date: 2026-08-10
 
 ### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
 
@@ -62,12 +68,6 @@ Former Rep. Trey Gowdy insists he’s not interested in running in the South Car
 
 Date: 2026-07-21
 
-### There’s a power struggle brewing in South Carolina, and Trump might not win
-
-The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Hegseth Renames Base for Lindsey Graham](https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html?utm_source=lootura.com) — 2026-08-10T19:03:02.000Z

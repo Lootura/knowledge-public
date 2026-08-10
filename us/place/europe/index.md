@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far
+
+Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.
+
+Date: 2026-08-10
+
+### Europe braces for another summer heat wave
+
+Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic lows, ignited historic forest fires and contributed to thousands of deaths.
+
+Date: 2026-08-10
 
 ### How Spain’s migration surge tested E.U. border policy
 
@@ -17,12 +29,6 @@ Date: 2026-08-10
 ### Steam hardware shipper breach leaks customer data, including names and addresses
 
 Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The.
-
-Date: 2026-08-10
-
-### UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far
-
-Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.
 
 Date: 2026-08-10
 
@@ -62,14 +68,7 @@ High temperature warnings were in place across western, central and southern Eur
 
 Date: 2026-08-09
 
-### Heatwaves have killed millions. Here’s how scientists tally lives lost
-
-Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [How Spain’s migration surge tested E.U. border policy](https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
 - [UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far](https://www.pbs.org/newshour/world/uk-and-france-prepare-for-another-heat-wave-as-western-europe-has-its-3rd-hottest-year-on-record-so-far?utm_source=lootura.com) — 2026-08-10T16:30:14.000Z
-- [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach?utm_source=lootura.com) — 2026-08-10T12:48:12.000Z
+- [Europe braces for another summer heat wave](https://phys.org/news/2026-08-europe-braces-summer.html?utm_source=lootura.com) — 2026-08-10T19:40:04.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,5 +70,5 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T15:44:27.000Z
+- [Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T19:40:10.000Z
 - [El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz](https://theobjective.com/economia/2026-08-10/ibex-35-plano-sesion-volatil-ormuz/?amp=&utm_source=lootura.com) — 2026-08-10T16:20:02.000Z

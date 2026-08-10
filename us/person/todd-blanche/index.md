@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Todd Blanche, Trump’s former personal lawyer, sworn in as US attorney general](https://www.theguardian.com/us-news/2026/aug/10/todd-blanche-attorney-general-sworn-in?utm_source=lootura.com) — 2026-08-10T19:18:57.000Z

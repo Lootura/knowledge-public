@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
+
+En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
+
+Date: 2026-08-10
 
 ### Tráiler de ‘The Only Living Pickpocket in New York’: Los Oscar le deben una nominación a John Turturro
 
@@ -62,13 +68,6 @@ El actor estadounidense Vincent Pastore , recordado popularmente por su papel de
 
 Date: 2026-08-02
 
-### Richard Gelfond: el hombre que convirtió IMAX en un negocio millonario
-
-Cualquier guionista medianamente apañado podría convertir la vida del director ejecutivo de IMAX en una película sobre el manido sueño americano. La historia de Richard Gelfond (Nueva York, 1955) es el epítome del hombre de negocios hecho a sí mismo, una de esas historias capaces de enamorar a Hollywood y a Wall Street.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Rahm conquista su tercer anillo del LIV](https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com) — 2026-08-09T19:58:49.000Z
-- [Tráiler de ‘The Only Living Pickpocket in New York’: Los Oscar le deben una nominación a John Turturro](https://okdiario.com/cool/television/trailer-the-only-living-pickpocket-in-new-york-oscar-deben-nominacion-john-turturro-19155813?utm_source=lootura.com) — 2026-08-10T16:10:49.000Z
+- [El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia](https://www.abc.es/economia/vivienda-suelos-bajos-eclipsan-20260810175341-nt.html?utm_source=lootura.com) — 2026-08-10T19:41:03.000Z

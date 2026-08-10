@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
+      "summary": "El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»",
       "summary": "El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.",
@@ -65,26 +70,15 @@
       "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
       "summary": "El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Prodetur, la empresa pública que el PSOE de Sevilla utiliza como agencia de colocación de sus ex cargos",
-      "summary": "La empresa pública Prodetur , dependiente de la Diputación de Sevilla y creada para impulsar el desarrollo económico y turístico de la provincia, vuelve a quedar bajo la lupa por la elevada presencia en su plantilla de antiguos cargos públicos, militantes socialistas y personas con estrechos vínculos con dirigentes del.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»",
-      "url": "https://www.abc.es/espana/psoe-ceuta-descarta-nuevo-asalto-habla-solo-20260810095442-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:01:33.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó",
-      "url": "https://okdiario.com/andalucia/psoe-rinconada-gasto-12-millones-solar-chipiona-hotel-que-nunca-construyo-19156336?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:09:43.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
+      "url": "https://www.eldiario.es/politica/fiscalia-remite-cuatro-denuncias-atico-compro-gobierno-ayuso-juzgado-investiga-caso_1_13438853.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:12:54.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,5 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=lootura.com) — 2026-08-10T14:30:00.000Z
-- [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-10T16:52:37.957Z
-- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas?utm_source=lootura.com) — 2026-08-10T14:00:00.000Z
-- [What happens to Bose when headphones become AI?](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio?utm_source=lootura.com) — 2026-08-10T14:00:00.000Z
+- [How and when to use artificial intelligence in your science job application](https://www.nature.com/articles/d41586-026-02435-2?utm_source=lootura.com) — 2026-08-10T20:39:48.515Z
+- [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-10T20:39:48.515Z

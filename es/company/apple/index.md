@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
 
 El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.
+
+Date: 2026-08-10
+
+### Apple podría lanzar su propia pulsera sin pantalla al estilo Whoop o Fitbit Air
+
+El catálogo de wearables de Apple podría renovarse con nuevos productos, incluyendo una pulsera sin pantalla al estilo Whoop o Fitbit Air . Según reporta Mark Gurman, los de Cupertino analizan esta posibilidad como parte de la estrategia para evolucionar y renovar el catálogo que hoy lidera el Apple Watch. El periodist.
+
+Date: 2026-08-10
+
+### Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón
+
+Cuando Apple anunció iOS 26 con Liquid Glass , muchos usuarios pensaron que se trataba de una idea original nunca antes vista. La realidad es que Microsoft hizo algo parecido hace casi dos décadas con Windows Vista y Aero, una interfaz parecida que muchos todavía recuerdan con cariño. Con la moda impuesta por Apple, mu.
 
 Date: 2026-08-10
 
@@ -56,19 +68,8 @@ En 2024 Apple presentó Apple Intelligence como su gran respuesta a la carrera p
 
 Date: 2026-08-06
 
-### Todo lo que Apple presenta en septiembre: iPhone, plegables, relojes y ¿One More Thing?
-
-Todavía no sabemos la fecha exacta para la keynote de Apple, pero es fácil vaticinar que será a principios de septiembre. Queda un mes . Y hoy te vamos a contar todo lo que se espera por parte de la compañía de la manzana para esta presentación que, otra vez, será la más importante del año al albergar el anuncio de los.
-
-Date: 2026-08-06
-
-### El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estreno
-
-El regreso de la temporada 4 de Ted Lasso ya es una realidad. La serie ha vuelto tres años después del final de su anterior entrega. Y lo hace además contra todo pronóstico, porque aquella temporada 3 estaba anunciada como la última . Pero finalmente en Apple TV recularon y han devuelto al querido entrenador de futbol.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [Apple podría lanzar su propia pulsera sin pantalla al estilo Whoop o Fitbit Air](https://hipertextual.com/apple/pulsera-sin-pantalla-apple-whoop-fitbir-air/?utm_source=lootura.com) — 2026-08-10T18:52:00.000Z
+- [Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón](https://hipertextual.com/software/microsoft-no-trae-liquid-glass-windows-11-iphone/?utm_source=lootura.com) — 2026-08-10T20:00:00.000Z
 - [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z
-- ['The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco](https://www.larazon.es/tecnologia-consumo/series/the-sticks-nuevo-drama-juvenil-hockey-netflix-protagonizado-michelle-monaghan-suma-nuevos-nombres-su-elenco_202608106a79f934a046ad6ebca9eed7.html?utm_source=lootura.com) — 2026-08-10T16:31:00.000Z

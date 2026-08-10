@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage](https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war?utm_source=lootura.com) — 2026-08-10T16:08:06.000Z
+No public source links.

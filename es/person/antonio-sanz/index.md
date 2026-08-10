@@ -52,4 +52,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El incendio de Niebla está «fuera de la capacidad de extinción»](https://www.abc.es/espana/andalucia/huelva/incendio-huelva-complica-tras-nuevo-cambio-viento-20260810123518-nts.html?utm_source=lootura.com) — 2026-08-10T16:11:55.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -22,13 +22,28 @@
   ],
   "changes": [
     {
-      "title": "Sara Gallego sale del laberinto",
-      "summary": "Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.",
+      "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
+      "summary": "Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una \"orden de alejamiento\" Leer.",
       "date": "2026-08-10"
     },
     {
-      "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
-      "summary": "Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una \"orden de alejamiento\" Leer.",
+      "title": "El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia",
+      "summary": "En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
+      "summary": "El laboratorio internacional ISDIN celebrará un evento este miércoles en su espacio de Paseo de Gracia en Barcelona en el que ofrecerá la retransmisión en.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Los accidentes en atracciones de feria superan el centenar de heridos en diez años",
+      "summary": "Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Sara Gallego sale del laberinto",
+      "summary": "Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.",
       "date": "2026-08-10"
     },
     {
@@ -55,28 +70,13 @@
       "title": "Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026",
       "summary": "La presidenta de TMB, Laia Bonet, asegura que \"el metro es hoy un espacio más seguro que hace unos años\".",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”",
-      "summary": "Esta mujer de 53 años será expulsada de su casa el 15 de septiembre sin que el Ayuntamiento de Barcelona le brinde ninguna alternativa viable debido a la saturación de los servicios municipales Los activistas por la vivienda ocupan el vestíbulo del Ayuntamiento de Barcelona por la falta de alojamientos de urgencia En u.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Atrapados a 40 grados en el aeropuerto de El Prat: la \"bienvenida\" a los italianos por el pulso entre Sánchez y Meloni",
-      "summary": "Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un \"finger\" hirviente bajo el sol de Barcelona....",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)",
-      "summary": "Un conductor de 51 años ha perdido la vida este domingo por la mañana tras salirse de la carretera BV-3008 a su paso por Fonollosa (Barcelona), según ha informado el Servei Català de Trànsit (SCT) . El fallecido, vecino de la localidad y único ocupante del turismo , murió después de que el vehículo abandonara la vía y.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Sara Gallego sale del laberinto",
-      "url": "https://www.abc.es/deportes/sara-gallego-sale-laberinto-20260809011349-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:15:36.000Z",
+      "title": "El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia",
+      "url": "https://www.abc.es/economia/vivienda-suelos-bajos-eclipsan-20260810175341-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:41:03.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -86,11 +86,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona",
-      "url": "https://okdiario.com/espana/hombre-increpa-gritos-elias-bendodo-acto-del-pp-barcelona-19156539?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:09:53.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
+      "url": "https://theobjective.com/sociedad/ciencia/2026-08-10/casa-isdin-eclipse-solar-ciencia-musica/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:25:56.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Los accidentes en atracciones de feria superan el centenar de heridos en diez años",
+      "url": "https://theobjective.com/sociedad/2026-08-10/accidentes-atracciones-feria-centenar-heridos-diez-anos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:19:56.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

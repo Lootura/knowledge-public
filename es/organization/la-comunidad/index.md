@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios](https://www.abc.es/espana/madrid/madrid-destinara-millon-euros-ayudas-agricultores-ganaderos-20260810155948-nt.html?utm_source=lootura.com) — 2026-08-10T15:44:23.000Z
+No public source links.

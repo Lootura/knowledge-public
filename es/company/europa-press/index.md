@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%](https://www.abc.es/economia/florentino-perez-refuerza-posicion-principal-accionista-acs-20260810181112-nt.html?utm_source=lootura.com) — 2026-08-10T16:11:13.000Z
+No public source links.

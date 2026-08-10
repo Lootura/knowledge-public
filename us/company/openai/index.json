@@ -50,13 +50,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
-      "sourceId": "lootura-us-openai"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

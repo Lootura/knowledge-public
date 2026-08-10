@@ -34,5 +34,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Ángel Víctor Torres eleva a 80.000 los migrantes que entraron en Ceuta los días 30 y 31 de julio](https://www.elconfidencial.com/espana/2026-08-10/entrada-masiva-menores-ceuta-marruecos-1tps_4403918/?utm_source=lootura.com) — 2026-08-10T13:09:00.000Z
-- [Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio](https://theobjective.com/espana/politica/2026-08-10/torres-eleva-personas-ceuta-emergencia/?amp=&utm_source=lootura.com) — 2026-08-10T12:26:38.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
+
+### 'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent
+
+Montana’s Democratic Senate nominee on Monday refused to drop her campaign to clear the way for an independent candidate, setting up a crowded race that is likely to help Republicans win in November. Alani Bankhead made certain with hours to go before Monday’s deadline that she would not step aside to give independent.
+
+Date: 2026-08-10
 
 ### Progressives didn’t get the big election night they wanted
 
@@ -41,3 +47,4 @@ Date: 2026-07-19
 ## Sources
 
 - [Faith is a centerpiece of Texas Senate candidate James Talarico's campaign](https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign?utm_source=lootura.com) — 2026-08-10T08:40:27.000Z
+- ['I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent](https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177?utm_source=lootura.com) — 2026-08-10T18:12:38.000Z

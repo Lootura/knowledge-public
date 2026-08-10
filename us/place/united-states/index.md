@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,21 +38,9 @@ Iran laid out a new set of demands for reopening the Strait of Hormuz as both th
 
 Date: 2026-08-10
 
-### Ben Jones, Cooter on ‘The Dukes of Hazzard’ and former congressman, dies at 84
-
-Ben Jones, the man known as both Cooter from “The Dukes of Hazzard” television series and a former U.S. congressman from Georgia, died Sunday.
-
-Date: 2026-08-10
-
 ### Congressional Democrats to investigate efforts to deport U.S. military members and their families
 
 The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
-
-Date: 2026-08-10
-
-### Many Americans underestimate health risks of extreme weather, new study finds
-
-A changing climate increases the health risks posed by extreme weather. However, according to the 2024 Yale Climate Opinion Maps, only 47% of U.S. survey participants believed that global warming would harm them personally.
 
 Date: 2026-08-10
 
@@ -68,15 +56,27 @@ In Texas, there’s one thing liberals and conservatives agree on: They don’t 
 
 Date: 2026-08-10
 
+### The U.S. just had its hottest month on record
+
+The United States sweltered through its hottest July ever recorded last month, the National Oceanic and Atmospheric Administration confirmed Monday.
+
+Date: 2026-08-10
+
+### Trump Says US is ‘Only Semi-Negotiating’ With Iran
+
+Oil prices jumped higher after Iran issued a long list of demands to reopen the Strait of Hormuz. The United States announced more sanctions against Iran as questions loom over negotiations. NBC’s Keir Simmons reports for TODAY.
+
+Date: 2026-08-10
+
 ## Sources
 
 - [Breaking down Iran's new set of demands over the Strait of Hormuz](https://www.cbsnews.com/video/breaking-down-irans-new-set-of-demands-over-the-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-10T16:20:16.000Z
 - [Daily fragment: 2020 Midwest derecho](https://en.wikipedia.org/wiki/2020_Midwest_derecho?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
-- [Ben Jones, Cooter on ‘The Dukes of Hazzard’ and former congressman, dies at 84](https://www.nbcnews.com/news/obituaries/ben-jones-cooter-dukes-hazzard-former-congressman-dies-84-rcna591678?utm_source=lootura.com) — 2026-08-10T13:13:25.000Z
+- [The U.S. just had its hottest month on record](https://www.nbcnews.com/science/climate-change/us-just-hottest-month-record-rcna591771?utm_source=lootura.com) — 2026-08-10T20:13:25.000Z
+- [Trump Says US is ‘Only Semi-Negotiating’ With Iran](https://www.today.com/video/what-s-included-in-iran-s-demands-to-reopen-strait-of-hormuz-268024389758?utm_source=lootura.com) — 2026-08-10T11:23:49.000Z
+- [Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’](https://www.nbcnews.com/meet-the-press/video/democratic-minnesota-senate-candidate-says-her-campaign-is-about-the-many-versus-the-money-268062789653?utm_source=lootura.com) — 2026-08-10T20:26:23.000Z
+- [Brendan Murphy's art is celebrating America's 250 with exhibit in Washington D.C.](https://www.nbcnews.com/now/video/new-d-c-exhibit-celebrating-features-the-art-of-brendan-murphy-268056645851?utm_source=lootura.com) — 2026-08-10T19:23:22.000Z
 - [Crews battle wildfires in western U.S. and Canada](https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com) — 2026-08-09T22:03:09.000Z
 - [The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
 - [Voters are sick of the 2-party system. A new poll shows they're open to big changes](https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
-- [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
-- [Many Americans underestimate health risks of extreme weather, new study finds](https://phys.org/news/2026-08-americans-underestimate-health-extreme-weather.html?utm_source=lootura.com) — 2026-08-10T16:00:06.000Z
-- [How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22](https://www.nytimes.com/2026/08/10/podcasts/the-headlines/cameras-car-flock-iran.html?utm_source=lootura.com) — 2026-08-10T10:00:09.000Z
-- [America Is Atomizing](https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html?utm_source=lootura.com) — 2026-08-10T11:21:23.000Z
+- [Ocasio-Cortez says she's freezing her eggs as she considers her political career](https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career?utm_source=lootura.com) — 2026-08-10T17:07:57.000Z

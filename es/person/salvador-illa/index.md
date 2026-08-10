@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Jaume Giró, la última víctima
+
+La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno de investidura de Salvador Illa. Estaba deambulando por los alrededores del Parlament porque me tienen vetado y lo vi llegar antes de la sesión. Disparé a bocajarro: —Jaume, no he visto a nadie que haya jugado tan mal sus cartas —le dije con la.
+
+Date: 2026-08-10
 
 ### Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura
 
@@ -62,12 +68,6 @@ El president de la Generalitat, Salvador Illa, también celebra la resolución d
 
 Date: 2026-07-16
 
-### Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue
-
-TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont "Hay que zanjar el debate": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Jaume Giró, la última víctima](https://okdiario.com/opinion/jaume-giro-ultima-victima-19157996?utm_source=lootura.com) — 2026-08-10T18:40:23.000Z

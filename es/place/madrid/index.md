@@ -3,20 +3,44 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
-
-Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
-
-Date: 2026-08-10
-
 ### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
 
 Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
+
+Date: 2026-08-10
+
+### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
+
+En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
+
+Date: 2026-08-10
+
+### Florentino Pérez refuerza su posición como principal accionista de ACS al elevar su participación hasta el 15%
+
+El presidente de ACS y del Real Madrid, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles de máximos históricos. Seguir leyendo.
+
+Date: 2026-08-10
+
+### La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso
+
+El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.
+
+Date: 2026-08-10
+
+### Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso
+
+El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el ático que compró el Gobierno de Isabel Díaz Ayuso por 6,3 millones de euros. La juez Rosario de Fátima Espinosa, que abrió un procedimiento tras un escrito de Iustitia Europa , ha recibido este lunes otras cuatro denuncias de la Fiscalía Pro.
+
+Date: 2026-08-10
+
+### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
+
+Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
 
 Date: 2026-08-10
 
@@ -44,33 +68,10 @@ El inicio de curso político en septiembre puede convertirse en un verdadero via
 
 Date: 2026-08-10
 
-### Dónde ver el eclipse solar en Madrid: los mejores miradores y consejos
-
-El esperado eclipse solar cruzará la península al final de la tarde y dejará en la capital una cobertura casi absoluta del disco solar.
-
-Date: 2026-08-10
-
-### Los empresarios acusan a Aena de «hipotecar» Madrid y reclaman un segundo aeropuerto
-
-Madrid necesita mirar más allá de Barajas. Esta es la advertencia que lanza Madrid Foro Empresarial, que reclama una planificación aeroportuaria a largo plazo y plantea el traslado progresivo de la aviación general y ejecutiva de Cuatro Vientos al futuro Aeropuerto Madrid Sur. La propuesta llega en un momento especialm.
-
-Date: 2026-08-10
-
-### El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático
-
-La vicealcaldesa de Madrid , Inma Sanz, cree que la presidenta la Comunidad, Isabel Díaz Ayuso, ya ha dado «explicaciones» sobre la adquisición de un ático de Chamberí por parte de su Gobierno y le parece una «buena iniciativa» venderlo para cubrir las consecuencias de los incendios . «Yo creo que la Comunidad de Madri.
-
-Date: 2026-08-10
-
-### El Real Madrid hace oficiales los dorsales para la temporada 2026-2027
-
-El Real Madrid ha hecho oficiales los dorsales que lucirán los futbolistas de su primera plantilla durante la nueva temporada. El anuncio ha permitido conocer los números asignados a las incorporaciones del mercado de verano y ha dejado algunos cambios significativos entre los jugadores que ya formaban parte del equipo.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios](https://www.abc.es/espana/madrid/madrid-destinara-millon-euros-ayudas-agricultores-ganaderos-20260810155948-nt.html?utm_source=lootura.com) — 2026-08-10T15:44:23.000Z
+- [El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia](https://www.abc.es/economia/vivienda-suelos-bajos-eclipsan-20260810175341-nt.html?utm_source=lootura.com) — 2026-08-10T19:41:03.000Z
+- [Florentino Pérez refuerza su posición como principal accionista de ACS al elevar su participación hasta el 15%](https://cincodias.elpais.com/companias/2026-08-10/florentino-perez-refuerza-su-posicion-como-principal-accionista-de-acs-al-elevar-su-participacion-hasta-el-15.html?utm_source=lootura.com) — 2026-08-10T17:47:28.000Z
 - [¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?](https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html?utm_source=lootura.com) — 2026-08-10T09:11:15.000Z
-- [España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse](https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [Así ha sido el golazo de chilena de Kylian Mbappé en su primer entrenamiento con Jose Mourinho](https://www.larazon.es/deportes/futbol/asi-sido-golazo-chilena-kylian-mbappe-primer-entrenamiento-jose-mourinho_202608106a79f624a5690f0473729071.html?utm_source=lootura.com) — 2026-08-10T16:03:33.000Z
+- [La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso](https://www.eldiario.es/politica/fiscalia-remite-cuatro-denuncias-atico-compro-gobierno-ayuso-juzgado-investiga-caso_1_13438853.html?utm_source=lootura.com) — 2026-08-10T15:12:54.000Z
+- [Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso](https://theobjective.com/espana/tribunales/2026-08-10/juzgado-denuncias-atico-gobierno-ayuso/?utm_source=lootura.com) — 2026-08-10T18:23:02.000Z

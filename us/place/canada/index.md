@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Thousands evacuated as wildfires burn across western U.S. and Canada
+
+Wildfires are burning across the western U.S. and Canada, leaving some residents keeping a wary eye out for possible evacuation orders.
+
+Date: 2026-08-10
 
 ### Wildfires in western Canada force more than 20,000 people to evacuate
 
@@ -62,13 +68,7 @@ Carney said Canada remained engaged in the negotiations despite Trump's comments
 
 Date: 2026-08-07
 
-### After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks
-
-Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
-
-Date: 2026-08-06
-
 ## Sources
 
-- [Wildfires in western Canada force more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-10T03:36:59.000Z
 - [Crews battle wildfires in western U.S. and Canada](https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com) — 2026-08-09T22:03:09.000Z
+- [Thousands evacuated as wildfires burn across western U.S. and Canada](https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada?utm_source=lootura.com) — 2026-08-10T17:51:12.000Z

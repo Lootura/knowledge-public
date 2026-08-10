@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "AI",
     "AI science",
@@ -80,29 +80,17 @@
   ],
   "sources": [
     {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "sourceId": "lootura-us-google-ai"
+      "title": "How and when to use artificial intelligence in your science job application",
+      "url": "https://www.nature.com/articles/d41586-026-02435-2?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:39:48.515Z",
+      "sourceId": "lootura-us-nature"
     },
     {
       "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
       "url": "https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:52:37.957Z",
+      "publishedAt": "2026-08-10T20:39:48.515Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
-      "sourceId": "lootura-us-openai"
-    },
-    {
-      "title": "What happens to Bose when headphones become AI?",
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

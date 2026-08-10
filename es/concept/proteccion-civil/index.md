@@ -3,20 +3,20 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
 
-### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
-
-Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
-
-Date: 2026-08-10
-
 ### Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)
 
 Un hombre de 8 3 años de edad y de nacionalidad francesa ha muerto ahogado este lunes en la Platja Nova de Roses (Girona) , lo que eleva a 18 las personas que han perecido en las playas catalanas desde el inicio de la campaña de baño, el pasado 15 de junio. Según han informado fuentes de Protección Civil de la Generali.
+
+Date: 2026-08-10
+
+### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
+
+Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
 
 Date: 2026-08-10
 
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»](https://www.abc.es/espana/madrid/eclipse-seguro-1700-policias-vigilaran-evento-atomizado-20260810132258-nt.html?utm_source=lootura.com) — 2026-08-10T15:54:00.000Z
 - [Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)](https://www.elconfidencial.com/espana/cataluna/2026-08-10/muere-ahogado-playa-roses-girona-1tna_4404023/?utm_source=lootura.com) — 2026-08-10T14:54:00.000Z

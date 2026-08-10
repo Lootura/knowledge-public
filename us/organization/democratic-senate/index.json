@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
+      "summary": "Montana’s Democratic Senate nominee on Monday refused to drop her campaign to clear the way for an independent candidate, setting up a crowded race that is likely to help Republicans win in November. Alani Bankhead made certain with hours to go before Monday’s deadline that she would not step aside to give independent.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Progressives didn’t get the big election night they wanted",
       "summary": "Progressives didn’t get the earthquake they expected. Moderates are relishing in their stronger than expected showing. In the early hours of Wednesday morning, with Michigan’s marquee Democratic Senate primary still in limbo, one of Democrats’ key questions of the midterms remains unresolved: Can the party’s most progr.",
@@ -43,7 +48,13 @@
       "url": "https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign?utm_source=lootura.com",
       "publishedAt": "2026-08-10T08:40:27.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
+      "url": "https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:12:38.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

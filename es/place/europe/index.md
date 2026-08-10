@@ -40,4 +40,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán](https://www.expansion.com/economia/financial-times/2026/08/10/6a79d2f3e5fdea98298b4577.html?utm_source=lootura.com) — 2026-08-10T13:34:54.000Z
+No public source links.

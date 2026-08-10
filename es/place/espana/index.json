@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -16,6 +16,46 @@
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial",
+      "summary": "ESET España y Espai Aero CV han firmado un acuerdo de colaboración para reforzar la ciberseguridad de las empresas que forman parte del ecosistema aeroespacial de la Comunidad Valenciana . La alianza contempla el desarrollo de iniciativas de formación, divulgación técnica y asesoramiento especializado con el objetivo d.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»",
+      "summary": "En 2013, Verónica Boquete, tras años con un balón en el pie, batalló para que el juego FIFA incluyese mujeres. Para el 'FIFA 16', lo consiguió. La futbolista, que se ha ganado a pulso la etiqueta de pionera, fue la primera española en alzar una Champions . La primera nominada al Balón de Oro. Y, también, la capitana de.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Consulado de España en Colombia, en contacto para atender a posibles españoles afectados por el terremoto",
+      "summary": "El Consulado de España en Colombia está haciendo seguimiento d el terremoto que ha sacudido el país este lunes y en contacto con los consulados honorarios de la zona para conocer si hay algún español afectado por el temblor de magnitud 7,4 en la escala de Ritcher que ha dejado al menos 82 muertos, según las autoridades.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo",
+      "summary": "La provincia de Toledo se prepara para vivir un acontecimiento histórico este próximo miércoles, 12 de agosto. Por primera vez en 126 años, la comarca manchega se situará como uno de los escenarios idóneos en España para contemplar el eclipse total de sol. Con motivo de este fenómeno, que prevé reunir a varios miles de.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "La AEMET avisa: llega el diluvio del verano con 48 horas de tormentas y granizo en España",
+      "summary": "España afronta un cambio brusco en las condiciones meteorológicas en varias zonas del país. La Agencia Estatal de Meteorología (AEMET) prevé para las próximas horas un episodio marcado por chubascos y tormentas que pueden alcanzar intensidad fuerte y, de manera local, ser muy fuertes o torrenciales. El riesgo se concen.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia",
+      "summary": "Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Los accidentes en atracciones de feria superan el centenar de heridos en diez años",
+      "summary": "Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.",
+      "date": "2026-08-10"
+    },
     {
       "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
       "summary": "Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.",
@@ -25,72 +65,26 @@
       "title": "Marruecos exige ahora a España la repatriación desde la ciudad de todos sus menores no acompañados",
       "summary": "El ministro marroquí de Justicia, Abdellatif Ouahbi, reclamó este lunes a España el retorno a Marruecos de los menores marroquíes no acompañados que permanecen en su territorio , tras la inédita avalancha migratoria registrada recientemente en la fronteriza ciudad autónoma española de Ceuta , en el norte de África . En.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "¿Dónde ha sido el terremoto de Colombia? Así es el Anillo de Fuego, una de las zonas más sísmicas del planeta",
-      "summary": "Un terremoto de magnitud 7,4 ha sacudido este lunes Colombia y ha dejado al menos una veintena de muertos y varios heridos , así como daños materiales. El seísmo tuvo lugar a las 07.34 hora local (14.34 horas en España) y tuvo su epicentro en la localidad de San José del Palmar, en el departamento del Chocó, situado en.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Máxima alarma en Colombia tras el potente seísmo, que provoca graves daños en varias ciudades y deja a ciudadanos \"atrapados\"",
-      "summary": "Un terremoto de magnitud 7,4 ha sacudido este lunes gran parte del territorio de Colombia. El seísmo se ha sentido a las 07.34 hora local (14:34 hora española) y tuvo como epicentro la localidad de San José del Palmar , en el departamento del Chocó, situado en la costa del Pacífico , a una profundidad de 82 kilómetros.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»",
-      "summary": "El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
-      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Bismarck sobre España: \"Es el país más fuerte del mundo, lleva siglos queriendo destruirse a sí misma y todavía no lo ha conseguido\"",
-      "summary": "La reflexión de Bismarck resalta la capacidad de resistencia de España, un país capaz de sobrevivir a sus históricos conflictos internos.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial",
-      "summary": "ESET España y Espai Aero CV han firmado un acuerdo de colaboración para reforzar la ciberseguridad de las empresas que forman parte del ecosistema aeroespacial de la Comunidad Valenciana . La alianza contempla el desarrollo de iniciativas de formación, divulgación técnica y asesoramiento especializado con el objetivo d.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Los trabajadores autónomos destinan 226 horas al año a trámites burocráticos, según ATA",
-      "summary": "Los trabajadores autónomos en España destinan una media de 226 horas al año en trámites burocráticos , lo que representa un coste de 3.390 euros anuales por autónomo, según la Federación Nacional de Asociaciones de Trabajadores Autónomos (ATA). Su presidente, Lorenzo Amor , ha indicado en un comunicado remitido a los m.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El precio medio del alquiler subió un 9,45% interanual en julio",
-      "summary": "El precio medio de la vivienda en alquiler en España se situó en julio en 14,82 euros por metro cuadrado, lo que supone un incremento del 0,07% respecto al mes anterior y del 9,45% en comparación con julio de 2025, según el informe mensual de precios de alquiler de pisos.com. El director de Estudios de pisos.com, Ferra.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Marruecos exige ahora a España la repatriación desde la ciudad de todos sus menores no acompañados",
-      "url": "https://www.20minutos.es/ceuta/marruecos-exige-ahora-espana-repatriacion-sus-menores-no-acompanados_7024392_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:52:40.000Z",
+      "title": "El Consulado de España en Colombia, en contacto para atender a posibles españoles afectados por el terremoto",
+      "url": "https://www.20minutos.es/internacional/consulado-espana-colombia-contacto-para-atender-posibles-espanoles-afectados-por-terremoto_7024435_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T17:44:31.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "¿Dónde ha sido el terremoto de Colombia? Así es el Anillo de Fuego, una de las zonas más sísmicas del planeta",
-      "url": "https://www.20minutos.es/internacional/donde-terremoto-colombia-anillo-fuego-zonas-mas-sismicas-planeta_7024376_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:11:02.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Máxima alarma en Colombia tras el potente seísmo, que provoca graves daños en varias ciudades y deja a ciudadanos \"atrapados\"",
-      "url": "https://www.20minutos.es/internacional/terremoto-colombia-directo-menos-seis-aeropuertos-colombianos-sufren-danos-por-seismo_7024356_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:36:08.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»",
-      "url": "https://www.abc.es/espana/psoe-ceuta-descarta-nuevo-asalto-habla-solo-20260810095442-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:01:33.000Z",
+      "title": "Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»",
+      "url": "https://www.abc.es/deportes/futbol/vero-boquete-futbolista-susurra-goles-espana-mundo-20260809011555-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:43:33.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo",
+      "url": "https://www.elindependiente.com/tendencias/2026/08/10/la-mancha-auna-gastronomia-y-astronomia-ante-el-eclipse-total-de-sol-con-una-comida-popular-de-sabor-toledo/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T15:31:31.000Z",
+      "sourceId": "lootura-es-el-independiente"
     },
     {
       "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
@@ -99,21 +93,27 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Bismarck sobre España: \"Es el país más fuerte del mundo, lleva siglos queriendo destruirse a sí misma y todavía no lo ha conseguido\"",
-      "url": "https://okdiario.com/curiosidades/bismarck-sobre-espana-pais-mas-fuerte-del-mundo-lleva-siglos-queriendo-destruirse-si-misma-todavia-no-lo-conseguido-19155103/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:30:34.000Z",
+      "title": "La AEMET avisa: llega el diluvio del verano con 48 horas de tormentas y granizo en España",
+      "url": "https://okdiario.com/espana/aemet-avisa-llega-diluvio-del-verano-48-horas-tormentas-granizo-espana-19155465?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:10:24.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial",
       "url": "https://theobjective.com/economia/2026-08-10/eset-espai-ciberseguridad-aeroespacial/?utm_source=lootura.com",
       "publishedAt": "2026-08-10T15:11:29.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia",
+      "url": "https://theobjective.com/espana/2026-08-10/sumario-tarde-mando-unico-ceuta-terremoto-colombia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T17:55:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Los accidentes en atracciones de feria superan el centenar de heridos en diez años",
+      "url": "https://theobjective.com/sociedad/2026-08-10/accidentes-atracciones-feria-centenar-heridos-diez-anos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T19:19:56.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

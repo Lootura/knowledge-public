@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T20:39:22.356Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
+      "summary": "El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. \"¡Felicidade.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»",
       "summary": "Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el deporte de élite, pocas cosas transforman tanto a un campeón como descubrir que ya no basta con aquello que le llevó hasta la cima. Ilia Topuria perdió el invicto frente a Justin Gaethje en la Casa Blanca, pero, si algo tiene claro su entorno,.",
@@ -64,13 +69,15 @@
       "title": "Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia",
       "summary": "El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, celebrada este viernes en el Waldorf Astoria, para insultar a cómicos y a representantes demócratas como Alexandria Ocasio-Cortez, Elizabeth Warren, Gavin Newsom y J.B. Pritzker: \"Este lugar alberga al grupo más grande de personas con el 'sínd.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
-      "summary": "El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
+      "url": "https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:08:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

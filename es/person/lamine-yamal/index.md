@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Adidas alcanza ventas y beneficios récord en España en pleno auge de la selección y de Lamine Yamal](https://cincodias.elpais.com/companias/2026-08-10/adidas-alcanza-ventas-y-beneficios-record-en-espana-en-pleno-auge-de-la-seleccion-y-de-lamine-yamal.html?utm_source=lootura.com) — 2026-08-10T12:18:36.000Z
+No public source links.

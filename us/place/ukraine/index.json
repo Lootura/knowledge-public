@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -20,6 +20,16 @@
     {
       "title": "Ukrainian drone strikes deep inside Russia kill at least 13, authorities say",
       "summary": "The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Why Russia and Ukraine can't stop each other's air attacks",
+      "summary": "Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.",
       "date": "2026-08-10"
     },
     {
@@ -56,16 +66,6 @@
       "title": "Child among 4 people killed in Russian attacks on Ukraine",
       "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-      "summary": "Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine. (Image credit: Roman Pilipey).",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
-      "summary": "Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -76,16 +76,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Drought and the war in Ukraine changed what families in Kenya could afford to eat",
-      "url": "https://phys.org/news/2026-08-drought-war-ukraine-families-kenya.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Why Russia and Ukraine can't stop each other's air attacks",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:14:08.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:17:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukraine's drone chief says push to cripple Russia in Crimea is just getting started",
+      "url": "https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:15:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 3

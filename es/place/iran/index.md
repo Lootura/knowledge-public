@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Irán y Omán redibujan el mapa de Ormuz sin Washington
+
+Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para "todas las personas que Irán ha matado a lo largo de los últimos 50 años" Leer.
+
+Date: 2026-08-10
 
 ### Un Gobierno en emergencia permanente
 
@@ -17,12 +23,6 @@ Date: 2026-08-10
 ### Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox
 
 Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.
-
-Date: 2026-08-10
-
-### Irán y Omán redibujan el mapa de Ormuz sin Washington
-
-Este acercamiento entre Teherán y Mascate surge de años de cooperación entre ambos Gobiernos Leer.
 
 Date: 2026-08-10
 
@@ -70,7 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox](https://www.abc.es/espana/consejeros-infancia-pp-acudiran-reunion-gobierno-diferencia-20260810135200-nt.html?utm_source=lootura.com) — 2026-08-10T15:52:33.000Z
 - [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
-- [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán](https://www.expansion.com/economia/financial-times/2026/08/10/6a79d2f3e5fdea98298b4577.html?utm_source=lootura.com) — 2026-08-10T13:34:54.000Z

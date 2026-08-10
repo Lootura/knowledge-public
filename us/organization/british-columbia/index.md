@@ -3,7 +3,7 @@
 > Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/organization/british-columbia
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-08
 
 ## Sources
 
-No public source links.
+- [Illegal fishing captures up to 15% of global marine wild catch, analysis finds](https://phys.org/news/2026-08-illegal-fishing-captures-global-marine.html?utm_source=lootura.com) — 2026-08-10T19:00:01.000Z

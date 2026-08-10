@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Record July heat in regions home to 900 million people
+
+Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central America, France and Spain, according to AFP analysis of Copernicus data.
+
+Date: 2026-08-10
 
 ### How Spain’s migration surge tested E.U. border policy
 
@@ -62,12 +68,6 @@ Four days after tens of thousands of migrants crossed from Morocco into the smal
 
 Date: 2026-08-03
 
-### Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People
-
-Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [How Spain’s migration surge tested E.U. border policy](https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
+- [Record July heat in regions home to 900 million people](https://phys.org/news/2026-08-july-regions-home-million-people.html?utm_source=lootura.com) — 2026-08-10T20:00:10.000Z

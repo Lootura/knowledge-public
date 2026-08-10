@@ -40,5 +40,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona](https://okdiario.com/espana/hombre-increpa-gritos-elias-bendodo-acto-del-pp-barcelona-19156539?utm_source=lootura.com) — 2026-08-10T16:09:53.000Z
-- [El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox](https://theobjective.com/espana/politica/2026-08-10/pp-reunion-menores-ceuta-plante-vox/?utm_source=lootura.com) — 2026-08-10T11:54:03.000Z
+No public source links.

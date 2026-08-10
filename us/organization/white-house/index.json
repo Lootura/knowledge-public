@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T16:52:33.625Z",
+  "updatedAt": "2026-08-10T20:39:44.432Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,16 @@
     {
       "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
       "summary": "Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Trump signs executive order on childhood vaccine recommendations",
+      "summary": "The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "White House officials tamped down efforts to oust Max Miller in final days",
+      "summary": "Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.",
       "date": "2026-08-10"
     },
     {
@@ -57,19 +67,15 @@
       "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
       "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "A White House effort to delay a ban on intoxicating hemp was holding up a final agreement on a bipartisan spending bill ahead of a monthlong Senate recess.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "WATCH: Trump signs executive order on childhood vaccine recommendations",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:10:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
       "url": "https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com",
@@ -77,11 +83,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen",
-      "url": "https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:10:31.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "White House officials tamped down efforts to oust Max Miller in final days",
+      "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:05:33.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

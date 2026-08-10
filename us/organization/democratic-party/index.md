@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-10T20:39:44.432Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,15 +20,21 @@ The Pentagon declined to comment, stating it would "reply directly to the author
 
 Date: 2026-08-10
 
-### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
-
-Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.
-
-Date: 2026-08-10
-
 ### The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms
 
 Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
+
+Date: 2026-08-10
+
+### Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’
+
+Internal divisions between progressive and moderate Democrats grow ahead of tomorrow’s closely watched primary for Minnesota’s Senate seat. Minnesota Lt. Gov. Peggy Flanagan (D) joins Meet the Press NOW to discuss her bid for U.S. Senate.
+
+Date: 2026-08-10
+
+### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
+
+Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.
 
 Date: 2026-08-10
 
@@ -62,15 +68,9 @@ KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived i
 
 Date: 2026-08-09
 
-### Top Democrats simulate election threats as Trump continues assault on voting
-
-Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.
-
-Date: 2026-08-09
-
 ## Sources
 
+- [Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’](https://www.nbcnews.com/meet-the-press/video/democratic-minnesota-senate-candidate-says-her-campaign-is-about-the-many-versus-the-money-268062789653?utm_source=lootura.com) — 2026-08-10T20:26:23.000Z
 - [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
 - [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
-- [Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’](https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race?utm_source=lootura.com) — 2026-08-10T13:00:44.000Z
 - [The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:42.000Z

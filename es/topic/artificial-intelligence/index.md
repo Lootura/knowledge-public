@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Intel ampliará capital en 13.000 millones para afrontar la demanda por la IA](https://cincodias.elpais.com/companias/2026-08-10/intel-ampliara-capital-en-13000-millones-para-afrontar-la-demanda-por-la-ia.html?utm_source=lootura.com) — 2026-08-10T14:24:04.000Z
+- [OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa](https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/?utm_source=lootura.com) — 2026-08-10T15:25:29.000Z

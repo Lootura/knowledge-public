@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-10T20:39:22.356Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela
+
+La escala de Richter de un terremoto no determina de manera exacta el daño, ya que depende de otros factores como la profundidad. Es por ello que el registrado este lunes en Colombia de magnitud 7,4 es totalmente distinto al «doblete sísmico» registrado en Venezuela hace apenas mes y medio, a pesar de tener una intensi.
+
+Date: 2026-08-10
 
 ### Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia
 
@@ -62,12 +68,6 @@ El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Di
 
 Date: 2026-08-02
 
-### Venezuela impulsa un diálogo político con parte de la oposición tras los terremotos
-
-EEUU celebra el anuncio y reitera su compromiso con los esfuerzos orientados a consolidar «un futuro más estable».
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia](https://www.20minutos.es/internacional/edificios-colapsados-panico-las-calles-los-videos-mas-impactantes-potente-terremoto-que-ha-azotado-colombia_7024348_0.html?utm_source=lootura.com) — 2026-08-10T15:06:23.000Z
+- [Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela](https://okdiario.com/internacional/mucha-gente-hace-misma-pregunta-terremoto-colombia-que-danos-han-sido-tan-distintos-venezuela-19158139?utm_source=lootura.com) — 2026-08-10T19:23:17.000Z
