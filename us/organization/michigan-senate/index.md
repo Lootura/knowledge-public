@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Centrist Democrats dismiss Abdul El-Sayed as a freak radical. Do they want to win in 2028 or not? | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani?utm_source=lootura.com) — 2026-08-10T05:00:35.000Z

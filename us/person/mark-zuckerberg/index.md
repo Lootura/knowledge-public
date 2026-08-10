@@ -22,4 +22,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat](https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska?utm_source=lootura.com) — 2026-08-09T19:06:23.000Z
+No public source links.

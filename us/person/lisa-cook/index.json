@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.json",
   "description": "Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "Dr. Cook",
     "Dr. Lisa Cook",
@@ -49,6 +49,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump takes his second swing at Fed’s Cook",
+      "url": "https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:58:48.000Z",
+      "sourceId": "lootura-us-semafor"
+    }
+  ],
   "evidenceCount": 0
 }

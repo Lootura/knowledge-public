@@ -3,7 +3,7 @@
 > Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/person/lisa-cook
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Trump takes his second swing at Fed’s Cook](https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com) — 2026-08-10T08:58:48.000Z

@@ -34,5 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Alexandria Ocasio-Cortez says she hasn’t ruled out a potential run for president or Senate in 2028](https://www.nbcnews.com/politics/2028-election/alexandria-ocasio-cortez-potential-run-president-senate-rcna591590?utm_source=lootura.com) — 2026-08-09T18:48:52.000Z
-- [Alexandria Ocasio-Cortez announces decision to freeze her eggs](https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility?utm_source=lootura.com) — 2026-08-09T22:06:49.000Z
+No public source links.

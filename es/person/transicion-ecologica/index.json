@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.json",
   "description": "Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Demográfico",
     "Ecológica",
@@ -54,11 +54,11 @@
   ],
   "sources": [
     {
-      "title": "Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",
-      "url": "https://okdiario.com/andalucia/precio-gasolina-hoy-10-agosto-localiza-gasolineras-mas-baratas-sevilla-cadiz-otras-ciudades-andalucia-19121028?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T05:00:10.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Castilla y León activa la alerta por riesgo extremo de incendios del 11 al 13 de agosto",
+      "url": "https://theobjective.com/sociedad/2026-08-10/castilla-leon-alerta-extremo-incendios-11-13-agosto/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:07:50.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

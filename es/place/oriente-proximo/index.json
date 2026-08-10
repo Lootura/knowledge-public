@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Las Bolsas dan un paso atrás con el petróleo al alza",
+      "summary": "Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos",
       "summary": "Del miedo a la euforia en apenas unos días. Agosto suele ser sinónimo de apatía bursátil, pero este año los mercados están empeñados en desafiar esa tradición. El sentimiento de los inversores ha dado un vuelco en las últimas jornadas. Si la escalada de las tensiones en Oriente Próximo reavivó los temores a una crisis.",
@@ -60,13 +65,15 @@
       "title": "Donald Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
       "summary": "Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán después de que los aliados del Golfo le pidieran a Estados Unidos que se abstuviera, ya que se...",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Trump anuncia la suspensión de un ataque contra Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las Bolsas dan un paso atrás con el petróleo al alza",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T07:11:24.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

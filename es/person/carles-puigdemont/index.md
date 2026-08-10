@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T06:25:29.823Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura
+
+Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.
+
+Date: 2026-08-10
 
 ### El sector crítico de Junts queda desarbolado tras la marcha de Giró
 
@@ -62,12 +68,6 @@ El Tribunal Supremo ha rechazado el recurso interpuesto por el expresidente cata
 
 Date: 2026-07-21
 
-### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
-
-El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura](https://www.larazon.es/cataluna/crisis-abiertas-principales-retos-que-espera-govern-illa-dos-anos-que-quedan-legislatura_202608106a7995fba046ad6ebca935af.html?utm_source=lootura.com) — 2026-08-10T09:12:36.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/organization/la-guardia-civil
 
 ## Cambios recientes
+
+### Desmantelada en Algeciras una red que blanqueó 8,6 millones procedentes del narcotráfico
+
+La Guardia Civil ha desarticulado en Algeciras una presunta red vinculada a los hermanos José Carlos y Antonio Jesús Sánchez Castro, conocidos en el Campo de Gibraltar por su actividad en el narcotráfico . Según la investigación, el grupo habría blanqueado 8,6 millones de euros y sufragado fianzas judiciales que supera.
+
+Date: 2026-08-10
 
 ### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
 
@@ -62,13 +68,7 @@ La Guardia Civil de Zaragoza ha informado del hallazgo de dos cadáveres con sig
 
 Date: 2026-08-09
 
-### La Guardia Civil despliega 24.000 agentes para blindar el eclipse solar
-
-La Guardia Civil desplegará un amplio operativo de seguridad movilizando a más de 24.000 agentes el próximo 12 de agosto con motivo del eclipse solar total. Este dispositivo sin precedentes, que abarcará medios terrestres, marítimos y aéreos, busca garantizar la seguridad ciudadana ante una previsión de movilidad que p.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [Desmantelada en Algeciras una red que blanqueó 8,6 millones procedentes del narcotráfico](https://www.elconfidencial.com/espana/andalucia/2026-08-10/guardia-civil-narcotrafico-algeciras-blanqueo-1tps_4403663/?utm_source=lootura.com) — 2026-08-10T08:13:00.000Z
 - [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z
-- [La Guardia Civil se incauta de más de 800 kilos de cocaína en Punta Umbría](https://theobjective.com/sociedad/suceso/2026-08-09/guardia-civil-cocaina-punta-umbria-huelva/?amp=&utm_source=lootura.com) — 2026-08-09T21:10:36.000Z

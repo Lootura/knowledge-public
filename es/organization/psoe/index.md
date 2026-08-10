@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos](https://www.larazon.es/espana/izquierda-hunde-psoe-sumar-podemos-llegan-35-votos_202608106a789283a046ad6ebca7bf9c.html?utm_source=lootura.com) — 2026-08-10T00:00:21.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
@@ -31,6 +31,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Meloni y Frederiksen insisten en rechazar \"la inmigración descontrolada\" y piden centros en terceros países",
+      "url": "https://www.20minutos.es/internacional/italia-dinamarca-insisten-rechazar-inmigracion-descontrolada-piden-centros-repatriacion-terceros-paises_7024101_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T07:15:14.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

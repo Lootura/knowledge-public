@@ -3,7 +3,7 @@
 > Follow New York Harbor, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/organization/new-york-harbor
 
 ## Recent changes
@@ -68,4 +68,3 @@ Date: 2026-08-09
 - [Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T03:53:44.000Z
 - [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com) — 2026-08-09T22:00:00.000Z
 - [Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby](https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com) — 2026-08-09T14:04:26.000Z
-- [Woman and Baby Die After Boat Capsized in New York Harbor](https://www.today.com/video/woman-and-five-month-old-killed-in-nyc-boating-accident-268003397711?utm_source=lootura.com) — 2026-08-09T12:43:15.000Z

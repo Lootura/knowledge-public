@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada](https://www.elmundo.es/internacional/2026/08/09/6a76063be4d4d8a2038b45a5.html?utm_source=lootura.com) — 2026-08-09T18:07:16.000Z
+No public source links.

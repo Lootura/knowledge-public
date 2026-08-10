@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
   "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Amancio",
     "Amancio Ortega Gaona",
@@ -16,6 +16,11 @@
     "Ortega"
   ],
   "changes": [
+    {
+      "title": "Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»",
+      "summary": "Nadie mejor que Amancio Ortega puede demostrar que con esfuerzo y trabajo se puede llegar desde lo más bajo hasta la cima. El magnate español pasó de trabajar en una camisería en La Coruña , la ciudad donde se crio, a abrir su propia tienda de ropa, lo que significó la primera piedra del imperio textil que ha ido const.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»",
       "summary": "Amancio Ortega siempre ha sido una persona muy familiar . El empresario decidió construir su mayor proyecto, Inditex , confiando en aquellas personas que conforman su círculo más íntimo. Es por eso que su hija Sandra, la mayor, siempre ha tenido cierta influencia dentro del gigante textil, al igual que Marta Ortega, qu.",
@@ -57,6 +62,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»",
+      "url": "https://www.abc.es/gente/amancio-ortega-anos-sobre-infancia-padre-ganaba-20260810104022-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:40:23.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

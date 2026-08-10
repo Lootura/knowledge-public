@@ -3,10 +3,28 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI
+
+La conselleira de Economía e Industria de Galicia, María Jesús Lorenzana, lo ha calificado como “el mayor proyecto internacional que llegó a Galicia en las últimas décadas”. Se trata de l a construcción en Ferrol (A Coruña) de la primera planta en Europa del mayor fabricante de vehículos eléctricos de China, SAIC Motor.
+
+Date: 2026-08-10
+
+### La fábrica de la china SAIC en Galicia enciende las alarmas en el Ministerio de Defensa
+
+El proyecto industrial de la automovilística china SAIC Motor en Galicia, que planea levantar una fábrica de coches en el puerto de Ferrol, ha encendido las alarmas en el...
+
+Date: 2026-08-10
+
+### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
+
+La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
+
+Date: 2026-08-10
 
 ### La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI
 
@@ -50,25 +68,9 @@ La bandera con un dragón devorando el Sol, también conocida como bandera del D
 
 Date: 2026-08-05
 
-### HUAWEI acaba de lanzar el portátil de 14 pulgadas más ligero del mundo
-
-Huawei ha presentado un MateBook Pro S de 798 gramos y 11,9 milímetros de grosor, unas cifras con las que asegura haber creado el PC más ligero del mundo. El nuevo portátil tiene una pantalla de 14,2 pulgadas, estrena el procesador Kirin XE90 y comenzará a venderse en China a partir del 14 de agosto. Según recoge Huawe.
-
-Date: 2026-08-05
-
-### El poder de la Guardia Mora
-
-En 1978, a nuestro regreso de un viaje a China acompañando al rey Juan Carlos , el entonces ministro de Asuntos Exteriores, Marcelino Oreja, me comentó que se estaba trabajando en un proyecto respecto al futuro de Melilla. Me explicó al respecto que existía la posibilidad de llegar a un acuerdo con Marruecos para organ.
-
-Date: 2026-08-05
-
-### China reescribe 3.000 millones de años de historia de bombardeos lunares
-
-Las primeras rocas recogidas en la cara oculta de la Luna están obligando a revisar una parte importante de la historia del sistema solar. Un equipo internacional ha estudiado pequeñas muestras traídas por la misión china Chang’e-6 y reconstruido impactos ocurridos durante un periodo de más de 3.000 millones de años .
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z
 - [La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI](https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z
+- [La fábrica de la china SAIC en Galicia enciende las alarmas en el Ministerio de Defensa](https://amp.expansion.com/empresas/motor/2026/08/10/6a796e5b468aeb96048b459a.html?utm_source=lootura.com) — 2026-08-10T06:24:08.000Z
+- [Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China](https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com) — 2026-08-10T09:12:18.000Z

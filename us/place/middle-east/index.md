@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [How Iran's 'Axis of Resistance' has shaped the war](https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war?utm_source=lootura.com) — 2026-08-09T21:27:11.000Z
 - [Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news](https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com) — 2026-08-09T17:55:18.000Z

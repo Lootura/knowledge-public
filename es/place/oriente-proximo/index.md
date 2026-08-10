@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Las Bolsas dan un paso atrás con el petróleo al alza
+
+Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
+
+Date: 2026-08-10
 
 ### Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos
 
@@ -62,12 +68,6 @@ Donald Trump declaró que había decidido suspender un nuevo ataque contra Irán
 
 Date: 2026-08-02
 
-### Trump anuncia la suspensión de un ataque contra Irán
-
-El presidente de Estados Unidos, Donald Trump , ha afirmado este sábado que ha accedido a dejar en suspenso un eventual ataque contra Irán después de que, según ha asegurado, Teherán y otros países de Oriente Próximo solicitasen el fin de cualquier acción armada tras haberse alcanzado un entendimiento sobre las bases p.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Las Bolsas dan un paso atrás con el petróleo al alza](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T07:11:24.000Z

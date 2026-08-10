@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York](https://cincodias.elpais.com/companias/2026-08-10/grifols-acusa-a-gotham-de-obstaculizar-la-obtencion-de-pruebas-para-preparar-el-juicio-en-nueva-york.html?utm_source=lootura.com) — 2026-08-10T03:15:00.000Z
 - [Rahm conquista su tercer anillo del LIV](https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com) — 2026-08-09T19:58:49.000Z

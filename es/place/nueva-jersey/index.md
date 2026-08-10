@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
+
+El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.
+
+Date: 2026-08-10
 
 ### Muere durante una relación sexual con su esposa y su caso acaba impulsando una nueva ley en EEUU
 
@@ -64,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump](https://www.larazon.es/internacional/interceptan-dos-aviones-que-violaron-espacio-aereo-club-golf-donde-estaba-trump_202608106a79933e71b42a0b5de73f91.html?utm_source=lootura.com) — 2026-08-10T09:00:46.000Z

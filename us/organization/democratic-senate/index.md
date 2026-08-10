@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-07T08:56:56.836Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [Faith is a centerpiece of Texas Senate candidate James Talarico's campaign](https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign?utm_source=lootura.com) — 2026-08-10T08:40:27.000Z

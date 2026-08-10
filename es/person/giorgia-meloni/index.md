@@ -3,7 +3,7 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Meloni y Frederiksen insisten en rechazar "la inmigración descontrolada" y piden centros en terceros países](https://www.20minutos.es/internacional/italia-dinamarca-insisten-rechazar-inmigracion-descontrolada-piden-centros-repatriacion-terceros-paises_7024101_0.html?utm_source=lootura.com) — 2026-08-10T07:15:14.000Z

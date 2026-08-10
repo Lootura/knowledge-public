@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Sánchez y su banda mora](https://theobjective.com/elsubjetivo/opinion/2026-08-10/sanchez-banda-mora-articulo-roman-cendoya/?utm_source=lootura.com) — 2026-08-10T03:25:00.000Z
+No public source links.

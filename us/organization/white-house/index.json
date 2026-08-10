@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -70,6 +70,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Trump takes his second swing at Fed’s Cook",
+      "url": "https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:58:48.000Z",
+      "sourceId": "lootura-us-semafor"
+    },
     {
       "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
       "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",

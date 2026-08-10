@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
@@ -65,6 +65,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Sorpresa en el Apple Watch Series 12: Apple revivirá un modelo icónico que los fans adoraban",
+      "url": "https://hipertextual.com/apple/sorpresa-en-el-apple-watch-series-12-apple-revivira-un-modelo-iconico-que-los-fans-adoraban/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T07:27:53.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026",
+      "summary": "La presidenta de TMB, Laia Bonet, asegura que \"el metro es hoy un espacio más seguro que hace unos años\".",
+      "date": "2026-08-10"
+    },
     {
       "title": "Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”",
       "summary": "Esta mujer de 53 años será expulsada de su casa el 15 de septiembre sin que el Ayuntamiento de Barcelona le brinde ninguna alternativa viable debido a la saturación de los servicios municipales Los activistas por la vivienda ocupan el vestíbulo del Ayuntamiento de Barcelona por la falta de alojamientos de urgencia En u.",
@@ -65,19 +70,14 @@
       "title": "Flick confirma las salidas de Roony, Casadó y Araujo del Barcelona: \"No fue fácil para mí...\"",
       "summary": "Hansi Flick atendió a los medios de comunicación en sala de prensa tras la victoria ante el Nottingham y la derrota contra el Udinese.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro",
-      "summary": "El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”",
-      "url": "https://www.eldiario.es/catalunya/carmen-hijo-13-anos-borde-desahucio-alternativa-siento-abandonada-administracion_1_13432415.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T20:04:54.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026",
+      "url": "https://www.larazon.es/cataluna/delitos-metro-barcelona-caen-34-primer-semestre-2026_202608106a79967e71b42a0b5de74610.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:14:38.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

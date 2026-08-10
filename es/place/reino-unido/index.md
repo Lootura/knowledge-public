@@ -3,10 +3,28 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores
+
+Agentes de la Policía Nacional han detenido en Maspalomas (Gran Canaria) a un ciudadano británico sobre el que pesaba una Orden Internacional de Detención y Entrega (OIDE), emitida por las autoridades judiciales del Reino Unido, por su presunta implicación en ocho delitos de índole sexual cometidos contra menores en es.
+
+Date: 2026-08-10
+
+### Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido
+
+El partido de derecha británico Reform UK, que lidera Nigel Farage, ha iniciado contactos con El Salvador para deportar a presos extranjeros a ese país si gana las próximas elecciones generales en el Reino Unido , previstas para 2029, revela este lunes el tabloide The Sun . Según ha podido saber este rotativo, una dele.
+
+Date: 2026-08-10
+
+### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
+
+La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
+
+Date: 2026-08-10
 
 ### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
 
@@ -50,24 +68,8 @@ Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a 
 
 Date: 2026-08-05
 
-### Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento
-
-Una nueva directriz obligará a modificar desde este miércoles el uso de miles de espacios públicos segregados por género en Reino Unido, casi un año y medio después de un fallo histórico del Tribunal Supremo sobre la definición legal de sexo biológico. Con la entrada en vigor mañana de este "código de buenas prácticas".
-
-Date: 2026-08-04
-
-### Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología
-
-La brutal caída de las acciones de semiconductores durante el último mes ha revitalizado el atractivo de los mercados pasados de moda. El FTSE 100 de Reino Unido alcanzó un máximo histórico la semana pasada, gracias en parte a la escasa presencia de empresas tecnológicas en su índice. Pero no es el único: el índice de.
-
-Date: 2026-08-04
-
-### Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios
-
-La experiencia en obra hospitalaria acumulada por Sacyr y ACS les ha valido para entrar de lleno en la primera fase del programa de nuevos hospitales en Inglaterra (Reino Unido), haciéndose con el desarrollo de un centro cada una de ellas de los 11 proyectados. El plan en su totalidad contempla obras por 37.000 millone.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores](https://www.abc.es/espana/canarias/detenido-gran-canaria-fugitivo-britanico-ocho-delitos-20260810104748-nt.html?utm_source=lootura.com) — 2026-08-10T08:47:48.000Z
+- [Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido](https://theobjective.com/internacional/2026-08-10/farage-deportar-presos-extranjeros-el-salvador/?utm_source=lootura.com) — 2026-08-10T08:02:39.000Z
+- [Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China](https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com) — 2026-08-10T09:12:18.000Z

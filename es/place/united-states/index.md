@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Un Gobierno en emergencia permanente
 
 Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
+
+### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
+
+El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.
+
+Date: 2026-08-10
+
+### Cuando el miedo decide: creencias políticas y giro conservador en América Latina
+
+Keiko Fujimori votaba el pasado 7 de junio en la segunda vuelta de las elecciones que le darían la presidencia de Perú. mbzfotos/Shutterstock En las últimas citas electorales de América Latina se constata un giro conservador entre una parte del electorado . La victoria de José Antonio Kast en Chile y las ajustadas vict.
+
+Date: 2026-08-10
+
+### Un malagueño consigue el pase de oro en America’s Got Talent con su parkour
+
+Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.
 
 Date: 2026-08-10
 
@@ -50,25 +68,9 @@ La extrema izquierda estadounidense, agrupada en la organización Democratic Soc
 
 Date: 2026-08-09
 
-### Estados Unidos, un aliado más estratégico que nunca para Marruecos
-
-Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.
-
-Date: 2026-08-09
-
-### El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU
-
-El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.
-
-Date: 2026-08-08
-
-### Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”
-
-Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.
-
-Date: 2026-08-08
-
 ## Fuentes
 
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [Sobre la virtud del gobernante](https://theobjective.com/elsubjetivo/opinion/2026-08-10/salud-gobernante-articulo-antonio-cano/?utm_source=lootura.com) — 2026-08-10T03:25:00.000Z
+- [Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump](https://www.larazon.es/internacional/interceptan-dos-aviones-que-violaron-espacio-aereo-club-golf-donde-estaba-trump_202608106a79933e71b42a0b5de73f91.html?utm_source=lootura.com) — 2026-08-10T09:00:46.000Z
+- [Cuando el miedo decide: creencias políticas y giro conservador en América Latina](https://theconversation.com/cuando-el-miedo-decide-creencias-politicas-y-giro-conservador-en-america-latina-288584?utm_source=lootura.com) — 2026-08-10T06:11:28.000Z
+- [Un malagueño consigue el pase de oro en America’s Got Talent con su parkour](https://theobjective.com/sociedad/2026-08-10/malagueno-pase-oro-americas-got-talent-parkour/?utm_source=lootura.com) — 2026-08-10T07:57:18.000Z

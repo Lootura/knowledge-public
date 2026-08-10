@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [Medio millón de turistas astronómicos empiezan a llegar a las provincias donde se verá el eclipse total](https://www.20minutos.es/nacional/eclipse-solar-total-directo-espana-miercoles-12-agosto_7024119_6.html?utm_source=lootura.com) — 2026-08-10T07:46:21.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Nuevo México en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T12:56:57.543Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/nuevo-mexico
 
 ## Cambios recientes
 
-### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
+### La Ruta 66 cumple 100 años: ¿qué estamos celebrando realmente?
 
-Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.
+Un tramo de la Ruta 66 en Albuquerque, Nuevo México, fotografiado el 7 de junio de 2026. Los pueblos y ciudades situados a lo largo de la carretera se están preparando para celebrar el centenario de esta emblemática vía. Heather Diehl/Getty Images Hace casi un siglo, el 11 de noviembre de 1926, la Asociación Americana.
 
-Date: 2026-08-07
+Date: 2026-08-10
 
 ### Discovered by Atlas
 
 Nuevo México first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-07
+
+### Meta, condenada a pagar 567 millones por perjudicar la salud mental de los jóvenes
+
+Un juzgado del distrito de Santa Fe en Nuevo México (Estados Unidos) ha condenado al gigante tecnológico Meta a pagar 567 millones de dólares a un fondo de reparación para la salud mental de los jóvenes que debe crear por considerar que su forma de operar perjudica la salud y seguridad de los adolescentes. « Las plataf.
 
 Date: 2026-08-07
 
@@ -28,4 +34,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [La Ruta 66 cumple 100 años: ¿qué estamos celebrando realmente?](https://theconversation.com/la-ruta-66-cumple-100-anos-que-estamos-celebrando-realmente-288113?utm_source=lootura.com) — 2026-08-10T06:13:52.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía](https://okdiario.com/andalucia/precio-gasolina-hoy-10-agosto-localiza-gasolineras-mas-baratas-sevilla-cadiz-otras-ciudades-andalucia-19121028?utm_source=lootura.com) — 2026-08-10T05:00:10.000Z
+- [Castilla y León activa la alerta por riesgo extremo de incendios del 11 al 13 de agosto](https://theobjective.com/sociedad/2026-08-10/castilla-leon-alerta-extremo-incendios-11-13-agosto/?utm_source=lootura.com) — 2026-08-10T08:07:50.000Z

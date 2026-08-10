@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "AI",
     "AI science",
@@ -90,13 +90,7 @@
       "url": "https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com",
       "publishedAt": "2026-08-10T05:24:13.998Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Common Sugar Appears to Loosen Cancer Cells And Help Them Spread",
-      "url": "https://www.sciencealert.com/common-sugar-appears-to-loosen-cancer-cells-and-help-them-spread?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:19:56.000Z",
-      "sourceId": "lootura-us-sciencealert"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

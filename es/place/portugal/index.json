@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "POR",
     "PRT",
@@ -68,6 +68,13 @@
       "date": "2026-07-11"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Medio millón de turistas astronómicos empiezan a llegar a las provincias donde se verá el eclipse total",
+      "url": "https://www.20minutos.es/nacional/eclipse-solar-total-directo-espana-miercoles-12-agosto_7024119_6.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T07:46:21.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### In a competitive Maine Senate race, women voters could be the deciders
+
+The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).
+
+Date: 2026-08-10
 
 ### Dems stand by Maine nominee hit with report he fathered children with his second cousin
 
@@ -62,12 +68,6 @@ Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal 
 
 Date: 2026-07-23
 
-### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
-
-Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [In a competitive Maine Senate race, women voters could be the deciders](https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z

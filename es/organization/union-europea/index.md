@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Marruecos compra impunidad
+
+Algunos esperaban que los ministros de Interior de la Unión Europea, reunidos el 4 de agosto, defendiesen a España de la invasión proxy de Ceuta organizada por Marruecos , exigiesen a Pedro Sánchez medidas severas y castigasen a Mohamed VI . No ha ocurrido nada de ello. Tampoco que Sánchez reaccionase contra Marruecos.
+
+Date: 2026-08-10
 
 ### 'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño
 
@@ -62,12 +68,6 @@ Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de informac
 
 Date: 2026-08-04
 
-### El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea
-
-El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del "caso Begoña Gómez" asumir la indagación en las supuestas irregularidades me.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [En defensa del espacio Schengen](https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
+- [Marruecos compra impunidad](https://okdiario.com/opinion/marruecos-compra-impunidad-19153411?utm_source=lootura.com) — 2026-08-10T09:11:57.000Z

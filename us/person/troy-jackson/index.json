@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.json",
   "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "Jackson"
   ],
   "changes": [
+    {
+      "title": "In a competitive Maine Senate race, women voters could be the deciders",
+      "summary": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).",
+      "date": "2026-08-10"
+    },
     {
       "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
       "summary": "Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.",
@@ -57,13 +62,15 @@
       "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
       "summary": "Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
-      "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In a competitive Maine Senate race, women voters could be the deciders",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

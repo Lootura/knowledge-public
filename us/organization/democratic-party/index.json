@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
+      "summary": "American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Inside the Left’s Playbook for Winning Elections",
+      "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
       "summary": "Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.",
@@ -52,19 +62,15 @@
       "title": "They’re Battle-Tested Democrats. Do Voters Care?",
       "summary": "Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "What's at stake for Democrats in next week's Wisconsin primary",
-      "summary": "More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Orange County residents say the American dream is slipping away",
-      "summary": "Republicans and Democrats, renters and homeowners, rich and poor—agree on at least one thing: Buying a home is harder today than it was for their parents. The latest UCI-OC Poll suggests that's just the beginning of the problem.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
+      "url": "https://www.foxnews.com/opinion/democrats-no-longer-have-no-1-weapon-keep-their-socialist-wing-line?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:59.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
     {
       "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
       "url": "https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com",
@@ -76,7 +82,13 @@
       "url": "https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:02:13.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Inside the Left’s Playbook for Winning Elections",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:02:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

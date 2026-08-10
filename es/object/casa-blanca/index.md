@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»](https://www.abc.es/deportes/mma/preparador-fisico-topuria-anticipa-nueva-version-poder-20260810015905-nt.html?utm_source=lootura.com) — 2026-08-10T04:57:52.000Z
+No public source links.

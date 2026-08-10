@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -48,6 +48,21 @@
       "date": "2026-08-10"
     },
     {
+      "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
+      "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Cuando el miedo decide: creencias políticas y giro conservador en América Latina",
+      "summary": "Keiko Fujimori votaba el pasado 7 de junio en la segunda vuelta de las elecciones que le darían la presidencia de Perú. mbzfotos/Shutterstock En las últimas citas electorales de América Latina se constata un giro conservador entre una parte del electorado . La victoria de José Antonio Kast en Chile y las ajustadas vict.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Un malagueño consigue el pase de oro en America’s Got Talent con su parkour",
+      "summary": "Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Sobre la virtud del gobernante",
       "summary": "Hubo un momento que marcó mi percepción de la política. Durante la campaña electoral de 2008 en Estados Unidos , el candidato republicano, John McCain, respondía un día a las preguntas de un grupo de seguidores cuando dos de ellos se lanzaron a criticar desaforadamente a su rival demócrata, Barack Obama , con acusacion.",
       "date": "2026-08-10"
@@ -76,21 +91,6 @@
       "title": "Los socialistas estadounidenses querrían ser españoles",
       "summary": "La extrema izquierda estadounidense, agrupada en la organización Democratic Socialists of America (DSA), aprobó el mes pasado un programa cuyo preámbulo no disimula el objetivo: «Ganar la batalla de la democracia, redactar una constitución nueva y crear una república socialista democrática» . Sus capítulos principales.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "summary": "Una de las autopistas más importantes de Marruecos será bautizada con el nombre Donald J. Trump. No es una carretera cualquiera: atraviesa casi todo el Sáhara Occidental, más de 1.000 km que separan las ciudades de Tiznit y Dakhla. El rey Mohammed VI anunció esta semana que rebautizaría la autopista en agradecimiento a.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "El abogado personal de Trump, Todd Blanche, nuevo fiscal general de EEUU",
-      "summary": "El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general a Todd Blanche, antiguo abogado personal del presidente Donald Trump , que había venido ejerciendo hasta ahora el cargo de manera interina desde el cese en abril de Pam Bondi, y en medio de fuertes recelos por su posible falta de independen.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”",
-      "summary": "Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -101,11 +101,23 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Sobre la virtud del gobernante",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-10/salud-gobernante-articulo-antonio-cano/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T03:25:00.000Z",
+      "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
+      "url": "https://www.larazon.es/internacional/interceptan-dos-aviones-que-violaron-espacio-aereo-club-golf-donde-estaba-trump_202608106a79933e71b42a0b5de73f91.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:46.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Cuando el miedo decide: creencias políticas y giro conservador en América Latina",
+      "url": "https://theconversation.com/cuando-el-miedo-decide-creencias-politicas-y-giro-conservador-en-america-latina-288584?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T06:11:28.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    },
+    {
+      "title": "Un malagueño consigue el pase de oro en America’s Got Talent con su parkour",
+      "url": "https://theobjective.com/sociedad/2026-08-10/malagueno-pase-oro-americas-got-talent-parkour/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T07:57:18.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

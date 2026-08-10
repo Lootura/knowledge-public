@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -45,44 +45,44 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-      "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
-      "date": "2026-08-10"
-    },
-    {
       "title": "Daily fragment: 2020 Midwest derecho",
       "summary": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.",
       "date": "2026-08-10"
     },
     {
-      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "title": "Funding milestone detected",
+      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
       "date": "2026-08-10"
     },
     {
-      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
-      "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
-      "date": "2026-08-09"
+      "title": "Oil prices rise amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "summary": "Oil was mixed as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
+      "date": "2026-08-10"
     },
     {
-      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-      "summary": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.",
-      "date": "2026-08-09"
+      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
+      "summary": "American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.",
+      "date": "2026-08-10"
     },
     {
-      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
-      "summary": "Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.",
-      "date": "2026-08-09"
+      "title": "Same Knee Surgery, Twice the Price: Hospital Monopolies Push Up Healthcare Costs",
+      "summary": "More than a million times a year , a U.S. surgeon slices open a knee, strips out worn cartilage, caps the leg bones with metal, and drops in a plastic spacer to allow the new joint to glide. While knee replacement procedures have become standard, however, the prices charged have not. At Catawba Valley Medical Center in.",
+      "date": "2026-08-10"
     },
     {
-      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
-      "summary": "Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.",
-      "date": "2026-08-09"
+      "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+      "summary": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace. (Image credit: Joe Nicholson).",
+      "date": "2026-08-10"
     },
     {
-      "title": "Crews battle wildfires in western U.S. and Canada",
-      "summary": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).",
-      "date": "2026-08-09"
+      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+      "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share. (Image credit: Finn Gomez).",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "An indigenous photographic history of America – in pictures",
+      "summary": "Spanning generations and multiple Indigenous societies and nations, In Light and Shadow traces the visual importance of Indigenous photographers. Representing work in different genres, the book presents more than 250 images with an accompanying exhibition at Obscura Gallery from 14 August Continue reading...",
+      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -99,16 +99,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:17:48.000Z",
+      "title": "Australian rare earth miner surges after U.S. Department of War investment",
+      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:36:11.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
-      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:24:45.000Z",
+      "title": "Oil prices rise amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:16:00.000Z",
       "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
+      "url": "https://www.foxnews.com/opinion/democrats-no-longer-have-no-1-weapon-keep-their-socialist-wing-line?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:59.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Same Knee Surgery, Twice the Price: Hospital Monopolies Push Up Healthcare Costs",
+      "url": "https://kffhealthnews.org/health-industry/hospital-mergers-monopolies-drive-healthcare-costs-asheville-north-carolina/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "sourceId": "lootura-us-kff-health-news"
     },
     {
       "title": "Daily fragment: 2020 Midwest derecho",
@@ -117,35 +129,23 @@
       "sourceId": "lootura-us-lootura-daily"
     },
     {
-      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
-      "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:18:19.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Crews battle wildfires in western U.S. and Canada",
       "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com",
       "publishedAt": "2026-08-09T22:03:09.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
-      "url": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T17:18:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
-      "url": "https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T15:20:38.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
-      "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:52:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 15
 }

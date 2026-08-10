@@ -70,5 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí](https://www.eldiario.es/madrid/somos/incognitas-responder-atico-compro-gobierno-ayuso-chamberi_1_13431130.html?utm_source=lootura.com) — 2026-08-09T20:04:51.000Z
-- [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
+No public source links.

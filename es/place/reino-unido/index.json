@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,21 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores",
+      "summary": "Agentes de la Policía Nacional han detenido en Maspalomas (Gran Canaria) a un ciudadano británico sobre el que pesaba una Orden Internacional de Detención y Entrega (OIDE), emitida por las autoridades judiciales del Reino Unido, por su presunta implicación en ocho delitos de índole sexual cometidos contra menores en es.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido",
+      "summary": "El partido de derecha británico Reform UK, que lidera Nigel Farage, ha iniciado contactos con El Salvador para deportar a presos extranjeros a ese país si gana las próximas elecciones generales en el Reino Unido , previstas para 2029, revela este lunes el tabloide The Sun . Según ha podido saber este rotativo, una dele.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
+      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái",
       "summary": "Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.",
@@ -57,23 +72,27 @@
       "title": "Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales",
       "summary": "Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Reino Unido obligará a que aseos o vestuarios sean utilizados en función del sexo de nacimiento",
-      "summary": "Una nueva directriz obligará a modificar desde este miércoles el uso de miles de espacios públicos segregados por género en Reino Unido, casi un año y medio después de un fallo histórico del Tribunal Supremo sobre la definición legal de sexo biológico. Con la entrada en vigor mañana de este \"código de buenas prácticas\".",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Las acciones españolas ofrecen una soleada vía de escape a los inversores hastiados de la tecnología",
-      "summary": "La brutal caída de las acciones de semiconductores durante el último mes ha revitalizado el atractivo de los mercados pasados de moda. El FTSE 100 de Reino Unido alcanzó un máximo histórico la semana pasada, gracias en parte a la escasa presencia de empresas tecnológicas en su índice. Pero no es el único: el índice de.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Sacyr y ACS arrancan en el plan de nuevos hospitales de Inglaterra con proyectos milmillonarios",
-      "summary": "La experiencia en obra hospitalaria acumulada por Sacyr y ACS les ha valido para entrar de lleno en la primera fase del programa de nuevos hospitales en Inglaterra (Reino Unido), haciéndose con el desarrollo de un centro cada una de ellas de los 11 proyectados. El plan en su totalidad contempla obras por 37.000 millone.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores",
+      "url": "https://www.abc.es/espana/canarias/detenido-gran-canaria-fugitivo-britanico-ocho-delitos-20260810104748-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:47:48.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido",
+      "url": "https://theobjective.com/internacional/2026-08-10/farage-deportar-presos-extranjeros-el-salvador/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T08:02:39.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
+      "url": "https://theobjective.com/internacional/2026-08-10/reino-unido-camaras-espias-drones-armada-datos-china/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:12:18.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
 }

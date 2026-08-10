@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-08-10T09:17:09.506Z",
   "aliases": [
     "EU",
     "European Union"
@@ -30,6 +30,21 @@
       "date": "2026-08-10"
     },
     {
+      "title": "Western Europe experienced hottest June-July on record: EU monitor",
+      "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Movie paradise? How Malta became a magnet for big film shoots",
+      "summary": "EU’s smallest country has played ancient Rome, the Land of Spells and Bay of Pentos and draws more than 30 productions annually What links the Caribbean, ancient Rome, Enid Blyton’s Land of Spells, the south of France and the Bay of Pentos from Game of Thrones? They are all places that have been portrayed in recent and.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+      "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
       "date": "2026-08-09"
@@ -48,21 +63,6 @@
       "title": "Europeans face energy crisis as heat wave brings wildfires and drought",
       "summary": "The Danube River hasn't been this low in over 200 years. Wildfires are scorching multiple countries in Europe. Less water means less nuclear energy generation, bringing an energy crisis. Ramy Inocencio details Europe's heat wave struggles.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68",
-      "summary": "Jorge Messi served as his son's agent and accompanied him to Europe when he signed with Barcelona as a teenager.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "These are the \"super scooper\" firefighting seaplanes dousing European and U.S. wildfires",
-      "summary": "As wildfires rage in parts of the United States and Europe, firefighting efforts have taken to the seas and skies. CBS Saturday Morning takes a look at these remarkable \"super scooper\" amphibious aircraft.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
@@ -79,11 +79,29 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Western Europe experienced hottest June-July on record: EU monitor",
+      "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T06:41:43.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "World’s seas have hit hottest temperature on record for July, say scientists",
       "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists?utm_source=lootura.com",
       "publishedAt": "2026-08-10T02:00:31.000Z",
       "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Movie paradise? How Malta became a magnet for big film shoots",
+      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:00:34.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:23:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

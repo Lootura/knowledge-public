@@ -3,10 +3,22 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Condenado a 3 meses de prisión un soldado por viajar fuera de su destino mientras estaba de baja
+
+Un militar destinado en Melilla ha sido condenado a tres meses y un día de prisión por desplazarse a Málaga sin permiso y permanecer allí cuatro días mientras estaba de baja médica , hechos que constituyen un delito de abandono de residencia . La Sala de lo Militar del Tribunal Supremo ha ratificado el fallo del Tribun.
+
+Date: 2026-08-10
+
+### Un malagueño consigue el pase de oro en America’s Got Talent con su parkour
+
+Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.
+
+Date: 2026-08-10
 
 ### Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga
 
@@ -56,18 +68,7 @@ Agentes de la Policía Nacional han arrestado a un varón de 30 años por, presu
 
 Date: 2026-08-06
 
-### Bendodo atiende a los medios de comunicación junto al alcalde de Málaga, en directo
-
-Siga las imágenes en directo a partir de las 12:00.
-
-Date: 2026-08-06
-
-### Dragon Ball contará con una nueva figura de Freezer que ha sido anunciada en la San Diego Comic Málaga
-
-El pasado mes de julio, y más concretamente del 23 al 26 de julio, tuvo lugar la San Diego Comic-Con Málaga 2026. La convención fue un auténtico éxito y contó con la presencia de invitados de primer nivel . Entre ellos destacaron Emily Rudd e Iñaki Godoy , quienes dan vida a Nami y Luffy en el live action de One Piece.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Condenado a 3 meses de prisión un soldado por viajar fuera de su destino mientras estaba de baja](https://www.elconfidencial.com/espana/2026-08-10/soldado-melilla-abandono-residencia-1tna-1tps_4403594/?utm_source=lootura.com) — 2026-08-10T06:33:00.000Z
+- [Un malagueño consigue el pase de oro en America’s Got Talent con su parkour](https://theobjective.com/sociedad/2026-08-10/malagueno-pase-oro-americas-got-talent-parkour/?utm_source=lootura.com) — 2026-08-10T07:57:18.000Z

@@ -22,4 +22,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District](https://www.cbsnews.com/news/ed-case-hawaii-1st-congressional-district-jarrett-keohokalole/?utm_source=lootura.com) — 2026-08-09T11:09:20.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Democrats no longer have the No. 1 weapon to keep their socialist wing in line
+
+American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.
+
+Date: 2026-08-10
+
+### Inside the Left’s Playbook for Winning Elections
+
+Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
+
+Date: 2026-08-10
 
 ### Politics chat: Progressive candidates in primaries, Trump's influence on midterms
 
@@ -56,19 +68,9 @@ Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, t
 
 Date: 2026-08-07
 
-### What's at stake for Democrats in next week's Wisconsin primary
-
-More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.
-
-Date: 2026-08-07
-
-### Orange County residents say the American dream is slipping away
-
-Republicans and Democrats, renters and homeowners, rich and poor—agree on at least one thing: Buying a home is harder today than it was for their parents. The latest UCI-OC Poll suggests that's just the beginning of the problem.
-
-Date: 2026-08-07
-
 ## Sources
 
+- [Democrats no longer have the No. 1 weapon to keep their socialist wing in line](https://www.foxnews.com/opinion/democrats-no-longer-have-no-1-weapon-keep-their-socialist-wing-line?utm_source=lootura.com) — 2026-08-10T09:00:59.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
 - [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z
+- [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:41.000Z

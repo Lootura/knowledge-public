@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-10
 ### Un Gobierno en emergencia permanente
 
 Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
+
+### Las Bolsas dan un paso atrás con el petróleo al alza
+
+Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
 
 Date: 2026-08-10
 
@@ -62,13 +68,8 @@ El creciente lastre que los cinco meses de guerra en Irán viene suponiendo para
 
 Date: 2026-08-07
 
-### El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos
-
-El Ibex 35 ha marcado su cuarto máximo histórico consecutivo al cerrar este jueves en los 20.180,4 puntos, un 0,62% por encima de la jornada precedente. Los inversores han estado pendientes este jueves de los detalles del acuerdo entre Omán e Irán para gestionar el tránsito marítimo en el estratégico estrecho de Ormuz.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán](https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html?utm_source=lootura.com) — 2026-08-10T03:45:00.000Z
+- [Las Bolsas dan un paso atrás con el petróleo al alza](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T07:11:24.000Z
 - [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

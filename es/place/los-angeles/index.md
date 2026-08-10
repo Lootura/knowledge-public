@@ -22,4 +22,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Nuevas evacuaciones por los incendios: Los Ángeles de San Rafael y Vegas de Matute (Segovia), y Catí (Castellón)](https://www.elmundo.es/espana/2026/08/09/6a78a93321efa03c088b459d.html?utm_source=lootura.com) — 2026-08-09T19:12:50.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026
+
+La presidenta de TMB, Laia Bonet, asegura que "el metro es hoy un espacio más seguro que hace unos años".
+
+Date: 2026-08-10
 
 ### Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”
 
@@ -62,12 +68,6 @@ Hansi Flick atendió a los medios de comunicación en sala de prensa tras la vic
 
 Date: 2026-08-08
 
-### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
-
-El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”](https://www.eldiario.es/catalunya/carmen-hijo-13-anos-borde-desahucio-alternativa-siento-abandonada-administracion_1_13432415.html?utm_source=lootura.com) — 2026-08-09T20:04:54.000Z
+- [Los delitos en el metro de Barcelona caen un 34% durante el primer semestre de 2026](https://www.larazon.es/cataluna/delitos-metro-barcelona-caen-34-primer-semestre-2026_202608106a79967e71b42a0b5de74610.html?outputType=amp&utm_source=lootura.com) — 2026-08-10T09:14:38.000Z

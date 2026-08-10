@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-10T09:16:50.904Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
+      "summary": "Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión",
       "summary": "El Govern del PSC consolida su alianza con ERC y Comuns, pero acumula asignaturas pendientes: Rodalies, Educación, seguridad... Leer.",
@@ -66,7 +71,13 @@
       "url": "https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T23:33:33.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
+      "url": "https://www.larazon.es/cataluna/crisis-abiertas-principales-retos-que-espera-govern-illa-dos-anos-que-quedan-legislatura_202608106a7995fba046ad6ebca935af.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T09:12:36.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

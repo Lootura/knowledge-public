@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»
+
+Nadie mejor que Amancio Ortega puede demostrar que con esfuerzo y trabajo se puede llegar desde lo más bajo hasta la cima. El magnate español pasó de trabajar en una camisería en La Coruña , la ciudad donde se crio, a abrir su propia tienda de ropa, lo que significó la primera piedra del imperio textil que ha ido const.
+
+Date: 2026-08-10
 
 ### Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»
 
@@ -58,4 +64,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»](https://www.abc.es/gente/amancio-ortega-anos-sobre-infancia-padre-ganaba-20260810104022-nt.html?utm_source=lootura.com) — 2026-08-10T08:40:23.000Z

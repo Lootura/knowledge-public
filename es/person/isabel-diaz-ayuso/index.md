@@ -3,10 +3,22 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
+
+Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
+
+Date: 2026-08-10
+
+### La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático
+
+El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.
+
+Date: 2026-08-10
 
 ### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
 
@@ -56,18 +68,7 @@ El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica
 
 Date: 2026-08-06
 
-### Ayuso dice que es la Consejería de Presidencia quien debe dar explicaciones sobre la compra del ático: “Yo no tengo la menor idea”
-
-Isabel Díaz Ayuso ha dicho este miércoles que la Consejería de Presidencia, que lleva una persona de su máxima confianza, Miguel Ángel García Martín, es quien debe responder a todas las dudas que han surgido por la extraña compra de un ático de lujo que en teoría iba a funcionar como oficina temporal de la presidenta d.
-
-Date: 2026-08-05
-
-### La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste
-
-La Fundación Alicia Koplowitz ha donado 150.000 euros para la reconstrucción de la Sierra Oeste de la Comunidad de Madrid , tras el incendio que arrasó cerca de 34.000 hectáreas durante el pasado mes de julio, según ha dado a conocer la presidenta regional, Isabel Díaz Ayuso, a través de sus redes sociales. « La Fundac.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?](https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html?utm_source=lootura.com) — 2026-08-10T09:11:15.000Z
+- [La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático](https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

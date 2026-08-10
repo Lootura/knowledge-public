@@ -22,4 +22,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno](https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html?utm_source=lootura.com) — 2026-08-10T03:15:00.000Z
+No public source links.

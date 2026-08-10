@@ -3,7 +3,7 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España](https://cincodias.elpais.com/mercados-financieros/2026-08-10/revolut-logra-licencia-bancaria-francesa-y-traslada-a-paris-el-centro-de-su-negocio-en-espana.html?utm_source=lootura.com) — 2026-08-10T08:37:01.000Z

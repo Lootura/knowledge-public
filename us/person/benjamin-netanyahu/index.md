@@ -52,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump](https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu?utm_source=lootura.com) — 2026-08-09T20:00:48.000Z
+No public source links.

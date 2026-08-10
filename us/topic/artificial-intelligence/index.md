@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-08-10T09:17:09.506Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-08-08
 
 - [AI agents are checking the scientific literature — and spotting decades-old errors](https://www.nature.com/articles/d41586-026-02235-8?utm_source=lootura.com) — 2026-08-10T05:24:13.998Z
 - [Operational Tropical Cyclone Forecasting with AI](https://www.nature.com/articles/s41586-026-10953-2?utm_source=lootura.com) — 2026-08-10T05:24:13.998Z
-- [Common Sugar Appears to Loosen Cancer Cells And Help Them Spread](https://www.sciencealert.com/common-sugar-appears-to-loosen-cancer-cells-and-help-them-spread?utm_source=lootura.com) — 2026-08-10T04:19:56.000Z

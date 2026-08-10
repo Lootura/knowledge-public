@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -17,6 +17,36 @@ Date: 2026-08-10
 ### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
 
 Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
+
+Date: 2026-08-10
+
+### El plan gratis con niños para combatir el calor en Madrid: un castillo hinchable acuático con piscina, toboganes y juegos de agua
+
+Buscar un plan gratis con niños en Madrid puede convertirse durante agosto en una pequeña carrera contra el termómetro. Con las vacaciones escolares todavía por delante, las actividades refrescantes se convierten en una buena opción para escapar durante unas horas de las altas temperaturas . Este verano, un conocido es.
+
+Date: 2026-08-10
+
+### Así son Pravia (Asturias) y Serranillos del Valle (Madrid), los dos pueblos que participan en el Grand Prix este lunes, 10 de agosto
+
+El Grand Prix del verano 2026 regresa este lunes, 10 de agosto, a La 1 de RTVE con una nueva batalla entre pueblos. El quinto programa de la temporada tendrá como protagonistas a dos localidades muy distintas, separadas por cientos de kilómetros , que por una noche compartirán escenario, juegos y un mismo objetivo: hac.
+
+Date: 2026-08-10
+
+### Muere una mujer en una reyerta en Puente de Vallecas y varias resultan heridas por arma blanca
+
+Una mujer perdió la vida anoche durante una violenta reyerta en el distrito de Puente de Vallecas . Por este suceso, la Policía ha detenido a cuatro personas por un presunto delito de riña tumultuaria , según informó la Jefatura Superior de Policía de Madrid en una nota oficial. La Policía Nacional mantiene abierta la.
+
+Date: 2026-08-10
+
+### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
+
+Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
+
+Date: 2026-08-10
+
+### La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático
+
+El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.
 
 Date: 2026-08-10
 
@@ -38,39 +68,13 @@ El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en S
 
 Date: 2026-08-09
 
-### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
-
-El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
-
-Date: 2026-08-09
-
-### El Orgullo 2026 dejó en Madrid más de 82 millones de euros
-
-El Orgullo es una de las citas marcadas en rojo en el calendario de eventos de la capital, y «uno de sus principales motores económicos y turísticos», reconoce un informe realizado por el área de Economía del Ayuntamiento de Madrid. De hecho, esta celebración genera un impacto total de 82,7 millones de euros en la ciud.
-
-Date: 2026-08-09
-
-### La trágica situación en la que vive Aramís Fuster, sin agua corriente ni electricidad
-
-Aramís Fuster está viviendo en una situación precaria , tal y como han podido presenciar en 'Fiesta'. La pitonisa, que reside de alquiler en Madrid, no tiene agua corriente ni luz desde hace seis meses, y su vivienda carece de los servicios básicos. La televisiva, que tiene 75 años pese a haber asegurado que supera los.
-
-Date: 2026-08-09
-
-### El defensa Jorge Domínguez reclama un sitio a Simeone
-
-Con tan solo 16 años, Jorge Domínguez ya sabe lo que es marcar con la camiseta del primer equipo del Atlético de Madrid . El joven defensor en edad juvenil abrió el marcador en el penúltimo compromiso de la pretemporada colchonera frente al Manchester City. Apodado 'Domi' en el vestuario, el jugador firmó en 2025 su pr.
-
-Date: 2026-08-09
-
-### Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones
-
-Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [Iker Casillas, sobre su infancia humilde: «Mi padre tenía el sueldo de un guardia civil y mi madre era ama de casa»](https://www.abc.es/gente/iker-casillas-sobre-infancia-humilde-padre-sueldo-20260805160921-nt.html?utm_source=lootura.com) — 2026-08-10T08:44:43.000Z
+- [El plan gratis con niños para combatir el calor en Madrid: un castillo hinchable acuático con piscina, toboganes y juegos de agua](https://www.elconfidencial.com/espana/madrid/2026-08-10/plan-gratis-madrid-castillo-hinchable-acuatico_4403583/?utm_source=lootura.com) — 2026-08-10T07:28:00.000Z
+- [Así son Pravia (Asturias) y Serranillos del Valle (Madrid), los dos pueblos que participan en el Grand Prix este lunes, 10 de agosto](https://www.elconfidencial.com/espana/2026-08-10/pueblos-participantes-grand-prix-10-agosto-1qrt_4403677/?utm_source=lootura.com) — 2026-08-10T09:08:00.000Z
+- [Muere una mujer en una reyerta en Puente de Vallecas y varias resultan heridas por arma blanca](https://www.elconfidencial.com/espana/madrid/2026-08-10/mujer-fallecida-reyerta-puente-vallecas-1tps_4403658/?utm_source=lootura.com) — 2026-08-10T08:07:00.000Z
 - [El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-10/nuevo-icono-madrid-caballo-bronce-centrica-plaza-madrid-desafiando-gravedad_4402867/?utm_source=lootura.com) — 2026-08-10T03:45:00.000Z
+- [¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?](https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html?utm_source=lootura.com) — 2026-08-10T09:11:15.000Z
+- [La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático](https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
 - [España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse](https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
-- [Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí](https://www.eldiario.es/madrid/somos/incognitas-responder-atico-compro-gobierno-ayuso-chamberi_1_13431130.html?utm_source=lootura.com) — 2026-08-09T20:04:51.000Z
-- [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z

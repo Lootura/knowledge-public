@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-10T09:16:50.904Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
+
+El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.
+
+Date: 2026-08-10
 
 ### Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza
 
@@ -62,13 +68,6 @@ El Senado de Estados Unidos ha confirmado este sábado como nuevo fiscal general
 
 Date: 2026-08-08
 
-### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
-
-Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T17:45:48.000Z
-- [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T17:29:35.000Z
+- [Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump](https://www.larazon.es/internacional/interceptan-dos-aviones-que-violaron-espacio-aereo-club-golf-donde-estaba-trump_202608106a79933e71b42a0b5de73f91.html?utm_source=lootura.com) — 2026-08-10T09:00:46.000Z
