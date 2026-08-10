@@ -1,0 +1,40 @@
+{
+  "id": "usa-mark-zuckerberg",
+  "name": "Mark Zuckerberg",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/mark-zuckerberg",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/mark-zuckerberg",
+  "markdownUrl": "https://atlas.lootura.com/us/person/mark-zuckerberg/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/mark-zuckerberg/index.json",
+  "description": "Follow Mark Zuckerberg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "aliases": [
+    "Mark Elliot Zuckerberg",
+    "The Zucc",
+    "The Zuck",
+    "Zuck",
+    "Zuckerberg"
+  ],
+  "changes": [
+    {
+      "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
+      "summary": "Small cruise ship rescued skiff in south-east Alaska even though Meta billionaire’s $300m megayacht was closer Mark Zuckerberg has faced questions over why a small cruise ship in south-east Alaska rescued a stranded skiff and its crew when his 387ft superyacht had been closer. The Silicon Valley billionaire’s yacht, wo.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mark Zuckerberg first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T19:06:23.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
+}
