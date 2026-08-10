@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Más de 33.600 policías para el eclipse: «Tememos que la gente se pare en plena carretera»
+
+Interior ha activado un amplio operativo de seguridad para coordinar a las comunidades ante la previsión de más de dos millones de desplazamientos en torno al eclipse. Los efectivos policiales superan los 33.600 agentes; con mucho peso de la Guardia Civil (24.200), dados los riesgos en zonas rurales, y 2.500 efectivos.
+
+Date: 2026-08-09
 
 ### Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países
 
@@ -62,12 +68,6 @@ Una juez pide a la Guardia Civil que aclare si recibió algún aviso antes del a
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta
-
-La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información en los días previos a la entrada irregular y masiva de inmigrantes en Ceuta que alertase de que lo sucedido podía ocurrir. La jueza María Tardón ha dado el paso a raíz de una denuncia del partido Iustitia Europa, q.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Más de 33.600 policías para el eclipse: «Tememos que la gente se pare en plena carretera»](https://www.abc.es/sociedad/dispositivo-comunidades-organizan-territorios-eclipse-20260810011810-nt.html?utm_source=lootura.com) — 2026-08-09T23:26:42.000Z

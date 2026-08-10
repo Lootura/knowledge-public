@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [Trocear el problema y controlar los tiempos: así es la táctica de Irán que exaspera a Trump](https://www.larazon.es/internacional/trocear-problema-controlar-tiempos-asi-tactica-iran-que-exaspera-trump_202608106a792907a5690f0473713b6c.html?outputType=amp&utm_source=lootura.com) — 2026-08-10T01:27:35.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Naturaleza bajo cuidados intensivos
+
+El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos árboles que, por su edad o tamaño, requieren más atención.
+
+Date: 2026-08-09
 
 ### Noticias de otra plaga
 
@@ -62,12 +68,6 @@ El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promuev
 
 Date: 2026-08-05
 
-### La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia
-
-Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»](https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com) — 2026-08-08T22:01:02.000Z
+- [Naturaleza bajo cuidados intensivos](https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com) — 2026-08-09T22:04:19.000Z

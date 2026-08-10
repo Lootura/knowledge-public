@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T16:32:05.492Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
+      "summary": "Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.",
+      "date": "2026-08-10"
+    },
     {
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
@@ -64,13 +69,15 @@
       "title": "Daily fragment: 2014 Kunshan explosion",
       "summary": "At least 146 people are killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "How China Keeps Tabs on Foreigners",
-      "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
+      "url": "https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:56:01.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

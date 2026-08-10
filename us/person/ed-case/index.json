@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ed-case/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ed-case/index.json",
   "description": "Follow Ed Case, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "Edward Case",
     "Edward Espenett Case"
   ],
   "changes": [
     {
-      "title": "Moderate Democrat Ed Case defies progressive challenge in Hawaii primary",
-      "summary": "Case, who has represented island state’s first district in US Congress since 2019, beat state senator Jarrett Keohokalole The moderate Democratic representative Ed Case has seen off a progressive challenge to retain his party’s nomination for the US House of Representatives election in Hawaii ’s first congressional dis.",
+      "title": "Discovered by Atlas",
+      "summary": "Ed Case first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-09"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Ed Case first entered the public knowledge record with source-backed evidence.",
+      "title": "Moderate Democrat Ed Case defies progressive challenge in Hawaii primary",
+      "summary": "Case, who has represented island state’s first district in US Congress since 2019, beat state senator Jarrett Keohokalole The moderate Democratic representative Ed Case has seen off a progressive challenge to retain his party’s nomination for the US House of Representatives election in Hawaii ’s first congressional dis.",
       "date": "2026-08-09"
     }
   ],
@@ -31,13 +31,7 @@
       "url": "https://www.cbsnews.com/news/ed-case-hawaii-1st-congressional-district-jarrett-keohokalole/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T11:09:20.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Moderate Democrat Ed Case defies progressive challenge in Hawaii primary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/ed-case-wins-hawaii-house-primary-election-democrats?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:00:35.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

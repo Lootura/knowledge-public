@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T16:51:54.899Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
+
+Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
+
+Date: 2026-08-10
 
 ### El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países
 
@@ -62,12 +68,6 @@ Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en p
 
 Date: 2026-07-23
 
-### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
-
-El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z

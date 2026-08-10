@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'
+
+Rep. Alexandria Ocasio-Cortez , D-N.Y., dismissed her and other socialist politicians' past extreme controversial comments on ABC's "This Week" Sunday, joking that the "Woke 1" era was "crazy." Host Jon Karl asked Ocasio-Cortez to comment on Wisconsin gubernatorial candidate Francesca Hong and her controversial comment.
+
+Date: 2026-08-10
 
 ### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
 
@@ -40,4 +46,5 @@ Date: 2026-08-05
 
 ## Sources
 
+- [Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'](https://www.foxnews.com/media/alexandria-ocasio-cortez-shrugs-off-past-defund-police-comments-joking-woke-1-crazy?utm_source=lootura.com) — 2026-08-10T00:56:11.000Z
 - [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z

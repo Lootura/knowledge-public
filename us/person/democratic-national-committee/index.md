@@ -3,14 +3,14 @@
 > Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/person/democratic-national-committee
 
 ## Recent changes
 
 ### Richard Nixon reflects on Watergate and his legacy: Meet the Press Archive
 
-APRIL 10, 1988 — Former President Richard Nixon joined Meet the Press years after resigning from office on August 9, 1976, after five men were arrested for breaking into the Democratic National Committee headquarters at the Watergate complex in Washington, D.C. in June of that year.
+APRIL 10, 1988 — Former President Richard Nixon joined Meet the Press years after resigning from office on August 9, 1974, after five men were arrested for breaking into the Democratic National Committee headquarters at the Watergate complex in Washington, D.C. in June of that year.
 
 Date: 2026-08-09
 

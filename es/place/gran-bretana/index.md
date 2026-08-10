@@ -3,7 +3,7 @@
 > Sigue la actividad de Gran Bretaña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/gran-bretana
 
 ## Cambios recientes
@@ -28,5 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Raúl Fernández domina en el indómito Silverstone; Márquez sobrevive](https://www.abc.es/deportes/motos/raul-fernandez-domina-indomito-silverstone-marquez-sobrevive-20260809150224-nt.html?utm_source=lootura.com) — 2026-08-09T14:54:54.000Z
 - [Raúl Fernández domina en Gran Bretaña con Jorge Martín aún más líder de MotoGP](https://theobjective.com/deportes/2026-08-09/raul-fernandez-gran-bretana-jorge-martin-lider-motogp/?utm_source=lootura.com) — 2026-08-09T14:24:56.000Z

@@ -3,10 +3,28 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Fires grip western U.S., British Columbia: "It doesn't seem like it's real"
+
+Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.
+
+Date: 2026-08-10
+
+### Wildfires in western Canada force more than 20,000 people to evacuate
+
+British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
+
+Date: 2026-08-10
+
+### Crews battle wildfires in western U.S. and Canada
+
+There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).
+
+Date: 2026-08-09
 
 ### Wildfires in western Canada forces more than 20,000 people to evacuate
 
@@ -50,24 +68,8 @@ Canada’s prime minister laughed off Trump’s description of Canada but sugges
 
 Date: 2026-08-06
 
-### Human-driven climate crisis fuels Canada’s deadly wildfires, study finds
-
-Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heating The human-driven climate crisis made the conditions that led to blazes roaring across Canada, which have caused toxic smoke to spew throughout the country and into the US, twice as likely to occur, a ne.
-
-Date: 2026-08-06
-
-### 'Spider-Man: Brand New Day' beats 'Avengers: Endgame' box office record
-
-"Spider-Man: Brand New Day" broke the "Avengers: Endgame" record for the biggest North American opening weekend with $360 million in ticket sales from theaters in the U.S. and Canada, Sony Pictures said Monday.
-
-Date: 2026-08-03
-
-### Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants
-
-Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.
-
-Date: 2026-08-02
-
 ## Sources
 
-- [Wildfires in western Canada forces more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-09T03:46:37.000Z
+- [Fires grip western U.S., British Columbia: "It doesn't seem like it's real"](https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com) — 2026-08-10T00:43:00.000Z
+- [Wildfires in western Canada force more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-10T00:47:40.000Z
+- [Crews battle wildfires in western U.S. and Canada](https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com) — 2026-08-09T22:03:09.000Z

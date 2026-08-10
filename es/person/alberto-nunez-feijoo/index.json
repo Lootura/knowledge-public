@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T12:43:12.607Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»",
       "summary": "El presidente del Senado, Pedro Rollán , ha dirigido una carta al secretario de Estado de Relaciones con las Cortes, Rafael Simancas , en la que expresa la disconformidad ante la negativa del Gobierno a comparecer en la Cámara Alta para dar explicaciones por la invasión migratoria de Ceuta . El partido de Alberto Núñez.",
@@ -66,13 +71,15 @@
       "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
       "summary": "El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe \"la normalidad de la que habla el Gobierno\" en Ceuta y que \"basta con pisar la calle para comprobarlo\", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. \"Por humanidad,.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025",
-      "summary": "El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "url": "https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:00:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,20 +3,26 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Pregnant woman in hiding as White House ends deportation protections for Haitian migrants
-
-In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.
-
-Date: 2026-08-09
-
 ### Taylor Swift songs removed from Trump and White House’s social media posts
 
 Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.
+
+Date: 2026-08-09
+
+### Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World
+
+He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.
+
+Date: 2026-08-09
+
+### Pregnant woman in hiding as White House ends deportation protections for Haitian migrants
+
+In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.
 
 Date: 2026-08-09
 
@@ -62,13 +68,7 @@ The White House emphasized that President Trump was not in danger during the inc
 
 Date: 2026-08-05
 
-### Progressives had another big primary night – with a notable exception: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Pregnant woman in hiding as White House ends deportation protections for Haitian migrants](https://www.cbsnews.com/video/pregnant-haitian-woman-hides-as-tps-ends/?utm_source=lootura.com) — 2026-08-09T01:06:00.000Z
 - [Taylor Swift songs removed from Trump and White House’s social media posts](https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com) — 2026-08-09T14:33:46.000Z
+- [Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World](https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com) — 2026-08-09T12:52:25.000Z

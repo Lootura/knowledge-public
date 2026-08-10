@@ -3,7 +3,7 @@
 > Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/los-angeles
 
 ## Cambios recientes

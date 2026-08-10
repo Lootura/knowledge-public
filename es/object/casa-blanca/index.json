@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+      "summary": "La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.",
+      "date": "2026-08-09"
+    },
     {
       "title": "El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»",
       "summary": "El político demócrata, Joe Biden, sufre un cáncer de próstata « muy doloroso » y « muy debilitante ». Fue el pasado mes de mayo de 2025 cuando el expresidente, después de dejar la Casa Blanca, anunció que había sido diagnosticado con un cáncer de próstata con metástasis ósea . Meses después, Biden comenzó a recibir rad.",
@@ -64,13 +69,15 @@
       "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
       "summary": "Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril",
-      "summary": "La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo la cena que quedó suspendida hace tres meses tras el tiroteo registrado en el Washington Hilton. Donald Trump volverá a asistir a la cita, esta vez en un recinto distinto y con un dispositivo de seguridad muy reforzado, para completar un pr.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+      "url": "https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T23:25:55.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

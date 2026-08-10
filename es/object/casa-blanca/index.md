@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
+
+La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.
+
+Date: 2026-08-09
 
 ### El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»
 
@@ -62,12 +68,6 @@ Donald Trump volvió a reconstruir este viernes el muro arancelario que ya habí
 
 Date: 2026-07-24
 
-### Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril
-
-La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo la cena que quedó suspendida hace tres meses tras el tiroteo registrado en el Washington Hilton. Donald Trump volverá a asistir a la cita, esta vez en un recinto distinto y con un dispositivo de seguridad muy reforzado, para completar un pr.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos](https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com) — 2026-08-09T23:25:55.000Z

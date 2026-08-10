@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-09
 ### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
 
 El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
+
+Date: 2026-08-09
+
+### Chile cancela dos concesiones a Azvi y pone en alerta a Sacyr y OHLA
+
+El Gobierno del conservador José Antonio Kast ha encendido las alarmas entre los grandes grupos de infraestructuras del país después de que las autoridades chilenas hayan suspendido por sorpresa dos contratos de construcción de carreteras y posterior explotación a la española Azvi , una decisión inesperada que pone en.
 
 Date: 2026-08-09
 
@@ -62,14 +68,8 @@ El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 
 
 Date: 2026-08-08
 
-### Sánchez derrocha ayudas por menores en familias con rentas de 50.000 € mientras España lidera la UE en pobreza infantil
-
-El Gobierno de Pedro Sánchez ya reparte ayudas públicas por tener menores a cargo incluso a familias que superan rentas de 50.000 euros anuales . La última estadística publicada por el Instituto Nacional de la Seguridad Social (INSS) incorpora otro dato que amplía el alcance del denominado «escudo social». Un detalle q.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [El Gobierno espera que Italia "reaccione" y tenga claro que el espacio Schengen "no ha sido violado"](https://www.expansion.com/economia/2026/08/09/6a7866eb468aebbd748b4592.html?utm_source=lootura.com) — 2026-08-09T11:56:43.000Z
+- [Chile cancela dos concesiones a Azvi y pone en alerta a Sacyr y OHLA](https://www.expansion.com/empresas/inmobiliario/2026/08/10/6a78b89fe5fdeaf4208b4587.html?utm_source=lootura.com) — 2026-08-09T22:00:26.000Z
 - [El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país](https://theobjective.com/espana/2026-08-09/gobierno-maxima-precaucion-eclipse-riesgo-incendios/?amp=&utm_source=lootura.com) — 2026-08-09T16:10:51.000Z
 - [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

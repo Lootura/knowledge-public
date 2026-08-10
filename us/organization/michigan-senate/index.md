@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call](https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169?utm_source=lootura.com) — 2026-08-09T14:22:26.000Z
+No public source links.

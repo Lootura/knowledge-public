@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### How to spot the Perseid meteor shower, a summer light show that promises to dazzle
+
+The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.
+
+Date: 2026-08-09
 
 ### Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor
 
@@ -62,12 +68,6 @@ For the first time in more than a century, a total solar eclipse is coming to ma
 
 Date: 2026-08-03
 
-### ‘Do You Think if I Had a Job I Would Have Gone?’
-
-Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [How to spot the Perseid meteor shower, a summer light show that promises to dazzle](https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle?utm_source=lootura.com) — 2026-08-09T22:05:27.000Z

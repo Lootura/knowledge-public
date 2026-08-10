@@ -3,7 +3,7 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
@@ -14,19 +14,18 @@ Se piensa en Carlos Alcaraz, todavía de baja por su lesión en la muñeca derec
 
 Date: 2026-08-09
 
-### Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla
-
-Jannik Sinner, al igual que Carlos Alcaraz, también ha renunciado a competir en el Masters 1000 de Cincinnati.
-
-Date: 2026-08-09
-
 ### Discovered by Atlas
 
 Carlos Alcaraz first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-09
 
+### Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla
+
+Jannik Sinner, al igual que Carlos Alcaraz, también ha renunciado a competir en el Masters 1000 de Cincinnati.
+
+Date: 2026-08-09
+
 ## Fuentes
 
 - [Dani Mérida da otro salto hasta los cuartos en Montreal](https://www.abc.es/deportes/tenis/dani-merida-salto-mortal-cuartos-montreal-20260809200258-nt.html?utm_source=lootura.com) — 2026-08-09T18:12:02.000Z
-- [Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla](https://okdiario.com/deportes/sinner-tampoco-jugara-cincinnati-sufre-molestias-rodilla-19151075/amp?utm_source=lootura.com) — 2026-08-09T16:20:05.000Z

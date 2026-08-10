@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
 
 Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.
+
+Date: 2026-08-09
+
+### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
+
+La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.
+
+Date: 2026-08-09
+
+### La "guerra trans" alcanza a la WNBA: dos exNBA aspiran a ser elegibles en el "draft" porque se identifican como mujeres
+
+Una de las guerras culturales que se han abierto recientemente en Estados Unidos concierne a las deportistas trans y esa polémica ya ha alcanzado a la NBA femenina . Hace apenas tres semanas, Sophie Cunningham , jugadora de las Indiana Fever, afirmó: «Quiero proteger a las niñas en los vestuarios y a las niñas que prac.
 
 Date: 2026-08-09
 
@@ -56,18 +68,8 @@ Date: 2026-08-08
 
 Date: 2026-08-08
 
-### Montoya: «Hay que ser fiel a los principios de uno mismo y que nadie te calle»
-
-El mundo entero aprendió su apellido gracias a un vídeo de apenas unos minutos. Lo compartieron selecciones de fútbol, programas de televisión y hasta Whoopi Goldberg habló de él en Estados Unidos. Pero reducir a Montoya a aquella carrera por la playa sería quedarse con una parte muy pequeña de la historia. Detrás de e.
-
-Date: 2026-08-08
-
-### Los mejores fondos de inversión de Bolsa de España, Europa y EEUU
-
-Las bolsas viven una auténtica fiesta. Esta semana, la gran mayoría de plazas bursátiles occidentales ha llevado sus cotizaciones a máximos históricos , alentadas por una nueva relajación de las tensiones entre Estados Unidos e Irán, la temporada de resultados empresariales y las menores dudas en torno a la inteligenci.
-
-Date: 2026-08-07
-
 ## Fuentes
 
+- [Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos](https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com) — 2026-08-09T23:25:55.000Z
+- [La "guerra trans" alcanza a la WNBA: dos exNBA aspiran a ser elegibles en el "draft" porque se identifican como mujeres](https://www.larazon.es/deportes/guerra-trans-alcanza-wnba-dos-exnba-aspiran-ser-elegibles-draft-porque-identifican-como-mujeres_202608106a7904caa5690f0473710842.html?utm_source=lootura.com) — 2026-08-09T22:52:58.000Z
 - [El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái](https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T20:00:15.000Z

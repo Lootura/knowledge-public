@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "summary": "The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
       "summary": "Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.",
@@ -59,13 +64,15 @@
       "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
       "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
-      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "url": "https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:05:27.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news
 
 Here’s a look at developments across the Middle East.
+
+Date: 2026-08-09
+
+### How Iran's 'Axis of Resistance' has shaped the war
+
+NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.
 
 Date: 2026-08-09
 
@@ -62,12 +68,7 @@ Oil prices fell on Monday as investors pared geopolitical risk premiums after U.
 
 Date: 2026-08-03
 
-### Trump Calls for Pause on Military Strikes Against Iran
-
-President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.
-
-Date: 2026-08-02
-
 ## Sources
 
+- [How Iran's 'Axis of Resistance' has shaped the war](https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war?utm_source=lootura.com) — 2026-08-09T21:27:11.000Z
 - [Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news](https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com) — 2026-08-09T17:55:18.000Z

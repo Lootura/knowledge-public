@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T16:31:45.156Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"
+
+La fábrica china de coches SAIC Motor ha escogido el puerto de Ferrol para poner su primera planta en España. Existía la posibilidad de que este proyecto se materializara en...
+
+Date: 2026-08-09
 
 ### Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra
 
@@ -62,12 +68,6 @@ El gigante asiático ha intensificado la carrera armamentística global con el d
 
 Date: 2026-08-03
 
-### Telefónica, Orange, Vodafone y otras 'telecos' denuncian que el veto a Huawei costará hasta 64.000 millones
-
-Las telecos europeas, entre las que figuran empresas como Telefónica, Orange, Vodafone, Deutsche Telekom o la suiza-italiana Fastweb han publicado un informe, -a través de la patronal GSMA - en el que denuncian el coste milmillonario de sustituir todos los equipos de tecnología china -principalmente de los fabricantes.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z

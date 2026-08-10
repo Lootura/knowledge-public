@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)](https://www.elconfidencial.com/espana/andalucia/2026-08-09/herida-menor-apunalada-joven-torredonjimeno-jaen-1tna_4403412/?utm_source=lootura.com) — 2026-08-09T11:03:00.000Z
+No public source links.

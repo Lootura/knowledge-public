@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión",
+      "summary": "El Govern del PSC consolida su alianza con ERC y Comuns, pero acumula asignaturas pendientes: Rodalies, Educación, seguridad... Leer.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros",
       "summary": "El Govern de Salvador Illa (PSC) ha gastado más de 210.000 euros en cuatro «jornadas de trabajo», según su propia definición, fuera del Palau de la Generalitat,...",
@@ -55,6 +60,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión",
+      "url": "https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T23:33:33.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

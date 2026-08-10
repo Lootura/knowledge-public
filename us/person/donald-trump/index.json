@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,11 @@
   ],
   "changes": [
     {
+      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
+      "summary": "Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.",
       "summary": "The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.",
       "date": "2026-08-09"
@@ -35,18 +40,8 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
-      "summary": "Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.",
-      "date": "2026-08-09"
-    },
-    {
       "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
       "summary": "Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
-      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.",
       "date": "2026-08-09"
     },
     {
@@ -73,6 +68,11 @@
       "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
       "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
       "date": "2026-08-09"
+    },
+    {
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons. (Image credit: Alex Brandon).",
+      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -81,6 +81,18 @@
       "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T14:57:31.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
+      "url": "https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:56:01.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says",
@@ -92,7 +104,7 @@
       "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
       "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:18:19.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
@@ -123,19 +135,7 @@
       "url": "https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com",
       "publishedAt": "2026-08-09T17:55:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Will Darline Graham face the same fate Pamela Evette did in South Carolina?",
-      "url": "https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T15:00:00.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:00:14.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 15
 }

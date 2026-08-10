@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -40,6 +40,11 @@
       "date": "2026-08-09"
     },
     {
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+      "summary": "La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
       "summary": "\"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos\" Leer.",
       "date": "2026-08-09"
@@ -68,14 +73,15 @@
       "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "summary": "Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Rubio advierte que no habrá \"válvula de escape\" para Cuba: \"No pueden limitarse a esperar\"",
-      "summary": "El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá \"válvula de escape\" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo \"patrocinador\" tras perder a Venezuela. \"L.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+      "url": "https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T23:25:55.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
       "url": "https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com",
@@ -95,5 +101,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -52,4 +52,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»](https://www.abc.es/sociedad/sira-rego-tratara-aprobar-ley-familias-acogedoras-20260809163525-nt.html?utm_source=lootura.com) — 2026-08-09T14:35:47.000Z
+No public source links.

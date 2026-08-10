@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Heatwaves have killed millions. Here’s how scientists tally lives lost
+
+Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
+
+Date: 2026-08-10
 
 ### Heatwaves have killed millions. Here’s how scientists tally lives lost
 
@@ -62,13 +68,6 @@ Red high-temperature warnings remained in effect for much of southern and wester
 
 Date: 2026-08-08
 
-### Heatwaves have killed millions. Here’s how scientists tally lives lost
-
-Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-09T20:29:00.632Z
-- [Europe Braces for Another Heat Wave. Here’s What to Know.](https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com) — 2026-08-09T12:23:03.000Z
+- [Heatwaves have killed millions. Here’s how scientists tally lives lost](https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com) — 2026-08-10T01:28:44.411Z

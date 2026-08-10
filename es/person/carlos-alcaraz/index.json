@@ -8,8 +8,10 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.json",
   "description": "Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
+    "Alcaraz",
+    "Carlos",
     "Carlos Alcaraz Garfia"
   ],
   "changes": [
@@ -19,13 +21,13 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla",
-      "summary": "Jannik Sinner, al igual que Carlos Alcaraz, también ha renunciado a competir en el Masters 1000 de Cincinnati.",
+      "title": "Discovered by Atlas",
+      "summary": "Carlos Alcaraz first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-09"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Carlos Alcaraz first entered the public knowledge record with source-backed evidence.",
+      "title": "Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla",
+      "summary": "Jannik Sinner, al igual que Carlos Alcaraz, también ha renunciado a competir en el Masters 1000 de Cincinnati.",
       "date": "2026-08-09"
     }
   ],
@@ -35,13 +37,7 @@
       "url": "https://www.abc.es/deportes/tenis/dani-merida-salto-mortal-cuartos-montreal-20260809200258-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T18:12:02.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla",
-      "url": "https://okdiario.com/deportes/sinner-tampoco-jugara-cincinnati-sufre-molestias-rodilla-19151075/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T16:20:05.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

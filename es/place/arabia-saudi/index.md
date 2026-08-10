@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países](https://www.larazon.es/internacional/pakistan-afirma-que-controvertida-alianza-defensiva-turquia-arabia-saudi-esta-abierta-otros-paises_202608096a78a6a7a046ad6ebca7d83d.html?utm_source=lootura.com) — 2026-08-09T16:11:23.000Z
+No public source links.

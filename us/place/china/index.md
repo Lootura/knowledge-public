@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support
+
+Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.
+
+Date: 2026-08-10
 
 ### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
 
@@ -62,12 +68,6 @@ At least 146 people are killed and more than 114 injured in a factory explosion 
 
 Date: 2026-08-02
 
-### How China Keeps Tabs on Foreigners
-
-An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.
-
-Date: 2026-08-02
-
 ## Sources
 
-No public source links.
+- [Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support](https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com) — 2026-08-10T00:56:01.000Z

@@ -3,20 +3,20 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
 
-### La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer
-
-La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.
-
-Date: 2026-08-09
-
 ### Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga
 
 Un peatón ha fallecido esta madrugada tras ser atropellado en la A-7 a su paso por la capital malagueña, según ha indicado el servicio de Emergencias 112 Andalucía . Hacia las 00.15 horas, varios conductores alertaron al 112 de la presencia de una persona caminando por la autovía, a la altura del kilómetro 995 en senti.
+
+Date: 2026-08-09
+
+### La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer
+
+La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.
 
 Date: 2026-08-09
 
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer](https://www.elconfidencial.com/espana/andalucia/2026-08-09/audiencia-malaga-suspende-ejecucion-pena-carcel-hombre-reconocio-violo-mujer_4403428/?utm_source=lootura.com) — 2026-08-09T12:22:00.000Z
 - [Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga](https://www.elconfidencial.com/espana/andalucia/2026-08-09/atropello-mortal-a7-malaga-1tna-1tps_4403433/?utm_source=lootura.com) — 2026-08-09T12:43:00.000Z

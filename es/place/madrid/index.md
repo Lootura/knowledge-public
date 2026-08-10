@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -23,6 +23,12 @@ Date: 2026-08-09
 ### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
 
 El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
+
+Date: 2026-08-09
+
+### El Orgullo 2026 dejó en Madrid más de 82 millones de euros
+
+El Orgullo es una de las citas marcadas en rojo en el calendario de eventos de la capital, y «uno de sus principales motores económicos y turísticos», reconoce un informe realizado por el área de Economía del Ayuntamiento de Madrid. De hecho, esta celebración genera un impacto total de 82,7 millones de euros en la ciud.
 
 Date: 2026-08-09
 
@@ -62,15 +68,9 @@ Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niág
 
 Date: 2026-08-08
 
-### El Real Madrid vence al Ferencvaros en el debut de Bernardo Silva
-
-El portugués debuta tras el descanso en un triunfo trabajado de los blancos, que vuelven a encontrar en Arda Güler a su gran motor ofensivo (1-2) Leer.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Italia acusa a España de aplicar controles "inaceptables" a sus viajeros y el Gobierno de Sánchez exige al de Meloni que "reaccione"](https://amp.elmundo.es/espana/2026/08/09/6a783fc9fc6c8345208b458c.html?utm_source=lootura.com) — 2026-08-09T13:02:26.000Z
+- [El Orgullo 2026 dejó en Madrid más de 82 millones de euros](https://www.abc.es/espana/madrid/orgullo-2026-dejo-madrid-millones-euros-20260810182201-nt.html?utm_source=lootura.com) — 2026-08-09T23:49:52.000Z
 - [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z
 - [El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl](https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com) — 2026-08-09T14:05:27.000Z
 - [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

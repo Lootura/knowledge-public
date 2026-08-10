@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### Un mes del mortífero incendio de Los Gallardos: "Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar"
+
+Afectados por el fuego que causó 14 muertos en julio piden mejorar los sistemas de alerta y las rutas de evacuación mientras los pueblos quemados tratan de recuperar la normalidad con secuelas ambientales y, sobre todo, psicológicas Leer.
+
+Date: 2026-08-09
 
 ### El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos
 
@@ -62,12 +68,6 @@ El incendio de Los Gallardos retrasó la toma de posesión de los nuevos conseje
 
 Date: 2026-07-16
 
-### Identificadas todas las víctimas del incendio de Los Gallardos: siete británicos, tres belgas, un francés, un estadounidense y un español
-
-La plaza número 3 de la sección Civil y de Instrucción del Tribunal de Instancia de Vera ha validado este martes la identificación de las trece víctimas mortales del incendio de Los Gallardos (Almería) , una vez cotejadas las muestras de ADN de los tres últimos cuerpos que permanecían pendientes de confirmación. Con el.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Un mes del mortífero incendio de Los Gallardos: "Ya llegará el momento de buscar culpables, ahora lo que queremos es que no vuelva a pasar"](https://www.elmundo.es/andalucia/2026/08/10/6a75e9eee9cf4a092e8b45a7.html?utm_source=lootura.com) — 2026-08-09T23:33:26.000Z

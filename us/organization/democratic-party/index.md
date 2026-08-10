@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -14,15 +14,15 @@ Republicans are trying to hang fringe positions on Democrats but may not be able
 
 Date: 2026-08-09
 
-### Top Democrats simulate election threats as Trump continues assault on voting
-
-Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.
-
-Date: 2026-08-09
-
 ### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
 
 KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.
+
+Date: 2026-08-09
+
+### Top Democrats simulate election threats as Trump continues assault on voting
+
+Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they st.
 
 Date: 2026-08-09
 
@@ -70,7 +70,5 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Can Progressive Democrats Win in the 2026 Midterm Elections?](https://www.today.com/video/can-progressive-democrats-win-in-the-2026-midterm-elections-268002373874?utm_source=lootura.com) — 2026-08-09T12:26:24.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z
 - [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z
-- [Top Democrats simulate election threats as Trump continues assault on voting](https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises?utm_source=lootura.com) — 2026-08-09T12:00:14.000Z

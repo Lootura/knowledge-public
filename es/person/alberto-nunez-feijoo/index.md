@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T12:43:12.607Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
+
+Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
+
+Date: 2026-08-10
 
 ### El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»
 
@@ -62,12 +68,6 @@ El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la 
 
 Date: 2026-08-02
 
-### El PP supera los 807.000 afiliados: Feijóo sumó casi 3.000 nuevos carnets en 2025
-
-El Partido Popular cerró 2025 con 807.792 afiliados, 2.878 más que un año antes, según reflejan las cuentas anuales que la formación ha remitido al Tribunal de Cuentas. Ese incremento consolida la tendencia de crecimiento iniciada tras la llegada de Alberto Núñez Feijóo a la Presidencia del partido en abril de 2022 y s.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z

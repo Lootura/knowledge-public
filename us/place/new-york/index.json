@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Mother, 5-month-old baby killed in New York boat capsize, captain arrested",
+      "summary": "The captain of a boat that overturned in New York Harbor was charged with reckless endangerment. Twelve people were saved, but a mother and her 5-month-old daughter died. Michael George reports.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Woman learns man who attacked her killed a young mother years later",
       "summary": "When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.",
@@ -59,28 +64,23 @@
       "date": "2026-08-09"
     },
     {
+      "title": "Here’s the biggest news you missed this weekend",
+      "summary": "Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Alexandria Ocasio-Cortez says she hasn’t ruled out a potential run for president or Senate in 2028",
+      "summary": "The New York representative said “anything is possible at this juncture” when asked whether she’d thought about running for Senate Minority Leader Chuck Schumer’s seat.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
+      "summary": "US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her eggs and will be sharing the process online. The progressive New York congresswoman, 36, revealed her decision to undergo fertility treatment i.",
+      "date": "2026-08-09"
+    },
+    {
       "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
       "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child",
-      "summary": "A woman and a 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Woman, baby die after vessel overturns in New York Harbor",
-      "summary": "Police say the woman and infant were taken to hospital in critical condition and declared dead on arrival.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
-      "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
-      "summary": "LIV Golf is hosting its New York event at President Donald Trump’s National Golf Club Bedminster. It's the third time that the upstart tour has held an event at one of the president's golf clubs. As was the case at one previous event, President Trump himself was on hand to check things out. TRUMP DRAWS MUCH DIFFERENT R.",
       "date": "2026-08-09"
     }
   ],
@@ -92,10 +92,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Mother, 5-month-old baby killed in New York boat capsize, captain arrested",
+      "url": "https://www.cbsnews.com/video/mother-5-month-old-baby-killed-new-york-boat-capsize-captain-arrested/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Woman, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
       "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com",
       "publishedAt": "2026-08-09T19:38:25.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
@@ -104,17 +116,29 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Alexandria Ocasio-Cortez says she hasn’t ruled out a potential run for president or Senate in 2028",
+      "url": "https://www.nbcnews.com/politics/2028-election/alexandria-ocasio-cortez-potential-run-president-senate-rcna591590?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T18:48:52.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
       "url": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T16:00:01.000Z",
       "sourceId": "lootura-us-phys-org"
     },
     {
+      "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:06:49.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
       "url": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:35:19.000Z",
+      "publishedAt": "2026-08-09T14:35:20.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 9
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
+
+Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
+
+Date: 2026-08-10
 
 ### Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»
 
@@ -62,12 +68,6 @@ El líder de Vox, Santiago Abascal , ha calificado este domingo la invasión de 
 
 Date: 2026-08-02
 
-### Abascal vincula los incendios con el «fanatismo climático» y la «corrupción» del Gobierno
-
-El líder de Vox , Santiago Abascal , ha vinculado este sábado los «desastres repetidos» que han afectado a España en los últimos meses, como los actuales incendios forestales , con la «corrupción», el «fanatismo climático» y la «mafia» del Gobierno de Pedro Sánchez . «Los desastres repetidos en España no son solo accid.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z

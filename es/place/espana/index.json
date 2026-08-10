@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,23 +17,13 @@
   ],
   "changes": [
     {
-      "title": "Muere Rafael Pablo Romero, padre de la actriz Blanca Romero",
-      "summary": "El padre de Blanca Romero, Rafael Pablo Romero , ha fallecido este domingo en Asturias a los 81 años de edad, tal y como informa 'La Nueva España'. El abuelo de Lucía Rivera era muy conocido en Gijón, de donde es la familia, por su conexión con el mundo del toreo. Ya en octubre la actriz había desvelado que su progenit.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
-      "summary": "«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese calibre, el jefe del Ejecutivo, refugiado en La Mareta, no conv.",
-      "date": "2026-08-09"
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
+      "date": "2026-08-10"
     },
     {
       "title": "El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno",
       "summary": "Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Un francés explica por qué sigue viviendo en España pese a pagar cientos de miles más en impuestos",
-      "summary": "Vivir en España puede resultar más atractivo que hacerlo en Francia incluso para quienes tienen que asumir una factura fiscal considerablemente mayor. Así lo defiende un ciudadano francés durante una conversación televisiva con el comunicador Anthony Bourbon , en la que explica las razones por las que ha decidido mante.",
       "date": "2026-08-09"
     },
     {
@@ -65,6 +55,16 @@
       "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
       "summary": "Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.",
       "date": "2026-08-09"
+    },
+    {
+      "title": "Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»",
+      "summary": "Más de 15.000 ceutíes se han concentrado para pedir «respuestas» a España y Europa tras la crisis migratoria.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: \"Son su cordón umbilical\"",
+      "summary": "Rabat necesita la interconexión submarina con España para estabilizar un sistema eléctrico sobre el que descansa la política económica de Mohamed VI Leer.",
+      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -75,15 +75,9 @@
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Muere Rafael Pablo Romero, padre de la actriz Blanca Romero",
-      "url": "https://www.abc.es/gente/muere-rafael-pablo-romero-padre-actriz-blanca-20260809164348-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:43:48.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
-      "url": "https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T15:21:19.000Z",
+      "title": "Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»",
+      "url": "https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T18:54:51.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -95,7 +89,19 @@
     {
       "title": "Ceuta clama \"Basta ya\" y exige respuestas a España y Europa",
       "url": "https://www.elmundo.es/espana/2026/08/09/6a78d34ae85eced91b8b456e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T19:40:54.000Z",
+      "publishedAt": "2026-08-09T19:50:19.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: \"Son su cordón umbilical\"",
+      "url": "https://www.elmundo.es/economia/empresas/2026/08/09/6a71fda6e85ecee01b8b4583.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T20:35:26.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: \"Es una amenaza\"",
+      "url": "https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T20:36:09.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -117,17 +123,11 @@
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Un francés explica por qué sigue viviendo en España pese a pagar cientos de miles más en impuestos",
-      "url": "https://www.larazon.es/actualidad/frances-explica-que-sigue-viviendo-espana-pese-pagar-cientos-miles-mas-impuestos-b50m_202608096a78a8ac71b42a0b5de5f180.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T16:19:56.000Z",
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "url": "https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:00:18.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
-      "url": "https://theobjective.com/internacional/2026-08-09/venezuela-agradece-espana-ayudar-seismos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T17:03:43.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 13
 }

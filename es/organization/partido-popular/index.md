@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
+
+Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
+
+Date: 2026-08-10
+
+### La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos
+
+La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.
+
+Date: 2026-08-10
 
 ### El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno
 
@@ -56,19 +68,9 @@ Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y recl
 
 Date: 2026-08-07
 
-### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
-
-La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
-
-Date: 2026-08-07
-
-### Los menores de Ceuta no son ilegales
-
-Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.
-
-Date: 2026-08-07
-
 ## Fuentes
 
 - [El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno](https://www.elconfidencial.com/espana/2026-08-09/pp-junts-reforma-ley-extranjeria-gobierno-ceuta_4400301/?utm_source=lootura.com) — 2026-08-09T13:47:00.000Z
 - [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z
+- [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z
+- [La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos](https://www.larazon.es/espana/izquierda-hunde-psoe-sumar-podemos-llegan-35-votos_202608106a789283a046ad6ebca7bf9c.html?utm_source=lootura.com) — 2026-08-10T00:00:21.000Z

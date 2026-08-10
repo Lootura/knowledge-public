@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T16:31:45.156Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -69,6 +69,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trocear el problema y controlar los tiempos: así es la táctica de Irán que exaspera a Trump",
+      "url": "https://www.larazon.es/internacional/trocear-problema-controlar-tiempos-asi-tactica-iran-que-exaspera-trump_202608106a792907a5690f0473713b6c.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-10T01:27:35.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

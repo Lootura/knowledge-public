@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Naturaleza bajo cuidados intensivos",
+      "summary": "El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos árboles que, por su edad o tamaño, requieren más atención.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Noticias de otra plaga",
       "summary": "La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: es otra plaza de San Sebastián, propicia a los niños y los ancianos como las demás, pero de cuya pavimentación no se ocupa el Ayuntamiento sino el Cantábrico . Es una playa que se recoge en torno a sí misma como si no quisiera desafiar a nadie.",
@@ -64,18 +69,13 @@
       "title": "El exótico cliente de la Parte Vieja de San Sebastián: un guacamayo se va de pintxos por sus bares",
       "summary": "El ave de más de un kilo de peso pertenece a un colectivo de Madrid que promueve el adiestramiento y el vuelo libre de aves en espacios abiertos.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "La llegada masiva de carabelas portuguesas deja un centenar de picaduras leves en un día en las playas de Donostia",
-      "summary": "Desde el Ayuntamiento hacen un llamamiento a la calma y aseguran que «el número de asistencias que se registró fue reducido en relación con el elevado volumen de bañistas», 3.000 ayer en las tres playas.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
-      "url": "https://www.diariovasco.com/politica/dar-seguridad-gente-girar-derecha-defender-vida-20260809000102-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-08T22:01:02.000Z",
+      "title": "Naturaleza bajo cuidados intensivos",
+      "url": "https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:04:19.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],

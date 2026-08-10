@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.json",
   "description": "Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "B.C.",
     "BC",
@@ -16,6 +16,16 @@
     "Province of British Columbia"
   ],
   "changes": [
+    {
+      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+      "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+      "summary": "British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
       "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
@@ -44,16 +54,16 @@
   ],
   "sources": [
     {
-      "title": "Wildfires in western Canada forces more than 20,000 people to evacuate",
-      "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T03:46:37.000Z",
+      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+      "url": "https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:43:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-      "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T11:31:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+      "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:47:40.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 2

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -17,6 +17,11 @@
     {
       "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
       "summary": "Here’s a look at developments across the Middle East.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "How Iran's 'Axis of Resistance' has shaped the war",
+      "summary": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
       "date": "2026-08-09"
     },
     {
@@ -58,14 +63,15 @@
       "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
       "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Trump Calls for Pause on Military Strikes Against Iran",
-      "summary": "President Donald Trump has called for a pause on military strikes against Iran after he says Iran and other countries in the Middle East asking him to “hold off.” The president said that he agreed to cancel attacks “subject to being able to rapidly make a DEAL.” NBC’s Julie Tsirkin reports for Sunday TODAY.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
+    {
+      "title": "How Iran's 'Axis of Resistance' has shaped the war",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T21:27:11.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
     {
       "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
       "url": "https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

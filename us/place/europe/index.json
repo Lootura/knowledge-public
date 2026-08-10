@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
@@ -58,26 +63,15 @@
       "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
       "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T20:29:00.632Z",
+      "publishedAt": "2026-08-10T01:28:44.411Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
-      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T12:23:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

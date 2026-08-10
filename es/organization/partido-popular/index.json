@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T20:28:37.928Z",
+  "updatedAt": "2026-08-10T01:28:14.997Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos",
+      "summary": "La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno",
       "summary": "Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.",
@@ -53,16 +63,6 @@
       "title": "El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene",
       "summary": "Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y reclama también la de Bolaños después de que el Ejecutivo anunciara su presencia en el Congreso a finales de agosto.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó",
-      "summary": "La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Los menores de Ceuta no son ilegales",
-      "summary": "Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
@@ -77,7 +77,19 @@
       "url": "https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T20:13:46.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+      "url": "https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:00:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos",
+      "url": "https://www.larazon.es/espana/izquierda-hunde-psoe-sumar-podemos-llegan-35-votos_202608106a789283a046ad6ebca7bf9c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:00:21.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

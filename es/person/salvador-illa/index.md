@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-08-10T01:28:14.997Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión
+
+El Govern del PSC consolida su alianza con ERC y Comuns, pero acumula asignaturas pendientes: Rodalies, Educación, seguridad... Leer.
+
+Date: 2026-08-09
 
 ### Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros
 
@@ -58,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión](https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html?utm_source=lootura.com) — 2026-08-09T23:33:33.000Z

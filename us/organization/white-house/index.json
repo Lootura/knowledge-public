@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,18 @@
   ],
   "changes": [
     {
-      "title": "Pregnant woman in hiding as White House ends deportation protections for Haitian migrants",
-      "summary": "In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.",
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
       "date": "2026-08-09"
     },
     {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
+      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
+      "summary": "He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Pregnant woman in hiding as White House ends deportation protections for Haitian migrants",
+      "summary": "In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.",
       "date": "2026-08-09"
     },
     {
@@ -62,25 +67,20 @@
       "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
       "summary": "The White House emphasized that President Trump was not in danger during the incident.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
-    {
-      "title": "Pregnant woman in hiding as White House ends deportation protections for Haitian migrants",
-      "url": "https://www.cbsnews.com/video/pregnant-haitian-woman-hides-as-tps-ends/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T01:06:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
       "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com",
       "publishedAt": "2026-08-09T14:33:46.000Z",
       "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
+      "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:52:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

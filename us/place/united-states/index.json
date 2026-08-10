@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T20:28:56.631Z",
+  "updatedAt": "2026-08-10T01:28:39.546Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,9 +35,24 @@
   ],
   "changes": [
     {
-      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
-      "summary": "Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.",
-      "date": "2026-08-09"
+      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed",
+      "summary": "Iran's Revolutionary Guard insisted that the Strait of Hormuz will remain closed until the U.S. complies with a list of demands, including paying for war damage. Imtiaz Tyab reports on the latest in a series of mixed messages from the regime.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+      "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Daily fragment: 2020 Midwest derecho",
+      "summary": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.",
+      "date": "2026-08-10"
     },
     {
       "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
@@ -55,48 +70,57 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).",
+      "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
+      "summary": "Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz. The demands require the United States to never threat or insult Iran, withdraw military forces and compensate for damages during the war. NBC’s Keir Simmons reports for.",
       "date": "2026-08-09"
     },
     {
-      "title": "Inside the War on Hezbollah’s Finances",
-      "summary": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.",
+      "title": "Crews battle wildfires in western U.S. and Canada",
+      "summary": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).",
       "date": "2026-08-09"
     },
     {
-      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\".",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America",
-      "summary": "Saturday in Chicago, once again, showcased the harsh reality that the opposition to Indiana Fever guard Sophie Cunningham is rooted in hate, intolerance, and delusion. While dozens of calm and cordial Cunningham supporters rallied outside of the United Center, they were met by a group of mask-wearing, sign-holding, pro.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Solar eclipse to occur next week. Here is what to know",
-      "summary": "It will be visible in parts of the U.S. on Wednesday. (Image credit: Edward M. Pio Roda).",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Dems stand by Maine nominee hit with report he fathered children with his second cousin",
-      "summary": "Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.",
+      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
+      "summary": "He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.",
       "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District",
-      "url": "https://www.cbsnews.com/news/ed-case-hawaii-1st-congressional-district-jarrett-keohokalole/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T11:09:20.000Z",
+      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed",
+      "url": "https://www.cbsnews.com/video/iranian-leaders-demand-us-pay-war-damage-keep-strait-of-hormuz-closed/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:47:00.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+      "url": "https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T00:43:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T01:23:35.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Daily fragment: 2020 Midwest derecho",
+      "url": "https://en.wikipedia.org/wiki/2020_Midwest_derecho?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
     },
     {
       "title": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
       "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:18:19.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Crews battle wildfires in western U.S. and Canada",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T22:03:09.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
@@ -111,11 +135,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
+      "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:52:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
       "url": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:47:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 11
 }

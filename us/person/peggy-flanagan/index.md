@@ -3,7 +3,7 @@
 > Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T20:28:56.631Z
+- Updated: 2026-08-10T01:28:39.546Z
 - Canonical: https://atlas.lootura.com/us/person/peggy-flanagan
 
 ## Recent changes

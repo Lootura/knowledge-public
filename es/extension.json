@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T20:42:37.306Z",
+  "generatedAt": "2026-08-10T01:42:16.149Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|105|1786307317928",
+    "signature": "1.18.0|106|1786325294997",
     "version": "1.18.0",
-    "build": 105,
-    "latestEntityUpdatedAt": "2026-08-09T20:28:37.928Z"
+    "build": 106,
+    "latestEntityUpdatedAt": "2026-08-10T01:28:14.997Z"
   },
   "atlas": {
     "hero": {
       "id": "es-espana",
       "name": "España",
       "type": "place",
-      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
+      "title": "Ceuta clama \"Basta ya\" y exige respuestas a España y Europa",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-08-09T20:28:37.928Z",
-      "score": 1683,
-      "sourceCount": 963,
+      "updatedAt": "2026-08-10T01:28:14.997Z",
+      "score": 1664,
+      "sourceCount": 968,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-09T20:28:37.928Z",
-        "score": 1680,
-        "sourceCount": 347,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-los-angeles",
         "name": "Los Ángeles",
@@ -47,9 +34,22 @@
         "title": "Nuevas evacuaciones por los incendios: Los Ángeles de San Rafael y Vegas de Matute (Segovia), y Catí (Castellón)",
         "url": "https://atlas.lootura.com/es/place/los-angeles",
         "path": "/es/place/los-angeles",
-        "updatedAt": "2026-08-09T20:28:37.928Z",
-        "score": 1670,
+        "updatedAt": "2026-08-10T01:28:14.997Z",
+        "score": 1662,
         "sourceCount": 4,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-10T01:28:14.997Z",
+        "score": 1661,
+        "sourceCount": 349,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,22 +60,22 @@
         "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-09T20:28:37.928Z",
+        "updatedAt": "2026-08-10T01:28:14.997Z",
         "score": 1628,
-        "sourceCount": 195,
+        "sourceCount": 196,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-antonio-sanz",
-        "name": "Antonio Sanz",
-        "type": "person",
-        "title": "Aumentan los desalojados por el incendio forestal en Niebla (Huelva)",
-        "url": "https://atlas.lootura.com/es/person/antonio-sanz",
-        "path": "/es/person/antonio-sanz",
-        "updatedAt": "2026-08-09T20:28:37.928Z",
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-08-10T01:28:14.997Z",
         "score": 1624,
-        "sourceCount": 4,
+        "sourceCount": 234,
         "isBreaking": false,
         "isPinned": false
       }
