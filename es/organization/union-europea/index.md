@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [En defensa del espacio Schengen](https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z

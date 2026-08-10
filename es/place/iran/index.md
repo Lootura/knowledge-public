@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán
+
+El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia energética. De momento, es un pequeño primer paso: la elaboración de un estudio de viabilidad para construir la primera refinería de petróleo en Australia y en el Pacífico Sur desde 1960. El proyecto supone un volantazo tras décadas de confia.
+
+Date: 2026-08-10
+
+### Un Gobierno en emergencia permanente
+
+Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
 
 ### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
 
@@ -56,18 +68,7 @@ El Ibex 35 ha marcado su cuarto máximo histórico consecutivo al cerrar este ju
 
 Date: 2026-08-07
 
-### El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz
-
-La apertura del estrecho de Ormuz y la recuperación del tráfico marítimo se han convertido en la brújula de los mercados. Las noticias sobre las conversaciones entre Omán e Irán para la apertura de este enclave con una nueva ruta de navegación permiten a las Bolsas europeas prolongar las subidas y al Ibex 35 alcanzar n.
-
-Date: 2026-08-06
-
-### El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán
-
-La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Trocear el problema y controlar los tiempos: así es la táctica de Irán que exaspera a Trump](https://www.larazon.es/internacional/trocear-problema-controlar-tiempos-asi-tactica-iran-que-exaspera-trump_202608106a792907a5690f0473713b6c.html?outputType=amp&utm_source=lootura.com) — 2026-08-10T01:27:35.000Z
+- [Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán](https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html?utm_source=lootura.com) — 2026-08-10T03:45:00.000Z
+- [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

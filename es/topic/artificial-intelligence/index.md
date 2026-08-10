@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Está confirmado por el Gobierno y ya es oficial: en septiembre comienza en España el Servicio Militar para los nacidos en el año 2008](https://okdiario.com/sociedad/confirmado-gobierno-ya-oficial-despues-septiembre-comienza-espana-servicio-militar-nacidos-ano-2008-16754764?utm_source=lootura.com) — 2026-08-09T18:57:33.000Z
+- [Así son las nuevas oficinas para trabajadores quemados por la IA](https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html?utm_source=lootura.com) — 2026-08-10T03:30:00.000Z

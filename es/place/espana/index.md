@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,17 +14,53 @@ Alberto Núñez Feijóo consolida su posición como el dirigente político mejor
 
 Date: 2026-08-10
 
-### El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno
+### Carlos Sobera: «El viaje se hace eterno si no eliges bien a tus compañeros»
 
-Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.
+No sabemos si Astrud pensaba en Carlos Sobera cuando escribió la canción ' Hay un hombre en España que lo hace todo ', pero parecería una teoría verosímil al ver que el comunicador es capaz de compaginar su trabajo como presentador de distintos formatos en dos cadenas de televisión con el de actor de teatro al frente d.
 
-Date: 2026-08-09
+Date: 2026-08-10
 
-### El origen español del 'Girl Power' de las Spice Girls: una saga de mujeres marcada por el franquismo
+### Cuánto dinero cobra un peón de albañil en España: sueldo base según el convenio de la construcción
 
-Antes de ser Ginger Spice. Antes de Wannabe . Antes incluso de que cinco chicas cambiaran para siempre la música pop, hubo una historia que Geri Halliwell nunca llegó a contar completa. Una historia de amor, guerra, cárcel, represión y supervivencia que comienza en España y termina, varias generaciones después, en una.
+España necesita vivienda . Es una de las principales conclusiones de los análisis sobre el precio de la vivienda en nuestro país que hacen numerosos economistas .EL mercado está cada vez más tensionados. Ante la gran demanda existente hay poca oferta y eso, entre otros factores, repercute en los precios . Así, son much.
 
-Date: 2026-08-09
+Date: 2026-08-10
+
+### Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos
+
+Si todos los trámites burocráticos siguen el cauce habitual, la inmobiliaria Merlin Properties podría contar ya este septiembre con la licencia de obras para iniciar la primera fase del que será su mayor centro de datos y el mayor proyectado en España por cualquier operador. Se trata de la infraestructura que esta soci.
+
+Date: 2026-08-10
+
+### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
+
+Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
+
+Date: 2026-08-10
+
+### ¿Te han despedido sin carta de despido en 2026? Esto dice la ley y así puedes reclamar la improcedencia
+
+Los despidos que terminan en los juzgados atraviesan un momento especialmente intenso en España. Durante el primer trimestre de 2026 se presentaron 42.572 demandas por despido en los juzgados de lo Social, un 3,5% más que en el mismo periodo de 2025 y la cifra más alta de la serie histórica, que comienza en 2007. El da.
+
+Date: 2026-08-10
+
+### El eclipse desata el FOMO: por tierra, mar y aire
+
+El FOMO ( fear of missing out o miedo a perderse algo) está disparando la expectación, ya de por sí enorme, por ver el eclipse solar total de pasado mañana, el primero que se puede disfrutar en España en un siglo. Aunque era previsible que sucediera, preocupa a las autoridades y gestores públicos porque podría favorece.
+
+Date: 2026-08-10
+
+### Sánchez y su banda mora
+
+El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.
+
+Date: 2026-08-10
+
+### Cataluña concentró el 45% de los atracos a bancos registrados en España durante 2025
+
+Cataluña concentró durante 2025 el 45% de los robos con violencia o intimidación registrados en bancos en España , según los datos facilitados por el Ministerio del Interior tras una petición realizada al amparo de la Ley de Transparencia, a los que ha tenido acceso THE OBJECTIVE . La comunidad contabilizó 65 de los 14.
+
+Date: 2026-08-10
 
 ### Ceuta clama "Basta ya" y exige respuestas a España y Europa
 
@@ -32,51 +68,15 @@ La manifestación ha sido planteada desde el principio como una expresión de un
 
 Date: 2026-08-09
 
-### “Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión
-
-“Ceuta no se vende. Ceuta es España”. El grito retumba en la plaza de la Constitución, abarrotada de banderas españolas y ceutíes y de miles de manifestantes. Diez días de tensión tras la entrada masiva desde Marruecos de más de 70.000 personas en la ciudad desembocan este domingo en este rincón ceutí, donde el malesta.
-
-Date: 2026-08-09
-
-### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
-
-Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.
-
-Date: 2026-08-09
-
-### Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"
-
-El eclipse solar que podrá verse desde España el próximo 12 de agosto ya empieza a generar expectación, aunque también cierta preocupación entre quienes quieren disfrutar del fenómeno astronómico. Uno de ellos es Ibai Llanos , que ha reconocido en redes sociales que toda la información sobre las precauciones necesarias.
-
-Date: 2026-08-09
-
-### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
-
-Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.
-
-Date: 2026-08-09
-
-### Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»
-
-Más de 15.000 ceutíes se han concentrado para pedir «respuestas» a España y Europa tras la crisis migratoria.
-
-Date: 2026-08-09
-
-### Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: "Son su cordón umbilical"
-
-Rabat necesita la interconexión submarina con España para estabilizar un sistema eléctrico sobre el que descansa la política económica de Mohamed VI Leer.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [El origen español del 'Girl Power' de las Spice Girls: una saga de mujeres marcada por el franquismo](https://www.20minutos.es/musica/origen-espanol-girl-power-las-spice-girls-una-saga-mujeres-marcada-por-franquismo_7024020_0.html?utm_source=lootura.com) — 2026-08-09T16:49:51.000Z
-- [Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»](https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html?utm_source=lootura.com) — 2026-08-09T18:54:51.000Z
-- [El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno](https://www.elconfidencial.com/espana/2026-08-09/pp-junts-reforma-ley-extranjeria-gobierno-ceuta_4400301/?utm_source=lootura.com) — 2026-08-09T13:47:00.000Z
+- [Carlos Sobera: «El viaje se hace eterno si no eliges bien a tus compañeros»](https://www.abc.es/gente/carlos-sobera-viaje-eterno-eliges-bien-tus-20260803010209-nt.html?utm_source=lootura.com) — 2026-08-10T04:56:27.000Z
+- [Cuánto dinero cobra un peón de albañil en España: sueldo base según el convenio de la construcción](https://www.abc.es/economia/dinero-cobra-peon-albanil-espana-2026-sueldo-20260810060000-nt.html?utm_source=lootura.com) — 2026-08-10T04:55:24.000Z
+- [Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos](https://cincodias.elpais.com/companias/2026-08-10/merlin-arrancara-este-otono-en-extremadura-las-obras-de-su-mayor-centro-de-datos.html?utm_source=lootura.com) — 2026-08-10T03:15:00.000Z
 - [Ceuta clama "Basta ya" y exige respuestas a España y Europa](https://www.elmundo.es/espana/2026/08/09/6a78d34ae85eced91b8b456e.html?utm_source=lootura.com) — 2026-08-09T19:50:19.000Z
 - [Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: "Son su cordón umbilical"](https://www.elmundo.es/economia/empresas/2026/08/09/6a71fda6e85ecee01b8b4583.html?utm_source=lootura.com) — 2026-08-09T20:35:26.000Z
 - [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z
 - [“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión](https://elpais.com/espana/2026-08-09/ceuta-no-se-vende-la-ciudad-se-echa-a-la-calle-tras-diez-dias-de-tension.html?utm_source=lootura.com) — 2026-08-09T19:42:01.000Z
-- [El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái](https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T20:00:15.000Z
-- [Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"](https://www.larazon.es/actualidad/ibai-llanos-bromea-miedo-eclipse-solar-que-llegara-espana-cagado-b50m_202608096a78d8c9a046ad6ebca826d1.html?utm_source=lootura.com) — 2026-08-09T19:45:13.000Z
-- [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z
+- [España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse](https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [España tiene casi 8 millones de viviendas no principales, un 30% del total](https://www.eldiario.es/economia/espana-8-millones-viviendas-no-principales-30-total_1_13371525.html?utm_source=lootura.com) — 2026-08-09T20:04:53.000Z
+- [Meloni denuncia la regularización en España mientras llama a miles de trabajadores migrantes para Italia con un programa disfuncional](https://www.eldiario.es/internacional/meloni-denuncia-regularizacion-espana-llama-miles-trabajadores-migrantes-italia-programa-disfuncional_1_13434995.html?utm_source=lootura.com) — 2026-08-09T20:04:53.000Z

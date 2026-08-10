@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Sánchez y su banda mora
+
+El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.
+
+Date: 2026-08-10
 
 ### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
 
@@ -62,12 +68,6 @@ Europa también pone en cuestión las políticas de Pedro Sánchez para hacer fr
 
 Date: 2026-08-04
 
-### ¡Al fin! Es la hora de la verdad
-
-Por fin se ha declarado la Emergencia de Interés Nacional, en este caso la emergencia la dirige el Ministro del Interior y el General Jefe de la UME toma el mando operativo. Esto significa que el Gobierno de España entra de cabeza para tratar de resolver una emergencia grave que afecta a varias comunidades o es de extr.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Italia ve "desproporcionada" la reacción de Sánchez a sus controles](https://www.expansion.com/economia/2026/08/09/6a78d485468aeb184a8b4581.html?utm_source=lootura.com) — 2026-08-09T19:31:20.000Z
+- [Sánchez y su banda mora](https://theobjective.com/elsubjetivo/opinion/2026-08-10/sanchez-banda-mora-articulo-roman-cendoya/?utm_source=lootura.com) — 2026-08-10T03:25:00.000Z

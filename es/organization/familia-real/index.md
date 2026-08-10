@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Un vestido para todas: la Infanta hereda de su madre y su hermana](https://www.abc.es/estilo/moda/vestido-infanta-sofia-hereda-madre-hermana-traje-20260809123303-nt.html?utm_source=lootura.com) — 2026-08-09T17:45:01.000Z
+No public source links.

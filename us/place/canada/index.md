@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-08-10
 
 ### Wildfires in western Canada force more than 20,000 people to evacuate
 
-British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
+The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.
 
 Date: 2026-08-10
 
@@ -71,5 +71,5 @@ Date: 2026-08-06
 ## Sources
 
 - [Fires grip western U.S., British Columbia: "It doesn't seem like it's real"](https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com) — 2026-08-10T00:43:00.000Z
-- [Wildfires in western Canada force more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-10T00:47:40.000Z
+- [Wildfires in western Canada force more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-10T03:36:59.000Z
 - [Crews battle wildfires in western U.S. and Canada](https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com) — 2026-08-09T22:03:09.000Z

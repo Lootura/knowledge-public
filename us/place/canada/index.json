@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "CA",
     "CAN",
@@ -22,7 +22,7 @@
     },
     {
       "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
-      "summary": "British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.",
+      "summary": "The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.",
       "date": "2026-08-10"
     },
     {
@@ -76,7 +76,7 @@
     {
       "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
       "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T00:47:40.000Z",
+      "publishedAt": "2026-08-10T03:36:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

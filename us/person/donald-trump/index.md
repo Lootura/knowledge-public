@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -14,15 +14,15 @@ Taiwan continued its 10-day war games this weekend, preparing for a potential in
 
 Date: 2026-08-10
 
+### Trump says oil supermajors are making too much money. What will they do with it?
+
+The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”.
+
+Date: 2026-08-10
+
 ### It Won’t Stop at the Arc de Trump. It Won’t Stop at Washington.
 
 The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.
-
-Date: 2026-08-09
-
-### Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says
-
-Israel will not accept the 15-point plan for Gaza set out by President Donald Trump’s Board of Peace, Prime Minister Benjamin Netanyahu said Sunday.
 
 Date: 2026-08-09
 
@@ -56,15 +56,15 @@ South Carolina Republicans might be watching history repeat itself. A special el
 
 Date: 2026-08-09
 
-### Taylor Swift songs removed from Trump and White House’s social media posts
-
-Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.
-
-Date: 2026-08-09
-
 ### Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first
 
 Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a "historic" agreement with Hamas to give up its weapons. (Image credit: Alex Brandon).
+
+Date: 2026-08-09
+
+### Trump's immigration crackdown looms over Minnesota's bruising Senate primary
+
+Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.
 
 Date: 2026-08-09
 
@@ -72,8 +72,8 @@ Date: 2026-08-09
 
 - [Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms](https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/?utm_source=lootura.com) — 2026-08-09T14:57:31.000Z
 - [Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support](https://www.cbsnews.com/video/taiwan-practices-war-games-fears-increasing-chinese-aggression-questions-trumps-support/?utm_source=lootura.com) — 2026-08-10T00:56:01.000Z
+- [Trump says oil supermajors are making too much money. What will they do with it?](https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html?utm_source=lootura.com) — 2026-08-10T05:00:02.000Z
 - [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443?utm_source=lootura.com) — 2026-08-09T22:00:00.000Z
-- [Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says](https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555?utm_source=lootura.com) — 2026-08-09T11:26:09.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Haunted by Hoover, Trump searches for an endgame in Iran](https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com) — 2026-08-09T12:39:47.000Z
 - [Politics chat: Progressive candidates in primaries, Trump's influence on midterms](https://www.npr.org/2026/08/09/nx-s1-5925106/politics-chat-progressive-candidates-in-primaries-trumps-influence-on-midterms?utm_source=lootura.com) — 2026-08-09T12:12:20.000Z

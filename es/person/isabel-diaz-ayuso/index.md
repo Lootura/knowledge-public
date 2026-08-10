@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z
+No public source links.

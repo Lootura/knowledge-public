@@ -3,7 +3,7 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
@@ -46,5 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'](https://www.foxnews.com/media/alexandria-ocasio-cortez-shrugs-off-past-defund-police-comments-joking-woke-1-crazy?utm_source=lootura.com) — 2026-08-10T00:56:11.000Z
 - [Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday](https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com) — 2026-08-09T15:02:13.000Z

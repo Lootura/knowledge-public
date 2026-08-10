@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -71,5 +71,3 @@ Date: 2026-08-07
 ## Fuentes
 
 - [La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos](https://www.larazon.es/espana/izquierda-hunde-psoe-sumar-podemos-llegan-35-votos_202608106a789283a046ad6ebca7bf9c.html?utm_source=lootura.com) — 2026-08-10T00:00:21.000Z
-- [El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»](https://theobjective.com/espana/politica/2026-08-09/psoe-denuncia-vox-llamar-sanchez-capo-de-la-mafia-corrupta/?utm_source=lootura.com) — 2026-08-09T16:46:10.000Z
-- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

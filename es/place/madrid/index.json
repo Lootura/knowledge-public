@@ -8,17 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T05:23:47.929Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
-      "summary": "El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.",
-      "date": "2026-08-09"
+      "title": "El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid",
+      "summary": "Apoyado únicamente sobre una pezuña, un monumental corcel suspendido en el aire capta las miradas de los transeuntes, transformando este enclave urbano en un improvisado escenario de reflexión sobre la incertidumbre actual.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
+      "summary": "Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.",
+      "date": "2026-08-10"
     },
     {
       "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
       "summary": "Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí",
+      "summary": "Por qué la Comunidad eligió un piso que no podía convertirse en oficina para el traslado desde Sol, cómo se decidió su ubicación o qué informes previos se emitieron antes del desembolso son algunas de las dudas sin respuesta. El Gobierno regional cree que las respuestas están \"sobradamente dadas\" La Comunidad de Madrid.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
+      "summary": "El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.",
       "date": "2026-08-09"
     },
     {
@@ -45,47 +60,32 @@
       "title": "Un agosto lleno de arte: estas son las exposiciones que no cierran por vacaciones",
       "summary": "Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también puede ser un buen momento para entregarse al arte. Mientras algunos espacios culturales bajan la persiana durante el verano, otros mantienen sus puertas abiertas con exposiciones que merecen una visita. De Madrid a otras grandes ciudades, estas.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea",
-      "summary": "En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)",
-      "summary": "Un hombre de 61 años ha fallecido en la madrugada de este domingo en la explosión y posterior incendio registrados en un semisótano de un bloque de viviendas situado en la calle Hacienda de Pavones, en el distrito madrileño de Moratalaz , ha informado el 112 de esta comunidad autónoma. La explosión se ha registrado en.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
-      "summary": "Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "El Orgullo 2026 dejó en Madrid más de 82 millones de euros",
-      "url": "https://www.abc.es/espana/madrid/orgullo-2026-dejo-madrid-millones-euros-20260810182201-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T23:49:52.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-10/nuevo-icono-madrid-caballo-bronce-centrica-plaza-madrid-desafiando-gravedad_4402867/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T03:45:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí",
+      "url": "https://www.eldiario.es/madrid/somos/incognitas-responder-atico-compro-gobierno-ayuso-chamberi_1_13431130.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T20:04:51.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora",
       "url": "https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T19:59:10.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl",
-      "url": "https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:05:27.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
-      "url": "https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T18:15:07.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 4

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "startup funding"
   ],
@@ -38,7 +38,7 @@
     {
       "title": "Scientists up in arms about cuts to UK physics and astronomy",
       "url": "https://www.nature.com/articles/d41586-026-02460-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T01:28:44.411Z",
+      "publishedAt": "2026-08-10T05:24:13.998Z",
       "sourceId": "lootura-us-nature"
     }
   ],

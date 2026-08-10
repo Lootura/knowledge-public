@@ -3,10 +3,16 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía
+
+Con el arranque de la semana, muchos serán los coches que se muevan por las carreteras andaluzas ya sea para un desplazamiento vacacional o porque estás trabajando durante el mes de agosto, de modo que será bueno saber qué marca hoy el Geoportal del Ministerio para la Transición Ecológica en cuanto al precio de la gaso.
+
+Date: 2026-08-10
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país](https://theobjective.com/espana/2026-08-09/gobierno-maxima-precaucion-eclipse-riesgo-incendios/?amp=&utm_source=lootura.com) — 2026-08-09T16:10:51.000Z
+- [Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía](https://okdiario.com/andalucia/precio-gasolina-hoy-10-agosto-localiza-gasolineras-mas-baratas-sevilla-cadiz-otras-ciudades-andalucia-19121028?utm_source=lootura.com) — 2026-08-10T05:00:10.000Z

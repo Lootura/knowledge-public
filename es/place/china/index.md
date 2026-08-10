@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI
+
+La Conselleria de Economía e Industria de Galicia, Marísa Jesús Lorenzana, lo ha calificado como “el mayor proyecto internacional que llegó a Galicia en las últimas décadas”. Se trata de l a construcción en Ferrol (A Coruña) de la primera planta en Europa del mayor fabricante de vehículos eléctricos de China, SAIC Moto.
+
+Date: 2026-08-10
 
 ### Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"
 
@@ -62,12 +68,7 @@ Las primeras rocas recogidas en la cara oculta de la Luna están obligando a rev
 
 Date: 2026-08-04
 
-### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
-
-El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"](https://amp.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html?utm_source=lootura.com) — 2026-08-09T20:36:09.000Z
+- [La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI](https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z

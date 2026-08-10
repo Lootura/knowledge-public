@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "Francesca"
   ],
@@ -46,17 +46,11 @@
   ],
   "sources": [
     {
-      "title": "Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'",
-      "url": "https://www.foxnews.com/media/alexandria-ocasio-cortez-shrugs-off-past-defund-police-comments-joking-woke-1-crazy?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T00:56:11.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday",
       "url": "https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198?utm_source=lootura.com",
       "publishedAt": "2026-08-09T15:02:13.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

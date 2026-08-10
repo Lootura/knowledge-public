@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-08-07
 
 - [Ukraine denies targeting Bulgaria after drone explodes near gas pipeline](https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/?utm_source=lootura.com) — 2026-08-09T06:29:15.000Z
 - [Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it](https://www.cbsnews.com/video/senate-votes-to-sanction-russia-after-late-sen-lindsey-grahams-push-for-it/?utm_source=lootura.com) — 2026-08-09T16:17:38.000Z
-- [Syria Agrees to Reorganized Russian Military Presence](https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html?utm_source=lootura.com) — 2026-08-09T15:57:54.000Z

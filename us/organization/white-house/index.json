@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,13 @@
   ],
   "changes": [
     {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
+      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
+      "summary": "He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.",
       "date": "2026-08-09"
     },
     {
-      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
-      "summary": "He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.",
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.",
       "date": "2026-08-09"
     },
     {
@@ -71,17 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T14:33:46.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
       "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:52:25.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora
 
 Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.
+
+Date: 2026-08-09
+
+### Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí
+
+Por qué la Comunidad eligió un piso que no podía convertirse en oficina para el traslado desde Sol, cómo se decidió su ubicación o qué informes previos se emitieron antes del desembolso son algunas de las dudas sin respuesta. El Gobierno regional cree que las respuestas están "sobradamente dadas" La Comunidad de Madrid.
 
 Date: 2026-08-09
 
@@ -62,12 +68,7 @@ La Comunidad de Madrid destinará este año tres millones de euros a la convocat
 
 Date: 2026-08-04
 
-### «Estrategia de chantaje»: Madrid tomará medidas contra los bomberos forestales que protestan en plena ola de incendios
-
-La Comunidad de Madrid ha anunciado este viernes que tomará cartas en el asunto frente a la protesta que un grupo de bomberos forestales del INFOMA mantiene en plena emergencia. El Gobierno regional evaluará «todas las vías administrativas y jurídicas» para depurar responsabilidades contra este personal laboral, coinci.
-
-Date: 2026-07-25
-
 ## Fuentes
 
+- [Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí](https://www.eldiario.es/madrid/somos/incognitas-responder-atico-compro-gobierno-ayuso-chamberi_1_13431130.html?utm_source=lootura.com) — 2026-08-09T20:04:51.000Z
 - [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z

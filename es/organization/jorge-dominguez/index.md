@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl](https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com) — 2026-08-09T14:05:27.000Z
+No public source links.

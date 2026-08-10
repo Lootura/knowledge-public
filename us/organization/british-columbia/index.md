@@ -3,7 +3,7 @@
 > Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/organization/british-columbia
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### Fires grip western U.S., British Columbia: "It doesn't seem like it's real"
 
 Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.
-
-Date: 2026-08-10
-
-### Wildfires in western Canada force more than 20,000 people to evacuate
-
-British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
 
 Date: 2026-08-10
 
@@ -53,4 +47,3 @@ Date: 2026-08-08
 ## Sources
 
 - [Fires grip western U.S., British Columbia: "It doesn't seem like it's real"](https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com) — 2026-08-10T00:43:00.000Z
-- [Wildfires in western Canada force more than 20,000 people to evacuate](https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/?utm_source=lootura.com) — 2026-08-10T00:47:40.000Z

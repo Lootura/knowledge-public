@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T05:23:47.929Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»",
+      "summary": "Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el deporte de élite, pocas cosas transforman tanto a un campeón como descubrir que ya no basta con aquello que le llevó hasta la cima. Ilia Topuria perdió el invicto frente a Justin Gaethje en la Casa Blanca, pero, si algo tiene claro su entorno,.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
       "summary": "La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.",
@@ -64,18 +69,13 @@
       "title": "Trump vuelve a la cena de corresponsales tras el atentado con bromas sobre la seguridad",
       "summary": "El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebración de la Cena de Corresponsales de la Casa Blanca, casi tres meses después del intento de asesinato en su contra que interrumpió la edición del pasado abril y que obligó a cambiar la sede y reforzar las medidas de seguridad para el regreso.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
-      "summary": "Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
-      "url": "https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T23:25:55.000Z",
+      "title": "El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»",
+      "url": "https://www.abc.es/deportes/mma/preparador-fisico-topuria-anticipa-nueva-version-poder-20260810015905-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:57:52.000Z",
       "sourceId": "lootura-es-abc"
     }
   ],

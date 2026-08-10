@@ -3,10 +3,16 @@
 > Sigue la actividad de Startups en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: market
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/market/startups
 
 ## Cambios recientes
+
+### El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno
+
+El frenazo que el gigante aeronáutico Airbus dio el año pasado a sus programas relacionados con el avión del futuro, de tracción eléctrica o a hidrógeno y con cero emisiones, fue todo un golpe a empresas de nicho dispuestas a subirse a esa ola. El fabricante europeo reconoció que sus expectativas de tener uno de esos a.
+
+Date: 2026-08-10
 
 ### Discovered by Atlas
 
@@ -16,4 +22,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno](https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html?utm_source=lootura.com) — 2026-08-10T03:15:00.000Z

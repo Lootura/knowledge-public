@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»
+
+Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el deporte de élite, pocas cosas transforman tanto a un campeón como descubrir que ya no basta con aquello que le llevó hasta la cima. Ilia Topuria perdió el invicto frente a Justin Gaethje en la Casa Blanca, pero, si algo tiene claro su entorno,.
+
+Date: 2026-08-10
 
 ### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, volvió este viernes a la celebra
 
 Date: 2026-07-25
 
-### Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?
-
-Donald Trump volvió a reconstruir este viernes el muro arancelario que ya había levantado en dos ocasiones alrededor de Estados Unidos desde su regreso a la Casa Blanca, pero que...
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos](https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com) — 2026-08-09T23:25:55.000Z
+- [El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»](https://www.abc.es/deportes/mma/preparador-fisico-topuria-anticipa-nueva-version-poder-20260810015905-nt.html?utm_source=lootura.com) — 2026-08-10T04:57:52.000Z

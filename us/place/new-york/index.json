@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -39,6 +39,11 @@
       "date": "2026-08-10"
     },
     {
+      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
+      "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Woman learns man who attacked her killed a young mother years later",
       "summary": "When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.",
       "date": "2026-08-09"
@@ -51,11 +56,6 @@
     {
       "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
       "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Woman, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
-      "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
       "date": "2026-08-09"
     },
     {
@@ -79,8 +79,8 @@
       "date": "2026-08-09"
     },
     {
-      "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
-      "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
+      "title": "Woman and Baby Die After Boat Capsized in New York Harbor",
+      "summary": "New York City police are on the scene of a tragic boating accident where a woman and a young child were killed near the Statue of Liberty. The NYPD says they got a call about an overturned boat and when crews arrived, they found 12 people had already been rescued from the water but a 27-year-old woman and five-month-ol.",
       "date": "2026-08-09"
     }
   ],
@@ -98,9 +98,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Woman, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
+      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; Captain arrested",
       "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T19:38:25.000Z",
+      "publishedAt": "2026-08-10T03:53:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,6 +113,12 @@
       "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
       "url": "https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568?utm_source=lootura.com",
       "publishedAt": "2026-08-09T14:04:26.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Woman and Baby Die After Boat Capsized in New York Harbor",
+      "url": "https://www.today.com/video/woman-and-five-month-old-killed-in-nyc-boating-accident-268003397711?utm_source=lootura.com",
+      "publishedAt": "2026-08-09T12:43:15.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -140,5 +146,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 10
 }

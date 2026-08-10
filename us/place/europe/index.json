@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,16 @@
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "How Spain’s migration surge tested E.U. border policy",
+      "summary": "An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coas.",
       "date": "2026-08-10"
     },
     {
@@ -53,25 +63,27 @@
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that pl.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
-      "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
       "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "url": "https://www.nature.com/articles/d41586-026-02430-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T01:28:44.411Z",
+      "publishedAt": "2026-08-10T05:24:13.998Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "How Spain’s migration surge tested E.U. border policy",
+      "url": "https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T02:00:31.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

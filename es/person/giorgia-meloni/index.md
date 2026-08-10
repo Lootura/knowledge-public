@@ -28,4 +28,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z
+No public source links.

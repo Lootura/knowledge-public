@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### How Spain’s migration surge tested E.U. border policy
+
+An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.
+
+Date: 2026-08-10
 
 ### How to spot the Perseid meteor shower, a summer light show that promises to dazzle
 
@@ -62,12 +68,7 @@ Moroccan migrants described their despair at their economic future, explaining w
 
 Date: 2026-08-03
 
-### August's total solar eclipse will sweep over Spain, Iceland and Greenland
-
-For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
-
-Date: 2026-08-03
-
 ## Sources
 
+- [How Spain’s migration surge tested E.U. border policy](https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
 - [How to spot the Perseid meteor shower, a summer light show that promises to dazzle](https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle?utm_source=lootura.com) — 2026-08-09T22:05:27.000Z

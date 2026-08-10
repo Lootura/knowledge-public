@@ -52,4 +52,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Richard Nixon reflects on Watergate and his legacy: Meet the Press Archive](https://www.nbcnews.com/meet-the-press/video/richard-nixon-reflects-on-watergate-and-his-legacy-meet-the-press-archive-268006981714?utm_source=lootura.com) — 2026-08-09T15:00:22.000Z
+No public source links.

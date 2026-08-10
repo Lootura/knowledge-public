@@ -40,7 +40,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Evacúan dos pueblos y confinan otro por el fuego en Las Navas de San Antonio, en nivel máximo en gravedad](https://www.20minutos.es/castilla-y-leon/segovia/evacuan-dos-pueblos-por-incendio-las-navas-san-antonio-nivel-maximo_7024018_0.html?utm_source=lootura.com) — 2026-08-09T16:37:56.000Z
-- [Se complica el incendio forestal de Navas de San Antonio (Segovia)](https://www.larazon.es/castilla-y-leon/complica-incendio-forestal-navas-san-antonio-segovia_202608096a78a9eba046ad6ebca7ddba.html?utm_source=lootura.com) — 2026-08-09T16:25:15.000Z
-- [Evacúan Los Ángeles de San Rafael y Vegas de Matute por el incendio de Segovia, que se ha elevado al nivel máximo](https://okdiario.com/espana/evacuan-angeles-san-rafael-vegas-matute-incendio-segovia-que-elevado-nivel-maximo-19151328?utm_source=lootura.com) — 2026-08-09T18:16:54.000Z
-- [El incendio en Navas de San Antonio (Segovia) obliga a evacuar Los Ángeles de San Rafael](https://theobjective.com/sociedad/2026-08-09/fuego-segovia-angeles-san-rafael/?utm_source=lootura.com) — 2026-08-09T17:33:14.000Z
+No public source links.

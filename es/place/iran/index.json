@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T05:23:47.929Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+      "summary": "El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia energética. De momento, es un pequeño primer paso: la elaboración de un estudio de viabilidad para construir la primera refinería de petróleo en Australia y en el Pacífico Sur desde 1960. El proyecto supone un volantazo tras décadas de confia.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Un Gobierno en emergencia permanente",
+      "summary": "Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz",
       "summary": "\"Ahora no tenemos ninguna negociación con Estados Unidos\", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras \"no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas\" Del bloqueo naval al fin de sanciones: est.",
@@ -57,25 +67,21 @@
       "title": "El Ibex 35 marca su cuarto máximo histórico consecutivo y se sitúa en los 20.180 puntos",
       "summary": "El Ibex 35 ha marcado su cuarto máximo histórico consecutivo al cerrar este jueves en los 20.180,4 puntos, un 0,62% por encima de la jornada precedente. Los inversores han estado pendientes este jueves de los detalles del acuerdo entre Omán e Irán para gestionar el tránsito marítimo en el estratégico estrecho de Ormuz.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Ibex marca nuevos máximos y toca los 20.300 puntos con el mercado pendiente de Ormuz",
-      "summary": "La apertura del estrecho de Ormuz y la recuperación del tráfico marítimo se han convertido en la brújula de los mercados. Las noticias sobre las conversaciones entre Omán e Irán para la apertura de este enclave con una nueva ruta de navegación permiten a las Bolsas europeas prolongar las subidas y al Ibex 35 alcanzar n.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "El gasto récord de misiles de EE.UU. limita la presión de Trump sobre Irán",
-      "summary": "La guerra con Irán ha dejado al descubierto uno de los puntos débiles del enorme poder militar de Estados Unidos. Es posible consumir en unos meses unas armas que la industria necesita años para reponer.Después de cinco meses de operaciones en Irán, el Ejército estadounidense ha utilizado gran parte de sus reservas mun.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Trocear el problema y controlar los tiempos: así es la táctica de Irán que exaspera a Trump",
-      "url": "https://www.larazon.es/internacional/trocear-problema-controlar-tiempos-asi-tactica-iran-que-exaspera-trump_202608106a792907a5690f0473713b6c.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-10T01:27:35.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+      "url": "https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T03:45:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Un Gobierno en emergencia permanente",
+      "url": "https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -29,6 +29,12 @@ Date: 2026-08-10
 ### Daily fragment: 2020 Midwest derecho
 
 Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.
+
+Date: 2026-08-10
+
+### U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
+
+The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.
 
 Date: 2026-08-10
 
@@ -62,21 +68,15 @@ There have been 183 new wildfires, including eight large ones, across the U.S. s
 
 Date: 2026-08-09
 
-### Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World
-
-He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.
-
-Date: 2026-08-09
-
 ## Sources
 
 - [Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed](https://www.cbsnews.com/video/iranian-leaders-demand-us-pay-war-damage-keep-strait-of-hormuz-closed/?utm_source=lootura.com) — 2026-08-10T00:47:00.000Z
 - [Fires grip western U.S., British Columbia: "It doesn't seem like it's real"](https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/?utm_source=lootura.com) — 2026-08-10T00:43:00.000Z
-- [Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-10T01:23:35.000Z
+- [Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-10T04:17:48.000Z
+- [U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall](https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html?utm_source=lootura.com) — 2026-08-10T04:24:45.000Z
 - [Daily fragment: 2020 Midwest derecho](https://en.wikipedia.org/wiki/2020_Midwest_derecho?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Crews battle wildfires in western U.S. and Canada](https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com) — 2026-08-09T22:03:09.000Z
 - [Trump's immigration crackdown looms over Minnesota's bruising Senate primary](https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary?utm_source=lootura.com) — 2026-08-09T17:18:47.000Z
 - [Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others](https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others?utm_source=lootura.com) — 2026-08-09T15:20:38.000Z
 - [Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World](https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com) — 2026-08-09T12:52:25.000Z
-- [The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco](https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html?utm_source=lootura.com) — 2026-08-09T15:47:53.000Z

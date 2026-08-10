@@ -52,4 +52,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Generalitat ordena la evacuación de Catí por el incendio de Tírig (Castellón)](https://theobjective.com/sociedad/2026-08-09/generalitat-evacuacion-cati-incendio-tirig-castellon/?amp=&utm_source=lootura.com) — 2026-08-09T16:24:08.000Z
+No public source links.

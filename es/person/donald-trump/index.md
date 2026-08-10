@@ -3,16 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo
-
-Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.
-
-Date: 2026-08-09
 
 ### Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza
 
@@ -23,6 +17,12 @@ Date: 2026-08-09
 ### Netanyahu rechaza el plan de Trump para el desarme de Hamás
 
 Aunque lo ha anunciado en la reunión semanal del consejo de ministros, Benjamín Netanyahu ha actuado este domingo más como candidato a la reelección en octubre que como jefe de Gobierno al rechazar el acuerdo para el desarme de Hamás alcanzado por la Junta de Paz —el organismo que supervisa la aplicación del alto el fu.
+
+Date: 2026-08-09
+
+### Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo
+
+Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.
 
 Date: 2026-08-09
 
@@ -70,7 +70,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos](https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com) — 2026-08-09T23:25:55.000Z
-- [Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo](https://www.elmundo.es/internacional/2026/08/09/6a7868d0e9cf4a41308b4570.html?utm_source=lootura.com) — 2026-08-09T11:47:37.000Z
 - [Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza](https://www.elmundo.es/internacional/2026/08/09/6a786259fc6c83a52f8b4587.html?utm_source=lootura.com) — 2026-08-09T17:45:48.000Z
 - [Netanyahu rechaza el plan de Trump para el desarme de Hamás](https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html?utm_source=lootura.com) — 2026-08-09T17:29:35.000Z

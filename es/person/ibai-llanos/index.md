@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"](https://www.larazon.es/actualidad/ibai-llanos-bromea-miedo-eclipse-solar-que-llegara-espana-cagado-b50m_202608096a78d8c9a046ad6ebca826d1.html?utm_source=lootura.com) — 2026-08-09T19:45:13.000Z
+No public source links.

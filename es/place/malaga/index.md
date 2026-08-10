@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga](https://www.elconfidencial.com/espana/andalucia/2026-08-09/atropello-mortal-a7-malaga-1tna-1tps_4403433/?utm_source=lootura.com) — 2026-08-09T12:43:00.000Z
+No public source links.

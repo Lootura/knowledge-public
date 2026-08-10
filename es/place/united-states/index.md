@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Un Gobierno en emergencia permanente
+
+Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
+
+Date: 2026-08-10
+
+### Sobre la virtud del gobernante
+
+Hubo un momento que marcó mi percepción de la política. Durante la campaña electoral de 2008 en Estados Unidos , el candidato republicano, John McCain, respondía un día a las preguntas de un grupo de seguidores cuando dos de ellos se lanzaron a criticar desaforadamente a su rival demócrata, Barack Obama , con acusacion.
+
+Date: 2026-08-10
 
 ### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
 
@@ -56,20 +68,7 @@ Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar d
 
 Date: 2026-08-08
 
-### El auge de políticos musulmanes en EE.UU. acelera el giro contra Israel
-
-Por primera vez en la historia de Estados Unidos, un musulmán tiene opciones reales de llegar al Senado. Abdulrahman Mohamed el Sayed, candidato demócrata por Míchigan, de 41 años, ha construido su campaña sobre una crítica frontal, íntegra a Israel. Acusa a su Gobierno de cometer un genocidio en Gaza, propone poner fi.
-
-Date: 2026-08-08
-
-### ¿Menores sin fronteras?
-
-¿Qué trayectoria vital le parece mejor, la de un niño que vive y estudia en Estados Unidos durante la década de los 60 y 70 del pasado siglo para progresar en la carrera académica hasta convertirse en todo un catedrático de historia en una universidad de la Ivy League , o la de un niño que vive y estudia en la Cuba de.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos](https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html?utm_source=lootura.com) — 2026-08-09T23:25:55.000Z
-- [La "guerra trans" alcanza a la WNBA: dos exNBA aspiran a ser elegibles en el "draft" porque se identifican como mujeres](https://www.larazon.es/deportes/guerra-trans-alcanza-wnba-dos-exnba-aspiran-ser-elegibles-draft-porque-identifican-como-mujeres_202608106a7904caa5690f0473710842.html?utm_source=lootura.com) — 2026-08-09T22:52:58.000Z
-- [El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái](https://www.larazon.es/internacional/supuesto-lider-crimen-organizado-irlandes-daniel-kinahan-extraditado-dublin-dubai_202608096a78dc4fa5690f047370de6b.html?outputType=amp&utm_source=lootura.com) — 2026-08-09T20:00:15.000Z
+- [Un Gobierno en emergencia permanente](https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [Sobre la virtud del gobernante](https://theobjective.com/elsubjetivo/opinion/2026-08-10/salud-gobernante-articulo-antonio-cano/?utm_source=lootura.com) — 2026-08-10T03:25:00.000Z

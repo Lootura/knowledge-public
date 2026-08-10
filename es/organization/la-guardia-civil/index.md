@@ -3,7 +3,7 @@
 > Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/la-guardia-civil
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
 
 El incendio forestal de Niebla (Huelva) ha provocado la evacuación de 467 personas y ha recorrido ya 8.000 hectáreas, aunque no toda esa superficie ha ardido, desde que fue declarado el pasado jueves, según informa el Gobierno andaluz (PP y Vox). La Guardia Civil organiza entradas puntuales y supervisadas para que los.
+
+Date: 2026-08-09
+
+### La Guardia Civil se incauta de más de 800 kilos de cocaína en Punta Umbría
+
+Los hechos se han producido tras tener conocimiento de la presencia de una embarcación acercándose a esta localidad.
 
 Date: 2026-08-09
 
@@ -23,12 +29,6 @@ Date: 2026-08-09
 ### Se elevan a 83 los fallecidos en la entrada masiva en Ceuta tras el hallazgo de otro cadáver
 
 La Guardia Civil ha recuperado este domingo en aguas de Ceuta el cadáver de un hombre , con lo que se eleva ya a 83 el número de fallecidos relacionados con la entrada masiva de migrantes registrada el pasado 30 de julio, según fuentes del caso. El cuerpo, en avanzado estado de descomposición , ha sido localizado por e.
-
-Date: 2026-08-09
-
-### La Guardia Civil se incauta de más de 800 kilos de cocaína en Punta Umbría
-
-Los hechos se han producido tras tener conocimiento de la presencia de una embarcación acercándose a esta localidad.
 
 Date: 2026-08-09
 
@@ -70,7 +70,5 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Se elevan a 83 los fallecidos en la entrada masiva en Ceuta tras el hallazgo de otro cadáver](https://www.elconfidencial.com/espana/2026-08-09/suben-fallecidos-entrada-masiva-ceuta_4403443/?utm_source=lootura.com) — 2026-08-09T12:53:00.000Z
 - [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z
-- [La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta](https://www.lavanguardia.com/politica/20260809/11610771/guardia-civil-encuentra-cuerpo-vida-elevan-83-victimas-entrada-masiva-halladas-ceuta.html?utm_source=lootura.com) — 2026-08-09T16:23:53.000Z
 - [La Guardia Civil se incauta de más de 800 kilos de cocaína en Punta Umbría](https://theobjective.com/sociedad/suceso/2026-08-09/guardia-civil-cocaina-punta-umbria-huelva/?amp=&utm_source=lootura.com) — 2026-08-09T21:10:36.000Z

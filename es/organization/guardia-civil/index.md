@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Más de 33.600 policías para el eclipse: «Tememos que la gente se pare en plena carretera»](https://www.abc.es/sociedad/dispositivo-comunidades-organizan-territorios-eclipse-20260810011810-nt.html?utm_source=lootura.com) — 2026-08-09T23:26:42.000Z
+No public source links.

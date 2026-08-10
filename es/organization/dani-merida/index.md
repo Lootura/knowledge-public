@@ -28,5 +28,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Dani Mérida da otro salto hasta los cuartos en Montreal](https://www.abc.es/deportes/tenis/dani-merida-salto-mortal-cuartos-montreal-20260809200258-nt.html?utm_source=lootura.com) — 2026-08-09T18:12:02.000Z
-- [Dani Mérida, de no ganar un partido en pista dura en su vida a meterse en cuartos del Masters 1.000 de Montreal](https://www.larazon.es/deportes/dani-merida-ganar-partido-pista-dura-vida-meterse-cuartos-masters-1000-montreal_202608096a78d4fd71b42a0b5de63411.html?utm_source=lootura.com) — 2026-08-09T19:29:01.000Z
+No public source links.

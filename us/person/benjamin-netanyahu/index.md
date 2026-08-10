@@ -3,10 +3,16 @@
 > Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T10:36:14.031Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/person/benjamin-netanyahu
 
 ## Recent changes
+
+### Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump
+
+Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he was.
+
+Date: 2026-08-09
 
 ### Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes
 
@@ -46,4 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump](https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu?utm_source=lootura.com) — 2026-08-09T20:00:48.000Z

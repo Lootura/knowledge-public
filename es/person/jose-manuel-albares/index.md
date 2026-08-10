@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Venezuela agradece a Albares la ayuda de España tras los terremotos de junio](https://theobjective.com/internacional/2026-08-09/venezuela-agradece-espana-ayudar-seismos/?utm_source=lootura.com) — 2026-08-09T17:03:43.000Z
+No public source links.

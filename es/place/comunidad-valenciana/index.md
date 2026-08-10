@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península](https://www.20minutos.es/nacional/calor-las-lluvias-mantienen-aviso-diez-comunidades-este-lunes-con-tormentas-fuertes-varias-zonas-peninsula_7024048_0.html?utm_source=lootura.com) — 2026-08-09T19:09:13.000Z
+No public source links.

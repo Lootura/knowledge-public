@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T01:28:39.546Z",
+  "updatedAt": "2026-08-10T05:24:09.686Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -55,6 +55,11 @@
       "date": "2026-08-10"
     },
     {
+      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
       "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
       "date": "2026-08-09"
@@ -78,11 +83,6 @@
       "title": "Crews battle wildfires in western U.S. and Canada",
       "summary": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World",
-      "summary": "He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -101,7 +101,13 @@
     {
       "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
       "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T01:23:35.000Z",
+      "publishedAt": "2026-08-10T04:17:48.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:24:45.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
@@ -139,13 +145,7 @@
       "url": "https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-08-09T12:52:25.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-      "url": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T15:47:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 12
 }

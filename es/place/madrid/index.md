@@ -3,20 +3,38 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl
+### El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid
 
-El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.
+Apoyado únicamente sobre una pezuña, un monumental corcel suspendido en el aire capta las miradas de los transeuntes, transformando este enclave urbano en un improvisado escenario de reflexión sobre la incertidumbre actual.
 
-Date: 2026-08-09
+Date: 2026-08-10
+
+### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
+
+Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
+
+Date: 2026-08-10
 
 ### La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora
 
 Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.
+
+Date: 2026-08-09
+
+### Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí
+
+Por qué la Comunidad eligió un piso que no podía convertirse en oficina para el traslado desde Sol, cómo se decidió su ubicación o qué informes previos se emitieron antes del desembolso son algunas de las dudas sin respuesta. El Gobierno regional cree que las respuestas están "sobradamente dadas" La Comunidad de Madrid.
+
+Date: 2026-08-09
+
+### El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl
+
+El Atlético de Madrid ha caído este domingo ante el Manchester City (3-1) en Seúl, un partido amistoso en el que el canterano Jorge Domínguez logró adelantar a los rojiblancos antes de que un doblete de Omar Marmoush y un tanto de Rayan Aït-Nouri le dieran la vuelta al marcador para amargar la fiesta en casa del debuta.
 
 Date: 2026-08-09
 
@@ -50,27 +68,9 @@ Agosto es sinónimo de playa, descanso y ciudades a medio gas, pero también pue
 
 Date: 2026-08-09
 
-### ¿Barcelona-Ibiza o Palma-Madrid en avión eléctrico? Voletea y Air Nostrum apuestan por la tecnología que estudia Seguridad Aérea
-
-En la carrera para hacer que el transporte aéreo sea más sostenibl e y emita menos gases de efecto invernadero empieza a hacerse hueco la posibilidad operar vuelos cortos no con combustibles renovables, gases verdes como el hidrógeno o el SAF, sino con electricidad , de la misma manera que ya se aplica a los coches y o.
-
-Date: 2026-08-09
-
-### Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)
-
-Un hombre de 61 años ha fallecido en la madrugada de este domingo en la explosión y posterior incendio registrados en un semisótano de un bloque de viviendas situado en la calle Hacienda de Pavones, en el distrito madrileño de Moratalaz , ha informado el 112 de esta comunidad autónoma. La explosión se ha registrado en.
-
-Date: 2026-08-09
-
-### La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío
-
-Inaugurado como complejo medicinal en el siglo XIX, el mítico recinto del Niágara cambió los hábitos higiénicos y deportivos de la capital antes de quedar oculto tras los muros de carga Leer.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [El Orgullo 2026 dejó en Madrid más de 82 millones de euros](https://www.abc.es/espana/madrid/orgullo-2026-dejo-madrid-millones-euros-20260810182201-nt.html?utm_source=lootura.com) — 2026-08-09T23:49:52.000Z
+- [El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-10/nuevo-icono-madrid-caballo-bronce-centrica-plaza-madrid-desafiando-gravedad_4402867/?utm_source=lootura.com) — 2026-08-10T03:45:00.000Z
+- [España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse](https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html?utm_source=lootura.com) — 2026-08-10T03:30:01.000Z
+- [Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí](https://www.eldiario.es/madrid/somos/incognitas-responder-atico-compro-gobierno-ayuso-chamberi_1_13431130.html?utm_source=lootura.com) — 2026-08-09T20:04:51.000Z
 - [La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora](https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html?utm_source=lootura.com) — 2026-08-09T19:59:10.000Z
-- [El Manchester City remonta al Atlético de Madrid y arruina la fiesta de Kang-in Lee en Seúl](https://theobjective.com/deportes/futbol/2026-08-09/manchester-city-atletico-madrid-kang-in-lee/?utm_source=lootura.com) — 2026-08-09T14:05:27.000Z
-- [El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»](https://theobjective.com/espana/politica/2026-08-09/gobierno-ayuso-alejarse-madrilenos-aticos-pelotazos/?utm_source=lootura.com) — 2026-08-09T18:15:07.000Z

@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T05:27:09.194Z",
+  "generatedAt": "2026-08-10T05:39:44.419Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|108|1786325294997",
+    "signature": "1.18.0|109|1786339427929",
     "version": "1.18.0",
-    "build": 108,
-    "latestEntityUpdatedAt": "2026-08-10T01:28:14.997Z"
+    "build": 109,
+    "latestEntityUpdatedAt": "2026-08-10T05:23:47.929Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
-      "type": "place",
-      "title": "Ceuta clama \"Basta ya\" y exige respuestas a España y Europa",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-08-10T01:28:14.997Z",
-      "score": 1643,
-      "sourceCount": 968,
+      "id": "es-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza",
+      "url": "https://atlas.lootura.com/es/person/donald-trump",
+      "path": "/es/person/donald-trump",
+      "updatedAt": "2026-08-10T05:23:47.929Z",
+      "score": 1630,
+      "sourceCount": 196,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-los-angeles",
-        "name": "Los Ángeles",
+        "id": "es-espana",
+        "name": "España",
         "type": "place",
-        "title": "Nuevas evacuaciones por los incendios: Los Ángeles de San Rafael y Vegas de Matute (Segovia), y Catí (Castellón)",
-        "url": "https://atlas.lootura.com/es/place/los-angeles",
-        "path": "/es/place/los-angeles",
-        "updatedAt": "2026-08-10T01:28:14.997Z",
-        "score": 1642,
-        "sourceCount": 4,
+        "title": "Cuánto dinero cobra un peón de albañil en España: sueldo base según el convenio de la construcción",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-08-10T05:23:47.929Z",
+        "score": 1627,
+        "sourceCount": 977,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +47,39 @@
         "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-10T01:28:14.997Z",
-        "score": 1640,
-        "sourceCount": 349,
+        "updatedAt": "2026-08-10T05:23:47.929Z",
+        "score": 1625,
+        "sourceCount": 353,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-10T01:28:14.997Z",
-        "score": 1607,
-        "sourceCount": 196,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
+        "id": "es-iran",
+        "name": "Irán",
         "type": "place",
-        "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-08-10T01:28:14.997Z",
-        "score": 1604,
-        "sourceCount": 234,
+        "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+        "url": "https://atlas.lootura.com/es/place/iran",
+        "path": "/es/place/iran",
+        "updatedAt": "2026-08-10T05:23:47.929Z",
+        "score": 1618,
+        "sourceCount": 163,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "El nuevo y extravagante icono de Madrid: instalan un caballo de bronce que desafía la gravedad en esta céntrica plaza de Madrid",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-10T05:23:47.929Z",
+        "score": 1618,
+        "sourceCount": 660,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 189
+    "publicEntityCount": 188
   }
 }

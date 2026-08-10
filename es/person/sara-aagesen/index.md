@@ -40,4 +40,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El Gobierno pide «máxima precaución» ante el eclipse por el riesgo de incendios en todo el país](https://theobjective.com/espana/2026-08-09/gobierno-maxima-precaucion-eclipse-riesgo-incendios/?amp=&utm_source=lootura.com) — 2026-08-09T16:10:51.000Z
+No public source links.

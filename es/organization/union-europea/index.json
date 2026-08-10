@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T08:41:01.629Z",
+  "updatedAt": "2026-08-10T05:23:47.929Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -65,6 +65,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "En defensa del espacio Schengen",
+      "url": "https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
   "evidenceCount": 0
 }

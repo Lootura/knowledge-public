@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York
+
+La tensión entre Grifols y Gotham City Research sigue aumentando en un momento clave del proceso que se sigue por difamación en Nueva York. La empresa de hemoderivados ha acusado al fondo norteamericano de estar obstaculizando la entrega de la documentación pactada para preparar el juicio que se celebrará en 2027. Goth.
+
+Date: 2026-08-10
 
 ### Rahm conquista su tercer anillo del LIV
 
@@ -62,12 +68,7 @@ Spider-Man: Brand New Day , la nueva entrega de la saga del vecino amistoso de N
 
 Date: 2026-08-01
 
-### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
-
-Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York](https://cincodias.elpais.com/companias/2026-08-10/grifols-acusa-a-gotham-de-obstaculizar-la-obtencion-de-pruebas-para-preparar-el-juicio-en-nueva-york.html?utm_source=lootura.com) — 2026-08-10T03:15:00.000Z
 - [Rahm conquista su tercer anillo del LIV](https://www.elcorreo.com/deportes/golf/rahm-conquista-tercer-anillo-liv-20260809215849-nt_amp.html?utm_source=lootura.com) — 2026-08-09T19:58:49.000Z

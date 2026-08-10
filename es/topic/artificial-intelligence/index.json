@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-10T05:23:47.929Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -52,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "Está confirmado por el Gobierno y ya es oficial: en septiembre comienza en España el Servicio Militar para los nacidos en el año 2008",
-      "url": "https://okdiario.com/sociedad/confirmado-gobierno-ya-oficial-despues-septiembre-comienza-espana-servicio-militar-nacidos-ano-2008-16754764?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T18:57:33.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Así son las nuevas oficinas para trabajadores quemados por la IA",
+      "url": "https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

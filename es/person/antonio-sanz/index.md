@@ -40,4 +40,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Aumentan los desalojados por el incendio forestal en Niebla (Huelva)](https://theobjective.com/sociedad/suceso/2026-08-09/personas-desalojadas-467-incendio-forestal-niebla-huelva/?utm_source=lootura.com) — 2026-08-09T17:56:14.000Z
+No public source links.

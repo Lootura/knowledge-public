@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -20,15 +20,21 @@ La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy 
 
 Date: 2026-08-10
 
-### El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno
+### Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta
 
-Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.
+La justicia, a medio gas en agosto, ha dado una tregua al Gobierno de Pedro Sánchez con los casos de corrupción y la irrupción de la crisis de Ceuta por la entrada de más de 70.000 personas procedentes de Marruecos ha devuelto los focos a la inmigración, con un impacto visible en el bloque de la derecha. De momento, el.
 
-Date: 2026-08-09
+Date: 2026-08-10
 
 ### El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas
 
 El incendio forestal de Niebla (Huelva) ha provocado la evacuación de 467 personas y ha recorrido ya 8.000 hectáreas, aunque no toda esa superficie ha ardido, desde que fue declarado el pasado jueves, según informa el Gobierno andaluz (PP y Vox). La Guardia Civil organiza entradas puntuales y supervisadas para que los.
+
+Date: 2026-08-09
+
+### El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno
+
+Ni Gobierno ni PP tienen intención de explorar el terreno compartido en cuestiones de Estado. No hubo predisposición alguna a tender puentes ante el mayor desastre forestal de España, pese a compartir múltiples medidas para prevenir y combatir los incendios. Y nada hace pensar que Moncloa y Génova vayan a deponer las a.
 
 Date: 2026-08-09
 
@@ -62,15 +68,9 @@ El exlíder socialista critica «la obsesión» de la derecha en España que «c
 
 Date: 2026-08-07
 
-### El PP adelanta en el Senado la batalla por Ceuta y obliga al Gobierno a dar explicaciones la semana que viene
-
-Fija para el 12, 13 y 17 las comparecencias de Marlaska, Robles y Albares y reclama también la de Bolaños después de que el Ejecutivo anunciara su presencia en el Congreso a finales de agosto.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El PP mira a Junts para impulsar en septiembre la reforma de la ley de extranjería y adelantarse al Gobierno](https://www.elconfidencial.com/espana/2026-08-09/pp-junts-reforma-ley-extranjeria-gobierno-ceuta_4400301/?utm_source=lootura.com) — 2026-08-09T13:47:00.000Z
 - [El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas](https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html?utm_source=lootura.com) — 2026-08-09T20:13:46.000Z
 - [Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado](https://www.larazon.es/espana/feijoo-amplia-ventaja-sanchez-sigue-siendo-lider-mejor-valorado_202608106a791492a046ad6ebca86e2c.html?utm_source=lootura.com) — 2026-08-10T00:00:18.000Z
 - [La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos](https://www.larazon.es/espana/izquierda-hunde-psoe-sumar-podemos-llegan-35-votos_202608106a789283a046ad6ebca7bf9c.html?utm_source=lootura.com) — 2026-08-10T00:00:21.000Z
+- [Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta](https://www.lavanguardia.com/politica/20260810/11610781/gobiernos-pp-vox-superan-momento-test-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-10T04:00:00.000Z

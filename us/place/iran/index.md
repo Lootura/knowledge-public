@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T01:28:39.546Z
+- Updated: 2026-08-10T05:24:09.686Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -72,7 +72,7 @@ Date: 2026-08-09
 
 - [Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed](https://www.cbsnews.com/video/iranian-leaders-demand-us-pay-war-damage-keep-strait-of-hormuz-closed/?utm_source=lootura.com) — 2026-08-10T00:47:00.000Z
 - [Gas prices stubbornly stuck, up more than $1 since war with Iran started](https://www.cbsnews.com/video/gas-prices-stubbornly-stuck-since-war-iran-started/?utm_source=lootura.com) — 2026-08-10T00:50:26.000Z
-- [Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-10T01:23:35.000Z
+- [Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html?utm_source=lootura.com) — 2026-08-10T04:17:48.000Z
 - [Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse](https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553?utm_source=lootura.com) — 2026-08-09T11:30:24.000Z
 - [Iran Says There’s Still No Deal on Reopening the Strait of Hormuz](https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558?utm_source=lootura.com) — 2026-08-09T12:18:19.000Z
 - [Haunted by Hoover, Trump searches for an endgame in Iran](https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran?utm_source=lootura.com) — 2026-08-09T12:39:47.000Z

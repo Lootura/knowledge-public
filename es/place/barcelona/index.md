@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-10T05:23:47.929Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”
+
+Esta mujer de 53 años será expulsada de su casa el 15 de septiembre sin que el Ayuntamiento de Barcelona le brinde ninguna alternativa viable debido a la saturación de los servicios municipales Los activistas por la vivienda ocupan el vestíbulo del Ayuntamiento de Barcelona por la falta de alojamientos de urgencia En u.
+
+Date: 2026-08-09
 
 ### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
 
@@ -62,13 +68,6 @@ El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo
 
 Date: 2026-08-08
 
-### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
-
-Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Muere un hombre de 51 años tras salirse su coche de la vía en Fonollosa (Barcelona)](https://www.elconfidencial.com/espana/2026-08-09/accidente-mortal-fonollosa-barcelona-coches-1tna-1tps_4403465/?utm_source=lootura.com) — 2026-08-09T14:53:00.000Z
-- [Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni](https://amp.elmundo.es/espana/2026/08/09/6a785b28e85ecea36b8b458f.html?utm_source=lootura.com) — 2026-08-09T10:54:54.000Z
+- [Carmen y su hijo de 13 años, al borde del desahucio y sin alternativa: “Me siento abandonada por la administración”](https://www.eldiario.es/catalunya/carmen-hijo-13-anos-borde-desahucio-alternativa-siento-abandonada-administracion_1_13432415.html?utm_source=lootura.com) — 2026-08-09T20:04:54.000Z

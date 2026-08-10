@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La FIFA denuncia «el esfuerzo coordinado y continuo para socavar el mandato de Infantino»](https://theobjective.com/deportes/futbol/2026-08-09/fifa-denuncia-esfuerzo-coordinado-continuo-socavar-infantino/?utm_source=lootura.com) — 2026-08-09T14:51:30.000Z
+No public source links.
