@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
+
+El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
+
+Date: 2026-08-10
 
 ### La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada
 
@@ -62,12 +68,6 @@ Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubiert
 
 Date: 2026-07-16
 
-### Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española
-
-La secretaria de Estado de Defensa , Amparo Valcarce, considera que la cumbre de la OTAN celebrada los pasados 7 y 8 de julio en Ankara marcará un punto de inflexión para la industria española de defensa . Según ha defendido este martes, los seis acuerdos suscritos por España durante la reunión de la Alianza Atlántica.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z

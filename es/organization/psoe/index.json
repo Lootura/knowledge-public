@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,16 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
+      "summary": "Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas ponen en duda la oportunidad de los contenidos difundidos en las redes del presidente.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018",
+      "summary": "De los 171.036 militantes que alcanzó con su Gobierno en solitario, le quedan 147.648 Leer.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
       "summary": "El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.",
@@ -60,25 +70,21 @@
       "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
       "summary": "El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en \"ruido político\"",
-      "summary": "La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una \"confrontación partidista, alejada de la realidad\" con \"ruido político\" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
-      "summary": "El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
-      "url": "https://www.eldiario.es/politica/fiscalia-remite-cuatro-denuncias-atico-compro-gobierno-ayuso-juzgado-investiga-caso_1_13438853.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:12:54.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018",
+      "url": "https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:46:33.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
+      "url": "https://www.larazon.es/espana/ocio-pedro-sanchez-sus-vacaciones-irrita-psoe-ceuta_202608116a7a741da046ad6ebcaa7ced.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-11T01:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

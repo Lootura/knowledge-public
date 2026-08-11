@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)](https://www.elconfidencial.com/espana/cataluna/2026-08-10/muere-ahogado-playa-roses-girona-1tna_4404023/?utm_source=lootura.com) — 2026-08-10T14:54:00.000Z
+No public source links.

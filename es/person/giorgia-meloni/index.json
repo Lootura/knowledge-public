@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
     "Meloni"
   ],
   "changes": [
+    {
+      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
+      "summary": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Atrapados a 40 grados en el aeropuerto de El Prat: la \"bienvenida\" a los italianos por el pulso entre Sánchez y Meloni",
       "summary": "Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un \"finger\" hirviente bajo el sol de Barcelona....",
@@ -33,11 +38,11 @@
   ],
   "sources": [
     {
-      "title": "Italia y Dinamarca vinculan la “inmigración descontrolada” con la delincuencia y piden centros de deportación tras la crisis de Ceuta",
-      "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:21:23.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
+      "url": "https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T00:20:03.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

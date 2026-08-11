@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### China hurga en la fractura de la Unión Europea por Ceuta
+
+Para el núcleo del poder comunista chino, la sangre derramada en el espigón ceutí se diagnostica como el abono perfecto para el fascismo continental y el certificado de defunción de la solidaridad europea. Las decenas de bolsas mortuorias apiladas en el antiguo Hospital Militar de O’Donnell representan, bajo el frío es.
+
+Date: 2026-08-11
 
 ### Marruecos compra impunidad
 
@@ -62,12 +68,6 @@ La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la 
 
 Date: 2026-08-05
 
-### Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta
-
-Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [China hurga en la fractura de la Unión Europea por Ceuta](https://www.larazon.es/espana/china-hurga-fractura-union-europea-ceuta_202608116a79dd49a5690f0473726b9a.html?utm_source=lootura.com) — 2026-08-11T00:00:13.000Z

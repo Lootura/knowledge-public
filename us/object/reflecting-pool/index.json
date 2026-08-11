@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:49:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
   "evidenceCount": 0
 }

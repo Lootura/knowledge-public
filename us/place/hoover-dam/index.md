@@ -28,4 +28,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Lake Mead, the Nation’s Largest Reservoir, Is Smaller Than Ever](https://www.nytimes.com/2026/08/09/us/lake-mead-water-level-record-low.html?utm_source=lootura.com) — 2026-08-10T00:44:20.000Z
+No public source links.

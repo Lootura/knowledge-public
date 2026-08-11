@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa](https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/?utm_source=lootura.com) — 2026-08-10T15:25:29.000Z
+- [La industria global de pagos se reestructura al calor de la IA y anuncia más de 16.500 despidos](https://www.expansion.com/empresas/banca/2026/08/11/6a7a12a3e5fdea00078b458b.html?utm_source=lootura.com) — 2026-08-10T22:04:00.000Z

@@ -64,4 +64,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T20:07:47.000Z
+No public source links.

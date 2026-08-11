@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela](https://okdiario.com/internacional/mucha-gente-hace-misma-pregunta-terremoto-colombia-que-danos-han-sido-tan-distintos-venezuela-19158139?utm_source=lootura.com) — 2026-08-10T19:23:17.000Z
+No public source links.

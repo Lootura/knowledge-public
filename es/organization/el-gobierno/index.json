@@ -1,0 +1,80 @@
+{
+  "id": "es-el-gobierno",
+  "name": "El Gobierno",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/el-gobierno",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
+  "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa",
+      "summary": "El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
+      "summary": "El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la \"amenaza\" que puede suponer Leer.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Gobierno sube a 1.400 los menores en Ceuta y no se atreve a dar una cifra definitiva: \"Aún hay muchos en las colas para filiarse\"",
+      "summary": "El Gobierno ha subido a 80.000 las personas que el pasado 30 de julio entraron ilegalmente a Ceuta y a 1.400 los menores no acompañados que las autoridades han registrado en la ciudad por el momento, ya que ha admitido que no está en disposición de ofrecer una cifra definitiva. \"He podido recorrer las calles de la ciud.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Interior y Defensa anulan los permisos de militares y agentes desplegados en Ceuta ante el temor de otro intento de entrada",
+      "summary": "El Gobierno mueve ficha ante el temor de una nueva intentona de entrada masiva ilegal en Ceuta . El Ministerio de Defensa y el de Interior han decidido anular los permisos de los militares y agentes del Instituto Armado desplegados en Ceuta en paralelo a las advertencias y anuncios que manan en redes sociales que difun.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Gobierno puede poner condiciones a SAIC en Galicia para garantizar la seguridad nacional",
+      "summary": "El Gobierno está \"convencido\" de que la instalación en Galicia de la primera planta en Europa del fabricante chino de vehículos eléctricos SAIC Motor, cerca del...",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
+      "summary": "El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+      "summary": "El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia energética. De momento, es un pequeño primer paso: la elaboración de un estudio de viabilidad para construir la primera refinería de petróleo en Australia y en el Pacífico Sur desde 1960. El proyecto supone un volantazo tras décadas de confia.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Gobierno intensificará su ofensiva contra la tauromaquia antes de que acabe la legislatura",
+      "summary": "Los socios del Gobierno han decidido apretar el acelerador en su ofensiva contra el mundo del toro . Sumar , coalición a la que pertenece el ministro de Cultura, Ernest Urtasun , ha añadido a sus habituales reivindicaciones una ofensiva parlamentaria con el fin de asfixiar económicamente al sector. El grupo parlamentar.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Chile cancela dos concesiones a Azvi y pone en alerta a Sacyr y OHLA",
+      "summary": "El Gobierno del conservador José Antonio Kast ha encendido las alarmas entre los grandes grupos de infraestructuras del país después de que las autoridades chilenas hayan suspendido por sorpresa dos contratos de construcción de carreteras y posterior explotación a la española Azvi , una decisión inesperada que pone en.",
+      "date": "2026-08-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
+      "url": "https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:46:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa",
+      "url": "https://elpais.com/espana/2026-08-10/el-gobierno-mantiene-su-apoyo-a-la-fabrica-china-en-ferrol-pese-a-las-alertas-de-defensa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T18:14:43.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

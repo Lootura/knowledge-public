@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»](https://theobjective.com/espana/politica/2026-08-10/puente-rey-mano-javier-negre-ignominia/?utm_source=lootura.com) — 2026-08-10T14:40:57.000Z
+No public source links.

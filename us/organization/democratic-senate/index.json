@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [],
   "changes": [
     {
@@ -43,12 +43,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Faith is a centerpiece of Texas Senate candidate James Talarico's campaign",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T08:40:27.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
     {
       "title": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
       "url": "https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177?utm_source=lootura.com",

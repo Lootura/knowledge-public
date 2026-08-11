@@ -3,10 +3,22 @@
 > Follow Sophie Cunningham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/sophie-cunningham
 
 ## Recent changes
+
+### WNBA faces new controversy after Sky's DiJonai Carrington ejected over foul on Sophie Cunningham
+
+WNBA star Sophie Cunningham, already at the center of a fight over transgender participation, took a flagrant foul from an opposing player who was ejected from the game. Jan Crawford has more details.
+
+Date: 2026-08-10
+
+### Discovered by Atlas
+
+Sophie Cunningham first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-09
 
 ### Florida attorney general offers his response to brutal foul on Sophie Cunningham
 
@@ -20,12 +32,6 @@ Saturday in Chicago, once again, showcased the harsh reality that the opposition
 
 Date: 2026-08-09
 
-### Discovered by Atlas
-
-Sophie Cunningham first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [WNBA faces new controversy after Sky's DiJonai Carrington ejected over foul on Sophie Cunningham](https://www.cbsnews.com/video/wnba-faces-controversy-skys-dijonai-carrington-ejected-foul-sophie-cunningham/?utm_source=lootura.com) — 2026-08-10T23:40:00.000Z

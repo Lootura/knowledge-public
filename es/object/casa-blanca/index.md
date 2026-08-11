@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca](https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com) — 2026-08-10T20:08:32.000Z
+No public source links.

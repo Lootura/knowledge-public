@@ -3,10 +3,16 @@
 > Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T06:27:36.615Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/chuck-edwards
 
 ## Recent changes
+
+### N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot
+
+Edwards dropped his re-election bid after the House Ethics Committee recommended he be censured over sexual harassment allegations. He has denied any wrongdoing.
+
+Date: 2026-08-11
 
 ### Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot](https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827?utm_source=lootura.com) — 2026-08-11T00:04:13.000Z

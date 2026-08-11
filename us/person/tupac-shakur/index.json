@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.json",
   "description": "Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [
     "Shakur",
     "Tupac"
@@ -20,13 +20,13 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Tupac Murder Trial Set to Begin, Nearly 30 Years After Shooting",
-      "summary": "The man accused of planning the murder of Tupac Shakur is set to stand trial as prosecutors look to prove Duane \"Keefe D\" Davis orchestrated the drive-by shooting that killed the hip-hop legend nearly 30 years ago. Davis has spent years talking about his involvement in the case, saying he was inside the Cadillac with t.",
+      "title": "Trial begins for man accused of orchestrating Tupac Shakur's killing",
+      "summary": "Duane \"Keffe D\" Davis has pleaded not guilty to one charge of murder. People who will testify include those who saw Shakur moments before he was shot, as well as people who were affiliated with rival record labels.",
       "date": "2026-08-10"
     },
     {
-      "title": "Trial begins for man accused of orchestrating Tupac Shakur's killing",
-      "summary": "Duane \"Keffe D\" Davis has pleaded not guilty to one charge of murder. People who will testify include those who saw Shakur moments before he was shot, as well as people who were affiliated with rival record labels.",
+      "title": "Tupac Murder Trial Set to Begin, Nearly 30 Years After Shooting",
+      "summary": "The man accused of planning the murder of Tupac Shakur is set to stand trial as prosecutors look to prove Duane \"Keefe D\" Davis orchestrated the drive-by shooting that killed the hip-hop legend nearly 30 years ago. Davis has spent years talking about his involvement in the case, saying he was inside the Cadillac with t.",
       "date": "2026-08-10"
     },
     {
@@ -37,16 +37,10 @@
   ],
   "sources": [
     {
-      "title": "Man who allegedly arranged Tupac Shakur's 1996 killing going on trial in Las Vegas",
+      "title": "Man who allegedly arranged Tupac Shakur's 1996 killing is on trial in Las Vegas",
       "url": "https://www.cbsnews.com/news/tupac-shakur-killing-1996-alleged-organizer-trial-las-vegas-duane-keffe-d-davis/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:56:58.000Z",
+      "publishedAt": "2026-08-10T23:57:46.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Tupac Murder Trial Set to Begin, Nearly 30 Years After Shooting",
-      "url": "https://www.today.com/video/tupac-shakur-murder-trial-begins-nearly-30-years-after-death-268027973650?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:47:47.000Z",
-      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Trial begins for man accused of orchestrating Tupac Shakur's killing",
@@ -55,5 +49,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

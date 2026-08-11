@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-06
 ## Fuentes
 
 - [Tamarit de Valencia busca «sorprender» al público donostiarra](https://www.diariovasco.com/san-sebastian/semana-grande/tamarit-valencia-busca-sorprender-publico-donostiarra-20260810112148-nt_amp.html?utm_source=lootura.com) — 2026-08-10T09:21:49.000Z
-- [Naturaleza bajo cuidados intensivos](https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com) — 2026-08-09T22:04:19.000Z

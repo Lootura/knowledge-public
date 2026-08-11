@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/sophie-cunningham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/sophie-cunningham/index.json",
   "description": "Follow Sophie Cunningham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T12:43:46.985Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [
     "Cunningham",
     "Sophie",
     "Sophie Elizabeth Cunningham"
   ],
   "changes": [
+    {
+      "title": "WNBA faces new controversy after Sky's DiJonai Carrington ejected over foul on Sophie Cunningham",
+      "summary": "WNBA star Sophie Cunningham, already at the center of a fight over transgender participation, took a flagrant foul from an opposing player who was ejected from the game. Jan Crawford has more details.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sophie Cunningham first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    },
     {
       "title": "Florida attorney general offers his response to brutal foul on Sophie Cunningham",
       "summary": "One of the wildest moments of the WNBA season — which is saying a lot these days — came on Saturday between the Indiana Fever and the Chicago Sky. DiJonai Carrington of the Sky was handed a Flagrant 2 foul for appearing to clothesline the Fever's Sophie Cunningham. The incident has gotten people talking, with even the.",
@@ -24,13 +34,15 @@
       "title": "Sophie Cunningham supporters rally in Chicago, while protesters showcase what's wrong with America",
       "summary": "Saturday in Chicago, once again, showcased the harsh reality that the opposition to Indiana Fever guard Sophie Cunningham is rooted in hate, intolerance, and delusion. While dozens of calm and cordial Cunningham supporters rallied outside of the United Center, they were met by a group of mask-wearing, sign-holding, pro.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Sophie Cunningham first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "WNBA faces new controversy after Sky's DiJonai Carrington ejected over foul on Sophie Cunningham",
+      "url": "https://www.cbsnews.com/video/wnba-faces-controversy-skys-dijonai-carrington-ejected-foul-sophie-cunningham/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T23:40:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

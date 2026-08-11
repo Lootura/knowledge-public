@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo](https://www.elindependiente.com/tendencias/2026/08/10/la-mancha-auna-gastronomia-y-astronomia-ante-el-eclipse-total-de-sol-con-una-comida-popular-de-sabor-toledo/?utm_source=lootura.com) — 2026-08-10T15:31:31.000Z
+No public source links.

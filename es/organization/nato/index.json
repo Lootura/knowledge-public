@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
+      "date": "2026-08-10"
+    },
     {
       "title": "La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada",
       "summary": "Una nueva evaluación actualiza los pronósticos anteriores de que el líder ruso no provocaría a la Alianza durante la guerra de Ucrania Leer.",
@@ -59,13 +64,15 @@
       "title": "La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos",
       "summary": "Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española",
-      "summary": "La secretaria de Estado de Defensa , Amparo Valcarce, considera que la cumbre de la OTAN celebrada los pasados 7 y 8 de julio en Ankara marcará un punto de inflexión para la industria española de defensa . Según ha defendido este martes, los seis acuerdos suscritos por España durante la reunión de la Alianza Atlántica.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:45:38.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

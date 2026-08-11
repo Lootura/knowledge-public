@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-07-21
 
 ## Sources
 
+- [Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina](https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com) — 2026-08-10T23:57:00.000Z
 - [Hegseth Renames Base for Lindsey Graham](https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html?utm_source=lootura.com) — 2026-08-10T19:03:02.000Z

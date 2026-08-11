@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
@@ -66,6 +66,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina",
+      "url": "https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T23:57:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Hegseth Renames Base for Lindsey Graham",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html?utm_source=lootura.com",

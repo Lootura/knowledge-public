@@ -3,10 +3,16 @@
 > Follow Mark Zuckerberg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/mark-zuckerberg
 
 ## Recent changes
+
+### Mark Zuckerberg's vision of superintelligent AI for everyone
+
+Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in the hands of everyone, not just a few companies or governments. Charles Rollet, tech correspondent for Business Insider, joins CBS News to discuss.
+
+Date: 2026-08-11
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Alaska tour boat rescued stranded skiff instead of Mark Zuckerberg’s mega-yacht](https://www.nbcnews.com/news/us-news/alaska-tour-boat-rescued-stranded-skiff-instead-mark-zuckerbergs-mega-rcna591689?utm_source=lootura.com) — 2026-08-10T20:32:14.000Z
+- [Mark Zuckerberg's vision of superintelligent AI for everyone](https://www.cbsnews.com/video/mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone/?utm_source=lootura.com) — 2026-08-11T00:31:45.000Z

@@ -3,7 +3,7 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’](https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html?utm_source=lootura.com) — 2026-08-10T19:58:12.000Z
+- [Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’](https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html?utm_source=lootura.com) — 2026-08-10T21:21:32.000Z

@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T20:52:43.210Z",
+  "generatedAt": "2026-08-11T01:40:32.588Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|114|1786394362356",
+    "signature": "1.18.0|115|1786411567655",
     "version": "1.18.0",
-    "build": 114,
-    "latestEntityUpdatedAt": "2026-08-10T20:39:22.356Z"
+    "build": 115,
+    "latestEntityUpdatedAt": "2026-08-11T01:26:07.655Z"
   },
   "atlas": {
     "hero": {
       "id": "es-colombia",
       "name": "República de Colombia",
       "type": "place",
-      "title": "Terremoto en Colombia, en directo: número de muertos, desaparecidos, edificios derrumbados y personas atrapadas tras el seísmo de magnitud 7,4",
+      "title": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia",
       "url": "https://atlas.lootura.com/es/place/colombia",
       "path": "/es/place/colombia",
-      "updatedAt": "2026-08-10T20:39:22.356Z",
-      "score": 1761,
-      "sourceCount": 46,
+      "updatedAt": "2026-08-11T01:26:07.655Z",
+      "score": 1743,
+      "sourceCount": 52,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,12 +31,25 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»",
+        "title": "En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-10T20:39:22.356Z",
-        "score": 1683,
-        "sourceCount": 1003,
+        "updatedAt": "2026-08-11T01:26:07.655Z",
+        "score": 1701,
+        "sourceCount": 1011,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-11T01:26:07.655Z",
+        "score": 1659,
+        "sourceCount": 366,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +60,26 @@
         "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
-        "updatedAt": "2026-08-10T20:39:22.356Z",
-        "score": 1676,
-        "sourceCount": 243,
+        "updatedAt": "2026-08-11T01:26:07.655Z",
+        "score": 1655,
+        "sourceCount": 244,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-venezuela",
-        "name": "Estados Unidos de Venezuela",
-        "type": "place",
-        "title": "Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela",
-        "url": "https://atlas.lootura.com/es/place/venezuela",
-        "path": "/es/place/venezuela",
-        "updatedAt": "2026-08-10T20:39:22.356Z",
-        "score": 1672,
-        "sourceCount": 43,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-08-10T20:39:22.356Z",
-        "score": 1654,
-        "sourceCount": 675,
+        "id": "es-psoe",
+        "name": "Partido Socialista Obrero Español",
+        "type": "organization",
+        "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
+        "url": "https://atlas.lootura.com/es/organization/psoe",
+        "path": "/es/organization/psoe",
+        "updatedAt": "2026-08-11T01:26:07.655Z",
+        "score": 1637,
+        "sourceCount": 166,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 192
+    "publicEntityCount": 194
   }
 }

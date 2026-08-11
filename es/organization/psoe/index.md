@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta
+
+Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas ponen en duda la oportunidad de los contenidos difundidos en las redes del presidente.
+
+Date: 2026-08-11
+
+### El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018
+
+De los 171.036 militantes que alcanzó con su Gobierno en solitario, le quedan 147.648 Leer.
+
+Date: 2026-08-10
 
 ### La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso
 
@@ -56,18 +68,7 @@ El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de An
 
 Date: 2026-08-08
 
-### La Junta tacha al PSOE de querer convertir la tragedia de Los Gallardos en "ruido político"
-
-La Junta de Andalucía ha lamentado este sábado que el PSOE-A pretenda utilizar la tragedia del incendio forestal de Los Gallardos para alimentar una "confrontación partidista, alejada de la realidad" con "ruido político" , asegurando que han mantenido un contacto permanente y plena disposición con las familias afectada.
-
-Date: 2026-08-08
-
-### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
-
-El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso](https://www.eldiario.es/politica/fiscalia-remite-cuatro-denuncias-atico-compro-gobierno-ayuso-juzgado-investiga-caso_1_13438853.html?utm_source=lootura.com) — 2026-08-10T15:12:54.000Z
+- [El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018](https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com) — 2026-08-10T20:46:33.000Z
+- [El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta](https://www.larazon.es/espana/ocio-pedro-sanchez-sus-vacaciones-irrita-psoe-ceuta_202608116a7a741da046ad6ebcaa7ced.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T01:00:13.000Z

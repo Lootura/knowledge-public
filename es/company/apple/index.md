@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### ¿Cuáles son los 'Siete Magníficos' del mercado asiático?
+
+Al igual que ocurre en Wall Street, donde un grupo muy reducido de tecnológicas, conocidas como los Siete Magníficos (Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia y Tesla) agrupan una parte muy significativa del peso de la Bolsa americana, el patrón también se repite en Asia. Los Siete Magníficos de los mercados em.
+
+Date: 2026-08-11
 
 ### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
 
@@ -23,6 +29,12 @@ Date: 2026-08-10
 ### Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón
 
 Cuando Apple anunció iOS 26 con Liquid Glass , muchos usuarios pensaron que se trataba de una idea original nunca antes vista. La realidad es que Microsoft hizo algo parecido hace casi dos décadas con Windows Vista y Aero, una interfaz parecida que muchos todavía recuerdan con cariño. Con la moda impuesta por Apple, mu.
+
+Date: 2026-08-10
+
+### El iPhone tendrá una función para demostrar que una foto es real y no de IA
+
+Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone . La nueva función aparece documentada en el código de iOS 27 y podría debutar con.
 
 Date: 2026-08-10
 
@@ -56,20 +68,10 @@ Si tienes un Mac, actualízalo ahora. Apple ha lanzado nuevas versiones de macOS
 
 Date: 2026-08-07
 
-### Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento
-
-Queda alrededor de un mes para conocer todos los detalles del iPhone 18 Pro. Y aunque ya se han filtrado casi todos los detalles importantes del nuevo terminal de Apple, ahora un informe de última hora apunta a que la disponibilidad del nuevo iPhone de Apple va a ser muy limitada en su lanzamiento. Si bien no es algo n.
-
-Date: 2026-08-07
-
-### Apple: la apuesta en IA que llega tarde
-
-En 2024 Apple presentó Apple Intelligence como su gran respuesta a la carrera por la inteligencia artificial que se había iniciado apenas unos meses atrás. Su gran promesa era una Siri capaz de entender el contexto personal del usuario y ejecutar tareas complejas entre aplicaciones. Pero la realidad fue muy distinta. E.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [¿Cuáles son los 'Siete Magníficos' del mercado asiático?](https://www.expansion.com/mercados/2026/08/11/6a7a21cf468aeb18588b459a.html?utm_source=lootura.com) — 2026-08-11T00:14:19.000Z
 - [Apple podría lanzar su propia pulsera sin pantalla al estilo Whoop o Fitbit Air](https://hipertextual.com/apple/pulsera-sin-pantalla-apple-whoop-fitbir-air/?utm_source=lootura.com) — 2026-08-10T18:52:00.000Z
+- [El iPhone tendrá una función para demostrar que una foto es real y no de IA](https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/?utm_source=lootura.com) — 2026-08-10T23:40:12.000Z
 - [Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón](https://hipertextual.com/software/microsoft-no-trae-liquid-glass-windows-11-iphone/?utm_source=lootura.com) — 2026-08-10T20:00:00.000Z
 - [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z

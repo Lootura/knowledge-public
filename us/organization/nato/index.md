@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+
+Date: 2026-08-11
 
 ### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
 
@@ -62,12 +68,6 @@ President Donald Trump and NATO Secretary General Mark Rutte at the NATO Summit 
 
 Date: 2026-07-24
 
-### NATO spending pressure returned
-
-U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [An Elaborate Ruse: Trump Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T00:17:29.000Z

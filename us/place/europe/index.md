@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-09
 ## Sources
 
 - [UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far](https://www.pbs.org/newshour/world/uk-and-france-prepare-for-another-heat-wave-as-western-europe-has-its-3rd-hottest-year-on-record-so-far?utm_source=lootura.com) — 2026-08-10T16:30:14.000Z
-- [Europe braces for another summer heat wave](https://phys.org/news/2026-08-europe-braces-summer.html?utm_source=lootura.com) — 2026-08-10T19:40:04.000Z

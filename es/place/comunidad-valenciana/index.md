@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial](https://theobjective.com/economia/2026-08-10/eset-espai-ciberseguridad-aeroespacial/?utm_source=lootura.com) — 2026-08-10T15:11:29.000Z
+No public source links.

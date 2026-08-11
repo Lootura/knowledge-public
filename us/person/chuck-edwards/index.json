@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
   "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-06T06:27:36.615Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [
     "Charles Marion Edwards",
     "Chuck",
     "Edwards"
   ],
   "changes": [
+    {
+      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
+      "summary": "Edwards dropped his re-election bid after the House Ethics Committee recommended he be censured over sexual harassment allegations. He has denied any wrongdoing.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke",
       "summary": "Chuck Edwards made the announcement after the House Ethics Committee recommended he be censured for “persistent unprofessional and inappropriate conduct” toward two female staff members.",
@@ -41,6 +46,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
+      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T00:04:13.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

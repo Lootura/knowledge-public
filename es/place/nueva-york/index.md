@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia](https://www.abc.es/economia/vivienda-suelos-bajos-eclipsan-20260810175341-nt.html?utm_source=lootura.com) — 2026-08-10T19:41:03.000Z
+No public source links.

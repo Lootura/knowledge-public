@@ -3,16 +3,10 @@
 > Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/organization/iustitia-europa
 
 ## Cambios recientes
-
-### Iustitia Europa denuncia a Mohamed VI ante la Corte Penal Internacional por la entrada masiva en Ceuta
-
-La organización política Iustitia Europa ha presentado una denuncia ante la Fiscalía de la Corte Penal Internacional (CPI) solicitando que se investigue si el rey de Marruecos, Mohamed VI , y el primer ministro del país africano, Aziz Akhannouch, ordenaron la entrada masiva en Ceuta de personas procedentes de Marruecos.
-
-Date: 2026-08-10
 
 ### Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso
 
@@ -26,7 +20,12 @@ Iustitia Europa first entered the public knowledge record with source-backed evi
 
 Date: 2026-08-10
 
+### Iustitia Europa denuncia a Mohamed VI ante la Corte Penal Internacional por la entrada masiva en Ceuta
+
+La organización política Iustitia Europa ha presentado una denuncia ante la Fiscalía de la Corte Penal Internacional (CPI) solicitando que se investigue si el rey de Marruecos, Mohamed VI , y el primer ministro del país africano, Aziz Akhannouch, ordenaron la entrada masiva en Ceuta de personas procedentes de Marruecos.
+
+Date: 2026-08-10
+
 ## Fuentes
 
-- [Iustitia Europa denuncia a Mohamed VI ante la Corte Penal Internacional por la entrada masiva en Ceuta](https://theobjective.com/espana/politica/2026-08-10/iustitia-europa-mohamed-vi-cpi-entrada-masiva-ceuta/?utm_source=lootura.com) — 2026-08-10T14:47:53.000Z
 - [Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso](https://theobjective.com/espana/tribunales/2026-08-10/juzgado-denuncias-atico-gobierno-ayuso/?utm_source=lootura.com) — 2026-08-10T18:23:02.000Z

@@ -3,16 +3,40 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost
+### Recount puts Trump-backed challenger in the lead of Indiana state Senate primary
 
-Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents. (Image credit: Dana Ferguson).
+State Sen. Spencer Deery, who now trails Republican Paula Copenhaver by three votes, said he will appeal.
 
-Date: 2026-08-10
+Date: 2026-08-11
+
+### Trump Wants to Move On From the Middle East. It’s Not Letting Him.
+
+President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.
+
+Date: 2026-08-11
+
+### Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’
+
+Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+
+Date: 2026-08-11
+
+### Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls
+
+Immigrants who said they inadvertently registered to vote while obtaining or renewing driver’s licenses are increasingly facing deportation under the Trump administration.
+
+Date: 2026-08-11
 
 ### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
 
@@ -38,45 +62,21 @@ President Trump is signing an executive order on childhood vaccine schedules Mon
 
 Date: 2026-08-10
 
-### Trump order aims to cut number of diseases all children should be vaccinated against from 18 to 11
-
-President Trump has issued an executive order reducing the number of recommended vaccines for children, reaffirming the overhaul that Robert F. Kennedy Jr. announced earlier this year.
-
-Date: 2026-08-10
-
-### RFK Jr. wants to fix loophole that allows additives into food. Critics say it doesn’t go far enough.
-
-The Trump administration said it’s taking first steps in strengthening rules over ingredients food companies have long added to their products with minimal oversight.
-
-Date: 2026-08-10
-
 ### Trump and RFK Jr. try again to upend vaccines for kids
 
-President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseases. (Image credit: Jim Watson).
-
-Date: 2026-08-10
-
-### Trump signs executive order on childhood vaccine recommendations
-
-The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.
-
-Date: 2026-08-10
-
-### White House officials tamped down efforts to oust Max Miller in final days
-
-Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.
+President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule. (Image credit: Jim Watson).
 
 Date: 2026-08-10
 
 ## Sources
 
 - [Trump signs order on childhood vaccination recommendations, citing autism](https://www.cbsnews.com/news/trump-childhood-vaccines-executive-order/?utm_source=lootura.com) — 2026-08-10T20:27:20.000Z
-- [Trump order aims to cut number of diseases all children should be vaccinated against from 18 to 11](https://www.nbcnews.com/health/kids-health/trump-order-fewer-childhood-vaccines-rcna591774?utm_source=lootura.com) — 2026-08-10T19:44:14.000Z
-- [RFK Jr. wants to fix loophole that allows additives into food. Critics say it doesn’t go far enough.](https://www.nbcnews.com/health/health-news/rfk-jr-proposes-fix-loophole-gras-ingredients-rcna591400?utm_source=lootura.com) — 2026-08-10T18:16:33.000Z
+- [Trump signs order to change child vaccine recommendations](https://www.nbcnews.com/nightly-news/video/trump-signs-order-to-change-child-vaccine-recommendations-268070469795?utm_source=lootura.com) — 2026-08-10T22:47:43.000Z
+- [Recount puts Trump-backed challenger in the lead of Indiana state Senate primary](https://www.nbcnews.com/politics/2026-election/recount-puts-trump-backed-challenger-lead-indiana-state-senate-primary-rcna591815?utm_source=lootura.com) — 2026-08-11T00:07:05.000Z
+- [Trump responds to Iran’s new demands](https://www.nbcnews.com/nightly-news/video/trump-responds-to-iran-s-new-demands-268070469841?utm_source=lootura.com) — 2026-08-10T22:51:38.000Z
 - [Trump and RFK Jr. try again to upend vaccines for kids](https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order?utm_source=lootura.com) — 2026-08-10T20:25:02.000Z
-- [Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost](https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
+- [Tamara Keith and Amy Walter on the energy behind outsider candidates](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates?utm_source=lootura.com) — 2026-08-10T22:30:23.000Z
+- [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z
 - [WATCH: Trump signs executive order on childhood vaccine recommendations](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations?utm_source=lootura.com) — 2026-08-10T20:10:20.000Z
-- [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
-- [White House officials tamped down efforts to oust Max Miller in final days](https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com) — 2026-08-10T20:05:33.000Z
-- [Trump signs order attempting to override CDC vaccine schedule and break up MMR shots](https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles?utm_source=lootura.com) — 2026-08-10T19:06:07.000Z
-- [One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?](https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com) — 2026-08-10T20:01:53.000Z
+- [Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz](https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com) — 2026-08-10T22:45:55.000Z
+- [State voting officials join CISA security call with election 85 days away](https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away?utm_source=lootura.com) — 2026-08-10T22:40:59.000Z

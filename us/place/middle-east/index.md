@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Trump Wants to Move On From the Middle East. It’s Not Letting Him.
+
+President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.
+
+Date: 2026-08-11
 
 ### Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage
 
@@ -62,12 +68,6 @@ Oil prices fell on Monday as investors pared geopolitical risk premiums after U.
 
 Date: 2026-08-03
 
-### Oil drops over 5% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Trump Wants to Move On From the Middle East. It’s Not Letting Him.](https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com) — 2026-08-11T00:41:13.000Z

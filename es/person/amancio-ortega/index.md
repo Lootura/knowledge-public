@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Amancio Ortega (90 años), fundador de Inditex, sobre su infancia: «En casa no había lujos. No había nada de nada, pero nos educaron con valores»
+
+La historia de Amancio Ortega está estrechamente ligada al éxito empresarial, pero mucho antes de convertirse en una de las mayores fortunas del mundo, su vida comenzó en un entorno muy distinto. Llegó al mundo el 28 de marzo de 1936 en Busdongo de Arbas , un pequeño pueblo de la montaña leonesa donde su familia llevab.
+
+Date: 2026-08-10
 
 ### Amancio Ortega, 90 años, sobre su infancia: «Mi padre ganaba 300 pesetas, no daba para una familia»
 
@@ -64,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Amancio Ortega (90 años), fundador de Inditex, sobre su infancia: «En casa no había lujos. No había nada de nada, pero nos educaron con valores»](https://okdiario.com/cool/famosos/frase-amancio-ortega-90-anos-fundador-inditexs-obre-infancia-casa-no-habia-lujos-no-habia-nada-nada-pero-nos-educaron-valores-19110368?utm_source=lootura.com) — 2026-08-10T21:44:01.000Z

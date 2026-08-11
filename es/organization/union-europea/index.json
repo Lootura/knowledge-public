@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "China hurga en la fractura de la Unión Europea por Ceuta",
+      "summary": "Para el núcleo del poder comunista chino, la sangre derramada en el espigón ceutí se diagnostica como el abono perfecto para el fascismo continental y el certificado de defunción de la solidaridad europea. Las decenas de bolsas mortuorias apiladas en el antiguo Hospital Militar de O’Donnell representan, bajo el frío es.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Marruecos compra impunidad",
       "summary": "Algunos esperaban que los ministros de Interior de la Unión Europea, reunidos el 4 de agosto, defendiesen a España de la invasión proxy de Ceuta organizada por Marruecos , exigiesen a Pedro Sánchez medidas severas y castigasen a Mohamed VI . No ha ocurrido nada de ello. Tampoco que Sánchez reaccionase contra Marruecos.",
@@ -58,13 +63,15 @@
       "title": "Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera",
       "summary": "La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores migrantes y la coordinación entre España, Marruecos y la Unión Europea . Mientras avanzan los trabajos de identificación de las víctimas mortales recuperadas en.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta",
-      "summary": "Ni el Centro Nacional de Inteligencia (CNI) ni ningún otro servicio de información, ni español ni de la Unión Europea (UE). El ministro del Interior, Fernando Grande-Marlaska, ha insistido de nuevo este martes en que el Gobierno no recibió ningún informe ni alerta previa de que decenas de miles de migrantes iban a cruz.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China hurga en la fractura de la Unión Europea por Ceuta",
+      "url": "https://www.larazon.es/espana/china-hurga-fractura-union-europea-ceuta_202608116a79dd49a5690f0473726b9a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T00:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

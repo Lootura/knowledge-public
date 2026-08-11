@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [In a competitive Maine Senate race, women voters could be the deciders](https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
+No public source links.

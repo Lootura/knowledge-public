@@ -3,20 +3,38 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested
+### Captain of boat that capsized in New York facing federal charges after mom, infant die
 
-A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
+Manuel Hernandez, the boat's 46-year-old captain, was arrested on reckless endangerment charges and also charged in federal court with two counts of misconduct and neglect.
 
-Date: 2026-08-10
+Date: 2026-08-11
+
+### Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani
+
+A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.
+
+Date: 2026-08-11
 
 ### A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments
 
 Investigators are focusing on the tour operator and the pilot of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.
+
+Date: 2026-08-10
+
+### Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child
+
+The captain of an unlicensed boat that capsized in the New York harbor near Liberty Island, killing a young mother and her baby, has been charged in their deaths. NBC News' Marquise Francis reports.
+
+Date: 2026-08-10
+
+### Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested
+
+A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
 
 Date: 2026-08-10
 
@@ -50,25 +68,9 @@ When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a te
 
 Date: 2026-08-09
 
-### Cosmic filaments help set first limits on dark matter's decay into gravitons
-
-Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has proposed a new way to hunt for the elusive substance. Their approach involves sea.
-
-Date: 2026-08-09
-
-### Alexandria Ocasio-Cortez says she hasn’t ruled out a potential run for president or Senate in 2028
-
-The New York representative said “anything is possible at this juncture” when asked whether she’d thought about running for Senate Minority Leader Chuck Schumer’s seat.
-
-Date: 2026-08-09
-
-### Alexandria Ocasio-Cortez announces decision to freeze her eggs
-
-US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her eggs and will be sharing the process online. The progressive New York congresswoman, 36, revealed her decision to undergo fertility treatment i.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-10T20:07:47.000Z
+- [Captain of boat that capsized in New York facing federal charges after mom, infant die](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-11T00:14:41.000Z
+- [Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child](https://www.nbcnews.com/video/boat-captain-charged-after-vessel-capsizes-near-statue-of-liberty-killing-woman-and-her-child-268069445816?utm_source=lootura.com) — 2026-08-10T22:49:53.000Z
 - [A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments](https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html?utm_source=lootura.com) — 2026-08-10T19:28:41.000Z
+- [Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani](https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html?utm_source=lootura.com) — 2026-08-11T00:16:36.000Z

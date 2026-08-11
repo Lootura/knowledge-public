@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [What to Know About the Earthquake in Colombia](https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/?utm_source=lootura.com) — 2026-08-10T19:41:16.000Z
+No public source links.

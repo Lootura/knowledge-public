@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Funding milestone detected
+
+Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.
+
+Date: 2026-08-10
 
 ### Ukrainian drone strikes deep inside Russia kill at least 13, authorities say
 
@@ -17,12 +23,6 @@ Date: 2026-08-10
 ### Why Russia and Ukraine can't stop each other's air attacks
 
 Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.
-
-Date: 2026-08-10
-
-### Funding milestone detected
-
-Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.
 
 Date: 2026-08-10
 
@@ -70,6 +70,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Ukrainian drone strikes deep inside Russia kill at least 13, authorities say](https://www.cbsnews.com/news/ukraine-russia-war-drone-attack-tatarstan-oil/?utm_source=lootura.com) — 2026-08-10T10:59:00.000Z
-- [Why Russia and Ukraine can't stop each other's air attacks](https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks?utm_source=lootura.com) — 2026-08-10T20:14:08.000Z
 - [Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com) — 2026-08-10T18:15:37.000Z

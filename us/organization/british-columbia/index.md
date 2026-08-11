@@ -46,4 +46,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Illegal fishing captures up to 15% of global marine wild catch, analysis finds](https://phys.org/news/2026-08-illegal-fishing-captures-global-marine.html?utm_source=lootura.com) — 2026-08-10T19:00:01.000Z
+No public source links.

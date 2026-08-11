@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’](https://www.nbcnews.com/meet-the-press/video/democratic-minnesota-senate-candidate-says-her-campaign-is-about-the-many-versus-the-money-268062789653?utm_source=lootura.com) — 2026-08-10T20:26:23.000Z
+No public source links.

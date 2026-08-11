@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,13 +30,18 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
-      "summary": "Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.",
+      "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
+      "summary": "Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para \"todas las personas que Irán ha matado a lo largo de los últimos 50 años\" Leer.",
       "date": "2026-08-10"
     },
     {
-      "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
-      "summary": "Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para \"todas las personas que Irán ha matado a lo largo de los últimos 50 años\" Leer.",
+      "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
+      "summary": "La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
+      "summary": "Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.",
       "date": "2026-08-10"
     },
     {
@@ -68,20 +73,9 @@
       "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
       "summary": "La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Netanyahu rechaza la hoja de ruta que buscaba implementar el plan Trump en Gaza",
-      "summary": "\"El Ejército de Defensa de Israel no llevará a cabo retirada alguna hasta que se produzca un desarme real de Hamas y seguirá frustrando las amenazas contra nuestras fuerzas y nuestros ciudadanos\" Leer.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
-    {
-      "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
-      "url": "https://www.abc.es/internacional/trump-revoluciona-calendario-vacunas-reduce-exigencias-gubernamentales-20260809213104-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T19:31:30.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
       "url": "https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com",
@@ -89,17 +83,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
+      "url": "https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:45:21.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
       "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
       "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T13:23:04.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
-      "url": "https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:08:32.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

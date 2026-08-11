@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -77,13 +77,7 @@
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/tamarit-valencia-busca-sorprender-publico-donostiarra-20260810112148-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T09:21:49.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Naturaleza bajo cuidados intensivos",
-      "url": "https://www.diariovasco.com/san-sebastian/naturaleza-bajo-cuidados-intensivos-20260810000418-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T22:04:19.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

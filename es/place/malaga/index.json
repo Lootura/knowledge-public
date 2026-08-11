@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
+      "summary": "El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...",
+      "date": "2026-08-10"
+    },
     {
       "title": "Viaja a Mallorca y critica la masificación turística en la isla: \"Yo vivo y Málaga y ya me quejo, pero es que creo que esto es otro nivel\"",
       "summary": "El turismo masivo en las Islas Baleares vuelve a estar en el punto de mira, esta vez de la mano de Adriana , creadora de contenido conocida en redes como @adriianitamaillo , que ha compartido en un vídeo sus impresiones tras visitar Mallorca por primera vez. Entre el calor pegajoso de la isla y la sensación de saturaci.",
@@ -55,13 +60,15 @@
       "title": "Vuelve el fútbol a Ceuta tras la invasión: \"Esto nos sirve para desinhibirnos\"",
       "summary": "No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En ... Continuar leyendo \"Vue.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
-      "summary": "La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
+      "url": "https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T22:05:02.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

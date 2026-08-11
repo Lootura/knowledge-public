@@ -34,4 +34,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Costco’s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale?utm_source=lootura.com) — 2026-08-10T19:14:27.000Z
+No public source links.

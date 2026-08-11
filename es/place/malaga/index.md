@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
+
+El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...
+
+Date: 2026-08-10
 
 ### Viaja a Mallorca y critica la masificación turística en la isla: "Yo vivo y Málaga y ya me quejo, pero es que creo que esto es otro nivel"
 
@@ -62,12 +68,6 @@ No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intent
 
 Date: 2026-08-07
 
-### Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’
-
-La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona](https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com) — 2026-08-10T22:05:02.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T01:26:07.655Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-10
 ### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
 
 Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
+
+Date: 2026-08-10
+
+### María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos
+
+Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.
 
 Date: 2026-08-10
 
@@ -62,13 +68,8 @@ Alberto Núñez Feijóo consolida su posición como el dirigente político mejor
 
 Date: 2026-08-10
 
-### La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos
-
-La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos](https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com) — 2026-08-10T23:15:51.000Z
 - [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
 - [Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona](https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com) — 2026-08-10T12:17:20.000Z

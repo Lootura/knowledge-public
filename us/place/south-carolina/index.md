@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### Tamara Keith and Amy Walter on the energy behind outsider candidates
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including where Democratic primary voters stand this election year, the energy behind outsider candidates, the strength of President Trump's endorsement in South Carolina and GOP Rep.
+
+Date: 2026-08-10
 
 ### Will Darline Graham face the same fate Pamela Evette did in South Carolina?
 
@@ -62,12 +68,7 @@ Ms. Graham, who filled her brother’s Senate seat in South Carolina after his d
 
 Date: 2026-07-20
 
-### Trump's Endorsement Could Set the Stage for a Historic Senate Succession
-
-Sen. Darline Graham Nordone, Republican of South Carolina, participates in a ceremonial swearing-in at the U.S. Capitol on July 14, 2026, in Washington, D.C. —Finn Gomez—Getty Images President Donald Trump on Friday endorsed Sen. Darline Graham Nordone to run for a full term in November, in what could become a historic.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina](https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com) — 2026-08-10T23:57:00.000Z
+- [Tamara Keith and Amy Walter on the energy behind outsider candidates](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates?utm_source=lootura.com) — 2026-08-10T22:30:23.000Z

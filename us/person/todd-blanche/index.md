@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Todd Blanche, Trump’s former personal lawyer, sworn in as US attorney general](https://www.theguardian.com/us-news/2026/aug/10/todd-blanche-attorney-general-sworn-in?utm_source=lootura.com) — 2026-08-10T19:18:57.000Z
+No public source links.

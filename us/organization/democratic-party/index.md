@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-10
 ### Congressional Democrats to investigate efforts to deport U.S. military members and their families
 
 The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
+
+Date: 2026-08-10
+
+### Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End
+
+Democrats appear likely to nominate a democratic socialist for governor. How did they get here?
 
 Date: 2026-08-10
 
@@ -62,15 +68,8 @@ Republicans are trying to hang fringe positions on Democrats but may not be able
 
 Date: 2026-08-09
 
-### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
-
-KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’](https://www.nbcnews.com/meet-the-press/video/democratic-minnesota-senate-candidate-says-her-campaign-is-about-the-many-versus-the-money-268062789653?utm_source=lootura.com) — 2026-08-10T20:26:23.000Z
 - [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
 - [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
-- [The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html?utm_source=lootura.com) — 2026-08-10T09:02:42.000Z
+- [Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End](https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com) — 2026-08-10T21:44:28.000Z

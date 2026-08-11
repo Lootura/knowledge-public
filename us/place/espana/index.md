@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Record July heat in regions home to 900 million people](https://phys.org/news/2026-08-july-regions-home-million-people.html?utm_source=lootura.com) — 2026-08-10T20:00:10.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-11T01:26:42.685Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### News Wrap: Trump signs order calling for MMR vaccine split into 3 shots
+
+In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across separate doctor visits, Tropical Storm Dolphin made landfall in eastern China and President Trump's Board of Peace says it's in discussions with Israel after Prime Minister Netanyahu reje.
+
+Date: 2026-08-10
 
 ### Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support
 
@@ -62,12 +68,6 @@ In African tech hubs, developers are picking China’s cheap, freely available a
 
 Date: 2026-08-05
 
-### China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time
-
-Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z

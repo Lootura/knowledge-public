@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T01:26:07.655Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -53,6 +53,11 @@
       "date": "2026-08-10"
     },
     {
+      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
       "summary": "Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.",
       "date": "2026-08-10"
@@ -86,19 +91,14 @@
       "title": "Sobre la virtud del gobernante",
       "summary": "Hubo un momento que marcó mi percepción de la política. Durante la campaña electoral de 2008 en Estados Unidos , el candidato republicano, John McCain, respondía un día a las preguntas de un grupo de seguidores cuando dos de ellos se lanzaron a criticar desaforadamente a su rival demócrata, Barack Obama , con acusacion.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái",
-      "summary": "Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
-      "url": "https://www.abc.es/internacional/trump-revoluciona-calendario-vacunas-reduce-exigencias-gubernamentales-20260809213104-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T19:31:30.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:45:38.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
@@ -111,13 +111,7 @@
       "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T13:23:04.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
-      "url": "https://www.larazon.es/internacional/todd-blanche-jura-como-fiscal-general-ceremonia-privada-casa-blanca_202608106a7a2fc0a5690f047372d919.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:08:32.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

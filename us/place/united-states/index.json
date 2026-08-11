@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T01:26:42.685Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,18 +35,13 @@
   ],
   "changes": [
     {
-      "title": "Daily fragment: 2020 Midwest derecho",
-      "summary": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.",
-      "date": "2026-08-10"
+      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+      "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”.",
+      "date": "2026-08-11"
     },
     {
       "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
       "summary": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace. (Image credit: Joe Nicholson).",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-      "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share. (Image credit: Finn Gomez).",
       "date": "2026-08-10"
     },
     {
@@ -75,13 +70,18 @@
       "date": "2026-08-10"
     },
     {
-      "title": "The U.S. just had its hottest month on record",
-      "summary": "The United States sweltered through its hottest July ever recorded last month, the National Oceanic and Atmospheric Administration confirmed Monday.",
+      "title": "Ocasio-Cortez says she's freezing her eggs as she considers her political career",
+      "summary": "The 36-year-old Ocasio-Cortez announced her decision on social media before explaining in an ABC \"This Week\" interview Sunday she has not ruled out running for president or for U.S. Senate.",
       "date": "2026-08-10"
     },
     {
-      "title": "Trump Says US is ‘Only Semi-Negotiating’ With Iran",
-      "summary": "Oil prices jumped higher after Iran issued a long list of demands to reopen the Strait of Hormuz. The United States announced more sanctions against Iran as questions loom over negotiations. NBC’s Keir Simmons reports for TODAY.",
+      "title": "Thousands evacuated as wildfires burn across western U.S. and Canada",
+      "summary": "Wildfires are burning across the western U.S. and Canada, leaving some residents keeping a wary eye out for possible evacuation orders.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "How have the goals of the Iran war evolved?",
+      "summary": "The Iranian regime is now saying it will not reopen the Strait of Hormuz if the U.S. doesn't meet its demands, including compensation for the damage it has done in the more than five months since the start of the war. While the U.S. has reiterated that its top priority is ensuring that Iran can never achieve nuclear ca.",
       "date": "2026-08-10"
     }
   ],
@@ -93,40 +93,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Daily fragment: 2020 Midwest derecho",
-      "url": "https://en.wikipedia.org/wiki/2020_Midwest_derecho?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T04:00:00.000Z",
-      "sourceId": "lootura-us-lootura-daily"
-    },
-    {
-      "title": "The U.S. just had its hottest month on record",
-      "url": "https://www.nbcnews.com/science/climate-change/us-just-hottest-month-record-rcna591771?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:13:25.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump Says US is ‘Only Semi-Negotiating’ With Iran",
-      "url": "https://www.today.com/video/what-s-included-in-iran-s-demands-to-reopen-strait-of-hormuz-268024389758?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:23:49.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’",
-      "url": "https://www.nbcnews.com/meet-the-press/video/democratic-minnesota-senate-candidate-says-her-campaign-is-about-the-many-versus-the-money-268062789653?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:26:23.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Brendan Murphy's art is celebrating America's 250 with exhibit in Washington D.C.",
-      "url": "https://www.nbcnews.com/now/video/new-d-c-exhibit-celebrating-features-the-art-of-brendan-murphy-268056645851?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T19:23:22.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Crews battle wildfires in western U.S. and Canada",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah?utm_source=lootura.com",
-      "publishedAt": "2026-08-09T22:03:09.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "How have the goals of the Iran war evolved?",
+      "url": "https://www.cbsnews.com/video/how-have-the-goals-of-the-iran-war-evolved/?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T23:40:46.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
@@ -135,17 +105,47 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Ocasio-Cortez says she's freezing her eggs as she considers her political career",
       "url": "https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career?utm_source=lootura.com",
       "publishedAt": "2026-08-10T17:07:57.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
+      "url": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T22:25:01.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Thousands evacuated as wildfires burn across western U.S. and Canada",
+      "url": "https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T17:51:12.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T22:45:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Congressional Democrats to investigate efforts to deport U.S. military members and their families",
+      "url": "https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T14:40:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Contiguous U.S. broke its record for hottest month ever in July, NOAA says",
+      "url": "https://www.pbs.org/newshour/nation/contiguous-u-s-broke-its-record-for-hottest-month-ever-in-july-noaa-says?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T23:53:13.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22",
+      "url": "https://www.nytimes.com/2026/08/10/podcasts/the-headlines/cameras-car-flock-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T10:00:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 13
 }

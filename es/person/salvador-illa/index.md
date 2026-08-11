@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Jaume Giró, la última víctima](https://okdiario.com/opinion/jaume-giro-ultima-victima-19157996?utm_source=lootura.com) — 2026-08-10T18:40:23.000Z
+No public source links.
