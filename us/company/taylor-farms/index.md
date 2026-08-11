@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Taylor Farms recalls jalapeño items at Walmart, Target over salmonella risk](https://www.cbsnews.com/news/taylor-farms-jalapeno-recall-salmonella-outbreak/?utm_source=lootura.com) — 2026-08-10T23:33:25.000Z
+No public source links.

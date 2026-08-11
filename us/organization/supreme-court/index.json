@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,16 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows",
+      "summary": "Critics argue US high court justice should recuse himself from upcoming fossil fuel firms’ climate accountability case Supreme court justice Samuel Alito gained up to $2.9m from his fossil fuel interests between 2005 and 2024, a new review of financial disclosures shows. The analysis from the non-profit advocacy group.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall",
+      "summary": "The U.S. Supreme Court building on May 4, 2026 in Washington, DC. —Andrew Harnik—Getty Images The Supreme Court is set to hear oral arguments this fall in a landmark case to determine whether local and state governments can sue fossil fuel companies for climate-related disaster costs. The case, Suncor v. Boulder , will.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Trump Vows to Take Ballroom Battle to the Supreme Court",
       "summary": "President Donald Trump’s planned ballroom is in jeopardy after a federal appeals court ruled Congress should have approved the project first. The president is now calling on the Supreme Court to overturn that decision. NBC’s Gabe Gutierrez reports for TODAY.",
@@ -55,18 +65,21 @@
       "title": "Trump issues new executive orders aimed at birthright citizenship",
       "summary": "The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Targets 'Birth Tourism' With Two New Executive Orders",
-      "summary": "President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Seeks to Restrict Birthright Citizenship With New Orders",
-      "summary": "US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:00:03.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall",
+      "url": "https://time.com/article/2026/08/11/us-supreme-court-suncor-v-boulder-climate-accountability/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T14:41:36.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
 }

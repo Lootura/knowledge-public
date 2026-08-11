@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge
+
+Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.
+
+Date: 2026-08-11
 
 ### Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge
 
@@ -62,12 +68,6 @@ For the first time in more than a century, a total solar eclipse is coming to ma
 
 Date: 2026-08-03
 
-### Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest
-
-A new study provides quantitative data on cranial vault thickness in Homo antecessor, based on the analysis of three parietal fragments recovered from the Gran Dolina site in the Sierra de Atapuerca, Burgos, Spain.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge](https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com) — 2026-08-11T09:03:49.000Z
+- [Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge](https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com) — 2026-08-11T14:44:51.000Z

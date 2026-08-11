@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,6 +32,26 @@
       "date": "2026-08-11"
     },
     {
+      "title": "NATO spending pressure returned",
+      "summary": "A U.S. official tells NBC News that President Trump's team used an elaborate ruse to fly him out of Turkey after the NATO Summit amid threats to his life during the Iran war. NBC News' Shannon Pettypiece has details on the plan to keep the president's true location hidden.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war",
+      "summary": "President Donald Trump was whisked out of Turkey last month on a military aircraft in an elaborate plot to keep his location secret amid security fears from the war with neighboring Iran, according to a U.S. official with knowledge of the plan.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Egyptian blue in Iron Age Iran points to ancient connections",
+      "summary": "Egyptian blue, considered the world's earliest synthetic pigment, was prized for its stable blue hues and served as a common blue paint in Egypt as early as 5,000 years ago, as well as the base material for small items such as beads and vessels in later periods.",
+      "date": "2026-08-11"
+    },
+    {
       "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
       "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. (Image credit: Julia Demaree Nikhinson).",
       "date": "2026-08-11"
@@ -45,26 +65,6 @@
       "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
       "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "How have the goals of the Iran war evolved?",
-      "summary": "The Iranian regime is now saying it will not reopen the Strait of Hormuz if the U.S. doesn't meet its demands, including compensation for the damage it has done in the more than five months since the start of the war. While the U.S. has reiterated that its top priority is ensuring that Iran can never achieve nuclear ca.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22",
-      "summary": "Plus, a drying river reveals Nazi-era vessels.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-      "summary": "The appointment of Mohsen Rezaei, a longtime military commander, to a top security post suggests that the country’s establishment is consolidating power.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
-      "summary": "Iran doubled down on keeping the Strait of Hormuz closed until the U.S. meets a sweeping list of demands. President Trump scoffed at those conditions, especially paying reparations to Iran for damages caused by five months of U.S.-Israeli bombardments. The impasse comes as war appears closer in Yemen between a Saudi-ba.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -75,10 +75,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How have the goals of the Iran war evolved?",
-      "url": "https://www.cbsnews.com/video/how-have-the-goals-of-the-iran-war-evolved/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T23:40:46.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Official confirms Trump used elaborate ruse to fly out of Turkey amid Iran war",
+      "url": "https://www.nbcnews.com/now/video/official-confirms-trump-used-elaborate-ruse-to-fly-out-of-turkey-amid-iran-war-268117061972?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:12:01.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-secret-flight-turkey-iran-rcna591860?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T15:40:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -87,11 +93,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat",
+      "url": "https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:04:51.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Egyptian blue in Iron Age Iran points to ancient connections",
+      "url": "https://phys.org/news/2026-08-egyptian-blue-iron-age-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:40:06.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T02:34:23.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

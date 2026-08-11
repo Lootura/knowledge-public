@@ -70,6 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes](https://cincodias.elpais.com/mercados-financieros/2026-08-11/china-elige-a-deutsche-bank-como-primer-banco-europeo-para-procesar-operaciones-en-yuanes.html?utm_source=lootura.com) — 2026-08-11T08:16:54.000Z
-- ['Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año](https://www.elmundo.es/galicia/2026/08/11/6a7a0bfe21efa0cb578b4592.html?utm_source=lootura.com) — 2026-08-10T23:29:46.000Z
-- [La disuasión nuclear de China: el as bajo la manga para dominar Asia-Pacífico](https://elordenmundial.com/china-armas-nucleares-disuasion-asia-pacifico/?utm_source=lootura.com) — 2026-08-11T08:33:14.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La nueva función de ChatGPT es una maravilla: adiós a la pereza de reservar mesa en un restaurante](https://hipertextual.com/inteligencia-artificial/la-nueva-funcion-de-chatgpt-es-una-maravilla-adios-a-la-pereza-de-reservar-mesa-en-un-restaurante/?utm_source=lootura.com) — 2026-08-11T07:43:50.000Z
+No public source links.

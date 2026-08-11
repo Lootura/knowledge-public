@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,11 +24,6 @@
       "date": "2026-08-11"
     },
     {
-      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
-      "summary": "Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.",
-      "date": "2026-08-11"
-    },
-    {
       "title": "How We’re Covering an ‘Identity Crisis’ in Politics",
       "summary": "Recent primary wins have posed critical questions for both Republicans and Democrats as they head into the fall midterms. Carolyn Ryan, managing editor of The New York Times, shares how reporters approach coverage of shifting political dynamics.",
       "date": "2026-08-11"
@@ -36,6 +31,11 @@
     {
       "title": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
       "summary": "The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
+      "summary": "Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.",
       "date": "2026-08-11"
     },
     {
@@ -78,12 +78,6 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
-      "url": "https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T11:19:18.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "How We’re Covering an ‘Identity Crisis’ in Politics",
       "url": "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T09:40:18.000Z",
@@ -94,13 +88,7 @@
       "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T11:36:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T21:44:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

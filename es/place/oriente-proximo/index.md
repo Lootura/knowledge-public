@@ -3,20 +3,20 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
 
-### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
-
-El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
-
-Date: 2026-08-11
-
 ### El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte
 
 El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.
+
+Date: 2026-08-11
+
+### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
+
+El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
 
 Date: 2026-08-11
 
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T11:42:46.000Z
 - [El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte](https://theobjective.com/internacional/2026-08-11/libano-oriente-proximo-abolir-pena-muerte/?utm_source=lootura.com) — 2026-08-11T11:51:13.000Z

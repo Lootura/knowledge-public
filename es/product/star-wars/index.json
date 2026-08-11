@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/star-wars/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/star-wars/index.json",
   "description": "Sigue la actividad de Star Wars en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [
     "La guerra de las galaxias"
   ],
   "changes": [
-    {
-      "title": "Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel",
-      "summary": "La saga Star Wars estaría a punto de fichar a una de las grandes estrellas de Marvel , concretamente de Guardianes de la Galaxia . Hace unos años, James Gunn confirmó abiertamente que las películas de George Lucas fueron una inspiración directa para las aventuras de Star Lord y compañía. Ahora, las franquicias volverán.",
-      "date": "2026-08-11"
-    },
     {
       "title": "John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn",
       "summary": "Aunque la trilogía de secuelas de Star Wars acabó hace ya siete años, muchos fans siguen dándole vueltas al asunto. Y uno de los actores con los que más pueden debatir e intercambiar opiniones al respecto siempre ha sido John Boyega , que interpretó a Finn . En numerosas ocasiones, la estrella de la saga galáctica ha h.",
@@ -27,15 +22,14 @@
       "title": "Discovered by Atlas",
       "summary": "Star Wars first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-11"
+    },
+    {
+      "title": "Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel",
+      "summary": "La saga Star Wars estaría a punto de fichar a una de las grandes estrellas de Marvel , concretamente de Guardianes de la Galaxia . Hace unos años, James Gunn confirmó abiertamente que las películas de George Lucas fueron una inspiración directa para las aventuras de Star Lord y compañía. Ahora, las franquicias volverán.",
+      "date": "2026-08-11"
     }
   ],
   "sources": [
-    {
-      "title": "Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel",
-      "url": "https://hipertextual.com/cine-television/filtracion-de-star-wars-apunta-al-fichaje-de-una-gran-estrella-de-guardianes-de-la-galaxia-de-marvel/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:44:40.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
     {
       "title": "John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn",
       "url": "https://hipertextual.com/cine-television/john-boyega-quiere-mitico-jedi-precuelas-star-wars-como-maestro-de-finn/?utm_source=lootura.com",
@@ -43,5 +37,5 @@
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

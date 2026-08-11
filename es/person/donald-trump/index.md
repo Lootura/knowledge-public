@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,36 @@
 ### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
 
 La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
+
+Date: 2026-08-11
+
+### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
+
+El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
+
+Date: 2026-08-11
+
+### Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka
+
+Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo la administración Trump no frenan los planes de crecimiento de Inditex en ese mercado, el segundo más importante para el grupo. Seguir leyendo.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
+
+El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
+
+Date: 2026-08-11
+
+### Trump incide en la alarma sobre la vacunación infantil y reduce las dosis recomendadas para los niños
+
+Después de un trabajo de décadas por erradicar enfermedades y a pesar del consenso científico sobre los beneficios de las vacunas, el movimiento Make America Healthy Again (“Volver a Estados Unidos Saludable de Nuevo”), liderado por el secretario de Salud Robert Kennedy, está imponiendo su agenda antivacunas en la prim.
 
 Date: 2026-08-11
 
@@ -38,39 +68,11 @@ Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un ac
 
 Date: 2026-08-11
 
-### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
-
-Date: 2026-08-11
-
-### Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales
-
-No todas las relaciones tienen un final feliz. La de Trump Media (TMTG) y Crypto.com, el undécimo exchange más grande según Coinmarketcap, duró poco más de un año. Juntos tenían muchos proyectos a largo plazo: lanzar fondos y productos cotizados (ETF) de activos digitales, crear una empresa de tesorería cripto y desple.
-
-Date: 2026-08-11
-
-### Irán y Omán redibujan el mapa de Ormuz sin Washington
-
-Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para "todas las personas que Irán ha matado a lo largo de los últimos 50 años" Leer.
-
-Date: 2026-08-10
-
-### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
-
-La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
-
-Date: 2026-08-10
-
-### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
-
-Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán](https://www.abc.es/internacional/trump-camuflo-camion-catering-abandonar-air-force-20260811084235-nt.html?utm_source=lootura.com) — 2026-08-11T16:08:37.000Z
+- [Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka](https://cincodias.elpais.com/companias/2026-08-11/inditex-eleva-la-apuesta-en-ee-uu-con-la-apertura-de-la-primera-tienda-de-bershka.html?utm_source=lootura.com) — 2026-08-11T16:50:01.000Z
 - [Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense](https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com) — 2026-08-11T05:16:48.000Z
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [El Ibex sondea récords liderado por Amadeus y Repsol](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T12:11:53.000Z
-- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z
+- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [Trump salió de Turquía escondido en un camión ante un posible atentado de Irán](https://www.expansion.com/economia/politica/2026/08/11/6a7b2bdc468aeb8d768b458e.html?utm_source=lootura.com) — 2026-08-11T14:04:13.000Z
+- [Trump incide en la alarma sobre la vacunación infantil y reduce las dosis recomendadas para los niños](https://www.lavanguardia.com/internacional/20260811/11612159/trump-incide-alarma-sobre-vacunacion-infantil-reduce-dosis-recomendadas-ninos.html?utm_source=lootura.com) — 2026-08-11T15:57:27.000Z

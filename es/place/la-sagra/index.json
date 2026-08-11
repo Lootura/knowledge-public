@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-sagra/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-sagra/index.json",
   "description": "Sigue la actividad de La Sagra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Renfe estudia recurrir una resolución de CNMC para bloquear la entrada de Iryo en sus talleres",
+      "summary": "Renfe analiza la resolución de la Comisión Nacional de los Mercados y la Competencia ( CNMC ) sobre el acceso de Iryo a su taller de La Sagra (Toledo) y su fundamentación jurídica, técnica y operativa. La compañía ha advertido de que su capacidad industrial no es «ilimitada» ni se encuentra «desocupada». La CNMC ha est.",
+      "date": "2026-08-11"
+    },
     {
       "title": "La CNMC insta a Renfe a permitir que Iryo haga el mantenimiento de sus trenes en La Sagra",
       "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) no recula y ha resuelto la denuncia presentada por Iryo en relación con la denegación de acceso de su material rodante a los talleres de mantenimiento pesado de Renfe Mantenimiento, y que ya en marzo se adoptó de manera provisional pero estaba a la espera de.",
@@ -29,10 +34,10 @@
   ],
   "sources": [
     {
-      "title": "La CNMC insta a Renfe a permitir que Iryo haga el mantenimiento de sus trenes en La Sagra",
-      "url": "https://cincodias.elpais.com/companias/2026-08-11/la-cnmc-insta-a-renfe-a-permitir-que-iryo-haga-el-mantenimiento-de-sus-trenes-en-la-sagra.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:29:10.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Renfe estudia recurrir una resolución de CNMC para bloquear la entrada de Iryo en sus talleres",
+      "url": "https://theobjective.com/economia/transporte/2026-08-11/renfe-recurso-cnmc-talleres-iryo/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T14:59:24.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

@@ -3,7 +3,7 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Fuentes
 
 - [Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península](https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com) — 2026-08-11T12:42:51.000Z
-- [Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”](https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html?utm_source=lootura.com) — 2026-08-11T10:55:36.000Z

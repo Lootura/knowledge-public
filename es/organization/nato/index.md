@@ -3,10 +3,28 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
+
+El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
+
+El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
+
+Date: 2026-08-11
 
 ### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán
 
@@ -50,24 +68,8 @@ El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha aboga
 
 Date: 2026-08-03
 
-### Pánico en una playa del sur de Rusia con seis muertos por el derribo de un dron ucraniano
-
-Moscú acusa a Ucrania de terrorismo y a la OTAN de patrocinarlo Leer.
-
-Date: 2026-08-03
-
-### China acelera el desarrollo de su caza de sexta generación con un rediseño que pone en jaque a la OTAN
-
-El gigante asiático ha intensificado la carrera armamentística global con el desarrollo de su caza de sexta generación. Las recientes imágenes filtradas del programa aeroespacial chino confirman que la aeronave avanza a un ritmo vertiginoso, una evolución que supera las estimaciones más optimistas de los analistas occi.
-
-Date: 2026-08-03
-
-### Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN
-
-La OTAN continúa reforzando una de sus capacidades aéreas más estratégicas. La Agencia de Apoyo y Adquisiciones de la Alianza (NSPA) ha superado un nuevo hito en el desarrollo del sistema de entrenamiento de la Flota Multinacional de Aviones Cisterna y Transporte (MMF, por sus siglas en inglés) tras completar con éxito.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán](https://www.abc.es/internacional/trump-camuflo-camion-catering-abandonar-air-force-20260811084235-nt.html?utm_source=lootura.com) — 2026-08-11T16:08:37.000Z
+- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [Trump salió de Turquía escondido en un camión ante un posible atentado de Irán](https://www.expansion.com/economia/politica/2026/08/11/6a7b2bdc468aeb8d768b458e.html?utm_source=lootura.com) — 2026-08-11T14:04:13.000Z

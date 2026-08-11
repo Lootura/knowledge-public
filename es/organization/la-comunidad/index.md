@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña
+
+La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por "créditos consignados insuficientes". El Ejecutivo regional habla.
+
+Date: 2026-08-11
 
 ### Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid ha asegurado que no tiene "ninguna información" sobre la
 
 Date: 2026-08-06
 
-### Los ganaderías afectadas por el incendio de la Sierra Oeste reciben cerca de medio millón de kilos de forraje
-
-La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa que forma parte de las medidas que ha puesto en marcha el Gobierno regional para la reconstrucción de las zonas dañadas. El director general de Agricultura, Ganadería y Aliment.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z

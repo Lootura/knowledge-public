@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Maine lifeguard \"started swimming like hell\" when shark pulled him underwater",
+      "summary": "A lifeguard said a shark off the coast of Scarborough Beach in Maine grabbed onto his buoy and pulled him 5 feet underwater before he was able to get free.",
+      "date": "2026-08-11"
+    },
     {
       "title": "In a competitive Maine Senate race, women voters could be the deciders",
       "summary": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).",
@@ -61,13 +66,15 @@
       "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
-      "summary": "Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine lifeguard \"started swimming like hell\" when shark pulled him underwater",
+      "url": "https://www.cbsnews.com/news/maine-lifeguard-shark-attack-sightings-warning/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:53:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
 
 Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
 
 Date: 2026-08-11
 
@@ -62,13 +68,7 @@ Rage-baiting efforts of Trump accounts silenced after posts such as a video link
 
 Date: 2026-08-09
 
-### Pregnant woman in hiding as White House ends deportation protections for Haitian migrants
-
-In Florida, a 29-year-old expectant mother is in hiding, concerned that she will be deported at any moment after the White House this week ended the Temporary Protected Status program for more than 300,000 Haitian nationals. Cristian Benavides has details.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed](https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com) — 2026-08-10T20:42:38.000Z
+- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
 - [Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President](https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z

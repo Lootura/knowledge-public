@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Man who allegedly arranged Tupac Shakur's 1996 killing is on trial in Las Vegas](https://www.cbsnews.com/news/tupac-shakur-killing-1996-alleged-organizer-trial-las-vegas-duane-keffe-d-davis/?utm_source=lootura.com) — 2026-08-10T23:57:46.000Z
+No public source links.

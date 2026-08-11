@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed](https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com) — 2026-08-10T20:42:38.000Z
+- [U.S. Marine veteran freed from Russian prison after nearly 4 years](https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com) — 2026-08-11T16:36:40.000Z

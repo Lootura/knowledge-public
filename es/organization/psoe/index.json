@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,16 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
+      "summary": "El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista",
+      "summary": "El polémico solar de Chipiona que vuelve a estar en el foco por la operación urbanística que rodeó su adquisición tiene detrás a un empresario cuya relación con el PSOE era mucho más estrecha de lo que podría parecer a primera vista. Se trata de Joaquín Guerrero Romero, promotor inmobiliario que participó junto al Ayun.",
+      "date": "2026-08-11"
+    },
     {
       "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
       "summary": "Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas ponen en duda la oportunidad de los contenidos difundidos en las redes del presidente.",
@@ -60,18 +70,21 @@
       "title": "El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»",
       "summary": "El PSOE ha decidido no tolerar más insultos a su líder, Pedro Sánchez . El partido ha anunciado este domingo en un comunicado que ha presentado una denuncia contra la presidenta de Les Corts Valencianes, Llanos Mass ó , por llamar «capo de la mafia corrupta» al actual presidente del Gobierno de la nación. Estos término.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
-      "summary": "El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos",
-      "summary": "El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
+      "url": "https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:25:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista",
+      "url": "https://okdiario.com/andalucia/empresario-que-compro-parcela-chipiona-junto-psoe-rinconada-era-afiliado-socialista-19163898?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:10:27.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

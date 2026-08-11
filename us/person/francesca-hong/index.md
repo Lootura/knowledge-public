@@ -58,4 +58,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Wisconsin considers democratic socialist for governor amid US wave of progressive wins](https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race?utm_source=lootura.com) — 2026-08-11T10:00:57.000Z
+No public source links.

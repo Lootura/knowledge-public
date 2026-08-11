@@ -3,10 +3,22 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows
+
+Critics argue US high court justice should recuse himself from upcoming fossil fuel firms’ climate accountability case Supreme court justice Samuel Alito gained up to $2.9m from his fossil fuel interests between 2005 and 2024, a new review of financial disclosures shows. The analysis from the non-profit advocacy group.
+
+Date: 2026-08-11
+
+### The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall
+
+The U.S. Supreme Court building on May 4, 2026 in Washington, DC. —Andrew Harnik—Getty Images The Supreme Court is set to hear oral arguments this fall in a landmark case to determine whether local and state governments can sue fossil fuel companies for climate-related disaster costs. The case, Suncor v. Boulder , will.
+
+Date: 2026-08-11
 
 ### Trump Vows to Take Ballroom Battle to the Supreme Court
 
@@ -56,18 +68,7 @@ The Supreme Court in June struck down President Trump's earlier executive order 
 
 Date: 2026-08-07
 
-### Trump Targets 'Birth Tourism' With Two New Executive Orders
-
-President Donald Trump is once again trying to restrict birthright citizenship, signing two executive orders that aim to crack down on “birth tourism.” The Supreme Court already blocked a previous effort by the president to limit the constitutional right and critics believe this order will meet the same fate. NBC’s Gar.
-
-Date: 2026-08-07
-
-### Trump Seeks to Restrict Birthright Citizenship With New Orders
-
-US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows](https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis?utm_source=lootura.com) — 2026-08-11T16:00:03.000Z
+- [The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall](https://time.com/article/2026/08/11/us-supreme-court-suncor-v-boulder-climate-accountability/?utm_source=lootura.com) — 2026-08-11T14:41:36.000Z

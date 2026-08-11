@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T04:53:47.542Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/santiago-pedraz
 
 ## Cambios recientes
+
+### El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña
+
+El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.
+
+Date: 2026-08-11
 
 ### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
 
@@ -64,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña](https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com) — 2026-08-11T16:16:00.000Z

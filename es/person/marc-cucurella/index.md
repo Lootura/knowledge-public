@@ -3,7 +3,7 @@
 > Sigue la actividad de Marc Cucurella en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/marc-cucurella
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T15:58:55.000Z

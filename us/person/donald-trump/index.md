@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -56,15 +56,15 @@ A new executive order from President Trump calls for spacing out vaccines for ch
 
 Date: 2026-08-11
 
-### Funding milestone detected
-
-Two advisers have links to a venture fund co-investing in US defense companies that benefit from federal spending Pete Hegseth ’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in military and space t.
-
-Date: 2026-08-11
-
 ### Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole
 
 Plus, when you accidentally upset “Harry Potter” fans.
+
+Date: 2026-08-11
+
+### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
+
+Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
 
 Date: 2026-08-11
 
@@ -73,10 +73,10 @@ Date: 2026-08-11
 - [Doctors respond to Trump's vaccine executive order as kids head back to school](https://www.cbsnews.com/video/doctors-respond-trumps-vaccine-executive-order-kids-go-back-school-measles-outbreak/?utm_source=lootura.com) — 2026-08-11T02:53:00.000Z
 - [Trump signs order on new recommendations for childhood vaccines](https://www.cbsnews.com/video/trump-signs-order-on-new-recommendations-for-childhood-vaccines/?utm_source=lootura.com) — 2026-08-11T12:25:25.000Z
 - [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T12:37:00.000Z
+- [Official confirms Trump used elaborate ruse to fly out of Turkey amid Iran war](https://www.nbcnews.com/now/video/official-confirms-trump-used-elaborate-ruse-to-fly-out-of-turkey-amid-iran-war-268117061972?utm_source=lootura.com) — 2026-08-11T16:12:01.000Z
+- [Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war](https://www.nbcnews.com/politics/donald-trump/trump-secret-flight-turkey-iran-rcna591860?utm_source=lootura.com) — 2026-08-11T15:40:49.000Z
+- [Trump Signs Executive Order on Childhood Vaccine Schedule](https://www.today.com/video/critics-blast-trump-s-new-executive-order-on-childhood-vaccines-268103749666?utm_source=lootura.com) — 2026-08-11T12:41:20.000Z
 - [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
-- [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z
-- [Pete Hegseth’s Pentagon picks raise questions over Trump family business ties](https://www.theguardian.com/us-news/2026/aug/11/pete-hegseth-pentagon-picks-trump-family-business?utm_source=lootura.com) — 2026-08-11T11:00:00.000Z
+- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
 - [Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole](https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html?utm_source=lootura.com) — 2026-08-11T10:00:11.000Z
-- [One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?](https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com) — 2026-08-10T20:01:53.000Z
-- [Trump Wants to Move On From the Middle East. It’s Not Letting Him.](https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com) — 2026-08-11T02:34:23.000Z
-- [Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’](https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html?utm_source=lootura.com) — 2026-08-11T02:00:03.000Z
+- [Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans](https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html?utm_source=lootura.com) — 2026-08-11T16:03:08.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z
+- [Trump sale al rescate de Infantino: «Sería un terrible error si le reemplazan»](https://theobjective.com/deportes/futbol/2026-08-11/trump-rescate-infantino-error/?utm_source=lootura.com) — 2026-08-11T11:52:52.000Z

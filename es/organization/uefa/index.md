@@ -46,4 +46,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Margarita Robles garantiza a Rueda que el proyecto chino en Ferrol cuenta con el aval de Defensa
+
+El Ministerio planteará, de ser necesarias, «condiciones operativas» para que la fábrica del gigante SAIC no suponga un problema para la seguridad nacional.
+
+Date: 2026-08-11
 
 ### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
 
@@ -62,13 +68,6 @@ la ministra de Defensa, Margarita Robles, ha evitado aclarar si los servicios se
 
 Date: 2026-08-03
 
-### Robles exige a Marruecos que investigue la crisis de Ceuta y defiende a los servicios de inteligencia
-
-La ministra de Defensa, Margarita Robles, ha reclamado este lunes a Marruecos que investigue “hasta el final” la entrada masiva de migrantes en Ceuta y ha defendido la labor de los servicios de inteligencia españoles, tanto los de su departamento como los que dependen de Interior. Seguir leyendo...
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta](https://www.20minutos.es/nacional/pp-avanza-que-robles-comparecera-finalmente-proximo-martes-senado-por-crisis-ceuta_7024687_0.html?utm_source=lootura.com) — 2026-08-11T11:57:26.000Z
-- [Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z
+- [Margarita Robles garantiza a Rueda que el proyecto chino en Ferrol cuenta con el aval de Defensa](https://www.abc.es/espana/galicia/ministra-margarita-robles-garantiza-rueda-proyecto-saic-20260811170131-nt.html?utm_source=lootura.com) — 2026-08-11T15:01:32.000Z

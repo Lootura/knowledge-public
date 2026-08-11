@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### NATO spending pressure returned
 
 President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+A U.S. official tells NBC News that President Trump's team used an elaborate ruse to fly him out of Turkey after the NATO Summit amid threats to his life during the Iran war. NBC News' Shannon Pettypiece has details on the plan to keep the president's true location hidden.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
 
 Date: 2026-08-11
 
@@ -56,18 +68,8 @@ The authorities in Belgium did not name the country that the intern, a woman “
 
 Date: 2026-07-25
 
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-25
-
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T11:11:16.000Z
+- [Official confirms Trump used elaborate ruse to fly out of Turkey amid Iran war](https://www.nbcnews.com/now/video/official-confirms-trump-used-elaborate-ruse-to-fly-out-of-turkey-amid-iran-war-268117061972?utm_source=lootura.com) — 2026-08-11T16:12:01.000Z
+- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
+- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T16:46:36.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Las diferencias que separan a los terremotos de Colombia y Venezuela
+
+Este lunes la tierra se abrió bajo el Valle del Cauca, en Colombia. Un terremoto de magnitud 7,4, con epicentro en San José del Palmar, sacudió el suroccidente del país y provocó daños importantes en Cali, Pereira y Quibdó, sumándose a la larga lista de temblores que han golpeado a América Latina este año. Llegó semana.
+
+Date: 2026-08-11
 
 ### Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela
 
@@ -62,12 +68,6 @@ en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en
 
 Date: 2026-08-04
 
-### El diálogo entre el chavismo y la oposición de Venezuela se limita a una llamada telefónica
-
-El primero de agosto llegó y se fue sin que nadie se sentara frente a nadie. Dinorah Figuera, presidenta de la Asamblea Nacional de 2015 , publicó un comunicado a las diez y media de la noche (cuatro y media de la madrugada, hora peninsular española). El contenido: ella y Jorge Rodríguez habían sostenido una conversaci.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Las diferencias que separan a los terremotos de Colombia y Venezuela](https://www.lavanguardia.com/internacional/20260811/11611926/diferencias-separan-terremotos-colombia-venezuela.html?utm_source=lootura.com) — 2026-08-11T15:30:54.000Z

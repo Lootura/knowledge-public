@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-08-11
 
 ### Rescuers race to find Colombia earthquake survivors as death toll rises
 
-More than 2,700 people were reported missing on Monday night, after the country was struck by its strongest earthquake on record.
+More than 3,000 people were reported missing after the country was struck by its strongest earthquake on record.
 
 Date: 2026-08-11
 
@@ -29,6 +29,18 @@ Date: 2026-08-11
 ### 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia
 
 Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).
+
+Date: 2026-08-11
+
+### Search Underway After Deadly 7.4 Earthquake Strikes Colombia
+
+An urgent search for survivors is underway in Colombia after a powerful 7.4-magnitude earthquake took many by surprise Monday morning. Rescuers are desperately digging through mountains of rubble to find those trapped inside buildings, as the death toll climbs to more than 130 people. NBC’s George Solis reports for TOD.
+
+Date: 2026-08-11
+
+### After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors
+
+“We heard them screaming,” said one rescuer in Cali, where rescuers face a race against time to find the living.
 
 Date: 2026-08-11
 
@@ -56,23 +68,11 @@ Search teams and civilians picked through the remains of destroyed buildings in 
 
 Date: 2026-08-11
 
-### 7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings
-
-A powerful and deadly earthquake hit Colombia on Monday, killing at least 111 people, toppling buildings and leaving a trail of destruction. Geoff Bennett reports.
-
-Date: 2026-08-10
-
-### Videos capture the moment a 7.4-magnitude earthquake strikes Colombia
-
-Watch videos captured from Colombia as a 7.4-magnitude earthquake struck the country. Casualties have been reported with many still missing amid the collapsed buildings and debris.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Rescuers race to find Colombia earthquake survivors as death toll rises](https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com) — 2026-08-11T12:37:35.000Z
+- [Rescuers race to find Colombia earthquake survivors as death toll rises](https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com) — 2026-08-11T16:18:35.000Z
 - [Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown](https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com) — 2026-08-11T11:13:01.137Z
+- [Search Underway After Deadly 7.4 Earthquake Strikes Colombia](https://www.today.com/video/new-video-shows-moment-powerful-7-4-earthquake-hits-colombia-268095557866?utm_source=lootura.com) — 2026-08-11T11:25:44.000Z
 - [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
 - [1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia](https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com) — 2026-08-11T11:11:14.000Z
-- [7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings](https://www.pbs.org/newshour/show/7-4-magnitude-earthquake-rocks-colombia-crumbling-homes-and-buildings?utm_source=lootura.com) — 2026-08-10T22:55:25.000Z
-- [Ancient Colombians built huge water system without centralized rule, archaeologists say](https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html?utm_source=lootura.com) — 2026-08-11T09:00:05.000Z
+- [After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors](https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html?utm_source=lootura.com) — 2026-08-11T16:31:57.000Z

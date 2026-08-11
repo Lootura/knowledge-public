@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -34,13 +34,18 @@
   ],
   "changes": [
     {
-      "title": "Captain of boat that capsized in New York facing federal charges after mom, infant die",
-      "summary": "Manuel Hernandez, the boat's 46-year-old captain, was arrested on reckless endangerment charges and also charged in federal court with two counts of misconduct and neglect.",
+      "title": "Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani",
+      "summary": "A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.",
       "date": "2026-08-11"
     },
     {
-      "title": "Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani",
-      "summary": "A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.",
+      "title": "Jury in Luigi Mangione’s state trial will be anonymous, judge rules",
+      "summary": "Luigi Mangione appeared Tuesday morning in a New York courtroom where plans were nearly finalized for his state murder trial, which the judge has ruled will have an anonymous jury.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Captain of boat that capsized in New York facing federal charges after mom, infant die",
+      "summary": "Manuel Hernandez, the boat's 46-year-old captain, was arrested on reckless endangerment charges and also charged in federal court with two counts of misconduct and neglect.",
       "date": "2026-08-11"
     },
     {
@@ -77,25 +82,14 @@
       "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
       "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
-      "summary": "A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Captain of boat that capsized in New York facing federal charges after mom, infant die",
-      "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T00:14:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Luigi Mangione due to appear in New York court over healthcare CEO’s killing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T10:00:56.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Jury in Luigi Mangione’s state trial will be anonymous, judge rules",
+      "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-returns-court-less-month-state-trial-rcna591890?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T13:42:11.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments",
@@ -110,5 +104,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

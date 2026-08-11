@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/nico-williams/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/nico-williams/index.json",
   "description": "Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [
     "Nicholas Williams Arthuer",
     "Williams"
@@ -42,11 +42,17 @@
   ],
   "sources": [
     {
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "url": "https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T15:58:55.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "El aplauso de todo el Athletic a los tres campeones del mundo que ya entrenan en Lezama",
       "url": "https://www.elcorreo.com/athletic/aplauso-athletic-tres-campeones-mundo-entrenan-lezama-20260811125937-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T11:00:01.000Z",
       "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

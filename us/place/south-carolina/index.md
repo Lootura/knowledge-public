@@ -3,7 +3,7 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
 
 Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
+
+Date: 2026-08-11
+
+### What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina
+
+The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.
 
 Date: 2026-08-11
 
@@ -62,14 +68,7 @@ The calendar order could be hugely important to the 2028 presidential primary ra
 
 Date: 2026-07-22
 
-### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
-
-Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina](https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com) — 2026-08-10T23:57:00.000Z
 - [Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham](https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com) — 2026-08-11T12:49:06.000Z
-- [All Eyes on Key Midterm Primaries in Wisconsin and Minnesota](https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632?utm_source=lootura.com) — 2026-08-11T11:19:18.000Z
+- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z

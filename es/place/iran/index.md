@@ -3,10 +3,34 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
+
+El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
+
+Date: 2026-08-11
+
+### El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo
+
+El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
+
+El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
+
+Date: 2026-08-11
 
 ### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
 
@@ -44,32 +68,9 @@ El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carri
 
 Date: 2026-08-11
 
-### Irán y Omán redibujan el mapa de Ormuz sin Washington
-
-Teherán exige a Washington una compensación por los daños de la guerra, a lo que Trump replica exigiendo otra para "todas las personas que Irán ha matado a lo largo de los últimos 50 años" Leer.
-
-Date: 2026-08-10
-
-### Un Gobierno en emergencia permanente
-
-Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna de oradores del Congreso, alabó a Pedro Sánchez por su posición ante la guerra desatada por Estados Unidos e Israel contra Irán y lo coronó con una pequeña maldad: Seguir leyendo.
-
-Date: 2026-08-10
-
-### Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox
-
-Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.
-
-Date: 2026-08-10
-
-### La renta variable europea resurge tras unos resultados que difuminan el impacto de Irán
-
-Las empresas del índice Stoxx Europe 600 están en camino de registrar un aumento del 22% de sus beneficios durante el segundo trimestre.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T11:42:46.000Z
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [El Ibex sondea récords liderado por Amadeus y Repsol](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T12:11:53.000Z
+- [Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán](https://www.abc.es/internacional/trump-camuflo-camion-catering-abandonar-air-force-20260811084235-nt.html?utm_source=lootura.com) — 2026-08-11T16:08:37.000Z
+- [El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T15:48:20.000Z
+- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [Trump salió de Turquía escondido en un camión ante un posible atentado de Irán](https://www.expansion.com/economia/politica/2026/08/11/6a7b2bdc468aeb8d768b458e.html?utm_source=lootura.com) — 2026-08-11T14:04:13.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"
+
+El PP ha anunciado este martes en un comunicado enviado a los medios de comunicación que la ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto,...
+
+Date: 2026-08-11
+
+### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
+
+El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
+
+Date: 2026-08-11
 
 ### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
 
@@ -56,20 +68,7 @@ Las comunidades donde el Partido Popular dirige las competencias de Servicios So
 
 Date: 2026-08-10
 
-### Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona
-
-Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecretario general de Política Autonómica y Municipal de los populares, mientras comparecía en Barcelona junto al candidato del partido en la Ciudad Condal, Daniel Sirera . El individuo ha dicho no recibir ninguna ayuda del Gobierno y, haciendo f.
-
-Date: 2026-08-10
-
-### El PP marca distancias con Vox y asegura que asistirá a la reunión del Gobierno sobre los menores en Ceuta: "Somos partidos distintos"
-
-El vicesecretario de Coordinación Autonómica y Local del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia de este jueves sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: " Es bueno es.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta](https://www.20minutos.es/nacional/pp-avanza-que-robles-comparecera-finalmente-proximo-martes-senado-por-crisis-ceuta_7024687_0.html?utm_source=lootura.com) — 2026-08-11T11:57:26.000Z
-- [María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos](https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com) — 2026-08-10T23:15:51.000Z
-- [Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z
+- [Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z
+- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z

@@ -28,5 +28,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Brad Pitt: «Estuve sobrio durante siete años. Y luego me caí del vagón»](https://www.abc.es/gente/confesion-personal-brad-pitt-recaida-alcohol-pensamientos-20260811104630-nt.html?utm_source=lootura.com) — 2026-08-11T12:48:20.000Z
-- [Brad Pitt confiesa su recaída en el alcohol: «Entiendo cómo es buscar un alivio al dolor»](https://okdiario.com/cool/television/brad-pitt-confiesa-recaida-alcohol-entiendo-como-buscar-alivio-dolor-19162561?utm_source=lootura.com) — 2026-08-11T12:47:28.000Z
+No public source links.

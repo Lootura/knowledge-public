@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Product availability changed in Europe
 
 Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
 
 Date: 2026-08-11
 
@@ -62,12 +68,7 @@ The threat led the Secret Service to urge President Trump to fly out of Turkey o
 
 Date: 2026-07-25
 
-### DOJ admits legal errors, drops subpoenas of New York Times journalists
-
-A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.
-
-Date: 2026-07-24
-
 ## Sources
 
 - [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T12:37:00.000Z
+- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z

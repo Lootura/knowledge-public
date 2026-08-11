@@ -70,5 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»](https://www.abc.es/espana/asturias/gran-agujero-crimen-guardia-civil-laura-robo-20260811125629-nt.html?utm_source=lootura.com) — 2026-08-11T12:32:42.000Z
-- [La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)](https://www.elconfidencial.com/espana/galicia/2026-08-11/cigala-incautacion-guardia-civil-burela-1tps_4404219/?utm_source=lootura.com) — 2026-08-11T08:02:00.000Z
+No public source links.

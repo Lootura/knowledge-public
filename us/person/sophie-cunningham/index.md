@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [WNBA faces new controversy after Sky's DiJonai Carrington ejected over foul on Sophie Cunningham](https://www.cbsnews.com/video/wnba-faces-controversy-skys-dijonai-carrington-ejected-foul-sophie-cunningham/?utm_source=lootura.com) — 2026-08-10T23:40:00.000Z
+No public source links.

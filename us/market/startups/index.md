@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [When the best decision is no decision: the rise of randomization in grant funding](https://www.nature.com/articles/d41586-026-02082-7?utm_source=lootura.com) — 2026-08-11T08:52:25.852Z
+No public source links.

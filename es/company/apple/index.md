@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### El 'MonsterVerse' de Apple TV suma dos grandes fichajes a su nueva serie con Wyatt Russell
+
+El 'MonsterVerse' continúa expandiéndose en televisión. Después del éxito de Monarch: El legado de los monstruos, Apple TV y Legendary ya trabajan en una nueva serie ambientada en este universo y protagonizada por Wyatt Russell . Ahora, tal como confirma un reciente informe del medio Deadline, el proyecto acaba de suma.
+
+Date: 2026-08-11
 
 ### ¿Cuáles son los 'Siete Magníficos' del mercado asiático?
 
@@ -62,12 +68,6 @@ La adaptación de Mistborn continúa sumando avances que reflejan el compromiso 
 
 Date: 2026-08-08
 
-### Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora
-
-Si tienes un Mac, actualízalo ahora. Apple ha lanzado nuevas versiones de macOS que resuelven una vulnerabilidad crítica en la función de compartir la pantalla . El parche no se limita a Tahoe, la edición más reciente del sistema operativo, sino que también está disponible para entregas previas. Puntualmente, los parch.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [El 'MonsterVerse' de Apple TV suma dos grandes fichajes a su nueva serie con Wyatt Russell](https://www.larazon.es/tecnologia-consumo/series/monsterverse-apple-tv-suma-dos-grandes-fichajes-su-nueva-serie-wyatt-russell_202608116a7b197ca5690f047374257d.html?utm_source=lootura.com) — 2026-08-11T16:31:00.000Z

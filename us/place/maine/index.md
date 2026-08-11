@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Maine lifeguard "started swimming like hell" when shark pulled him underwater
+
+A lifeguard said a shark off the coast of Scarborough Beach in Maine grabbed onto his buoy and pulled him 5 feet underwater before he was able to get free.
+
+Date: 2026-08-11
 
 ### In a competitive Maine Senate race, women voters could be the deciders
 
@@ -62,12 +68,6 @@ Republicans are pouring huge sums behind the Maine senator through a web of bill
 
 Date: 2026-07-25
 
-### Maine Democrats pick Troy Jackson to replace Platner on Senate ballot
-
-Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Maine lifeguard "started swimming like hell" when shark pulled him underwater](https://www.cbsnews.com/news/maine-lifeguard-shark-attack-sightings-warning/?utm_source=lootura.com) — 2026-08-11T16:53:32.000Z

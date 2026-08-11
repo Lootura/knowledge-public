@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -70,10 +70,10 @@
   ],
   "sources": [
     {
-      "title": "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:42:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "U.S. Marine veteran freed from Russian prison after nearly 4 years",
+      "url": "https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:36:40.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 0

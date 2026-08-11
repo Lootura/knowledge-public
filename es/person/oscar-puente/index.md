@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»
+
+El ministro de Transportes, el socialista Óscar Puente , ha avisado al Rey de que, al saludar a un «activista de ultraderecha» y un «profesional del bulo» , como se refiere al periodista Javier Negre, lo que hace es «contaminar» la imagen del jefe del Estado y «limpiar» la del fundador del canal Estado de Alarma. Puent.
+
+Date: 2026-08-11
 
 ### Óscar Puente ya apunta contra el Rey Felipe VI
 
@@ -62,12 +68,6 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### Óscar Puente y otros irresponsables del sanchismo
-
-He de reconocer que entender a Puente es un misterio insondable. No creo que ni siquiera sea capaz de refrenar su irresponsabilidad dialéctica. Es una patética obsesión por ser el centro de atención incluso en situaciones tan dramáticas como las que se están viviendo con la brutal ola de incendios que estamos sufriendo.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»](https://theobjective.com/espana/politica/2026-08-11/puente-felipe-vi-contamina-imagen-saludar-activista-ultraderecha/?utm_source=lootura.com) — 2026-08-11T13:48:51.000Z

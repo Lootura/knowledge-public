@@ -3,10 +3,16 @@
 > Sigue la actividad de La Sagra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/la-sagra
 
 ## Cambios recientes
+
+### Renfe estudia recurrir una resolución de CNMC para bloquear la entrada de Iryo en sus talleres
+
+Renfe analiza la resolución de la Comisión Nacional de los Mercados y la Competencia ( CNMC ) sobre el acceso de Iryo a su taller de La Sagra (Toledo) y su fundamentación jurídica, técnica y operativa. La compañía ha advertido de que su capacidad industrial no es «ilimitada» ni se encuentra «desocupada». La CNMC ha est.
+
+Date: 2026-08-11
 
 ### La CNMC insta a Renfe a permitir que Iryo haga el mantenimiento de sus trenes en La Sagra
 
@@ -28,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La CNMC insta a Renfe a permitir que Iryo haga el mantenimiento de sus trenes en La Sagra](https://cincodias.elpais.com/companias/2026-08-11/la-cnmc-insta-a-renfe-a-permitir-que-iryo-haga-el-mantenimiento-de-sus-trenes-en-la-sagra.html?utm_source=lootura.com) — 2026-08-11T08:29:10.000Z
+- [Renfe estudia recurrir una resolución de CNMC para bloquear la entrada de Iryo en sus talleres](https://theobjective.com/economia/transporte/2026-08-11/renfe-recurso-cnmc-talleres-iryo/?utm_source=lootura.com) — 2026-08-11T14:59:24.000Z

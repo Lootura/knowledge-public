@@ -70,6 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»](https://www.abc.es/espana/albares-aplaude-marruecos-aspire-retorno-inmediato-menores-20260811125948-nt.html?utm_source=lootura.com) — 2026-08-11T12:29:53.000Z
-- [El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España](https://www.lavanguardia.com/internacional/20260811/11611883/primer-ministro-suecia-califica-mala-idea-regulacion-inmigrantes-aprobada-espana.html?utm_source=lootura.com) — 2026-08-11T09:18:38.000Z
-- [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z
+No public source links.

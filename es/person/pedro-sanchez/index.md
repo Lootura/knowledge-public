@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-10
 ## Fuentes
 
 - [El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta](https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-11T03:30:01.000Z
-- [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»",
+      "summary": "El ministro de Transportes, el socialista Óscar Puente , ha avisado al Rey de que, al saludar a un «activista de ultraderecha» y un «profesional del bulo» , como se refiere al periodista Javier Negre, lo que hace es «contaminar» la imagen del jefe del Estado y «limpiar» la del fundador del canal Estado de Alarma. Puent.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Óscar Puente ya apunta contra el Rey Felipe VI",
       "summary": "En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .",
@@ -60,13 +65,15 @@
       "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
       "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Óscar Puente y otros irresponsables del sanchismo",
-      "summary": "He de reconocer que entender a Puente es un misterio insondable. No creo que ni siquiera sea capaz de refrenar su irresponsabilidad dialéctica. Es una patética obsesión por ser el centro de atención incluso en situaciones tan dramáticas como las que se están viviendo con la brutal ola de incendios que estamos sufriendo.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»",
+      "url": "https://theobjective.com/espana/politica/2026-08-11/puente-felipe-vi-contamina-imagen-saludar-activista-ultraderecha/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T13:48:51.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

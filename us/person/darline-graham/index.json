@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "Darline"
   ],
   "changes": [
+    {
+      "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
+      "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
       "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
@@ -57,16 +62,11 @@
       "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
-      "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
       "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T09:29:13.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"

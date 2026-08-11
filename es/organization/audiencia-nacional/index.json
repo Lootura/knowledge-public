@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-11T16:55:29.186Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña",
+      "summary": "El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Gómez Bermúdez: \"La corrupción no es erradicable, pero sí es claramente reducible\"",
       "summary": "El abogado Javier Gómez Bermúdez cree que hay que «afinar» la figura del colaborador de la Justicia, sus «consecuencias y límites». Tras la sentencia del Tribunal Supremo del «caso mascarillas» que rebajó la condena a Víctor de Aldama por su confesión, para quien fuera magistrado de la Audiencia Nacional y presidente d.",
@@ -65,13 +70,15 @@
       "title": "La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta",
       "summary": "La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta",
-      "summary": "La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña",
+      "url": "https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T16:16:00.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

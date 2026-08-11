@@ -3,20 +3,56 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3
-
-Un camionero ha quedado atrapado por la cabeza entre la ventanilla y un guardarraíl en un accidente de tráfico registrado en la incorporación a la M-45 interior desde la A-3 siendo finalmente excarcelado por los bomberos del Ayuntamiento tras una hora y media de un complicado rescate, ha informado Emergencias Madrid. E.
-
-Date: 2026-08-11
-
 ### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
 
 La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.
+
+Date: 2026-08-11
+
+### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
+
+El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
+
+Date: 2026-08-11
+
+### El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña
+
+La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por "créditos consignados insuficientes". El Ejecutivo regional habla.
+
+Date: 2026-08-11
+
+### Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”
+
+Iker Casillas y José Mourinh o mantuvieron durante años una relación marcada por un episodio concreto que ambos han recordado con versiones distintas en el documental de Netflix . Fue aquella llamada telefónica del portero al barcelonista Xavi Hernández se convirtió en el punto de partida de un enfrentamiento abierto d.
+
+Date: 2026-08-11
+
+### Tres Cantos anula su programa de actividades por el eclipse ante el riesgo de incendios
+
+Tres Cantos ha suspendido el programa municipal de actividades previsto para la observación del eclipse solar de mañana, como medida preventiva ante el riesgo derivado de las altas temperaturas y la "compleja situación" de incendios forestales en la Comunidad de Madrid. En concreto, el Consistorio ha decidido anular lo.
+
+Date: 2026-08-11
+
+### A la Liga le cuesta mover dinero: los 28 fichajes nacionales sólo dejan 45 millones
+
+El traspaso de Carlos Espí al Real Madrid ha sido el único gran movimiento entre equipos españoles hasta la fecha en el mercado de fichajes de verano. Los 20 equipos de la Liga han incorporado a un total de 29 futbolistas que la pasada campaña militaban en nuestro fútbol. En total, la inversión en estos fichajes es de.
+
+Date: 2026-08-11
+
+### Indra adapta 1.200 lectores del Metro de Madrid para permitir el pago directo con tarjeta
+
+Indra ha actualizado 1.200 lectores instalados en 800 pasos y tornos de acceso del Metro de Madrid para permitir que los viajeros entren directamente con una tarjeta bancaria o un teléfono móvil contactless. La compañía ha adaptado además la infraestructura de pagos que conecta el sistema de gestión económica de Metro.
+
+Date: 2026-08-11
+
+### Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3
+
+Un camionero ha quedado atrapado por la cabeza entre la ventanilla y un guardarraíl en un accidente de tráfico registrado en la incorporación a la M-45 interior desde la A-3 siendo finalmente excarcelado por los bomberos del Ayuntamiento tras una hora y media de un complicado rescate, ha informado Emergencias Madrid. E.
 
 Date: 2026-08-11
 
@@ -32,42 +68,12 @@ Abrir un negocio, la mayoría de ocasiones, requiere mucho sacrificio . Es por e
 
 Date: 2026-08-11
 
-### Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»
-
-Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.
-
-Date: 2026-08-11
-
-### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
-
-El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...
-
-Date: 2026-08-10
-
-### Florentino Pérez refuerza su posición como principal accionista de ACS al elevar su participación hasta el 15%
-
-El presidente de ACS y del Real Madrid, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles de máximos históricos. Seguir leyendo.
-
-Date: 2026-08-10
-
-### Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso
-
-El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el ático que compró el Gobierno de Isabel Díaz Ayuso por 6,3 millones de euros. La juez Rosario de Fátima Espinosa, que abrió un procedimiento tras un escrito de Iustitia Europa , ha recibido este lunes otras cuatro denuncias de la Fiscalía Pro.
-
-Date: 2026-08-10
-
-### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
-
-Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
-
-Date: 2026-08-10
-
-### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
-
-En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3](https://www.larazon.es/madrid/madrid-camionero-queda-atrapado-cabeza-ventanilla-guardarrail_202608116a7b1afea5690f04737428bf.html?utm_source=lootura.com) — 2026-08-11T12:52:14.000Z
+- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T15:58:55.000Z
+- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z
+- [Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”](https://www.larazon.es/deportes/futbol/mourinho-les-dije-esto-barcelonareal-madrid-cuando-vayais-seleccion-podeis-daros-dos-besos-pero-ahora-esto-guerra_202608116a7b4f9da5690f0473747bf7.html?utm_source=lootura.com) — 2026-08-11T16:37:35.000Z
+- [Tres Cantos anula su programa de actividades por el eclipse ante el riesgo de incendios](https://www.larazon.es/madrid/tres-cantos-anula-programa-actividades-eclipse-riesgo-incendios_202608116a7b501571b42a0b5de9eb98.html?utm_source=lootura.com) — 2026-08-11T16:38:45.000Z
+- [A la Liga le cuesta mover dinero: los 28 fichajes nacionales sólo dejan 45 millones](https://okdiario.com/deportes/liga-cuesta-mover-dinero-28-fichajes-nacionales-solo-dejan-45-millones-19157779?utm_source=lootura.com) — 2026-08-11T16:39:03.000Z
+- [Indra adapta 1.200 lectores del Metro de Madrid para permitir el pago directo con tarjeta](https://theobjective.com/economia/2026-08-11/indra-metro-madrid-tarjeta/?utm_source=lootura.com) — 2026-08-11T15:24:42.000Z

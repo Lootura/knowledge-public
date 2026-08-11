@@ -3,7 +3,7 @@
 > Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/funcion-publica
 
 ## Cambios recientes

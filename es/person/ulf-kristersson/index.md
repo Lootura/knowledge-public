@@ -28,5 +28,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España](https://www.lavanguardia.com/internacional/20260811/11611883/primer-ministro-suecia-califica-mala-idea-regulacion-inmigrantes-aprobada-espana.html?utm_source=lootura.com) — 2026-08-11T09:18:38.000Z
-- [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z
+No public source links.

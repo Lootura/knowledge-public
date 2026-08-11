@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’](https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html?utm_source=lootura.com) — 2026-08-10T21:21:32.000Z
+No public source links.

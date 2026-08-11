@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina
+
+The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.
+
+Date: 2026-08-11
 
 ### Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.
 
@@ -62,12 +68,6 @@ Darline Graham indicated in a White House meeting Thursday that she's weighing a
 
 Date: 2026-07-17
 
-### Trump urges Darline Graham to run for full Senate term as funeral planned for her brother
-
-President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z
+- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z

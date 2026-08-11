@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos
 
 Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.
+
+Date: 2026-08-11
+
+### Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”
+
+Iker Casillas y José Mourinh o mantuvieron durante años una relación marcada por un episodio concreto que ambos han recordado con versiones distintas en el documental de Netflix . Fue aquella llamada telefónica del portero al barcelonista Xavi Hernández se convirtió en el punto de partida de un enfrentamiento abierto d.
 
 Date: 2026-08-11
 
@@ -62,13 +68,7 @@ Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecre
 
 Date: 2026-08-10
 
-### Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería
-
-Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado de comercializar de forma fraudulenta citas inexistentes para trámites de extranjería . El sospechoso se hacía pasar por responsable de una gestoría administrativa y acumulaba varias requisitorias judiciales dictadas por juzgados de distintos.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos](https://www.elconfidencial.com/espana/cataluna/2026-08-11/mossos-prat-tiroteo-pelea-1tna-1tps_4404368/?utm_source=lootura.com) — 2026-08-11T10:22:00.000Z
-- [Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial](https://okdiario.com/deportes/respiro-laporta-barcelona-ahorra-mas-40-millones-masa-salarial-19161505?utm_source=lootura.com) — 2026-08-11T12:11:01.000Z
+- [Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”](https://www.larazon.es/deportes/futbol/mourinho-les-dije-esto-barcelonareal-madrid-cuando-vayais-seleccion-podeis-daros-dos-besos-pero-ahora-esto-guerra_202608116a7b4f9da5690f0473747bf7.html?utm_source=lootura.com) — 2026-08-11T16:37:35.000Z

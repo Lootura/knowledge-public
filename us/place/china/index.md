@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z
-- [Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense](https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/?utm_source=lootura.com) — 2026-08-11T10:00:04.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre](https://www.larazon.es/andalucia/andalucia-trade-global-2026-volvera-celebrarse-malaga-17-18-noviembre_202608116a7ae14371b42a0b5de91ba7.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T08:45:55.000Z
+No public source links.

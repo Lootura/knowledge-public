@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña
+
+El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.
+
+Date: 2026-08-11
 
 ### Gómez Bermúdez: "La corrupción no es erradicable, pero sí es claramente reducible"
 
@@ -62,12 +68,6 @@ La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la G
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta sobre Ceuta
-
-La jueza de la Audiencia Nacional María Tardón ha decidido ampliar el abánico de información antes de decidir si inicia una investigación formal sobre lo que ha ocurrido en Ceuta. Inicialmente se limitió a preguntar a la Policía si disponía de datos sobre quién pudo estar detrás de la entrada masiva de migrantes, que a.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña](https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com) — 2026-08-11T16:16:00.000Z

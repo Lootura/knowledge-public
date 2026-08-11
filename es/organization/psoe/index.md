@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
+
+El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
+
+Date: 2026-08-11
+
+### El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista
+
+El polémico solar de Chipiona que vuelve a estar en el foco por la operación urbanística que rodeó su adquisición tiene detrás a un empresario cuya relación con el PSOE era mucho más estrecha de lo que podría parecer a primera vista. Se trata de Joaquín Guerrero Romero, promotor inmobiliario que participó junto al Ayun.
+
+Date: 2026-08-11
 
 ### El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta
 
@@ -56,18 +68,7 @@ El PSOE ha decidido no tolerar más insultos a su líder, Pedro Sánchez . El pa
 
 Date: 2026-08-09
 
-### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
-
-El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
-
-Date: 2026-08-09
-
-### El PSOE exige a Moreno atender a las familias de las víctimas del incendio de Los Gallardos
-
-El secretario de Transición Ecológica Justa y Cambio Climático del PSOE de Andalucía , Rodrigo Sánchez Haro, ha exigido al presidente de la Junta de Andalucía que atienda «de manera inmediata» a los familiares de las víctimas del incendio de Los Gallardos (Almería). Según ha informado el partido en una nota, tras conoc.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista](https://okdiario.com/andalucia/empresario-que-compro-parcela-chipiona-junto-psoe-rinconada-era-afiliado-socialista-19163898?utm_source=lootura.com) — 2026-08-11T16:10:27.000Z

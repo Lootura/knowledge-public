@@ -3,7 +3,7 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [U.S. Says It Revoked More Than 175,000 Visas Under Trump](https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html?utm_source=lootura.com) — 2026-08-11T12:02:01.000Z
+- [U.S. Says It Revoked More Than 175,000 Visas Under Trump](https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html?utm_source=lootura.com) — 2026-08-11T12:02:02.000Z

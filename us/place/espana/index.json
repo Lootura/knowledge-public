@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-11T16:55:56.346Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
+      "summary": "Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
       "summary": "Rumors swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
@@ -59,18 +64,13 @@
       "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
       "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest",
-      "summary": "A new study provides quantitative data on cranial vault thickness in Homo antecessor, based on the analysis of three parietal fragments recovered from the Gran Dolina site in the Sierra de Atapuerca, Burgos, Spain.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
+      "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
       "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T09:03:49.000Z",
+      "publishedAt": "2026-08-11T14:44:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

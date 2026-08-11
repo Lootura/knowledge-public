@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
+
+El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
+
+Date: 2026-08-11
+
+### El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña
+
+La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por "créditos consignados insuficientes". El Ejecutivo regional habla.
+
+Date: 2026-08-11
 
 ### Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»
 
@@ -56,18 +68,7 @@ El Gobierno está "convencido" de que la instalación en Galicia de la primera p
 
 Date: 2026-08-10
 
-### El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.
-
-Date: 2026-08-10
-
-### El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales
-
-El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»](https://www.abc.es/espana/albares-aplaude-marruecos-aspire-retorno-inmediato-menores-20260811125948-nt.html?utm_source=lootura.com) — 2026-08-11T12:29:53.000Z
+- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z

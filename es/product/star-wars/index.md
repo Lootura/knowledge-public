@@ -3,16 +3,10 @@
 > Sigue la actividad de Star Wars en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-11T16:55:29.186Z
 - Canonical: https://atlas.lootura.com/es/product/star-wars
 
 ## Cambios recientes
-
-### Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel
-
-La saga Star Wars estaría a punto de fichar a una de las grandes estrellas de Marvel , concretamente de Guardianes de la Galaxia . Hace unos años, James Gunn confirmó abiertamente que las películas de George Lucas fueron una inspiración directa para las aventuras de Star Lord y compañía. Ahora, las franquicias volverán.
-
-Date: 2026-08-11
 
 ### John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn
 
@@ -26,7 +20,12 @@ Star Wars first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-11
 
+### Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel
+
+La saga Star Wars estaría a punto de fichar a una de las grandes estrellas de Marvel , concretamente de Guardianes de la Galaxia . Hace unos años, James Gunn confirmó abiertamente que las películas de George Lucas fueron una inspiración directa para las aventuras de Star Lord y compañía. Ahora, las franquicias volverán.
+
+Date: 2026-08-11
+
 ## Fuentes
 
-- [Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Marvel](https://hipertextual.com/cine-television/filtracion-de-star-wars-apunta-al-fichaje-de-una-gran-estrella-de-guardianes-de-la-galaxia-de-marvel/?utm_source=lootura.com) — 2026-08-11T07:44:40.000Z
 - [John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn](https://hipertextual.com/cine-television/john-boyega-quiere-mitico-jedi-precuelas-star-wars-como-maestro-de-finn/?utm_source=lootura.com) — 2026-08-11T12:49:43.000Z

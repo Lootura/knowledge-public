@@ -3,7 +3,7 @@
 > Follow Jennifer Balkcom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-11T16:55:56.346Z
 - Canonical: https://atlas.lootura.com/us/person/jennifer-balkcom
 
 ## Recent changes
