@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T03:30:01.002Z",
+  "generatedAt": "2026-08-11T05:19:33.139Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|116|1786411567655",
+    "signature": "1.18.0|117|1786424729983",
     "version": "1.18.0",
-    "build": 116,
-    "latestEntityUpdatedAt": "2026-08-11T01:26:07.655Z"
+    "build": 117,
+    "latestEntityUpdatedAt": "2026-08-11T05:05:29.983Z"
   },
   "atlas": {
     "hero": {
       "id": "es-colombia",
       "name": "República de Colombia",
       "type": "place",
-      "title": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia",
+      "title": "Terremoto en Colombia, en directo: última hora del seísmo, víctimas y desaparecidos",
       "url": "https://atlas.lootura.com/es/place/colombia",
       "path": "/es/place/colombia",
-      "updatedAt": "2026-08-11T01:26:07.655Z",
-      "score": 1734,
-      "sourceCount": 52,
+      "updatedAt": "2026-08-11T05:05:29.983Z",
+      "score": 1760,
+      "sourceCount": 57,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,25 +31,12 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia",
+        "title": "Eclipse solar total 2026, en directo: útima hora, dónde verlo en España, horarios y recomendaciones",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-11T01:26:07.655Z",
-        "score": 1692,
-        "sourceCount": 1011,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-11T01:26:07.655Z",
-        "score": 1651,
-        "sourceCount": 366,
+        "updatedAt": "2026-08-11T05:05:29.983Z",
+        "score": 1722,
+        "sourceCount": 1017,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,22 @@
         "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
-        "updatedAt": "2026-08-11T01:26:07.655Z",
-        "score": 1646,
-        "sourceCount": 244,
+        "updatedAt": "2026-08-11T05:05:29.983Z",
+        "score": 1675,
+        "sourceCount": 245,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-08-11T05:05:29.983Z",
+        "score": 1663,
+        "sourceCount": 370,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,8 +73,8 @@
         "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
         "url": "https://atlas.lootura.com/es/organization/psoe",
         "path": "/es/organization/psoe",
-        "updatedAt": "2026-08-11T01:26:07.655Z",
-        "score": 1629,
+        "updatedAt": "2026-08-11T05:05:29.983Z",
+        "score": 1632,
         "sourceCount": 166,
         "isBreaking": false,
         "isPinned": false

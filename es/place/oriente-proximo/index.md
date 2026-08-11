@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
+
+El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
+
+Date: 2026-08-10
 
 ### Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro
 
@@ -17,12 +23,6 @@ Date: 2026-08-10
 ### El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz
 
 Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Próximo.
-
-Date: 2026-08-10
-
-### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
-
-El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
 
 Date: 2026-08-10
 
@@ -70,6 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro](https://cincodias.elpais.com/mercados-financieros/2026-08-10/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-10T19:40:10.000Z
 - [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z
-- [El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz](https://theobjective.com/economia/2026-08-10/ibex-35-plano-sesion-volatil-ormuz/?amp=&utm_source=lootura.com) — 2026-08-10T16:20:02.000Z

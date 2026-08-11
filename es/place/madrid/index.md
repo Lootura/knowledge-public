@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -14,6 +14,12 @@ Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límit
 
 Date: 2026-08-11
 
+### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
+
+El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...
+
+Date: 2026-08-10
+
 ### Florentino Pérez refuerza su posición como principal accionista de ACS al elevar su participación hasta el 15%
 
 El presidente de ACS y del Real Madrid, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles de máximos históricos. Seguir leyendo.
@@ -23,12 +29,6 @@ Date: 2026-08-10
 ### Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso
 
 El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el ático que compró el Gobierno de Isabel Díaz Ayuso por 6,3 millones de euros. La juez Rosario de Fátima Espinosa, que abrió un procedimiento tras un escrito de Iustitia Europa , ha recibido este lunes otras cuatro denuncias de la Fiscalía Pro.
-
-Date: 2026-08-10
-
-### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
-
-El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...
 
 Date: 2026-08-10
 
@@ -70,7 +70,5 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»](https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com) — 2026-08-11T00:20:03.000Z
-- [Florentino Pérez refuerza su posición como principal accionista de ACS al elevar su participación hasta el 15%](https://cincodias.elpais.com/companias/2026-08-10/florentino-perez-refuerza-su-posicion-como-principal-accionista-de-acs-al-elevar-su-participacion-hasta-el-15.html?utm_source=lootura.com) — 2026-08-10T17:47:28.000Z
+- [Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»](https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com) — 2026-08-11T04:32:11.000Z
 - [El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona](https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com) — 2026-08-10T22:05:02.000Z
-- [Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso](https://theobjective.com/espana/tribunales/2026-08-10/juzgado-denuncias-atico-gobierno-ayuso/?utm_source=lootura.com) — 2026-08-10T18:23:02.000Z

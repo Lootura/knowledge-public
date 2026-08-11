@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End
+
+Democrats appear likely to nominate a democratic socialist for governor. How did they get here?
+
+Date: 2026-08-10
 
 ### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
 
@@ -17,12 +23,6 @@ Date: 2026-08-10
 ### Congressional Democrats to investigate efforts to deport U.S. military members and their families
 
 The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
-
-Date: 2026-08-10
-
-### Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End
-
-Democrats appear likely to nominate a democratic socialist for governor. How did they get here?
 
 Date: 2026-08-10
 
@@ -70,6 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
-- [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
 - [Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End](https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com) — 2026-08-10T21:44:28.000Z

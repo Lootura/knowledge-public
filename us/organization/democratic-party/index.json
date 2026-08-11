@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T01:26:42.685Z",
+  "updatedAt": "2026-08-11T05:05:58.694Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
+      "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
+      "date": "2026-08-10"
+    },
     {
       "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
       "summary": "Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.",
@@ -21,11 +26,6 @@
     {
       "title": "Congressional Democrats to investigate efforts to deport U.S. military members and their families",
       "summary": "The Pentagon declined to comment, stating it would \"reply directly to the authors of the letter.\".",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
-      "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
       "date": "2026-08-10"
     },
     {
@@ -66,23 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
-      "url": "https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:03:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Congressional Democrats to investigate efforts to deport U.S. military members and their families",
-      "url": "https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T14:40:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T21:44:28.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

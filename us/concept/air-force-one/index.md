@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-08T20:26:16.467Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
+
+Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
+
+Date: 2026-08-11
 
 ### Pentagon revokes security clearance of former Air Force chief
 
@@ -62,12 +68,6 @@ The New York Times moved to block subpoenas issued by the Justice Department for
 
 Date: 2026-07-23
 
-### New Air Force One going out of commission to get safety upgrades
-
-The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T02:29:56.000Z

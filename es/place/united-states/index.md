@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El futuro de la lectura
+
+Cada dos semanas sale un nuevo artículo sobre el declive de la lectura . En Estados Unidos, The Atlantic le da una especial importancia. Casi siempre que veo en redes la reactivación de ese debate, suele ser como consecuencia de algún artículo en la revista estadounidense. El mes pasado, le dedicó una portada y un larg.
+
+Date: 2026-08-11
 
 ### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
 
@@ -14,15 +20,15 @@ Las primeros gestos de ayuda internacional para Colombia no han tardado en llega
 
 Date: 2026-08-10
 
-### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
-
-Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
-
-Date: 2026-08-10
-
 ### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
 
 El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
+
+Date: 2026-08-10
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
 
 Date: 2026-08-10
 
@@ -62,14 +68,8 @@ Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años 
 
 Date: 2026-08-10
 
-### Sobre la virtud del gobernante
-
-Hubo un momento que marcó mi percepción de la política. Durante la campaña electoral de 2008 en Estados Unidos , el candidato republicano, John McCain, respondía un día a las preguntas de un grupo de seguidores cuando dos de ellos se lanzaron a criticar desaforadamente a su rival demócrata, Barack Obama , con acusacion.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z
 - [Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com) — 2026-08-10T16:37:48.000Z
-- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
+- [El futuro de la lectura](https://theobjective.com/elsubjetivo/opinion/2026-08-11/futuro-lectura-articulo-dudda/?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z

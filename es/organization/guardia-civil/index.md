@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil
+
+El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.
+
+Date: 2026-08-11
 
 ### Detenidas 15 personas, incluido un guardia civil, con tonelada y media de cocaína en La Coruña
 
@@ -62,12 +68,6 @@ Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta q
 
 Date: 2026-08-07
 
-### Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias
-
-La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Detenidas 15 personas, incluido un guardia civil, con tonelada y media de cocaína en La Coruña](https://theobjective.com/sociedad/2026-08-10/15-detenidos-guardia-civil-cocaina-la-coruna/?amp=&utm_source=lootura.com) — 2026-08-10T20:12:24.000Z
+- [Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil](https://okdiario.com/espana/marlaska-rechaza-dar-explicaciones-sobre-zodiac-que-usa-sanchez-bucear-lo-endosa-guardia-civil-19156714?utm_source=lootura.com) — 2026-08-11T03:47:05.000Z

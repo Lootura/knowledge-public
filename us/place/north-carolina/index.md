@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal
+
+Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.
+
+Date: 2026-08-11
 
 ### Outer Banks community spending $50 million to save its beachfront economy
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal](https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html?utm_source=lootura.com) — 2026-08-11T00:31:32.000Z

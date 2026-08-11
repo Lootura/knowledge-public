@@ -1,0 +1,45 @@
+{
+  "id": "usa-jennifer-balkcom",
+  "name": "Jennifer Balkcom",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jennifer-balkcom",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jennifer-balkcom",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jennifer-balkcom/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jennifer-balkcom/index.json",
+  "description": "Follow Jennifer Balkcom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-11T05:05:58.694Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
+      "summary": "Edwards dropped his re-election bid after the House Ethics Committee recommended he be censured over sexual harassment allegations. He has denied any wrongdoing.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
+      "summary": "Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jennifer Balkcom first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
+      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T00:04:13.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
+      "url": "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T00:31:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,7 +3,7 @@
 > Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/organization/david-axelrod
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [The Axe Files with David Axelrod](https://www.cnn.com/audio/podcasts/axe-files?utm_source=lootura.com) — 2026-08-11T01:26:44.828Z
+- [The Axe Files with David Axelrod](https://www.cnn.com/audio/podcasts/axe-files?utm_source=lootura.com) — 2026-08-11T05:06:00.683Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-11
 ### Machine learning predicts forest soil fungal diversity from drone images
 
 Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity—a key indicator of a healthy forest ecosystem—pr.
+
+Date: 2026-08-10
+
+### Mark Zuckerberg doesn’t understand how to live
+
+Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, "Do cool shit." I made what I hoped was a polite noise. What reaction was this man looking for? He.
 
 Date: 2026-08-10
 
@@ -62,14 +68,9 @@ Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operati
 
 Date: 2026-08-10
 
-### The Roboguard Revolution is Short-Circuiting
-
-404 Media is publishing this article in partnership with Proof News, a new nonprofit media outlet investigating the social impacts of AI. Join their mailing list here and read the version of this article on their site here . Robotics companies promise that video-camera-toting security robots can deter and detect crime.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Mark Zuckerberg's vision of superintelligent AI for everyone](https://www.cbsnews.com/video/mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone/?utm_source=lootura.com) — 2026-08-11T00:31:45.000Z
-- [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-11T01:26:48.171Z
+- [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-11T05:06:02.564Z
 - [Machine learning predicts forest soil fungal diversity from drone images](https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html?utm_source=lootura.com) — 2026-08-10T23:40:02.000Z
+- [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision?utm_source=lootura.com) — 2026-08-10T22:00:00.000Z

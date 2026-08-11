@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "updatedAt": "2026-08-11T05:05:29.983Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,18 +43,23 @@
   ],
   "changes": [
     {
+      "title": "El futuro de la lectura",
+      "summary": "Cada dos semanas sale un nuevo artículo sobre el declive de la lectura . En Estados Unidos, The Atlantic le da una especial importancia. Casi siempre que veo en redes la reactivación de ese debate, suele ser como consecuencia de algún artículo en la revista estadounidense. El mes pasado, le dedicó una portada y un larg.",
+      "date": "2026-08-11"
+    },
+    {
       "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
       "summary": "Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.",
       "date": "2026-08-10"
     },
     {
-      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
-      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
+      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
       "date": "2026-08-10"
     },
     {
-      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
-      "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
+      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
+      "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
       "date": "2026-08-10"
     },
     {
@@ -86,11 +91,6 @@
       "title": "Un malagueño consigue el pase de oro en America’s Got Talent con su parkour",
       "summary": "Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Sobre la virtud del gobernante",
-      "summary": "Hubo un momento que marcó mi percepción de la política. Durante la campaña electoral de 2008 en Estados Unidos , el candidato republicano, John McCain, respondía un día a las preguntas de un grupo de seguidores cuando dos de ellos se lanzaron a criticar desaforadamente a su rival demócrata, Barack Obama , con acusacion.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -107,10 +107,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
-      "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T13:23:04.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El futuro de la lectura",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-11/futuro-lectura-articulo-dudda/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 3

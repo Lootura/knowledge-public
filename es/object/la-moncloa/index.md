@@ -3,20 +3,20 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
 
-### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
-
-La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
-
-Date: 2026-08-10
-
 ### El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018
 
 De los 171.036 militantes que alcanzó con su Gobierno en solitario, le quedan 147.648 Leer.
+
+Date: 2026-08-10
+
+### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
+
+La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
 
 Date: 2026-08-10
 
@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
 - [El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018](https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com) — 2026-08-10T20:46:33.000Z

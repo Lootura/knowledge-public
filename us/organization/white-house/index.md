@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
+
+Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
+
+Date: 2026-08-11
+
+### White House officials tamped down efforts to oust Max Miller in final days
+
+Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.
+
+Date: 2026-08-10
 
 ### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
 
@@ -17,12 +29,6 @@ Date: 2026-08-10
 ### Trump signs executive order on childhood vaccine recommendations
 
 The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.
-
-Date: 2026-08-10
-
-### White House officials tamped down efforts to oust Max Miller in final days
-
-Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.
 
 Date: 2026-08-10
 
@@ -62,14 +68,7 @@ President Donald Trump loves talking about grass, even in settings where such a 
 
 Date: 2026-08-07
 
-### Trump Seeks to Restrict Birthright Citizenship With New Orders
-
-US President Donald Trump speaks after signing executive orders in the Oval Office of the White House in Washington, D.C., on August 6, 2026. (Photo by ) —Jim Watson—AFP/Getty Images The U.S. Supreme Court rejected Donald Trump’s previous attempt to impose restrictions on birthright citizenship , but the President hasn.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [WATCH: Trump signs executive order on childhood vaccine recommendations](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations?utm_source=lootura.com) — 2026-08-10T20:10:20.000Z
-- [Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel](https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel?utm_source=lootura.com) — 2026-08-10T15:03:30.000Z
 - [White House officials tamped down efforts to oust Max Miller in final days](https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com) — 2026-08-10T20:05:33.000Z
+- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T02:29:56.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta
+
+La tensión institucional que ha marcado a lo largo de toda la legislatura las relaciones entre el Senado y el Gobierno no da un respiro ni siquiera en agosto . La Cámara Alta, en la que el Partido Popular tiene mayoría absoluta , ha puesto a trabajar de nuevo a sus servicios jurídicos para enfrentar el veto del Gobiern.
+
+Date: 2026-08-11
+
+### María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos
+
+Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.
+
+Date: 2026-08-10
 
 ### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
 
@@ -17,12 +29,6 @@ Date: 2026-08-10
 ### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
 
 Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
-
-Date: 2026-08-10
-
-### María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos
-
-Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.
 
 Date: 2026-08-10
 
@@ -62,14 +68,7 @@ El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elí
 
 Date: 2026-08-10
 
-### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
-
-Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta](https://www.elconfidencial.com/espana/2026-08-11/senado-choque-gobierno-constitucional-rechazo-comparecer-ceuta_4403990/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z
 - [María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos](https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com) — 2026-08-10T23:15:51.000Z
-- [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
-- [Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona](https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com) — 2026-08-10T12:17:20.000Z

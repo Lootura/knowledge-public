@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T20:59:56.236Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/person/oriol-junqueras
 
 ## Cambios recientes
+
+### Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027
+
+Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.
+
+Date: 2026-08-11
 
 ### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
 
@@ -52,4 +58,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027](https://www.elconfidencial.com/espana/cataluna/2026-08-11/illa-junqueras-exploran-nuevo-acuerdo-presupuestos-generalitat_4403801/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z

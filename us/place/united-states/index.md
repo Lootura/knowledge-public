@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -29,12 +29,6 @@ Date: 2026-08-10
 ### Breaking down Iran's new set of demands over the Strait of Hormuz
 
 Iran laid out a new set of demands for reopening the Strait of Hormuz as both the U.S. and Tehran are feeling the economic impacts of the conflict. CBS News' Courtney Kealy has more.
-
-Date: 2026-08-10
-
-### Congressional Democrats to investigate efforts to deport U.S. military members and their families
-
-The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
 
 Date: 2026-08-10
 
@@ -68,6 +62,12 @@ The Iranian regime is now saying it will not reopen the Strait of Hormuz if the 
 
 Date: 2026-08-10
 
+### Family of Marine veteran imprisoned in Russia warns he's near death
+
+The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a.
+
+Date: 2026-08-10
+
 ## Sources
 
 - [Breaking down Iran's new set of demands over the Strait of Hormuz](https://www.cbsnews.com/video/breaking-down-irans-new-set-of-demands-over-the-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-10T16:20:16.000Z
@@ -77,6 +77,6 @@ Date: 2026-08-10
 - [Family of Marine veteran imprisoned in Russia warns he's near death](https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death?utm_source=lootura.com) — 2026-08-10T22:25:01.000Z
 - [Thousands evacuated as wildfires burn across western U.S. and Canada](https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada?utm_source=lootura.com) — 2026-08-10T17:51:12.000Z
 - [Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz](https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com) — 2026-08-10T22:45:55.000Z
-- [Congressional Democrats to investigate efforts to deport U.S. military members and their families](https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families?utm_source=lootura.com) — 2026-08-10T14:40:20.000Z
 - [Contiguous U.S. broke its record for hottest month ever in July, NOAA says](https://www.pbs.org/newshour/nation/contiguous-u-s-broke-its-record-for-hottest-month-ever-in-july-noaa-says?utm_source=lootura.com) — 2026-08-10T23:53:13.000Z
 - [How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22](https://www.nytimes.com/2026/08/10/podcasts/the-headlines/cameras-car-flock-iran.html?utm_source=lootura.com) — 2026-08-10T10:00:09.000Z
+- [America Is Atomizing](https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html?utm_source=lootura.com) — 2026-08-10T11:21:23.000Z

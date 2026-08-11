@@ -3,7 +3,7 @@
 > Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/person/anthony-fauci
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [In texts, Fauci discussed potential risks, benefits of COVID vaccine for pregnant women](https://www.cbsnews.com/news/fauci-texts-covid-vaccine-pregnant-women-gop-rand-paul-ron-johnson/?utm_source=lootura.com) — 2026-08-11T02:41:00.000Z

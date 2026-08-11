@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027
+
+Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.
+
+Date: 2026-08-11
 
 ### Jaume Giró, la última víctima
 
@@ -62,12 +68,6 @@ El presidente de la Generalitat, Salvador Illa, ha sacado pecho tras conocer el 
 
 Date: 2026-07-16
 
-### Puigdemont y Junqueras apremian a los tribunales españoles a aplicar la amnistía tras el aval del TJUE
-
-El president de la Generalitat, Salvador Illa, también celebra la resolución del tribunal europeo: "No hay obstáculo democrático que impida su aplicación" El TJUE avala la ley de amnistía como vía para la "reconciliación nacional" Junts y ERC, los dos partidos catalanes con más dirigentes a la espera de la aplicación c.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027](https://www.elconfidencial.com/espana/cataluna/2026-08-11/illa-junqueras-exploran-nuevo-acuerdo-presupuestos-generalitat_4403801/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Vox alienta una causa por "traición" contra Sánchez y se abre a colaborar con otros partidos por Marruecos
+
+Vox eleva su apuesta para que Pedro Sánchez sea juzgado por un supuesto delito de traición contra la seguridad del Estado por la violación territorial de Ceuta. Fuentes de la formación de Santiago Abascal confirman a El Confidencial que el partido está dispuesto a tender su mano a diputados de distinto signo político p.
+
+Date: 2026-08-11
 
 ### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
 
@@ -62,12 +68,6 @@ El presidente de Vox , Santiago Abascal , ha pedido este domingo "militarizar pe
 
 Date: 2026-08-02
 
-### Abascal desde Ceuta: «Sánchez está sometido a Marruecos porque tendrán pruebas de corrupciones que aún desconocemos»
-
-El líder de Vox, Santiago Abascal , ha calificado este domingo la invasión de inmigrantes irregulares en Ceuta, registrada el pasado jueves, como « un acto de guerra promovido por Marruecos y tolerado y permitido por Pedro Sánchez ». Abascal ha visitado la ciudad autónoma para conocer de primera mano la situación tras.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Vox alienta una causa por "traición" contra Sánchez y se abre a colaborar con otros partidos por Marruecos](https://www.elconfidencial.com/espana/2026-08-11/vox-alienta-causa-traicion-sanchez_4403767/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z

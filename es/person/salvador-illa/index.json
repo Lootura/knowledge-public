@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-11T05:05:29.983Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027",
+      "summary": "Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Jaume Giró, la última víctima",
       "summary": "La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno de investidura de Salvador Illa. Estaba deambulando por los alrededores del Parlament porque me tienen vetado y lo vi llegar antes de la sesión. Disparé a bocajarro: —Jaume, no he visto a nadie que haya jugado tan mal sus cartas —le dije con la.",
@@ -58,13 +63,15 @@
       "title": "Illa saca pecho tras la sentencia del TJUE y pide que se aplique la amnistía de forma \"diligente, integral y sin subterfugios\"",
       "summary": "El presidente de la Generalitat, Salvador Illa, ha sacado pecho tras conocer el aval del Tribunal de Justicia de la Unión Europea (TJUE) a la Ley de amnistía aprobada por el...",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Puigdemont y Junqueras apremian a los tribunales españoles a aplicar la amnistía tras el aval del TJUE",
-      "summary": "El president de la Generalitat, Salvador Illa, también celebra la resolución del tribunal europeo: \"No hay obstáculo democrático que impida su aplicación\" El TJUE avala la ley de amnistía como vía para la \"reconciliación nacional\" Junts y ERC, los dos partidos catalanes con más dirigentes a la espera de la aplicación c.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-11/illa-junqueras-exploran-nuevo-acuerdo-presupuestos-generalitat_4403801/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

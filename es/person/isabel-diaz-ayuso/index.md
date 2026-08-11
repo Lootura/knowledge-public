@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z
-- [Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso](https://theobjective.com/espana/tribunales/2026-08-10/juzgado-denuncias-atico-gobierno-ayuso/?utm_source=lootura.com) — 2026-08-10T18:23:02.000Z
+No public source links.

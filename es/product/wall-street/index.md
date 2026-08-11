@@ -3,7 +3,7 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
@@ -65,5 +65,3 @@ Date: 2026-08-05
 ## Fuentes
 
 - [¿Cuáles son los 'Siete Magníficos' del mercado asiático?](https://www.expansion.com/mercados/2026/08/11/6a7a21cf468aeb18588b459a.html?utm_source=lootura.com) — 2026-08-11T00:14:19.000Z
-- [Nvidia se alía con los gigantes de Wall Street para financiar IA](https://www.expansion.com/economia-digital/companias/2026/08/10/6a7a31b1e5fdea00078b4595.html?utm_source=lootura.com) — 2026-08-10T20:16:56.000Z
-- [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z

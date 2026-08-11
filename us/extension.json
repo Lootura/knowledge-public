@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T03:29:56.512Z",
+  "generatedAt": "2026-08-11T05:19:30.537Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|116|1786411602685",
+    "signature": "1.18.0|117|1786424758694",
     "version": "1.18.0",
-    "build": 116,
-    "latestEntityUpdatedAt": "2026-08-11T01:26:42.685Z"
+    "build": 117,
+    "latestEntityUpdatedAt": "2026-08-11T05:05:58.694Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "White House officials tamped down efforts to oust Max Miller in final days",
       "url": "https://atlas.lootura.com/us/organization/white-house",
       "path": "/us/organization/white-house",
-      "updatedAt": "2026-08-11T01:26:42.685Z",
-      "score": 1697,
-      "sourceCount": 111,
+      "updatedAt": "2026-08-11T05:05:58.694Z",
+      "score": 1695,
+      "sourceCount": 112,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,8 +34,8 @@
         "title": "Captain of boat that capsized in New York facing federal charges after mom, infant die",
         "url": "https://atlas.lootura.com/us/place/new-york",
         "path": "/us/place/new-york",
-        "updatedAt": "2026-08-11T01:26:42.685Z",
-        "score": 1637,
+        "updatedAt": "2026-08-11T05:05:58.694Z",
+        "score": 1640,
         "sourceCount": 91,
         "isBreaking": false,
         "isPinned": false
@@ -47,39 +47,39 @@
         "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-11T01:26:42.685Z",
-        "score": 1632,
+        "updatedAt": "2026-08-11T05:05:58.694Z",
+        "score": 1637,
         "sourceCount": 700,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Recount puts Trump-backed challenger in the lead of Indiana state Senate primary",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-11T01:26:42.685Z",
+        "id": "usa-artificial-intelligence",
+        "name": "Artificial intelligence",
+        "type": "topic",
+        "title": "Machine learning predicts forest soil fungal diversity from drone images",
+        "url": "https://atlas.lootura.com/us/topic/artificial-intelligence",
+        "path": "/us/topic/artificial-intelligence",
+        "updatedAt": "2026-08-11T05:05:58.694Z",
         "score": 1630,
-        "sourceCount": 676,
+        "sourceCount": 167,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-russia",
-        "name": "Russia",
-        "type": "place",
-        "title": "Ukrainian drone attack on oil hub deep inside Russia kills 13, official says",
-        "url": "https://atlas.lootura.com/us/place/russia",
-        "path": "/us/place/russia",
-        "updatedAt": "2026-08-11T01:26:42.685Z",
-        "score": 1618,
-        "sourceCount": 92,
+        "id": "usa-nato",
+        "name": "NATO",
+        "type": "organization",
+        "title": "NATO spending pressure returned",
+        "url": "https://atlas.lootura.com/us/organization/nato",
+        "path": "/us/organization/nato",
+        "updatedAt": "2026-08-11T05:05:58.694Z",
+        "score": 1630,
+        "sourceCount": 30,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 139
+    "publicEntityCount": 140
   }
 }

@@ -3,10 +3,22 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T01:26:42.685Z
+- Updated: 2026-08-11T05:05:58.694Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
+
+Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
+
+Date: 2026-08-11
+
+### NATO spending pressure returned
+
+President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+
+Date: 2026-08-11
 
 ### NATO spending pressure returned
 
@@ -56,18 +68,7 @@ The threat led the Secret Service to urge President Trump to fly out of Turkey o
 
 Date: 2026-07-25
 
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-24
-
-### NATO spending pressure returned
-
-President Donald Trump and NATO Secretary General Mark Rutte at the NATO Summit in Ankara, Turkey, on July 8, 2026. —Klaudia Radecka-NurPhoto via Getty Images The portents were not good. Before departing for the recent NATO summit in Ankara, President Donald Trump took to Truth Social to berate the alliance. He posted.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [An Elaborate Ruse: Trump Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T00:17:29.000Z
+- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T02:29:56.000Z
+- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T04:01:30.000Z

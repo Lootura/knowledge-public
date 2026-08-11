@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "updatedAt": "2026-08-11T05:05:29.983Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta",
+      "summary": "La tensión institucional que ha marcado a lo largo de toda la legislatura las relaciones entre el Senado y el Gobierno no da un respiro ni siquiera en agosto . La Cámara Alta, en la que el Partido Popular tiene mayoría absoluta , ha puesto a trabajar de nuevo a sus servicios jurídicos para enfrentar el veto del Gobiern.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos",
+      "summary": "Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.",
+      "date": "2026-08-10"
+    },
     {
       "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
       "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
@@ -22,11 +32,6 @@
     {
       "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
       "summary": "Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una \"orden de alejamiento\" Leer.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos",
-      "summary": "Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.",
       "date": "2026-08-10"
     },
     {
@@ -58,32 +63,21 @@
       "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
       "summary": "El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
-      "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
+    {
+      "title": "El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta",
+      "url": "https://www.elconfidencial.com/espana/2026-08-11/senado-choque-gobierno-constitucional-rechazo-comparecer-ceuta_4403990/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos",
       "url": "https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T23:15:51.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
-      "url": "https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T11:42:39.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
-      "url": "https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:17:20.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

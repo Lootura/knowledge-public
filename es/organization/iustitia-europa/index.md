@@ -28,4 +28,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso](https://theobjective.com/espana/tribunales/2026-08-10/juzgado-denuncias-atico-gobierno-ayuso/?utm_source=lootura.com) — 2026-08-10T18:23:02.000Z
+No public source links.

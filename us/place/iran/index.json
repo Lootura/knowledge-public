@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T01:26:42.685Z",
+  "updatedAt": "2026-08-11T05:05:58.694Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,11 @@
     {
       "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
       "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
       "date": "2026-08-11"
     },
     {
@@ -42,13 +47,13 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Trump responds to Iran’s new demands",
-      "summary": "President Trump responded after Iran made a new set of demands before it will stop attacking commercial ships in the Strait of Hormuz. NBC News’ Keir Simmons reports.",
+      "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
+      "summary": "Iran doubled down on keeping the Strait of Hormuz closed until the U.S. meets a sweeping list of demands. President Trump scoffed at those conditions, especially paying reparations to Iran for damages caused by five months of U.S.-Israeli bombardments. The impasse comes as war appears closer in Yemen between a Saudi-ba.",
       "date": "2026-08-10"
     },
     {
-      "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
-      "summary": "Iran doubled down on keeping the Strait of Hormuz closed until the U.S. meets a sweeping list of demands. President Trump scoffed at those conditions, especially paying reparations to Iran for damages caused by five months of U.S.-Israeli bombardments. The impasse comes as war appears closer in Yemen between a Saudi-ba.",
+      "title": "Trump responds to Iran’s new demands",
+      "summary": "President Trump responded after Iran made a new set of demands before it will stop attacking commercial ships in the Strait of Hormuz. NBC News’ Keir Simmons reports.",
       "date": "2026-08-10"
     },
     {
@@ -59,11 +64,6 @@
     {
       "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
       "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms. (Image credit: Atta Kenare).",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-      "summary": "A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.",
       "date": "2026-08-10"
     }
   ],
@@ -81,16 +81,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump responds to Iran’s new demands",
-      "url": "https://www.nbcnews.com/nightly-news/video/trump-responds-to-iran-s-new-demands-268070469841?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:51:38.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
       "url": "https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-08-10T22:45:55.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T02:29:56.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22",
@@ -107,7 +107,7 @@
     {
       "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T00:41:13.000Z",
+      "publishedAt": "2026-08-11T02:34:23.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

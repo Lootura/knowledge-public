@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-08-11T05:05:58.694Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Pentagon revokes security clearance of former Air Force chief",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
@@ -59,13 +64,15 @@
       "title": "DOJ to withdraw subpoenas for New York Times reporters over Air Force One story",
       "summary": "The New York Times moved to block subpoenas issued by the Justice Department for grand jury testimony and phone records from its reporters.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "New Air Force One going out of commission to get safety upgrades",
-      "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T02:29:56.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

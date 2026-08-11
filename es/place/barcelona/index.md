@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
-
-Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
-
-Date: 2026-08-10
 
 ### Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música
 
@@ -20,15 +14,21 @@ El laboratorio internacional ISDIN celebrará un evento este miércoles en su es
 
 Date: 2026-08-10
 
-### Los accidentes en atracciones de feria superan el centenar de heridos en diez años
-
-Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.
-
-Date: 2026-08-10
-
 ### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
 
 El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...
+
+Date: 2026-08-10
+
+### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
+
+Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
+
+Date: 2026-08-10
+
+### Los accidentes en atracciones de feria superan el centenar de heridos en diez años
+
+Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.
 
 Date: 2026-08-10
 
@@ -70,7 +70,5 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona](https://www.elmundo.es/cataluna/2026/08/10/6a79be09fdddff14708b4575.html?utm_source=lootura.com) — 2026-08-10T12:17:20.000Z
 - [El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona](https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com) — 2026-08-10T22:05:02.000Z
 - [Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música](https://theobjective.com/sociedad/ciencia/2026-08-10/casa-isdin-eclipse-solar-ciencia-musica/?amp=&utm_source=lootura.com) — 2026-08-10T20:25:56.000Z
-- [Los accidentes en atracciones de feria superan el centenar de heridos en diez años](https://theobjective.com/sociedad/2026-08-10/accidentes-atracciones-feria-centenar-heridos-diez-anos/?utm_source=lootura.com) — 2026-08-10T19:19:56.000Z

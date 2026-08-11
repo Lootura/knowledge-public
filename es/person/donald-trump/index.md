@@ -3,16 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+### Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales
 
-Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
+No todas las relaciones tienen un final feliz. La de Trump Media (TMTG) y Crypto.com, el undécimo exchange más grande según Coinmarketcap, duró poco más de un año. Juntos tenían muchos proyectos a largo plazo: lanzar fondos y productos cotizados (ETF) de activos digitales, crear una empresa de tesorería cripto y desple.
 
-Date: 2026-08-10
+Date: 2026-08-11
 
 ### Irán y Omán redibujan el mapa de Ormuz sin Washington
 
@@ -23,6 +23,12 @@ Date: 2026-08-10
 ### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
 
 La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
+
+Date: 2026-08-10
+
+### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
+
+Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
 
 Date: 2026-08-10
 
@@ -62,14 +68,8 @@ Greenland Energy limita el inicio de la operación a un yacimiento de los dos pr
 
 Date: 2026-08-09
 
-### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
-
-La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales](https://cincodias.elpais.com/criptoactivos/2026-08-11/trump-rompe-con-cryptocom-y-deja-de-lado-sus-proyectos-de-activos-digitales.html?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z
 - [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
 - [Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense](https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com) — 2026-08-10T20:45:21.000Z
-- [Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático](https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html?utm_source=lootura.com) — 2026-08-10T13:23:04.000Z

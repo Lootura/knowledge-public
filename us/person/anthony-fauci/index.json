@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-11T05:05:58.694Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -70,6 +70,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In texts, Fauci discussed potential risks, benefits of COVID vaccine for pregnant women",
+      "url": "https://www.cbsnews.com/news/fauci-texts-covid-vaccine-pregnant-women-gop-rand-paul-ron-johnson/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T02:41:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

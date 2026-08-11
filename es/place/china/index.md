@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles
+
+Corrían los primeros meses de 2021. El mercado automovilístico español —y el europeo en general— sufría el desplome de las ventas de coches nuevos por la crisis sanitaria. A ello estaba a punto de sumarse la escasez de microchips, que iba a disparar el precio de los vehículos nuevos y a alargar notablemente los tiempos.
+
+Date: 2026-08-11
 
 ### China hurga en la fractura de la Unión Europea por Ceuta
 
@@ -14,21 +20,9 @@ Para el núcleo del poder comunista chino, la sangre derramada en el espigón ce
 
 Date: 2026-08-11
 
-### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
-
-La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
-
-Date: 2026-08-10
-
 ### El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa
 
 El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.
-
-Date: 2026-08-10
-
-### En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia
-
-Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.
 
 Date: 2026-08-10
 
@@ -41,6 +35,12 @@ Date: 2026-08-10
 ### 'Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año
 
 La Xunta impuso el máximo sigilo para garantizar la negociación con China Leer.
+
+Date: 2026-08-10
+
+### En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia
+
+Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.
 
 Date: 2026-08-10
 
@@ -70,9 +70,7 @@ Date: 2026-08-10
 
 ## Fuentes
 
+- [El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles](https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html?utm_source=lootura.com) — 2026-08-11T03:45:00.000Z
 - [Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China](https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com) — 2026-08-10T20:46:43.000Z
-- [Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto](https://amp.elmundo.es/espana/2026/08/10/6a79b69de9cf4ad41f8b4582.html?utm_source=lootura.com) — 2026-08-10T11:42:39.000Z
 - ['Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año](https://www.elmundo.es/galicia/2026/08/11/6a7a0bfe21efa0cb578b4592.html?utm_source=lootura.com) — 2026-08-10T23:29:46.000Z
 - [El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa](https://elpais.com/espana/2026-08-10/el-gobierno-mantiene-su-apoyo-a-la-fabrica-china-en-ferrol-pese-a-las-alertas-de-defensa.html?utm_source=lootura.com) — 2026-08-10T18:14:43.000Z
-- [China hurga en la fractura de la Unión Europea por Ceuta](https://www.larazon.es/espana/china-hurga-fractura-union-europea-ceuta_202608116a79dd49a5690f0473726b9a.html?utm_source=lootura.com) — 2026-08-11T00:00:13.000Z
-- [En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia](https://theobjective.com/espana/2026-08-10/sumario-tarde-mando-unico-ceuta-terremoto-colombia/?utm_source=lootura.com) — 2026-08-10T17:55:00.000Z

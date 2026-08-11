@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Amancio Ortega (90 años), fundador de Inditex, sobre su infancia: «En casa no había lujos. No había nada de nada, pero nos educaron con valores»](https://okdiario.com/cool/famosos/frase-amancio-ortega-90-anos-fundador-inditexs-obre-infancia-casa-no-habia-lujos-no-habia-nada-nada-pero-nos-educaron-valores-19110368?utm_source=lootura.com) — 2026-08-10T21:44:01.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T05:05:29.983Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -13,6 +13,12 @@
 Al igual que ocurre en Wall Street, donde un grupo muy reducido de tecnológicas, conocidas como los Siete Magníficos (Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia y Tesla) agrupan una parte muy significativa del peso de la Bolsa americana, el patrón también se repite en Asia. Los Siete Magníficos de los mercados em.
 
 Date: 2026-08-11
+
+### El iPhone tendrá una función para demostrar que una foto es real y no de IA
+
+Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone . La nueva función aparece documentada en el código de iOS 27 y podría debutar con.
+
+Date: 2026-08-10
 
 ### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
 
@@ -29,12 +35,6 @@ Date: 2026-08-10
 ### Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón
 
 Cuando Apple anunció iOS 26 con Liquid Glass , muchos usuarios pensaron que se trataba de una idea original nunca antes vista. La realidad es que Microsoft hizo algo parecido hace casi dos décadas con Windows Vista y Aero, una interfaz parecida que muchos todavía recuerdan con cariño. Con la moda impuesta por Apple, mu.
-
-Date: 2026-08-10
-
-### El iPhone tendrá una función para demostrar que una foto es real y no de IA
-
-Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone . La nueva función aparece documentada en el código de iOS 27 y podría debutar con.
 
 Date: 2026-08-10
 
@@ -71,7 +71,4 @@ Date: 2026-08-07
 ## Fuentes
 
 - [¿Cuáles son los 'Siete Magníficos' del mercado asiático?](https://www.expansion.com/mercados/2026/08/11/6a7a21cf468aeb18588b459a.html?utm_source=lootura.com) — 2026-08-11T00:14:19.000Z
-- [Apple podría lanzar su propia pulsera sin pantalla al estilo Whoop o Fitbit Air](https://hipertextual.com/apple/pulsera-sin-pantalla-apple-whoop-fitbir-air/?utm_source=lootura.com) — 2026-08-10T18:52:00.000Z
 - [El iPhone tendrá una función para demostrar que una foto es real y no de IA](https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/?utm_source=lootura.com) — 2026-08-10T23:40:12.000Z
-- [Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón](https://hipertextual.com/software/microsoft-no-trae-liquid-glass-windows-11-iphone/?utm_source=lootura.com) — 2026-08-10T20:00:00.000Z
-- [¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple](https://hipertextual.com/apple/cancelado-rediseno-iphone-20-aniversario-rumor/?utm_source=lootura.com) — 2026-08-10T16:36:35.000Z

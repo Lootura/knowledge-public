@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal](https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html?utm_source=lootura.com) — 2026-08-10T12:30:42.000Z
+No public source links.
