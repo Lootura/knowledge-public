@@ -3,34 +3,10 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
-
-### Las impactantes imágenes del terremoto que ha sacudido Colombia
-
-Un terremoto de magnitud 7,4 sacudió este lunes gran parte del territorio de Colombia, provocando el colapso de numerosas estructuras en el centro y el oeste del país. El seísmo se sintió a las 07.34 hora local (14:34 hora española) y tuvo como epicentro la localidad de San José del Palmar, en el departamento del Chocó.
-
-Date: 2026-08-11
-
-### El terremoto obliga a evacuar a los concursantes de 'OT': "Está temblando"
-
-Un terremoto sacudió a Colombia este lunes 10 de agosto, con una fuerte magnitud de 7,4 y su epicentro se localizó en el municipio de San José del Palmar, en el departamento del Chocó, dejando muchos daños materiales y 138 víctimas mortales por el momento . El temblor se sintió en toda Colombia, incluida la capital, Bo.
-
-Date: 2026-08-11
-
-### Así vivió David Bisbal el seísmo: "Por favor, virgencita… ya, para"
-
-El cantante español David Bisbal es uno de los miembros del jurado de OT USA , un programa de t alento musical que se graba en Bogotá, Colombia , país que vivió este lunes un fuerte terremoto. Aunque la capital no fue de las más afectadas, el cantante vivió con entendible miedo el movimiento del suelo , mientras se enc.
-
-Date: 2026-08-11
-
-### "Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"
-
-El Gobierno de Colombia declaró este lunes la situación de emergencia nacional tras el terremoto de magnitud 7,4 registrado cerca de la localidad de San José del Palmar, en el noroeste del país. El temblor ha dejado al menos 111 fallecidos y 87 heridos , de acuerdo con los informes preliminares de las autoridades local.
-
-Date: 2026-08-11
 
 ### Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos
 
@@ -38,45 +14,69 @@ Colombia todavía cuenta sus muertos. El país amanecerá este martes bajo el es
 
 Date: 2026-08-11
 
-### Colombia declara emergencia nacional tras el terremoto que ha causado ya 132 víctimas
+### Las empresas españolas en Colombia activan protocolos y evalúan daños
+
+Colombia afronta las consecuencias del terremoto de magnitud 7,4 que sacudió el noroeste del país este lunes. Según el último balance oficial difundido por la Embajada de Colombia en España, el seísmo ha dejado hasta el momento 132 fallecidos y 570 heridos . Sus efectos también se han dejado sentir en la actividad de l.
+
+Date: 2026-08-11
+
+### Rescatan a un bebé de meses de los escombros en un edificio de Cali derribado
+
+Los equipos de rescate en Cali ( Colombia ) que trabajan desde este lunes en la búsqueda supervivientes del terremoto de magnitud 7,4 en la escala Richter, que ya ha dejado más de un centenar de muertos , han logrado salvar la vida a un bebé, en un emotivo momento que ha dado esperanza a todas las personas que siguen b.
+
+Date: 2026-08-11
+
+### Ascienden a 169 los muertos tras el terremoto y Exteriores confirma que hay 164 españoles sin localizar
+
+Sigue en directo la última hora del terremoto en Colombia, que también ha afectado a Ecuador y Panamá, con la cifra de muertos, heridos y poblaciones afectadas por el seísmo con epicentro en San José del Palmar.
+
+Date: 2026-08-11
+
+### Terremoto en Colombia: sigue la búsqueda de 188 desaparecidos bajo los escombros tras un seísmo que ha dejado al menos 224 muertos
+
+Bomberos, Defensa Civil locales y llegados de diferentes zonas del país, así como militares expertos en ese tipo de tareas, trabajan de manera incansable en los rescates Leer.
+
+Date: 2026-08-11
+
+### Colombia frente a los terremotos: cuando el riesgo también está construido
+
+El país cuenta desde 1998 con una normativa de construcción sismorresistente, pero existen viviendas vulnerables que son una amenza para la vida Leer.
+
+Date: 2026-08-11
+
+### Terremoto en Colombia: el Gobierno anuncia que hay 164 españoles en paradero desconocido
 
 El presidente Abelardo de la Espriella ha declarado emergencia nacional para permitirá trasladar recursos con mayor agilidad a las zonas afectadas por el terremoto que ha dejado por ahora más un centenar de víctimas mortales y otro centenar de heridos y personas atrapadas en edificios colapsados. Seguir leyendo.
 
 Date: 2026-08-11
 
-### Terremoto en Colombia, en directo: última hora del seísmo, víctimas y desaparecidos
+### Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas y desaparecidos
 
 Los equipos de emergencia mantienen el dispositivo en las zonas afectadas mientras continúa la evaluación de los daños y Colombia recibe ofrecimientos de ayuda internacional.
 
 Date: 2026-08-11
 
-### El terremoto más fuerte en lo que va de siglo en Colombia deja por ahora 885 heridos solo en Cali
+### Última hora del terremoto en Colombia, en directo: al menos 169 muertos, más de 900 heridos y 164 españoles sin localizar
 
-Policías, militares, equipos especializados y numerosos voluntarios han pasado la noche retirando escombros con excavadoras y, en algunos puntos, incluso con sus propias manos.
-
-Date: 2026-08-11
-
-### Colombia intensifica los rescates tras el terremoto de magnitud 7,4 que deja ya 132 muertos
-
-Al menos 164 personas murieron, según los primeros datos de Reuters, y más de 570 resultaron heridas en Colombia a causa del terremoto de magnitud 7,4 que sacudió el país este lunes, según un balance provisional de la Asociación Colombiana de Ciudades Capitales (Asocapitales). Seguir leyendo...
+La emergencia entra ya en su segundo día con operaciones de búsqueda que prácticamente no se han detenido.
 
 Date: 2026-08-11
 
-### Rescatados con vida un bebé y su madre de los escombros tras el terremoto en Cali
+### Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo
 
-Colombia vive horas críticas después de que un terremoto de magnitud 7,4 sacudiera el país a principios de esta semana y causara, de momento, más de 130 muertos. Numerosos edificios se derrumbaron por completo y dejaron a centenares de personas atrapadas entre los escombros, mientras los equipos de rescate trabajan par.
+Última hora del terremoto en Colombia hoy, 11 de agosto: rescates, desaparecidos y nuevas cifras de víctimas en directo.
 
 Date: 2026-08-11
 
 ## Fuentes
 
-- [Las impactantes imágenes del terremoto que ha sacudido Colombia](https://www.20minutos.es/internacional/las-impactantes-imagenes-terremoto-que-ha-sacudido-colombia_7024483_1.html?utm_source=lootura.com) — 2026-08-11T05:35:48.000Z
-- [El terremoto obliga a evacuar a los concursantes de 'OT': "Está temblando"](https://www.20minutos.es/television/terremoto-colombia-obliga-evacuar-los-concursantes-ot-usa-pocas-horas-final-esta-temblando-ay-no-vamos_7024513_0.html?utm_source=lootura.com) — 2026-08-11T07:31:15.000Z
-- [Así vivió David Bisbal el seísmo: "Por favor, virgencita… ya, para"](https://www.20minutos.es/gente/asi-vivio-david-bisbal-terremoto-colombia-por-favor-virgencita-ya-para_7024541_0.html?utm_source=lootura.com) — 2026-08-11T08:27:40.000Z
-- ["Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"](https://www.20minutos.es/internacional/tensa-calma-manizales-80-kilometros-epicentro-seismo-colombia-los-vecinos-estan-calle-por-si-hay-replicas_7024459_0.html?utm_source=lootura.com) — 2026-08-11T05:02:04.000Z
-- [Rodrigo León, geólogo colombiano experto en terremotos: “Habrá réplicas, la ciudadanía tiene que prepararse”](https://elpais.com/america-colombia/2026-08-10/rodrigo-leon-geologo-colombiano-experto-en-terremotos-habra-replicas-la-ciudadania-tiene-que-prepararse.html?utm_source=lootura.com) — 2026-08-10T20:44:23.000Z
+- [Las empresas españolas en Colombia activan protocolos y evalúan daños](https://www.20minutos.es/lainformacion/empresas/las-empresas-espanolas-colombia-activan-protocolos-evaluan-danos-tras-terremoto_7024624_0.html?utm_source=lootura.com) — 2026-08-11T12:11:16.000Z
+- [Rescatan a un bebé de meses de los escombros en un edificio de Cali derribado](https://www.20minutos.es/internacional/rescatan-una-madre-su-bebe-tres-meses-los-escombros-un-edificio-derrumbado-cali-por-terremoto_7024600_0.html?utm_source=lootura.com) — 2026-08-11T09:48:03.000Z
+- [Ascienden a 169 los muertos tras el terremoto y Exteriores confirma que hay 164 españoles sin localizar](https://www.abc.es/internacional/terremoto-colombia-directo-muertos-heridos-desaparecidos-aeropuertos-20260810170846-di.html?utm_source=lootura.com) — 2026-08-11T12:18:43.000Z
+- [Terremoto en Colombia: sigue la búsqueda de 188 desaparecidos bajo los escombros tras un seísmo que ha dejado al menos 224 muertos](https://www.elmundo.es/internacional/2026/08/11/6a7ae1fce4d4d8662c8b456f.html?utm_source=lootura.com) — 2026-08-11T12:51:30.000Z
+- [Colombia frente a los terremotos: cuando el riesgo también está construido](https://www.elmundo.es/internacional/2026/08/11/6a7aed58e9cf4a3c768b457b.html?utm_source=lootura.com) — 2026-08-11T09:50:28.000Z
 - [Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos](https://elpais.com/america-colombia/2026-08-11/colombia-amanece-bajo-el-estado-de-emergencia-por-el-terremoto-que-deja-mas-de-130-muertos.html?utm_source=lootura.com) — 2026-08-11T04:00:00.000Z
-- [Colombia revive el trauma del terremoto que arrasó el Eje Cafetero hace 27 años](https://elpais.com/america-colombia/2026-08-10/colombia-revive-el-trauma-del-terremoto-que-arraso-el-eje-cafetero-hace-27-anos.html?utm_source=lootura.com) — 2026-08-10T20:52:04.000Z
-- [Colombia declara emergencia nacional tras el terremoto que ha causado ya 132 víctimas](https://www.expansion.com/sociedad/2026/08/11/6a7ac3fb468aeb810c8b4571.html?utm_source=lootura.com) — 2026-08-11T06:56:45.000Z
-- [Terremoto en Colombia, en directo: última hora del seísmo, víctimas y desaparecidos](https://www.larazon.es/internacional/terremoto-colombia-directo-ultima-hora-seismo-victimas-desaparecidos_202608116a7a9f80a046ad6ebcaab229.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T08:50:17.000Z
-- [El terremoto más fuerte en lo que va de siglo en Colombia deja por ahora 885 heridos solo en Cali](https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html?utm_source=lootura.com) — 2026-08-11T08:10:58.000Z
+- [Terremoto en Colombia: el Gobierno anuncia que hay 164 españoles en paradero desconocido](https://www.expansion.com/sociedad/2026/08/11/6a7ac3fb468aeb810c8b4571.html?utm_source=lootura.com) — 2026-08-11T10:52:49.000Z
+- [Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas y desaparecidos](https://www.larazon.es/internacional/terremoto-colombia-directo-ultima-hora-seismo-victimas-desaparecidos_202608116a7a9f80a046ad6ebcaab229.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T12:55:15.000Z
+- [Última hora del terremoto en Colombia, en directo: al menos 169 muertos, más de 900 heridos y 164 españoles sin localizar](https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html?utm_source=lootura.com) — 2026-08-11T12:10:40.000Z
+- [Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo](https://okdiario.com/internacional/terremoto-colombia-ultima-hora-directo-fallecidos-victimas-rescates-situacion-cali-pereira-choco-hoy-vivo-19158449/amp?utm_source=lootura.com) — 2026-08-11T12:50:13.000Z

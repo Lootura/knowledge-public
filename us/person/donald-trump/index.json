@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -40,18 +40,8 @@
       "date": "2026-08-11"
     },
     {
-      "title": "Trump signs order on vaccination recommendations",
-      "summary": "President Trump signed an executive order on childhood vaccine schedules Monday.",
-      "date": "2026-08-11"
-    },
-    {
       "title": "Doctors respond to Trump's vaccine executive order as kids head back to school",
       "summary": "President Trump signed an executive order on Monday that lowers the recommended number of vaccines for children and encourages splitting up certain vaccines into separate doctor visits. Doctors spoke with CBS News about the order and suggested that parents speak with their children's pediatricians about what would be b.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Recount puts Trump-backed challenger in the lead in Indiana state Senate primary",
-      "summary": "State Sen. Spencer Deery, who now trails Republican Paula Copenhaver by three votes, said he will appeal.",
       "date": "2026-08-11"
     },
     {
@@ -70,18 +60,22 @@
       "date": "2026-08-11"
     },
     {
-      "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-      "summary": "President Trump's deployment of the National Guard hits the one year mark next week. The presence of armed, uniformed troops on the street has become increasingly normalized in the capital.",
+      "title": "Trump signs order on new recommendations for childhood vaccines",
+      "summary": "A new executive order from President Trump calls for spacing out vaccines for children and getting fewer at any given time. CBS News medical correspondent Dr. Celine Gounder explains what parents should know.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Two advisers have links to a venture fund co-investing in US defense companies that benefit from federal spending Pete Hegseth ’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in military and space t.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
+      "summary": "Plus, when you accidentally upset “Harry Potter” fans.",
       "date": "2026-08-11"
     }
   ],
   "sources": [
-    {
-      "title": "Trump signs order on vaccination recommendations",
-      "url": "https://www.cbsnews.com/news/trump-childhood-vaccines-executive-order/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T01:52:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Doctors respond to Trump's vaccine executive order as kids head back to school",
       "url": "https://www.cbsnews.com/video/doctors-respond-trumps-vaccine-executive-order-kids-go-back-school-measles-outbreak/?utm_source=lootura.com",
@@ -89,16 +83,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
-      "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T05:52:00.000Z",
+      "title": "Trump signs order on new recommendations for childhood vaccines",
+      "url": "https://www.cbsnews.com/video/trump-signs-order-on-new-recommendations-for-childhood-vaccines/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:25:25.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Recount puts Trump-backed challenger in the lead in Indiana state Senate primary",
-      "url": "https://www.nbcnews.com/politics/2026-election/recount-puts-trump-backed-challenger-lead-indiana-state-senate-primary-rcna591815?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T00:07:05.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
+      "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:37:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Morning news brief",
@@ -107,35 +101,41 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump and RFK Jr. try again to upend vaccines for kids",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:25:02.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/a-year-in-thousands-of-armed-troops-have-quietly-become-a-fixture-of-d-c-life?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:29:28.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T05:48:27.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:30:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots",
       "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com",
       "publishedAt": "2026-08-10T22:50:06.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Pete Hegseth’s Pentagon picks raise questions over Trump family business ties",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/pete-hegseth-pentagon-picks-trump-family-business?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:00:00.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
+      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:00:11.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+      "url": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:01:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T02:34:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T02:00:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 13
 }

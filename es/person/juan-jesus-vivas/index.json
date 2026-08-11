@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
+      "date": "2026-08-11"
+    },
     {
       "title": "El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión",
       "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.",
@@ -59,13 +64,15 @@
       "title": "Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”",
       "summary": "El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado claro este jueves en el Parlamento Europeo que, para él, lo sucedido los días 30 y 31 de julio “no es una crisis migratoria al uso”. “Es un episodio a través del que se ha puesto en jaque nuestra integridad: La de Ceuta, la de España, la de Euro.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Vivas agradece al Rey Felipe VI su compromiso con Ceuta y confía en una futura visita a la ciudad",
-      "summary": "El presidente de Ceuta , Juan Jesús Vivas, ha agradecido este jueves el compromiso de Felipe VI con la ciudad autónoma y se ha mostrado convencido de que el monarca visitará la región cuando sea posible. \" No me cabe la menor duda de que el Rey nos va a visitar \", ha dicho Vivas en declaraciones a los medios después de.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "url": "https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:42:51.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -1,0 +1,48 @@
+{
+  "id": "es-brad-pitt",
+  "name": "Brad Pitt",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/brad-pitt",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/brad-pitt",
+  "markdownUrl": "https://atlas.lootura.com/es/person/brad-pitt/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/brad-pitt/index.json",
+  "description": "Sigue la actividad de Brad Pitt en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "aliases": [
+    "William Brad Pitt",
+    "Bradley Pitt"
+  ],
+  "changes": [
+    {
+      "title": "Brad Pitt: «Estuve sobrio durante siete años. Y luego me caí del vagón»",
+      "summary": "Brad Pitt ha decidido mirar de frente a algunos de los episodios más difíciles de su vida. El actor se ha sincerado sobre la última década en una de sus entrevistas más personales, en la que habla de su relación con el alcohol, del dolor por la muerte de su madre y de las consecuencias que tuvo para él su separación de.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Brad Pitt confiesa su recaída en el alcohol: «Entiendo cómo es buscar un alivio al dolor»",
+      "summary": "Brad Pitt ha hecho un repaso sin tapujos de los últimos 10 años de su vida, marcados por su separación de Angelina Jolie , crisis personales, el distanciamiento familiar, su adicción al alcohol y el duelo. El actor, de 62 años , ha trasladado con su relato cómo detrás de la radiante fachada de una de las mayores leyend.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Brad Pitt first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brad Pitt: «Estuve sobrio durante siete años. Y luego me caí del vagón»",
+      "url": "https://www.abc.es/gente/confesion-personal-brad-pitt-recaida-alcohol-pensamientos-20260811104630-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:48:20.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Brad Pitt confiesa su recaída en el alcohol: «Entiendo cómo es buscar un alivio al dolor»",
+      "url": "https://okdiario.com/cool/television/brad-pitt-confiesa-recaida-alcohol-entiendo-como-buscar-alivio-dolor-19162561?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:47:28.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
+}

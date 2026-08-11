@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [],
   "changes": [
     {
       "title": "La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)",
       "summary": "El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia administrativa contra un hombre de 63 años , residente en Burela (Lugo), tras intervenirle 146,5 kilos de cigala que carecían de la documentación de trazabilidad exigida por la normativa pesquera vigente . Según informó el Instituto Armado ,.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»",
+      "summary": "Llanes intenta retomar una cierta normalidad una semana después del crimen de Laura Cruz, la guardia civil asesinada por su expareja, Dámaso , que también era agente de la Benemérita. La Policía Judicial de la Guardia Civil de la Comandancia de Gijón ha asumido la investigación para esclarecer los hechos, aunque con el.",
       "date": "2026-08-11"
     },
     {
@@ -55,14 +60,15 @@
       "title": "Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos",
       "summary": "Un joven de origen subsahariano ha fallecido este viernes tras precipitarse al mar cuando intentaba acceder a Ceuta desde Marruecos utilizando un parapente en las inmediaciones del espigón de Benzú, según han informado fuentes de la Guardia Civil.El suceso se ha producido en torno a las 08.00 horas , momento en el que.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Desarticulada una red de tráfico de personas y droga en España con 78 detenidos",
-      "summary": "Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»",
+      "url": "https://www.abc.es/espana/asturias/gran-agujero-crimen-guardia-civil-laura-robo-20260811125629-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:32:42.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)",
       "url": "https://www.elconfidencial.com/espana/galicia/2026-08-11/cigala-incautacion-guardia-civil-burela-1tps_4404219/?utm_source=lootura.com",
@@ -70,5 +76,5 @@
       "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

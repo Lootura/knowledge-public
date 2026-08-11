@@ -3,10 +3,16 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
+
+### U.S. Says It Revoked More Than 175,000 Visas Under Trump
+
+Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.
+
+Date: 2026-08-11
 
 ### At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death
 
@@ -62,12 +68,6 @@ Prosecutors plan to play audio clips of an interview with the roommate of Charli
 
 Date: 2026-07-09
 
-### Suspect's roommate in Charlie Kirk killing given immunity for recorded statements
-
-Prosecutors revealed that the roommate of the man accused of assassinating Charlie Kirk was given "use immunity" in exchange for providing recorded video statements to investigators about the case.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [U.S. Says It Revoked More Than 175,000 Visas Under Trump](https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html?utm_source=lootura.com) — 2026-08-11T12:02:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
@@ -17,6 +17,26 @@
     {
       "title": "Morning news brief",
       "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
+      "summary": "More than 2,700 people were reported missing on Monday night, after the country was struck by its strongest earthquake on record.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
+      "summary": "Progressive Democrats fight for primary wins in Wisconsin and Minnesota.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
+      "summary": "Communities living in Colombia thousands of years ago achieved an engineering wonder of the world based on cooperation among family groups without top-down government, a new study shows. Archaeologists argue that policymakers in Colombia should now adopt a similar strategy to solve the country's current water managemen.",
       "date": "2026-08-11"
     },
     {
@@ -35,42 +55,27 @@
       "date": "2026-08-11"
     },
     {
-      "title": "Videos capture the moment a 7.4-magnitude earthquake strikes Colombia",
-      "summary": "Watch videos captured from Colombia as a 7.4-magnitude earthquake struck the country. Casualties have been reported with many still missing amid the collapsed buildings and debris.",
-      "date": "2026-08-10"
-    },
-    {
       "title": "7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings",
       "summary": "A powerful and deadly earthquake hit Colombia on Monday, killing at least 111 people, toppling buildings and leaving a trail of destruction. Geoff Bennett reports.",
       "date": "2026-08-10"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Colombia first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
-      "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation. (Image credit: John Vizcaino).",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
-      "date": "2026-08-07"
+      "title": "Videos capture the moment a 7.4-magnitude earthquake strikes Colombia",
+      "summary": "Watch videos captured from Colombia as a 7.4-magnitude earthquake struck the country. Casualties have been reported with many still missing amid the collapsed buildings and debris.",
+      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "7.4 earthquake strikes western Colombia, killing at least 111 people",
-      "url": "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T04:54:55.000Z",
+      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
+      "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:37:35.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia",
-      "url": "https://www.nbcnews.com/video/videos-capture-the-moment-a-7-4-magnitude-earthquake-strikes-colombia-268050501807?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T18:06:21.000Z",
+      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
+      "url": "https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:13:01.137Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -80,23 +85,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:11:14.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings",
       "url": "https://www.pbs.org/newshour/show/7-4-magnitude-earthquake-rocks-colombia-crumbling-homes-and-buildings?utm_source=lootura.com",
       "publishedAt": "2026-08-10T22:55:25.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-      "url": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T06:36:14.000Z",
+      "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
+      "url": "https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T09:00:05.000Z",
       "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Major Quake Hits Colombia, Killing at Least 111",
-      "url": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T00:14:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

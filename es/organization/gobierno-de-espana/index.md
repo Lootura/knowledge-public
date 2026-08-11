@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
 
 El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
+
+Date: 2026-08-11
+
+### Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»
+
+El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.
+
+Date: 2026-08-11
+
+### El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España
+
+El primer ministro de Suecia, el conservador Ulf Kristersson, ha cargado contra el proceso de regularización de inmigrantes realizado por el Gobierno de España , al considerar que es una “muy mala idea” Seguir leyendo...
 
 Date: 2026-08-11
 
@@ -56,18 +68,8 @@ Date: 2026-08-08
 
 Date: 2026-08-07
 
-### EEUU ataca de nuevo al Gobierno por Ceuta: "Es consecuencia de su rechazo a asegurar sus fronteras"
-
-Estados Unidos ha vuelto a cargar contra el Gobierno de España a cuenta de la crisis migratoria en Ceuta. En un post en X, el Departamento de Estado de EEUU ha asegurado que lo ocurrido en Ceuta se trató de una "invasión de decenas de miles de migrantes", que se produjo como "consecuencia directa del vergonzoso rechazo.
-
-Date: 2026-08-07
-
-### La UE no ve relación entre la regularización y la crisis pero avisa de que la medida "no es una buena señal"
-
-El comisario europeo de Interior y Migraciones, Magnus Brunner, ha negado este martes que haya una relación entre la regularización extraordinaria de migrantes aprobada por el Gobierno español y la crisis migratoria en Ceuta . No obstante, ha reconocido que este tipo de medidas envían una "mala señal" al resto de la Un.
-
-Date: 2026-08-04
-
 ## Fuentes
 
+- [Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»](https://www.abc.es/espana/albares-aplaude-marruecos-aspire-retorno-inmediato-menores-20260811125948-nt.html?utm_source=lootura.com) — 2026-08-11T12:29:53.000Z
+- [El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España](https://www.lavanguardia.com/internacional/20260811/11611883/primer-ministro-suecia-califica-mala-idea-regulacion-inmigrantes-aprobada-espana.html?utm_source=lootura.com) — 2026-08-11T09:18:38.000Z
 - [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z

@@ -3,10 +3,16 @@
 > Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/chuck-edwards
 
 ## Recent changes
+
+### North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards
+
+State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.
+
+Date: 2026-08-11
 
 ### N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot
 
@@ -46,4 +52,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot](https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827?utm_source=lootura.com) — 2026-08-11T00:04:13.000Z
+- [North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards](https://www.cbsnews.com/news/chuck-edwards-replacement-north-carolina-republicans-11th-district-candidate/?utm_source=lootura.com) — 2026-08-11T12:33:12.000Z

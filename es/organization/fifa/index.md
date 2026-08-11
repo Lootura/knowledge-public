@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.
+
+Date: 2026-08-11
 
 ### Vero Boquete, la futbolista que narra los goles de España: «El mundo del fútbol mantiene el carácter machista. Aún cuesta aceptar mujeres»
 
@@ -62,12 +68,6 @@ El príncipe de Jordania, Alí bin Hussein, también presidente de la Federació
 
 Date: 2026-08-04
 
-### Tebas aprovecha el comunicado del Madrid para reprochar al club su posición sobre la FIFA
-
-El presidente de LaLiga lanzó un reproche al equipo: «¿Por qué ha tardado tanto?» en pronunciarse sobre este asunto.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z

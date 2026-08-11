@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)
 
 El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia administrativa contra un hombre de 63 años , residente en Burela (Lugo), tras intervenirle 146,5 kilos de cigala que carecían de la documentación de trazabilidad exigida por la normativa pesquera vigente . Según informó el Instituto Armado ,.
+
+Date: 2026-08-11
+
+### El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»
+
+Llanes intenta retomar una cierta normalidad una semana después del crimen de Laura Cruz, la guardia civil asesinada por su expareja, Dámaso , que también era agente de la Benemérita. La Policía Judicial de la Guardia Civil de la Comandancia de Gijón ha asumido la investigación para esclarecer los hechos, aunque con el.
 
 Date: 2026-08-11
 
@@ -62,12 +68,7 @@ Un joven de origen subsahariano ha fallecido este viernes tras precipitarse al m
 
 Date: 2026-08-08
 
-### Desarticulada una red de tráfico de personas y droga en España con 78 detenidos
-
-Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.
-
-Date: 2026-08-07
-
 ## Fuentes
 
+- [El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»](https://www.abc.es/espana/asturias/gran-agujero-crimen-guardia-civil-laura-robo-20260811125629-nt.html?utm_source=lootura.com) — 2026-08-11T12:32:42.000Z
 - [La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)](https://www.elconfidencial.com/espana/galicia/2026-08-11/cigala-incautacion-guardia-civil-burela-1tps_4404219/?utm_source=lootura.com) — 2026-08-11T08:02:00.000Z

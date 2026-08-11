@@ -3,7 +3,7 @@
 > Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/tupac-shakur
 
 ## Recent changes
@@ -35,4 +35,3 @@ Date: 2026-08-09
 ## Sources
 
 - [Man who allegedly arranged Tupac Shakur's 1996 killing is on trial in Las Vegas](https://www.cbsnews.com/news/tupac-shakur-killing-1996-alleged-organizer-trial-las-vegas-duane-keffe-d-davis/?utm_source=lootura.com) — 2026-08-10T23:57:46.000Z
-- [Trial begins for man accused of orchestrating Tupac Shakur's killing](https://www.pbs.org/newshour/arts/trial-begins-for-man-accused-of-orchestrating-tupac-shakurs-killing?utm_source=lootura.com) — 2026-08-10T17:19:23.000Z

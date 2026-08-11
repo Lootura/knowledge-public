@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -21,6 +21,11 @@
     {
       "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
       "summary": "Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards",
+      "summary": "State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.",
       "date": "2026-08-11"
     },
     {
@@ -51,11 +56,17 @@
   ],
   "sources": [
     {
+      "title": "North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards",
+      "url": "https://www.cbsnews.com/news/chuck-edwards-replacement-north-carolina-republicans-11th-district-candidate/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:33:12.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
       "url": "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T00:31:32.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

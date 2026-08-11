@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,11 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
+      "summary": "El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.",
+      "date": "2026-08-11"
+    },
     {
       "title": "La prehistoria del sanchismo",
       "summary": "A lo largo de todos estos años, he venido manteniendo que para entender el comportamiento de Sánchez y todo lo que en este tiempo ha sucedido, incluso para adelantarnos a sus acciones, hay que remontarse al origen, al menos desde el momento en que gana las primeras primarias. Por una parte, el Sánchez de ahora estaba y.",
@@ -30,11 +35,6 @@
     {
       "title": "Óscar Puente ya apunta contra el Rey Felipe VI",
       "summary": "En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
-      "summary": "El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.",
       "date": "2026-08-11"
     },
     {
@@ -70,53 +70,17 @@
   ],
   "sources": [
     {
-      "title": "Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja",
-      "url": "https://www.elcorreo.com/sociedad/sucesos/detienen-presuntos-autores-asesinato-lider-agrario-javier-20260810142539-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T12:25:39.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
-      "url": "https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:46:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Frederiksen, la pesadilla socialdemócrata que persigue a Sánchez desde la pandemia a la \"traición\" de Ceuta",
-      "url": "https://www.elmundo.es/espana/2026/08/10/6a79fbacfdddff61068b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:46:13.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018",
-      "url": "https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:46:33.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Óscar Puente ya apunta contra el Rey Felipe VI",
-      "url": "https://www.larazon.es/espana/oscar-puente-apunta-rey-felipe_202608116a7ae119a5690f047373b1f8.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:45:13.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta",
+      "url": "https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
       "url": "https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com",
       "publishedAt": "2026-08-11T08:06:13.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "La prehistoria del sanchismo",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-11/prehistoria-sanchismo-articulo-martin-seco/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Sánchez y Ceuta: el odio y el desprecio",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-11/sanchez-ceuta-odio-desprecio-articulo-elorza/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### European criticism of FIFA ruling grew
+
+La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.
+
+Date: 2026-08-11
 
 ### European criticism of FIFA ruling grew
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la c
 
 Date: 2026-07-22
 
-### Discovered by Atlas
-
-Gianni Infantino first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z

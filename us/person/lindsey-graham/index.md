@@ -3,10 +3,22 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown and more primary races to watch today
+
+South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-11
+
+### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
+
+Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
+
+Date: 2026-08-11
 
 ### Hegseth Renames Base for Lindsey Graham
 
@@ -56,19 +68,7 @@ A bipartisan bill championed by the late Senator Lindsey Graham has become mired
 
 Date: 2026-07-24
 
-### Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat
-
-Voting booths at a polling location inside the Charles R. Drew Wellness Center during a primary election in Columbia, South Carolina, on June 9, 2026. —Sam Wolfe—Bloomberg/Getty Images The deadline for candidates to file their intent to run in the special Republican primary election to fill the late Sen. Lindsey Graham.
-
-Date: 2026-07-24
-
-### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
-
-Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina](https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com) — 2026-08-10T23:57:00.000Z
-- [Hegseth Renames Base for Lindsey Graham](https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html?utm_source=lootura.com) — 2026-08-10T19:03:02.000Z
+- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-11T12:28:19.000Z
+- [Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham](https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com) — 2026-08-11T12:49:06.000Z

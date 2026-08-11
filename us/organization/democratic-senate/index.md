@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- ['I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent](https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177?utm_source=lootura.com) — 2026-08-10T18:12:38.000Z
+No public source links.

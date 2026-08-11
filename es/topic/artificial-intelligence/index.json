@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -52,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "Rusia anula la candidatura del único partido que pedía acabar con la guerra",
-      "url": "https://www.elmundo.es/internacional/2026/08/11/6a7aca76e85ece96248b4571.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:35:30.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027",
+      "url": "https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:42:38.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

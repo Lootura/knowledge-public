@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»
+
+El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.
+
+Date: 2026-08-11
 
 ### "Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"
 
@@ -62,14 +68,6 @@ El Ministerio para la Transformación Digital y de la Función Pública ha anunc
 
 Date: 2026-08-10
 
-### Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán
-
-El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia energética. De momento, es un pequeño primer paso: la elaboración de un estudio de viabilidad para construir la primera refinería de petróleo en Australia y en el Pacífico Sur desde 1960. El proyecto supone un volantazo tras décadas de confia.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- ["Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"](https://www.20minutos.es/internacional/tensa-calma-manizales-80-kilometros-epicentro-seismo-colombia-los-vecinos-estan-calle-por-si-hay-replicas_7024459_0.html?utm_source=lootura.com) — 2026-08-11T05:02:04.000Z
-- [La crisis de Ceuta, lejos de solucionarse tras casi dos semanas, con "miles de personas deambulando"](https://www.20minutos.es/nacional/crisis-ceuta-lejos-solucionarse-tras-casi-dos-semanas-con-miles-personas-deambulando-por-sus-calles_7024327_0.html?utm_source=lootura.com) — 2026-08-11T05:00:18.000Z
-- [Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China](https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com) — 2026-08-10T20:46:43.000Z
+- [Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»](https://www.abc.es/espana/albares-aplaude-marruecos-aspire-retorno-inmediato-menores-20260811125948-nt.html?utm_source=lootura.com) — 2026-08-11T12:29:53.000Z

@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge
+
+Rumors swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.
+
+Date: 2026-08-11
 
 ### Record July heat in regions home to 900 million people
 
@@ -62,12 +68,6 @@ A new study provides quantitative data on cranial vault thickness in Homo antece
 
 Date: 2026-08-03
 
-### Morocco denies responsibility for events at its border with Spain, as deaths near 100
-
-Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge](https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com) — 2026-08-11T09:03:49.000Z

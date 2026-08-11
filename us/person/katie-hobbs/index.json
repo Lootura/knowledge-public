@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.json",
   "description": "Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Hobbs",
     "Kathleen M. Hobbs",
@@ -16,6 +16,11 @@
     "Katie"
   ],
   "changes": [
+    {
+      "title": "Arizona Gov. Katie Hobbs chooses former Republican as running mate in re-election bid",
+      "summary": "Arizona’s Democratic Gov. Katie Hobbs has chosen a former Republican as her running mate for her re-election bid this November.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Arizona’s Democratic Governor Set to Pick a Republican Running Mate",
       "summary": "Gov. Katie Hobbs, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor if she wins in November.",
@@ -52,6 +57,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Arizona Gov. Katie Hobbs chooses former Republican as running mate in re-election bid",
+      "url": "https://www.nbcnews.com/politics/2026-election/arizona-gov-katie-hobbs-chooses-former-republican-running-mate-re-elec-rcna590946?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:48:02.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

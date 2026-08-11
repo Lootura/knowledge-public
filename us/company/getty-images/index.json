@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+      "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates. (Image credit: Stephen Maturen/Getty Images).",
+      "date": "2026-08-11"
+    },
     {
       "title": "Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin",
       "summary": "—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.",
@@ -59,13 +64,15 @@
       "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
       "summary": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence. (Image credit: Sarah Silbiger/Getty Images).",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Opinion: Remembering Margo Howard",
-      "summary": "Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86. (Image credit: Michael L Abramson/Getty Images).",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

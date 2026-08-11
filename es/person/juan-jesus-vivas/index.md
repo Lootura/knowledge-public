@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
+
+“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
+
+Date: 2026-08-11
 
 ### El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión
 
@@ -62,12 +68,6 @@ El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado cla
 
 Date: 2026-08-06
 
-### Vivas agradece al Rey Felipe VI su compromiso con Ceuta y confía en una futura visita a la ciudad
-
-El presidente de Ceuta , Juan Jesús Vivas, ha agradecido este jueves el compromiso de Felipe VI con la ciudad autónoma y se ha mostrado convencido de que el monarca visitará la región cuando sea posible. " No me cabe la menor duda de que el Rey nos va a visitar ", ha dicho Vivas en declaraciones a los medios después de.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península](https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com) — 2026-08-11T12:42:51.000Z

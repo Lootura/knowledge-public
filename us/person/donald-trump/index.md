@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -26,21 +26,9 @@ Immigrants who said they inadvertently registered to vote while obtaining or ren
 
 Date: 2026-08-11
 
-### Trump signs order on vaccination recommendations
-
-President Trump signed an executive order on childhood vaccine schedules Monday.
-
-Date: 2026-08-11
-
 ### Doctors respond to Trump's vaccine executive order as kids head back to school
 
 President Trump signed an executive order on Monday that lowers the recommended number of vaccines for children and encourages splitting up certain vaccines into separate doctor visits. Doctors spoke with CBS News about the order and suggested that parents speak with their children's pediatricians about what would be b.
-
-Date: 2026-08-11
-
-### Recount puts Trump-backed challenger in the lead in Indiana state Senate primary
-
-State Sen. Spencer Deery, who now trails Republican Paula Copenhaver by three votes, said he will appeal.
 
 Date: 2026-08-11
 
@@ -62,21 +50,33 @@ Voters in six states head to the polls Tuesday for high-profile primaries, Trump
 
 Date: 2026-08-11
 
-### A year in, thousands of armed troops have quietly become a fixture of D.C. life
+### Trump signs order on new recommendations for childhood vaccines
 
-President Trump's deployment of the National Guard hits the one year mark next week. The presence of armed, uniformed troops on the street has become increasingly normalized in the capital.
+A new executive order from President Trump calls for spacing out vaccines for children and getting fewer at any given time. CBS News medical correspondent Dr. Celine Gounder explains what parents should know.
+
+Date: 2026-08-11
+
+### Funding milestone detected
+
+Two advisers have links to a venture fund co-investing in US defense companies that benefit from federal spending Pete Hegseth ’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in military and space t.
+
+Date: 2026-08-11
+
+### Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole
+
+Plus, when you accidentally upset “Harry Potter” fans.
 
 Date: 2026-08-11
 
 ## Sources
 
-- [Trump signs order on vaccination recommendations](https://www.cbsnews.com/news/trump-childhood-vaccines-executive-order/?utm_source=lootura.com) — 2026-08-11T01:52:00.000Z
 - [Doctors respond to Trump's vaccine executive order as kids head back to school](https://www.cbsnews.com/video/doctors-respond-trumps-vaccine-executive-order-kids-go-back-school-measles-outbreak/?utm_source=lootura.com) — 2026-08-11T02:53:00.000Z
-- [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T05:52:00.000Z
-- [Recount puts Trump-backed challenger in the lead in Indiana state Senate primary](https://www.nbcnews.com/politics/2026-election/recount-puts-trump-backed-challenger-lead-indiana-state-senate-primary-rcna591815?utm_source=lootura.com) — 2026-08-11T00:07:05.000Z
+- [Trump signs order on new recommendations for childhood vaccines](https://www.cbsnews.com/video/trump-signs-order-on-new-recommendations-for-childhood-vaccines/?utm_source=lootura.com) — 2026-08-11T12:25:25.000Z
+- [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T12:37:00.000Z
 - [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
-- [Trump and RFK Jr. try again to upend vaccines for kids](https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order?utm_source=lootura.com) — 2026-08-10T20:25:02.000Z
-- [A year in, thousands of armed troops have quietly become a fixture of D.C. life](https://www.npr.org/2026/08/11/nx-s1-5927230/a-year-in-thousands-of-armed-troops-have-quietly-become-a-fixture-of-d-c-life?utm_source=lootura.com) — 2026-08-11T08:29:28.000Z
-- [Trump pivots back to sanctions for Iran as other strategies to end his war fizzle](https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war?utm_source=lootura.com) — 2026-08-11T05:48:27.000Z
-- [Tamara Keith and Amy Walter on the energy behind outsider candidates](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates?utm_source=lootura.com) — 2026-08-10T22:30:23.000Z
 - [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z
+- [Pete Hegseth’s Pentagon picks raise questions over Trump family business ties](https://www.theguardian.com/us-news/2026/aug/11/pete-hegseth-pentagon-picks-trump-family-business?utm_source=lootura.com) — 2026-08-11T11:00:00.000Z
+- [Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole](https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html?utm_source=lootura.com) — 2026-08-11T10:00:11.000Z
+- [One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?](https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com) — 2026-08-10T20:01:53.000Z
+- [Trump Wants to Move On From the Middle East. It’s Not Letting Him.](https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com) — 2026-08-11T02:34:23.000Z
+- [Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’](https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html?utm_source=lootura.com) — 2026-08-11T02:00:03.000Z

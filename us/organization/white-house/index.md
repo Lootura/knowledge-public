@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
+
+Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
+
+Date: 2026-08-11
 
 ### Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
 
@@ -62,13 +68,7 @@ In Florida, a 29-year-old expectant mother is in hiding, concerned that she will
 
 Date: 2026-08-09
 
-### Trump to appeal White House ballroom ruling to Supreme Court
-
-After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [White House officials tamped down efforts to oust Max Miller in final days](https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com) — 2026-08-10T20:05:33.000Z
-- [Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T06:46:56.000Z
+- [How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed](https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com) — 2026-08-10T20:42:38.000Z
+- [Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President](https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z

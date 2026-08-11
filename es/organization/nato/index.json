@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.",
@@ -59,26 +64,15 @@
       "title": "Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN",
       "summary": "La OTAN continúa reforzando una de sus capacidades aéreas más estratégicas. La Agencia de Apoyo y Adquisiciones de la Alianza (NSPA) ha superado un nuevo hito en el desarrollo del sistema de entrenamiento de la Flota Multinacional de Aviones Cisterna y Transporte (MMF, por sus siglas en inglés) tras completar con éxito.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
-      "summary": "España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
-      "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:45:38.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
-      "url": "https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:36:44.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán",
+      "url": "https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:58:29.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

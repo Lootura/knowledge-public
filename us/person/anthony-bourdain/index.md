@@ -34,4 +34,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies](https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies?utm_source=lootura.com) — 2026-08-11T04:00:03.000Z
+No public source links.

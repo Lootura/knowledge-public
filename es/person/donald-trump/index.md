@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
 
 La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### El Ibex sondea récords liderado por Amadeus y Repsol
+
+Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.
+
+Date: 2026-08-11
+
+### European criticism of FIFA ruling grew
+
+La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.
 
 Date: 2026-08-11
 
@@ -50,26 +68,9 @@ Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entra
 
 Date: 2026-08-10
 
-### Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales
-
-Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.
-
-Date: 2026-08-10
-
-### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
-
-El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. "¡Felicidade.
-
-Date: 2026-08-10
-
-### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
-
-El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense](https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com) — 2026-08-11T05:16:48.000Z
-- [El Ibex, varado en zona de récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T08:33:38.000Z
-- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z
+- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [El Ibex sondea récords liderado por Amadeus y Repsol](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T12:11:53.000Z
+- [La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino](https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com) — 2026-08-11T11:59:08.000Z

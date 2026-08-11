@@ -3,10 +3,40 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown and more primary races to watch today
+
+South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-11
+
+### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
+
+Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
+
+Date: 2026-08-11
+
+### All Eyes on Key Midterm Primaries in Wisconsin and Minnesota
+
+Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.
+
+Date: 2026-08-11
+
+### How We’re Covering an ‘Identity Crisis’ in Politics
+
+Recent primary wins have posed critical questions for both Republicans and Democrats as they head into the fall midterms. Carolyn Ryan, managing editor of The New York Times, shares how reporters approach coverage of shifting political dynamics.
+
+Date: 2026-08-11
+
+### Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations
+
+The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.
+
+Date: 2026-08-11
 
 ### Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End
 
@@ -38,36 +68,11 @@ Internal divisions between progressive and moderate Democrats grow ahead of tomo
 
 Date: 2026-08-10
 
-### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
-
-Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.
-
-Date: 2026-08-10
-
-### Inside the Left’s Playbook for Winning Elections
-
-Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
-
-Date: 2026-08-10
-
-### Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin
-
-—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.
-
-Date: 2026-08-10
-
-### Democrats no longer have the No. 1 weapon to keep their socialist wing in line
-
-American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.
-
-Date: 2026-08-10
-
-### Politics chat: Progressive candidates in primaries, Trump's influence on midterms
-
-Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.
-
-Date: 2026-08-09
-
 ## Sources
 
+- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-11T12:28:19.000Z
+- [Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown](https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com) — 2026-08-11T11:13:01.137Z
+- [All Eyes on Key Midterm Primaries in Wisconsin and Minnesota](https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632?utm_source=lootura.com) — 2026-08-11T11:19:18.000Z
+- [How We’re Covering an ‘Identity Crisis’ in Politics](https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html?utm_source=lootura.com) — 2026-08-11T09:40:18.000Z
+- [Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations](https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html?utm_source=lootura.com) — 2026-08-11T11:36:44.000Z
 - [Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End](https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com) — 2026-08-10T21:44:28.000Z

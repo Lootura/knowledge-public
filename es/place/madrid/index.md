@@ -3,10 +3,16 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3
+
+Un camionero ha quedado atrapado por la cabeza entre la ventanilla y un guardarraíl en un accidente de tráfico registrado en la incorporación a la M-45 interior desde la A-3 siendo finalmente excarcelado por los bomberos del Ayuntamiento tras una hora y media de un complicado rescate, ha informado Emergencias Madrid. E.
+
+Date: 2026-08-11
 
 ### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
 
@@ -62,14 +68,6 @@ En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona
 
 Date: 2026-08-10
 
-### La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso
-
-El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T07:26:35.000Z
-- [Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»](https://www.abc.es/recreo/jesus-higueras-cura-visto-milagros-curaciones-fisicas-20260811085913-nt.html?utm_source=lootura.com) — 2026-08-11T08:14:47.000Z
-- [Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»](https://theobjective.com/gente/2026-08-11/amparo-tia-nacho-aragon-primeros-dias-churreria-madrid/?utm_source=lootura.com) — 2026-08-11T06:30:00.000Z
+- [Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3](https://www.larazon.es/madrid/madrid-camionero-queda-atrapado-cabeza-ventanilla-guardarrail_202608116a7b1afea5690f04737428bf.html?utm_source=lootura.com) — 2026-08-11T12:52:14.000Z

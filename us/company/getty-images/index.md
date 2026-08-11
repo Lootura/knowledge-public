@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates
+
+A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates. (Image credit: Stephen Maturen/Getty Images).
+
+Date: 2026-08-11
 
 ### Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin
 
@@ -62,12 +68,6 @@ The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's 
 
 Date: 2026-08-03
 
-### Opinion: Remembering Margo Howard
-
-Margo Howard had a lot of life experience and used it to offer advice for years as "Dear Prudence" for Slate. She died this week at the age of 86. (Image credit: Michael L Abramson/Getty Images).
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates](https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump?utm_source=lootura.com) — 2026-08-11T09:00:00.000Z

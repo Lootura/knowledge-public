@@ -3,44 +3,14 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles
-
-Corrían los primeros meses de 2021. El mercado automovilístico español —y el europeo en general— sufría el desplome de las ventas de coches nuevos por la crisis sanitaria. A ello estaba a punto de sumarse la escasez de microchips, que iba a disparar el precio de los vehículos nuevos y a alargar notablemente los tiempos.
-
-Date: 2026-08-11
-
 ### Mapa de sitios donde ver el eclipse total: EL PAÍS completa un buscador con casi 500 miradores oficiales
 
 Este miércoles 12 de agosto, a partir de las 20.26, irrumpirá en gran parte de España una extraña noche que durará un máximo de 110 segundos. Se esperan millones de visitantes para vivirla, concentrados en una franja de 290 kilómetros de ancho que cruza el norte y este del país: es la banda de totalidad del primer ecli.
-
-Date: 2026-08-11
-
-### Así se preparan los ciudadanos para el eclipse, la "noche más corta": "Hay que aprovechar y verlo"
-
-España ultima los preparativos para el primero de los tres hitos astronómicos que afrontará en los próximos tres años. Este 12 de agosto de 2026 el país vivirá su primer eclipse total de Sol en más de un siglo . La franja de totalidad cruzará la península de oeste a este, generando la "noche más corta de nuestra vida".
-
-Date: 2026-08-11
-
-### La Aemet avisa a España: «Las nubes pueden entorpecer la visión del eclipse en estas zonas»
-
-Los españoles ya ultima los detalles para un evento marcado en el calendario desde hace meses: el eclipse solar total que tendrá lugar este próximo miércoles 12 de agosto . En torno a las 20.30 y durante unos minutos, la Luna cubrirá el Sol por completo, un fenómeno astronómico del que podrán disfrutar al 100% en algun.
-
-Date: 2026-08-11
-
-### El refugio de Juan del Val y Nuria Roca para pasar las vacaciones en España este verano junto a sus hijos: «Elegiría siempre este lugar»
-
-La televisiva pareja ha disfrutado de unos días en familia en un enclave paradisíaco de nuestro país, con playas de ensueño y buena gastronomía.
-
-Date: 2026-08-11
-
-### Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»
-
-La parroquia de Santa María de Caná, situada en Pozuelo de Alarcón (Madrid), es una de las más conocidas de toda España. Probablemente sea la que reúne de manera regular al mayor número de fieles de todo el país. E incluso una de las que más de todo el mundo. Y buena parte de ese mérito recae sobre su líder espiritual,.
 
 Date: 2026-08-11
 
@@ -62,21 +32,51 @@ El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea
 
 Date: 2026-08-11
 
-### Las habitaciones de invitados en Marivent, dónde durmió lady Di cuando visitó Mallorca en 1990: «Destacan por su luz y tonos blancos, sin opulencias»
+### Las empresas españolas en Colombia activan protocolos y evalúan daños
 
-Marivent fue, durante muchos años, el lugar favorito de vacaciones para la reina Sofía y el rey Juan Carlos. Este último dejó de ir cuando decidió marcharse a vivir fuera de España, mientras que la reina emérita no falla ninguno de los veranos en Palacio. Durante el tiempo que duró su reinado, al igual que hacen hoy en.
+Colombia afronta las consecuencias del terremoto de magnitud 7,4 que sacudió el noroeste del país este lunes. Según el último balance oficial difundido por la Embajada de Colombia en España, el seísmo ha dejado hasta el momento 132 fallecidos y 570 heridos . Sus efectos también se han dejado sentir en la actividad de l.
+
+Date: 2026-08-11
+
+### Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»
+
+El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.
+
+Date: 2026-08-11
+
+### Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027
+
+Red.es, entidad pública empresarial adscrita al Ministerio para la Transformación Digital y de la Función Pública a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial, ha abierto oficialmente la invitación pública para coordinar la representación española en el Mobile World Congress (MWC) de.
+
+Date: 2026-08-11
+
+### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
+
+“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
+
+Date: 2026-08-11
+
+### Cinco grandes grupos asiáticos fabricarán vehículos en España
+
+El grupo chino SAIC Motor , cuestionado por la ubicación elegida para su primera fábrica de coches en Europa –a pocos kilómetros de la base naval de Ferrol , de gran importancia para la Armada española–, no es el único que planea ensamblar vehículos en España . Seguir leyendo.
+
+Date: 2026-08-11
+
+### El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España
+
+El primer ministro de Suecia, el conservador Ulf Kristersson, ha cargado contra el proceso de regularización de inmigrantes realizado por el Gobierno de España , al considerar que es una “muy mala idea” Seguir leyendo...
 
 Date: 2026-08-11
 
 ## Fuentes
 
-- [Las impactantes imágenes del terremoto que ha sacudido Colombia](https://www.20minutos.es/internacional/las-impactantes-imagenes-terremoto-que-ha-sacudido-colombia_7024483_1.html?utm_source=lootura.com) — 2026-08-11T05:35:48.000Z
-- [Así se preparan los ciudadanos para el eclipse, la "noche más corta": "Hay que aprovechar y verlo"](https://www.20minutos.es/nacional/asi-se-preparan-los-ciudadanos-para-eclipse-noche-mas-corta-nuestra-vida-es-algo-unico-hay-que-aprovechar-verlo_7022861_0.html?utm_source=lootura.com) — 2026-08-11T05:10:38.000Z
-- [La Aemet avisa a España: «Las nubes pueden entorpecer la visión del eclipse en estas zonas»](https://www.abc.es/sociedad/aemet-avisa-espana-sobre-tiempo-hara-dia-20260811083846-nt.html?utm_source=lootura.com) — 2026-08-11T07:14:56.000Z
-- [El refugio de Juan del Val y Nuria Roca para pasar las vacaciones en España este verano junto a sus hijos: «Elegiría siempre este lugar»](https://www.abc.es/gente/refugio-juan-val-nuria-roca-pasar-vacaciones-20260811103158-nt_amp.html?utm_source=lootura.com) — 2026-08-11T08:31:58.000Z
-- [Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»](https://www.abc.es/recreo/jesus-higueras-cura-visto-milagros-curaciones-fisicas-20260811085913-nt.html?utm_source=lootura.com) — 2026-08-11T08:14:47.000Z
-- [El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles](https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html?utm_source=lootura.com) — 2026-08-11T03:45:00.000Z
+- [Las empresas españolas en Colombia activan protocolos y evalúan daños](https://www.20minutos.es/lainformacion/empresas/las-empresas-espanolas-colombia-activan-protocolos-evaluan-danos-tras-terremoto_7024624_0.html?utm_source=lootura.com) — 2026-08-11T12:11:16.000Z
+- [Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»](https://www.abc.es/espana/albares-aplaude-marruecos-aspire-retorno-inmediato-menores-20260811125948-nt.html?utm_source=lootura.com) — 2026-08-11T12:29:53.000Z
+- [Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027](https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com) — 2026-08-11T12:42:38.000Z
 - [Andrea Danta, meteoróloga: "El día del eclipse de sol será una jornada tórrida en la mayor parte del país"](https://www.elconfidencial.com/espana/2026-08-11/andrea-danta-meteorologa-eclipse-sol-jornada-torrida-1qrt_4403986/?utm_source=lootura.com) — 2026-08-11T08:42:00.000Z
-- [Frederiksen, la pesadilla socialdemócrata que persigue a Sánchez desde la pandemia a la "traición" de Ceuta](https://www.elmundo.es/espana/2026/08/10/6a79fbacfdddff61068b4588.html?utm_source=lootura.com) — 2026-08-10T20:46:13.000Z
 - [Mapa de sitios donde ver el eclipse total: EL PAÍS completa un buscador con casi 500 miradores oficiales](https://elpais.com/ciencia/2026-08-11/mapa-de-sitios-donde-ver-el-eclipse-total-el-pais-completa-un-buscador-con-casi-500-miradores-oficiales.html?utm_source=lootura.com) — 2026-08-11T05:45:49.000Z
-- [Eclipse solar total 2026, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-utima-hora-donde-verlo-espana-horarios-recomendaciones_202608116a7a9f8271b42a0b5de8ba26.html?utm_source=lootura.com) — 2026-08-11T08:45:20.000Z
+- [Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península](https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com) — 2026-08-11T12:42:51.000Z
+- [Cinco grandes grupos asiáticos fabricarán vehículos en España](https://www.expansion.com/empresas/motor/2026/08/11/6a7adaede5fdea43348b457c.html?utm_source=lootura.com) — 2026-08-11T08:49:41.000Z
+- [Eclipse solar total 2026, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-utima-hora-donde-verlo-espana-horarios-recomendaciones_202608116a7a9f8271b42a0b5de8ba26.html?utm_source=lootura.com) — 2026-08-11T12:50:19.000Z
+- [El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España](https://www.lavanguardia.com/internacional/20260811/11611883/primer-ministro-suecia-califica-mala-idea-regulacion-inmigrantes-aprobada-espana.html?utm_source=lootura.com) — 2026-08-11T09:18:38.000Z
+- [Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”](https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html?utm_source=lootura.com) — 2026-08-11T10:55:36.000Z

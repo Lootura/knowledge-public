@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018](https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com) — 2026-08-10T20:46:33.000Z
+No public source links.

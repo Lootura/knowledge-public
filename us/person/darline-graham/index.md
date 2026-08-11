@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-02T16:56:03.104Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.
+
+The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.
+
+Date: 2026-08-11
 
 ### Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary
 
@@ -62,12 +68,6 @@ President Donald Trump said Friday that Darline Graham, the sister of the late L
 
 Date: 2026-07-17
 
-### Darline Graham in serious discussions about running for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z

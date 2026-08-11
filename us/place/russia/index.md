@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com) — 2026-08-10T18:15:37.000Z
-- [Family of Marine veteran imprisoned in Russia warns he's near death](https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death?utm_source=lootura.com) — 2026-08-10T22:25:01.000Z
-- [Ukrainian drone attack on oil hub deep inside Russia kills 13, official says](https://www.pbs.org/newshour/world/ukrainian-drone-attack-on-oil-hub-deep-inside-russia-kills-13-official-says?utm_source=lootura.com) — 2026-08-10T18:08:41.000Z
+- [How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed](https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com) — 2026-08-10T20:42:38.000Z

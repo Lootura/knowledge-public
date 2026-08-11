@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos
+
+Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.
+
+Date: 2026-08-11
+
+### Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial
+
+Respiro para la Junta Directiva que preside Joan Laporta después de que el Barcelona se haya ahorrado en este mercado más de 40 millones de euros en masa salarial. Deco está haciendo un gran trabajo en esa parcela y el club blaugrana está viviendo en primera persona cómo el problema de los salarios altos en el club emp.
+
+Date: 2026-08-11
 
 ### Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música
 
@@ -56,18 +68,7 @@ Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado d
 
 Date: 2026-08-10
 
-### Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15
-
-El servicio de trenes de Rodalies ha vuelto a sufrir este lunes una nueva interrupción tras otro robo de cable, esta vez en la estación de Bellvitge-Gornal, en L'Hospitalet de Llobregat (Barcelona). A consecuencia de este incidente, Adif ha informado a través de redes sociales que se pueden registrar retrasos en las lí.
-
-Date: 2026-08-10
-
-### El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox
-
-El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos](https://www.elconfidencial.com/espana/cataluna/2026-08-11/mossos-prat-tiroteo-pelea-1tna-1tps_4404368/?utm_source=lootura.com) — 2026-08-11T10:22:00.000Z
+- [Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial](https://okdiario.com/deportes/respiro-laporta-barcelona-ahorra-mas-40-millones-masa-salarial-19161505?utm_source=lootura.com) — 2026-08-11T12:11:01.000Z

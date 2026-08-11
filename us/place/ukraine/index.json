@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.",
@@ -61,19 +66,14 @@
       "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
       "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Child among 4 people killed in Russian attacks on Ukraine",
-      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Ukraine's drone chief says push to cripple Russia in Crimea is just getting started",
-      "url": "https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T18:15:37.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:43:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 1

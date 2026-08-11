@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos",
+      "summary": "Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial",
+      "summary": "Respiro para la Junta Directiva que preside Joan Laporta después de que el Barcelona se haya ahorrado en este mercado más de 40 millones de euros en masa salarial. Deco está haciendo un gran trabajo en esa parcela y el club blaugrana está viviendo en primera persona cómo el problema de los salarios altos en el club emp.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
       "summary": "El laboratorio internacional ISDIN celebrará un evento este miércoles en su espacio de Paseo de Gracia en Barcelona en el que ofrecerá la retransmisión en.",
@@ -60,18 +70,21 @@
       "title": "Detenido un hombre en Barcelona por vender citas falsas para trámites de extranjería",
       "summary": "Agentes de la Policía Nacional han arrestado en Barcelona a un hombre acusado de comercializar de forma fraudulenta citas inexistentes para trámites de extranjería . El sospechoso se hacía pasar por responsable de una gestoría administrativa y acumulaba varias requisitorias judiciales dictadas por juzgados de distintos.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
-      "summary": "El servicio de trenes de Rodalies ha vuelto a sufrir este lunes una nueva interrupción tras otro robo de cable, esta vez en la estación de Bellvitge-Gornal, en L'Hospitalet de Llobregat (Barcelona). A consecuencia de este incidente, Adif ha informado a través de redes sociales que se pueden registrar retrasos en las lí.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
-      "summary": "El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-11/mossos-prat-tiroteo-pelea-1tna-1tps_4404368/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:22:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial",
+      "url": "https://okdiario.com/deportes/respiro-laporta-barcelona-ahorra-mas-40-millones-masa-salarial-19161505?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:11:01.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -11,6 +11,30 @@
 ### Morning news brief
 
 Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.
+
+Date: 2026-08-11
+
+### Rescuers race to find Colombia earthquake survivors as death toll rises
+
+More than 2,700 people were reported missing on Monday night, after the country was struck by its strongest earthquake on record.
+
+Date: 2026-08-11
+
+### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
+
+Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
+
+Date: 2026-08-11
+
+### 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia
+
+Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).
+
+Date: 2026-08-11
+
+### Ancient Colombians built huge water system without centralized rule, archaeologists say
+
+Communities living in Colombia thousands of years ago achieved an engineering wonder of the world based on cooperation among family groups without top-down government, a new study shows. Archaeologists argue that policymakers in Colombia should now adopt a similar strategy to solve the country's current water managemen.
 
 Date: 2026-08-11
 
@@ -32,41 +56,23 @@ Search teams and civilians picked through the remains of destroyed buildings in 
 
 Date: 2026-08-11
 
-### Videos capture the moment a 7.4-magnitude earthquake strikes Colombia
-
-Watch videos captured from Colombia as a 7.4-magnitude earthquake struck the country. Casualties have been reported with many still missing amid the collapsed buildings and debris.
-
-Date: 2026-08-10
-
 ### 7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings
 
 A powerful and deadly earthquake hit Colombia on Monday, killing at least 111 people, toppling buildings and leaving a trail of destruction. Geoff Bennett reports.
 
 Date: 2026-08-10
 
-### Discovered by Atlas
+### Videos capture the moment a 7.4-magnitude earthquake strikes Colombia
 
-Colombia first entered the public knowledge record with source-backed evidence.
+Watch videos captured from Colombia as a 7.4-magnitude earthquake struck the country. Casualties have been reported with many still missing amid the collapsed buildings and debris.
 
-Date: 2026-08-07
-
-### Colombia's new president vows to remake the country — and challenge its fragile peace
-
-A new political era for Colombia: a hard-right president promises order, growth and confrontation. (Image credit: John Vizcaino).
-
-Date: 2026-08-07
-
-### Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers
-
-The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.
-
-Date: 2026-08-07
+Date: 2026-08-10
 
 ## Sources
 
-- [7.4 earthquake strikes western Colombia, killing at least 111 people](https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/?utm_source=lootura.com) — 2026-08-11T04:54:55.000Z
-- [Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia](https://www.nbcnews.com/video/videos-capture-the-moment-a-7-4-magnitude-earthquake-strikes-colombia-268050501807?utm_source=lootura.com) — 2026-08-10T18:06:21.000Z
+- [Rescuers race to find Colombia earthquake survivors as death toll rises](https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com) — 2026-08-11T12:37:35.000Z
+- [Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown](https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com) — 2026-08-11T11:13:01.137Z
 - [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
+- [1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia](https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com) — 2026-08-11T11:11:14.000Z
 - [7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings](https://www.pbs.org/newshour/show/7-4-magnitude-earthquake-rocks-colombia-crumbling-homes-and-buildings?utm_source=lootura.com) — 2026-08-10T22:55:25.000Z
-- [Magnitude 7.4 quake rocks western Colombia, killing at least 111 people](https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html?utm_source=lootura.com) — 2026-08-11T06:36:14.000Z
-- [Major Quake Hits Colombia, Killing at Least 111](https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html?utm_source=lootura.com) — 2026-08-11T00:14:45.000Z
+- [Ancient Colombians built huge water system without centralized rule, archaeologists say](https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html?utm_source=lootura.com) — 2026-08-11T09:00:05.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil
+
+La Comisión Europea ha movilizado 100.000 euros para prestar asistencia inmediata a los afectados por el terremoto de magnitud 7,4 registrado este lunes.
+
+Date: 2026-08-11
 
 ### Ordenan la evacuación de Arbués (Huesca) por el incendio de Las Peñas de Riglos
 
@@ -62,12 +68,6 @@ Una «posible reactivación» registrada en la tarde de este sábado en el incen
 
 Date: 2026-08-01
 
-### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
-
-Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Ordenan la evacuación de Arbués (Huesca) por el incendio de Las Peñas de Riglos](https://theobjective.com/sociedad/2026-08-11/ordenan-evacuacion-arbues-huesca-incendio-penas-riglos/?utm_source=lootura.com) — 2026-08-11T07:13:17.000Z
+- [La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil](https://theobjective.com/internacional/2026-08-11/ue-moviliza-ayuda-terremoto-colombia-proteccion-civil/?amp=&utm_source=lootura.com) — 2026-08-11T12:53:45.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -41,6 +41,11 @@
     {
       "title": "Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani",
       "summary": "A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Luigi Mangione due to appear in New York court over healthcare CEO’s killing",
+      "summary": "Prosecutors allege 28-year-old gunned down Brian Thompson outside Manhattan hotel in 2024 Luigi Mangione, who is accused of the killing of the UnitedHealthcare CEO Brian Thompson , is due to appear on Tuesday morning at Manhattan state court. Mangione’s appearance comes less than a month before the start of his highly.",
       "date": "2026-08-11"
     },
     {
@@ -77,11 +82,6 @@
       "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month old baby",
       "summary": "A woman and her 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Woman learns man who attacked her killed a young mother years later",
-      "summary": "When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -92,10 +92,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child",
-      "url": "https://www.nbcnews.com/video/boat-captain-charged-after-vessel-capsizes-near-statue-of-liberty-killing-woman-and-her-child-268069445816?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:49:53.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Luigi Mangione due to appear in New York court over healthcare CEO’s killing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:00:56.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments",

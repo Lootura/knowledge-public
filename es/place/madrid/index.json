@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3",
+      "summary": "Un camionero ha quedado atrapado por la cabeza entre la ventanilla y un guardarraíl en un accidente de tráfico registrado en la incorporación a la M-45 interior desde la A-3 siendo finalmente excarcelado por los bomberos del Ayuntamiento tras una hora y media de un complicado rescate, ha informado Emergencias Madrid. E.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
       "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
@@ -55,32 +60,15 @@
       "title": "El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia",
       "summary": "En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
-      "summary": "El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
-      "url": "https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:26:35.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»",
-      "url": "https://www.abc.es/recreo/jesus-higueras-cura-visto-milagros-curaciones-fisicas-20260811085913-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:14:47.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»",
-      "url": "https://theobjective.com/gente/2026-08-11/amparo-tia-nacho-aragon-primeros-dias-churreria-madrid/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T06:30:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3",
+      "url": "https://www.larazon.es/madrid/madrid-camionero-queda-atrapado-cabeza-ventanilla-guardarrail_202608116a7b1afea5690f04737428bf.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:52:14.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-05T14:02:45.741Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/katie-hobbs
 
 ## Recent changes
+
+### Arizona Gov. Katie Hobbs chooses former Republican as running mate in re-election bid
+
+Arizona’s Democratic Gov. Katie Hobbs has chosen a former Republican as her running mate for her re-election bid this November.
+
+Date: 2026-08-11
 
 ### Arizona’s Democratic Governor Set to Pick a Republican Running Mate
 
@@ -52,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Arizona Gov. Katie Hobbs chooses former Republican as running mate in re-election bid](https://www.nbcnews.com/politics/2026-election/arizona-gov-katie-hobbs-chooses-former-republican-running-mate-re-elec-rcna590946?utm_source=lootura.com) — 2026-08-11T12:48:02.000Z

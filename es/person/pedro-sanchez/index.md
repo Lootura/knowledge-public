@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
+
+El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
+
+Date: 2026-08-11
 
 ### La prehistoria del sanchismo
 
@@ -23,12 +29,6 @@ Date: 2026-08-11
 ### Óscar Puente ya apunta contra el Rey Felipe VI
 
 En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .
-
-Date: 2026-08-11
-
-### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
-
-El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
 
 Date: 2026-08-11
 
@@ -70,11 +70,5 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja](https://www.elcorreo.com/sociedad/sucesos/detienen-presuntos-autores-asesinato-lider-agrario-javier-20260810142539-nt_amp.html?utm_source=lootura.com) — 2026-08-10T12:25:39.000Z
-- [Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China](https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com) — 2026-08-10T20:46:43.000Z
-- [Frederiksen, la pesadilla socialdemócrata que persigue a Sánchez desde la pandemia a la "traición" de Ceuta](https://www.elmundo.es/espana/2026/08/10/6a79fbacfdddff61068b4588.html?utm_source=lootura.com) — 2026-08-10T20:46:13.000Z
-- [El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018](https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com) — 2026-08-10T20:46:33.000Z
-- [Óscar Puente ya apunta contra el Rey Felipe VI](https://www.larazon.es/espana/oscar-puente-apunta-rey-felipe_202608116a7ae119a5690f047373b1f8.html?utm_source=lootura.com) — 2026-08-11T08:45:13.000Z
+- [El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta](https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-11T03:30:01.000Z
 - [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z
-- [La prehistoria del sanchismo](https://theobjective.com/elsubjetivo/opinion/2026-08-11/prehistoria-sanchismo-articulo-martin-seco/?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z
-- [Sánchez y Ceuta: el odio y el desprecio](https://theobjective.com/elsubjetivo/opinion/2026-08-11/sanchez-ceuta-odio-desprecio-articulo-elorza/?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z

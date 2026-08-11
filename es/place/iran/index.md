@@ -3,14 +3,26 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
 ### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
 
-Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.
+El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### El Ibex sondea récords liderado por Amadeus y Repsol
+
+Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.
 
 Date: 2026-08-11
 
@@ -56,21 +68,8 @@ Las empresas del índice Stoxx Europe 600 están en camino de registrar un aumen
 
 Date: 2026-08-10
 
-### El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo
-
-Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
-
-Date: 2026-08-10
-
-### Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán
-
-El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia energética. De momento, es un pequeño primer paso: la elaboración de un estudio de viabilidad para construir la primera refinería de petróleo en Australia y en el Pacífico Sur desde 1960. El proyecto supone un volantazo tras décadas de confia.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T07:27:49.000Z
-- [El Ibex, varado en zona de récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T08:33:38.000Z
-- [El líder supremo de Irán refuerza su poder con nombramientos en la cúpula](https://amp.expansion.com/economia/financial-times/2026/08/11/6a7acf76e5fdea98298b4595.html?utm_source=lootura.com) — 2026-08-11T07:30:13.000Z
-- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z
+- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T11:42:46.000Z
+- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
+- [El Ibex sondea récords liderado por Amadeus y Repsol](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T12:11:53.000Z

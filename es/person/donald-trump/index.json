@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -27,6 +27,21 @@
     {
       "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
       "summary": "La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El Ibex sondea récords liderado por Amadeus y Repsol",
+      "summary": "Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "European criticism of FIFA ruling grew",
+      "summary": "La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.",
       "date": "2026-08-11"
     },
     {
@@ -58,21 +73,6 @@
       "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
       "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Trump revoluciona el calendario de vacunas y reduce las exigencias gubernamentales",
-      "summary": "Donald Trump firmó este lunes una nueva orden ejecutiva (decreto) que modifica de forma radical la política federal sobre las vacunas infantiles en Estados Unidos, alertando del elevado número de diagnósticos de autismo en niños, una preocupación que el presidente y sus socios han relacionado repetidamente con la vacun.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
-      "summary": "El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. \"¡Felicidade.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
-      "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -83,17 +83,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Ibex, varado en zona de récords",
+      "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán",
+      "url": "https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:58:29.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El Ibex sondea récords liderado por Amadeus y Repsol",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:33:38.000Z",
+      "publishedAt": "2026-08-11T12:11:53.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
-      "url": "https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:36:44.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La Federación de Fútbol de EEUU abre una brecha con Trump y da la espalda a Infantino",
+      "url": "https://okdiario.com/deportes/federacion-futbol-eeuu-abre-brecha-trump-da-espalda-infantino-19162055?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:59:08.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

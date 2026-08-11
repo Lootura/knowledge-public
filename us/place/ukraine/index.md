@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War
+
+The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.
+
+Date: 2026-08-11
 
 ### Funding milestone detected
 
@@ -62,12 +68,6 @@ Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter 
 
 Date: 2026-08-09
 
-### Child among 4 people killed in Russian attacks on Ukraine
-
-Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people.
-
-Date: 2026-08-08
-
 ## Sources
 
-- [Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com) — 2026-08-10T18:15:37.000Z
+- [Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War](https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html?utm_source=lootura.com) — 2026-08-11T11:43:18.000Z

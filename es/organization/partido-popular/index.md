@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
+
+El PP ha anunciado que la ministra de Defensa, Margarita Robles , comparecerá finalmente el próximo martes 18 de agosto en el Senado para dar cuenta de las labores de su departamento en la crisis migratoria de Ceuta, pese a que estaba previsto que acudiera este mismo jueves. Los populares también han acusado a los titu.
+
+Date: 2026-08-11
+
+### Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP
+
+La ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto, para dar explicaciones sobre la llegada masiva de extranjeros en situación irregular...
+
+Date: 2026-08-11
 
 ### El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta
 
@@ -56,18 +68,8 @@ El vicesecretario de Coordinación Autonómica y Local del PP, Elías Bendodo , 
 
 Date: 2026-08-10
 
-### Los consejeros de Infancia del PP sí acudirán a la reunión con el Gobierno a diferencia de los de Vox
-
-Esta reunión, que se celebrará el próximo jueves, es previa a la conferencia sectorial con la ministra a finales de mes.
-
-Date: 2026-08-10
-
-### El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox
-
-El vicesecretario de Política Autonómica y Municipal del Partido Popular, Elías Bendodo, ha confirmado este lunes desde Barcelona que las comunidades en las que gobiernan los populares en solitario participarán en la reunión sectorial convocada este jueves por el Gobierno para abordar la situación de los menores en Ceu.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta](https://www.20minutos.es/nacional/pp-avanza-que-robles-comparecera-finalmente-proximo-martes-senado-por-crisis-ceuta_7024687_0.html?utm_source=lootura.com) — 2026-08-11T11:57:26.000Z
 - [María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos](https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com) — 2026-08-10T23:15:51.000Z
+- [Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z

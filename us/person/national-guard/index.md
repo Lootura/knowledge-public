@@ -3,10 +3,16 @@
 > Follow National Guard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/national-guard
 
 ## Recent changes
+
+### 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia
+
+Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).
+
+Date: 2026-08-11
 
 ### A year in, thousands of armed troops have quietly become a fixture of D.C. life
 
@@ -34,5 +40,5 @@ Date: 2026-08-10
 
 ## Sources
 
-- [A year in, thousands of armed troops have quietly become a fixture of D.C. life](https://www.npr.org/2026/08/11/nx-s1-5927230/a-year-in-thousands-of-armed-troops-have-quietly-become-a-fixture-of-d-c-life?utm_source=lootura.com) — 2026-08-11T08:29:28.000Z
+- [1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia](https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com) — 2026-08-11T11:11:14.000Z
 - [One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?](https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com) — 2026-08-10T20:01:53.000Z

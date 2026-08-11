@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Rusia anula la candidatura del único partido que pedía acabar con la guerra](https://www.elmundo.es/internacional/2026/08/11/6a7aca76e85ece96248b4571.html?utm_source=lootura.com) — 2026-08-11T07:35:30.000Z
+- [Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027](https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com) — 2026-08-11T12:42:38.000Z

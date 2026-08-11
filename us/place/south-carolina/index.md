@@ -3,10 +3,22 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
+
+Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
+
+Date: 2026-08-11
+
+### All Eyes on Key Midterm Primaries in Wisconsin and Minnesota
+
+Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.
+
+Date: 2026-08-11
 
 ### Tamara Keith and Amy Walter on the energy behind outsider candidates
 
@@ -56,19 +68,8 @@ Former Rep. Trey Gowdy insists he’s not interested in running in the South Car
 
 Date: 2026-07-21
 
-### There’s a power struggle brewing in South Carolina, and Trump might not win
-
-The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
-
-Date: 2026-07-21
-
-### Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him
-
-Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Previewing Tuesday's primaries in 5 states, including Wisconsin, Minnesota and South Carolina](https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-5-states-including-wisconsin-minnesota-and-south-carolina/?utm_source=lootura.com) — 2026-08-10T23:57:00.000Z
-- [Tamara Keith and Amy Walter on the energy behind outsider candidates](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates?utm_source=lootura.com) — 2026-08-10T22:30:23.000Z
+- [Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham](https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com) — 2026-08-11T12:49:06.000Z
+- [All Eyes on Key Midterm Primaries in Wisconsin and Minnesota](https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632?utm_source=lootura.com) — 2026-08-11T11:19:18.000Z

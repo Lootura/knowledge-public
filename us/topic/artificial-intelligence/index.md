@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Mark Zuckerberg's vision of superintelligent AI for everyone
 
 Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in the hands of everyone, not just a few companies or governments. Charles Rollet, tech correspondent for Business Insider, joins CBS News to discuss.
+
+Date: 2026-08-11
+
+### Claude will apply invisible watermarks to AI text and images
+
+Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported," Anthropic says on a.
+
+Date: 2026-08-11
+
+### The AI takeover of mathematics has begun
+
+Mathematician James Maynard has spent a lot of time this past year "soul searching." A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before.
 
 Date: 2026-08-11
 
@@ -56,19 +68,8 @@ Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly kno
 
 Date: 2026-08-10
 
-### AI agents are checking the scientific literature — and spotting decades-old errors
-
-Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.
-
-Date: 2026-08-10
-
-### Operational Tropical Cyclone Forecasting with AI
-
-Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Mark Zuckerberg's vision of superintelligent AI for everyone](https://www.cbsnews.com/video/mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone/?utm_source=lootura.com) — 2026-08-11T00:31:45.000Z
-- [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-11T05:06:02.564Z
+- [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images?utm_source=lootura.com) — 2026-08-11T12:22:20.000Z
+- [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun?utm_source=lootura.com) — 2026-08-11T11:00:00.000Z

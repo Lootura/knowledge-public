@@ -3,10 +3,16 @@
 > Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/puerto-rico
 
 ## Recent changes
+
+### Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick
+
+It doesn’t have to be this way. We know what needs to be done Disturbing news about our water resources is now constant and unrelenting. In just the past few weeks, media have reported that Puerto Rico is suffering a deep water crisis as severe drought has cut water supplies to thousands. The Rhine and Po rivers in Eur.
+
+Date: 2026-08-11
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick](https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis?utm_source=lootura.com) — 2026-08-11T11:00:01.000Z

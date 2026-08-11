@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles",
-      "summary": "Corrían los primeros meses de 2021. El mercado automovilístico español —y el europeo en general— sufría el desplome de las ventas de coches nuevos por la crisis sanitaria. A ello estaba a punto de sumarse la escasez de microchips, que iba a disparar el precio de los vehículos nuevos y a alargar notablemente los tiempos.",
-      "date": "2026-08-11"
-    },
     {
       "title": "China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes",
       "summary": "El Banco Popular de China (BPC, banco central) anunció la designación del alemán Deutsche Bank como entidad de compensación para la divisa del país asiático, el yuan, la primera ocasión en la que una institución europea recibe esa autorización, que le permitirá ser “puente” con los mercados chinos. Seguir leyendo.",
@@ -27,18 +22,23 @@
       "date": "2026-08-11"
     },
     {
+      "title": "El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles",
+      "summary": "Corrían los primeros meses de 2021. El mercado automovilístico español —y el europeo en general— sufría el desplome de las ventas de coches nuevos por la crisis sanitaria. A ello estaba a punto de sumarse la escasez de microchips, que iba a disparar el precio de los vehículos nuevos y a alargar notablemente los tiempos.",
+      "date": "2026-08-11"
+    },
+    {
       "title": "China hurga en la fractura de la Unión Europea por Ceuta",
       "summary": "Para el núcleo del poder comunista chino, la sangre derramada en el espigón ceutí se diagnostica como el abono perfecto para el fascismo continental y el certificado de defunción de la solidaridad europea. Las decenas de bolsas mortuorias apiladas en el antiguo Hospital Militar de O’Donnell representan, bajo el frío es.",
       "date": "2026-08-11"
     },
     {
-      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
-      "summary": "El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la \"amenaza\" que puede suponer Leer.",
+      "title": "'Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año",
+      "summary": "La Xunta impuso el máximo sigilo para garantizar la negociación con China Leer.",
       "date": "2026-08-10"
     },
     {
-      "title": "'Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año",
-      "summary": "La Xunta impuso el máximo sigilo para garantizar la negociación con China Leer.",
+      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
+      "summary": "El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la \"amenaza\" que puede suponer Leer.",
       "date": "2026-08-10"
     },
     {
@@ -70,18 +70,6 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles",
-      "url": "https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
-      "url": "https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:46:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "'Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año",
       "url": "https://www.elmundo.es/galicia/2026/08/11/6a7a0bfe21efa0cb578b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T23:29:46.000Z",
@@ -94,5 +82,5 @@
       "sourceId": "lootura-es-el-orden-mundial"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

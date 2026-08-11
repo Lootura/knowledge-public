@@ -8,11 +8,36 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Wisconsin's Democratic showdown and more primary races to watch today",
+      "summary": "South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
+      "summary": "Progressive Democrats fight for primary wins in Wisconsin and Minnesota.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
+      "summary": "Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "How We’re Covering an ‘Identity Crisis’ in Politics",
+      "summary": "Recent primary wins have posed critical questions for both Republicans and Democrats as they head into the fall midterms. Carolyn Ryan, managing editor of The New York Times, shares how reporters approach coverage of shifting political dynamics.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
+      "summary": "The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
       "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
@@ -37,34 +62,39 @@
       "title": "Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’",
       "summary": "Internal divisions between progressive and moderate Democrats grow ahead of tomorrow’s closely watched primary for Minnesota’s Senate seat. Minnesota Lt. Gov. Peggy Flanagan (D) joins Meet the Press NOW to discuss her bid for U.S. Senate.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’",
-      "summary": "Hong, whose grassroots campaign has made her a frontrunner, aims for primary win after public skepticism from top Democrats and a last-minute shake-up As Francesca Hong surged ahead in the final weeks of the chaotic Democratic primary to be Wisconsin ’s next governor, the democratic socialist has become the internet’s.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Inside the Left’s Playbook for Winning Elections",
-      "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin",
-      "summary": "—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
-      "summary": "American politics is an ever-changing game of power and big money. For the modern Democrat Party, that means being challenged and sometimes eclipsed by the Democratic Socialists of America (DSA) – and there is little to nothing the Democrat Party can do about its rise. The United States has had many political parties i.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Politics chat: Progressive candidates in primaries, Trump's influence on midterms",
-      "summary": "Republicans are trying to hang fringe positions on Democrats but may not be able to withstand the economic headwinds in November's midterms.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
+    {
+      "title": "Wisconsin's Democratic showdown and more primary races to watch today",
+      "url": "https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:28:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
+      "url": "https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:13:01.137Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
+      "url": "https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:19:18.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "How We’re Covering an ‘Identity Crisis’ in Politics",
+      "url": "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T09:40:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:36:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
     {
       "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html?utm_source=lootura.com",
@@ -72,5 +102,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 6
 }

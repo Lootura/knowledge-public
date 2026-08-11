@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Óscar Puente ya apunta contra el Rey Felipe VI](https://www.larazon.es/espana/oscar-puente-apunta-rey-felipe_202608116a7ae119a5690f047373b1f8.html?utm_source=lootura.com) — 2026-08-11T08:45:13.000Z
+No public source links.

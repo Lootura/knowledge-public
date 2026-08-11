@@ -3,22 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
 
 ### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
 
-Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.
+El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
 
 Date: 2026-08-11
 
-### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
+### El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte
 
-El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
+El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.
 
-Date: 2026-08-10
+Date: 2026-08-11
 
 ### Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro
 
@@ -70,5 +70,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T07:27:49.000Z
-- [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z
+- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T11:42:46.000Z
+- [El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte](https://theobjective.com/internacional/2026-08-11/libano-oriente-proximo-abolir-pena-muerte/?utm_source=lootura.com) — 2026-08-11T11:51:13.000Z

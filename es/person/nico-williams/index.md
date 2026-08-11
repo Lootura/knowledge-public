@@ -3,10 +3,16 @@
 > Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/nico-williams
 
 ## Cambios recientes
+
+### El aplauso de todo el Athletic a los tres campeones del mundo que ya entrenan en Lezama
+
+Nico Williams, Unai Simón y Laporte se han reincorporado este martes al trabajo con el resto de sus compañeros después de que este lunes pasaran las pruebas médicas.
+
+Date: 2026-08-11
 
 ### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
 
@@ -34,4 +40,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T07:26:35.000Z
+- [El aplauso de todo el Athletic a los tres campeones del mundo que ya entrenan en Lezama](https://www.elcorreo.com/athletic/aplauso-athletic-tres-campeones-mundo-entrenan-lezama-20260811125937-nt_amp.html?utm_source=lootura.com) — 2026-08-11T11:00:01.000Z

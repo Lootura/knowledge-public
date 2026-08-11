@@ -1,0 +1,45 @@
+{
+  "id": "usa-in-south-carolina",
+  "name": "In South Carolina",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/in-south-carolina",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/in-south-carolina",
+  "markdownUrl": "https://atlas.lootura.com/us/person/in-south-carolina/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/in-south-carolina/index.json",
+  "description": "Follow In South Carolina, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham",
+      "summary": "Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "In South Carolina first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham",
+      "url": "https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:49:06.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T09:29:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

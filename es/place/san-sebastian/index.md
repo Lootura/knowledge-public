@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Tamarit de Valencia busca «sorprender» al público donostiarra](https://www.diariovasco.com/san-sebastian/semana-grande/tamarit-valencia-busca-sorprender-publico-donostiarra-20260810112148-nt_amp.html?utm_source=lootura.com) — 2026-08-10T09:21:49.000Z
+No public source links.

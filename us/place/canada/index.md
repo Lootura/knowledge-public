@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### At least 200 major wildfires burn across U.S. and Canada
+
+Hot and dry conditions are fueling at least 200 major wildfires in the western U.S. and Canada. Meanwhile, images show the scale of destruction in Spokane, Washington, from the fires there last week. Ian Lee reports.
+
+Date: 2026-08-11
 
 ### Thousands evacuated as wildfires burn across western U.S. and Canada
 
@@ -62,12 +68,6 @@ Scientists race to untangle complex links between exposure and mortality as fire
 
 Date: 2026-08-08
 
-### Carney says U.S. trade talks are 'nasty' after Trump criticizes Canada's leadership
-
-Carney said Canada remained engaged in the negotiations despite Trump's comments, describing the talks as a fight to protect Canadian workers and businesses.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Thousands evacuated as wildfires burn across western U.S. and Canada](https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada?utm_source=lootura.com) — 2026-08-10T17:51:12.000Z
+- [At least 200 major wildfires burn across U.S. and Canada](https://www.cbsnews.com/video/at-least-200-major-wildfires-burn-across-us-and-canada/?utm_source=lootura.com) — 2026-08-11T12:22:01.000Z

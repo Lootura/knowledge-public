@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-02T16:56:03.104Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Darline"
   ],
   "changes": [
+    {
+      "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
       "summary": "As one of nine Republicans seeking to replace him more permanently in a special primary election set for Aug. 11, Graham is a relative political unknown facing off against some of the state's best-known GOP names.",
@@ -57,13 +62,15 @@
       "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
       "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
-      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T09:29:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

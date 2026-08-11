@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Los fondos de inversión apalancados sacuden los mercados de la IA
+
+La historia de Wall Street está plagada de productos que acabaron siendo demasiado populares, como las hipotecas basura ( subprime) en 2008. Ahora, los fondos cotizados (ETF) apalancados parecen dispuestos a sumarse a la lista. La espectacular expansión de estos productos durante los últimos años ha acabado generando r.
+
+Date: 2026-08-11
 
 ### ¿Cuáles son los 'Siete Magníficos' del mercado asiático?
 
@@ -64,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Los fondos de inversión apalancados sacuden los mercados de la IA](https://cincodias.elpais.com/mercados-financieros/2026-08-11/los-fondos-de-inversion-apalancados-sacuden-los-mercados-de-la-ia.html?utm_source=lootura.com) — 2026-08-11T12:17:26.000Z

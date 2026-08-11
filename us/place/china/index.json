@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense",
+      "summary": "Cheng Li-wun once called for the destruction of the party she now leads. Back in 1988, when she was still a teenager, Cheng took the dais at a farmers’ rally to condemn Taiwan’s Nationalist Party , or KMT, as “the most detestable ruling force,” urging her compatriots to “overthrow KMT tyranny and establish our own coun.",
+      "date": "2026-08-11"
+    },
     {
       "title": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots",
       "summary": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across separate doctor visits, Tropical Storm Dolphin made landfall in eastern China and President Trump's Board of Peace says it's in discussions with Israel after Prime Minister Netanyahu reje.",
@@ -64,11 +69,6 @@
       "title": "Boron layers could set a superconductivity record, theoretical study predicts",
       "summary": "Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive cooling equipment.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -77,7 +77,13 @@
       "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com",
       "publishedAt": "2026-08-10T22:50:06.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense",
+      "url": "https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

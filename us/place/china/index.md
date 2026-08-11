@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense
+
+Cheng Li-wun once called for the destruction of the party she now leads. Back in 1988, when she was still a teenager, Cheng took the dais at a farmers’ rally to condemn Taiwan’s Nationalist Party , or KMT, as “the most detestable ruling force,” urging her compatriots to “overthrow KMT tyranny and establish our own coun.
+
+Date: 2026-08-11
 
 ### News Wrap: Trump signs order calling for MMR vaccine split into 3 shots
 
@@ -62,12 +68,7 @@ Scientists in China predict that stacking two microscopic layers of boron could 
 
 Date: 2026-08-07
 
-### Developer ecosystem expanded
-
-In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
-
-Date: 2026-08-05
-
 ## Sources
 
 - [News Wrap: Trump signs order calling for MMR vaccine split into 3 shots](https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots?utm_source=lootura.com) — 2026-08-10T22:50:06.000Z
+- [Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense](https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/?utm_source=lootura.com) — 2026-08-11T10:00:04.000Z

@@ -3,16 +3,10 @@
 > Follow Jennifer Balkcom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/jennifer-balkcom
 
 ## Recent changes
-
-### N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot
-
-Edwards dropped his re-election bid after the House Ethics Committee recommended he be censured over sexual harassment allegations. He has denied any wrongdoing.
-
-Date: 2026-08-11
 
 ### North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal
 
@@ -26,7 +20,19 @@ Jennifer Balkcom first entered the public knowledge record with source-backed ev
 
 Date: 2026-08-11
 
+### North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards
+
+State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.
+
+Date: 2026-08-11
+
+### N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot
+
+Edwards dropped his re-election bid after the House Ethics Committee recommended he be censured over sexual harassment allegations. He has denied any wrongdoing.
+
+Date: 2026-08-11
+
 ## Sources
 
-- [N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot](https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827?utm_source=lootura.com) — 2026-08-11T00:04:13.000Z
+- [North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards](https://www.cbsnews.com/news/chuck-edwards-replacement-north-carolina-republicans-11th-district-candidate/?utm_source=lootura.com) — 2026-08-11T12:33:12.000Z
 - [North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal](https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html?utm_source=lootura.com) — 2026-08-11T00:31:32.000Z

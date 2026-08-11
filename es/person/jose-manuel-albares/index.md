@@ -3,10 +3,22 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
+
+“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
+
+Date: 2026-08-11
+
+### Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”
+
+“Que no arriesguen sus vidas, su dinero, su futuro en una aventura abocada al fracaso”. En su primera visita oficial a la ciudad autónoma de Ceuta -la primera que realiza un ministro de Exteriores en la historia de España-, José Manuel Albares ha lanzado este martes un contundente mensaje a quienes planeen cruzar de ma.
+
+Date: 2026-08-11
 
 ### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
 
@@ -56,18 +68,7 @@ El ministro de Asuntos Exteriores de Italia , Antonio Tajani, ha respondido este
 
 Date: 2026-08-03
 
-### Vox pide la comparecencia de Albares y de la directora del CNI por la crisis en Ceuta
-
-Vox ha registrado en el Senado una batería de iniciativas para reclamar al Gobierno toda la documentación e información de la que disponía antes de la entrada masiva de inmigrantes en Ceuta y ha solicitado las comparecencias del ministro de Asuntos Exteriores, José Manuel Albares , y de la directora del Centro Nacional.
-
-Date: 2026-08-03
-
-### El Gobierno insiste en la colaboración de Marruecos "desde el primer minuto" y achaca la crisis en Ceuta a las redes sociales
-
-El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, "a una actividad inusual en las redes sociales,.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península](https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com) — 2026-08-11T12:42:51.000Z
+- [Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”](https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html?utm_source=lootura.com) — 2026-08-11T10:55:36.000Z

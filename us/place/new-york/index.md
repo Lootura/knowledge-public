@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-11
 ### Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani
 
 A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.
+
+Date: 2026-08-11
+
+### Luigi Mangione due to appear in New York court over healthcare CEO’s killing
+
+Prosecutors allege 28-year-old gunned down Brian Thompson outside Manhattan hotel in 2024 Luigi Mangione, who is accused of the killing of the UnitedHealthcare CEO Brian Thompson , is due to appear on Tuesday morning at Manhattan state court. Mangione’s appearance comes less than a month before the start of his highly.
 
 Date: 2026-08-11
 
@@ -62,15 +68,9 @@ A woman and her 5-month-old baby died after a boat capsized near Liberty Island 
 
 Date: 2026-08-09
 
-### Woman learns man who attacked her killed a young mother years later
-
-When C.C. Opanowski of Hudson Falls, New York, was a teenager, she survived a terrifying attack at the hands of her ex-boyfriend, Shawn Doyle. Years later, he would kill Lori Leonard, a mother of two young sons in Chittenango, New York.
-
-Date: 2026-08-09
-
 ## Sources
 
 - [Captain of boat that capsized in New York facing federal charges after mom, infant die](https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/?utm_source=lootura.com) — 2026-08-11T00:14:41.000Z
-- [Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child](https://www.nbcnews.com/video/boat-captain-charged-after-vessel-capsizes-near-statue-of-liberty-killing-woman-and-her-child-268069445816?utm_source=lootura.com) — 2026-08-10T22:49:53.000Z
+- [Luigi Mangione due to appear in New York court over healthcare CEO’s killing](https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york?utm_source=lootura.com) — 2026-08-11T10:00:56.000Z
 - [A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments](https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html?utm_source=lootura.com) — 2026-08-10T19:28:41.000Z
 - [Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani](https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html?utm_source=lootura.com) — 2026-08-11T00:16:36.000Z

@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/transformacion-digital/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/transformacion-digital/index.json",
   "description": "Sigue la actividad de Transformación digital en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "DX"
   ],
   "changes": [
+    {
+      "title": "Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027",
+      "summary": "Red.es, entidad pública empresarial adscrita al Ministerio para la Transformación Digital y de la Función Pública a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial, ha abierto oficialmente la invitación pública para coordinar la representación española en el Mobile World Congress (MWC) de.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Transformación digital first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    },
     {
       "title": "El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales",
       "summary": "El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.",
@@ -22,13 +32,15 @@
       "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
       "summary": "El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Transformación digital first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027",
+      "url": "https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:42:38.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”",
+      "summary": "“Que no arriesguen sus vidas, su dinero, su futuro en una aventura abocada al fracaso”. En su primera visita oficial a la ciudad autónoma de Ceuta -la primera que realiza un ministro de Exteriores en la historia de España-, José Manuel Albares ha lanzado este martes un contundente mensaje a quienes planeen cruzar de ma.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
       "summary": "Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.",
@@ -53,18 +63,21 @@
       "title": "El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»",
       "summary": "El ministro de Asuntos Exteriores de Italia , Antonio Tajani, ha respondido este lunes al ministro español, José Manuel Albares , a través de un mensaje en la red social X, en el que ha defendido con datos la política migratoria de su Gobierno y ha respaldado la decisión de suspender temporalmente el régimen de libre c.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Vox pide la comparecencia de Albares y de la directora del CNI por la crisis en Ceuta",
-      "summary": "Vox ha registrado en el Senado una batería de iniciativas para reclamar al Gobierno toda la documentación e información de la que disponía antes de la entrada masiva de inmigrantes en Ceuta y ha solicitado las comparecencias del ministro de Asuntos Exteriores, José Manuel Albares , y de la directora del Centro Nacional.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "El Gobierno insiste en la colaboración de Marruecos \"desde el primer minuto\" y achaca la crisis en Ceuta a las redes sociales",
-      "summary": "El ministro de Exteriores, José Manuel Albares , ha ensalzado este lunes la colaboración de Marruecos en la crisis migratoria y humanitaria de Ceuta. El ministro ha achacado lo ocurrido, la entrada de miles de decenas de miles de migrantes por el espigón en un mismo día, \"a una actividad inusual en las redes sociales,.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "url": "https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:42:51.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”",
+      "url": "https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:55:36.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
 }

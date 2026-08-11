@@ -28,4 +28,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El incendio de Navas de San Antonio (Segovia) evoluciona favorablemente y los evacuados pueden regresar a casa](https://www.elconfidencial.com/espana/castilla-y-leon/2026-08-11/incendio-segovia-vegas-matute-1tna-1tps_4404209/?utm_source=lootura.com) — 2026-08-11T07:34:00.000Z
+No public source links.

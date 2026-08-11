@@ -3,10 +3,22 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
+
+El PP ha anunciado que la ministra de Defensa, Margarita Robles , comparecerá finalmente el próximo martes 18 de agosto en el Senado para dar cuenta de las labores de su departamento en la crisis migratoria de Ceuta, pese a que estaba previsto que acudiera este mismo jueves. Los populares también han acusado a los titu.
+
+Date: 2026-08-11
+
+### Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP
+
+La ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto, para dar explicaciones sobre la llegada masiva de extranjeros en situación irregular...
+
+Date: 2026-08-11
 
 ### Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta
 
@@ -58,4 +70,5 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta](https://www.20minutos.es/nacional/pp-avanza-que-robles-comparecera-finalmente-proximo-martes-senado-por-crisis-ceuta_7024687_0.html?utm_source=lootura.com) — 2026-08-11T11:57:26.000Z
+- [Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z

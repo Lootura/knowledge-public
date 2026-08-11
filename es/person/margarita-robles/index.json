@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/margarita-robles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/margarita-robles/index.json",
   "description": "Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T05:02:04.315Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "Margarita",
     "Margarita Robles Fernández",
@@ -16,6 +16,16 @@
     "Robles"
   ],
   "changes": [
+    {
+      "title": "El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta",
+      "summary": "El PP ha anunciado que la ministra de Defensa, Margarita Robles , comparecerá finalmente el próximo martes 18 de agosto en el Senado para dar cuenta de las labores de su departamento en la crisis migratoria de Ceuta, pese a que estaba previsto que acudiera este mismo jueves. Los populares también han acusado a los titu.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP",
+      "summary": "La ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto, para dar explicaciones sobre la llegada masiva de extranjeros en situación irregular...",
+      "date": "2026-08-11"
+    },
     {
       "title": "Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta",
       "summary": "El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.",
@@ -57,6 +67,19 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta",
+      "url": "https://www.20minutos.es/nacional/pp-avanza-que-robles-comparecera-finalmente-proximo-martes-senado-por-crisis-ceuta_7024687_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:57:26.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP",
+      "url": "https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T12:17:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Transformación digital en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-11T12:57:35.592Z
 - Canonical: https://atlas.lootura.com/es/concept/transformacion-digital
 
 ## Cambios recientes
+
+### Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027
+
+Red.es, entidad pública empresarial adscrita al Ministerio para la Transformación Digital y de la Función Pública a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial, ha abierto oficialmente la invitación pública para coordinar la representación española en el Mobile World Congress (MWC) de.
+
+Date: 2026-08-11
+
+### Discovered by Atlas
+
+Transformación digital first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-10
 
 ### El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales
 
@@ -20,12 +32,6 @@ El ministro para la Transformación Digital y de la Función Pública, Óscar L�
 
 Date: 2026-08-10
 
-### Discovered by Atlas
-
-Transformación digital first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027](https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com) — 2026-08-11T12:42:38.000Z

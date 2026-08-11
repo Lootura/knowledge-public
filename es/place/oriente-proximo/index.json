@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-11T12:57:35.592Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -18,13 +18,13 @@
   "changes": [
     {
       "title": "El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo",
-      "summary": "Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.",
+      "summary": "El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.",
       "date": "2026-08-11"
     },
     {
-      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
-      "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
-      "date": "2026-08-10"
+      "title": "El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte",
+      "summary": "El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.",
+      "date": "2026-08-11"
     },
     {
       "title": "Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro",
@@ -71,14 +71,14 @@
     {
       "title": "El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T07:27:49.000Z",
+      "publishedAt": "2026-08-11T11:42:46.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
-      "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:45:38.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte",
+      "url": "https://theobjective.com/internacional/2026-08-11/libano-oriente-proximo-abolir-pena-muerte/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T11:51:13.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

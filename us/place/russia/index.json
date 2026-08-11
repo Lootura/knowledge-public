@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T08:52:22.235Z",
+  "updatedAt": "2026-08-11T12:57:57.710Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -70,23 +70,11 @@
   ],
   "sources": [
     {
-      "title": "Ukraine's drone chief says push to cripple Russia in Crimea is just getting started",
-      "url": "https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T18:15:37.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
-      "url": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:25:01.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Ukrainian drone attack on oil hub deep inside Russia kills 13, official says",
-      "url": "https://www.pbs.org/newshour/world/ukrainian-drone-attack-on-oil-hub-deep-inside-russia-kills-13-official-says?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T18:08:41.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-10T20:42:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 0
 }

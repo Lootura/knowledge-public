@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Wisconsin considers democratic socialist for governor amid US wave of progressive wins
+
+Francesca Hong is Democratic frontrunner in four-way primary race to lead the swing state, a test of anti-establishment sentiment Wisconsin voters will decide on Tuesday whether to nominate a democratic socialist for the state’s highest office in the latest test of an anti-establishment wave among Democratic primary vo.
+
+Date: 2026-08-11
 
 ### Francesca Hong, the progressive leading a ‘messy’ race for Wisconsin’s governor: ‘They’re tired of the status quo’
 
@@ -52,4 +58,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Wisconsin considers democratic socialist for governor amid US wave of progressive wins](https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race?utm_source=lootura.com) — 2026-08-11T10:00:57.000Z

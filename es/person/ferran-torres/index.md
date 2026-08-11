@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»](https://okdiario.com/cool/famosos/ferran-torres-responde-propuesta-que-hizo-princesa-leonor-abuela-no-deja-19159611?utm_source=lootura.com) — 2026-08-11T08:30:51.000Z
+No public source links.

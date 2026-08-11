@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-08-11T12:57:57.710Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T04:01:30.000Z
+- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T11:11:16.000Z
