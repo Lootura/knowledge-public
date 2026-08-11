@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/unai-simon/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/unai-simon/index.json",
   "description": "Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "Simón",
     "Unai Simón Mendibil"
   ],
   "changes": [
+    {
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
+      "date": "2026-08-11"
+    },
     {
       "title": "El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic",
       "summary": "El portero rojiblanco y Elena G. Durán, reportera de DAZN, volvieron a encontrarse en la celebración del título por las calles de Madrid.",
@@ -35,6 +40,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "url": "https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:26:35.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

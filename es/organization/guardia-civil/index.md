@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)
+
+El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia administrativa contra un hombre de 63 años , residente en Burela (Lugo), tras intervenirle 146,5 kilos de cigala que carecían de la documentación de trazabilidad exigida por la normativa pesquera vigente . Según informó el Instituto Armado ,.
+
+Date: 2026-08-11
 
 ### Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil
 
@@ -62,12 +68,6 @@ Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjun
 
 Date: 2026-08-07
 
-### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
-
-Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil](https://okdiario.com/espana/marlaska-rechaza-dar-explicaciones-sobre-zodiac-que-usa-sanchez-bucear-lo-endosa-guardia-civil-19156714?utm_source=lootura.com) — 2026-08-11T03:47:05.000Z
+- [La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)](https://www.elconfidencial.com/espana/galicia/2026-08-11/cigala-incautacion-guardia-civil-burela-1tps_4404219/?utm_source=lootura.com) — 2026-08-11T08:02:00.000Z

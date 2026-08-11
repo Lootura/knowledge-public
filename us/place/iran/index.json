@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T05:05:58.694Z",
+  "updatedAt": "2026-08-11T08:52:22.235Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,26 @@
     {
       "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
       "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. (Image credit: Julia Demaree Nikhinson).",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that in.",
       "date": "2026-08-11"
     },
     {
@@ -37,11 +57,6 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Breaking down Iran's new set of demands over the Strait of Hormuz",
-      "summary": "Iran laid out a new set of demands for reopening the Strait of Hormuz as both the U.S. and Tehran are feeling the economic impacts of the conflict. CBS News' Courtney Kealy has more.",
-      "date": "2026-08-10"
-    },
-    {
       "title": "How have the goals of the Iran war evolved?",
       "summary": "The Iranian regime is now saying it will not reopen the Strait of Hormuz if the U.S. doesn't meet its demands, including compensation for the damage it has done in the more than five months since the start of the war. While the U.S. has reiterated that its top priority is ensuring that Iran can never achieve nuclear ca.",
       "date": "2026-08-10"
@@ -50,28 +65,13 @@
       "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
       "summary": "Iran doubled down on keeping the Strait of Hormuz closed until the U.S. meets a sweeping list of demands. President Trump scoffed at those conditions, especially paying reparations to Iran for damages caused by five months of U.S.-Israeli bombardments. The impasse comes as war appears closer in Yemen between a Saudi-ba.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Trump responds to Iran’s new demands",
-      "summary": "President Trump responded after Iran made a new set of demands before it will stop attacking commercial ships in the Strait of Hormuz. NBC News’ Keir Simmons reports.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Trump Says US is ‘Only Semi-Negotiating’ With Iran",
-      "summary": "Oil prices jumped higher after Iran issued a long list of demands to reopen the Strait of Hormuz. The United States announced more sanctions against Iran as questions loom over negotiations. NBC’s Keir Simmons reports for TODAY.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-      "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms. (Image credit: Atta Kenare).",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Breaking down Iran's new set of demands over the Strait of Hormuz",
-      "url": "https://www.cbsnews.com/video/breaking-down-irans-new-set-of-demands-over-the-strait-of-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:20:16.000Z",
+      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
+      "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T05:52:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -81,15 +81,27 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:32:41.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T05:48:27.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
       "url": "https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-08-10T22:45:55.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
       "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T02:29:56.000Z",
+      "publishedAt": "2026-08-11T06:46:56.000Z",
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
@@ -111,5 +123,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 9
 }

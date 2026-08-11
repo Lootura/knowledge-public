@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
+
+El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
+
+Date: 2026-08-11
 
 ### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
 
@@ -62,12 +68,6 @@ El comisario europeo de Interior y Migraciones, Magnus Brunner, ha negado este m
 
 Date: 2026-08-04
 
-### Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha
-
-Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»](https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com) — 2026-08-11T08:06:13.000Z

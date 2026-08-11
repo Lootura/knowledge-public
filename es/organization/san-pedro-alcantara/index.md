@@ -34,4 +34,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género](https://www.elconfidencial.com/espana/andalucia/2026-08-11/detenido-hombre-59-anos-matar-mujer-violencia-genero_4404147/?utm_source=lootura.com) — 2026-08-10T22:00:00.000Z
+No public source links.

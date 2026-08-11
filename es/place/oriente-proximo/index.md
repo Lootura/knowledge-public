@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
+
+Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.
+
+Date: 2026-08-11
 
 ### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
 
@@ -62,12 +68,7 @@ La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible
 
 Date: 2026-08-07
 
-### El Ibex marca nuevos máximos y roza los 20.300 puntos
-
-Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.
-
-Date: 2026-08-06
-
 ## Fuentes
 
+- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T07:27:49.000Z
 - [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z

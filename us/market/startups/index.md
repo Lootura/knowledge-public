@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
+- [When the best decision is no decision: the rise of randomization in grant funding](https://www.nature.com/articles/d41586-026-02082-7?utm_source=lootura.com) — 2026-08-11T08:52:25.852Z

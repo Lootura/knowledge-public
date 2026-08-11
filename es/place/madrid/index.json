@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»",
+      "summary": "La parroquia de Santa María de Caná, situada en Pozuelo de Alarcón (Madrid), es una de las más conocidas de toda España. Probablemente sea la que reúne de manera regular al mayor número de fieles de todo el país. E incluso una de las que más de todo el mundo. Y buena parte de ese mérito recae sobre su líder espiritual,.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»",
+      "summary": "Abrir un negocio, la mayoría de ocasiones, requiere mucho sacrificio . Es por eso que contar con un círculo de personas que te apoyen y, sobre todo, con la ayuda de tu familia es algo indispensable. Y si no, que se lo digan a Nacho , el hijo pequeño de Emilio Aragón, quien, hace unos años, decidió lanzarse al mundo de.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
       "summary": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.",
@@ -45,36 +60,27 @@
       "title": "La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso",
       "summary": "El Ministerio Público remite la “documentación” presentada por el PSOE y tres particulares al juzgado en el que ha recaído la denuncia del partido extraparlamentario Iustitia Europa El uso personal de Ayuso de las instituciones de la Comunidad de Madrid La Fiscalía Provincial de Madrid ha remitido a un juzgado de Madri.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
-      "summary": "Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios",
-      "summary": "La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar infraestructuras dañadas y prestar asistencia veterinaria. A e.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Así ha sido el golazo de chilena de Kylian Mbappé en su primer entrenamiento con Jose Mourinho",
-      "summary": "Kylian Mbappé volvió ayer a los entrenamientos del Real Madrid , esta vez bajo el mando de Mourinho y con la responsabilidad de demostrar que con él, el equipo blanco puede aspirar a todo. Empieza su tercera temporada en el equipo y, aunque ha demostrado que marca goles, ahora tienen que ser decisivos. Para empezar, en.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
-      "url": "https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T04:32:11.000Z",
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "url": "https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:26:35.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
-      "url": "https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:05:02.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»",
+      "url": "https://www.abc.es/recreo/jesus-higueras-cura-visto-milagros-curaciones-fisicas-20260811085913-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:14:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»",
+      "url": "https://theobjective.com/gente/2026-08-11/amparo-tia-nacho-aragon-primeros-dias-churreria-madrid/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T06:30:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

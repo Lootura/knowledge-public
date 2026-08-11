@@ -3,10 +3,16 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta
+
+La primera ministra de Italia, Giorgia Meloni , es de extrema derecha. Su homóloga de Dinamarca, Mette Frederiksen, es socialdemócrata. Debería notarse, deberían estar lejos, pero las dos están de acuerdo en que la Unión Europea cree más centros de repatriación en terceros países . Es lo que aseguran en el comunicado c.
+
+Date: 2026-08-11
 
 ### Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»
 
@@ -40,5 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»](https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com) — 2026-08-11T04:32:11.000Z
-- [Socialdemócratas contra la inmigración](https://theobjective.com/elsubjetivo/opinion/2026-08-11/socialdemocratas-contra-inmigracion-articulo-dominguez/?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z
+- [La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta](https://www.20minutos.es/internacional/inmigracion-asunto-friccion-europa-dos-paises-piden-centros-deportacion-como-albania-tras-crisis-ceuta_7024201_0.html?utm_source=lootura.com) — 2026-08-11T05:00:50.000Z

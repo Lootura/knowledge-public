@@ -64,4 +64,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [¿Cuáles son los 'Siete Magníficos' del mercado asiático?](https://www.expansion.com/mercados/2026/08/11/6a7a21cf468aeb18588b459a.html?utm_source=lootura.com) — 2026-08-11T00:14:19.000Z
+No public source links.

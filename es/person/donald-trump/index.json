@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,21 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
+      "summary": "La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El Ibex, varado en zona de récords",
+      "summary": "Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales",
       "summary": "No todas las relaciones tienen un final feliz. La de Trump Media (TMTG) y Crypto.com, el undécimo exchange más grande según Coinmarketcap, duró poco más de un año. Juntos tenían muchos proyectos a largo plazo: lanzar fondos y productos cotizados (ETF) de activos digitales, crear una empresa de tesorería cripto y desple.",
@@ -58,41 +73,26 @@
       "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
       "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza",
-      "summary": "El primer ministro israelí rechaza la retirada de Gaza si antes no hay un \"desarme auténtico\" de Hamas y muestra su oposición a un futuro Estado palestino Leer.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
-      "summary": "Aunque lo ha anunciado en la reunión semanal del consejo de ministros, Benjamín Netanyahu ha actuado este domingo más como candidato a la reelección en octubre que como jefe de Gobierno al rechazar el acuerdo para el desarme de Hamás alcanzado por la Junta de Paz —el organismo que supervisa la aplicación del alto el fu.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo",
-      "summary": "Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales",
-      "url": "https://cincodias.elpais.com/criptoactivos/2026-08-11/trump-rompe-con-cryptocom-y-deja-de-lado-sus-proyectos-de-activos-digitales.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Irán y Omán redibujan el mapa de Ormuz sin Washington",
-      "url": "https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T15:15:22.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
       "url": "https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:45:21.000Z",
+      "publishedAt": "2026-08-11T05:16:48.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Ibex, varado en zona de récords",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:33:38.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
+      "url": "https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:36:44.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 3

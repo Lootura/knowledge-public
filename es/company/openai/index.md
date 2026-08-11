@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers](https://hipertextual.com/inteligencia-artificial/openai-gpt-5-6-cyber-daybreak-blue-red/?utm_source=lootura.com) — 2026-08-10T21:51:00.000Z
+- [La nueva función de ChatGPT es una maravilla: adiós a la pereza de reservar mesa en un restaurante](https://hipertextual.com/inteligencia-artificial/la-nueva-funcion-de-chatgpt-es-una-maravilla-adios-a-la-pereza-de-reservar-mesa-en-un-restaurante/?utm_source=lootura.com) — 2026-08-11T07:43:50.000Z

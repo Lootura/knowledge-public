@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/marc-cucurella/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/marc-cucurella/index.json",
   "description": "Sigue la actividad de Marc Cucurella en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "Cucurella"
   ],
   "changes": [
     {
-      "title": "El nuevo hogar de Cucurella en Madrid: una exclusiva zona con un palacio neoclásico y casas de más de 4.000 euros/m²",
-      "summary": "Marc Cucurella ya prepara su nueva vida en Madrid tras su fichaje por el Real Madrid y, mientras apura sus últimos días antes de incorporarse a la disciplina blanca, también avanza en la búsqueda de vivienda. Todo apunta a que su próximo hogar estará en uno de los municipios más exclusivos del oeste de la región , un d.",
-      "date": "2026-08-08"
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
+      "date": "2026-08-11"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Marc Cucurella first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "El nuevo hogar de Cucurella en Madrid: una exclusiva zona con un palacio neoclásico y casas de más de 4.000 euros/m²",
+      "summary": "Marc Cucurella ya prepara su nueva vida en Madrid tras su fichaje por el Real Madrid y, mientras apura sus últimos días antes de incorporarse a la disciplina blanca, también avanza en la búsqueda de vivienda. Todo apunta a que su próximo hogar estará en uno de los municipios más exclusivos del oeste de la región , un d.",
       "date": "2026-08-08"
     },
     {
@@ -29,6 +34,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
+      "url": "https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:26:35.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
+
+Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.
+
+Date: 2026-08-11
+
+### El Ibex, varado en zona de récords
+
+Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.
+
+Date: 2026-08-11
+
+### El líder supremo de Irán refuerza su poder con nombramientos en la cúpula
+
+Se están llevando a cabo una serie de reestructuraciones en la cúpula militar y del régimen mientras Teherán endurece su retórica sobre el acuerdo con EEUU A principios de la...
+
+Date: 2026-08-11
+
+### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
+
+Date: 2026-08-11
 
 ### Irán y Omán redibujan el mapa de Ormuz sin Washington
 
@@ -44,30 +68,9 @@ El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia en
 
 Date: 2026-08-10
 
-### Las Bolsas dan un paso atrás con el petróleo al alza
-
-Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
-
-Date: 2026-08-10
-
-### Irán impone a EEUU seis requisitos para reabrir Ormuz y dice que no negociará con Washington mientras incumpla el acuerdo de paz
-
-"Ahora no tenemos ninguna negociación con Estados Unidos", ha asegurado el ministro iraní de Exteriores, Abbas Araghchi, que afirma que mientras "no terminen las violaciones del memorando y Washington no compense aquello que ha incumplido, no existe posibilidad de reanudarlas" Del bloqueo naval al fin de sanciones: est.
-
-Date: 2026-08-09
-
-### Irán-EEUU: victoria interrumpida, derrotas probables
-
-La ejecución del ataque del 28 de febrero fue impecable. Lo que ha fallado después no es la espada, sino el pulso de la mano que la empuña.
-
-Date: 2026-08-09
-
-### La tormenta de malestar desatada por Trump amenaza con arrebatarle el Congreso en las elecciones de noviembre
-
-El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo El malestar social que Donald Trump capital.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
+- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T07:27:49.000Z
+- [El Ibex, varado en zona de récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T08:33:38.000Z
+- [El líder supremo de Irán refuerza su poder con nombramientos en la cúpula](https://amp.expansion.com/economia/financial-times/2026/08/11/6a7acf76e5fdea98298b4595.html?utm_source=lootura.com) — 2026-08-11T07:30:13.000Z
+- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z

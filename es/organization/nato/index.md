@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
+
+Date: 2026-08-11
 
 ### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
 
@@ -62,12 +68,7 @@ España ha asumido por primera vez el mando de la fuerza naval de la OTAN encarg
 
 Date: 2026-07-16
 
-### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
-
-Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z
+- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z

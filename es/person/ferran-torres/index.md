@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»
+
+Ferran Torres se ha convertido en uno de los nombres propios de la selección española dentro y fuera del terreno de juego. El delantero no solo ha llamado la atención por su rendimiento deportivo, sino también por una imagen cada vez más vinculada al mundo de la moda y las grandes firmas. Sin embargo, hay una promesa q.
+
+Date: 2026-08-11
 
 ### Ferran Torres y Enzo Fernández coinciden en su capricho más exclusivo: un reloj de más de 50.000 €
 
@@ -62,12 +68,6 @@ Después de que se vandalizara el mural de Ferran Torres con la Selección Espa�
 
 Date: 2026-07-24
 
-### Linchamiento en redes a Rodri por su «viva España, viva el Rey»
-
-Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»](https://okdiario.com/cool/famosos/ferran-torres-responde-propuesta-que-hizo-princesa-leonor-abuela-no-deja-19159611?utm_source=lootura.com) — 2026-08-11T08:30:51.000Z

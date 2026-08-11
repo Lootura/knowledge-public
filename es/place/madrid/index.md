@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
+
+La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.
+
+Date: 2026-08-11
+
+### Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»
+
+La parroquia de Santa María de Caná, situada en Pozuelo de Alarcón (Madrid), es una de las más conocidas de toda España. Probablemente sea la que reúne de manera regular al mayor número de fieles de todo el país. E incluso una de las que más de todo el mundo. Y buena parte de ese mérito recae sobre su líder espiritual,.
+
+Date: 2026-08-11
+
+### Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»
+
+Abrir un negocio, la mayoría de ocasiones, requiere mucho sacrificio . Es por eso que contar con un círculo de personas que te apoyen y, sobre todo, con la ayuda de tu familia es algo indispensable. Y si no, que se lo digan a Nacho , el hijo pequeño de Emilio Aragón, quien, hace unos años, decidió lanzarse al mundo de.
+
+Date: 2026-08-11
 
 ### Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»
 
@@ -50,25 +68,8 @@ El Ministerio Público remite la “documentación” presentada por el PSOE y t
 
 Date: 2026-08-10
 
-### España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse
-
-Los fuegos devastadores que han arrasado miles de hectáreas en Ávila y Madrid han tiznado el escenario festivo que se planteaba para ver el eclipse: municipios y comunidades contienen la respiración al multiplicarse el riesgo de que se produzcan incendios el miércoles, cuando millones de personas subirán al monte, se c.
-
-Date: 2026-08-10
-
-### Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios
-
-La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar infraestructuras dañadas y prestar asistencia veterinaria. A e.
-
-Date: 2026-08-10
-
-### Así ha sido el golazo de chilena de Kylian Mbappé en su primer entrenamiento con Jose Mourinho
-
-Kylian Mbappé volvió ayer a los entrenamientos del Real Madrid , esta vez bajo el mando de Mourinho y con la responsabilidad de demostrar que con él, el equipo blanco puede aspirar a todo. Empieza su tercera temporada en el equipo y, aunque ha demostrado que marca goles, ahora tienen que ser decisivos. Para empezar, en.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»](https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html?utm_source=lootura.com) — 2026-08-11T04:32:11.000Z
-- [El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona](https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com) — 2026-08-10T22:05:02.000Z
+- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T07:26:35.000Z
+- [Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»](https://www.abc.es/recreo/jesus-higueras-cura-visto-milagros-curaciones-fisicas-20260811085913-nt.html?utm_source=lootura.com) — 2026-08-11T08:14:47.000Z
+- [Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»](https://theobjective.com/gente/2026-08-11/amparo-tia-nacho-aragon-primeros-dias-churreria-madrid/?utm_source=lootura.com) — 2026-08-11T06:30:00.000Z

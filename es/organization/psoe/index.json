@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -78,13 +78,7 @@
       "url": "https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T20:46:33.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
-      "url": "https://www.larazon.es/espana/ocio-pedro-sanchez-sus-vacaciones-irrita-psoe-ceuta_202608116a7a741da046ad6ebcaa7ced.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-11T01:00:13.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

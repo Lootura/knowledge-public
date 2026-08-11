@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-08
 ## Fuentes
 
 - [El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018](https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html?utm_source=lootura.com) — 2026-08-10T20:46:33.000Z
-- [El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta](https://www.larazon.es/espana/ocio-pedro-sanchez-sus-vacaciones-irrita-psoe-ceuta_202608116a7a741da046ad6ebcaa7ced.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T01:00:13.000Z

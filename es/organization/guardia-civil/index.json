@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)",
+      "summary": "El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia administrativa contra un hombre de 63 años , residente en Burela (Lugo), tras intervenirle 146,5 kilos de cigala que carecían de la documentación de trazabilidad exigida por la normativa pesquera vigente . Según informó el Instituto Armado ,.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.",
@@ -55,19 +60,14 @@
       "title": "Desarticulada una red de tráfico de personas y droga en España con 78 detenidos",
       "summary": "Agentes de la Policía Nacional y de la Guardia Civil , en una operación conjunta con la colaboración de Europol , han desarticulado una de las mayores organizaciones criminales de tráfico marítimo de personas y droga en el Mediterráneo, que introducía de forma irregular a más de 2.000 inmigrantes en España , obteniendo.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes",
-      "summary": "Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil",
-      "url": "https://okdiario.com/espana/marlaska-rechaza-dar-explicaciones-sobre-zodiac-que-usa-sanchez-bucear-lo-endosa-guardia-civil-19156714?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:47:05.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)",
+      "url": "https://www.elconfidencial.com/espana/galicia/2026-08-11/cigala-incautacion-guardia-civil-burela-1tps_4404219/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:02:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

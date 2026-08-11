@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre
+
+Se trata del encuentro anual más importante sobre comercio internacional que tiene lugar en la región.
+
+Date: 2026-08-11
 
 ### El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona
 
@@ -62,12 +68,6 @@ Este verano está siendo particularmente negro cuanto a los asesinatos por viole
 
 Date: 2026-08-08
 
-### Vuelve el fútbol a Ceuta tras la invasión: "Esto nos sirve para desinhibirnos"
-
-No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En ... Continuar leyendo "Vue.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona](https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com) — 2026-08-10T22:05:02.000Z
+- [Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre](https://www.larazon.es/andalucia/andalucia-trade-global-2026-volvera-celebrarse-malaga-17-18-noviembre_202608116a7ae14371b42a0b5de91ba7.html?outputType=amp&utm_source=lootura.com) — 2026-08-11T08:45:55.000Z

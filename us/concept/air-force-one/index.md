@@ -3,10 +3,22 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
+
+Date: 2026-08-11
+
+### Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+
+Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that in.
+
+Date: 2026-08-11
 
 ### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
 
@@ -56,18 +68,7 @@ A judge criticized the Justice Department for legal errors that ultimately led t
 
 Date: 2026-07-24
 
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-24
-
-### DOJ to withdraw subpoenas for New York Times reporters over Air Force One story
-
-The New York Times moved to block subpoenas issued by the Justice Department for grand jury testimony and phone records from its reporters.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T02:29:56.000Z
+- [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T05:52:00.000Z
+- [Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T06:46:56.000Z

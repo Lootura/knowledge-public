@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
+
+La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
+
+Date: 2026-08-11
+
+### El Ibex, varado en zona de récords
+
+Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.
+
+Date: 2026-08-11
+
+### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
+
+Date: 2026-08-11
 
 ### Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales
 
@@ -50,26 +68,8 @@ El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó est
 
 Date: 2026-08-10
 
-### Netanyahu rechaza la hoja de ruta del plan de Trump para la paz en Gaza
-
-El primer ministro israelí rechaza la retirada de Gaza si antes no hay un "desarme auténtico" de Hamas y muestra su oposición a un futuro Estado palestino Leer.
-
-Date: 2026-08-09
-
-### Netanyahu rechaza el plan de Trump para el desarme de Hamás
-
-Aunque lo ha anunciado en la reunión semanal del consejo de ministros, Benjamín Netanyahu ha actuado este domingo más como candidato a la reelección en octubre que como jefe de Gobierno al rechazar el acuerdo para el desarme de Hamás alcanzado por la Junta de Paz —el organismo que supervisa la aplicación del alto el fu.
-
-Date: 2026-08-09
-
-### Una empresa del entorno de Trump se prepara para perforar en Groenlandia sin permiso de las autoridades en busca de petróleo
-
-Greenland Energy limita el inicio de la operación a un yacimiento de los dos proyectados en esta zona protegida del Ártico Leer.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Trump rompe con Crypto.com y deja de lado sus proyectos de activos digitales](https://cincodias.elpais.com/criptoactivos/2026-08-11/trump-rompe-con-cryptocom-y-deja-de-lado-sus-proyectos-de-activos-digitales.html?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z
-- [Irán y Omán redibujan el mapa de Ormuz sin Washington](https://www.elmundo.es/internacional/2026/08/10/6a79e716fc6c837f198b457c.html?utm_source=lootura.com) — 2026-08-10T15:15:22.000Z
-- [Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense](https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com) — 2026-08-10T20:45:21.000Z
+- [Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense](https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html?utm_source=lootura.com) — 2026-08-11T05:16:48.000Z
+- [El Ibex, varado en zona de récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/11/6a7ab738e5fdeab41e8b4580.html?utm_source=lootura.com) — 2026-08-11T08:33:38.000Z
+- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z

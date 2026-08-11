@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -17,6 +17,11 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»",
+      "summary": "Ferran Torres se ha convertido en uno de los nombres propios de la selección española dentro y fuera del terreno de juego. El delantero no solo ha llamado la atención por su rendimiento deportivo, sino también por una imagen cada vez más vinculada al mundo de la moda y las grandes firmas. Sin embargo, hay una promesa q.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Ferran Torres y Enzo Fernández coinciden en su capricho más exclusivo: un reloj de más de 50.000 €",
       "summary": "Es bien sabido que son muchos los futbolistas que apuestan por las piezas de lujo e invierten de manera inteligente. Desde los Rolex de Roger Federer o Carlos Alcaraz hasta las extravagancias de Jacob & Co. que poseen Vinicius Jr. o Cristiano Ronaldo, está claro que cada uno tiene sus gustos. Eso sí, aunque sean perfil.",
@@ -61,13 +66,15 @@
       "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
       "summary": "Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: \"No.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
-      "summary": "Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»",
+      "url": "https://okdiario.com/cool/famosos/ferran-torres-responde-propuesta-que-hizo-princesa-leonor-abuela-no-deja-19159611?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:30:51.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

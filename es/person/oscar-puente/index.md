@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente ya apunta contra el Rey Felipe VI
+
+En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .
+
+Date: 2026-08-11
 
 ### Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»
 
@@ -62,12 +68,6 @@ He de reconocer que entender a Puente es un misterio insondable. No creo que ni 
 
 Date: 2026-07-24
 
-### Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"
-
-El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los ".
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Óscar Puente ya apunta contra el Rey Felipe VI](https://www.larazon.es/espana/oscar-puente-apunta-rey-felipe_202608116a7ae119a5690f047373b1f8.html?utm_source=lootura.com) — 2026-08-11T08:45:13.000Z

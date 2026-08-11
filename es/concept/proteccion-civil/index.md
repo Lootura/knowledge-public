@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Ordenan la evacuación de Arbués (Huesca) por el incendio de Las Peñas de Riglos
+
+Protección Civil ha ordenado a primera hora de este martes la evacuación preventiva del municipio de Arbués ( Huesca ) por el incendio forestal de las Peñas de Riglos, según ha informado la Delegación del Gobierno en Aragón . En esta localidad han sido evacuadas unas 50 personas, que serán trasladadas a Jaca, con lo qu.
+
+Date: 2026-08-11
 
 ### Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)
 
@@ -62,12 +68,6 @@ Portugal envió este sábado un contingente de 200 bomberos para colaborar en la
 
 Date: 2026-07-25
 
-### Incendios Castilla y León: Barcones cifra en 9.000 los evacuados y 8.000 los confinados por el incendio de Burgohondo (Ávila)
-
-La secretaria general de Protección Civil, Virginia Barcones, confirmó en una entrevista en TVE que son 9.000 los evacuados en diferentes localidades y 8.000 los confinados en sus casas a consecuencia del incendio de Burgohondo, en la provincia de Ávila. El incendio mantiene evacuados a los vecinos de Villanueva de Ávi.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Ordenan la evacuación de Arbués (Huesca) por el incendio de Las Peñas de Riglos](https://theobjective.com/sociedad/2026-08-11/ordenan-evacuacion-arbues-huesca-incendio-penas-riglos/?utm_source=lootura.com) — 2026-08-11T07:13:17.000Z

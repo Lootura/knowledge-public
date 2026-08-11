@@ -65,19 +65,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "¿Cuáles son los 'Siete Magníficos' del mercado asiático?",
-      "url": "https://www.expansion.com/mercados/2026/08/11/6a7a21cf468aeb18588b459a.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T00:14:19.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
-      "url": "https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T23:40:12.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

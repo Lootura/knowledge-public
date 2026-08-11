@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’
 
 Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”.
+
+Date: 2026-08-11
+
+### Product availability changed in Europe
+
+Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
+
+Date: 2026-08-11
+
+### Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
+
+The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. (Image credit: Julia Demaree Nikhinson).
 
 Date: 2026-08-11
 
@@ -26,12 +38,6 @@ Plus, a drying river reveals Nazi-era vessels.
 
 Date: 2026-08-10
 
-### Breaking down Iran's new set of demands over the Strait of Hormuz
-
-Iran laid out a new set of demands for reopening the Strait of Hormuz as both the U.S. and Tehran are feeling the economic impacts of the conflict. CBS News' Courtney Kealy has more.
-
-Date: 2026-08-10
-
 ### America Is Atomizing
 
 A nation of us versus them and them and them.
@@ -41,12 +47,6 @@ Date: 2026-08-10
 ### Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.
 
 In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.
-
-Date: 2026-08-10
-
-### Ocasio-Cortez says she's freezing her eggs as she considers her political career
-
-The 36-year-old Ocasio-Cortez announced her decision on social media before explaining in an ABC "This Week" interview Sunday she has not ruled out running for president or for U.S. Senate.
 
 Date: 2026-08-10
 
@@ -70,10 +70,10 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Breaking down Iran's new set of demands over the Strait of Hormuz](https://www.cbsnews.com/video/breaking-down-irans-new-set-of-demands-over-the-strait-of-hormuz/?utm_source=lootura.com) — 2026-08-10T16:20:16.000Z
+- [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T05:52:00.000Z
 - [How have the goals of the Iran war evolved?](https://www.cbsnews.com/video/how-have-the-goals-of-the-iran-war-evolved/?utm_source=lootura.com) — 2026-08-10T23:40:46.000Z
 - [The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways?utm_source=lootura.com) — 2026-08-10T09:00:00.000Z
-- [Ocasio-Cortez says she's freezing her eggs as she considers her political career](https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career?utm_source=lootura.com) — 2026-08-10T17:07:57.000Z
+- [Trump pivots back to sanctions for Iran as other strategies to end his war fizzle](https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war?utm_source=lootura.com) — 2026-08-11T05:48:27.000Z
 - [Family of Marine veteran imprisoned in Russia warns he's near death](https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death?utm_source=lootura.com) — 2026-08-10T22:25:01.000Z
 - [Thousands evacuated as wildfires burn across western U.S. and Canada](https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada?utm_source=lootura.com) — 2026-08-10T17:51:12.000Z
 - [Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz](https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz?utm_source=lootura.com) — 2026-08-10T22:45:55.000Z

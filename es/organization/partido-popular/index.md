@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta](https://www.elconfidencial.com/espana/2026-08-11/senado-choque-gobierno-constitucional-rechazo-comparecer-ceuta_4403990/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z
 - [María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos](https://www.elmundo.es/espana/extremadura/2026/08/11/6a7a015bfdddff7f5a8b4582.html?utm_source=lootura.com) — 2026-08-10T23:15:51.000Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -72,5 +72,3 @@ Date: 2026-08-10
 
 - [Mark Zuckerberg's vision of superintelligent AI for everyone](https://www.cbsnews.com/video/mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone/?utm_source=lootura.com) — 2026-08-11T00:31:45.000Z
 - [This AI tool claims to pick the top 1% of preprints. Should researchers trust it?](https://www.nature.com/articles/d41586-026-02276-z?utm_source=lootura.com) — 2026-08-11T05:06:02.564Z
-- [Machine learning predicts forest soil fungal diversity from drone images](https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html?utm_source=lootura.com) — 2026-08-10T23:40:02.000Z
-- [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision?utm_source=lootura.com) — 2026-08-10T22:00:00.000Z

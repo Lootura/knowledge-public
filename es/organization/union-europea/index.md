@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta
+
+La primera ministra de Italia, Giorgia Meloni , es de extrema derecha. Su homóloga de Dinamarca, Mette Frederiksen, es socialdemócrata. Debería notarse, deberían estar lejos, pero las dos están de acuerdo en que la Unión Europea cree más centros de repatriación en terceros países . Es lo que aseguran en el comunicado c.
+
+Date: 2026-08-11
 
 ### China hurga en la fractura de la Unión Europea por Ceuta
 
@@ -62,12 +68,6 @@ En octubre de 2018, en mi etapa como eurodiputada, viajé a Ceuta junto a Javier
 
 Date: 2026-08-06
 
-### Última hora de la crisis migratoria en Ceuta, en directo: continúa la presión política mientras siguen las labores de gestión en la frontera
-
-La crisis migratoria en Ceuta encara una nueva jornada con el foco puesto en la gestión de las personas que permanecen en la ciudad, la atención a los menores migrantes y la coordinación entre España, Marruecos y la Unión Europea . Mientras avanzan los trabajos de identificación de las víctimas mortales recuperadas en.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta](https://www.20minutos.es/internacional/inmigracion-asunto-friccion-europa-dos-paises-piden-centros-deportacion-como-albania-tras-crisis-ceuta_7024201_0.html?utm_source=lootura.com) — 2026-08-11T05:00:50.000Z

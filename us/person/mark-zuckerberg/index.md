@@ -3,7 +3,7 @@
 > Follow Mark Zuckerberg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/person/mark-zuckerberg
 
 ## Recent changes
@@ -35,4 +35,3 @@ Date: 2026-08-09
 ## Sources
 
 - [Mark Zuckerberg's vision of superintelligent AI for everyone](https://www.cbsnews.com/video/mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone/?utm_source=lootura.com) — 2026-08-11T00:31:45.000Z
-- [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision?utm_source=lootura.com) — 2026-08-10T22:00:00.000Z

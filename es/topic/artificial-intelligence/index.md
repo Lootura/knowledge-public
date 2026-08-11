@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las ‘big tech’ disparan el gasto en I+D a récords históricos de 200.000 millones bajo las exigencias de la IA](https://cincodias.elpais.com/companias/2026-08-11/las-big-tech-disparan-el-gasto-en-id-a-records-historicos-de-200000-millones-bajo-las-exigencias-de-la-ia.html?utm_source=lootura.com) — 2026-08-11T03:15:00.000Z
+- [Rusia anula la candidatura del único partido que pedía acabar con la guerra](https://www.elmundo.es/internacional/2026/08/11/6a7aca76e85ece96248b4571.html?utm_source=lootura.com) — 2026-08-11T07:35:30.000Z

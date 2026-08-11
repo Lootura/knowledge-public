@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T05:05:58.694Z",
+  "updatedAt": "2026-08-11T08:52:22.235Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,6 +40,16 @@
       "date": "2026-08-11"
     },
     {
+      "title": "Product availability changed in Europe",
+      "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. (Image credit: Julia Demaree Nikhinson).",
+      "date": "2026-08-11"
+    },
+    {
       "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
       "summary": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace. (Image credit: Joe Nicholson).",
       "date": "2026-08-10"
@@ -50,11 +60,6 @@
       "date": "2026-08-10"
     },
     {
-      "title": "Breaking down Iran's new set of demands over the Strait of Hormuz",
-      "summary": "Iran laid out a new set of demands for reopening the Strait of Hormuz as both the U.S. and Tehran are feeling the economic impacts of the conflict. CBS News' Courtney Kealy has more.",
-      "date": "2026-08-10"
-    },
-    {
       "title": "America Is Atomizing",
       "summary": "A nation of us versus them and them and them.",
       "date": "2026-08-10"
@@ -62,11 +67,6 @@
     {
       "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
       "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Ocasio-Cortez says she's freezing her eggs as she considers her political career",
-      "summary": "The 36-year-old Ocasio-Cortez announced her decision on social media before explaining in an ABC \"This Week\" interview Sunday she has not ruled out running for president or for U.S. Senate.",
       "date": "2026-08-10"
     },
     {
@@ -87,9 +87,9 @@
   ],
   "sources": [
     {
-      "title": "Breaking down Iran's new set of demands over the Strait of Hormuz",
-      "url": "https://www.cbsnews.com/video/breaking-down-irans-new-set-of-demands-over-the-strait-of-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T16:20:16.000Z",
+      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
+      "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T05:52:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -105,10 +105,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Ocasio-Cortez says she's freezing her eggs as she considers her political career",
-      "url": "https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T17:07:57.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T05:48:27.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Family of Marine veteran imprisoned in Russia warns he's near death",

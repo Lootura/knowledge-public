@@ -3,7 +3,7 @@
 > Follow Sophie Cunningham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/person/sophie-cunningham
 
 ## Recent changes

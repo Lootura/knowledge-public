@@ -72,19 +72,6 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
-      "url": "https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:05:02.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
-      "url": "https://theobjective.com/sociedad/ciencia/2026-08-10/casa-isdin-eclipse-solar-ciencia-musica/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-10T20:25:56.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

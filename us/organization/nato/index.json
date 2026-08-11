@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T05:05:58.694Z",
+  "updatedAt": "2026-08-11T08:52:22.235Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -19,18 +19,13 @@
   ],
   "changes": [
     {
-      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
-      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
-      "date": "2026-08-11"
-    },
-    {
       "title": "NATO spending pressure returned",
       "summary": "President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
       "date": "2026-08-11"
     },
     {
-      "title": "NATO spending pressure returned",
-      "summary": "President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
+      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
       "date": "2026-08-11"
     },
     {
@@ -67,15 +62,14 @@
       "title": "NATO spending pressure returned",
       "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
       "date": "2026-07-25"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T02:29:56.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
     {
       "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
       "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com",
@@ -83,5 +77,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

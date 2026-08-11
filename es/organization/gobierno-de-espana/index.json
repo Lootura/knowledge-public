@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
+      "summary": "El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
       "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
@@ -58,13 +63,15 @@
       "title": "La UE no ve relación entre la regularización y la crisis pero avisa de que la medida \"no es una buena señal\"",
       "summary": "El comisario europeo de Interior y Migraciones, Magnus Brunner, ha negado este martes que haya una relación entre la regularización extraordinaria de migrantes aprobada por el Gobierno español y la crisis migratoria en Ceuta . No obstante, ha reconocido que este tipo de medidas envían una \"mala señal\" al resto de la Un.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Cómo el incidente en el paso fronterizo de Ceuta ha beneficiado a la extrema derecha",
-      "summary": "Se calcula que más de 50 000 migrantes cruzaron y entraron en la ciudad autónoma de Ceuta el 30 de julio en el transcurso de un solo día, tras el colapso efectivo de la frontera. El Gobierno español ha afirmado que casi todos los migrantes han regresado desde entonces a Marruecos, y al menos 88 han fallecido . Tras el.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
+      "url": "https://theobjective.com/internacional/2026-08-11/suecia-critica-regularizacion-masiva-sanchez-muy-mala-idea/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:06:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

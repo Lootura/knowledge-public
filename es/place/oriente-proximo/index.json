@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo",
+      "summary": "Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.",
+      "date": "2026-08-11"
+    },
     {
       "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
       "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
@@ -60,14 +65,15 @@
       "title": "El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU",
       "summary": "La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Ibex marca nuevos máximos y roza los 20.300 puntos",
-      "summary": "Los inversores se agarran a las últimas noticias sobre el avance en las negociaciones de paz en Oriente Próximo para impulsar a las Bolsas hacia nuevos máximos. Irán afirma haber llegado a un acuerdo con Omán sobre el transporte marítimo a través del estrecho de Ormuz. A la espera de que se confirmen estos avances, las.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
+    {
+      "title": "El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:27:49.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
       "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
+      "summary": "El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.",
+      "date": "2026-08-11"
+    },
     {
       "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
       "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
@@ -59,11 +64,6 @@
       "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
       "summary": "España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos",
-      "summary": "Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -72,7 +72,13 @@
       "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com",
       "publishedAt": "2026-08-10T20:45:38.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán",
+      "url": "https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T07:36:44.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

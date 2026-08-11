@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-11T08:51:50.349Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre",
+      "summary": "Se trata del encuentro anual más importante sobre comercio internacional que tiene lugar en la región.",
+      "date": "2026-08-11"
+    },
     {
       "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
       "summary": "El crecimiento del mercado inmobiliario es generalizado en toda España, pero hay un segmento donde está especialmente concentrado: el lujo. Así, aunque hay 46.454 viviendas a la...",
@@ -55,19 +60,14 @@
       "title": "Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio",
       "summary": "Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Vuelve el fútbol a Ceuta tras la invasión: \"Esto nos sirve para desinhibirnos\"",
-      "summary": "No son días fáciles los que se están viviendo en Ceuta, pero la ciudad intenta restablecer su rutina cuando ha pasado ya una semana de la invasión por parte de más de 70.000 inmigrantes. El fútbol ha vuelto este viernes al otro lado del Estrecho, con un amistoso entre el Ceuta y el Málaga. En ... Continuar leyendo \"Vue.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
-      "url": "https://amp.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-10T22:05:02.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre",
+      "url": "https://www.larazon.es/andalucia/andalucia-trade-global-2026-volvera-celebrarse-malaga-17-18-noviembre_202608116a7ae14371b42a0b5de91ba7.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-11T08:45:55.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

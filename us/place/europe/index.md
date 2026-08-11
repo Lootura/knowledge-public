@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far](https://www.pbs.org/newshour/world/uk-and-france-prepare-for-another-heat-wave-as-western-europe-has-its-3rd-hottest-year-on-record-so-far?utm_source=lootura.com) — 2026-08-10T16:30:14.000Z
+No public source links.

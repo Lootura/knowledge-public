@@ -3,20 +3,32 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa
+### "Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"
 
-El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.
+El Gobierno de Colombia declaró este lunes la situación de emergencia nacional tras el terremoto de magnitud 7,4 registrado cerca de la localidad de San José del Palmar, en el noroeste del país. El temblor ha dejado al menos 111 fallecidos y 87 heridos , de acuerdo con los informes preliminares de las autoridades local.
 
-Date: 2026-08-10
+Date: 2026-08-11
+
+### La crisis de Ceuta, lejos de solucionarse tras casi dos semanas, con "miles de personas deambulando"
+
+Casi dos semanas después de la entrada masiva de 80.000 inmigrantes en Ceuta , la crisis todavía está lejos de solucionarse. El Gobierno se vanagloria de haber devuelto a la mayoría de personas que cruzaron la frontera en apenas 48 horas, pero la situación en las calles de la ciudad autónoma continúa siendo muy complic.
+
+Date: 2026-08-11
 
 ### Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China
 
 El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la "amenaza" que puede suponer Leer.
+
+Date: 2026-08-10
+
+### El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa
+
+El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.
 
 Date: 2026-08-10
 
@@ -56,19 +68,8 @@ El Gobierno australiano se plantea dar un giro de 180 grados en su estrategia en
 
 Date: 2026-08-10
 
-### El Gobierno intensificará su ofensiva contra la tauromaquia antes de que acabe la legislatura
-
-Los socios del Gobierno han decidido apretar el acelerador en su ofensiva contra el mundo del toro . Sumar , coalición a la que pertenece el ministro de Cultura, Ernest Urtasun , ha añadido a sus habituales reivindicaciones una ofensiva parlamentaria con el fin de asfixiar económicamente al sector. El grupo parlamentar.
-
-Date: 2026-08-10
-
-### Chile cancela dos concesiones a Azvi y pone en alerta a Sacyr y OHLA
-
-El Gobierno del conservador José Antonio Kast ha encendido las alarmas entre los grandes grupos de infraestructuras del país después de que las autoridades chilenas hayan suspendido por sorpresa dos contratos de construcción de carreteras y posterior explotación a la española Azvi , una decisión inesperada que pone en.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- ["Tensa calma" en Manizales, a 80 kilómetros del epicentro: "Los vecinos están en la calle"](https://www.20minutos.es/internacional/tensa-calma-manizales-80-kilometros-epicentro-seismo-colombia-los-vecinos-estan-calle-por-si-hay-replicas_7024459_0.html?utm_source=lootura.com) — 2026-08-11T05:02:04.000Z
+- [La crisis de Ceuta, lejos de solucionarse tras casi dos semanas, con "miles de personas deambulando"](https://www.20minutos.es/nacional/crisis-ceuta-lejos-solucionarse-tras-casi-dos-semanas-con-miles-personas-deambulando-por-sus-calles_7024327_0.html?utm_source=lootura.com) — 2026-08-11T05:00:18.000Z
 - [Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China](https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html?utm_source=lootura.com) — 2026-08-10T20:46:43.000Z
-- [El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa](https://elpais.com/espana/2026-08-10/el-gobierno-mantiene-su-apoyo-a-la-fabrica-china-en-ferrol-pese-a-las-alertas-de-defensa.html?utm_source=lootura.com) — 2026-08-10T18:14:43.000Z

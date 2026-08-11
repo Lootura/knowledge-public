@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027](https://www.elconfidencial.com/espana/cataluna/2026-08-11/illa-junqueras-exploran-nuevo-acuerdo-presupuestos-generalitat_4403801/?utm_source=lootura.com) — 2026-08-11T03:00:00.000Z
+No public source links.

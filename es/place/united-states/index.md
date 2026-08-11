@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-11T08:51:50.349Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,15 +14,33 @@ Cada dos semanas sale un nuevo artículo sobre el declive de la lectura . En Est
 
 Date: 2026-08-11
 
-### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
+### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
 
-Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.
+Los precios del petróleo suben este martes a medida que las negociaciones entre Estados Unidos e Irán sobre un acuerdo de paz y la reapertura del estrecho de Ormuz han llegado a un punto muerto, mientras que las Bolsas se mantienen estables debido a la prolongada incertidumbre sobre las perspectivas de inflación global.
 
-Date: 2026-08-10
+Date: 2026-08-11
+
+### La disuasión nuclear de China: el as bajo la manga para dominar Asia-Pacífico
+
+Pekín pretende apuntalar su programa para asegurarse una futura anexión de Taiwán y sus otras reclamaciones territoriales. El objetivo inmediato es romper las alianzas de Estados Unidos con países vecinos y, llegado un conflicto, que nadie pueda hacerle frente. Sin embargo, también alimenta la espiral armamentista a ni.
+
+Date: 2026-08-11
+
+### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
+
+Date: 2026-08-11
 
 ### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
 
 El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
+
+Date: 2026-08-10
+
+### Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto
+
+Las primeros gestos de ayuda internacional para Colombia no han tardado en llegar después de que un terremoto de magnitud 7,4 sacudiera durante cuatro minutos al país este lunes, causando al menos 25 muertos. El secretario de Estado de Estados Unidos, Marco Rubio, ha tendido una mano solidaria al pueblo colombiano y ha.
 
 Date: 2026-08-10
 
@@ -50,26 +68,10 @@ Gabriel Rufián esbozó su clásica sonrisa pícara desde lo alto de la tribuna 
 
 Date: 2026-08-10
 
-### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
-
-El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.
-
-Date: 2026-08-10
-
-### Cuando el miedo decide: creencias políticas y giro conservador en América Latina
-
-Keiko Fujimori votaba el pasado 7 de junio en la segunda vuelta de las elecciones que le darían la presidencia de Perú. mbzfotos/Shutterstock En las últimas citas electorales de América Latina se constata un giro conservador entre una parte del electorado . La victoria de José Antonio Kast en Chile y las ajustadas vict.
-
-Date: 2026-08-10
-
-### Un malagueño consigue el pase de oro en America’s Got Talent con su parkour
-
-Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T07:27:49.000Z
 - [La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos](https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html?utm_source=lootura.com) — 2026-08-10T20:45:38.000Z
-- [Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html?utm_source=lootura.com) — 2026-08-10T16:37:48.000Z
+- [La disuasión nuclear de China: el as bajo la manga para dominar Asia-Pacífico](https://elordenmundial.com/china-armas-nucleares-disuasion-asia-pacifico/?utm_source=lootura.com) — 2026-08-11T08:33:14.000Z
+- [Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán](https://theobjective.com/internacional/2026-08-11/trump-turquia-avion-secreto-amenaza-iran/?utm_source=lootura.com) — 2026-08-11T07:36:44.000Z
 - [El futuro de la lectura](https://theobjective.com/elsubjetivo/opinion/2026-08-11/futuro-lectura-articulo-dudda/?utm_source=lootura.com) — 2026-08-11T03:25:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [La AEMET avisa por las temperaturas en la Comunidad Valenciana: «Valores significativamente elevados»](https://okdiario.com/comunidad-valenciana/aemet-avisa-temperaturas-comunidad-valenciana-valores-significativamente-elevados-19153168?utm_source=lootura.com) — 2026-08-11T04:55:23.000Z
+No public source links.

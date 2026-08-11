@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-11T08:52:22.235Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+
+Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that in.
+
+Date: 2026-08-11
 
 ### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
 
@@ -62,13 +68,7 @@ After a federal appeals court halted construction of the White House ballroom on
 
 Date: 2026-08-09
 
-### 'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics
-
-President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.
-
-Date: 2026-08-07
-
 ## Sources
 
 - [White House officials tamped down efforts to oust Max Miller in final days](https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353?utm_source=lootura.com) — 2026-08-10T20:05:33.000Z
-- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T02:29:56.000Z
+- [Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return?utm_source=lootura.com) — 2026-08-11T06:46:56.000Z
