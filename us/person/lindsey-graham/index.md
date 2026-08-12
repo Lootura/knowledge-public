@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:48:04.000Z
+No public source links.

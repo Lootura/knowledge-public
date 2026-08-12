@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Hallazgo insólito en un yacimiento urbano de Los Ángeles: descubren un sapo extinto de la Edad de Hielo que convivió con mamuts](https://okdiario.com/naturaleza/hallazgo-insolito-yacimiento-urbano-angeles-descubren-sapo-extinto-edad-hielo-que-convivio-mamuts-19140630?utm_source=lootura.com) — 2026-08-12T09:00:15.000Z
+No public source links.

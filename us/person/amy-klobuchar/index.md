@@ -40,7 +40,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Sen. Amy Klobuchar wins DFL primary in Minnesota governor's race, CBS News projects](https://www.cbsnews.com/minnesota/news/sen-amy-klobuchar-wins-dfl-primary-in-governors-race/?utm_source=lootura.com) — 2026-08-12T04:19:00.000Z
-- [Sen. Klobuchar projected winner of DFL primary in Minnesota governor's race](https://www.cbsnews.com/news/sen-amy-klobuchar-wins-dfl-primary-in-governors-race/?utm_source=lootura.com) — 2026-08-12T04:19:00.000Z
-- [Sen. Amy Klobuchar to face Lisa Demuth in Minnesota gubernatorial general election](https://www.nbcnews.com/video/sen-amy-klobuchar-to-face-lisa-demuth-in-minnesota-gubernatorial-general-election-268166725873?utm_source=lootura.com) — 2026-08-12T05:24:59.000Z
-- [Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth](https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell?utm_source=lootura.com) — 2026-08-12T03:28:31.000Z
+No public source links.

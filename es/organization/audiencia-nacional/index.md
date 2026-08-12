@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra
+
+Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras de Díez para obtener información comprometida sobre jueces, fiscales y mandos de la UCO Leer.
+
+Date: 2026-08-12
 
 ### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
 
@@ -62,12 +68,6 @@ El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Na
 
 Date: 2026-08-05
 
-### El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes
-
-El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra](https://www.elmundo.es/espana/2026/08/12/6a7c64aee85ecec7668b458c.html?utm_source=lootura.com) — 2026-08-12T12:19:17.000Z

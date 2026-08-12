@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Cómo los mapas han definido el 2026](https://elordenmundial.com/blitz-como-mapas-definido-2026-geopolitica/?utm_source=lootura.com) — 2026-08-12T07:46:44.000Z
+No public source links.

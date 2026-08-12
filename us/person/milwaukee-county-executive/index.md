@@ -28,5 +28,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Wisconsin Democratic governor primary too close to call between Crowley, Hong](https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com) — 2026-08-12T05:20:43.000Z
-- [In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor](https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong?utm_source=lootura.com) — 2026-08-12T08:06:55.000Z
+No public source links.

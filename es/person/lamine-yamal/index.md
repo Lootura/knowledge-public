@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Gavi, Fermín y otros rostros conocidos: los invitados a la gran fiesta de Lamine Yamal por sus 19 años](https://www.abc.es/gente/gavi-fermin-rostros-conocidos-invitados-gran-fiesta-20260812104331-nt.html?utm_source=lootura.com) — 2026-08-12T08:48:17.000Z
+No public source links.

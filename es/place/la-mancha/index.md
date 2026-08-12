@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
+
+El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
+
+Date: 2026-08-12
 
 ### La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo
 
@@ -62,12 +68,6 @@ El próximo 12 de agosto, España vivirá un momento "histórico", el primer ecl
 
 Date: 2026-08-02
 
-### Muere una mujer de 22 años atrapada en una máquina de una lavandería en Yeles (Toledo)
-
-Una trabajadora de 22 años ha fallecido en la mañana de este sábado tras quedar atrapada en una máquina de una lavandería en Yeles ( Toledo ). El servicio de emergencias 112 de Castilla-La Mancha ha informado de que este accidente laboral ha ocurrido a las 7.25 horas de este sábado en una lavandería ubicada en el Camin.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z

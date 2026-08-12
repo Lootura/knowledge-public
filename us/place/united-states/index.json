@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,21 +35,6 @@
   ],
   "changes": [
     {
-      "title": "Product availability changed in Europe",
-      "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "ICE plans to give officers gloves that can deliver electric shocks",
-      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "The watchdog's review warns the $4 billion federal funding loss now leaves the project needing billions in financing within 16 months — as the rail authority acknowledges for the first time that it still has no train contract, has cut its order from six trains to three, and has dropped the \"Buy America\" requirement.",
-      "date": "2026-08-12"
-    },
-    {
       "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
       "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts. (Image credit: Thalia Juarez for NPR).",
       "date": "2026-08-12"
@@ -60,49 +45,64 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
-      "summary": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.",
-      "date": "2026-08-12"
-    },
-    {
       "title": "NATO spending pressure returned",
       "summary": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.",
       "date": "2026-08-12"
     },
     {
-      "title": "Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse",
-      "summary": "Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins \"The Daily Report\" to break down what to expect from the solar eclipse on Wednesday.",
+      "title": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
+      "summary": "The Justice Department unveiled criminal charges alleging 11 people participated in a scheme that involved more than 1,000 \"sham marriages\" between Chinese nationals and U.S. citizens.",
       "date": "2026-08-12"
     },
     {
-      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "summary": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama. (Image credit: Maria Fabrizio).",
-      "date": "2026-08-11"
+      "title": "Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe",
+      "summary": "New comments from President Donald Trump confirm that he secretly swapped planes as he left an international summit because of a threat from Iran. A U.S. official tells NBC News that the threat included the possibility of the Iranian regime targeting the president with a shoulder-fired missile. NBC’s Gabe Gutierrez rep.",
+      "date": "2026-08-12"
     },
     {
-      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-      "summary": "A federal judge expanded a block on a key part of President Trump's order to restrict mail-in voting for this fall's midterms, banning the Postal Service from carrying out directives in every state. (Image credit: Nathan Howard).",
-      "date": "2026-08-11"
+      "title": "Has the U.S. lost its dominance to China?",
+      "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story \"The Future, Made in China.\".",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Want to catch a glimpse of the solar eclipse from North America? Here's where and when",
+      "summary": "If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Severe weather now a key predictor of where bird species occur in North America",
+      "summary": "Scorching heat waves, severe cold snaps and other extreme weather events are limiting where species can exist—and affecting biodiversity estimates—for more than 500 North American bird species, according to a new, Yale–led study. The issue is particularly acute in the Great Plains and southwestern regions of the United.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "What Living Through the Hottest July Ever Looked Like Across the U.S.",
+      "summary": "This July was the hottest month ever recorded in United States history. Last month’s average temperature was 3.3°F (1.8°C) higher than the 20th century average for the contiguous United States, according to new data from the National Oceanic and Atmospheric Administration. This was the warmest July —and warmest month—i.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
+      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Trump secretly switched to different plane in Turkey amid Iran missile threat",
-      "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:41:40.000Z",
+      "title": "Inflation cools slightly; New York City Council probes prediction markets like Kalshi and Polymarket",
+      "url": "https://www.cbsnews.com/video/inflation-cools-slightly-nyc-probes-prediction-markets-like-kalshi-and-polymarket/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T16:36:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "ICE plans to give officers gloves that can deliver electric shocks",
-      "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T00:59:23.000Z",
+      "title": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
+      "url": "https://www.cbsnews.com/news/chinese-nationals-charged-alleged-sham-marriage-scheme/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T16:45:32.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "California high-speed rail could run out of money by December 2027, as authority cuts train order in half",
-      "url": "https://www.cbsnews.com/news/california-high-speed-rail-run-out-of-money-2027-inspector-general/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:41:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe",
+      "url": "https://www.today.com/video/iranian-missile-threat-led-to-trump-s-plane-swap-official-says-268170309881?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T11:36:46.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
@@ -117,35 +117,35 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Has the U.S. lost its dominance to China?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T18:24:48.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T21:11:09.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "U.S. stocks edge further from their records as oil prices keep swinging",
-      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T21:59:54.000Z",
+      "title": "Want to catch a glimpse of the solar eclipse from North America? Here's where and when",
+      "url": "https://www.pbs.org/newshour/science/want-to-catch-a-glimpse-of-the-solar-eclipse-from-north-america-heres-where-and-when?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T13:45:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
-      "url": "https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T07:37:15.000Z",
+      "title": "Severe weather now a key predictor of where bird species occur in North America",
+      "url": "https://phys.org/news/2026-08-severe-weather-key-predictor-bird.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:40:06.000Z",
       "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "The U.S. Missile Stockpile Is Dangerously Low",
-      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T10:00:14.000Z",
+      "title": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T02:09:21.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "What Living Through the Hottest July Ever Looked Like Across the U.S.",
+      "url": "https://time.com/article/2026/08/12/us-record-hottest-july-photos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T18:25:59.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 9
 }

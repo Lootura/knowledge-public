@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
+      "summary": "El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»",
       "summary": "Aunque la actriz Amaia Salamanca es madrileña, muchos de sus recuerdos de niña están ligados a Vizcaya . ya que cuando llegaba el verano y las vacaciones, cambiaba Madrid por un pueblo entre montañas en el que vivía parte de su familia. Pasó tantos veranos allí durante su infancia y juventud que aquel lugar del País Va.",
@@ -67,19 +72,14 @@
       "title": "Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas",
       "summary": "La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la retahíla de celebraciones populares que tienen lugar en el País Vasco desde hoy hasta el próximo mes de septiembre. Como cada verano, el multitudinario evento en la capital alavesa se convirtió en un escenario donde la izquierda aberzale y o.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa",
-      "summary": "Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»",
-      "url": "https://okdiario.com/pais-vasco/amaia-salamanca-40-anos-revela-lugar-del-pais-vasco-que-marco-infancia-lo-tengo-corazon-19163695?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T05:15:38.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
+      "url": "https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:37:37.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

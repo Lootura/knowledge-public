@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos
+
+La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.
+
+Date: 2026-08-12
 
 ### El Ibex duda en zona de máximos en el día de la inflación de EE UU
 
@@ -62,12 +68,6 @@ El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , l
 
 Date: 2026-08-02
 
-### Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana
-
-Después de un julio de sobresaltos, que se despidió con los inversores tratando de descifrar las verdaderas intenciones de la Reserva Federal, los mercados se adentran en agosto, un mes en el que la escasa negociación y un flujo informativo más liviano suelen allanar el terreno para que la volatilidad campe a sus ancha.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-- [El Ibex duda en zona de máximos en el día de la inflación de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-12/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-12T07:54:01.000Z
+- [La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-12/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-12T15:51:51.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
+
+La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...
+
+Date: 2026-08-12
 
 ### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
 
@@ -62,12 +68,6 @@ El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y
 
 Date: 2026-08-06
 
-### Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”
-
-El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado claro este jueves en el Parlamento Europeo que, para él, lo sucedido los días 30 y 31 de julio “no es una crisis migratoria al uso”. “Es un episodio a través del que se ha puesto en jaque nuestra integridad: La de Ceuta, la de España, la de Euro.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- ["Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta](https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com) — 2026-08-12T11:47:49.000Z

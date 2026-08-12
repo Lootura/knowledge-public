@@ -3,10 +3,16 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### ¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles
+
+La información de que hace año y medio la empresa aeroespacial SpaceX reservó para estos días el parador burgalés de Lerma alimentó el rumor. ¿Estaría el magnate sudafricano en la ciudad para disfrutar del fenómeno astronómico? La provincia de Burgos está situada en la franja de mayor visibilidad y ha llamado la atenci.
+
+Date: 2026-08-12
 
 ### SpaceX inicia el proceso para poner millones de nuevas acciones en el mercado hasta 2027
 
@@ -52,4 +58,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles](https://www.lavanguardia.com/vida/20260812/11612821/donde-esta-elon-musk-lerma-busca-magnate-sudafricano-calles.html?utm_source=lootura.com) — 2026-08-12T19:40:33.000Z

@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Baby rescued from rubble in Colombia after devastating earthquake
 
 Footage shared on social media shows a baby being rescued from the bloody arms of a man trapped underneath a destroyed building in Cali after a powerful earthquake struck Colombia.
+
+Date: 2026-08-12
+
+### Colombia earthquake rescue volunteer reacts after pulling survivor from rubble
+
+Rescue workers are racing against the clock to free trapped survivors of the Colombia earthquake. Some success stories are emerging. CBS News' Lilia Luciano has more on the efforts.
 
 Date: 2026-08-12
 
@@ -62,15 +68,7 @@ Today marks one year since the National Guard was deployed to the nation's capit
 
 Date: 2026-08-11
 
-### Search Underway After Deadly 7.4 Earthquake Strikes Colombia
-
-An urgent search for survivors is underway in Colombia after a powerful 7.4-magnitude earthquake took many by surprise Monday morning. Rescuers are desperately digging through mountains of rubble to find those trapped inside buildings, as the death toll climbs to more than 130 people. NBC’s George Solis reports for TOD.
-
-Date: 2026-08-11
-
 ## Sources
 
+- [Colombia earthquake rescue volunteer reacts after pulling survivor from rubble](https://www.cbsnews.com/video/rescue-volunteer-recalls-pulling-woman-from-rubble-after-colombia-earthquake/?utm_source=lootura.com) — 2026-08-12T11:51:50.000Z
 - [Baby rescued from rubble in Colombia after devastating earthquake](https://www.cbsnews.com/news/baby-rescued-rubble-colombia-earthquake/?utm_source=lootura.com) — 2026-08-12T08:24:45.000Z
-- [Earthquake response strains Colombia's new government and rescuers](https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates?utm_source=lootura.com) — 2026-08-12T05:13:06.000Z
-- [As search for thousands of missing pushes on, Colombia earthquake tests new president](https://www.pbs.org/newshour/world/as-search-for-thousands-of-missing-pushes-on-colombia-earthquake-tests-new-president?utm_source=lootura.com) — 2026-08-11T21:36:53.000Z
-- [Search for earthquake survivors in Colombia enters critical phase](https://www.pbs.org/newshour/show/search-for-earthquake-survivors-in-colombia-enters-critical-phase?utm_source=lootura.com) — 2026-08-11T22:50:55.000Z

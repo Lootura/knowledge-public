@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### AP report: ICE plans to give its officers gloves that can deliver painful electric shocks
+
+Immigration and Customs Enforcement plans to spend up to $20 million to purchase thousands of gloves that can deliver painful electric shocks intended to gain compliance from individuals.
+
+Date: 2026-08-12
 
 ### ICE plans to give officers gloves that can deliver electric shocks
 
@@ -62,12 +68,6 @@ A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Im
 
 Date: 2026-07-16
 
-### Trump Pressures ICE to Resume Traffic Stops After They Were Halted Over Fatal Shootings
-
-Immigration and Customs Enforcement had ordered its officers to halt most vehicle stops across the country after they shot two people over the past week.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [ICE plans to give officers gloves that can deliver electric shocks](https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com) — 2026-08-12T00:59:23.000Z
+- [AP report: ICE plans to give its officers gloves that can deliver painful electric shocks](https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks?utm_source=lootura.com) — 2026-08-12T18:46:22.000Z

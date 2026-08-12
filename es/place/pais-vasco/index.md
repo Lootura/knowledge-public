@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
+
+El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
+
+Date: 2026-08-12
 
 ### Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»
 
@@ -62,12 +68,6 @@ La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la 
 
 Date: 2026-08-05
 
-### Estos son los escenarios de la Semana Grande de Donostia: mapa, conciertos y programación completa
-
-Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación que reunirá conciertos gratuitos , actividades deportivas, gastronomía y espectáculos para todos los públicos, consolidándose como una de las grandes citas festivas del verano en Euskadi. Las fiestas arrancarán con el tradicional Cañonazo en.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»](https://okdiario.com/pais-vasco/amaia-salamanca-40-anos-revela-lugar-del-pais-vasco-que-marco-infancia-lo-tengo-corazon-19163695?utm_source=lootura.com) — 2026-08-12T05:15:38.000Z
+- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z

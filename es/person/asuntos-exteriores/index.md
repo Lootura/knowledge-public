@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno](https://amp.elmundo.es/espana/2026/08/12/6a7b64b3fc6c83ca618b45b5.html?utm_source=lootura.com) — 2026-08-11T23:54:55.000Z
-- [Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas](https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com) — 2026-08-12T08:31:38.000Z
+No public source links.

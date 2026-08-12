@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -31,6 +31,11 @@
     {
       "title": "NATO spending pressure returned",
       "summary": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.",
       "date": "2026-08-12"
     },
     {
@@ -62,14 +67,15 @@
       "title": "Ukraine denies targeting Bulgaria after drone explodes near gas pipeline",
       "summary": "Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
-      "summary": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Trump addresses secret Air Force One swap as new questions swirl",
+      "url": "https://www.cbsnews.com/video/trump-addresses-secret-air-force-one-swap-as-new-questions-swirl/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T12:51:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com",
@@ -83,15 +89,9 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:46:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
       "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T02:09:20.000Z",
+      "publishedAt": "2026-08-12T02:09:21.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

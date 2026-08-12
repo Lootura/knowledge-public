@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas
+
+La operación policial en Muxía (A Coruña) contra una organización criminal dedicada a introducir grandes cantidades de droga en España se ha dado por concluida este miércoles con la detención de 26 personas , incluido un agente de la Guardia Civil , y el decomiso de más de 1.600 kilos de cocaína. Así lo han asegurado a.
+
+Date: 2026-08-12
 
 ### La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)
 
@@ -62,12 +68,6 @@ Date: 2026-08-08
 
 Date: 2026-08-08
 
-### Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos
-
-Un joven de origen subsahariano ha fallecido este viernes tras precipitarse al mar cuando intentaba acceder a Ceuta desde Marruecos utilizando un parapente en las inmediaciones del espigón de Benzú, según han informado fuentes de la Guardia Civil.El suceso se ha producido en torno a las 08.00 horas , momento en el que.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas](https://www.elconfidencial.com/espana/galicia/2026-08-12/muxia-costa-cocaina-narcotrafico-operacion-1tna-1tps_4405097/?utm_source=lootura.com) — 2026-08-12T15:24:00.000Z

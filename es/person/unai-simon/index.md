@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El aplauso de todo el Athletic a los tres campeones del mundo que ya entrenan en Lezama](https://www.elcorreo.com/athletic/aplauso-athletic-tres-campeones-mundo-entrenan-lezama-20260811125937-nt_amp.html?utm_source=lootura.com) — 2026-08-11T11:00:01.000Z
+No public source links.

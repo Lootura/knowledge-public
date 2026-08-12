@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos](https://www.elconfidencial.com/espana/madrid/2026-08-12/1qrt-eclipse-solar-hoy-madrid-acceso-sierra-cortes-restricciones-carreteras_4404718/?utm_source=lootura.com) — 2026-08-12T06:11:00.000Z
+No public source links.

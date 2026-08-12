@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación",
+      "summary": "Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
+      "summary": "El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Las espectaculares imágenes que deja el paso del eclipse por Europa",
+      "summary": "Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
       "summary": "La cuenta atrás para el que será el fenómeno astronómico del año ha comenzado. El primer eclipse total de sol visible desde la Península Ibérica en más de un siglo tendrá lugar el 12 de agosto al atardecer. La franja de totalidad, aquella zona geográfica donde toca la parte más oscura de la sombra que la luna proyecta.",
@@ -45,48 +60,27 @@
       "title": "¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles",
       "summary": "Manifestación en Madrid por el derecho a una vivienda digna en febrero de 2025. OSCAR GONZALEZ FUENTES/Shutterstock En el último año, el precio de la vivienda en España ha subido casi un 13 % , según el Instituto Nacional de la Vivienda. La causa principal del encarecimiento es, en palabras del Banco de España, la comb.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Chelsea-Real Sociedad y Ajax-Madrid, en la tercera ronda previa de la Champions femenina",
-      "summary": "Los nueve ganadores de esta eliminatoria accederán a la fase de liga del máximo torneo continental.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
-      "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
-      "summary": "El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
-      "url": "https://www.abc.es/viajar/destinos/espana/miradores-pueblos-puntos-observacion-comunidad-madrid-ver-20260809235346-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T08:19:46.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación",
+      "url": "https://www.elindependiente.com/espana/2026/08/12/si-todavia-no-ha-salido-de-la-ciudad-para-ver-el-eclipse-quedese-en-casa-retenciones-en-las-salidas-de-madrid-y-barcelona/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T15:28:13.000Z",
+      "sourceId": "lootura-es-el-independiente"
     },
     {
-      "title": "Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-12/1qrt-eclipse-solar-hoy-madrid-acceso-sierra-cortes-restricciones-carreteras_4404718/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T06:11:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
+      "url": "https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:37:37.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "El Molar se transforma en mirador astronómico para el eclipse con un despliegue de ocio y seguridad",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-12/el-molar-eclipse-ocio-seguridad_4404781/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T07:49:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»",
-      "url": "https://okdiario.com/pais-vasco/amaia-salamanca-40-anos-revela-lugar-del-pais-vasco-que-marco-infancia-lo-tengo-corazon-19163695?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T05:15:38.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Las espectaculares imágenes que deja el paso del eclipse por Europa",
+      "url": "https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T19:12:16.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

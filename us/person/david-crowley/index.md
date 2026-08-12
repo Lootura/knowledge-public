@@ -1,22 +1,40 @@
 # David Crowley
 
-> Follow David Crowley, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow David Crowley, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
-- Type: person
-- Updated: 2026-08-12T09:08:54.968Z
+- Type: organization
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/person/david-crowley
 
 ## Recent changes
 
-### Areas to Watch in Wisconsin’s Democratic Primary for Governor
-
-A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.
-
-Date: 2026-08-12
-
 ### Discovered by Atlas
 
 David Crowley first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-12
+
+### In upset, moderate David Crowley defeats democratic socialist Francesca Hong in Wisconsin gubernatorial primary
+
+David Crowley unexpectedly beat a progressive candidate in the Democratic primary for Wisconsin governor, and will face Republican Rep. Tom Tiffany on the ballot in November.
+
+Date: 2026-08-12
+
+### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
+
+David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
+
+Date: 2026-08-12
+
+### Wisconsin primary provided snapshot of Democratic party – can it now win?
+
+Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.
+
+Date: 2026-08-12
+
+### Areas to Watch in Wisconsin’s Democratic Primary for Governor
+
+A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.
 
 Date: 2026-08-12
 
@@ -46,7 +64,6 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Wisconsin Democratic governor primary too close to call between Crowley, Hong](https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com) — 2026-08-12T05:20:43.000Z
-- [In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor](https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong?utm_source=lootura.com) — 2026-08-12T08:06:55.000Z
-- [Areas to Watch in Wisconsin’s Democratic Primary for Governor](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-counties.html?utm_source=lootura.com) — 2026-08-12T01:19:47.000Z
-- [Crowley Beats Hong in Wisconsin Gubernatorial Democratic Primary](https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/?utm_source=lootura.com) — 2026-08-12T08:00:00.000Z
+- [In upset, moderate David Crowley defeats democratic socialist Francesca Hong in Wisconsin gubernatorial primary](https://www.cbsnews.com/news/wisconsin-democratic-primary-governor-results-francesca-hong-david-crowley/?utm_source=lootura.com) — 2026-08-12T12:59:38.000Z
+- [Wisconsin primary offers mixed signals for Democrats, and other election takeaways](https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com) — 2026-08-12T14:42:02.000Z
+- [Wisconsin primary provided snapshot of Democratic party – can it now win?](https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley?utm_source=lootura.com) — 2026-08-12T20:31:56.000Z

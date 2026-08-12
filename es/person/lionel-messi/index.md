@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»
+
+El futbolista argentino Leo Messi se ha despedido de su padre, Jorge Messi, fallecido el pasado sábado a los 68 años, con una emotiva carta publicada en sus redes sociales en la que recuerda su papel fundamental desde los inicios de su carrera y lamenta no haber podido compartir con él sus últimos grandes momentos sobr.
+
+Date: 2026-08-12
 
 ### Fallece el padre de Leo Messi a los 68 años
 
@@ -62,12 +68,6 @@ El argentino, neutralizado por España, se vino abajo ante su grada al recibir l
 
 Date: 2026-07-19
 
-### Lamine emula a Pelé y niega a Messi
-
-En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»](https://theobjective.com/deportes/futbol/2026-08-12/mensaje-despedida-messi-padre/?utm_source=lootura.com) — 2026-08-12T15:26:15.000Z

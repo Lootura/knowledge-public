@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
+
+El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
+
+Date: 2026-08-12
 
 ### La AEMET avisa por las temperaturas en la Comunidad Valenciana: «Valores significativamente elevados»
 
@@ -62,12 +68,6 @@ La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, tambi
 
 Date: 2026-08-07
 
-### España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera
-
-Las principales nacionalidades de los inmigrantes fueron la colombiana, la venezolana y la marroquí, con Comunidad Valenciana, Baleares y Asturias encabezando los mayores aumentos...
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z

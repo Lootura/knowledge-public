@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney
+
+El precio supone un récord para la NBA.
+
+Date: 2026-08-12
+
+### Ajenos al fenómeno del siglo: las 25 personas que cambiaron el eclipse por la Feria del Libro Viejo de Santander
+
+La charla del escritor Regino Mateo coincidió con la hora del acontecimiento: "Vamos a intentar eclipsar el eclipse con la cultura y la música" Entrevista - Regino Mateo, biógrafo de Bach: “El bombo me parece el instrumento adecuado para Trump” Dentro de unos años alguien les preguntará ¿dónde estabas el día del eclips.
+
+Date: 2026-08-12
+
+### Donald Trump anuncia que Karoline Leavitt, su secretaria de prensa, dejará el cargo este mes
+
+El presidente estadounidense asegura que pasará a ser una de sus principales asesoras externas.
+
+Date: 2026-08-12
 
 ### La caída de reservas anticipa un crudo a 140 dólares en otoño
 
@@ -50,24 +68,8 @@ El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un cami
 
 Date: 2026-08-11
 
-### Trump incide en la alarma sobre la vacunación infantil y reduce las dosis recomendadas para los niños
-
-Después de un trabajo de décadas por erradicar enfermedades y a pesar del consenso científico sobre los beneficios de las vacunas, el movimiento Make America Healthy Again (“Volver a Estados Unidos Saludable de Nuevo”), liderado por el secretario de Salud Robert Kennedy, está imponiendo su agenda antivacunas en la prim.
-
-Date: 2026-08-11
-
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
-### El Ibex sondea récords liderado por Amadeus y Repsol
-
-Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un acuerdo entre EEUU e Irán se diluye tras las nuevas exigencias de Trump. Las presiones del petróleo se reactivan, y obstaculizan el asalto a nuevos récords de la Bolsa europea. El Ibex, tras dos días de parón, mantiene el freno en zona de máxi.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://www.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-12T08:28:54.000Z
+- [Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney](https://www.elcorreo.com/deportes/venden-lakers-12500-millones-dolares-empresario-relacionado-20260812182504-nt_amp.html?utm_source=lootura.com) — 2026-08-12T16:25:04.000Z
+- [Ajenos al fenómeno del siglo: las 25 personas que cambiaron el eclipse por la Feria del Libro Viejo de Santander](https://www.eldiario.es/cantabria/feria-libro-viejo-santander-contraprograma-eclipse-25-personas-fenomeno-siglo_1_13443905.html?utm_source=lootura.com) — 2026-08-12T20:27:24.000Z
+- [Donald Trump anuncia que Karoline Leavitt, su secretaria de prensa, dejará el cargo este mes](https://theobjective.com/internacional/2026-08-12/trump-karoline-leavitt-secretaria-prensa/?amp=&utm_source=lootura.com) — 2026-08-12T20:24:49.000Z

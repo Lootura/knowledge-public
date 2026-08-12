@@ -3,16 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani
+### For Blakeman, Trump Could Make and Break His Bid to Lead New York
 
-A judge sided with homeowners who had sued New York City and argued that the introduction of the tax was mishandled. The city moved to appeal, meaning the rollout can proceed.
+Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### Jury in Luigi Mangione’s state trial will be anonymous, judge rules
 
@@ -70,4 +70,5 @@ Date: 2026-08-09
 
 ## Sources
 
-- [How a Staten Island Lawsuit Is Challenging Mamdani’s Second-Home Tax](https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html?utm_source=lootura.com) — 2026-08-12T00:25:38.000Z
+- [Inflation cools slightly; New York City Council probes prediction markets like Kalshi and Polymarket](https://www.cbsnews.com/video/inflation-cools-slightly-nyc-probes-prediction-markets-like-kalshi-and-polymarket/?utm_source=lootura.com) — 2026-08-12T16:36:44.000Z
+- [For Blakeman, Trump Could Make and Break His Bid to Lead New York](https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com) — 2026-08-12T16:24:54.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Robles blinda Ceuta y Melilla ante los reclamos de Rabat: «Son españolísimas»
+
+Frente a un ministro del Interior, Fernando Grande-Marlaska, que ha incluso minimizado la declaración de intención pública practicada por parte de Marruecos, que reclama para sí Ceuta y Melilla —«esas referencias no tienen ningún alcance», ha dicho—, una ministra de Defensa, Margarita Robles, que, sin vacilaciones, ha.
+
+Date: 2026-08-12
+
+### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
+
+La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...
+
+Date: 2026-08-12
+
+### En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles
+
+Marruecos reclama Ceuta y Melilla tras el asalto : «Este asunto sigue sobre la mesa»; Robles lanza un aviso a Marruecos y defiende al Ejército: «A Ceuta y Melilla no se las toca»; Ceuta, al borde del estallido con la sanidad y los servicios públicos colapsados tras el asalto; y el precio de las gafas para el eclipse se.
+
+Date: 2026-08-12
 
 ### Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol
 
@@ -50,24 +68,8 @@ El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Di
 
 Date: 2026-08-07
 
-### Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta
-
-El Gobierno registrará este viernes en el Congreso las solicitudes de comparecencia a petición propia y en periodo extraordinario de los ministros Fernando Grande-Marlaska, José Manuel Albares, Margarita Robles y Félix Bolaños para explicar la crisis migratoria en Ceuta por la que entraron más de 72.000 migrantes ilega.
-
-Date: 2026-08-07
-
-### Tellado denuncia que Vivas alertó días antes a Sánchez: «No se puso al teléfono y le dijeron no se preocupase»
-
-El secretario general del Partido Popular, Miguel Tellado, ha exigido los ceses del ministro de Interior, Fernando Grande-Marlaska, y la ministra de Defensa, Margarita Robles, por «no haber actuado» y porque «ninguno de los dos ha estado a la altura de las circunstancias», cuando «tenían información de que una avalanch.
-
-Date: 2026-08-04
-
-### Discovered by Atlas
-
-Margarita Robles first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Robles blinda Ceuta y Melilla ante los reclamos de Rabat: «Son españolísimas»](https://www.abc.es/espana/robles-blinda-ceuta-melilla-frente-reclamos-rabat-20260812140202-nt.html?utm_source=lootura.com) — 2026-08-12T19:38:11.000Z
+- ["Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta](https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com) — 2026-08-12T11:47:49.000Z
+- [En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles](https://theobjective.com/espana/2026-08-12/sumario-tarde-caos-ceuta-rapapolvo-robles/?utm_source=lootura.com) — 2026-08-12T17:50:00.000Z

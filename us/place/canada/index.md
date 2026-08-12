@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Want to catch a glimpse of the solar eclipse from North America? Here's where and when
+
+If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.
+
+Date: 2026-08-12
 
 ### At least 200 major wildfires burn across U.S. and Canada
 
@@ -62,12 +68,6 @@ Faced with another summer when wildfires have scorched millions of hectares of l
 
 Date: 2026-08-08
 
-### ‘I couldn’t breathe’: the deadly health burden of wildfire smoke
-
-Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canada’s biggest city turn an “almost post-apocalyptic” orange as it filled with light-s.
-
-Date: 2026-08-08
-
 ## Sources
 
-No public source links.
+- [Want to catch a glimpse of the solar eclipse from North America? Here's where and when](https://www.pbs.org/newshour/science/want-to-catch-a-glimpse-of-the-solar-eclipse-from-north-america-heres-where-and-when?utm_source=lootura.com) — 2026-08-12T13:45:18.000Z

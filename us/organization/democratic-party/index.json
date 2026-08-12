@@ -8,11 +8,36 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year",
+      "summary": "Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes him the 10th House incumbent to lose a primary so far this cycle — an unusually high figure that comes as Democrats push their leaders to pass the torch to a new, more progressive generation and Republicans continue to reckon with a party reb.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
+      "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
+      "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Wisconsin primary provided snapshot of Democratic party – can it now win?",
+      "summary": "Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
+      "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Wisconsin's Democratic showdown and more primary races to watch today",
       "summary": "South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
@@ -37,46 +62,39 @@
       "title": "How We’re Covering an ‘Identity Crisis’ in Politics",
       "summary": "Recent primary wins have posed critical questions for both Republicans and Democrats as they head into the fall midterms. Carolyn Ryan, managing editor of The New York Times, shares how reporters approach coverage of shifting political dynamics.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
-      "summary": "The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Wisconsin's Democratic showdown and more primary races to watch today",
-      "summary": "South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
-      "summary": "Progressive Democrats fight for primary wins in Wisconsin and Minnesota.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
-      "summary": "Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel",
-      "summary": "Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Wisconsin's Democratic showdown and more primary races to watch today",
-      "url": "https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:48:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year",
+      "url": "https://www.nbcnews.com/politics/2026-election/rep-john-larsons-defeat-connecticut-makes-10-house-members-lost-primar-rcna592119?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:35:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-berge-cooke.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T02:23:12.000Z",
+      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
+      "url": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T15:24:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
+      "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T14:42:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Wisconsin primary provided snapshot of Democratic party – can it now win?",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:31:56.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T18:36:52.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

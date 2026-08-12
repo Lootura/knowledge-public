@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### ¿Qué hará Sánchez sin La Mareta?
+
+A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.
+
+Date: 2026-08-12
 
 ### El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018
 
@@ -62,12 +68,6 @@ La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos 
 
 Date: 2026-07-23
 
-### El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo
-
-El Gobierno propone a Yolanda Díaz como directora general de la Organización Internacional del Trabajo (OIT), según ha podido saber EL PAÍS por fuentes conocedoras de la decisión y ha confirmado La Moncloa este jueves. La vicepresidenta segunda y ministra de Trabajo plantará cara a Gilbert F. Houngbo , que dirige desde.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [¿Qué hará Sánchez sin La Mareta?](https://www.larazon.es/opinion/que-hara-sanchez-mareta_202608126a7cd530a046ad6ebcae1141.html?utm_source=lootura.com) — 2026-08-12T20:18:58.000Z

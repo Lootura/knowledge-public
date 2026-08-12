@@ -3,7 +3,7 @@
 > Follow Count Binface, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/concept/count-binface
 
 ## Recent changes
@@ -14,19 +14,18 @@ Nigel Farage forced a new election in his parliamentary seat after coming under 
 
 Date: 2026-08-12
 
-### Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Nigel Farage
-
-Count Binface speaks to the media at the by-election declaration in Wigan, England, on June 19, 2026. —Ryan Jenkinson—Getty Images Satirical candidates are a long-standing tradition in British politics. When former Prime Minister Keir Starmer delivered a victory speech after winning his north London seat in the 2024 Ge.
-
-Date: 2026-08-12
-
 ### Discovered by Atlas
 
 Count Binface first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-12
 
+### Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Nigel Farage
+
+Count Binface speaks to the media at the by-election declaration in Wigan, England, on June 19, 2026. —Ryan Jenkinson—Getty Images Satirical candidates are a long-standing tradition in British politics. When former Prime Minister Keir Starmer delivered a victory speech after winning his north London seat in the 2024 Ge.
+
+Date: 2026-08-12
+
 ## Sources
 
-- [How Nigel Farage Ended Up Running Against Count Binface in Clacton](https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html?utm_source=lootura.com) — 2026-08-12T07:59:50.000Z
-- [Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Nigel Farage](https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
+- [How Nigel Farage Ended Up Running Against Count Binface in Clacton](https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html?utm_source=lootura.com) — 2026-08-12T20:37:57.000Z

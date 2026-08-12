@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra",
+      "summary": "Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras de Díez para obtener información comprometida sobre jueces, fiscales y mandos de la UCO Leer.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
       "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
@@ -65,13 +70,15 @@
       "title": "Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes",
       "summary": "El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes",
-      "summary": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra",
+      "url": "https://www.elmundo.es/espana/2026/08/12/6a7c64aee85ecec7668b458c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T12:19:17.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

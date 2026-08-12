@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación
+
+Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.
+
+Date: 2026-08-12
+
+### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
+
+El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
+
+Date: 2026-08-12
+
+### Las espectaculares imágenes que deja el paso del eclipse por Europa
+
+Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
+
+Date: 2026-08-12
 
 ### Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación
 
@@ -50,27 +68,8 @@ Manifestación en Madrid por el derecho a una vivienda digna en febrero de 2025.
 
 Date: 2026-08-11
 
-### Chelsea-Real Sociedad y Ajax-Madrid, en la tercera ronda previa de la Champions femenina
-
-Los nueve ganadores de esta eliminatoria accederán a la fase de liga del máximo torneo continental.
-
-Date: 2026-08-11
-
-### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
-
-La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.
-
-Date: 2026-08-11
-
-### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
-
-El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación](https://www.abc.es/viajar/destinos/espana/miradores-pueblos-puntos-observacion-comunidad-madrid-ver-20260809235346-nt.html?utm_source=lootura.com) — 2026-08-12T08:19:46.000Z
-- [Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos](https://www.elconfidencial.com/espana/madrid/2026-08-12/1qrt-eclipse-solar-hoy-madrid-acceso-sierra-cortes-restricciones-carreteras_4404718/?utm_source=lootura.com) — 2026-08-12T06:11:00.000Z
-- [El Molar se transforma en mirador astronómico para el eclipse con un despliegue de ocio y seguridad](https://www.elconfidencial.com/espana/madrid/2026-08-12/el-molar-eclipse-ocio-seguridad_4404781/?utm_source=lootura.com) — 2026-08-12T07:49:00.000Z
-- [Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»](https://okdiario.com/pais-vasco/amaia-salamanca-40-anos-revela-lugar-del-pais-vasco-que-marco-infancia-lo-tengo-corazon-19163695?utm_source=lootura.com) — 2026-08-12T05:15:38.000Z
+- [Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación](https://www.elindependiente.com/espana/2026/08/12/si-todavia-no-ha-salido-de-la-ciudad-para-ver-el-eclipse-quedese-en-casa-retenciones-en-las-salidas-de-madrid-y-barcelona/?utm_source=lootura.com) — 2026-08-12T15:28:13.000Z
+- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z
+- [Las espectaculares imágenes que deja el paso del eclipse por Europa](https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com) — 2026-08-12T19:12:16.000Z

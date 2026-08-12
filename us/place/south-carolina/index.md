@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina
+
+A first-time candidate who was always close to her brother's political orbit, Darline Graham overcame skepticism about her lack of experience in her campaign to replace him, as she moved forward Tuesday as the top vote-getter to runner-up Norman.
+
+Date: 2026-08-12
 
 ### Wisconsin Democratic governor primary too close to call between Crowley, Hong
 
@@ -62,14 +68,6 @@ This year has easily become the U.S.'s worst year for measles since 1991, as maj
 
 Date: 2026-07-24
 
-### Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat
-
-Voting booths at a polling location inside the Charles R. Drew Wellness Center during a primary election in Columbia, South Carolina, on June 9, 2026. —Sam Wolfe—Bloomberg/Getty Images The deadline for candidates to file their intent to run in the special Republican primary election to fill the late Sen. Lindsey Graham.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Wisconsin Democratic governor primary too close to call between Crowley, Hong](https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com) — 2026-08-12T05:20:43.000Z
-- [What to watch in primaries in Wisconsin and Minnesota and beyond](https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond?utm_source=lootura.com) — 2026-08-11T20:33:44.000Z
-- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z
+- [Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina](https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina?utm_source=lootura.com) — 2026-08-12T15:12:05.000Z

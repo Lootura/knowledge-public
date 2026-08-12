@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -25,6 +25,11 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»",
+      "summary": "El futbolista argentino Leo Messi se ha despedido de su padre, Jorge Messi, fallecido el pasado sábado a los 68 años, con una emotiva carta publicada en sus redes sociales en la que recuerda su papel fundamental desde los inicios de su carrera y lamenta no haber podido compartir con él sus últimos grandes momentos sobr.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Fallece el padre de Leo Messi a los 68 años",
       "summary": "El padre del futbolista argentino Leo Messi , Jorge Messi, ha fallecido esta madrugada a los 68 años en un hospital de la ciudad de Rosario (Argentina) tras varios meses de enfermedad, según ha informado el diario en línea argentino Infobae. Fue una figura fundamental en la carrera de su hijo, con el que se trasladó a.",
@@ -69,13 +74,15 @@
       "title": "Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: \"Tenemos que ser grandes en la derrota\"",
       "summary": "El argentino, neutralizado por España, se vino abajo ante su grada al recibir la medalla de plata. La albiceleste no tiró a puerta y sólo creó peligro en el minuto 119. Leer.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Lamine emula a Pelé y niega a Messi",
-      "summary": "En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-12/mensaje-despedida-messi-padre/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T15:26:15.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

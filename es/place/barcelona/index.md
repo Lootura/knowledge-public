@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación
+
+Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.
+
+Date: 2026-08-12
+
+### Cataluña se rinde al eclipse total: “Ya se ve, mamá”
+
+Centenares de personas se han concentrado la tarde de este miércoles en el castillo de Montjuïc de Barcelona, pero en vez de mirar hacia la ciudad, todas sus miradas se han dirigido hacia el cielo en sentido oeste para observar cómo la luna se iba sobreponiendo poco a poco, hasta cubrirlo casi totalmente, sobre el Sol.
+
+Date: 2026-08-12
+
+### Gonzalo Bernardos, economista y profesor: «Un jubilado español cobra más que uno alemán y nosotros tenemos salarios bastante más bajos»
+
+El sistema de pensiones vuelve a estar ahora en el centro del debate, debido a una reciente comparación realizada por el economista Gonzalo Bernardos a partir de lo que reciben los jubilados españoles con las prestaciones de otros países europeos. El economista y profesor de la Universidad de Barcelona, considera que E.
+
+Date: 2026-08-12
 
 ### El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno
 
@@ -50,25 +68,9 @@ El crecimiento del mercado inmobiliario es generalizado en toda España, pero ha
 
 Date: 2026-08-10
 
-### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
-
-Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
-
-Date: 2026-08-10
-
-### Los accidentes en atracciones de feria superan el centenar de heridos en diez años
-
-Los accidentes graves en atracciones de feria y parques de ocio en España han superado el centenar de heridos en los últimos diez años , tras el suceso registrado el pasado miércoles en la fiesta mayor de Tona ( Barcelona ), en el que nueve personas resultaron lesionadas, ocho de ellas menores de edad. Así lo recoge el.
-
-Date: 2026-08-10
-
-### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
-
-En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno](https://www.elconfidencial.com/espana/cataluna/2026-08-12/plan-barcelona-eclipse-antes-y-despues-1tna-1qrt_4403827/?utm_source=lootura.com) — 2026-08-12T05:53:00.000Z
-- [Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy](https://okdiario.com/cataluna/aemet-cielo-poco-nuboso-y-posibilidad-de-tormentas-en-barcelona-esta-tarde-19165694/amp?utm_source=lootura.com) — 2026-08-12T05:20:26.000Z
+- [Una avería eléctrica en la torre de control de Barcelona-El Prat causa retrasos y cancelaciones](https://elpais.com/economia/2026-08-12/una-averia-electrica-en-la-torre-de-control-de-barcelona-el-prat-causa-retrasos-y-cancelaciones.html?utm_source=lootura.com) — 2026-08-12T19:19:21.000Z
+- [Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación](https://www.elindependiente.com/espana/2026/08/12/si-todavia-no-ha-salido-de-la-ciudad-para-ver-el-eclipse-quedese-en-casa-retenciones-en-las-salidas-de-madrid-y-barcelona/?utm_source=lootura.com) — 2026-08-12T15:28:13.000Z
+- [Cataluña se rinde al eclipse total: “Ya se ve, mamá”](https://elpais.com/espana/catalunya/2026-08-12/cataluna-se-rinde-al-eclipse-total-ya-se-ve-mama.html?utm_source=lootura.com) — 2026-08-12T19:28:17.000Z
+- [Gonzalo Bernardos, economista y profesor: «Un jubilado español cobra más que uno alemán y nosotros tenemos salarios bastante más bajos»](https://okdiario.com/economia/advertencia-gonzalo-bernardos-economista-profesor-jubilado-espanol-cobra-mas-que-uno-aleman-nosotros-tenemos-salarios-bastante-mas-bajos-19142349?utm_source=lootura.com) — 2026-08-12T19:46:10.000Z

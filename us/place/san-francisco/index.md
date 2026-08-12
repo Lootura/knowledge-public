@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Astronomer's tips for a good solar eclipse viewing](https://www.cbsnews.com/video/astronomer-tips-good-solar-eclipse-viewing/?utm_source=lootura.com) — 2026-08-12T00:50:43.000Z
+No public source links.

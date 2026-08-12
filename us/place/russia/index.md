@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Former U.S. Marine held in Russia on disputed charges has been released](https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia?utm_source=lootura.com) — 2026-08-12T05:27:13.000Z
-- [Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles](https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com) — 2026-08-11T20:16:50.000Z
+No public source links.

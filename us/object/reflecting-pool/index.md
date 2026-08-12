@@ -3,10 +3,16 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### White House asked DOJ about new Reflecting Pool case against David Hearn
+
+Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
+
+Date: 2026-08-12
 
 ### White House asked DOJ about new Reflecting Pool case against David Hearn
 
@@ -62,12 +68,6 @@ President Trump took reporter questions on the Iran war, the renovation of the r
 
 Date: 2026-08-03
 
-### Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped
-
-Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a "botched installation" rather than vandalism. That has implications for other people who were charged. (Image credit: Finn Gomez).
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-12T12:21:28.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### ¿Qué hará Sánchez sin La Mareta?
+
+A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.
+
+Date: 2026-08-12
 
 ### Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas
 
@@ -62,13 +68,6 @@ Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límit
 
 Date: 2026-08-11
 
-### El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta
-
-Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas ponen en duda la oportunidad de los contenidos difundidos en las redes del presidente.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas](https://cincodias.elpais.com/mercados-financieros/2026-08-12/los-diamantes-ven-esfumarse-en-tres-anos-la-mitad-de-su-valor-ante-el-auge-de-las-copias-sinteticas.html?utm_source=lootura.com) — 2026-08-12T03:30:01.000Z
-- [¿Y si Putin tomara ejemplo de Marruecos?](https://theobjective.com/elsubjetivo/opinion/2026-08-12/putin-ejemplo-marruecos-articulo-esperanza-aguirre/?utm_source=lootura.com) — 2026-08-12T03:25:00.000Z
+- [¿Qué hará Sánchez sin La Mareta?](https://www.larazon.es/opinion/que-hara-sanchez-mareta_202608126a7cd530a046ad6ebcae1141.html?utm_source=lootura.com) — 2026-08-12T20:18:58.000Z

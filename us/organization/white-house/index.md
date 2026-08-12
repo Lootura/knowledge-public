@@ -3,10 +3,34 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Karoline Leavitt says she's leaving her role as press secretary
+
+Karoline Leavitt announced Wednesday that she will be departing her role as press secretary at the end of the month. CBS News White House reporter Olivia Rinaldi has more.
+
+Date: 2026-08-12
+
+### White House asked DOJ about new Reflecting Pool case against David Hearn
+
+Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
+
+Date: 2026-08-12
+
+### Which Trump Officials Joined Him on His Secret Flight Out of Turkey?
+
+The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
+
+Date: 2026-08-12
+
+### Karoline Leavitt to Step Down as White House Press Secretary
+
+White House Press Secretary Karoline Leavitt speaks during a press briefing in the Brady Briefing Room of the White House in Washington, DC, on July 23, 2026. —SAUL LOEB–AFP via Getty Images Karoline Leavitt will step away from her position as White House Press Secretary at the end of this month, President Trump announ.
+
+Date: 2026-08-12
 
 ### NATO spending pressure returned
 
@@ -44,30 +68,9 @@ Elaborate ruse was used to transport president to military flight from Air Force
 
 Date: 2026-08-11
 
-### White House officials tamped down efforts to oust Max Miller in final days
-
-Members of President Donald Trump’s political team asked Ohio Republicans last week not to wage a public pressure campaign against embattled GOP Rep. Max Miller, after they became increasingly convinced he wouldn't end his reelection bid. Their engagement, according to three people granted anonymity to share direct kno.
-
-Date: 2026-08-10
-
-### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
-
-Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
-
-Date: 2026-08-10
-
-### Trump signs executive order on childhood vaccine recommendations
-
-The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.
-
-Date: 2026-08-10
-
-### Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen
-
-President Donald Trump speaks to the press after signing an Executive Order in the Oval Office of the White House on March 31, 2026. —Brendan Smialowski—Getty Images Iranian Foreign Minister Abbas Araghchi on Sunday said an agreement with Oman to define new shipping routes through the Strait of Hormuz was in its “final.
-
-Date: 2026-08-10
-
 ## Sources
 
-No public source links.
+- [Karoline Leavitt says she's leaving her role as press secretary](https://www.cbsnews.com/video/trump-says-karoline-leavitt-leaving-role-press-secretary/?utm_source=lootura.com) — 2026-08-12T20:14:45.000Z
+- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-12T12:21:28.000Z
+- [Which Trump Officials Joined Him on His Secret Flight Out of Turkey?](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html?utm_source=lootura.com) — 2026-08-12T19:49:59.000Z
+- [Karoline Leavitt to Step Down as White House Press Secretary](https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/?utm_source=lootura.com) — 2026-08-12T20:22:21.000Z

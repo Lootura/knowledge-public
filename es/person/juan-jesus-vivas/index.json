@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "\"Tengo mucho miedo\": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta",
+      "summary": "La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...",
+      "date": "2026-08-12"
+    },
     {
       "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
       "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
@@ -59,13 +64,15 @@
       "title": "Juan Jesús Vivas: \"Pensaba que el giro del Sáhara era a cambio del respeto de Rabat\"",
       "summary": "El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y duda de la efectividad de las boyas Leer.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Vivas ante la Eurocámara: “La seguridad de Ceuta está en manos de un tercero, Marruecos, que no reconoce nuestra soberanía”",
-      "summary": "El presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas , ha dejado claro este jueves en el Parlamento Europeo que, para él, lo sucedido los días 30 y 31 de julio “no es una crisis migratoria al uso”. “Es un episodio a través del que se ha puesto en jaque nuestra integridad: La de Ceuta, la de España, la de Euro.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "\"Tengo mucho miedo\": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta",
+      "url": "https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T11:47:49.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

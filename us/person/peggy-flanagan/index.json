@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.json",
   "description": "Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "Flanagan",
     "Peggy"
   ],
   "changes": [
+    {
+      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
+      "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Even some progressives are happy about Hong’s loss",
+      "summary": "After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stunning loss in Wisconsin’s Democratic gubernatorial primary Tuesday night revealed limits to the far left’s power — and is undercutting the narrative of an emerging insurgency. While progressive Peggy Flanagan cruised by 20 points in Minnesota.",
+      "date": "2026-08-12"
+    },
     {
       "title": "'We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary",
       "summary": "Lt. Gov. Peggy Flanagan speaks with her supporters after defeating Rep. Angie Craig in the Democratic primary for the Senate in Minnesota, NBC News projects, a major push for her party’s progressive wing.",
@@ -42,13 +52,13 @@
   ],
   "sources": [
     {
-      "title": "'We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary",
-      "url": "https://www.nbcnews.com/video/lt-gov-peggy-flanagan-wins-minnesota-democratic-senate-primary-268167749554?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T05:58:55.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
+      "url": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T15:24:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "The far left hits a wall",
+      "title": "Even some progressives are happy about Hong’s loss",
       "url": "https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com",
       "publishedAt": "2026-08-12T07:54:42.000Z",
       "sourceId": "lootura-us-politico"

@@ -3,10 +3,22 @@
 > Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/person/peggy-flanagan
 
 ## Recent changes
+
+### Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats
+
+Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.
+
+Date: 2026-08-12
+
+### Even some progressives are happy about Hong’s loss
+
+After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stunning loss in Wisconsin’s Democratic gubernatorial primary Tuesday night revealed limits to the far left’s power — and is undercutting the narrative of an emerging insurgency. While progressive Peggy Flanagan cruised by 20 points in Minnesota.
+
+Date: 2026-08-12
 
 ### 'We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary
 
@@ -40,5 +52,5 @@ Date: 2026-08-09
 
 ## Sources
 
-- ['We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary](https://www.nbcnews.com/video/lt-gov-peggy-flanagan-wins-minnesota-democratic-senate-primary-268167749554?utm_source=lootura.com) — 2026-08-12T05:58:55.000Z
-- [The far left hits a wall](https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com) — 2026-08-12T07:54:42.000Z
+- [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
+- [Even some progressives are happy about Hong’s loss](https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com) — 2026-08-12T07:54:42.000Z

@@ -70,5 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles](https://elpais.com/economia/2026-08-12/el-principio-del-fin-para-los-sobres-de-ketchup-y-mayonesa-claves-de-la-ley-de-envases-que-echa-a-andar-este-miercoles.html?utm_source=lootura.com) — 2026-08-12T03:45:01.000Z
-- [Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas](https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com) — 2026-08-12T08:31:38.000Z
+No public source links.

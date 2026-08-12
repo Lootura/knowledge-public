@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI chatbots are offering financial advice. Should you trust them?
+
+Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).
+
+Date: 2026-08-12
+
+### Agentic profiles for effective AI governance
+
+Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.
+
+Date: 2026-08-12
 
 ### Will AI make our dreams all look the same?
 
@@ -17,12 +29,6 @@ Date: 2026-08-12
 ### AI tools speed up analysis, but scientific truths must be grounded in reality
 
 Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.
-
-Date: 2026-08-12
-
-### AI chatbots are offering financial advice. Should you trust them?
-
-Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).
 
 Date: 2026-08-12
 
@@ -62,14 +68,7 @@ Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI
 
 Date: 2026-08-11
 
-### AI tools speed up analysis, but scientific truths must be grounded in reality
-
-Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Will AI make our dreams all look the same?](https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com) — 2026-08-12T09:08:59.281Z
-- [AI tools speed up analysis, but scientific truths must be grounded in reality](https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com) — 2026-08-12T09:08:59.280Z
+- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-12T20:40:47.187Z
 - [AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z

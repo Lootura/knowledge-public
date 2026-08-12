@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Has the U.S. lost its dominance to China?
+
+Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story "The Future, Made in China.".
+
+Date: 2026-08-12
 
 ### Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense
 
@@ -62,12 +68,6 @@ China’s factories are finding eager buyers abroad even as weak consumer spendi
 
 Date: 2026-08-07
 
-### Boron layers could set a superconductivity record, theoretical study predicts
-
-Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive cooling equipment.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Has the U.S. lost its dominance to China?](https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china?utm_source=lootura.com) — 2026-08-12T18:24:48.000Z

@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Total solar eclipse darkens skies across Northern Hemisphere",
+      "summary": "The only total solar eclipse of 2026 crossed the Northern Hemisphere today, with a path of totality across parts of Greenland, Iceland and northern Spain. See photos and video from the best viewing locations.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Spain witnesses first total solar eclipse in 27 years",
+      "summary": "NBC News’ Raf Sanchez reports on the ground in Spain as crowds revel and cheer at the total solar eclipse taking place during the sunset hour.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades",
+      "summary": "Millions of people crowded cloudless cities and towns in Spain on Wednesday in search of the best views of a total solar eclipse, when the alignment of the sun, moon and Earth will briefly plunge parts of the planet into darkness.",
+      "date": "2026-08-12"
+    },
     {
       "title": "What to know about today's total solar eclipse",
       "summary": "The only total solar eclipse of 2026 will cross the Northern Hemisphere on Wednesday, Aug. 12, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.",
@@ -49,36 +64,27 @@
       "title": "How Spain’s migration surge tested E.U. border policy",
       "summary": "An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
-      "summary": "The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
-      "summary": "Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
-      "summary": "Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "What to know about today's total solar eclipse",
+      "title": "Total solar eclipse darkens skies across Northern Hemisphere",
       "url": "https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T07:08:11.000Z",
+      "publishedAt": "2026-08-12T20:01:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Total solar eclipse to spellbind Europe",
-      "url": "https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T08:40:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Watch: Spain witnesses first total solar eclipse in 27 years",
+      "url": "https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T18:42:24.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades",
+      "url": "https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T19:50:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex termina en rojo, pero sigue en zona de máximos
+
+Los dos grandes focos de la semana confluyen en la sesión de hoy. Los nuevos ataques registrados en Irán alejan el acuerdo, y las presiones que ejerce el petróleo añaden más tensión de cara al IPC de EEUU. El Ibex aguarda mayores novedades con cambios reducidos, nuevamente en zona de máximos.
+
+Date: 2026-08-12
 
 ### El Ibex espera el IPC de EEUU con la presión del petróleo
 
@@ -62,15 +68,6 @@ El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los 
 
 Date: 2026-08-11
 
-### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
-
-El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Irán nombra a un halcón al frente del Consejo de Seguridad en pleno pulso por Ormuz](https://www.elmundo.es/internacional/2026/08/11/6a7b4294fdddff76708b459e.html?utm_source=lootura.com) — 2026-08-11T20:51:28.000Z
-- [El ejército estadounidense abre fuego contra un barco de bandera panameña que ha intentado romper el bloqueo en Irán](https://www.elmundo.es/internacional/2026/08/11/6a7b7b0ae85ece8c218b45ab.html?utm_source=lootura.com) — 2026-08-11T19:50:52.000Z
-- [El Ibex espera el IPC de EEUU con la presión del petróleo](https://www.expansion.com/mercados/2026/08/12/6a7c0853e5fdeaca0e8b45a8.html?utm_source=lootura.com) — 2026-08-12T08:22:39.000Z
-- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://www.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-12T08:28:54.000Z
+- [El Ibex termina en rojo, pero sigue en zona de máximos](https://www.expansion.com/mercados/2026/08/12/6a7c0853e5fdeaca0e8b45a8.html?utm_source=lootura.com) — 2026-08-12T16:04:04.000Z

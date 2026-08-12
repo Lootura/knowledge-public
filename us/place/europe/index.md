@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europe sees first total solar eclipse in 27 years | Special Report
+
+Europe on Wednesday experienced its first solar eclipse in nearly three decades. Lindsey Reiser anchored CBS News' special coverage.
+
+Date: 2026-08-12
+
+### Excitement Builds Across Europe for Rare Total Solar Eclipse
+
+Excitement is building across Europe ahead of the continent’s first total solar eclipse in more than 25 years. The sun will be completely covered by the moon for just one minute and 43 seconds, but it is long enough to attract nearly half a million tourists who will be gazing skyward. NBC’s Raf Sanchez reports for TODA.
+
+Date: 2026-08-12
+
+### PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades
+
+Millions of people crowded cloudless cities and towns in Spain on Wednesday in search of the best views of a total solar eclipse, when the alignment of the sun, moon and Earth will briefly plunge parts of the planet into darkness.
+
+Date: 2026-08-12
 
 ### Looking to see the solar eclipse from North America? Here's where and when to catch a sliver
 
@@ -50,26 +68,8 @@ Much of Europe is bracing for another scorching heat wave following periods of r
 
 Date: 2026-08-10
 
-### How Spain’s migration surge tested E.U. border policy
-
-An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.
-
-Date: 2026-08-10
-
-### Steam hardware shipper breach leaks customer data, including names and addresses
-
-Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The.
-
-Date: 2026-08-10
-
-### Heatwaves have killed millions. Here’s how scientists tally lives lost
-
-Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Looking to see the solar eclipse from North America? Here's where and when to catch a sliver](https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html?utm_source=lootura.com) — 2026-08-12T07:37:15.000Z
-- [Total solar eclipse to spellbind Europe](https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html?utm_source=lootura.com) — 2026-08-12T08:40:01.000Z
-- [Europe is the world’s fastest warming continent. What is to blame?](https://www.theguardian.com/world/2026/aug/12/europe-worlds-fastest-warming-continent-climate-crisis-explainer?utm_source=lootura.com) — 2026-08-12T06:00:22.000Z
+- [Europe sees first total solar eclipse in 27 years | Special Report](https://www.cbsnews.com/video/europe-sees-first-total-solar-eclipse-in-27-years-special-report/?utm_source=lootura.com) — 2026-08-12T20:32:57.000Z
+- [Excitement Builds Across Europe for Rare Total Solar Eclipse](https://www.today.com/video/excitement-builds-in-europe-for-first-total-solar-eclipse-in-25-years-268170821964?utm_source=lootura.com) — 2026-08-12T11:57:43.000Z
+- [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z

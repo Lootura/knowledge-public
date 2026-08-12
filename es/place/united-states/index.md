@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-12T05:21:37.000Z
-- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://www.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-12T08:28:54.000Z
+- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-12T09:55:08.000Z

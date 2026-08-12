@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles",
+      "summary": "La información de que hace año y medio la empresa aeroespacial SpaceX reservó para estos días el parador burgalés de Lerma alimentó el rumor. ¿Estaría el magnate sudafricano en la ciudad para disfrutar del fenómeno astronómico? La provincia de Burgos está situada en la franja de mayor visibilidad y ha llamado la atenci.",
+      "date": "2026-08-12"
+    },
     {
       "title": "SpaceX inicia el proceso para poner millones de nuevas acciones en el mercado hasta 2027",
       "summary": "Space Exploration Technologies Corporation, conocida como SpaceX, liberó este jueves 911 millones de acciones tras expirar el primer periodo de bloqueo impuesto a los títulos en manos de directivos y trabajadores en la salida a Bolsa del pasado junio. El grupo fundado por Elon Musk en 2002 con el ambicioso objetivo de.",
@@ -47,6 +52,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles",
+      "url": "https://www.lavanguardia.com/vida/20260812/11612821/donde-esta-elon-musk-lerma-busca-magnate-sudafricano-calles.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T19:40:33.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

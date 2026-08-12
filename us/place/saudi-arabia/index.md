@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says](https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html?utm_source=lootura.com) — 2026-08-12T08:55:55.000Z
+No public source links.

@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T09:23:19.790Z",
+  "generatedAt": "2026-08-12T20:55:37.738Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|124|1786525714474",
+    "signature": "1.18.0|125|1786567215873",
     "version": "1.18.0",
-    "build": 124,
-    "latestEntityUpdatedAt": "2026-08-12T09:08:34.474Z"
+    "build": 125,
+    "latestEntityUpdatedAt": "2026-08-12T20:40:15.873Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-colombia",
-      "name": "República de Colombia",
+      "id": "es-barcelona",
+      "name": "Barcelona",
       "type": "place",
-      "title": "Última hora del terremoto en Colombia hoy en directo: fallecidos, rescates, desaparecidos y balance de víctimas en vivo",
-      "url": "https://atlas.lootura.com/es/place/colombia",
-      "path": "/es/place/colombia",
-      "updatedAt": "2026-08-12T09:08:34.474Z",
-      "score": 1709,
-      "sourceCount": 101,
+      "title": "Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación",
+      "url": "https://atlas.lootura.com/es/place/barcelona",
+      "path": "/es/place/barcelona",
+      "updatedAt": "2026-08-12T20:40:15.873Z",
+      "score": 1683,
+      "sourceCount": 149,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-08-12T09:08:34.474Z",
-        "score": 1700,
-        "sourceCount": 695,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-espana",
         "name": "España",
@@ -47,39 +34,52 @@
         "title": "Fragmento del día: España",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-12T09:08:34.474Z",
+        "updatedAt": "2026-08-12T20:40:15.873Z",
         "score": 1683,
-        "sourceCount": 1071,
+        "sourceCount": 1099,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-barcelona",
-        "name": "Barcelona",
+        "id": "es-madrid",
+        "name": "Madrid",
         "type": "place",
-        "title": "El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno",
-        "url": "https://atlas.lootura.com/es/place/barcelona",
-        "path": "/es/place/barcelona",
-        "updatedAt": "2026-08-12T09:08:34.474Z",
-        "score": 1673,
-        "sourceCount": 145,
+        "title": "Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-12T20:40:15.873Z",
+        "score": 1676,
+        "sourceCount": 698,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-12T09:08:34.474Z",
-        "score": 1651,
-        "sourceCount": 215,
+        "id": "es-pais-vasco",
+        "name": "País Vasco",
+        "type": "place",
+        "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
+        "url": "https://atlas.lootura.com/es/place/pais-vasco",
+        "path": "/es/place/pais-vasco",
+        "updatedAt": "2026-08-12T20:40:15.873Z",
+        "score": 1672,
+        "sourceCount": 44,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-san-sebastian",
+        "name": "San Sebastián",
+        "type": "place",
+        "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
+        "url": "https://atlas.lootura.com/es/place/san-sebastian",
+        "path": "/es/place/san-sebastian",
+        "updatedAt": "2026-08-12T20:40:15.873Z",
+        "score": 1670,
+        "sourceCount": 54,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 197
+    "publicEntityCount": 198
   }
 }

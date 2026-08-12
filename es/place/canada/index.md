@@ -52,4 +52,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»](https://okdiario.com/deportes/reflexion-rafa-jodar-hacer-historia-canada-intento-seguir-propio-camino-19166893?utm_source=lootura.com) — 2026-08-12T08:57:22.000Z
+No public source links.

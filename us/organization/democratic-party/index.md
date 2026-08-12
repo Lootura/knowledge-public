@@ -3,10 +3,40 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year
+
+Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes him the 10th House incumbent to lose a primary so far this cycle — an unusually high figure that comes as Democrats push their leaders to pass the torch to a new, more progressive generation and Republicans continue to reckon with a party reb.
+
+Date: 2026-08-12
+
+### Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats
+
+Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.
+
+Date: 2026-08-12
+
+### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
+
+David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
+
+Date: 2026-08-12
+
+### Wisconsin primary provided snapshot of Democratic party – can it now win?
+
+Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.
+
+Date: 2026-08-12
+
+### Three Questions for Democrats After an Eye-Opening Loss for Progressives
+
+Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.
+
+Date: 2026-08-12
 
 ### Wisconsin's Democratic showdown and more primary races to watch today
 
@@ -38,37 +68,10 @@ Recent primary wins have posed critical questions for both Republicans and Democ
 
 Date: 2026-08-11
 
-### Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations
-
-The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.
-
-Date: 2026-08-11
-
-### Wisconsin's Democratic showdown and more primary races to watch today
-
-South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
-
-Date: 2026-08-11
-
-### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
-
-Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
-
-Date: 2026-08-11
-
-### All Eyes on Key Midterm Primaries in Wisconsin and Minnesota
-
-Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.
-
-Date: 2026-08-11
-
-### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
-
-Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:48:04.000Z
-- [Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-berge-cooke.html?utm_source=lootura.com) — 2026-08-12T02:23:12.000Z
+- [Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year](https://www.nbcnews.com/politics/2026-election/rep-john-larsons-defeat-connecticut-makes-10-house-members-lost-primar-rcna592119?utm_source=lootura.com) — 2026-08-12T20:35:00.000Z
+- [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
+- [Wisconsin primary offers mixed signals for Democrats, and other election takeaways](https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com) — 2026-08-12T14:42:02.000Z
+- [Wisconsin primary provided snapshot of Democratic party – can it now win?](https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley?utm_source=lootura.com) — 2026-08-12T20:31:56.000Z
+- [Three Questions for Democrats After an Eye-Opening Loss for Progressives](https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html?utm_source=lootura.com) — 2026-08-12T18:36:52.000Z

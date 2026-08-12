@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-12T20:40:38.161Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
@@ -17,6 +17,11 @@
     {
       "title": "Baby rescued from rubble in Colombia after devastating earthquake",
       "summary": "Footage shared on social media shows a baby being rescued from the bloody arms of a man trapped underneath a destroyed building in Cali after a powerful earthquake struck Colombia.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Colombia earthquake rescue volunteer reacts after pulling survivor from rubble",
+      "summary": "Rescue workers are racing against the clock to free trapped survivors of the Colombia earthquake. Some success stories are emerging. CBS News' Lilia Luciano has more on the efforts.",
       "date": "2026-08-12"
     },
     {
@@ -58,38 +63,21 @@
       "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
       "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Search Underway After Deadly 7.4 Earthquake Strikes Colombia",
-      "summary": "An urgent search for survivors is underway in Colombia after a powerful 7.4-magnitude earthquake took many by surprise Monday morning. Rescuers are desperately digging through mountains of rubble to find those trapped inside buildings, as the death toll climbs to more than 130 people. NBC’s George Solis reports for TOD.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
+    {
+      "title": "Colombia earthquake rescue volunteer reacts after pulling survivor from rubble",
+      "url": "https://www.cbsnews.com/video/rescue-volunteer-recalls-pulling-woman-from-rubble-after-colombia-earthquake/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T11:51:50.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Baby rescued from rubble in Colombia after devastating earthquake",
       "url": "https://www.cbsnews.com/news/baby-rescued-rubble-colombia-earthquake/?utm_source=lootura.com",
       "publishedAt": "2026-08-12T08:24:45.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Earthquake response strains Colombia's new government and rescuers",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T05:13:06.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president",
-      "url": "https://www.pbs.org/newshour/world/as-search-for-thousands-of-missing-pushes-on-colombia-earthquake-tests-new-president?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T21:36:53.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Search for earthquake survivors in Colombia enters critical phase",
-      "url": "https://www.pbs.org/newshour/show/search-for-earthquake-survivors-in-colombia-enters-critical-phase?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T22:50:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

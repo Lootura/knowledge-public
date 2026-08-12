@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [California high-speed rail could run out of money by December 2027, as authority cuts train order in half](https://www.cbsnews.com/news/california-high-speed-rail-run-out-of-money-2027-inspector-general/?utm_source=lootura.com) — 2026-08-12T01:41:32.000Z
+- [His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize](https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi?utm_source=lootura.com) — 2026-08-12T13:00:19.000Z

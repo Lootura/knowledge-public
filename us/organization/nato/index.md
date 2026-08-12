@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-12
 ### NATO spending pressure returned
 
 The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
+
+Date: 2026-08-12
+
+### NATO spending pressure returned
+
+President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.
 
 Date: 2026-08-12
 
@@ -62,15 +68,9 @@ Since the start of Russia's full-scale invasion of Ukraine, there have been vari
 
 Date: 2026-08-09
 
-### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
-
-There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
-
-Date: 2026-08-07
-
 ## Sources
 
+- [Trump addresses secret Air Force One swap as new questions swirl](https://www.cbsnews.com/video/trump-addresses-secret-air-force-one-swap-as-new-questions-swirl/?utm_source=lootura.com) — 2026-08-12T12:51:28.000Z
 - [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
 - [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
-- [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T16:46:36.000Z
-- [Iran Said to Have Known Details of Trump’s Stay at NATO Summit](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com) — 2026-08-12T02:09:20.000Z
+- [Iran Said to Have Known Details of Trump’s Stay at NATO Summit](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com) — 2026-08-12T02:09:21.000Z

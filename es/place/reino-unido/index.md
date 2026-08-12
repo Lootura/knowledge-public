@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Las espectaculares imágenes que deja el paso del eclipse por Europa
+
+Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
+
+Date: 2026-08-12
 
 ### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
 
@@ -62,12 +68,6 @@ La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscad
 
 Date: 2026-08-05
 
-### Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales
-
-Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Las espectaculares imágenes que deja el paso del eclipse por Europa](https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com) — 2026-08-12T19:12:16.000Z

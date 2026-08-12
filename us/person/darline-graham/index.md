@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina
+
+A first-time candidate who was always close to her brother's political orbit, Darline Graham overcame skepticism about her lack of experience in her campaign to replace him, as she moved forward Tuesday as the top vote-getter to runner-up Norman.
+
+Date: 2026-08-12
 
 ### Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary
 
@@ -62,12 +68,6 @@ The entrance of Darline Graham into the Republican scramble to select a new Sena
 
 Date: 2026-07-20
 
-### Darline Graham's career centered disability. Now she could help shape national policy
-
-To former colleagues and the disability advocates who have worked with her, there is little doubt in Darline Graham's capabilities.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z
+- [Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina](https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina?utm_source=lootura.com) — 2026-08-12T15:12:05.000Z

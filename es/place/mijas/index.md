@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-08-12/apunalamiento-mijas-hospital-malaga-1tna-1tps_4404797/?utm_source=lootura.com) — 2026-08-12T08:21:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos",
+      "summary": "La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El Ibex duda en zona de máximos en el día de la inflación de EE UU",
       "summary": "Los precios del petróleo suben el miércoles a medida que aumentaban las tensiones geopolíticas antes de la publicación de datos clave sobre la inflación en EE UU, cuyo dato dará pistas sobre el momento oportuno para una posible subida de tipos de la Reserva Federal. Seguir leyendo.",
@@ -62,18 +67,13 @@
       "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
       "summary": "El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Las Bolsas afrontan el examen de agosto: petróleo, empleo e IA ponen a prueba al mercado esta semana",
-      "summary": "Después de un julio de sobresaltos, que se despidió con los inversores tratando de descifrar las verdaderas intenciones de la Reserva Federal, los mercados se adentran en agosto, un mes en el que la escasa negociación y un flujo informativo más liviano suelen allanar el terreno para que la volatilidad campe a sus ancha.",
-      "date": "2026-08-02"
     }
   ],
   "sources": [
     {
-      "title": "El Ibex duda en zona de máximos en el día de la inflación de EE UU",
+      "title": "La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-12/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T07:54:01.000Z",
+      "publishedAt": "2026-08-12T15:51:51.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],

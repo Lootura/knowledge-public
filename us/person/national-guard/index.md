@@ -46,4 +46,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [The effectiveness and cost of the National Guard deployment in D.C.](https://www.pbs.org/newshour/show/the-effectiveness-and-cost-of-the-national-guard-deployment-in-d-c?utm_source=lootura.com) — 2026-08-11T22:35:32.000Z
+No public source links.

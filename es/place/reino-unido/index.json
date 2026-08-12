@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-12T20:40:15.873Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Las espectaculares imágenes que deja el paso del eclipse por Europa",
+      "summary": "Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
       "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
@@ -67,13 +72,15 @@
       "title": "Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales",
       "summary": "La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscado por las autoridades británicas por graves conductas de agresión sexual cometidas entre 2012 y 2022 y que se encontraba huido de su país, teniendo en vigor una orden internacional de detención. Las investigaciones comenzaron el pasado 2024,.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Detenido en Madrid un hombre buscado por las autoridades británicas por varias agresiones sexuales",
-      "summary": "Agentes de la Policía Nacional han arrestado en una céntrica vía de Madrid a J.R., de 37 años, reclamado por Reino Unido por múltiples delitos de agresión sexual, según informó la Jefatura Superior en un comunicado. Las pesquisas arrancaron en 2024 a raíz de varias agresiones sexuales atribuidas al sospechoso y presunt.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las espectaculares imágenes que deja el paso del eclipse por Europa",
+      "url": "https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T19:12:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T20:40:15.873Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo
+
+No es una época fácil para el sector del lujo en Bolsa. Arrastrado por varios factores, como la caída de la demanda desde China, ha sufrido mucho en los últimos cinco años y su mayor exponente, LVMH, ha perdido un tercio de su valor de mercado. Tras un mes de aparente recuperación, de la mano de unos resultados trimest.
+
+Date: 2026-08-12
+
+### Una mujer descubre que su marido intentaba tener un hijo con su amante mediante fecundación in vitro y pide destruir el embrión
+
+Una mujer china ha acudido a la Justicia después de descubrir que su marido había iniciado un proceso de fecundación in vitro con su amante. Además de reclamar la destrucción del embrión congelado, el caso ha abierto un debate en China ante la falta de una respuesta clara sobre quién puede decidir su destino. Zhu descu.
+
+Date: 2026-08-12
 
 ### Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol
 
@@ -56,18 +68,7 @@ El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los inform
 
 Date: 2026-08-10
 
-### El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa
-
-El Gobierno salió este lunes al paso para atajar el revuelo causado ante las informaciones sobre las alertas de Defensa y del CNI por el proyecto para instalar una factoría china en Ferrol , la ciudad que alberga una de las mayores instalaciones de la Armada española y el astillero militar de Navantia. El Ejecutivo dej.
-
-Date: 2026-08-10
-
-### En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia
-
-Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo](https://cincodias.elpais.com/mercados-financieros/2026-08-12/lvmh-cae-un-3-en-bolsa-por-las-dudas-de-deutsche-bank-sobre-el-sector-del-lujo.html?utm_source=lootura.com) — 2026-08-12T16:01:59.000Z
+- [Una mujer descubre que su marido intentaba tener un hijo con su amante mediante fecundación in vitro y pide destruir el embrión](https://www.larazon.es/actualidad/mujer-descubre-que-marido-intentaba-tener-hijo-amante-mediante-fecundacion-vitro-pide-destruir-embrion-b51m_202608126a7cd421a046ad6ebcae1035.html?utm_source=lootura.com) — 2026-08-12T20:14:25.000Z

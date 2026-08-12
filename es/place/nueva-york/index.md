@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas](https://elpais.com/economia/2026-08-12/inditex-contra-shein-por-que-el-gigante-espanol-quintuplica-los-beneficios-del-asiatico-con-solo-un-10-mas-de-ventas.html?utm_source=lootura.com) — 2026-08-12T03:45:00.000Z
+No public source links.

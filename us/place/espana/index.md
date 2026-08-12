@@ -3,10 +3,28 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-12T20:40:38.161Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Total solar eclipse darkens skies across Northern Hemisphere
+
+The only total solar eclipse of 2026 crossed the Northern Hemisphere today, with a path of totality across parts of Greenland, Iceland and northern Spain. See photos and video from the best viewing locations.
+
+Date: 2026-08-12
+
+### Spain witnesses first total solar eclipse in 27 years
+
+NBC News’ Raf Sanchez reports on the ground in Spain as crowds revel and cheer at the total solar eclipse taking place during the sunset hour.
+
+Date: 2026-08-12
+
+### PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades
+
+Millions of people crowded cloudless cities and towns in Spain on Wednesday in search of the best views of a total solar eclipse, when the alignment of the sun, moon and Earth will briefly plunge parts of the planet into darkness.
+
+Date: 2026-08-12
 
 ### What to know about today's total solar eclipse
 
@@ -50,25 +68,8 @@ An unprecedented surge of migrants into Spanish territory of Ceuta in North Afri
 
 Date: 2026-08-10
 
-### How to spot the Perseid meteor shower, a summer light show that promises to dazzle
-
-The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.
-
-Date: 2026-08-09
-
-### Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor
-
-Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.
-
-Date: 2026-08-05
-
-### 'Like the end of the world': The eclipse chasers flocking to Spain
-
-Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [What to know about today's total solar eclipse](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-12T07:08:11.000Z
-- [Total solar eclipse to spellbind Europe](https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html?utm_source=lootura.com) — 2026-08-12T08:40:01.000Z
+- [Total solar eclipse darkens skies across Northern Hemisphere](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-12T20:01:00.000Z
+- [Watch: Spain witnesses first total solar eclipse in 27 years](https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728?utm_source=lootura.com) — 2026-08-12T18:42:24.000Z
+- [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z
