@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,19 +22,19 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
-      "date": "2026-08-11"
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.",
+      "date": "2026-08-12"
     },
     {
       "title": "NATO spending pressure returned",
-      "summary": "President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Secret Service operation to swap Trump’s planes amid Iran threat",
-      "summary": "We are learning new details about the elaborate Secret Service operation to swap President Trump’s planes amid an Iranian assassination threat. NBC News’ Garrett Haake reports.",
-      "date": "2026-08-11"
+      "summary": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.",
+      "date": "2026-08-12"
     },
     {
       "title": "U.S. stocks edge further from their records as oil prices keep swinging",
@@ -78,12 +78,18 @@
       "title": "Secret Service operation to swap Trump’s planes amid Iran threat",
       "url": "https://www.nbcnews.com/nightly-news/video/secret-service-operation-to-swap-trump-s-planes-amid-iran-threat-268148293534?utm_source=lootura.com",
       "publishedAt": "2026-08-11T23:02:08.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T08:32:41.000Z",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:47:50.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -105,12 +111,6 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat",
-      "url": "https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:04:51.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "The U.S. Missile Stockpile Is Dangerously Low",
       "url": "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T10:00:14.000Z",
@@ -129,5 +129,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 11
 }

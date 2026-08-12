@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/los-angeles
 
 ## Cambios recientes
+
+### Hallazgo insólito en un yacimiento urbano de Los Ángeles: descubren un sapo extinto de la Edad de Hielo que convivió con mamuts
+
+Un equipo de paleontólogos identificó una nueva especie extinta de sapo en el yacimiento de La Brea Tar Pits , en pleno centro de Los Ángeles , que convivió con mamuts y tigres dientes de sable durante la última Edad de Hielo . El hallazgo fue publicado en el Journal of Vertebrate Paleontology en agosto de 2026 y corre.
+
+Date: 2026-08-12
 
 ### El incendio de Navas de San Antonio (Segovia) evoluciona favorablemente y los evacuados pueden regresar a casa
 
@@ -28,4 +34,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Hallazgo insólito en un yacimiento urbano de Los Ángeles: descubren un sapo extinto de la Edad de Hielo que convivió con mamuts](https://okdiario.com/naturaleza/hallazgo-insolito-yacimiento-urbano-angeles-descubren-sapo-extinto-edad-hielo-que-convivio-mamuts-19140630?utm_source=lootura.com) — 2026-08-12T09:00:15.000Z

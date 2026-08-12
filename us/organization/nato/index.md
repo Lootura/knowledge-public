@@ -3,20 +3,38 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
 
+### Product availability changed in Europe
+
+Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.
+
+Date: 2026-08-12
+
 ### NATO spending pressure returned
 
-President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
+President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat.
+
+Date: 2026-08-12
+
+### NATO spending pressure returned
+
+The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
+
+Date: 2026-08-12
+
+### NATO spending pressure returned
+
+President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
 
 Date: 2026-08-11
 
 ### NATO spending pressure returned
 
-President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
 
 Date: 2026-08-11
 
@@ -50,25 +68,9 @@ There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turk
 
 Date: 2026-08-07
 
-### NATO spending pressure returned
-
-After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptors Nato is working to get Ukraine the air defences it “urgently needs”, its secretary general has said, after Kyiv failed to shoot down a single Russian missil.
-
-Date: 2026-08-06
-
-### With Russia at the door and the US backing away, Europe has to build its own ‘way of war’
-
-Even in a Europe-focused Nato 3.0, Washington would still want to call the shots. We need an insurance policy How can Europe defend itself against Russia without the US, or with much less of it? This question sums up the existential challenge now facing the continent. Russia’s imperial ambitions start with Ukraine, but.
-
-Date: 2026-08-04
-
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
+- [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
+- [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
 - [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T16:46:36.000Z
+- [Iran Said to Have Known Details of Trump’s Stay at NATO Summit](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com) — 2026-08-12T02:09:20.000Z

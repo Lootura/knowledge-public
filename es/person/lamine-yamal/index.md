@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Gavi, Fermín y otros rostros conocidos: los invitados a la gran fiesta de Lamine Yamal por sus 19 años](https://www.abc.es/gente/gavi-fermin-rostros-conocidos-invitados-gran-fiesta-20260812104331-nt.html?utm_source=lootura.com) — 2026-08-12T08:48:17.000Z

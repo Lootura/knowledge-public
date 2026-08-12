@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [U.S. Says It Revoked More Than 175,000 Visas Under Trump](https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html?utm_source=lootura.com) — 2026-08-11T12:02:02.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "Darline"
   ],
@@ -66,17 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:16:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
       "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T18:23:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

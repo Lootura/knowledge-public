@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump](https://www.larazon.es/internacional/camion-catering-air-force-one-amenazas-que-refuerzan-dispositivo-seguridad-trump_202608116a7b8156a046ad6ebcac341e.html?utm_source=lootura.com) — 2026-08-11T20:08:54.000Z
+No public source links.

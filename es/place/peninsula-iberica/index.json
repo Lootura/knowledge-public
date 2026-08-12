@@ -1,0 +1,50 @@
+{
+  "id": "es-peninsula-iberica",
+  "name": "Península ibérica",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/peninsula-iberica",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/peninsula-iberica",
+  "markdownUrl": "https://atlas.lootura.com/es/place/peninsula-iberica/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/peninsula-iberica/index.json",
+  "description": "Sigue la actividad de Península ibérica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "aliases": [
+    "La Península Ibérica",
+    "La Peninsula Iberica",
+    "Iberia",
+    "Península Hispánica"
+  ],
+  "changes": [
+    {
+      "title": "Los tres eclipses de España en el siglo XX que impulsaron la astronomía nacional",
+      "summary": "Ha tenido que pasar más de un siglo para que España vuelva a ser este 12 de agosto de 2026 testigo de un eclipse solar total . Se puede decir, incluso, que este es el primero del siglo XXI para la Península Ibérica . La expectación es inmensa, ya que este momento único, vuelve a poner en el foco a la astronomía de nues.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
+      "summary": "La cuenta atrás para el que será el fenómeno astronómico del año ha comenzado. El primer eclipse total de sol visible desde la Península Ibérica en más de un siglo tendrá lugar el 12 de agosto al atardecer. La franja de totalidad, aquella zona geográfica donde toca la parte más oscura de la sombra que la luna proyecta.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Península Ibérica first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Los tres eclipses de España en el siglo XX que impulsaron la astronomía nacional",
+      "url": "https://www.20minutos.es/ciencia/tres-eclipses-espana-siglo-xx-impulsaron-astronomia-nacional_7008833_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:23:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
+      "url": "https://www.abc.es/viajar/destinos/espana/miradores-pueblos-puntos-observacion-comunidad-madrid-ver-20260809235346-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:19:46.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 2
+}

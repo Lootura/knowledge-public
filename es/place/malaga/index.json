@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)",
+      "summary": "Un hombre de 25 años ha muerto en el hospital tras ser apuñalado en una vivienda de Mijas (Málaga), según confirmaron este miércoles a EFE fuentes cercanas a la investigación . El 112 recibió a las 20:35 horas del lunes un aviso por la agresión sufrida por un joven en la urbanización Mijas Golf. El centro coordinador a.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre",
       "summary": "Se trata del encuentro anual más importante sobre comercio internacional que tiene lugar en la región.",
@@ -55,13 +60,15 @@
       "title": "Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria",
       "summary": "La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga y Sevilla haya golpeado una catenaría desprendida por una incidencia en obras programadas. En este sentido.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio",
-      "summary": "Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-12/apunalamiento-mijas-hospital-malaga-1tna-1tps_4404797/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:21:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

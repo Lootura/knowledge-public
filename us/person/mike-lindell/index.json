@@ -1,0 +1,49 @@
+{
+  "id": "usa-mike-lindell",
+  "name": "Mike Lindell",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/mike-lindell",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/mike-lindell",
+  "markdownUrl": "https://atlas.lootura.com/us/person/mike-lindell/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/mike-lindell/index.json",
+  "description": "Follow Mike Lindell, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "aliases": [
+    "Michael J. Lindell",
+    "Michael James Lindell",
+    "My Pillow Guy"
+  ],
+  "changes": [
+    {
+      "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+      "summary": "Lindell had President Trump's endorsement but he lost to Lisa Demuth, the speaker of the state house. She'll face Democratic Sen. Amy Klobuchar in the fall for governor. (Image credit: Ellen Schmidt).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Lisa Demuth Wins Republican Primary for Governor of Minnesota",
+      "summary": "Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mike Lindell first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:28:31.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Lisa Demuth Wins Republican Primary for Governor of Minnesota",
+      "url": "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:32:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

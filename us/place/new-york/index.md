@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Family of NYC fashion designer found dead on Montauk boat to file wrongful death lawsuit](https://www.nbcnews.com/news/us-news/family-nyc-fashion-designer-found-dead-montauk-boat-file-wrongful-deat-rcna591897?utm_source=lootura.com) — 2026-08-11T19:00:13.000Z
+- [How a Staten Island Lawsuit Is Challenging Mamdani’s Second-Home Tax](https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html?utm_source=lootura.com) — 2026-08-12T00:25:38.000Z

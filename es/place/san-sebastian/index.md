@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle
 
 El Ayuntamiento destinará hasta medio millón de euros al programa de Acción Social facilitando que se repartan 100 comidas más que hasta ahora.
+
+Date: 2026-08-11
+
+### ¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?
+
+Valora la propuesta de Phoenix Fireworks y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.
 
 Date: 2026-08-11
 
@@ -62,12 +68,7 @@ El tradicional cañonazo disparado desde la terraza del Ayuntamiento ha prendido
 
 Date: 2026-08-08
 
-### El barco de 'La Casa del Dragón' en San Sebastián: «Esto no se ve todos los días»
-
-La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos', que puede visitarse hasta el domingo, atrae a fans de dentro y fuera de Gipuzkoa.
-
-Date: 2026-08-07
-
 ## Fuentes
 
+- [¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?](https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-martes-semana-grande-20260811231544-nt_amp.html?utm_source=lootura.com) — 2026-08-11T21:15:45.000Z
 - [Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle](https://www.diariovasco.com/san-sebastian/donostia-aprueba-ampliacion-416-comidas-diarias-personas-20260811134655-nt_amp.html?utm_source=lootura.com) — 2026-08-11T11:46:56.000Z

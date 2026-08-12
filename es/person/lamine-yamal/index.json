@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Lamine",
     "Lamine Yamal Nasraoui",
@@ -67,6 +67,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Gavi, Fermín y otros rostros conocidos: los invitados a la gran fiesta de Lamine Yamal por sus 19 años",
+      "url": "https://www.abc.es/gente/gavi-fermin-rostros-conocidos-invitados-gran-fiesta-20260812104331-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:48:17.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

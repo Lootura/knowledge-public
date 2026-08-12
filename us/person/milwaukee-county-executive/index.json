@@ -1,0 +1,45 @@
+{
+  "id": "usa-milwaukee-county-executive",
+  "name": "Milwaukee County Executive",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/milwaukee-county-executive",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/milwaukee-county-executive",
+  "markdownUrl": "https://atlas.lootura.com/us/person/milwaukee-county-executive/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/milwaukee-county-executive/index.json",
+  "description": "Follow Milwaukee County Executive, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Wisconsin Democratic governor primary too close to call between Crowley, Hong",
+      "summary": "Votes are still being counted in the Wisconsin Democratic primary for governor, with Rep. Francesca Hong and Milwaukee County Executive David Crowley separated by only a few hundred votes. NBC News’ Steve Kornacki looks at the numbers as well as races in South Carolina, Minnesota, and Connecticut.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+      "summary": "David Crowley is the Milwaukee County Executive and could become the state's first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support. (Image credit: Kayla Wolf).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Milwaukee County Executive first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wisconsin Democratic governor primary too close to call between Crowley, Hong",
+      "url": "https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:20:43.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:06:55.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

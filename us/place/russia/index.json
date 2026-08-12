@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -70,10 +70,10 @@
   ],
   "sources": [
     {
-      "title": "U.S. Marine veteran freed from Russian prison after nearly 4 years",
-      "url": "https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:36:40.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Former U.S. Marine held in Russia on disputed charges has been released",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:27:13.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",

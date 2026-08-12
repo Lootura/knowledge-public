@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates](https://www.pbs.org/newshour/world/over-16000-civilians-detained-by-russia-during-the-war-in-ukraine-are-still-held-un-estimates?utm_source=lootura.com) — 2026-08-11T19:50:14.000Z
 - [Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles](https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com) — 2026-08-11T20:16:50.000Z

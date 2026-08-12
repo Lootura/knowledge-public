@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria](https://theconversation.com/un-nuevo-hallazgo-nos-habla-de-asistencia-al-parto-en-la-prehistoria-289367?utm_source=lootura.com) — 2026-08-11T22:10:13.000Z
+No public source links.

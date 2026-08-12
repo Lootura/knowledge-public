@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas
+
+Una veinteañera entra con sus padres en la joyería de José Luis Sánchez, en A Coruña, y no saldrá de allí sin un diamante, por pequeño que sea. Lo llevará en una gargantilla durante la ceremonia de graduación en la universidad. El presupuesto es ajustado, unos 1.200 euros, y las aspiraciones son modestas. Buscan una pi.
+
+Date: 2026-08-12
+
+### ¿Y si Putin tomara ejemplo de Marruecos?
+
+La entrada de más de 72.000 inmigrantes en la ciudad española de Ceuta ha sido interpretada por Sánchez y su colega el rey Mohamed VI de Marruecos como una gamberrada organizada por unos chavales jugando con las redes sociales. Sin embargo, cualquiera que haya visto las imágenes no tendrá la menor duda de que se trata.
+
+Date: 2026-08-12
 
 ### Manual de dimisión
 
@@ -56,19 +68,7 @@ Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas pone
 
 Date: 2026-08-11
 
-### Vox alienta una causa por "traición" contra Sánchez y se abre a colaborar con otros partidos por Marruecos
-
-Vox eleva su apuesta para que Pedro Sánchez sea juzgado por un supuesto delito de traición contra la seguridad del Estado por la violación territorial de Ceuta. Fuentes de la formación de Santiago Abascal confirman a El Confidencial que el partido está dispuesto a tender su mano a diputados de distinto signo político p.
-
-Date: 2026-08-11
-
-### Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil
-
-El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Manual de dimisión](https://www.larazon.es/espana/manual-dimision_202608126a7b39bfa046ad6ebcabc677.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T01:34:57.000Z
-- [Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite](https://www.larazon.es/espana/pedro-sanchez-blinda-sus-vacaciones-mareta-120-agentes-elite_202608126a7bc59fa5690f0473750cef.html?utm_source=lootura.com) — 2026-08-12T01:00:15.000Z
+- [Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas](https://cincodias.elpais.com/mercados-financieros/2026-08-12/los-diamantes-ven-esfumarse-en-tres-anos-la-mitad-de-su-valor-ante-el-auge-de-las-copias-sinteticas.html?utm_source=lootura.com) — 2026-08-12T03:30:01.000Z
+- [¿Y si Putin tomara ejemplo de Marruecos?](https://theobjective.com/elsubjetivo/opinion/2026-08-12/putin-ejemplo-marruecos-articulo-esperanza-aguirre/?utm_source=lootura.com) — 2026-08-12T03:25:00.000Z

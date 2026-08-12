@@ -3,7 +3,7 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes

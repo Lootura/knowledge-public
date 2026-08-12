@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -14,15 +14,39 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-12
 
-### Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers
-
-Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.
-
-Date: 2026-08-12
-
 ### Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump
 
 Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.
+
+Date: 2026-08-12
+
+### Product availability changed in Europe
+
+NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey.
+
+Date: 2026-08-12
+
+### NATO spending pressure returned
+
+President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat.
+
+Date: 2026-08-12
+
+### With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy
+
+In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.
+
+Date: 2026-08-12
+
+### Trump Says Secret Service Ordered Air Force One Swap
+
+Trump claims his secret plane was in more danger than the Air Force One decoy the public thought Trump was flying on.
+
+Date: 2026-08-12
+
+### Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers
+
+Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.
 
 Date: 2026-08-12
 
@@ -44,34 +68,11 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-11
 
-### Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
-
-Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that in.
-
-Date: 2026-08-11
-
-### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
-
-Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
-
-Date: 2026-08-11
-
-### Pentagon revokes security clearance of former Air Force chief
-
-The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.
-
-Date: 2026-08-08
-
-### Pentagon revokes security clearance of former Air Force chief for disclosing "classified information regarding Air Force One's capabilities"
-
-The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.
-
-Date: 2026-08-08
-
 ## Sources
 
 - [Trump secretly switched to different plane in Turkey amid Iran missile threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-12T01:41:40.000Z
-- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
-- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com) — 2026-08-12T00:33:30.000Z
-- [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com) — 2026-08-11T23:39:28.000Z
+- [Former Secret Service agent discusses Trump's Air Force One switch](https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch?utm_source=lootura.com) — 2026-08-12T08:46:16.000Z
+- [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
+- [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com) — 2026-08-12T08:43:46.000Z
+- [Trump Says Secret Service Ordered Air Force One Swap](https://www.nytimes.com/2026/08/11/us/politics/trump-threat-plane-iran-decoy.html?utm_source=lootura.com) — 2026-08-12T08:44:38.000Z
 - [Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump](https://www.nytimes.com/2026/08/11/us/politics/decoy-plane-passengers.html?utm_source=lootura.com) — 2026-08-12T01:33:14.000Z

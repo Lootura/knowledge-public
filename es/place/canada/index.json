@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "CA",
     "CAN",
@@ -17,6 +17,11 @@
     "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»",
+      "summary": "Rafa Jódar hizo historia la noche del martes después de conseguir la victoria más importante de su carrera ante Arthur Fils (7-5 y 6-3) en cuartos del Masters 1000 de Montreal . El tenista luchará en la madrugada del miércoles al jueves por un puesto en la final en las semifinales que disputará ante Brandon Nakashima.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal",
       "summary": "El tenis español sigue imparable en Montreal, donde Dani Mérida también se ha clasificado para octavos de final. Lo ha hecho tras pasar por encima del estadounidense Alex Michelsen, al que ha ganado en tres sets por 6-4, 6-7 y 6-1. De esta manera, se mete por primera vez entre los 16 mejores de un Masters 1000. Espera.",
@@ -48,6 +53,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»",
+      "url": "https://okdiario.com/deportes/reflexion-rafa-jodar-hacer-historia-canada-intento-seguir-propio-camino-19166893?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:57:22.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

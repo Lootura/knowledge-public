@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says](https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html?utm_source=lootura.com) — 2026-08-12T08:55:55.000Z

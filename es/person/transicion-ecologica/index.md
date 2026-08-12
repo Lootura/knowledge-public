@@ -52,4 +52,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones](https://okdiario.com/economia/golpe-gobierno-eeuu-impagos-renovables-via-libre-embargo-otros-156-millones-19165055?utm_source=lootura.com) — 2026-08-11T22:01:38.000Z
+No public source links.

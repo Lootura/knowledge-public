@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»
+
+Aunque la actriz Amaia Salamanca es madrileña, muchos de sus recuerdos de niña están ligados a Vizcaya . ya que cuando llegaba el verano y las vacaciones, cambiaba Madrid por un pueblo entre montañas en el que vivía parte de su familia. Pasó tantos veranos allí durante su infancia y juventud que aquel lugar del País Va.
+
+Date: 2026-08-12
 
 ### El refugio de Anne Igartiburu en el País Vasco perfecto para verano
 
@@ -62,12 +68,6 @@ Donostia celebrará su Semana Grande del 8 al 15 de agosto con una programación
 
 Date: 2026-08-04
 
-### El menor que lideraba la red extremista '764' amenazó con «tiroteos» y «muertos» a al menos diez colegios de Euskadi
-
-La Ertzaintza «se tomó muy en serio» los mensajes intimidatorios y desplegó «operativos preventivos» en los centros escolares.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»](https://okdiario.com/pais-vasco/amaia-salamanca-40-anos-revela-lugar-del-pais-vasco-que-marco-infancia-lo-tengo-corazon-19163695?utm_source=lootura.com) — 2026-08-12T05:15:38.000Z

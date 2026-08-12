@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T03:48:28.542Z",
+  "generatedAt": "2026-08-12T09:23:19.790Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|123|1786499000479",
+    "signature": "1.18.0|124|1786525714474",
     "version": "1.18.0",
-    "build": 123,
-    "latestEntityUpdatedAt": "2026-08-12T01:43:20.479Z"
+    "build": 124,
+    "latestEntityUpdatedAt": "2026-08-12T09:08:34.474Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
-      "url": "https://atlas.lootura.com/es/person/donald-trump",
-      "path": "/es/person/donald-trump",
-      "updatedAt": "2026-08-12T01:43:20.479Z",
-      "score": 1695,
-      "sourceCount": 214,
+      "id": "es-colombia",
+      "name": "República de Colombia",
+      "type": "place",
+      "title": "Última hora del terremoto en Colombia hoy en directo: fallecidos, rescates, desaparecidos y balance de víctimas en vivo",
+      "url": "https://atlas.lootura.com/es/place/colombia",
+      "path": "/es/place/colombia",
+      "updatedAt": "2026-08-12T09:08:34.474Z",
+      "score": 1709,
+      "sourceCount": 101,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-iran",
-        "name": "Irán",
-        "type": "place",
-        "title": "Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán",
-        "url": "https://atlas.lootura.com/es/place/iran",
-        "path": "/es/place/iran",
-        "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1667,
-        "sourceCount": 182,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche",
+        "title": "Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1645,
-        "sourceCount": 691,
+        "updatedAt": "2026-08-12T09:08:34.474Z",
+        "score": 1700,
+        "sourceCount": 695,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-colombia",
-        "name": "República de Colombia",
+        "id": "es-espana",
+        "name": "España",
         "type": "place",
-        "title": "Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos",
-        "url": "https://atlas.lootura.com/es/place/colombia",
-        "path": "/es/place/colombia",
-        "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1638,
-        "sourceCount": 95,
+        "title": "Fragmento del día: España",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-08-12T09:08:34.474Z",
+        "score": 1683,
+        "sourceCount": 1071,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-margarita-robles",
-        "name": "Margarita Robles Fernández",
+        "id": "es-barcelona",
+        "name": "Barcelona",
+        "type": "place",
+        "title": "El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno",
+        "url": "https://atlas.lootura.com/es/place/barcelona",
+        "path": "/es/place/barcelona",
+        "updatedAt": "2026-08-12T09:08:34.474Z",
+        "score": 1673,
+        "sourceCount": 145,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
         "type": "person",
-        "title": "Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes",
-        "url": "https://atlas.lootura.com/es/person/margarita-robles",
-        "path": "/es/person/margarita-robles",
-        "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1637,
-        "sourceCount": 12,
+        "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-08-12T09:08:34.474Z",
+        "score": 1651,
+        "sourceCount": 215,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 198
+    "publicEntityCount": 197
   }
 }

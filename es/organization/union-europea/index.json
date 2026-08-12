@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles",
+      "summary": "Este miércoles comienza a aplicarse el reglamento sobre envases y residuos (PPWR, por sus siglas en inglés) en todos los países da la Unión Europea. Esta legislación, que reemplaza una directiva sobre reciclaje de 1994, tiene como finalidad disminuir los residuos de recipientes de forma paulatina de ahora y hasta 2040.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.",
+      "date": "2026-08-12"
+    },
     {
       "title": "La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta",
       "summary": "La primera ministra de Italia, Giorgia Meloni , es de extrema derecha. Su homóloga de Dinamarca, Mette Frederiksen, es socialdemócrata. Debería notarse, deberían estar lejos, pero las dos están de acuerdo en que la Unión Europea cree más centros de repatriación en terceros países . Es lo que aseguran en el comunicado c.",
@@ -53,18 +63,21 @@
       "title": "La crisis de Ceuta pone a prueba la política fronteriza de la UE: \"La cooperación no puede convertirse en dependencia\"",
       "summary": "Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos \"fronteras exteriores\" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "La mitad de los coches que circulan por España supera ya los 15 años de antigüedad",
-      "summary": "El parque automovilístico español continúa sumido en un preocupante envejecimiento estructural que amenaza los compromisos de seguridad vial, la reducción de emisiones contaminantes y las metas de electrificación fijadas por la Unión Europea. Según los datos oficiales contenidos en el Informe Anual 2025 elaborado por l.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Mohamed VI como el pájaro cuco",
-      "summary": "En octubre de 2018, en mi etapa como eurodiputada, viajé a Ceuta junto a Javier Nart para conocer sobre el terreno los problemas de la frontera terrestre de la Unión Europea en África. El objetivo era recoger las peticiones del Sindicato Unificado de Policía y trasladar al Parlamento Europeo la necesidad de que la UE a.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles",
+      "url": "https://elpais.com/economia/2026-08-12/el-principio-del-fin-para-los-sobres-de-ketchup-y-mayonesa-claves-de-la-ley-de-envases-que-echa-a-andar-este-miercoles.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:45:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
+      "url": "https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:31:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T20:39:22.356Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
+      "summary": "Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que persigue desde 2020, cuando la pandemia y el auge que esta provocó sobre el comercio online disparó su valoración empresarial hasta rozar los 100.000 millones de dólares en 2022. Tras intentarlo sin éxito en los mercados de Nueva York y Lon.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia",
       "summary": "En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.",
@@ -85,13 +90,15 @@
       "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
       "summary": "El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años",
-      "summary": "El actor estadounidense Vincent Pastore , recordado popularmente por su papel de Salvatore ‘Big Pussy’ Bonpensiero en la aclamada serie ‘Los Soprano’ , ha sido hallado sin vida este sábado en su residencia del barrio del Bronx, en Nueva York. Ha sido un vecino quien ha encontrado el cuerpo en su vivienda tras varios dí.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
+      "url": "https://elpais.com/economia/2026-08-12/inditex-contra-shein-por-que-el-gigante-espanol-quintuplica-los-beneficios-del-asiatico-con-solo-un-10-mas-de-ventas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:45:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

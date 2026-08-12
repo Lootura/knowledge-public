@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos
+
+La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.
+
+Date: 2026-08-12
 
 ### El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid, a través de la empresa pública Planifica Madrid, ha pu
 
 Date: 2026-08-07
 
-### Madrid asegura no tener "ninguna información" de menores de Ceuta
-
-La Comunidad de Madrid ha asegurado que no tiene "ninguna información" sobre la situación de los menores extranjeros no acompañados que se encuentran en Ceuta tras la crisis migratoria de la semana pasada y ha insistido en que es "responsabilidad" del Gobierno. La consejera de Familia, Juventud y Asuntos Sociales, Ana.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos](https://www.elconfidencial.com/espana/madrid/2026-08-12/1qrt-eclipse-solar-hoy-madrid-acceso-sierra-cortes-restricciones-carreteras_4404718/?utm_source=lootura.com) — 2026-08-12T06:11:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno",
+      "summary": "Barcelona ofrece una forma diferente de vivir el eclipse solar del 12 de agosto sin mirar al cielo ni utilizar gafas especiales. Una experiencia inmersiva permite adelantarse al fenómeno -o revivirlo después- durante 45 minutos , con sesiones diarias disponibles hasta diciembre. La propuesta se encuentra en el Museu de.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy",
+      "summary": "Conoce la previsión completa del tiempo que hará hoy en Barcelona según los datos de la AEMET para prepararte para el día.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos",
       "summary": "Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.",
@@ -60,18 +70,21 @@
       "title": "El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia",
       "summary": "En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Sara Gallego sale del laberinto",
-      "summary": "Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona",
-      "summary": "Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecretario general de Política Autonómica y Municipal de los populares, mientras comparecía en Barcelona junto al candidato del partido en la Ciudad Condal, Daniel Sirera . El individuo ha dicho no recibir ninguna ayuda del Gobierno y, haciendo f.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-12/plan-barcelona-eclipse-antes-y-despues-1tna-1qrt_4403827/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:53:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy",
+      "url": "https://okdiario.com/cataluna/aemet-cielo-poco-nuboso-y-posibilidad-de-tormentas-en-barcelona-esta-tarde-19165694/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:20:26.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

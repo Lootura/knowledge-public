@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### La caída de reservas anticipa un crudo a 140 dólares en otoño
+
+El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.
+
+Date: 2026-08-12
 
 ### Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka
 
@@ -62,14 +68,6 @@ Las novedades geopolíticas adquieren un sesgo negativo. La posibilidad de un ac
 
 Date: 2026-08-11
 
-### European criticism of FIFA ruling grew
-
-La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka](https://cincodias.elpais.com/companias/2026-08-11/inditex-eleva-la-apuesta-en-ee-uu-con-la-apertura-de-la-primera-tienda-de-bershka.html?utm_source=lootura.com) — 2026-08-11T16:50:01.000Z
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump](https://www.larazon.es/internacional/camion-catering-air-force-one-amenazas-que-refuerzan-dispositivo-seguridad-trump_202608116a7b8156a046ad6ebcac341e.html?utm_source=lootura.com) — 2026-08-11T20:08:54.000Z
+- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://www.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-12T08:28:54.000Z

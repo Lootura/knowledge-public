@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos",
+      "summary": "La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña",
       "summary": "La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por \"créditos consignados insuficientes\". El Ejecutivo regional habla.",
@@ -58,13 +63,15 @@
       "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
       "summary": "La Comunidad de Madrid, a través de la empresa pública Planifica Madrid, ha publicado este viernes la venta del ático de Chamberí, ubicado en la calle General Martínez Campos, por 6,69 millones de euros, sin impuestos, según el anuncio firmado por el consejero delegado de la empresa pública, Pedro Corbalán Ruiz Seguir.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Madrid asegura no tener \"ninguna información\" de menores de Ceuta",
-      "summary": "La Comunidad de Madrid ha asegurado que no tiene \"ninguna información\" sobre la situación de los menores extranjeros no acompañados que se encuentran en Ceuta tras la crisis migratoria de la semana pasada y ha insistido en que es \"responsabilidad\" del Gobierno. La consejera de Familia, Juventud y Asuntos Sociales, Ana.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-12/1qrt-eclipse-solar-hoy-madrid-acceso-sierra-cortes-restricciones-carreteras_4404718/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T06:11:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

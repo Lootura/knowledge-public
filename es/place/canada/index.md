@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»
+
+Rafa Jódar hizo historia la noche del martes después de conseguir la victoria más importante de su carrera ante Arthur Fils (7-5 y 6-3) en cuartos del Masters 1000 de Montreal . El tenista luchará en la madrugada del miércoles al jueves por un puesto en la final en las semifinales que disputará ante Brandon Nakashima.
+
+Date: 2026-08-12
 
 ### Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal
 
@@ -46,4 +52,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»](https://okdiario.com/deportes/reflexion-rafa-jodar-hacer-historia-canada-intento-seguir-propio-camino-19166893?utm_source=lootura.com) — 2026-08-12T08:57:22.000Z

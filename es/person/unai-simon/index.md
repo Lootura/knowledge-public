@@ -3,7 +3,7 @@
 > Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/person/unai-simon
 
 ## Cambios recientes

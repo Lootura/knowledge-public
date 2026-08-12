@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes](https://theobjective.com/espana/2026-08-11/defensa-xunta-fabrica-china-ferrol-informes/?utm_source=lootura.com) — 2026-08-11T17:07:14.000Z
+No public source links.

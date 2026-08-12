@@ -3,20 +3,26 @@
 > Sigue la actividad de Asuntos Exteriores en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/person/asuntos-exteriores
 
 ## Cambios recientes
 
-### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
+### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
 
-“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno
 
 Del diálogo abierto con Rabat tras la entrada de 80.000 personas en Ceuta, el ministro de Asuntos Exteriores, José Manuel Albares, ensalzó ayer que ambos países están...
+
+Date: 2026-08-11
+
+### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
+
+“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
 
 Date: 2026-08-11
 
@@ -62,13 +68,7 @@ El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes
 
 Date: 2026-08-03
 
-### El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»
-
-El ministro de Asuntos Exteriores de Italia , Antonio Tajani, ha respondido este lunes al ministro español, José Manuel Albares , a través de un mensaje en la red social X, en el que ha defendido con datos la política migratoria de su Gobierno y ha respaldado la decisión de suspender temporalmente el régimen de libre c.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno](https://amp.elmundo.es/espana/2026/08/12/6a7b64b3fc6c83ca618b45b5.html?utm_source=lootura.com) — 2026-08-11T23:54:55.000Z
-- [Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península](https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com) — 2026-08-11T12:42:51.000Z
+- [Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas](https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com) — 2026-08-12T08:31:38.000Z

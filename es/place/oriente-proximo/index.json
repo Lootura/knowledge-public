@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Cómo los mapas han definido el 2026",
+      "summary": "El intervencionismo estadounidense, la guerra en Oriente Próximo o la crisis migratoria en Ceuta tienen un trasfondo cartográfico.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte",
       "summary": "El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.",
@@ -60,13 +65,15 @@
       "title": "El Ibex tantea nuevos máximos tras el dato de empleo de EE UU",
       "summary": "La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU",
-      "summary": "La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cómo los mapas han definido el 2026",
+      "url": "https://elordenmundial.com/blitz-como-mapas-definido-2026-geopolitica/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T07:46:44.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
+    }
+  ],
+  "evidenceCount": 1
 }

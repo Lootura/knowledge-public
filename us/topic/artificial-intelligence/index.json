@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,11 @@
     {
       "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "AI chatbots are offering financial advice. Should you trust them?",
+      "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).",
       "date": "2026-08-12"
     },
     {
@@ -71,44 +76,27 @@
       "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Mark Zuckerberg's vision of superintelligent AI for everyone",
-      "summary": "Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in the hands of everyone, not just a few companies or governments. Charles Rollet, tech correspondent for Business Insider, joins CBS News to discuss.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
       "title": "Will AI make our dreams all look the same?",
       "url": "https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:43:45.777Z",
+      "publishedAt": "2026-08-12T09:08:59.281Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
       "url": "https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:43:45.777Z",
+      "publishedAt": "2026-08-12T09:08:59.280Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "AI-assisted grant proposals may win more often—while narrowing research ideas",
-      "url": "https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T23:20:03.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
-      "url": "https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T23:40:02.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
-      "url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T23:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "AI chatbots are offering financial advice. Should you trust them?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.json",
   "description": "Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "Flanagan",
     "Peggy"
   ],
   "changes": [
+    {
+      "title": "'We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary",
+      "summary": "Lt. Gov. Peggy Flanagan speaks with her supporters after defeating Rep. Angie Craig in the Democratic primary for the Senate in Minnesota, NBC News projects, a major push for her party’s progressive wing.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "The far left hits a wall",
+      "summary": "After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stunning loss in Wisconsin’s Democratic gubernatorial primary Tuesday night revealed limits to the far left’s power — and is undercutting the narrative of an emerging insurgency. While progressive Peggy Flanagan cruised by 20 points in Minnesota.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’",
       "summary": "Internal divisions between progressive and moderate Democrats grow ahead of tomorrow’s closely watched primary for Minnesota’s Senate seat. Minnesota Lt. Gov. Peggy Flanagan (D) joins Meet the Press NOW to discuss her bid for U.S. Senate.",
@@ -30,6 +40,19 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "'We can insist on change’: Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary",
+      "url": "https://www.nbcnews.com/video/lt-gov-peggy-flanagan-wins-minnesota-democratic-senate-primary-268167749554?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:58:55.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "The far left hits a wall",
+      "url": "https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T07:54:42.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 2
 }

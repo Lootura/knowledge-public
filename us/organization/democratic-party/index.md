@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown and more primary races to watch today
+
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-12
+
+### Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat
+
+Ms. Cooke, a three-time congressional candidate, held a huge fund-raising edge in a western Wisconsin race that Democrats consider pivotal to their hopes of flipping the House.
+
+Date: 2026-08-12
 
 ### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
 
@@ -50,27 +62,13 @@ Voters are heading to the polls in another round of competitive primary races in
 
 Date: 2026-08-11
 
-### Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End
-
-Democrats appear likely to nominate a democratic socialist for governor. How did they get here?
-
-Date: 2026-08-10
-
 ### Trump announces staff secretary Will Scharf, who helped secure ballroom approval, will be his new White House counsel
 
 Democrats have vowed to pursue investigations into Trump and his administration if they are successful in November.
 
 Date: 2026-08-10
 
-### Congressional Democrats to investigate efforts to deport U.S. military members and their families
-
-The Pentagon declined to comment, stating it would "reply directly to the authors of the letter.".
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
-- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com) — 2026-08-12T00:33:30.000Z
-- [How We’re Covering an ‘Identity Crisis’ in Politics](https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html?utm_source=lootura.com) — 2026-08-11T09:40:18.000Z
-- [Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations](https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html?utm_source=lootura.com) — 2026-08-11T11:36:44.000Z
+- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:48:04.000Z
+- [Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-berge-cooke.html?utm_source=lootura.com) — 2026-08-12T02:23:12.000Z

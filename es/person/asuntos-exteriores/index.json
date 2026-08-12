@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/asuntos-exteriores/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/asuntos-exteriores/index.json",
   "description": "Sigue la actividad de Asuntos Exteriores en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
-      "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
-      "date": "2026-08-11"
+      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.",
+      "date": "2026-08-12"
     },
     {
       "title": "La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno",
       "summary": "Del diálogo abierto con Rabat tras la entrada de 80.000 personas en Ceuta, el ministro de Asuntos Exteriores, José Manuel Albares, ensalzó ayer que ambos países están...",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
       "date": "2026-08-11"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
       "summary": "El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El ministro de Exteriores italiano, a Albares: «La decisión de suspender Schengen es correcta»",
-      "summary": "El ministro de Asuntos Exteriores de Italia , Antonio Tajani, ha respondido este lunes al ministro español, José Manuel Albares , a través de un mensaje en la red social X, en el que ha defendido con datos la política migratoria de su Gobierno y ha respaldado la decisión de suspender temporalmente el régimen de libre c.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -70,10 +70,10 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
-      "url": "https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:42:51.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
+      "url": "https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:31:38.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

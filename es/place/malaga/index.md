@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)
+
+Un hombre de 25 años ha muerto en el hospital tras ser apuñalado en una vivienda de Mijas (Málaga), según confirmaron este miércoles a EFE fuentes cercanas a la investigación . El 112 recibió a las 20:35 horas del lunes un aviso por la agresión sufrida por un joven en la urbanización Mijas Golf. El centro coordinador a.
+
+Date: 2026-08-12
 
 ### Andalucía Trade Global 2026 volverá celebrarse en Málaga el 17 y 18 de noviembre
 
@@ -62,12 +68,6 @@ La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del 
 
 Date: 2026-08-08
 
-### Verano negro de violencia machista: al menos 13 mujeres han sido asesinadas desde junio
-
-Este verano está siendo particularmente negro cuanto a los asesinatos por violencia machista en España. Al menos 13 mujeres han sido asesinadas por sus parejas o exparejas desde el mes de junio. La estadística oficial recoge tres feminicidios en junio, nada menos que ocho en julio, al añadirse uno en Benahavís (Málaga).
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-08-12/apunalamiento-mijas-hospital-malaga-1tna-1tps_4404797/?utm_source=lootura.com) — 2026-08-12T08:21:00.000Z

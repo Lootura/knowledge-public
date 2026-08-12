@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown and more primary races to watch today
+
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-12
 
 ### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
 
@@ -62,13 +68,6 @@ The bipartisan legislation, which passed the Senate 86-11, would penalize countr
 
 Date: 2026-08-07
 
-### Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.
-
-The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.
-
-Date: 2026-08-04
-
 ## Sources
 
-- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
-- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z
+- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:48:04.000Z

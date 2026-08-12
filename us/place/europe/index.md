@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Looking to see the solar eclipse from North America? Here's where and when to catch a sliver
+
+Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.
+
+Date: 2026-08-12
+
+### Total solar eclipse to spellbind Europe
+
+Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.
+
+Date: 2026-08-12
+
+### Europe is the world’s fastest warming continent. What is to blame?
+
+The climate crisis is hitting Europe hard in 2026, warming twice as fast as any other continent – and the consequences are deadly The whole world is getting hotter as carbon pollution from fossil fuel burning traps ever more heat, but Europe is heating up twice as fast as other continents. The consequences are increasi.
+
+Date: 2026-08-12
 
 ### Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse
 
@@ -50,25 +68,8 @@ Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two ver
 
 Date: 2026-08-10
 
-### Western Europe experienced hottest June-July on record: EU monitor
-
-Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.
-
-Date: 2026-08-10
-
-### Europe Will Get Its First Total Solar Eclipse in Over 25 Years. Here's What You Should Know
-
-The total solar eclipse of 2024, seen from Dallas, Texas —NASA/Keegan Barber Just for the record, a celestial dragon will not eat the sun on Aug. 12, 2026. Nor will a mythic wolf named Sköll chase the sun through the sky, catching it and biting it. And nor will the sun be swallowed by a giant squirrel. But don’t tell t.
-
-Date: 2026-08-10
-
-### World’s seas have hit hottest temperature on record for July, say scientists
-
-Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coas.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse](https://www.cbsnews.com/video/europe-to-experience-total-solar-eclipse-will-be-partially-visible-in-some-us-states/?utm_source=lootura.com) — 2026-08-12T00:49:59.000Z
-- [The most dramatic meteor shower of the summer peaks the day of a solar eclipse](https://www.nbcnews.com/science/space/perseid-meteor-shower-solar-eclipse-time-watch-where-visible-rcna591924?utm_source=lootura.com) — 2026-08-11T18:53:29.000Z
+- [Looking to see the solar eclipse from North America? Here's where and when to catch a sliver](https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html?utm_source=lootura.com) — 2026-08-12T07:37:15.000Z
+- [Total solar eclipse to spellbind Europe](https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html?utm_source=lootura.com) — 2026-08-12T08:40:01.000Z
+- [Europe is the world’s fastest warming continent. What is to blame?](https://www.theguardian.com/world/2026/aug/12/europe-worlds-fastest-warming-continent-climate-crisis-explainer?utm_source=lootura.com) — 2026-08-12T06:00:22.000Z

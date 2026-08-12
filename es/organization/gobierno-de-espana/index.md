@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
+
+En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
+
+Date: 2026-08-12
 
 ### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
 
@@ -62,13 +68,6 @@ Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar 
 
 Date: 2026-08-08
 
-### San Felón de Moncloa
-
-Desde que Marruecos intervino el móvil de medio gobierno español, incluyendo como elemento de chantaje principal el teléfono del autócrata que lo dirige, la política del sanchismo se basó en una constante enmienda a los intereses nacionales, priorizando aquí y en Bruselas lo que Rabat dispone. Se trata del peor ejercic.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-11T22:07:04.000Z
-- [Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones](https://okdiario.com/economia/golpe-gobierno-eeuu-impagos-renovables-via-libre-embargo-otros-156-millones-19165055?utm_source=lootura.com) — 2026-08-11T22:01:38.000Z
+- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-12T05:21:37.000Z

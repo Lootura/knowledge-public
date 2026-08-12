@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa
 
 "Si soy presidente del Gobierno convertiré a España, como ya lo son otros estados europeos, en un país de acogida", prometió el hoy jefe del Ejecutivo, Pedro...
+
+Date: 2026-08-11
+
+### La previsión de Euskalmet para el eclipse: cielos despejados para una «buena visibilidad» y aviso amarillo por altas temperaturas
+
+El Gobierno vasco declarará el LABI en fase de alerta a partir de las tres de la tarde.
 
 Date: 2026-08-11
 
@@ -62,13 +68,7 @@ El Gobierno salió este lunes al paso para atajar el revuelo causado ante las in
 
 Date: 2026-08-10
 
-### El Gobierno sube a 1.400 los menores en Ceuta y no se atreve a dar una cifra definitiva: "Aún hay muchos en las colas para filiarse"
-
-El Gobierno ha subido a 80.000 las personas que el pasado 30 de julio entraron ilegalmente a Ceuta y a 1.400 los menores no acompañados que las autoridades han registrado en la ciudad por el momento, ya que ha admitido que no está en disposición de ofrecer una cifra definitiva. "He podido recorrer las calles de la ciud.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [La previsión de Euskalmet para el eclipse: cielos despejados para una «buena visibilidad» y aviso amarillo por altas temperaturas](https://www.elcorreo.com/sociedad/euskalmet-actualiza-prevision-eclipse-cielos-despejados-buena-20260811113602-nt_amp.html?utm_source=lootura.com) — 2026-08-11T09:36:02.000Z
 - [El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa](https://amp.elmundo.es/espana/2026/08/11/6a7b73bae85ece9c5d8b45a5.html?utm_source=lootura.com) — 2026-08-11T20:54:32.000Z
-- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z

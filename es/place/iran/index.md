@@ -3,22 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo
+### El Ibex espera el IPC de EEUU con la presión del petróleo
 
-El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
+Los dos grandes focos de la semana confluyen en la sesión de hoy. Los nuevos ataques registrados en Irán alejan el acuerdo, y las presiones que ejerce el petróleo añaden más tensión de cara al IPC de EEUU. El Ibex aguarda mayores novedades con cambios reducidos, nuevamente en zona de máximos.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
+### La caída de reservas anticipa un crudo a 140 dólares en otoño
 
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### Irán nombra a un halcón al frente del Consejo de Seguridad en pleno pulso por Ormuz
 
@@ -29,6 +29,18 @@ Date: 2026-08-11
 ### El ejército estadounidense abre fuego contra un barco de bandera panameña que ha intentado romper el bloqueo en Irán
 
 Un helicóptero lanzó dos misiles contra la sala de máquinas del carguero panameño Leer.
+
+Date: 2026-08-11
+
+### El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo
+
+El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
+
+Date: 2026-08-11
+
+### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
+
+El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
 
 Date: 2026-08-11
 
@@ -56,23 +68,9 @@ El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un cami
 
 Date: 2026-08-11
 
-### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
-
-El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
-
-Date: 2026-08-11
-
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo](https://cincodias.elpais.com/mercados-financieros/2026-08-11/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-11T15:48:20.000Z
 - [Irán nombra a un halcón al frente del Consejo de Seguridad en pleno pulso por Ormuz](https://www.elmundo.es/internacional/2026/08/11/6a7b4294fdddff76708b459e.html?utm_source=lootura.com) — 2026-08-11T20:51:28.000Z
 - [El ejército estadounidense abre fuego contra un barco de bandera panameña que ha intentado romper el bloqueo en Irán](https://www.elmundo.es/internacional/2026/08/11/6a7b7b0ae85ece8c218b45ab.html?utm_source=lootura.com) — 2026-08-11T19:50:52.000Z
-- [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://amp.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-11T19:52:48.000Z
-- [Irán condiciona la apertura de Ormuz a un alto el fuego que incluya Líbano y la Franja de Gaza](https://theobjective.com/internacional/2026-08-11/iran-ormuz-alto-fuego-libano-franja-gaza/?utm_source=lootura.com) — 2026-08-11T20:49:42.000Z
+- [El Ibex espera el IPC de EEUU con la presión del petróleo](https://www.expansion.com/mercados/2026/08/12/6a7c0853e5fdeaca0e8b45a8.html?utm_source=lootura.com) — 2026-08-12T08:22:39.000Z
+- [La caída de reservas anticipa un crudo a 140 dólares en otoño](https://www.expansion.com/economia/2026/08/11/6a7b7d6ee5fdea26788b458f.html?utm_source=lootura.com) — 2026-08-12T08:28:54.000Z

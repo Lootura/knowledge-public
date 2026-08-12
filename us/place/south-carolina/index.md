@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### Wisconsin Democratic governor primary too close to call between Crowley, Hong
+
+Votes are still being counted in the Wisconsin Democratic primary for governor, with Rep. Francesca Hong and Milwaukee County Executive David Crowley separated by only a few hundred votes. NBC News’ Steve Kornacki looks at the numbers as well as races in South Carolina, Minnesota, and Connecticut.
+
+Date: 2026-08-12
 
 ### Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary
 
@@ -29,12 +35,6 @@ Date: 2026-08-11
 ### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
 
 Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
-
-Date: 2026-08-11
-
-### All Eyes on Key Midterm Primaries in Wisconsin and Minnesota
-
-Voters are heading to the polls in another round of competitive primary races in the build-up to November’s midterm elections. In Wisconsin and Minnesota, Democrats will once again decide between moderate and progressive candidates. Meanwhile, in South Carolina, Republicans will pick a replacement nominee for the late.
 
 Date: 2026-08-11
 
@@ -70,6 +70,6 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z
+- [Wisconsin Democratic governor primary too close to call between Crowley, Hong](https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com) — 2026-08-12T05:20:43.000Z
 - [What to watch in primaries in Wisconsin and Minnesota and beyond](https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond?utm_source=lootura.com) — 2026-08-11T20:33:44.000Z
 - [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z

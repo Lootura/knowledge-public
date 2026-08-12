@@ -70,6 +70,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-11T19:54:00.000Z
-- [Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much](https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much?utm_source=lootura.com) — 2026-08-11T19:04:37.000Z
-- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas](https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com) — 2026-08-12T00:00:13.000Z
+No public source links.

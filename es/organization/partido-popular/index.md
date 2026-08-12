@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z
-- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+No public source links.

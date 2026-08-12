@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-08-09
 
 ## Sources
 
-- [U.S. Marine veteran freed from Russian prison after nearly 4 years](https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com) — 2026-08-11T16:36:40.000Z
+- [Former U.S. Marine held in Russia on disputed charges has been released](https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia?utm_source=lootura.com) — 2026-08-12T05:27:13.000Z
 - [Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles](https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com) — 2026-08-11T20:16:50.000Z

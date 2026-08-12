@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura](https://theobjective.com/internacional/2026-08-11/venezuela-israel-relaciones-diplomaticas-17-anos/?utm_source=lootura.com) — 2026-08-11T18:23:11.000Z
+No public source links.

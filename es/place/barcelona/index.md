@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno
+
+Barcelona ofrece una forma diferente de vivir el eclipse solar del 12 de agosto sin mirar al cielo ni utilizar gafas especiales. Una experiencia inmersiva permite adelantarse al fenómeno -o revivirlo después- durante 45 minutos , con sesiones diarias disponibles hasta diciembre. La propuesta se encuentra en el Museu de.
+
+Date: 2026-08-12
+
+### Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy
+
+Conoce la previsión completa del tiempo que hará hoy en Barcelona según los datos de la AEMET para prepararte para el día.
+
+Date: 2026-08-12
 
 ### Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos
 
@@ -56,18 +68,7 @@ En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona
 
 Date: 2026-08-10
 
-### Sara Gallego sale del laberinto
-
-Sara Gallego (Barcelona, 25 años) ha perdido la cuenta de las horas que ha echado entre médicos y fisioterapeutas. También de las lágrimas derramadas. Durante tres años, su carrera se convirtió en un laberinto irresoluble a causa de las lesiones. Quien parecía una de las grandes promesas del atletismo español, plusmarq.
-
-Date: 2026-08-10
-
-### Un hombre increpa a gritos a Elías Bendodo en un acto del PP en Barcelona
-
-Un hombre ha increpado este lunes en un acto del PP a Elías Bendodo , vicesecretario general de Política Autonómica y Municipal de los populares, mientras comparecía en Barcelona junto al candidato del partido en la Ciudad Condal, Daniel Sirera . El individuo ha dicho no recibir ninguna ayuda del Gobierno y, haciendo f.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno](https://www.elconfidencial.com/espana/cataluna/2026-08-12/plan-barcelona-eclipse-antes-y-despues-1tna-1qrt_4403827/?utm_source=lootura.com) — 2026-08-12T05:53:00.000Z
+- [Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy](https://okdiario.com/cataluna/aemet-cielo-poco-nuboso-y-posibilidad-de-tormentas-en-barcelona-esta-tarde-19165694/amp?utm_source=lootura.com) — 2026-08-12T05:20:26.000Z

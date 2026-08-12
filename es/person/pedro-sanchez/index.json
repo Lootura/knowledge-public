@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas",
+      "summary": "Una veinteañera entra con sus padres en la joyería de José Luis Sánchez, en A Coruña, y no saldrá de allí sin un diamante, por pequeño que sea. Lo llevará en una gargantilla durante la ceremonia de graduación en la universidad. El presupuesto es ajustado, unos 1.200 euros, y las aspiraciones son modestas. Buscan una pi.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "¿Y si Putin tomara ejemplo de Marruecos?",
+      "summary": "La entrada de más de 72.000 inmigrantes en la ciudad española de Ceuta ha sido interpretada por Sánchez y su colega el rey Mohamed VI de Marruecos como una gamberrada organizada por unos chavales jugando con las redes sociales. Sin embargo, cualquiera que haya visto las imágenes no tendrá la menor duda de que se trata.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Manual de dimisión",
       "summary": "Las respuestas a los mensajitos de Sánchez de libros recomendados: \"Le aconsejo leer cómo se marcha y convoca elecciones\".",
@@ -56,30 +66,20 @@
       "title": "El ocio de Pedro Sánchez durante sus vacaciones irrita en el PSOE por Ceuta",
       "summary": "Críticas por la imagen en plena crisis migratoria. Las fuentes consultadas ponen en duda la oportunidad de los contenidos difundidos en las redes del presidente.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Vox alienta una causa por \"traición\" contra Sánchez y se abre a colaborar con otros partidos por Marruecos",
-      "summary": "Vox eleva su apuesta para que Pedro Sánchez sea juzgado por un supuesto delito de traición contra la seguridad del Estado por la violación territorial de Ceuta. Fuentes de la formación de Santiago Abascal confirman a El Confidencial que el partido está dispuesto a tender su mano a diputados de distinto signo político p.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Manual de dimisión",
-      "url": "https://www.larazon.es/espana/manual-dimision_202608126a7b39bfa046ad6ebcabc677.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:34:57.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-12/los-diamantes-ven-esfumarse-en-tres-anos-la-mitad-de-su-valor-ante-el-auge-de-las-copias-sinteticas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite",
-      "url": "https://www.larazon.es/espana/pedro-sanchez-blinda-sus-vacaciones-mareta-120-agentes-elite_202608126a7bc59fa5690f0473750cef.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:00:15.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "¿Y si Putin tomara ejemplo de Marruecos?",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-12/putin-ejemplo-marruecos-articulo-esperanza-aguirre/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

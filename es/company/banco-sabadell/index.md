@@ -58,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Sabadell y Amundi amplían su alianza en fondos hasta 2035](https://www.expansion.com/mercados/fondos/2026/08/12/6a7b9c89468aeb0f7b8b4592.html?utm_source=lootura.com) — 2026-08-11T22:38:22.000Z
+No public source links.

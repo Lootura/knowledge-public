@@ -1,0 +1,45 @@
+{
+  "id": "usa-ellen-schmidt",
+  "name": "Ellen Schmidt",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/ellen-schmidt",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/ellen-schmidt",
+  "markdownUrl": "https://atlas.lootura.com/us/person/ellen-schmidt/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/ellen-schmidt/index.json",
+  "description": "Follow Ellen Schmidt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+      "summary": "Lindell had President Trump's endorsement but he lost to Lisa Demuth, the speaker of the state house. She'll face Democratic Sen. Amy Klobuchar in the fall for governor. (Image credit: Ellen Schmidt).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ellen Schmidt first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T03:28:31.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

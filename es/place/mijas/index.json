@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/mijas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/mijas/index.json",
   "description": "Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-08-12T09:08:34.474Z",
   "aliases": [
     "Mijas Pueblo"
   ],
   "changes": [
+    {
+      "title": "Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)",
+      "summary": "Un hombre de 25 años ha muerto en el hospital tras ser apuñalado en una vivienda de Mijas (Málaga), según confirmaron este miércoles a EFE fuentes cercanas a la investigación . El 112 recibió a las 20:35 horas del lunes un aviso por la agresión sufrida por un joven en la urbanización Mijas Golf. El centro coordinador a.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Detienen a un hombre relacionado con la muerte de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección",
       "summary": "Este martes se está realizando el estudio y la inspección ocular de una furgoneta y también se le tomará declaración al detenido Leer.",
@@ -49,6 +54,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-12/apunalamiento-mijas-hospital-malaga-1tna-1tps_4404797/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:21:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

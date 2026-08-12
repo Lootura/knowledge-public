@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Maine lifeguard "started swimming like hell" when shark pulled him underwater](https://www.cbsnews.com/news/maine-lifeguard-shark-attack-sightings-warning/?utm_source=lootura.com) — 2026-08-11T16:53:32.000Z
+No public source links.

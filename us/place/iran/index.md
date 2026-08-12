@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,23 +14,23 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-12
 
-### Morning news brief
+### Are hacks of U.S. water facilities a new front in the Iran war?
 
-Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.
+A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).
 
-Date: 2026-08-11
+Date: 2026-08-12
+
+### Product availability changed in Europe
+
+Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.
+
+Date: 2026-08-12
 
 ### NATO spending pressure returned
 
-President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
+The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
 
-Date: 2026-08-11
-
-### Secret Service operation to swap Trump’s planes amid Iran threat
-
-We are learning new details about the elaborate Secret Service operation to swap President Trump’s planes amid an Iranian assassination threat. NBC News’ Garrett Haake reports.
-
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### U.S. stocks edge further from their records as oil prices keep swinging
 
@@ -72,11 +72,11 @@ Date: 2026-08-11
 
 - [Trump secretly switched to different plane in Turkey amid Iran missile threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-12T01:41:40.000Z
 - [Secret Service operation to swap Trump’s planes amid Iran threat](https://www.nbcnews.com/nightly-news/video/secret-service-operation-to-swap-trump-s-planes-amid-iran-threat-268148293534?utm_source=lootura.com) — 2026-08-11T23:02:08.000Z
-- [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
+- [Are hacks of U.S. water facilities a new front in the Iran war?](https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
+- [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
 - [U.S. stocks edge further from their records as oil prices keep swinging](https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging?utm_source=lootura.com) — 2026-08-11T21:59:54.000Z
 - [How a catering truck helped Trump secretly switch planes amid threat from Iran](https://www.pbs.org/newshour/show/how-a-catering-truck-helped-trump-secretly-switch-planes-amid-threat-from-iran?utm_source=lootura.com) — 2026-08-11T22:55:29.000Z
 - [Top adviser to Iran's Revolutionary Guard leader sits down for rare interview](https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview?utm_source=lootura.com) — 2026-08-11T22:40:26.000Z
-- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
 - [The U.S. Missile Stockpile Is Dangerously Low](https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html?utm_source=lootura.com) — 2026-08-11T10:00:14.000Z
 - [How Iran Adapted Its Attacks as U.S. War Munitions Dwindled](https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html?utm_source=lootura.com) — 2026-08-11T21:24:46.000Z
 - [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html?utm_source=lootura.com) — 2026-08-11T16:46:36.000Z

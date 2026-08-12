@@ -70,5 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol](https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html?utm_source=lootura.com) — 2026-08-11T15:53:57.000Z
-- [Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes](https://theobjective.com/espana/2026-08-11/defensa-xunta-fabrica-china-ferrol-informes/?utm_source=lootura.com) — 2026-08-11T17:07:14.000Z
+No public source links.

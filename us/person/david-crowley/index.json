@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/david-crowley/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/david-crowley/index.json",
   "description": "Follow David Crowley, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today",
-      "summary": "South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
-      "date": "2026-08-12"
-    },
     {
       "title": "Areas to Watch in Wisconsin’s Democratic Primary for Governor",
       "summary": "A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.",
@@ -25,21 +20,53 @@
       "title": "Discovered by Atlas",
       "summary": "David Crowley first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-12"
+    },
+    {
+      "title": "Wisconsin Democratic governor primary too close to call between Crowley, Hong",
+      "summary": "Votes are still being counted in the Wisconsin Democratic primary for governor, with Rep. Francesca Hong and Milwaukee County Executive David Crowley separated by only a few hundred votes. NBC News’ Steve Kornacki looks at the numbers as well as races in South Carolina, Minnesota, and Connecticut.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+      "summary": "David Crowley is the Milwaukee County Executive and could become the state's first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support. (Image credit: Kayla Wolf).",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Crowley Beats Hong in Wisconsin Gubernatorial Democratic Primary",
+      "summary": "Democratic Wisconsin gubernatorial candidate David Crowley greets supporters at a campaign rally in Milwaukee on August 10, 2026. —Scott Olson—Getty Images Milwaukee County Executive David Crowley has won the Democratic primary race for Wisconsin’s governorship, toppling his Democratic socialist opponent, Francesca Hon.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today",
+      "summary": "South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
+      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today",
-      "url": "https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T01:41:38.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Wisconsin Democratic governor primary too close to call between Crowley, Hong",
+      "url": "https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T05:20:43.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:06:55.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Areas to Watch in Wisconsin’s Democratic Primary for Governor",
       "url": "https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-counties.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T01:19:47.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Crowley Beats Hong in Wisconsin Gubernatorial Democratic Primary",
+      "url": "https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T08:00:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

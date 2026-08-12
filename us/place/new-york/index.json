@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -86,10 +86,10 @@
   ],
   "sources": [
     {
-      "title": "Family of NYC fashion designer found dead on Montauk boat to file wrongful death lawsuit",
-      "url": "https://www.nbcnews.com/news/us-news/family-nyc-fashion-designer-found-dead-montauk-boat-file-wrongful-deat-rcna591897?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T19:00:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "How a Staten Island Lawsuit Is Challenging Mamdani’s Second-Home Tax",
+      "url": "https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:25:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles
+
+Este miércoles comienza a aplicarse el reglamento sobre envases y residuos (PPWR, por sus siglas en inglés) en todos los países da la Unión Europea. Esta legislación, que reemplaza una directiva sobre reciclaje de 1994, tiene como finalidad disminuir los residuos de recipientes de forma paulatina de ahora y hasta 2040.
+
+Date: 2026-08-12
+
+### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.
+
+Date: 2026-08-12
 
 ### La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta
 
@@ -56,18 +68,7 @@ Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras
 
 Date: 2026-08-08
 
-### La mitad de los coches que circulan por España supera ya los 15 años de antigüedad
-
-El parque automovilístico español continúa sumido en un preocupante envejecimiento estructural que amenaza los compromisos de seguridad vial, la reducción de emisiones contaminantes y las metas de electrificación fijadas por la Unión Europea. Según los datos oficiales contenidos en el Informe Anual 2025 elaborado por l.
-
-Date: 2026-08-07
-
-### Mohamed VI como el pájaro cuco
-
-En octubre de 2018, en mi etapa como eurodiputada, viajé a Ceuta junto a Javier Nart para conocer sobre el terreno los problemas de la frontera terrestre de la Unión Europea en África. El objetivo era recoger las peticiones del Sindicato Unificado de Policía y trasladar al Parlamento Europeo la necesidad de que la UE a.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles](https://elpais.com/economia/2026-08-12/el-principio-del-fin-para-los-sobres-de-ketchup-y-mayonesa-claves-de-la-ley-de-envases-que-echa-a-andar-este-miercoles.html?utm_source=lootura.com) — 2026-08-12T03:45:01.000Z
+- [Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas](https://theobjective.com/espana/politica/2026-08-12/albares-75-espanoles-sin-localizar-colombia-millon-ayudas/?utm_source=lootura.com) — 2026-08-12T08:31:38.000Z

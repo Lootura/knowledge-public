@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Cómo los mapas han definido el 2026
+
+El intervencionismo estadounidense, la guerra en Oriente Próximo o la crisis migratoria en Ceuta tienen un trasfondo cartográfico.
+
+Date: 2026-08-12
 
 ### El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte
 
@@ -62,12 +68,6 @@ La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un pos
 
 Date: 2026-08-07
 
-### El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU
-
-La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Cómo los mapas han definido el 2026](https://elordenmundial.com/blitz-como-mapas-definido-2026-geopolitica/?utm_source=lootura.com) — 2026-08-12T07:46:44.000Z

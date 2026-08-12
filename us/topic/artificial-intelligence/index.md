@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-12
 ### AI tools speed up analysis, but scientific truths must be grounded in reality
 
 Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.
+
+Date: 2026-08-12
+
+### AI chatbots are offering financial advice. Should you trust them?
+
+Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).
 
 Date: 2026-08-12
 
@@ -62,16 +68,8 @@ Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tool
 
 Date: 2026-08-11
 
-### Mark Zuckerberg's vision of superintelligent AI for everyone
-
-Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in the hands of everyone, not just a few companies or governments. Charles Rollet, tech correspondent for Business Insider, joins CBS News to discuss.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Will AI make our dreams all look the same?](https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com) — 2026-08-12T01:43:45.777Z
-- [AI tools speed up analysis, but scientific truths must be grounded in reality](https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com) — 2026-08-12T01:43:45.777Z
-- [AI-assisted grant proposals may win more often—while narrowing research ideas](https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html?utm_source=lootura.com) — 2026-08-11T23:20:03.000Z
-- [Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains](https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html?utm_source=lootura.com) — 2026-08-11T23:40:02.000Z
-- [Real-time X-ray data analysis with DONUT accelerates materials science](https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html?utm_source=lootura.com) — 2026-08-11T23:20:01.000Z
+- [Will AI make our dreams all look the same?](https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com) — 2026-08-12T09:08:59.281Z
+- [AI tools speed up analysis, but scientific truths must be grounded in reality](https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com) — 2026-08-12T09:08:59.280Z
+- [AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z

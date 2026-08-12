@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Send your questions for Keir Simmons](https://www.nbcnews.com/world/saudi-arabia/keir-simmons-qa-saudi-arabia-rcna591894?utm_source=lootura.com) — 2026-08-11T16:23:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas
+
+Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que persigue desde 2020, cuando la pandemia y el auge que esta provocó sobre el comercio online disparó su valoración empresarial hasta rozar los 100.000 millones de dólares en 2022. Tras intentarlo sin éxito en los mercados de Nueva York y Lon.
+
+Date: 2026-08-12
 
 ### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
 
@@ -62,12 +68,6 @@ El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , l
 
 Date: 2026-08-02
 
-### Vicente Pastore, actor conocido por su papel en ‘Los Soprano’, fallece a los 80 años
-
-El actor estadounidense Vincent Pastore , recordado popularmente por su papel de Salvatore ‘Big Pussy’ Bonpensiero en la aclamada serie ‘Los Soprano’ , ha sido hallado sin vida este sábado en su residencia del barrio del Bronx, en Nueva York. Ha sido un vecino quien ha encontrado el cuerpo en su vivienda tras varios dí.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas](https://elpais.com/economia/2026-08-12/inditex-contra-shein-por-que-el-gigante-espanol-quintuplica-los-beneficios-del-asiatico-con-solo-un-10-mas-de-ventas.html?utm_source=lootura.com) — 2026-08-12T03:45:00.000Z

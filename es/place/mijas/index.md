@@ -3,10 +3,16 @@
 > Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/place/mijas
 
 ## Cambios recientes
+
+### Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)
+
+Un hombre de 25 años ha muerto en el hospital tras ser apuñalado en una vivienda de Mijas (Málaga), según confirmaron este miércoles a EFE fuentes cercanas a la investigación . El 112 recibió a las 20:35 horas del lunes un aviso por la agresión sufrida por un joven en la urbanización Mijas Golf. El centro coordinador a.
+
+Date: 2026-08-12
 
 ### Detienen a un hombre relacionado con la muerte de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección
 
@@ -52,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-08-12/apunalamiento-mijas-hospital-malaga-1tna-1tps_4404797/?utm_source=lootura.com) — 2026-08-12T08:21:00.000Z

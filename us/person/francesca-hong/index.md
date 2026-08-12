@@ -3,16 +3,10 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
-
-### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
-
-South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
-
-Date: 2026-08-12
 
 ### Areas to Watch in Wisconsin’s Democratic Primary for Governor
 
@@ -23,6 +17,36 @@ Date: 2026-08-12
 ### In Wisconsin Governor Primary, Polls Have Shown a Progressive Democrat With a Big Lead
 
 Francesca Hong, a democratic socialist, has consistently led in a Democratic primary that struggled to settle on a field of candidates.
+
+Date: 2026-08-12
+
+### Wisconsin Democratic governor primary too close to call between Crowley, Hong
+
+Votes are still being counted in the Wisconsin Democratic primary for governor, with Rep. Francesca Hong and Milwaukee County Executive David Crowley separated by only a few hundred votes. NBC News’ Steve Kornacki looks at the numbers as well as races in South Carolina, Minnesota, and Connecticut.
+
+Date: 2026-08-12
+
+### In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor
+
+David Crowley is the Milwaukee County Executive and could become the state's first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support. (Image credit: Kayla Wolf).
+
+Date: 2026-08-12
+
+### The far left hits a wall
+
+After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stunning loss in Wisconsin’s Democratic gubernatorial primary Tuesday night revealed limits to the far left’s power — and is undercutting the narrative of an emerging insurgency. While progressive Peggy Flanagan cruised by 20 points in Minnesota.
+
+Date: 2026-08-12
+
+### What to Know About David Crowley, the Democratic Candidate for Wisconsin Governor
+
+The Milwaukee County executive, who won a tight primary race against Francesca Hong early Wednesday, could become the first Black governor of Wisconsin.
+
+Date: 2026-08-12
+
+### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
+
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
 
 Date: 2026-08-12
 
@@ -44,32 +68,11 @@ Rep. Alexandria Ocasio-Cortez , D-N.Y., dismissed her and other socialist politi
 
 Date: 2026-08-10
 
-### Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday
-
-KENOSHA, Wisconsin — The progressive movement’s midterms march has arrived in Wisconsin, where a democratic socialist is forcing establishment Democrats to mount an all-out, last-ditch effort to stop her. State Rep. Francesca Hong is the front-runner to become the Democratic gubernatorial nominee, fueled by a populist.
-
-Date: 2026-08-09
-
-### Data centers are a political issue crossing party lines, driving voters to candidates
-
-Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns. (Image credit: Mario Tama).
-
-Date: 2026-08-08
-
-### What's at stake for Democrats in next week's Wisconsin primary
-
-More states will hold primary elections next week, including Wisconsin, where democratic socialist Francesca Hong is leading several polls in her run for governor. CBS News' Zak Hudak takes a look at the race as the countdown to the midterm elections continues.
-
-Date: 2026-08-07
-
-### Discovered by Atlas
-
-Francesca Hong first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-05
-
 ## Sources
 
-- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
+- [Wisconsin Democratic governor primary too close to call between Crowley, Hong](https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839?utm_source=lootura.com) — 2026-08-12T05:20:43.000Z
+- [In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor](https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong?utm_source=lootura.com) — 2026-08-12T08:06:55.000Z
+- [The far left hits a wall](https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com) — 2026-08-12T07:54:42.000Z
+- [What to Know About David Crowley, the Democratic Candidate for Wisconsin Governor](https://www.nytimes.com/2026/08/11/us/politics/david-crowley-wisconsin-governor.html?utm_source=lootura.com) — 2026-08-12T08:38:47.000Z
 - [Areas to Watch in Wisconsin’s Democratic Primary for Governor](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-counties.html?utm_source=lootura.com) — 2026-08-12T01:19:47.000Z
 - [In Wisconsin Governor Primary, Polls Have Shown a Progressive Democrat With a Big Lead](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-polling.html?utm_source=lootura.com) — 2026-08-12T01:11:27.000Z

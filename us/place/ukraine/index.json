@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-12T09:08:54.968Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -69,12 +69,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates",
-      "url": "https://www.pbs.org/newshour/world/over-16000-civilians-detained-by-russia-during-the-war-in-ukraine-are-still-held-un-estimates?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T19:50:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
     {
       "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
       "url": "https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com",

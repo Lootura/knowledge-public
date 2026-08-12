@@ -3,7 +3,7 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z
 - [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z

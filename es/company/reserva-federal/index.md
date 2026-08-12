@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-12T09:08:34.474Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Ibex duda en zona de máximos en el día de la inflación de EE UU
+
+Los precios del petróleo suben el miércoles a medida que aumentaban las tensiones geopolíticas antes de la publicación de datos clave sobre la inflación en EE UU, cuyo dato dará pistas sobre el momento oportuno para una posible subida de tipos de la Reserva Federal. Seguir leyendo.
+
+Date: 2026-08-12
 
 ### El silencio de Kevin Warsh se vuelve en su contra
 
@@ -62,12 +68,6 @@ Después de un julio de sobresaltos, que se despidió con los inversores tratand
 
 Date: 2026-08-02
 
-### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
-
-Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [El Ibex duda en zona de máximos en el día de la inflación de EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-12/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-12T07:54:01.000Z

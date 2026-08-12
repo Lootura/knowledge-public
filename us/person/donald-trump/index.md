@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,12 +11,6 @@
 ### Product availability changed in Europe
 
 Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
-
-Date: 2026-08-12
-
-### Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers
-
-Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.
 
 Date: 2026-08-12
 
@@ -32,51 +26,57 @@ Some of President Trump’s top officials traveled on the original Air Force One
 
 Date: 2026-08-12
 
-### Morning news brief
+### Product availability changed in Europe
 
-Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.
+Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole
+### Product availability changed in Europe
 
-Plus, when you accidentally upset “Harry Potter” fans.
+NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey.
 
-Date: 2026-08-11
+Date: 2026-08-12
+
+### Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth
+
+Lindell had President Trump's endorsement but he lost to Lisa Demuth, the speaker of the state house. She'll face Democratic Sen. Amy Klobuchar in the fall for governor. (Image credit: Ellen Schmidt).
+
+Date: 2026-08-12
 
 ### NATO spending pressure returned
 
-President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
+President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans
+### Lisa Demuth Wins Republican Primary for Governor of Minnesota
 
-President Trump was part of a particularly elaborate deception last month, boarding one jet before being spirited away to another.
+Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Trump Picks Project 2025 Co-Author for Role That Would Oversee Any Reflecting Pool Review
+### NATO spending pressure returned
 
-Dennis Kirk, a former adviser to Tulsi Gabbard, is President Trump’s nominee for inspector general for the Interior Department.
+The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Secret Service operation to swap Trump’s planes amid Iran threat
+### He Was Deported to Eswatini in Southern Africa. He May Never Go Free.
 
-We are learning new details about the elaborate Secret Service operation to swap President Trump’s planes amid an Iranian assassination threat. NBC News’ Garrett Haake reports.
+As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ## Sources
 
 - [Trump secretly switched to different plane in Turkey amid Iran missile threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-12T01:41:40.000Z
 - [Secret Service operation to swap Trump’s planes amid Iran threat](https://www.nbcnews.com/nightly-news/video/secret-service-operation-to-swap-trump-s-planes-amid-iran-threat-268148293534?utm_source=lootura.com) — 2026-08-11T23:02:08.000Z
-- [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
+- [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
+- [Former Secret Service agent discusses Trump's Air Force One switch](https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch?utm_source=lootura.com) — 2026-08-12T08:46:16.000Z
 - [5 questions parents may have after Trump's latest vaccine move](https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion?utm_source=lootura.com) — 2026-08-11T20:20:25.000Z
+- [Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth](https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell?utm_source=lootura.com) — 2026-08-12T03:28:31.000Z
+- [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
 - [A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order](https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps?utm_source=lootura.com) — 2026-08-11T21:11:09.000Z
-- [Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much](https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much?utm_source=lootura.com) — 2026-08-11T19:04:37.000Z
 - [The effectiveness and cost of the National Guard deployment in D.C.](https://www.pbs.org/newshour/show/the-effectiveness-and-cost-of-the-national-guard-deployment-in-d-c?utm_source=lootura.com) — 2026-08-11T22:35:32.000Z
 - [How a catering truck helped Trump secretly switch planes amid threat from Iran](https://www.pbs.org/newshour/show/how-a-catering-truck-helped-trump-secretly-switch-planes-amid-threat-from-iran?utm_source=lootura.com) — 2026-08-11T22:55:29.000Z
-- [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
-- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com) — 2026-08-12T00:33:30.000Z

@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Anthropic firma un acuerdo con la minera cripto Riot Platforms para explotar sus centros de datos](https://cincodias.elpais.com/criptoactivos/2026-08-11/anthropic-firma-un-acuerdo-con-la-minera-cripto-riot-platforms-para-explotar-sus-centros-de-datos.html?utm_source=lootura.com) — 2026-08-11T17:01:00.000Z
+No public source links.

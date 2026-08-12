@@ -3,10 +3,22 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-12T09:08:54.968Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### What to know about today's total solar eclipse
+
+The only total solar eclipse of 2026 will cross the Northern Hemisphere on Wednesday, Aug. 12, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.
+
+Date: 2026-08-12
+
+### Total solar eclipse to spellbind Europe
+
+Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.
+
+Date: 2026-08-12
 
 ### What to know about Wednesday's total solar eclipse
 
@@ -56,18 +68,7 @@ Suddenly, the world is plunged into an eerie, violet darkness. The temperature d
 
 Date: 2026-08-05
 
-### Two Cities With a Tangled History
-
-Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.
-
-Date: 2026-08-05
-
-### Spain to put containment fence around Ceuta after deadly border rush from Morocco
-
-Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [What to know about Wednesday's total solar eclipse](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-11T18:51:00.000Z
+- [What to know about today's total solar eclipse](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-12T07:08:11.000Z
+- [Total solar eclipse to spellbind Europe](https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html?utm_source=lootura.com) — 2026-08-12T08:40:01.000Z
