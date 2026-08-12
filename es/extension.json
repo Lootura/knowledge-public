@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T01:57:38.587Z",
+  "generatedAt": "2026-08-12T03:48:28.542Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|122|1786499000479",
+    "signature": "1.18.0|123|1786499000479",
     "version": "1.18.0",
-    "build": 122,
+    "build": 123,
     "latestEntityUpdatedAt": "2026-08-12T01:43:20.479Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/donald-trump",
       "path": "/es/person/donald-trump",
       "updatedAt": "2026-08-12T01:43:20.479Z",
-      "score": 1704,
+      "score": 1695,
       "sourceCount": 214,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
         "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1676,
+        "score": 1667,
         "sourceCount": 182,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1653,
+        "score": 1645,
         "sourceCount": 691,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/colombia",
         "path": "/es/place/colombia",
         "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1647,
+        "score": 1638,
         "sourceCount": 95,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/margarita-robles",
         "path": "/es/person/margarita-robles",
         "updatedAt": "2026-08-12T01:43:20.479Z",
-        "score": 1646,
+        "score": 1637,
         "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false

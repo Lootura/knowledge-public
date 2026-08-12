@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T01:57:34.174Z",
+  "generatedAt": "2026-08-12T03:48:24.901Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|122|1786499021443",
+    "signature": "1.18.0|123|1786499021443",
     "version": "1.18.0",
-    "build": 122,
+    "build": 123,
     "latestEntityUpdatedAt": "2026-08-12T01:43:41.443Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
       "updatedAt": "2026-08-12T01:43:41.443Z",
-      "score": 1750,
+      "score": 1741,
       "sourceCount": 706,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
         "updatedAt": "2026-08-12T01:43:41.443Z",
-        "score": 1750,
+        "score": 1741,
         "sourceCount": 395,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/us/concept/air-force-one",
         "path": "/us/concept/air-force-one",
         "updatedAt": "2026-08-12T01:43:41.443Z",
-        "score": 1720,
+        "score": 1711,
         "sourceCount": 28,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-08-12T01:43:41.443Z",
-        "score": 1708,
+        "score": 1699,
         "sourceCount": 722,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/us/organization/nato",
         "path": "/us/organization/nato",
         "updatedAt": "2026-08-12T01:43:41.443Z",
-        "score": 1698,
+        "score": 1689,
         "sourceCount": 32,
         "isBreaking": false,
         "isPinned": false
